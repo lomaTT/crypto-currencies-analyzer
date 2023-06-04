@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-14</Date>
+    <Open>0.0125673</Open>
+    <High>0.0128008</High>
+    <Low>0.0111277</Low>
+    <Close>0.0125724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-15</Date>
+    <Open>0.0125923</Open>
+    <High>0.013354</High>
+    <Low>0.0123028</Low>
+    <Close>0.013354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-16</Date>
+    <Open>0.0133526</Open>
+    <High>0.0137848</High>
+    <Low>0.0118222</Low>
+    <Close>0.0121542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-17</Date>
+    <Open>0.0122141</Open>
+    <High>0.0132741</High>
+    <Low>0.0117723</Low>
+    <Close>0.0129731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-18</Date>
+    <Open>0.0130031</Open>
+    <High>0.0133926</High>
+    <Low>0.0113452</Low>
+    <Close>0.0114251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-19</Date>
+    <Open>0.011424</Open>
+    <High>0.0124088</High>
+    <Low>0.0109358</Low>
+    <Close>0.0122477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-20</Date>
+    <Open>0.012209</Open>
+    <High>0.0129058</High>
+    <Low>0.0112454</Low>
+    <Close>0.0114662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-21</Date>
+    <Open>0.0114851</Open>
+    <High>0.0125537</High>
+    <Low>0.0113164</Low>
+    <Close>0.0120843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-22</Date>
+    <Open>0.0120431</Open>
+    <High>0.0129644</High>
+    <Low>0.0120132</Low>
+    <Close>0.0126648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-23</Date>
+    <Open>0.0127147</Open>
+    <High>0.0134665</High>
+    <Low>0.0123252</Low>
+    <Close>0.012515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-24</Date>
+    <Open>0.0124351</Open>
+    <High>0.0126661</High>
+    <Low>0.0115673</Low>
+    <Close>0.0121841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-25</Date>
+    <Open>0.0121742</Open>
+    <High>0.0125649</High>
+    <Low>0.011817</Low>
+    <Close>0.0121953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-26</Date>
+    <Open>0.0122265</Open>
+    <High>0.0122265</High>
+    <Low>0.0106971</Low>
+    <Close>0.0113586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-27</Date>
+    <Open>0.0113475</Open>
+    <High>0.0114186</High>
+    <Low>0.0105994</Low>
+    <Close>0.010969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-28</Date>
+    <Open>0.0109175</Open>
+    <High>0.0112565</High>
+    <Low>0.0107084</Low>
+    <Close>0.0110172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-29</Date>
+    <Open>0.0110069</Open>
+    <High>0.0118569</High>
+    <Low>0.0107292</Low>
+    <Close>0.0118379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-30</Date>
+    <Open>0.0118468</Open>
+    <High>0.012791</High>
+    <Low>0.011787</Low>
+    <Close>0.0126599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-05-31</Date>
+    <Open>0.0126499</Open>
+    <High>0.0129496</High>
+    <Low>0.0121303</Low>
+    <Close>0.0126798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-01</Date>
+    <Open>0.0127001</Open>
+    <High>0.0129608</High>
+    <Low>0.0111888</Low>
+    <Close>0.0112399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-02</Date>
+    <Open>0.0112203</Open>
+    <High>0.0115896</High>
+    <Low>0.0110201</Low>
+    <Close>0.0112499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-03</Date>
+    <Open>0.0112499</Open>
+    <High>0.0114814</High>
+    <Low>0.0105716</Low>
+    <Close>0.0110205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-04</Date>
+    <Open>0.0110105</Open>
+    <High>0.0113308</High>
+    <Low>0.010569</Low>
+    <Close>0.0110516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-05</Date>
+    <Open>0.0110718</Open>
+    <High>0.0114508</High>
+    <Low>0.0108625</Low>
+    <Close>0.0113293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-06</Date>
+    <Open>0.0113193</Open>
+    <High>0.0121002</High>
+    <Low>0.0111494</Low>
+    <Close>0.0116502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-07</Date>
+    <Open>0.0116502</Open>
+    <High>0.0135678</High>
+    <Low>0.0107908</Low>
+    <Close>0.0127196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-08</Date>
+    <Open>0.0127194</Open>
+    <High>0.0129603</High>
+    <Low>0.0116717</Low>
+    <Close>0.0120522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-09</Date>
+    <Open>0.0120322</Open>
+    <High>0.0128901</High>
+    <Low>0.0117213</Low>
+    <Close>0.0121898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-10</Date>
+    <Open>0.0121696</Open>
+    <High>0.012439</High>
+    <Low>0.0112281</Low>
+    <Close>0.0116652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-11</Date>
+    <Open>0.011665</Open>
+    <High>0.0118672</High>
+    <Low>0.0102182</Low>
+    <Close>0.0105179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-12</Date>
+    <Open>0.010518</Open>
+    <High>0.0108654</High>
+    <Low>0.0096782</Low>
+    <Close>0.0102074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-13</Date>
+    <Open>0.0101775</Open>
+    <High>0.0102275</High>
+    <Low>0.0086143</Low>
+    <Close>0.009337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-14</Date>
+    <Open>0.0093471</Open>
+    <High>0.0102346</High>
+    <Low>0.008647</Low>
+    <Close>0.0090791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-15</Date>
+    <Open>0.0090691</Open>
+    <High>0.0097773</High>
+    <Low>0.0085654</Low>
+    <Close>0.0097154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-16</Date>
+    <Open>0.0097154</Open>
+    <High>0.00985914</High>
+    <Low>0.00901916</Low>
+    <Close>0.00917805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-17</Date>
+    <Open>0.00893756</Open>
+    <High>0.0095275</High>
+    <Low>0.00884777</Low>
+    <Close>0.00922891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-18</Date>
+    <Open>0.00922891</Open>
+    <High>0.00942886</High>
+    <Low>0.00800813</Low>
+    <Close>0.00868591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-19</Date>
+    <Open>0.00867592</Open>
+    <High>0.00964841</High>
+    <Low>0.00852634</Low>
+    <Close>0.00946768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-20</Date>
+    <Open>0.00946862</Open>
+    <High>0.00980019</High>
+    <Low>0.0089883</Low>
+    <Close>0.00949954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-21</Date>
+    <Open>0.00952855</Open>
+    <High>0.0105694</High>
+    <Low>0.00938872</Low>
+    <Close>0.0100789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-22</Date>
+    <Open>0.0101299</Open>
+    <High>0.0103696</High>
+    <Low>0.0093906</Low>
+    <Close>0.00951048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-23</Date>
+    <Open>0.00956043</Open>
+    <High>0.0103796</High>
+    <Low>0.0093906</Low>
+    <Close>0.0102098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-24</Date>
+    <Open>0.0102298</Open>
+    <High>0.0113611</High>
+    <Low>0.0101898</Low>
+    <Close>0.0113112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-25</Date>
+    <Open>0.0113087</Open>
+    <High>0.011372</High>
+    <Low>0.0103728</Low>
+    <Close>0.0113321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-26</Date>
+    <Open>0.0113321</Open>
+    <High>0.0114621</High>
+    <Low>0.0105337</Low>
+    <Close>0.0107834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-27</Date>
+    <Open>0.0107834</Open>
+    <High>0.0107834</High>
+    <Low>0.0099908</Low>
+    <Close>0.0101311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-28</Date>
+    <Open>0.010191</Open>
+    <High>0.0103501</High>
+    <Low>0.00942029</Low>
+    <Close>0.00944836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-29</Date>
+    <Open>0.00945816</Open>
+    <High>0.00949878</High>
+    <Low>0.00893604</Low>
+    <Close>0.00935876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-06-30</Date>
+    <Open>0.00937873</Open>
+    <High>0.0094086</High>
+    <Low>0.00857935</Low>
+    <Close>0.00903914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-01</Date>
+    <Open>0.00903914</Open>
+    <High>0.00945054</High>
+    <Low>0.00879855</Low>
+    <Close>0.00913902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-02</Date>
+    <Open>0.0091699</Open>
+    <High>0.00927978</High>
+    <Low>0.00891019</Low>
+    <Close>0.00924889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-03</Date>
+    <Open>0.00924889</Open>
+    <High>0.00948765</High>
+    <Low>0.00888843</Low>
+    <Close>0.00931787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-04</Date>
+    <Open>0.00931787</Open>
+    <High>0.00958848</High>
+    <Low>0.00903824</Low>
+    <Close>0.00946862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-05</Date>
+    <Open>0.00945864</Open>
+    <High>0.00967934</High>
+    <Low>0.00904913</Low>
+    <Close>0.00950953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-06</Date>
+    <Open>0.00951856</Open>
+    <High>0.00986913</High>
+    <Low>0.00920986</Low>
+    <Close>0.00963939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-07</Date>
+    <Open>0.00964841</Open>
+    <High>0.0106436</High>
+    <Low>0.00964841</Low>
+    <Close>0.0104237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-08</Date>
+    <Open>0.0103738</Open>
+    <High>0.0108435</High>
+    <Low>0.0101639</Low>
+    <Close>0.0105736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-09</Date>
+    <Open>0.0105936</Open>
+    <High>0.0109334</High>
+    <Low>0.0103328</Low>
+    <Close>0.0108535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-10</Date>
+    <Open>0.0108535</Open>
+    <High>0.0109135</High>
+    <Low>0.00997401</Low>
+    <Close>0.0101439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-11</Date>
+    <Open>0.0101451</Open>
+    <High>0.0101839</High>
+    <Low>0.00931161</Low>
+    <Close>0.00934159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-12</Date>
+    <Open>0.00934159</Open>
+    <High>0.00935064</High>
+    <Low>0.00894105</Low>
+    <Close>0.00894105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-13</Date>
+    <Open>0.00894141</Open>
+    <High>0.00920079</High>
+    <Low>0.0084407</Low>
+    <Close>0.0089919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-14</Date>
+    <Open>0.0089919</Open>
+    <High>0.00940435</High>
+    <Low>0.00885291</Low>
+    <Close>0.00923446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-15</Date>
+    <Open>0.00923446</Open>
+    <High>0.0104269</High>
+    <Low>0.00922354</Low>
+    <Close>0.0104269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-16</Date>
+    <Open>0.0104169</Open>
+    <High>0.0117265</High>
+    <Low>0.00993602</Low>
+    <Close>0.010157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-17</Date>
+    <Open>0.010158</Open>
+    <High>0.0106076</High>
+    <Low>0.0099681</Low>
+    <Close>0.0101273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-18</Date>
+    <Open>0.0101273</Open>
+    <High>0.011069</High>
+    <Low>0.0099767</Low>
+    <Close>0.0106376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-19</Date>
+    <Open>0.0106376</Open>
+    <High>0.01159</High>
+    <Low>0.0106374</Low>
+    <Close>0.0115518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-20</Date>
+    <Open>0.01152</Open>
+    <High>0.0120616</High>
+    <Low>0.0107505</Low>
+    <Close>0.0110306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-21</Date>
+    <Open>0.0110306</Open>
+    <High>0.011152</High>
+    <Low>0.0105305</Low>
+    <Close>0.0110827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-22</Date>
+    <Open>0.0111227</Open>
+    <High>0.0116834</High>
+    <Low>0.0106314</Low>
+    <Close>0.0106523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-23</Date>
+    <Open>0.01067</Open>
+    <High>0.0109924</High>
+    <Low>0.0104014</Low>
+    <Close>0.010642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-24</Date>
+    <Open>0.0106211</Open>
+    <High>0.0109491</High>
+    <Low>0.0105707</Low>
+    <Close>0.010742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-25</Date>
+    <Open>0.0107521</Open>
+    <High>0.0109909</High>
+    <Low>0.0101916</Low>
+    <Close>0.0104508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-26</Date>
+    <Open>0.0104508</Open>
+    <High>0.010461</High>
+    <Low>0.0095604</Low>
+    <Close>0.0099015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-27</Date>
+    <Open>0.0099</Open>
+    <High>0.0105527</High>
+    <Low>0.0098407</Low>
+    <Close>0.0105124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-28</Date>
+    <Open>0.0105325</Open>
+    <High>0.0112637</High>
+    <Low>0.0104617</Low>
+    <Close>0.0111222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-29</Date>
+    <Open>0.0110929</Open>
+    <High>0.0118141</High>
+    <Low>0.0110829</Low>
+    <Close>0.0113046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-30</Date>
+    <Open>0.0113046</Open>
+    <High>0.0120542</High>
+    <Low>0.0111644</Low>
+    <Close>0.0115838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-07-31</Date>
+    <Open>0.0115939</Open>
+    <High>0.0132727</High>
+    <Low>0.0112531</Low>
+    <Close>0.0127529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-01</Date>
+    <Open>0.0125538</Open>
+    <High>0.012555</High>
+    <Low>0.0112821</Low>
+    <Close>0.0113532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-02</Date>
+    <Open>0.0114534</Open>
+    <High>0.0115443</High>
+    <Low>0.0107731</Low>
+    <Close>0.0112519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-03</Date>
+    <Open>0.0112521</Open>
+    <High>0.0116129</High>
+    <Low>0.0108729</Low>
+    <Close>0.0114929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-04</Date>
+    <Open>0.0114626</Open>
+    <High>0.0119511</High>
+    <Low>0.0110823</Low>
+    <Close>0.0116904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-05</Date>
+    <Open>0.0116704</Open>
+    <High>0.0127117</High>
+    <Low>0.0115703</Low>
+    <Close>0.0125924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-06</Date>
+    <Open>0.0125924</Open>
+    <High>0.0126304</High>
+    <Low>0.012252</Low>
+    <Close>0.0126229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-07</Date>
+    <Open>0.0126128</Open>
+    <High>0.0128632</High>
+    <Low>0.0121915</Low>
+    <Close>0.0124722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-08</Date>
+    <Open>0.0124724</Open>
+    <High>0.0127518</High>
+    <Low>0.0122415</Low>
+    <Close>0.0125816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-09</Date>
+    <Open>0.0125915</Open>
+    <High>0.0168329</High>
+    <Low>0.0123721</Low>
+    <Close>0.0130826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-10</Date>
+    <Open>0.0130726</Open>
+    <High>0.0131034</High>
+    <Low>0.0122024</Low>
+    <Close>0.0128737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-11</Date>
+    <Open>0.0128639</Open>
+    <High>0.013246</High>
+    <Low>0.0128337</Low>
+    <Close>0.0131362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-12</Date>
+    <Open>0.0131362</Open>
+    <High>0.0138469</High>
+    <Low>0.0126763</Low>
+    <Close>0.0133862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-13</Date>
+    <Open>0.0133862</Open>
+    <High>0.0135681</High>
+    <Low>0.0131658</Low>
+    <Close>0.0133552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-14</Date>
+    <Open>0.0133852</Open>
+    <High>0.0139038</High>
+    <Low>0.0129734</Low>
+    <Close>0.0134342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-15</Date>
+    <Open>0.0134342</Open>
+    <High>0.0135637</High>
+    <Low>0.012412</Low>
+    <Close>0.0126129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-16</Date>
+    <Open>0.0126232</Open>
+    <High>0.0130417</High>
+    <Low>0.0124017</Low>
+    <Close>0.0126311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-17</Date>
+    <Open>0.0126311</Open>
+    <High>0.013111</High>
+    <Low>0.0117109</Low>
+    <Close>0.0117109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-18</Date>
+    <Open>0.0117508</Open>
+    <High>0.0122602</High>
+    <Low>0.0117311</Low>
+    <Close>0.0120704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-19</Date>
+    <Open>0.0120712</Open>
+    <High>0.0121112</High>
+    <Low>0.01044</Low>
+    <Close>0.0105311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-20</Date>
+    <Open>0.0105305</Open>
+    <High>0.0134909</High>
+    <Low>0.0102092</Low>
+    <Close>0.0104099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-21</Date>
+    <Open>0.0103198</Open>
+    <High>0.0108797</High>
+    <Low>0.0103095</Low>
+    <Close>0.0108398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-22</Date>
+    <Open>0.0108498</Open>
+    <High>0.0129995</High>
+    <Low>0.010159</Low>
+    <Close>0.0106482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-23</Date>
+    <Open>0.0106481</Open>
+    <High>0.0111684</High>
+    <Low>0.0105097</Low>
+    <Close>0.0110002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-24</Date>
+    <Open>0.0109989</Open>
+    <High>0.0112207</High>
+    <Low>0.0108392</Low>
+    <Close>0.011161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-25</Date>
+    <Open>0.0111509</Open>
+    <High>0.0115798</High>
+    <Low>0.0108505</Low>
+    <Close>0.0112303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-26</Date>
+    <Open>0.0112303</Open>
+    <High>0.0112603</High>
+    <Low>0.0102791</Low>
+    <Close>0.010321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-27</Date>
+    <Open>0.0103709</Open>
+    <High>0.0103809</High>
+    <Low>0.0098804</Low>
+    <Close>0.0099803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-28</Date>
+    <Open>0.0099803</Open>
+    <High>0.0102703</High>
+    <Low>0.0099588</Low>
+    <Close>0.01022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-29</Date>
+    <Open>0.01022</Open>
+    <High>0.0104011</High>
+    <Low>0.009769</Low>
+    <Close>0.0103206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-30</Date>
+    <Open>0.010311</Open>
+    <High>0.0115798</High>
+    <Low>0.0098801</Low>
+    <Close>0.0101908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-08-31</Date>
+    <Open>0.0102008</Open>
+    <High>0.0109099</High>
+    <Low>0.0101307</Low>
+    <Close>0.0107499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-01</Date>
+    <Open>0.0107498</Open>
+    <High>0.0107703</High>
+    <Low>0.0101397</Low>
+    <Close>0.0104895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-02</Date>
+    <Open>0.0104895</Open>
+    <High>0.0106305</High>
+    <Low>0.0103016</Low>
+    <Close>0.0103115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-03</Date>
+    <Open>0.0103116</Open>
+    <High>0.0105111</High>
+    <Low>0.0103115</Low>
+    <Close>0.01039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-04</Date>
+    <Open>0.01039</Open>
+    <High>0.0106911</High>
+    <Low>0.01022</Low>
+    <Close>0.01057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-05</Date>
+    <Open>0.01063</Open>
+    <High>0.0107811</High>
+    <Low>0.01032</Low>
+    <Close>0.010381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-06</Date>
+    <Open>0.010371</Open>
+    <High>0.0106511</High>
+    <Low>0.0094991</Low>
+    <Close>0.00962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-07</Date>
+    <Open>0.00962</Open>
+    <High>0.0099407</High>
+    <Low>0.0092794</Low>
+    <Close>0.0099207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-08</Date>
+    <Open>0.0099307</Open>
+    <High>0.0100418</High>
+    <Low>0.0097101</Low>
+    <Close>0.0100315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-09</Date>
+    <Open>0.01003</Open>
+    <High>0.010813</High>
+    <Low>0.009991</Low>
+    <Close>0.0106236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-10</Date>
+    <Open>0.0106238</Open>
+    <High>0.0108655</High>
+    <Low>0.0105535</Low>
+    <Close>0.010712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-11</Date>
+    <Open>0.0106621</Open>
+    <High>0.0109735</High>
+    <Low>0.0106528</Low>
+    <Close>0.0107827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-12</Date>
+    <Open>0.0107927</Open>
+    <High>0.0111622</High>
+    <Low>0.0105522</Low>
+    <Close>0.010922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-13</Date>
+    <Open>0.0109233</Open>
+    <High>0.0110922</High>
+    <Low>0.0099501</Low>
+    <Close>0.0099702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-14</Date>
+    <Open>0.009971</Open>
+    <High>0.0100814</High>
+    <Low>0.00978</Low>
+    <Close>0.0100125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-15</Date>
+    <Open>0.0100125</Open>
+    <High>0.0101527</High>
+    <Low>0.0096576</Low>
+    <Close>0.0097191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-16</Date>
+    <Open>0.0097194</Open>
+    <High>0.00978</High>
+    <Low>0.009519</Low>
+    <Close>0.00969903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-17</Date>
+    <Open>0.00971</Open>
+    <High>0.010031</High>
+    <Low>0.00970903</Low>
+    <Close>0.009981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-18</Date>
+    <Open>0.00998</Open>
+    <High>0.010031</High>
+    <Low>0.00908909</Low>
+    <Close>0.00916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-19</Date>
+    <Open>0.00916</Open>
+    <High>0.00941188</High>
+    <Low>0.00891911</Low>
+    <Close>0.00940188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-20</Date>
+    <Open>0.00940094</Open>
+    <High>0.0094819</High>
+    <Low>0.00917</Low>
+    <Close>0.00922092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-21</Date>
+    <Open>0.00921018</Open>
+    <High>0.00959096</High>
+    <Low>0.00886</Low>
+    <Close>0.00886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-22</Date>
+    <Open>0.00886</Open>
+    <High>0.00949</High>
+    <Low>0.00883</Low>
+    <Close>0.00948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-23</Date>
+    <Open>0.00946095</Open>
+    <High>0.00979</High>
+    <Low>0.00917908</Low>
+    <Close>0.00939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-24</Date>
+    <Open>0.00952933</Open>
+    <High>0.00964</High>
+    <Low>0.00943953</Low>
+    <Close>0.00952076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-25</Date>
+    <Open>0.00952</Open>
+    <High>0.00953057</High>
+    <Low>0.00922972</Low>
+    <Close>0.00923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-26</Date>
+    <Open>0.00923</Open>
+    <High>0.00927093</High>
+    <Low>0.00899</Low>
+    <Close>0.00921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-27</Date>
+    <Open>0.00921</Open>
+    <High>0.01006</High>
+    <Low>0.00916908</Low>
+    <Close>0.00935906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-28</Date>
+    <Open>0.00935906</Open>
+    <High>0.00955</High>
+    <Low>0.0090491</Low>
+    <Close>0.00954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-29</Date>
+    <Open>0.00954</Open>
+    <High>0.00955</High>
+    <Low>0.00924907</Low>
+    <Close>0.00945095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-09-30</Date>
+    <Open>0.00946</Open>
+    <High>0.00964096</High>
+    <Low>0.00938</Low>
+    <Close>0.00949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-01</Date>
+    <Open>0.00949</Open>
+    <High>0.00956096</High>
+    <Low>0.00938</Low>
+    <Close>0.00942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-02</Date>
+    <Open>0.00942</Open>
+    <High>0.00950095</High>
+    <Low>0.00917</Low>
+    <Close>0.00939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-03</Date>
+    <Open>0.00939094</Open>
+    <High>0.00950095</High>
+    <Low>0.00912</Low>
+    <Close>0.00947095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-04</Date>
+    <Open>0.00947095</Open>
+    <High>0.00978293</High>
+    <Low>0.00947095</Low>
+    <Close>0.00978293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-05</Date>
+    <Open>0.00978293</Open>
+    <High>0.00978293</High>
+    <Low>0.00936</Low>
+    <Close>0.0095119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-06</Date>
+    <Open>0.0095119</Open>
+    <High>0.00967145</High>
+    <Low>0.00946066</Low>
+    <Close>0.00948161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-07</Date>
+    <Open>0.00948171</Open>
+    <High>0.00952181</High>
+    <Low>0.00924009</Low>
+    <Close>0.00929139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-08</Date>
+    <Open>0.00929093</Open>
+    <High>0.00940179</High>
+    <Low>0.00920202</Low>
+    <Close>0.00920239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-09</Date>
+    <Open>0.00932242</Open>
+    <High>0.00933187</High>
+    <Low>0.0092</Low>
+    <Close>0.00922184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-10</Date>
+    <Open>0.00922184</Open>
+    <High>0.00923185</High>
+    <Low>0.009</Low>
+    <Close>0.00914908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-11</Date>
+    <Open>0.00915</Open>
+    <High>0.00915</High>
+    <Low>0.00869913</Low>
+    <Close>0.0088492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-12</Date>
+    <Open>0.00884912</Open>
+    <High>0.00894982</High>
+    <Low>0.00877921</Low>
+    <Close>0.00881026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-13</Date>
+    <Open>0.00881026</Open>
+    <High>0.00885991</High>
+    <Low>0.00789953</Low>
+    <Close>0.0087307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-14</Date>
+    <Open>0.0087307</Open>
+    <High>0.0089208</High>
+    <Low>0.00849059</Low>
+    <Close>0.00852026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-15</Date>
+    <Open>0.00852034</Open>
+    <High>0.00878061</High>
+    <Low>0.00837067</Low>
+    <Close>0.00876044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-16</Date>
+    <Open>0.00876</Open>
+    <High>0.0088107</High>
+    <Low>0.00861052</Low>
+    <Close>0.00876044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-17</Date>
+    <Open>0.00876044</Open>
+    <High>0.00891009</High>
+    <Low>0.00864043</Low>
+    <Close>0.00890018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-18</Date>
+    <Open>0.0089</Open>
+    <High>0.00904072</High>
+    <Low>0.00868043</Low>
+    <Close>0.00877053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-19</Date>
+    <Open>0.00875044</Open>
+    <High>0.00881026</High>
+    <Low>0.00860974</Low>
+    <Close>0.00866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-20</Date>
+    <Open>0.00866</Open>
+    <High>0.00866026</High>
+    <Low>0.00834917</Low>
+    <Close>0.00835916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-21</Date>
+    <Open>0.00835941</Open>
+    <High>0.00849068</High>
+    <Low>0.00807927</Low>
+    <Close>0.00844068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-22</Date>
+    <Open>0.00846059</Open>
+    <High>0.00849068</High>
+    <Low>0.00838008</Low>
+    <Close>0.00841067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-23</Date>
+    <Open>0.00841076</Open>
+    <High>0.0085612</High>
+    <Low>0.0083595</Low>
+    <Close>0.00854102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-24</Date>
+    <Open>0.00854102</Open>
+    <High>0.00867061</High>
+    <Low>0.00835033</Low>
+    <Close>0.00841042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-25</Date>
+    <Open>0.00840034</Open>
+    <High>0.00875236</High>
+    <Low>0.00838017</Low>
+    <Close>0.00866303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-26</Date>
+    <Open>0.00864302</Open>
+    <High>0.00888266</High>
+    <Low>0.00860181</Low>
+    <Close>0.00881247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-27</Date>
+    <Open>0.00881247</Open>
+    <High>0.00908218</High>
+    <Low>0.00867026</Low>
+    <Close>0.00875061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-28</Date>
+    <Open>0.00875053</Open>
+    <High>0.00912219</High>
+    <Low>0.00865</Low>
+    <Close>0.009102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-29</Date>
+    <Open>0.00910164</Open>
+    <High>0.00936431</High>
+    <Low>0.00899171</Low>
+    <Close>0.00931223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-30</Date>
+    <Open>0.00930223</Open>
+    <High>0.00943245</High>
+    <Low>0.00902153</Low>
+    <Close>0.00902189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-10-31</Date>
+    <Open>0.0090118</Open>
+    <High>0.00928</High>
+    <Low>0.00894884</Low>
+    <Close>0.00894928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-01</Date>
+    <Open>0.00895946</Open>
+    <High>0.009089</High>
+    <Low>0.00879806</Low>
+    <Close>0.00880903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-02</Date>
+    <Open>0.00880912</Open>
+    <High>0.00889875</High>
+    <Low>0.00850991</Low>
+    <Close>0.00859948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-03</Date>
+    <Open>0.00859957</Open>
+    <High>0.00912991</High>
+    <Low>0.00859948</Low>
+    <Close>0.00900991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-04</Date>
+    <Open>0.00900991</Open>
+    <High>0.0109309</High>
+    <Low>0.00898973</Low>
+    <Close>0.0100308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-05</Date>
+    <Open>0.0100308</Open>
+    <High>0.0102713</High>
+    <Low>0.00988049</Low>
+    <Close>0.00988059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-06</Date>
+    <Open>0.0098804</Open>
+    <High>0.0100304</High>
+    <Low>0.00947076</Low>
+    <Close>0.00948066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-07</Date>
+    <Open>0.00948076</Open>
+    <High>0.00949085</High>
+    <Low>0.00900081</Low>
+    <Close>0.00901117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-08</Date>
+    <Open>0.0090127</Open>
+    <High>0.00918459</High>
+    <Low>0.00703914</Low>
+    <Close>0.00764286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-09</Date>
+    <Open>0.00764286</Open>
+    <High>0.00789597</High>
+    <Low>0.00621276</Low>
+    <Close>0.00647616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-10</Date>
+    <Open>0.00652336</Open>
+    <High>0.008244</High>
+    <Low>0.00639203</Low>
+    <Close>0.00763664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-11</Date>
+    <Open>0.00763268</Open>
+    <High>0.0086002</High>
+    <Low>0.00680952</Low>
+    <Close>0.00712783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-12</Date>
+    <Open>0.00709496</Open>
+    <High>0.00740843</High>
+    <Low>0.00688758</Low>
+    <Close>0.00690754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-13</Date>
+    <Open>0.0068776</Open>
+    <High>0.00705223</High>
+    <Low>0.00658671</Low>
+    <Close>0.00674055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-14</Date>
+    <Open>0.0067419</Open>
+    <High>0.00683179</High>
+    <Low>0.0062606</Low>
+    <Close>0.00668995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-15</Date>
+    <Open>0.00668961</Open>
+    <High>0.00720423</High>
+    <Low>0.00668961</Low>
+    <Close>0.00704295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-16</Date>
+    <Open>0.00702142</Open>
+    <High>0.00711452</High>
+    <Low>0.00673259</Low>
+    <Close>0.0068038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-17</Date>
+    <Open>0.0068038</Open>
+    <High>0.00696505</High>
+    <Low>0.00680333</Low>
+    <Close>0.00686464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-18</Date>
+    <Open>0.00686464</Open>
+    <High>0.00715434</High>
+    <Low>0.00680224</Low>
+    <Close>0.00689207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-19</Date>
+    <Open>0.00689207</Open>
+    <High>0.00712237</High>
+    <Low>0.00685136</Low>
+    <Close>0.00707257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-20</Date>
+    <Open>0.00707264</Open>
+    <High>0.007132</High>
+    <Low>0.00662977</Low>
+    <Close>0.00662991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-21</Date>
+    <Open>0.00662991</Open>
+    <High>0.00670181</High>
+    <Low>0.00644966</Low>
+    <Close>0.0065721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-22</Date>
+    <Open>0.0065721</Open>
+    <High>0.00675283</High>
+    <Low>0.00647164</Low>
+    <Close>0.00672186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-23</Date>
+    <Open>0.00670134</Open>
+    <High>0.00739156</High>
+    <Low>0.00670094</Low>
+    <Close>0.00728205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-24</Date>
+    <Open>0.00728205</Open>
+    <High>0.00744255</High>
+    <Low>0.00710339</Low>
+    <Close>0.00724391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-25</Date>
+    <Open>0.00724384</Open>
+    <High>0.00778416</High>
+    <Low>0.00717426</Low>
+    <Close>0.00752571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-26</Date>
+    <Open>0.00752571</Open>
+    <High>0.00759544</High>
+    <Low>0.00732472</Low>
+    <Close>0.00732568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-27</Date>
+    <Open>0.00732575</Open>
+    <High>0.00775488</High>
+    <Low>0.00732568</Low>
+    <Close>0.00766517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-28</Date>
+    <Open>0.00766509</Open>
+    <High>0.00766616</High>
+    <Low>0.00712636</Low>
+    <Close>0.00722718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-29</Date>
+    <Open>0.00722718</Open>
+    <High>0.00759757</High>
+    <Low>0.00717663</Low>
+    <Close>0.00735728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-11-30</Date>
+    <Open>0.00735728</Open>
+    <High>0.00765168</High>
+    <Low>0.0073375</Low>
+    <Close>0.00760038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-01</Date>
+    <Open>0.00760023</Open>
+    <High>0.00773077</High>
+    <Low>0.0075603</Low>
+    <Close>0.00767046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-02</Date>
+    <Open>0.00767046</Open>
+    <High>0.0078107</High>
+    <Low>0.00761053</Low>
+    <Close>0.00777047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-03</Date>
+    <Open>0.00777047</Open>
+    <High>0.00790079</High>
+    <Low>0.00766153</Low>
+    <Close>0.00770154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-04</Date>
+    <Open>0.00770077</Open>
+    <High>0.00779156</High>
+    <Low>0.00755076</Low>
+    <Close>0.00765076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-05</Date>
+    <Open>0.00765153</Open>
+    <High>0.00783157</High>
+    <Low>0.0074897</Low>
+    <Close>0.00750022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-06</Date>
+    <Open>0.00750075</Open>
+    <High>0.00777078</High>
+    <Low>0.00750015</Low>
+    <Close>0.00756985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-07</Date>
+    <Open>0.00757</Open>
+    <High>0.00763</High>
+    <Low>0.00722029</Low>
+    <Close>0.00733007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-08</Date>
+    <Open>0.00732022</Open>
+    <High>0.00742156</High>
+    <Low>0.00725956</Low>
+    <Close>0.00742052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-09</Date>
+    <Open>0.00742074</Open>
+    <High>0.00758045</High>
+    <Low>0.00740985</Low>
+    <Close>0.00752023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-10</Date>
+    <Open>0.00752023</Open>
+    <High>0.00787</High>
+    <Low>0.0075097</Low>
+    <Close>0.00760985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-11</Date>
+    <Open>0.00763</Open>
+    <High>0.00795008</High>
+    <Low>0.00762985</Low>
+    <Close>0.00776078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-12</Date>
+    <Open>0.00776155</Open>
+    <High>0.00777093</High>
+    <Low>0.00742074</Low>
+    <Close>0.0077707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-13</Date>
+    <Open>0.00777054</Open>
+    <High>0.0101523</High>
+    <Low>0.00769108</Low>
+    <Close>0.00802799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-14</Date>
+    <Open>0.00802807</Open>
+    <High>0.0107607</High>
+    <Low>0.00794833</Low>
+    <Close>0.00958067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-15</Date>
+    <Open>0.00960067</Open>
+    <High>0.00962096</High>
+    <Low>0.00860086</Low>
+    <Close>0.00865086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-16</Date>
+    <Open>0.00865173</Open>
+    <High>0.00916092</High>
+    <Low>0.00784078</Low>
+    <Close>0.0079508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-17</Date>
+    <Open>0.0079508</Open>
+    <High>0.00860095</High>
+    <Low>0.00776078</Low>
+    <Close>0.00838109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-18</Date>
+    <Open>0.00836117</Open>
+    <High>0.00836117</High>
+    <Low>0.00819016</Low>
+    <Close>0.00819106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-19</Date>
+    <Open>0.00818131</Open>
+    <High>0.00862</High>
+    <Low>0.00773023</Low>
+    <Close>0.00782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-20</Date>
+    <Open>0.00781992</Open>
+    <High>0.00853009</High>
+    <Low>0.00781992</Low>
+    <Close>0.00830033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-21</Date>
+    <Open>0.00831042</Open>
+    <High>0.00835017</High>
+    <Low>0.00804992</Low>
+    <Close>0.00812032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-22</Date>
+    <Open>0.00813041</Open>
+    <High>0.00817016</High>
+    <Low>0.00786913</Low>
+    <Close>0.00811862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-23</Date>
+    <Open>0.00811862</Open>
+    <High>0.0081391</High>
+    <Low>0.00789913</Low>
+    <Close>0.00792921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-24</Date>
+    <Open>0.00792913</Open>
+    <High>0.00799936</High>
+    <Low>0.00779945</Low>
+    <Close>0.00779945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-25</Date>
+    <Open>0.00780945</Open>
+    <High>0.00784874</High>
+    <Low>0.00754917</Low>
+    <Close>0.00758901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-26</Date>
+    <Open>0.00758909</Open>
+    <High>0.00767869</High>
+    <Low>0.00755826</Low>
+    <Close>0.00767846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-27</Date>
+    <Open>0.00767854</Open>
+    <High>0.00771869</High>
+    <Low>0.00741688</Low>
+    <Close>0.00749707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-28</Date>
+    <Open>0.00749707</Open>
+    <High>0.00773667</High>
+    <Low>0.00743769</Low>
+    <Close>0.0075859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-29</Date>
+    <Open>0.00758598</Open>
+    <High>0.00770615</High>
+    <Low>0.00749677</Low>
+    <Close>0.00757651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-30</Date>
+    <Open>0.00757666</Open>
+    <High>0.00768669</High>
+    <Low>0.00757644</Low>
+    <Close>0.00765617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2022-12-31</Date>
+    <Open>0.00765609</Open>
+    <High>0.00779633</High>
+    <Low>0.00765609</Low>
+    <Close>0.00774613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-01</Date>
+    <Open>0.00769615</Open>
+    <High>0.00787645</High>
+    <Low>0.00766593</Low>
+    <Close>0.0078663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-02</Date>
+    <Open>0.0078663</Open>
+    <High>0.00798688</High>
+    <Low>0.00774659</Low>
+    <Close>0.00793746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-03</Date>
+    <Open>0.00793738</Open>
+    <High>0.0080076</High>
+    <Low>0.00777681</Low>
+    <Close>0.00778696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-04</Date>
+    <Open>0.00778696</Open>
+    <High>0.00802719</High>
+    <Low>0.00778673</Low>
+    <Close>0.00795737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-05</Date>
+    <Open>0.00796729</Open>
+    <High>0.00811756</High>
+    <Low>0.00796729</Low>
+    <Close>0.0080471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-06</Date>
+    <Open>0.00804718</Open>
+    <High>0.00819779</High>
+    <Low>0.00788605</Low>
+    <Close>0.00819746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-07</Date>
+    <Open>0.00819738</Open>
+    <High>0.00821803</High>
+    <Low>0.00815739</Low>
+    <Close>0.00817804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-08</Date>
+    <Open>0.00817804</Open>
+    <High>0.00820893</High>
+    <Low>0.00808846</Low>
+    <Close>0.00819902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-09</Date>
+    <Open>0.00819836</Open>
+    <High>0.00883991</High>
+    <Low>0.00818844</Low>
+    <Close>0.00860991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-10</Date>
+    <Open>0.00861</Open>
+    <High>0.00878965</High>
+    <Low>0.00851915</Low>
+    <Close>0.00868122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-11</Date>
+    <Open>0.00868139</Open>
+    <High>0.00880009</High>
+    <Low>0.00851872</Low>
+    <Close>0.00872913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-12</Date>
+    <Open>0.00872921</Open>
+    <High>0.00946076</High>
+    <Low>0.00872904</Low>
+    <Close>0.00937084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-13</Date>
+    <Open>0.00937094</Open>
+    <High>0.00984118</High>
+    <Low>0.00917982</Low>
+    <Close>0.00981088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-14</Date>
+    <Open>0.00981088</Open>
+    <High>0.0102218</High>
+    <Low>0.00934149</Low>
+    <Close>0.00965048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-15</Date>
+    <Open>0.00965048</Open>
+    <High>0.0101537</High>
+    <Low>0.0096499</Low>
+    <Close>0.010053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-16</Date>
+    <Open>0.010053</Open>
+    <High>0.0104642</High>
+    <Low>0.0099701</Low>
+    <Close>0.0102301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-17</Date>
+    <Open>0.0102501</Open>
+    <High>0.0102501</High>
+    <Low>0.00995</Low>
+    <Close>0.0101411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-18</Date>
+    <Open>0.010141</Open>
+    <High>0.0101512</High>
+    <Low>0.0091555</Low>
+    <Close>0.0093195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-19</Date>
+    <Open>0.0093194</Open>
+    <High>0.0094192</High>
+    <Low>0.0089493</Low>
+    <Close>0.0090896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-20</Date>
+    <Open>0.0090896</Open>
+    <High>0.0095819</High>
+    <Low>0.0089294</Low>
+    <Close>0.0095616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-21</Date>
+    <Open>0.0095617</Open>
+    <High>0.0103619</High>
+    <Low>0.0094914</Low>
+    <Close>0.0103521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-22</Date>
+    <Open>0.010342</Open>
+    <High>0.0107221</High>
+    <Low>0.0100108</Low>
+    <Close>0.010392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-23</Date>
+    <Open>0.010392</Open>
+    <High>0.010681</High>
+    <Low>0.010392</Low>
+    <Close>0.0106516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-24</Date>
+    <Open>0.0106515</Open>
+    <High>0.0110119</High>
+    <Low>0.0104111</Low>
+    <Close>0.0104303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-25</Date>
+    <Open>0.0104303</Open>
+    <High>0.0109621</High>
+    <Low>0.0100713</Low>
+    <Close>0.0107417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-26</Date>
+    <Open>0.0107618</Open>
+    <High>0.0112222</High>
+    <Low>0.0106818</Low>
+    <Close>0.0110709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-27</Date>
+    <Open>0.0110809</Open>
+    <High>0.011201</High>
+    <Low>0.010732</Low>
+    <Close>0.0110354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-28</Date>
+    <Open>0.0110339</Open>
+    <High>0.0111525</High>
+    <Low>0.010572</Low>
+    <Close>0.0105721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-29</Date>
+    <Open>0.0105721</Open>
+    <High>0.0110106</High>
+    <Low>0.0105324</Low>
+    <Close>0.0109805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-30</Date>
+    <Open>0.0109804</Open>
+    <High>0.011091</High>
+    <Low>0.00994</Low>
+    <Close>0.0101307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-01-31</Date>
+    <Open>0.0101307</Open>
+    <High>0.0105705</High>
+    <Low>0.0100808</Low>
+    <Close>0.0102809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-01</Date>
+    <Open>0.0102807</Open>
+    <High>0.0108811</High>
+    <Low>0.0099001</Low>
+    <Close>0.0108607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-02</Date>
+    <Open>0.0108705</Open>
+    <High>0.0114123</High>
+    <Low>0.0108008</Low>
+    <Close>0.0108122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-03</Date>
+    <Open>0.0108122</Open>
+    <High>0.0112211</High>
+    <Low>0.0106701</Low>
+    <Close>0.0110709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-04</Date>
+    <Open>0.011071</Open>
+    <High>0.0113408</High>
+    <Low>0.0110208</Low>
+    <Close>0.011141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-05</Date>
+    <Open>0.0111409</Open>
+    <High>0.011161</High>
+    <Low>0.0103426</Low>
+    <Close>0.0103826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-06</Date>
+    <Open>0.0103826</Open>
+    <High>0.0106698</High>
+    <Low>0.0103419</Low>
+    <Close>0.0105404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-07</Date>
+    <Open>0.0105404</Open>
+    <High>0.0115801</High>
+    <Low>0.0102501</Low>
+    <Close>0.0114608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-08</Date>
+    <Open>0.0114607</Open>
+    <High>0.011591</High>
+    <Low>0.0107605</Low>
+    <Close>0.0110609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-09</Date>
+    <Open>0.0110609</Open>
+    <High>0.0112302</High>
+    <Low>0.0095709</Low>
+    <Close>0.0096109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-10</Date>
+    <Open>0.009611</Open>
+    <High>0.00990129</High>
+    <Low>0.0095609</Low>
+    <Close>0.00975146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-11</Date>
+    <Open>0.00975146</Open>
+    <High>0.00990119</High>
+    <Low>0.00973078</Low>
+    <Close>0.00986089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-12</Date>
+    <Open>0.00986197</Open>
+    <High>0.0101405</High>
+    <Low>0.00969068</Low>
+    <Close>0.00970097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-13</Date>
+    <Open>0.00970097</Open>
+    <High>0.00982894</High>
+    <Low>0.00929938</Low>
+    <Close>0.00955516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-14</Date>
+    <Open>0.00955525</Open>
+    <High>0.00989445</High>
+    <Low>0.00942509</Low>
+    <Close>0.00988356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-15</Date>
+    <Open>0.00988405</Open>
+    <High>0.0106519</High>
+    <Low>0.00982304</Low>
+    <Close>0.010642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-16</Date>
+    <Open>0.0106419</Open>
+    <High>0.011031</High>
+    <Low>0.010351</Low>
+    <Close>0.0103733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-17</Date>
+    <Open>0.0103735</Open>
+    <High>0.0109811</High>
+    <Low>0.010241</Low>
+    <Close>0.010731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-18</Date>
+    <Open>0.0107418</Open>
+    <High>0.0112121</High>
+    <Low>0.0107416</Low>
+    <Close>0.0108818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-19</Date>
+    <Open>0.0108917</Open>
+    <High>0.0112319</High>
+    <Low>0.0108225</Low>
+    <Close>0.0110924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-20</Date>
+    <Open>0.0110922</Open>
+    <High>0.0116316</High>
+    <Low>0.0106828</Low>
+    <Close>0.0115105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-21</Date>
+    <Open>0.0115105</Open>
+    <High>0.0134813</High>
+    <Low>0.0114507</Low>
+    <Close>0.0120721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-22</Date>
+    <Open>0.0120922</Open>
+    <High>0.0123217</High>
+    <Low>0.011521</Low>
+    <Close>0.01191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-23</Date>
+    <Open>0.0119098</Open>
+    <High>0.0125614</High>
+    <Low>0.0118998</Low>
+    <Close>0.0120216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-24</Date>
+    <Open>0.0120217</Open>
+    <High>0.0122823</High>
+    <Low>0.0112598</Low>
+    <Close>0.0112899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-25</Date>
+    <Open>0.0112899</Open>
+    <High>0.011411</High>
+    <Low>0.0108111</Low>
+    <Close>0.0111408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-26</Date>
+    <Open>0.0111407</Open>
+    <High>0.0116616</High>
+    <Low>0.0110121</Low>
+    <Close>0.0115107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-27</Date>
+    <Open>0.011521</Open>
+    <High>0.0116704</High>
+    <Low>0.0112202</Low>
+    <Close>0.0112707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-02-28</Date>
+    <Open>0.0112706</Open>
+    <High>0.01143</High>
+    <Low>0.0108922</Low>
+    <Close>0.0109219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-01</Date>
+    <Open>0.0109222</Open>
+    <High>0.0114716</High>
+    <Low>0.0109221</Low>
+    <Close>0.0113815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-02</Date>
+    <Open>0.0113815</Open>
+    <High>0.0114715</High>
+    <Low>0.0109399</Low>
+    <Close>0.011171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-03</Date>
+    <Open>0.0111709</Open>
+    <High>0.0112208</High>
+    <Low>0.0101207</Low>
+    <Close>0.0103107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-04</Date>
+    <Open>0.0103108</Open>
+    <High>0.0105212</High>
+    <Low>0.0100307</Low>
+    <Close>0.0100708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-05</Date>
+    <Open>0.0100707</Open>
+    <High>0.010451</High>
+    <Low>0.0100707</Low>
+    <Close>0.0103912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-06</Date>
+    <Open>0.0103911</Open>
+    <High>0.0103912</High>
+    <Low>0.01004</Low>
+    <Close>0.0101994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-07</Date>
+    <Open>0.0101994</Open>
+    <High>0.0102999</High>
+    <Low>0.0098886</Low>
+    <Close>0.0099795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-08</Date>
+    <Open>0.0099296</Open>
+    <High>0.01012</High>
+    <Low>0.0095496</Low>
+    <Close>0.0095794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-09</Date>
+    <Open>0.009579</Open>
+    <High>0.0098986</High>
+    <Low>0.0088181</Low>
+    <Close>0.0089508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-10</Date>
+    <Open>0.0089709</Open>
+    <High>0.0089802</High>
+    <Low>0.0084399</Low>
+    <Close>0.0087013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-11</Date>
+    <Open>0.0087009</Open>
+    <High>0.0091186</High>
+    <Low>0.0084184</Low>
+    <Close>0.0087038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-12</Date>
+    <Open>0.0087038</Open>
+    <High>0.00953449</High>
+    <Low>0.00870085</Low>
+    <Close>0.00952996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-13</Date>
+    <Open>0.00952996</Open>
+    <High>0.0102468</High>
+    <Low>0.00937553</Low>
+    <Close>0.0102106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-14</Date>
+    <Open>0.0102098</Open>
+    <High>0.0108748</High>
+    <Low>0.010119</Low>
+    <Close>0.0102721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-15</Date>
+    <Open>0.0102728</Open>
+    <High>0.0103772</High>
+    <Low>0.00903825</Low>
+    <Close>0.00903825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-16</Date>
+    <Open>0.0090378</Open>
+    <High>0.00910824</High>
+    <Low>0.00873578</Low>
+    <Close>0.00901212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-17</Date>
+    <Open>0.00901221</Open>
+    <High>0.0096695</High>
+    <Low>0.00895045</Low>
+    <Close>0.00966882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-18</Date>
+    <Open>0.00967895</Open>
+    <High>0.0101271</High>
+    <Low>0.00953568</Low>
+    <Close>0.00983933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-19</Date>
+    <Open>0.00983943</Open>
+    <High>0.0101105</High>
+    <Low>0.00963748</Low>
+    <Close>0.00996009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-20</Date>
+    <Open>0.00996009</Open>
+    <High>0.0100634</High>
+    <Low>0.00966207</Low>
+    <Close>0.00977565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-21</Date>
+    <Open>0.00977555</Open>
+    <High>0.0099897</High>
+    <Low>0.00940223</Low>
+    <Close>0.00994161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-22</Date>
+    <Open>0.00994171</Open>
+    <High>0.00996178</High>
+    <Low>0.00919659</Low>
+    <Close>0.00931545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-23</Date>
+    <Open>0.00931545</Open>
+    <High>0.00979868</High>
+    <Low>0.00930561</Low>
+    <Close>0.00976026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-24</Date>
+    <Open>0.00976026</Open>
+    <High>0.00986057</High>
+    <Low>0.00935944</Low>
+    <Close>0.00935944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-25</Date>
+    <Open>0.00936038</Open>
+    <High>0.00953953</High>
+    <Low>0.00934775</Low>
+    <Close>0.00939911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-26</Date>
+    <Open>0.00939911</Open>
+    <High>0.0096787</High>
+    <Low>0.00939901</Low>
+    <Close>0.00955078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-27</Date>
+    <Open>0.00955049</Open>
+    <High>0.00966966</High>
+    <Low>0.00912611</Low>
+    <Close>0.00919441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-28</Date>
+    <Open>0.00919432</Open>
+    <High>0.00932401</High>
+    <Low>0.00908136</Low>
+    <Close>0.00932363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-29</Date>
+    <Open>0.00932363</Open>
+    <High>0.00970165</High>
+    <Low>0.00928241</Low>
+    <Close>0.00964183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-30</Date>
+    <Open>0.00965289</Open>
+    <High>0.0097134</High>
+    <Low>0.00936047</Low>
+    <Close>0.00944255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-03-31</Date>
+    <Open>0.00944255</Open>
+    <High>0.00961557</High>
+    <Low>0.00935281</Low>
+    <Close>0.00960192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-01</Date>
+    <Open>0.00960192</Open>
+    <High>0.00996369</High>
+    <Low>0.00958393</Low>
+    <Close>0.00988356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-02</Date>
+    <Open>0.00988366</Open>
+    <High>0.0100168</High>
+    <Low>0.00940639</Low>
+    <Close>0.00941593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-03</Date>
+    <Open>0.00941583</Open>
+    <High>0.00952419</High>
+    <Low>0.00918202</Low>
+    <Close>0.00925361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-04</Date>
+    <Open>0.00928371</Open>
+    <High>0.00974399</High>
+    <Low>0.00928362</Low>
+    <Close>0.00969485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-05</Date>
+    <Open>0.00968494</Open>
+    <High>0.00983433</High>
+    <Low>0.00950418</Low>
+    <Close>0.00956344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-06</Date>
+    <Open>0.00956344</Open>
+    <High>0.00958287</High>
+    <Low>0.00941348</Low>
+    <Close>0.00946331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-07</Date>
+    <Open>0.00946331</Open>
+    <High>0.00949522</High>
+    <Low>0.00928464</Low>
+    <Close>0.00934691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-08</Date>
+    <Open>0.00934691</Open>
+    <High>0.00947568</High>
+    <Low>0.00932531</Low>
+    <Close>0.00936365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-09</Date>
+    <Open>0.00936365</Open>
+    <High>0.00957574</High>
+    <Low>0.0092952</Low>
+    <Close>0.00957574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-10</Date>
+    <Open>0.0095564</Open>
+    <High>0.00982805</High>
+    <Low>0.00955573</Low>
+    <Close>0.00981804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-11</Date>
+    <Open>0.00981804</Open>
+    <High>0.00990842</High>
+    <Low>0.00963953</Low>
+    <Close>0.00965946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-12</Date>
+    <Open>0.00965946</Open>
+    <High>0.00965955</High>
+    <Low>0.00934981</Low>
+    <Close>0.00952743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-13</Date>
+    <Open>0.00952743</Open>
+    <High>0.00978309</High>
+    <Low>0.00944953</Low>
+    <Close>0.00973934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-14</Date>
+    <Open>0.00973934</Open>
+    <High>0.0101981</High>
+    <Low>0.00973924</Low>
+    <Close>0.0101384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-15</Date>
+    <Open>0.0101382</Open>
+    <High>0.0101599</High>
+    <Low>0.00994805</Low>
+    <Close>0.010109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-16</Date>
+    <Open>0.010109</Open>
+    <High>0.0104786</High>
+    <Low>0.00995896</Low>
+    <Close>0.0103871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-17</Date>
+    <Open>0.010397</Open>
+    <High>0.0104183</High>
+    <Low>0.0099959</Low>
+    <Close>0.0103261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-18</Date>
+    <Open>0.0103061</Open>
+    <High>0.0105936</High>
+    <Low>0.0102047</Low>
+    <Close>0.0105218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-19</Date>
+    <Open>0.0105317</Open>
+    <High>0.0106547</High>
+    <Low>0.0096645</Low>
+    <Close>0.0096753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-20</Date>
+    <Open>0.0096752</Open>
+    <High>0.0098851</High>
+    <Low>0.0094308</Low>
+    <Close>0.0094909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-21</Date>
+    <Open>0.0095007</Open>
+    <High>0.0097784</High>
+    <Low>0.0092681</Low>
+    <Close>0.009299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-22</Date>
+    <Open>0.009299</Open>
+    <High>0.0094009</High>
+    <Low>0.00927</Low>
+    <Close>0.0093908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-23</Date>
+    <Open>0.0093908</Open>
+    <High>0.0094209</High>
+    <Low>0.0090114</Low>
+    <Close>0.0090805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-24</Date>
+    <Open>0.0090805</Open>
+    <High>0.009272</High>
+    <Low>0.0090408</Low>
+    <Close>0.0091302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-25</Date>
+    <Open>0.0091303</Open>
+    <High>0.0093222</High>
+    <Low>0.0090195</Low>
+    <Close>0.0093221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-26</Date>
+    <Open>0.0093221</Open>
+    <High>0.0097214</High>
+    <Low>0.0088312</Low>
+    <Close>0.0090432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-27</Date>
+    <Open>0.0091229</Open>
+    <High>0.0094845</High>
+    <Low>0.009122</Low>
+    <Close>0.0094831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-28</Date>
+    <Open>0.0094831</Open>
+    <High>0.0094932</High>
+    <Low>0.0092535</Low>
+    <Close>0.0093372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-29</Date>
+    <Open>0.0093372</Open>
+    <High>0.0095667</High>
+    <Low>0.0093365</Low>
+    <Close>0.0095556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-04-30</Date>
+    <Open>0.0095555</Open>
+    <High>0.0095562</High>
+    <Low>0.0092048</Low>
+    <Close>0.0092052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-01</Date>
+    <Open>0.0092052</Open>
+    <High>0.0092747</High>
+    <Low>0.0089493</Low>
+    <Close>0.0089823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-02</Date>
+    <Open>0.0089823</Open>
+    <High>0.00911629</High>
+    <Low>0.0089722</Low>
+    <Close>0.00911556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-03</Date>
+    <Open>0.00911556</Open>
+    <High>0.00912502</High>
+    <Low>0.00885195</Low>
+    <Close>0.00899243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-04</Date>
+    <Open>0.00899243</Open>
+    <High>0.00916321</High>
+    <Low>0.00890223</Low>
+    <Close>0.0089032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-05</Date>
+    <Open>0.0089233</Open>
+    <High>0.00909845</High>
+    <Low>0.0089032</Low>
+    <Close>0.00905824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-06</Date>
+    <Open>0.00905824</Open>
+    <High>0.00913931</High>
+    <Low>0.00864415</Low>
+    <Close>0.00878535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-07</Date>
+    <Open>0.00878491</Open>
+    <High>0.00878535</High>
+    <Low>0.00866133</Low>
+    <Close>0.00870017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-08</Date>
+    <Open>0.00870025</Open>
+    <High>0.00873291</High>
+    <Low>0.00774526</Low>
+    <Close>0.007896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-09</Date>
+    <Open>0.00789592</Open>
+    <High>0.00803964</High>
+    <Low>0.00788552</Low>
+    <Close>0.00795795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-10</Date>
+    <Open>0.00790356</Open>
+    <High>0.00810972</High>
+    <Low>0.00759759</Low>
+    <Close>0.00796716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-11</Date>
+    <Open>0.00796796</Open>
+    <High>0.008008</High>
+    <Low>0.00750675</Low>
+    <Close>0.00752677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-12</Date>
+    <Open>0.00752752</Open>
+    <High>0.00772618</High>
+    <Low>0.00740296</Low>
+    <Close>0.0076261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-13</Date>
+    <Open>0.00765535</Open>
+    <High>0.00781469</High>
+    <Low>0.00750375</Low>
+    <Close>0.00755377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-14</Date>
+    <Open>0.00755377</Open>
+    <High>0.00771463</High>
+    <Low>0.00751375</Low>
+    <Close>0.00762457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-15</Date>
+    <Open>0.0076138</Open>
+    <High>0.00791554</High>
+    <Low>0.00754377</Low>
+    <Close>0.00787551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-16</Date>
+    <Open>0.00787551</Open>
+    <High>0.00794397</High>
+    <Low>0.00774464</Low>
+    <Close>0.00785392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-17</Date>
+    <Open>0.00785314</Open>
+    <High>0.00804402</High>
+    <Low>0.00770308</Low>
+    <Close>0.00804402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-18</Date>
+    <Open>0.00804402</Open>
+    <High>0.00804402</High>
+    <Low>0.00773232</Low>
+    <Close>0.00783313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-19</Date>
+    <Open>0.00783313</Open>
+    <High>0.0080721</High>
+    <Low>0.00782898</Low>
+    <Close>0.00805242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-20</Date>
+    <Open>0.00805402</Open>
+    <High>0.00821739</High>
+    <Low>0.0080064</Low>
+    <Close>0.00805724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-21</Date>
+    <Open>0.00805724</Open>
+    <High>0.00805805</High>
+    <Low>0.00779389</Low>
+    <Close>0.00780468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-22</Date>
+    <Open>0.0078039</Open>
+    <High>0.00790395</High>
+    <Low>0.00769384</Low>
+    <Close>0.00790395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-23</Date>
+    <Open>0.00786393</Open>
+    <High>0.00804177</High>
+    <Low>0.00783008</Low>
+    <Close>0.00783039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-24</Date>
+    <Open>0.00783039</Open>
+    <High>0.00783086</High>
+    <Low>0.0074997</Low>
+    <Close>0.00761954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-25</Date>
+    <Open>0.00761962</Open>
+    <High>0.00782977</High>
+    <Low>0.00753902</Low>
+    <Close>0.00774015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-26</Date>
+    <Open>0.0077431</Open>
+    <High>0.00776303</High>
+    <Low>0.00767992</Low>
+    <Close>0.00775155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-27</Date>
+    <Open>0.00775233</Open>
+    <High>0.00777264</High>
+    <Low>0.00770216</Low>
+    <Close>0.00770285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DGB">
+    <Date>2023-05-28</Date>
+    <Open>0.00770285</Open>
+    <High>0.00788394</High>
+    <Low>0.00770231</Low>
+    <Close>0.00785181</Close>
+  </Cryptocurrency>
+</Root>

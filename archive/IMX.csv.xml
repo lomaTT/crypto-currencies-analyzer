@@ -1,0 +1,3867 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-11-24</Date>
+    <Open>8.3545</Open>
+    <High>8.499</High>
+    <Low>7.665</Low>
+    <Close>7.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-11-25</Date>
+    <Open>7.882</Open>
+    <High>9.389</High>
+    <Low>7.8225</Low>
+    <Close>9.185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-11-26</Date>
+    <Open>9.218</Open>
+    <High>9.4975</High>
+    <Low>7.2</Low>
+    <Close>8.0335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-11-27</Date>
+    <Open>8.0</Open>
+    <High>8.4</High>
+    <Low>7.664</Low>
+    <Close>7.8905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-11-28</Date>
+    <Open>7.882</Open>
+    <High>7.9325</High>
+    <Low>6.9255</Low>
+    <Close>7.575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-11-29</Date>
+    <Open>7.623</Open>
+    <High>8.45</High>
+    <Low>7.623</Low>
+    <Close>8.2415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-11-30</Date>
+    <Open>8.228</Open>
+    <High>8.6715</High>
+    <Low>7.92</Low>
+    <Close>8.2615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-01</Date>
+    <Open>8.26</Open>
+    <High>8.337</High>
+    <Low>7.252</Low>
+    <Close>7.473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-02</Date>
+    <Open>7.5115</Open>
+    <High>7.5325</High>
+    <Low>6.5</Low>
+    <Close>6.515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-03</Date>
+    <Open>6.563</Open>
+    <High>7.0</High>
+    <Low>5.8535</Low>
+    <Close>6.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-04</Date>
+    <Open>6.162</Open>
+    <High>6.265</High>
+    <Low>5.0</Low>
+    <Close>5.756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-05</Date>
+    <Open>5.763</Open>
+    <High>6.4695</High>
+    <Low>5.377</Low>
+    <Close>5.4805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-06</Date>
+    <Open>5.4815</Open>
+    <High>5.8455</High>
+    <Low>4.3705</Low>
+    <Close>5.231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-07</Date>
+    <Open>5.21</Open>
+    <High>5.5555</High>
+    <Low>5.04</Low>
+    <Close>5.2675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-08</Date>
+    <Open>5.276</Open>
+    <High>6.6805</High>
+    <Low>5.1975</Low>
+    <Close>6.2175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-09</Date>
+    <Open>6.234</Open>
+    <High>6.92</High>
+    <Low>5.029</Low>
+    <Close>5.2195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-10</Date>
+    <Open>5.2365</Open>
+    <High>5.604</High>
+    <Low>4.6725</Low>
+    <Close>4.793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-11</Date>
+    <Open>4.787</Open>
+    <High>5.13</High>
+    <Low>4.7</Low>
+    <Close>4.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-12</Date>
+    <Open>4.88</Open>
+    <High>5.5345</High>
+    <Low>4.834</Low>
+    <Close>5.522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-13</Date>
+    <Open>5.522</Open>
+    <High>5.525</High>
+    <Low>4.56</Low>
+    <Close>4.7855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-14</Date>
+    <Open>4.7855</Open>
+    <High>5.1175</High>
+    <Low>4.5075</Low>
+    <Close>4.793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-15</Date>
+    <Open>4.823</Open>
+    <High>5.17789</High>
+    <Low>4.54062</Low>
+    <Close>4.90404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-16</Date>
+    <Open>4.90134</Open>
+    <High>5.4027</High>
+    <Low>4.89718</Low>
+    <Close>4.98459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-17</Date>
+    <Open>4.97969</Open>
+    <High>5.03151</High>
+    <Low>4.58908</Low>
+    <Close>4.72669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-18</Date>
+    <Open>4.72579</Open>
+    <High>4.82983</High>
+    <Low>4.61258</Low>
+    <Close>4.65416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-19</Date>
+    <Open>4.65553</Open>
+    <High>4.66903</High>
+    <Low>4.41893</Low>
+    <Close>4.52186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-20</Date>
+    <Open>4.52056</Open>
+    <High>4.53376</High>
+    <Low>3.9944</Low>
+    <Close>4.24157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-21</Date>
+    <Open>4.24007</Open>
+    <High>4.45308</High>
+    <Low>4.15276</Low>
+    <Close>4.43857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-22</Date>
+    <Open>4.44033</Open>
+    <High>4.73059</High>
+    <Low>4.44033</Low>
+    <Close>4.60444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-23</Date>
+    <Open>4.60044</Open>
+    <High>4.85364</High>
+    <Low>4.2517</Low>
+    <Close>4.79069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-24</Date>
+    <Open>4.79022</Open>
+    <High>4.93097</High>
+    <Low>4.64322</Low>
+    <Close>4.64989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-25</Date>
+    <Open>4.64829</Open>
+    <High>4.72463</High>
+    <Low>4.51381</Low>
+    <Close>4.66713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-26</Date>
+    <Open>4.66923</Open>
+    <High>4.74547</High>
+    <Low>4.49204</Low>
+    <Close>4.67614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-27</Date>
+    <Open>4.67507</Open>
+    <High>5.76383</High>
+    <Low>4.66907</Low>
+    <Close>5.55337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-28</Date>
+    <Open>5.55187</Open>
+    <High>5.58818</High>
+    <Low>4.66037</Low>
+    <Close>4.79346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-29</Date>
+    <Open>4.79206</Open>
+    <High>5.08131</High>
+    <Low>4.575</Low>
+    <Close>5.05611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-30</Date>
+    <Open>5.06811</Open>
+    <High>5.30126</High>
+    <Low>4.78778</Low>
+    <Close>5.16993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2021-12-31</Date>
+    <Open>5.17403</Open>
+    <High>5.20694</High>
+    <Low>4.84758</Low>
+    <Close>4.89199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-01</Date>
+    <Open>4.89279</Open>
+    <High>5.06179</High>
+    <Low>4.80224</Low>
+    <Close>4.80866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-02</Date>
+    <Open>4.80926</Open>
+    <High>5.06761</High>
+    <Low>4.77606</Low>
+    <Close>4.96399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-03</Date>
+    <Open>4.96459</Open>
+    <High>4.97189</High>
+    <Low>4.366</Low>
+    <Close>4.48995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-04</Date>
+    <Open>4.49045</Open>
+    <High>4.90661</High>
+    <Low>4.43936</Low>
+    <Close>4.77932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-05</Date>
+    <Open>4.77365</Open>
+    <High>5.0017</High>
+    <Low>4.17298</Low>
+    <Close>4.34313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-06</Date>
+    <Open>4.34653</Open>
+    <High>4.4581</High>
+    <Low>4.03519</Low>
+    <Close>4.11069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-07</Date>
+    <Open>4.10619</Open>
+    <High>4.17468</High>
+    <Low>3.74143</Low>
+    <Close>3.75262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-08</Date>
+    <Open>3.75262</Open>
+    <High>3.913</High>
+    <Low>3.36153</Low>
+    <Close>3.5359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-09</Date>
+    <Open>3.5376</Open>
+    <High>3.9143</High>
+    <Low>3.38846</Low>
+    <Close>3.8144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-10</Date>
+    <Open>3.8103</Open>
+    <High>4.3802</High>
+    <Low>3.42156</Low>
+    <Close>3.6941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-11</Date>
+    <Open>3.6938</Open>
+    <High>3.8924</High>
+    <Low>3.3105</Low>
+    <Close>3.57026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-12</Date>
+    <Open>3.57116</Open>
+    <High>3.82326</High>
+    <Low>3.5129</Low>
+    <Close>3.71709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-13</Date>
+    <Open>3.71699</Open>
+    <High>3.78029</High>
+    <Low>3.48714</Low>
+    <Close>3.51611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-14</Date>
+    <Open>3.51591</Open>
+    <High>3.63986</High>
+    <Low>3.48664</Low>
+    <Close>3.63369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-15</Date>
+    <Open>3.63415</Open>
+    <High>3.68978</High>
+    <Low>3.52841</Low>
+    <Close>3.61681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-16</Date>
+    <Open>3.61641</Open>
+    <High>4.38976</High>
+    <Low>3.6097</Low>
+    <Close>4.10864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-17</Date>
+    <Open>4.11064</Open>
+    <High>4.28671</High>
+    <Low>3.6801</Low>
+    <Close>3.7515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-18</Date>
+    <Open>3.7483</Open>
+    <High>3.85154</High>
+    <Low>3.50585</Low>
+    <Close>3.77573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-19</Date>
+    <Open>3.77621</Open>
+    <High>3.80152</High>
+    <Low>3.50415</Low>
+    <Close>3.56967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-20</Date>
+    <Open>3.56941</Open>
+    <High>3.75155</High>
+    <Low>3.42304</Low>
+    <Close>3.43909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-21</Date>
+    <Open>3.43554</Open>
+    <High>3.44119</High>
+    <Low>2.66283</Low>
+    <Close>2.67974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-22</Date>
+    <Open>2.6739</Open>
+    <High>2.91988</High>
+    <Low>2.0239</Low>
+    <Close>2.39192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-23</Date>
+    <Open>2.39392</Open>
+    <High>2.59692</High>
+    <Low>2.25415</Low>
+    <Close>2.37828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-24</Date>
+    <Open>2.37111</Open>
+    <High>2.5051</High>
+    <Low>2.0024</Low>
+    <Close>2.28989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-25</Date>
+    <Open>2.28996</Open>
+    <High>2.46133</High>
+    <Low>2.19516</Low>
+    <Close>2.32816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-26</Date>
+    <Open>2.32519</Open>
+    <High>3.24104</High>
+    <Low>2.30761</Low>
+    <Close>3.02982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-27</Date>
+    <Open>3.02982</Open>
+    <High>3.08285</High>
+    <Low>2.497</Low>
+    <Close>2.60804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-28</Date>
+    <Open>2.61531</Open>
+    <High>2.88286</High>
+    <Low>2.48575</Low>
+    <Close>2.80394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-29</Date>
+    <Open>2.80714</Open>
+    <High>2.94128</High>
+    <Low>2.66913</Low>
+    <Close>2.78684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-30</Date>
+    <Open>2.78454</Open>
+    <High>2.84845</High>
+    <Low>2.4971</Low>
+    <Close>2.54356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-01-31</Date>
+    <Open>2.54572</Open>
+    <High>2.74907</High>
+    <Low>2.46493</Low>
+    <Close>2.67164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-01</Date>
+    <Open>2.67234</Open>
+    <High>3.01831</High>
+    <Low>2.66196</Low>
+    <Close>2.85613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-02</Date>
+    <Open>2.85653</Open>
+    <High>3.1719</High>
+    <Low>2.76496</Low>
+    <Close>2.81825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-03</Date>
+    <Open>2.81625</Open>
+    <High>4.27614</High>
+    <Low>2.80724</Low>
+    <Close>3.45573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-04</Date>
+    <Open>3.45673</Open>
+    <High>3.51876</High>
+    <Low>2.75137</Low>
+    <Close>2.90432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-05</Date>
+    <Open>2.90602</Open>
+    <High>3.16792</High>
+    <Low>2.80718</Low>
+    <Close>2.8397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-06</Date>
+    <Open>2.8397</Open>
+    <High>2.98879</High>
+    <Low>2.72309</Low>
+    <Close>2.74837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-07</Date>
+    <Open>2.7488</Open>
+    <High>3.07777</High>
+    <Low>2.7479</Low>
+    <Close>2.95006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-08</Date>
+    <Open>2.95106</Open>
+    <High>3.81405</High>
+    <Low>2.60961</Low>
+    <Close>2.75247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-09</Date>
+    <Open>2.74774</Open>
+    <High>2.90933</High>
+    <Low>2.64785</Low>
+    <Close>2.83011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-10</Date>
+    <Open>2.82983</Open>
+    <High>2.86529</High>
+    <Low>2.56279</Low>
+    <Close>2.62584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-11</Date>
+    <Open>2.62684</Open>
+    <High>2.71135</High>
+    <Low>2.22567</Low>
+    <Close>2.23867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-12</Date>
+    <Open>2.24257</Open>
+    <High>2.3819</High>
+    <Low>2.2051</Low>
+    <Close>2.30738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-13</Date>
+    <Open>2.30838</Open>
+    <High>2.46748</High>
+    <Low>2.24912</Low>
+    <Close>2.31739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-14</Date>
+    <Open>2.31939</Open>
+    <High>2.34941</High>
+    <Low>2.1713</Low>
+    <Close>2.29538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-15</Date>
+    <Open>2.30038</Open>
+    <High>2.49149</High>
+    <Low>2.27614</Low>
+    <Close>2.44246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-16</Date>
+    <Open>2.44447</Open>
+    <High>2.50475</High>
+    <Low>2.3284</Low>
+    <Close>2.4042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-17</Date>
+    <Open>2.3982</Open>
+    <High>2.41845</High>
+    <Low>2.10626</Low>
+    <Close>2.15451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-18</Date>
+    <Open>2.15029</Open>
+    <High>2.20154</High>
+    <Low>2.03022</Low>
+    <Close>2.04423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-19</Date>
+    <Open>2.04523</Open>
+    <High>2.10326</High>
+    <Low>1.89514</Low>
+    <Close>1.96798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-20</Date>
+    <Open>1.96618</Open>
+    <High>1.97999</High>
+    <Low>1.77589</Low>
+    <Close>1.83492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-21</Date>
+    <Open>1.83792</Open>
+    <High>1.96379</High>
+    <Low>1.5938</Low>
+    <Close>1.61681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-22</Date>
+    <Open>1.61581</Open>
+    <High>1.69268</High>
+    <Low>1.55262</Low>
+    <Close>1.6058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-23</Date>
+    <Open>1.6058</Open>
+    <High>1.72403</High>
+    <Low>1.55693</Low>
+    <Close>1.59796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-24</Date>
+    <Open>1.59796</Open>
+    <High>1.59796</High>
+    <Low>1.31766</Low>
+    <Close>1.47759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-25</Date>
+    <Open>1.47844</Open>
+    <High>1.58047</High>
+    <Low>1.44958</Low>
+    <Close>1.55778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-26</Date>
+    <Open>1.55178</Open>
+    <High>1.61865</High>
+    <Low>1.4976</Low>
+    <Close>1.52176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-27</Date>
+    <Open>1.52126</Open>
+    <High>1.59064</High>
+    <Low>1.37068</Low>
+    <Close>1.41731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-02-28</Date>
+    <Open>1.41871</Open>
+    <High>1.54087</High>
+    <Low>1.38339</Low>
+    <Close>1.51481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-01</Date>
+    <Open>1.51811</Open>
+    <High>1.64566</High>
+    <Low>1.5026</Low>
+    <Close>1.56847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-02</Date>
+    <Open>1.57047</Open>
+    <High>1.58848</High>
+    <Low>1.45234</Low>
+    <Close>1.4765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-03</Date>
+    <Open>1.47604</Open>
+    <High>1.49535</High>
+    <Low>1.40258</Low>
+    <Close>1.45379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-04</Date>
+    <Open>1.45459</Open>
+    <High>1.48585</High>
+    <Low>1.27836</Low>
+    <Close>1.3198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-05</Date>
+    <Open>1.3185</Open>
+    <High>1.3313</High>
+    <Low>1.25125</Low>
+    <Close>1.28699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-06</Date>
+    <Open>1.28779</Open>
+    <High>1.28779</High>
+    <Low>1.16783</Low>
+    <Close>1.18345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-07</Date>
+    <Open>1.18556</Open>
+    <High>1.76953</High>
+    <Low>1.10203</Low>
+    <Close>1.46244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-08</Date>
+    <Open>1.46144</Open>
+    <High>1.83455</High>
+    <Low>1.46044</Low>
+    <Close>1.4863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-09</Date>
+    <Open>1.4873</Open>
+    <High>1.76735</High>
+    <Low>1.42729</Low>
+    <Close>1.54915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-10</Date>
+    <Open>1.55031</Open>
+    <High>1.69534</High>
+    <Low>1.46844</Low>
+    <Close>1.52461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-11</Date>
+    <Open>1.62865</Open>
+    <High>1.85756</High>
+    <Low>1.55762</Low>
+    <Close>1.68234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-12</Date>
+    <Open>1.68334</Open>
+    <High>1.9672</High>
+    <Low>1.66833</Low>
+    <Close>1.88419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-13</Date>
+    <Open>1.88219</Open>
+    <High>1.9804</High>
+    <Low>1.6595</Low>
+    <Close>1.6835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-14</Date>
+    <Open>1.68067</Open>
+    <High>1.74535</High>
+    <Low>1.56016</Low>
+    <Close>1.61532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-15</Date>
+    <Open>1.61616</Open>
+    <High>1.65933</High>
+    <Low>1.5073</Low>
+    <Close>1.52246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-16</Date>
+    <Open>1.52346</Open>
+    <High>1.63233</High>
+    <Low>1.45929</Low>
+    <Close>1.60048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-17</Date>
+    <Open>1.59848</Open>
+    <High>1.68551</High>
+    <Low>1.55662</Low>
+    <Close>1.57679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-18</Date>
+    <Open>1.57663</Open>
+    <High>1.63882</High>
+    <Low>1.49189</Low>
+    <Close>1.62981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-19</Date>
+    <Open>1.6323</Open>
+    <High>2.2081</High>
+    <Low>1.5928</Low>
+    <Close>2.08583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-20</Date>
+    <Open>2.09084</Open>
+    <High>2.36094</High>
+    <Low>1.93096</Low>
+    <Close>2.09584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-21</Date>
+    <Open>2.09605</Open>
+    <High>2.30815</High>
+    <Low>1.9938</Low>
+    <Close>2.17387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-22</Date>
+    <Open>2.17487</Open>
+    <High>2.44322</High>
+    <Low>2.08283</Low>
+    <Close>2.27714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-23</Date>
+    <Open>2.28514</Open>
+    <High>2.42597</High>
+    <Low>2.14007</Low>
+    <Close>2.2579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-24</Date>
+    <Open>2.2569</Open>
+    <High>2.36495</High>
+    <Low>2.10805</Low>
+    <Close>2.15886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-25</Date>
+    <Open>2.15708</Open>
+    <High>2.27514</High>
+    <Low>2.11084</Low>
+    <Close>2.23612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-26</Date>
+    <Open>2.23389</Open>
+    <High>2.26791</High>
+    <Low>2.15286</Low>
+    <Close>2.19988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-27</Date>
+    <Open>2.2001</Open>
+    <High>2.4012</High>
+    <Low>2.17409</Low>
+    <Close>2.27391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-28</Date>
+    <Open>2.27291</Open>
+    <High>2.69008</High>
+    <Low>2.2629</Low>
+    <Close>2.61605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-29</Date>
+    <Open>2.62958</Open>
+    <High>2.78811</High>
+    <Low>2.502</Low>
+    <Close>2.57329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-30</Date>
+    <Open>2.57128</Open>
+    <High>2.74137</High>
+    <Low>2.5225</Low>
+    <Close>2.61779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-03-31</Date>
+    <Open>2.61879</Open>
+    <High>2.84828</High>
+    <Low>2.30046</Low>
+    <Close>2.36947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-01</Date>
+    <Open>2.37171</Open>
+    <High>2.55928</High>
+    <Low>2.21466</Low>
+    <Close>2.48374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-02</Date>
+    <Open>2.48399</Open>
+    <High>2.77211</High>
+    <Low>2.44149</Low>
+    <Close>2.495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-03</Date>
+    <Open>2.495</Open>
+    <High>2.64506</High>
+    <Low>2.3497</Low>
+    <Close>2.62105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-04</Date>
+    <Open>2.62779</Open>
+    <High>2.67607</High>
+    <Low>2.32747</Low>
+    <Close>2.47149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-05</Date>
+    <Open>2.4775</Open>
+    <High>2.55076</High>
+    <Low>2.33123</Low>
+    <Close>2.35747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-06</Date>
+    <Open>2.35824</Open>
+    <High>2.38148</High>
+    <Low>1.985</Low>
+    <Close>2.097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-07</Date>
+    <Open>2.089</Open>
+    <High>2.177</High>
+    <Low>1.964</Low>
+    <Close>2.11421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-08</Date>
+    <Open>2.11221</Open>
+    <High>2.18722</High>
+    <Low>1.9934</Low>
+    <Close>2.02981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-09</Date>
+    <Open>2.02881</Open>
+    <High>2.31069</High>
+    <Low>2.0016</Low>
+    <Close>2.11864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-10</Date>
+    <Open>2.12164</Open>
+    <High>2.19966</High>
+    <Low>2.07341</Low>
+    <Close>2.12843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-11</Date>
+    <Open>2.12943</Open>
+    <High>2.13321</High>
+    <Low>1.72034</Low>
+    <Close>1.73352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-12</Date>
+    <Open>1.73235</Open>
+    <High>1.88038</High>
+    <Low>1.70851</Low>
+    <Close>1.81955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-13</Date>
+    <Open>1.81554</Open>
+    <High>1.87337</High>
+    <Low>1.73235</Low>
+    <Close>1.85055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-14</Date>
+    <Open>1.85256</Open>
+    <High>1.93258</High>
+    <Low>1.76253</Low>
+    <Close>1.80918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-15</Date>
+    <Open>1.80536</Open>
+    <High>1.83137</High>
+    <Low>1.73417</Low>
+    <Close>1.77736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-16</Date>
+    <Open>1.77776</Open>
+    <High>1.85217</High>
+    <Low>1.75688</Low>
+    <Close>1.83957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-17</Date>
+    <Open>1.84437</Open>
+    <High>1.86767</High>
+    <Low>1.78118</Low>
+    <Close>1.80046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-18</Date>
+    <Open>1.79876</Open>
+    <High>1.80666</High>
+    <Low>1.57441</Low>
+    <Close>1.74712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-19</Date>
+    <Open>1.74732</Open>
+    <High>1.9986</High>
+    <Low>1.73632</Low>
+    <Close>1.9808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-20</Date>
+    <Open>1.9794</Open>
+    <High>2.13043</High>
+    <Low>1.90438</Low>
+    <Close>1.94539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-21</Date>
+    <Open>1.94539</Open>
+    <High>2.13043</High>
+    <Low>1.87738</Low>
+    <Close>1.88919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-22</Date>
+    <Open>1.88738</Open>
+    <High>1.91638</High>
+    <Low>1.78436</Low>
+    <Close>1.81818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-23</Date>
+    <Open>1.81478</Open>
+    <High>1.89138</High>
+    <Low>1.76755</Low>
+    <Close>1.84438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-24</Date>
+    <Open>1.84347</Open>
+    <High>1.86307</High>
+    <Low>1.71844</Low>
+    <Close>1.74005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-25</Date>
+    <Open>1.73965</Open>
+    <High>1.79406</High>
+    <Low>1.59446</Low>
+    <Close>1.78586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-26</Date>
+    <Open>1.78576</Open>
+    <High>1.86279</High>
+    <Low>1.62926</Low>
+    <Close>1.68427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-27</Date>
+    <Open>1.68507</Open>
+    <High>1.7417</High>
+    <Low>1.6192</Low>
+    <Close>1.68637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-28</Date>
+    <Open>1.68757</Open>
+    <High>1.75688</High>
+    <Low>1.6412</Low>
+    <Close>1.69167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-29</Date>
+    <Open>1.69167</Open>
+    <High>1.70917</High>
+    <Low>1.5249</Low>
+    <Close>1.54515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-04-30</Date>
+    <Open>1.54385</Open>
+    <High>1.59296</High>
+    <Low>1.44814</Low>
+    <Close>1.457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-01</Date>
+    <Open>1.4532</Open>
+    <High>1.57306</High>
+    <Low>1.2896</Low>
+    <Close>1.4961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-02</Date>
+    <Open>1.49515</Open>
+    <High>1.60516</High>
+    <Low>1.428</Low>
+    <Close>1.53815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-03</Date>
+    <Open>1.53715</Open>
+    <High>1.651</High>
+    <Low>1.506</Low>
+    <Close>1.57784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-04</Date>
+    <Open>1.57684</Open>
+    <High>1.86681</High>
+    <Low>1.54185</Low>
+    <Close>1.856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-05</Date>
+    <Open>1.856</Open>
+    <High>1.85663</High>
+    <Low>1.4947</Low>
+    <Close>1.58068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-06</Date>
+    <Open>1.58184</Open>
+    <High>1.59268</High>
+    <Low>1.44271</Low>
+    <Close>1.50185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-07</Date>
+    <Open>1.50185</Open>
+    <High>1.53185</High>
+    <Low>1.41372</Low>
+    <Close>1.41472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-08</Date>
+    <Open>1.41486</Open>
+    <High>1.46042</High>
+    <Low>1.34446</Low>
+    <Close>1.39158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-09</Date>
+    <Open>1.38958</Open>
+    <High>1.40372</High>
+    <Low>1.16253</Low>
+    <Close>1.20076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-10</Date>
+    <Open>1.20176</Open>
+    <High>1.33447</High>
+    <Low>1.09967</Low>
+    <Close>1.12255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-11</Date>
+    <Open>1.13055</Open>
+    <High>1.24938</High>
+    <Low>0.71735</Low>
+    <Close>0.82992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-12</Date>
+    <Open>0.83382</Open>
+    <High>0.938044</High>
+    <Low>0.644371</Low>
+    <Close>0.757027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-13</Date>
+    <Open>0.754956</Open>
+    <High>0.967837</High>
+    <Low>0.748972</Low>
+    <Close>0.866524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-14</Date>
+    <Open>0.868521</Open>
+    <High>0.899468</High>
+    <Low>0.746429</Low>
+    <Close>0.825759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-15</Date>
+    <Open>0.826841</Open>
+    <High>0.939871</High>
+    <Low>0.80579</Low>
+    <Close>0.932879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-16</Date>
+    <Open>0.932879</Open>
+    <High>0.967837</High>
+    <Low>0.814858</Low>
+    <Close>0.895744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-17</Date>
+    <Open>0.895834</Open>
+    <High>0.937967</High>
+    <Low>0.855886</Low>
+    <Close>0.932786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-18</Date>
+    <Open>0.933785</Open>
+    <High>0.943771</High>
+    <Low>0.793967</Low>
+    <Close>0.825925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-19</Date>
+    <Open>0.825925</Open>
+    <High>0.902187</High>
+    <Low>0.782217</Low>
+    <Close>0.891108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-20</Date>
+    <Open>0.889199</Open>
+    <High>0.919987</High>
+    <Low>0.809946</Low>
+    <Close>0.839991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-21</Date>
+    <Open>0.838992</Open>
+    <High>1.01967</High>
+    <Low>0.836994</Low>
+    <Close>0.938778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-22</Date>
+    <Open>0.938778</Open>
+    <High>1.07371</High>
+    <Low>0.931694</Low>
+    <Close>0.974829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-23</Date>
+    <Open>0.977825</Open>
+    <High>1.05394</High>
+    <Low>0.960942</Low>
+    <Close>1.01678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-24</Date>
+    <Open>1.01678</Open>
+    <High>1.01678</High>
+    <Low>0.910206</Low>
+    <Close>0.968639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-25</Date>
+    <Open>0.96984</Open>
+    <High>0.980822</High>
+    <Low>0.911496</Low>
+    <Close>0.952056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-26</Date>
+    <Open>0.950658</Open>
+    <High>0.969033</High>
+    <Low>0.794925</Low>
+    <Close>0.860838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-27</Date>
+    <Open>0.860838</Open>
+    <High>0.917681</High>
+    <Low>0.795504</Low>
+    <Close>0.861737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-28</Date>
+    <Open>0.860439</Open>
+    <High>0.926652</High>
+    <Low>0.837759</Low>
+    <Close>0.908136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-29</Date>
+    <Open>0.907818</Open>
+    <High>1.01445</High>
+    <Low>0.886233</Low>
+    <Close>0.990409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-30</Date>
+    <Open>0.992098</Open>
+    <High>1.17838</High>
+    <Low>0.982377</Low>
+    <Close>1.16147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-05-31</Date>
+    <Open>1.15969</Open>
+    <High>1.19804</High>
+    <Low>1.04337</Low>
+    <Close>1.08473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-01</Date>
+    <Open>1.08376</Open>
+    <High>1.12588</High>
+    <Low>0.93226</Low>
+    <Close>0.95574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-02</Date>
+    <Open>0.95543</Open>
+    <High>0.99151</High>
+    <Low>0.90708</Low>
+    <Close>0.97622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-03</Date>
+    <Open>0.97632</Open>
+    <High>1.00969</High>
+    <Low>0.90548</Low>
+    <Close>0.96436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-04</Date>
+    <Open>0.96566</Open>
+    <High>0.98485</High>
+    <Low>0.92274</Low>
+    <Close>0.96007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-05</Date>
+    <Open>0.95997</Open>
+    <High>1.01842</High>
+    <Low>0.93525</Low>
+    <Close>0.98827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-06</Date>
+    <Open>0.98927</Open>
+    <High>1.0722</High>
+    <Low>0.9712</Low>
+    <Close>1.02013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-07</Date>
+    <Open>1.02214</Open>
+    <High>1.04511</High>
+    <Low>0.92922</Low>
+    <Close>1.00418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-08</Date>
+    <Open>1.0012</Open>
+    <High>1.02319</High>
+    <Low>0.93639</Low>
+    <Close>0.98136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-09</Date>
+    <Open>0.98136</Open>
+    <High>1.0032</High>
+    <Low>0.94226</Low>
+    <Close>0.982174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-10</Date>
+    <Open>0.983164</Open>
+    <High>0.99922</High>
+    <Low>0.880084</Low>
+    <Close>0.90484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-11</Date>
+    <Open>0.905848</Open>
+    <High>0.918607</High>
+    <Low>0.787294</Low>
+    <Close>0.829853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-12</Date>
+    <Open>0.829154</Open>
+    <High>0.835863</High>
+    <Low>0.72917</Low>
+    <Close>0.786332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-13</Date>
+    <Open>0.785333</Open>
+    <High>0.785333</High>
+    <Low>0.643775</Low>
+    <Close>0.69004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-14</Date>
+    <Open>0.691045</Open>
+    <High>0.740887</High>
+    <Low>0.632057</Low>
+    <Close>0.684178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-15</Date>
+    <Open>0.685184</Open>
+    <High>0.784137</High>
+    <Low>0.63785</Low>
+    <Close>0.777832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-16</Date>
+    <Open>0.777</Open>
+    <High>0.785</High>
+    <Low>0.676287</Low>
+    <Close>0.709277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-17</Date>
+    <Open>0.68275</Open>
+    <High>0.794294</High>
+    <Low>0.677257</Low>
+    <Close>0.754294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-18</Date>
+    <Open>0.755392</Open>
+    <High>0.782859</High>
+    <Low>0.636695</Low>
+    <Close>0.682792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-19</Date>
+    <Open>0.682386</Open>
+    <High>0.792248</High>
+    <Low>0.675027</Low>
+    <Close>0.776589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-20</Date>
+    <Open>0.776589</Open>
+    <High>0.825773</High>
+    <Low>0.732646</Low>
+    <Close>0.775446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-21</Date>
+    <Open>0.775946</Open>
+    <High>0.857042</High>
+    <Low>0.769875</Low>
+    <Close>0.797722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-22</Date>
+    <Open>0.798321</Open>
+    <High>0.820079</High>
+    <Low>0.745754</Low>
+    <Close>0.778021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-23</Date>
+    <Open>0.776822</Open>
+    <High>0.846653</High>
+    <Low>0.761861</Low>
+    <Close>0.825973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-24</Date>
+    <Open>0.824674</Open>
+    <High>0.892912</High>
+    <Low>0.822377</Low>
+    <Close>0.888906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-25</Date>
+    <Open>0.888606</Open>
+    <High>0.906565</High>
+    <Low>0.83484</Low>
+    <Close>0.893174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-26</Date>
+    <Open>0.894373</Open>
+    <High>0.909381</High>
+    <Low>0.83539</Low>
+    <Close>0.858476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-27</Date>
+    <Open>0.858276</Open>
+    <High>0.864472</High>
+    <Low>0.800855</Low>
+    <Close>0.821368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-28</Date>
+    <Open>0.821976</Open>
+    <High>0.908709</High>
+    <Low>0.818022</Low>
+    <Close>0.874914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-29</Date>
+    <Open>0.874514</Open>
+    <High>0.987435</High>
+    <Low>0.833316</Low>
+    <Close>0.961235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-06-30</Date>
+    <Open>0.962344</Open>
+    <High>1.04325</High>
+    <Low>0.875182</Low>
+    <Close>1.01288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-01</Date>
+    <Open>1.01228</Open>
+    <High>1.03936</High>
+    <Low>0.901926</Low>
+    <Close>0.905902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-02</Date>
+    <Open>0.908999</Open>
+    <High>0.911105</High>
+    <Low>0.855686</Low>
+    <Close>0.906411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-03</Date>
+    <Open>0.906511</Open>
+    <High>0.918005</High>
+    <Low>0.864575</Low>
+    <Close>0.896134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-04</Date>
+    <Open>0.895534</Open>
+    <High>0.946862</High>
+    <Low>0.880853</Low>
+    <Close>0.944066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-05</Date>
+    <Open>0.944765</Open>
+    <High>1.02038</High>
+    <Low>0.924782</Low>
+    <Close>1.0012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-06</Date>
+    <Open>1.0015</Open>
+    <High>1.02597</High>
+    <Low>0.97153</Low>
+    <Close>1.00429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-07</Date>
+    <Open>1.00639</Open>
+    <High>1.03558</High>
+    <Low>0.966136</Low>
+    <Close>1.01619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-08</Date>
+    <Open>1.01629</Open>
+    <High>1.03737</High>
+    <Low>0.957125</Low>
+    <Close>0.969618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-09</Date>
+    <Open>0.969718</Open>
+    <High>0.995602</High>
+    <Low>0.952628</Low>
+    <Close>0.977713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-10</Date>
+    <Open>0.977415</Open>
+    <High>0.98331</High>
+    <Low>0.892164</Low>
+    <Close>0.911153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-11</Date>
+    <Open>0.910353</Open>
+    <High>0.916858</High>
+    <Low>0.875187</Low>
+    <Close>0.886601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-12</Date>
+    <Open>0.887501</Open>
+    <High>0.887678</High>
+    <Low>0.834681</Low>
+    <Close>0.836263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-13</Date>
+    <Open>0.835297</Open>
+    <High>0.873825</High>
+    <Low>0.808491</Low>
+    <Close>0.853831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-14</Date>
+    <Open>0.853931</Open>
+    <High>0.917049</High>
+    <Low>0.844524</Low>
+    <Close>0.891565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-15</Date>
+    <Open>0.891565</Open>
+    <High>0.936438</High>
+    <Low>0.891565</Low>
+    <Close>0.914726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-16</Date>
+    <Open>0.914825</Open>
+    <High>0.95071</High>
+    <Low>0.881036</Low>
+    <Close>0.919824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-17</Date>
+    <Open>0.919516</Open>
+    <High>0.948882</High>
+    <Low>0.906828</Low>
+    <Close>0.92426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-18</Date>
+    <Open>0.92475</Open>
+    <High>1.05482</High>
+    <Low>0.909981</Low>
+    <Close>0.992872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-19</Date>
+    <Open>0.992872</Open>
+    <High>1.0712</High>
+    <Low>0.98788</Low>
+    <Close>1.04827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-20</Date>
+    <Open>1.04807</Open>
+    <High>1.12779</High>
+    <Low>0.97303</Low>
+    <Close>0.99915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-21</Date>
+    <Open>0.99935</Open>
+    <High>1.00052</High>
+    <Low>0.9326</Low>
+    <Close>0.99345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-22</Date>
+    <Open>0.99315</Open>
+    <High>1.024</High>
+    <Low>0.92719</Low>
+    <Close>0.93991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-23</Date>
+    <Open>0.93951</Open>
+    <High>0.96678</High>
+    <Low>0.8957</Low>
+    <Close>0.90797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-24</Date>
+    <Open>0.90797</Open>
+    <High>0.94143</High>
+    <Low>0.90779</Low>
+    <Close>0.93078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-25</Date>
+    <Open>0.92978</Open>
+    <High>0.93919</High>
+    <Low>0.85182</Low>
+    <Close>0.86287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-26</Date>
+    <Open>0.86218</Open>
+    <High>0.86218</High>
+    <Low>0.78352</Low>
+    <Close>0.79812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-27</Date>
+    <Open>0.79932</Open>
+    <High>0.87502</High>
+    <Low>0.78964</Low>
+    <Close>0.86481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-28</Date>
+    <Open>0.86301</Open>
+    <High>0.96431</High>
+    <Low>0.86272</Low>
+    <Close>0.94909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-29</Date>
+    <Open>0.94604</Open>
+    <High>1.07389</High>
+    <Low>0.9307</Low>
+    <Close>1.03642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-30</Date>
+    <Open>1.03642</Open>
+    <High>1.29545</High>
+    <Low>1.02642</Low>
+    <Close>1.17839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-07-31</Date>
+    <Open>1.1804</Open>
+    <High>1.20447</High>
+    <Low>1.11034</Low>
+    <Close>1.11826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-01</Date>
+    <Open>1.12145</Open>
+    <High>1.14852</High>
+    <Low>1.04515</Low>
+    <Close>1.06232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-02</Date>
+    <Open>1.06132</Open>
+    <High>1.09443</High>
+    <Low>0.97829</Low>
+    <Close>1.05118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-03</Date>
+    <Open>1.05221</Open>
+    <High>1.14933</High>
+    <Low>1.02226</Low>
+    <Close>1.11328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-04</Date>
+    <Open>1.11326</Open>
+    <High>1.23207</High>
+    <Low>1.07412</Low>
+    <Close>1.10203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-05</Date>
+    <Open>1.10203</Open>
+    <High>1.19023</High>
+    <Low>1.10104</Low>
+    <Close>1.16522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-06</Date>
+    <Open>1.16822</Open>
+    <High>1.22424</High>
+    <Low>1.14216</Low>
+    <Close>1.15425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-07</Date>
+    <Open>1.14925</Open>
+    <High>1.16322</High>
+    <Low>1.10623</Low>
+    <Close>1.15822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-08</Date>
+    <Open>1.15622</Open>
+    <High>1.2392</High>
+    <Low>1.13719</Low>
+    <Close>1.20014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-09</Date>
+    <Open>1.20014</Open>
+    <High>1.27822</High>
+    <Low>1.08324</Low>
+    <Close>1.11622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-10</Date>
+    <Open>1.11522</Open>
+    <High>1.17775</High>
+    <Low>1.0633</Low>
+    <Close>1.13533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-11</Date>
+    <Open>1.12734</Open>
+    <High>1.17752</High>
+    <Low>1.12527</Low>
+    <Close>1.13353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-12</Date>
+    <Open>1.13757</Open>
+    <High>1.14857</High>
+    <Low>1.10344</Low>
+    <Close>1.13552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-13</Date>
+    <Open>1.13551</Open>
+    <High>1.16964</High>
+    <Low>1.12836</Low>
+    <Close>1.13644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-14</Date>
+    <Open>1.13545</Open>
+    <High>1.1694</High>
+    <Low>1.07523</Low>
+    <Close>1.09034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-15</Date>
+    <Open>1.08833</Open>
+    <High>1.12733</High>
+    <Low>1.03725</Low>
+    <Close>1.04326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-16</Date>
+    <Open>1.04626</Open>
+    <High>1.05221</High>
+    <Low>1.01106</Low>
+    <Close>1.02209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-17</Date>
+    <Open>1.02609</Open>
+    <High>1.06313</High>
+    <Low>0.94406</Low>
+    <Close>0.95407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-18</Date>
+    <Open>0.97808</Open>
+    <High>0.98407</High>
+    <Low>0.94408</Low>
+    <Close>0.95801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-19</Date>
+    <Open>0.9571</Open>
+    <High>0.9611</High>
+    <Low>0.822</Low>
+    <Close>0.85909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-20</Date>
+    <Open>0.89002</Open>
+    <High>0.90305</High>
+    <Low>0.82603</Low>
+    <Close>0.832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-21</Date>
+    <Open>0.83198</Open>
+    <High>0.89896</High>
+    <Low>0.83</Low>
+    <Close>0.88798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-22</Date>
+    <Open>0.89497</Open>
+    <High>0.89498</High>
+    <Low>0.81793</Low>
+    <Close>0.83785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-23</Date>
+    <Open>0.85086</Open>
+    <High>0.88603</High>
+    <Low>0.83398</Low>
+    <Close>0.86702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-24</Date>
+    <Open>0.869</Open>
+    <High>0.88309</High>
+    <Low>0.84294</Low>
+    <Close>0.88108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-25</Date>
+    <Open>0.88108</Open>
+    <High>0.88496</High>
+    <Low>0.85204</Low>
+    <Close>0.86803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-26</Date>
+    <Open>0.86801</Open>
+    <High>0.88017</High>
+    <Low>0.78692</Low>
+    <Close>0.79708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-27</Date>
+    <Open>0.79807</Open>
+    <High>0.79908</High>
+    <Low>0.76607</Low>
+    <Close>0.78202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-28</Date>
+    <Open>0.78202</Open>
+    <High>0.81202</High>
+    <Low>0.77902</Low>
+    <Close>0.79299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-29</Date>
+    <Open>0.80099</Open>
+    <High>0.86907</High>
+    <Low>0.75992</Low>
+    <Close>0.86106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-30</Date>
+    <Open>0.86509</Open>
+    <High>0.876991</High>
+    <Low>0.806056</Low>
+    <Close>0.837075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-08-31</Date>
+    <Open>0.845068</Open>
+    <High>0.868017</High>
+    <Low>0.8311</Low>
+    <Close>0.843992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-01</Date>
+    <Open>0.843983</Open>
+    <High>0.853009</High>
+    <Low>0.794952</Low>
+    <Close>0.82795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-02</Date>
+    <Open>0.823967</Open>
+    <High>0.850136</High>
+    <Low>0.807032</Low>
+    <Close>0.821123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-03</Date>
+    <Open>0.817131</Open>
+    <High>0.831</High>
+    <Low>0.808</Low>
+    <Close>0.824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-04</Date>
+    <Open>0.821082</Open>
+    <High>0.846085</High>
+    <Low>0.818</Low>
+    <Close>0.841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-05</Date>
+    <Open>0.839</Open>
+    <High>0.853085</High>
+    <Low>0.819</Low>
+    <Close>0.835083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-06</Date>
+    <Open>0.836084</Open>
+    <High>0.864086</High>
+    <Low>0.774</Low>
+    <Close>0.782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-07</Date>
+    <Open>0.780047</Open>
+    <High>0.845042</High>
+    <Low>0.759977</Low>
+    <Close>0.833058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-08</Date>
+    <Open>0.845051</Open>
+    <High>0.845051</High>
+    <Low>0.796008</Low>
+    <Close>0.820131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-09</Date>
+    <Open>0.822132</Open>
+    <High>0.88022</High>
+    <Low>0.81409</Low>
+    <Close>0.866294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-10</Date>
+    <Open>0.866329</Open>
+    <High>0.890231</High>
+    <Low>0.860301</Low>
+    <Close>0.869165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-11</Date>
+    <Open>0.863181</Open>
+    <High>0.883336</High>
+    <Low>0.847203</Low>
+    <Close>0.860206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-12</Date>
+    <Open>0.855205</Open>
+    <High>0.912228</High>
+    <Low>0.835142</Low>
+    <Close>0.863155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-13</Date>
+    <Open>0.863155</Open>
+    <High>0.890231</High>
+    <Low>0.796016</Low>
+    <Close>0.811016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-14</Date>
+    <Open>0.814016</Open>
+    <High>0.82605</High>
+    <Low>0.796968</Low>
+    <Close>0.824206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-15</Date>
+    <Open>0.820213</Open>
+    <High>0.830191</High>
+    <Low>0.779805</Low>
+    <Close>0.800928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-16</Date>
+    <Open>0.800952</Open>
+    <High>0.811976</High>
+    <Low>0.774768</Low>
+    <Close>0.79592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-17</Date>
+    <Open>0.792921</Open>
+    <High>0.810081</High>
+    <Low>0.789921</Low>
+    <Close>0.806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-18</Date>
+    <Open>0.801</Open>
+    <High>0.830917</High>
+    <Low>0.768923</Low>
+    <Close>0.771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-19</Date>
+    <Open>0.812919</Open>
+    <High>0.815</High>
+    <Low>0.718</Low>
+    <Close>0.774155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-20</Date>
+    <Open>0.768154</Open>
+    <High>0.780156</High>
+    <Low>0.749075</Low>
+    <Close>0.754075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-21</Date>
+    <Open>0.756</Open>
+    <High>0.793079</High>
+    <Low>0.731</Low>
+    <Close>0.736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-22</Date>
+    <Open>0.755</Open>
+    <High>0.787</High>
+    <Low>0.729</Low>
+    <Close>0.779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-23</Date>
+    <Open>0.780078</Open>
+    <High>0.806</High>
+    <Low>0.741926</Low>
+    <Close>0.775922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-24</Date>
+    <Open>0.765954</Open>
+    <High>0.779992</High>
+    <Low>0.74406</Low>
+    <Close>0.74406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-25</Date>
+    <Open>0.761</Open>
+    <High>0.761076</High>
+    <Low>0.722022</Low>
+    <Close>0.726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-26</Date>
+    <Open>0.736</Open>
+    <High>0.741</High>
+    <Low>0.711929</Low>
+    <Close>0.732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-27</Date>
+    <Open>0.734</Open>
+    <High>0.781</High>
+    <Low>0.732</Low>
+    <Close>0.736926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-28</Date>
+    <Open>0.736926</Open>
+    <High>0.753</High>
+    <Low>0.712929</Low>
+    <Close>0.748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-29</Date>
+    <Open>0.748</Open>
+    <High>0.759576</High>
+    <Low>0.7272</Low>
+    <Close>0.754075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-09-30</Date>
+    <Open>0.7542</Open>
+    <High>0.7736</High>
+    <Low>0.746275</Low>
+    <Close>0.7552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-01</Date>
+    <Open>0.754375</Open>
+    <High>0.769177</High>
+    <Low>0.7504</Low>
+    <Close>0.7592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-02</Date>
+    <Open>0.7588</Open>
+    <High>0.7734</High>
+    <Low>0.736774</Low>
+    <Close>0.7661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-03</Date>
+    <Open>0.7658</Open>
+    <High>0.779778</High>
+    <Low>0.7362</Low>
+    <Close>0.766677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-04</Date>
+    <Open>0.766777</Open>
+    <High>0.802141</High>
+    <Low>0.762076</Low>
+    <Close>0.796939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-05</Date>
+    <Open>0.797039</Open>
+    <High>0.802641</High>
+    <Low>0.776678</Low>
+    <Close>0.784378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-06</Date>
+    <Open>0.785057</Open>
+    <High>0.797536</High>
+    <Low>0.756829</Low>
+    <Close>0.757329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-07</Date>
+    <Open>0.757229</Open>
+    <High>0.765022</High>
+    <Low>0.730951</Low>
+    <Close>0.739103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-08</Date>
+    <Open>0.739974</Open>
+    <High>0.746497</High>
+    <Low>0.722781</Low>
+    <Close>0.725489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-09</Date>
+    <Open>0.725589</Open>
+    <High>0.744074</High>
+    <Low>0.721908</Low>
+    <Close>0.734247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-10</Date>
+    <Open>0.732373</Open>
+    <High>0.741048</High>
+    <Low>0.70083</Low>
+    <Close>0.710029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-11</Date>
+    <Open>0.7089</Open>
+    <High>0.709229</High>
+    <Low>0.664634</Low>
+    <Close>0.685538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-12</Date>
+    <Open>0.685538</Open>
+    <High>0.692851</High>
+    <Low>0.661993</Low>
+    <Close>0.66632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-13</Date>
+    <Open>0.667027</Open>
+    <High>0.668607</High>
+    <Low>0.599858</Low>
+    <Close>0.660853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-14</Date>
+    <Open>0.66256</Open>
+    <High>0.677754</High>
+    <Low>0.623006</Low>
+    <Close>0.623719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-15</Date>
+    <Open>0.623925</Open>
+    <High>0.636257</High>
+    <Low>0.618356</Low>
+    <Close>0.619631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-16</Date>
+    <Open>0.623031</Open>
+    <High>0.643994</High>
+    <Low>0.610037</Low>
+    <Close>0.629025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-17</Date>
+    <Open>0.629631</Open>
+    <High>0.652065</High>
+    <Low>0.624981</Low>
+    <Close>0.643713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-18</Date>
+    <Open>0.644113</Open>
+    <High>0.652113</High>
+    <Low>0.605812</Low>
+    <Close>0.618825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-19</Date>
+    <Open>0.618562</Open>
+    <High>0.61955</High>
+    <Low>0.588918</Low>
+    <Close>0.5961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-20</Date>
+    <Open>0.595294</Open>
+    <High>0.5986</High>
+    <Low>0.563023</Low>
+    <Close>0.56976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-21</Date>
+    <Open>0.57006</Open>
+    <High>0.571654</High>
+    <Low>0.529584</Low>
+    <Close>0.559445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-22</Date>
+    <Open>0.559745</Open>
+    <High>0.561828</High>
+    <Low>0.543933</Low>
+    <Close>0.549549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-23</Date>
+    <Open>0.548444</Open>
+    <High>0.558634</High>
+    <Low>0.535838</Low>
+    <Close>0.553377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-24</Date>
+    <Open>0.553472</Open>
+    <High>0.573646</High>
+    <Low>0.544238</Low>
+    <Close>0.546522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-25</Date>
+    <Open>0.546822</Open>
+    <High>0.578262</High>
+    <Low>0.528689</Low>
+    <Close>0.569982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-26</Date>
+    <Open>0.569193</Open>
+    <High>0.58224</High>
+    <Low>0.559434</Low>
+    <Close>0.565658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-27</Date>
+    <Open>0.563158</Open>
+    <High>0.636002</High>
+    <Low>0.561151</Low>
+    <Close>0.596236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-28</Date>
+    <Open>0.596436</Open>
+    <High>0.656418</High>
+    <Low>0.570357</Low>
+    <Close>0.643729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-29</Date>
+    <Open>0.645216</Open>
+    <High>0.677296</High>
+    <Low>0.619054</Low>
+    <Close>0.631145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-30</Date>
+    <Open>0.631151</Open>
+    <High>0.657525</High>
+    <Low>0.602614</Low>
+    <Close>0.611422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-10-31</Date>
+    <Open>0.611728</Open>
+    <High>0.620412</High>
+    <Low>0.5713</Low>
+    <Close>0.593153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-01</Date>
+    <Open>0.593764</Open>
+    <High>0.606185</High>
+    <Low>0.578802</Low>
+    <Close>0.581436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-02</Date>
+    <Open>0.581442</Open>
+    <High>0.602306</High>
+    <Low>0.562506</Low>
+    <Close>0.570866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-03</Date>
+    <Open>0.570566</Open>
+    <High>0.63843</High>
+    <Low>0.568666</Low>
+    <Close>0.587894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-04</Date>
+    <Open>0.586994</Open>
+    <High>0.71425</High>
+    <Low>0.583377</Low>
+    <Close>0.668753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-05</Date>
+    <Open>0.668653</Open>
+    <High>0.724801</High>
+    <Low>0.648758</Low>
+    <Close>0.673634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-06</Date>
+    <Open>0.675041</Open>
+    <High>0.675434</High>
+    <Low>0.610573</Low>
+    <Close>0.615049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-07</Date>
+    <Open>0.613843</Open>
+    <High>0.615043</High>
+    <Low>0.571951</Low>
+    <Close>0.58067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-08</Date>
+    <Open>0.581274</Open>
+    <High>0.619967</High>
+    <Low>0.445879</Low>
+    <Close>0.515241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-09</Date>
+    <Open>0.515843</Open>
+    <High>0.533484</High>
+    <Low>0.392834</Low>
+    <Close>0.408216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-10</Date>
+    <Open>0.406469</Open>
+    <High>0.573619</High>
+    <Low>0.400174</Low>
+    <Close>0.501397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-11</Date>
+    <Open>0.501045</Open>
+    <High>0.55764</High>
+    <Low>0.4304</Low>
+    <Close>0.440636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-12</Date>
+    <Open>0.440076</Open>
+    <High>0.447804</High>
+    <Low>0.392892</Low>
+    <Close>0.412157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-13</Date>
+    <Open>0.412057</Open>
+    <High>0.424734</High>
+    <Low>0.395281</Low>
+    <Close>0.412921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-14</Date>
+    <Open>0.412721</Open>
+    <High>0.438186</High>
+    <Low>0.389676</Low>
+    <Close>0.423863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-15</Date>
+    <Open>0.423942</Open>
+    <High>0.438761</High>
+    <Low>0.41764</Low>
+    <Close>0.423176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-16</Date>
+    <Open>0.422977</Open>
+    <High>0.431594</High>
+    <Low>0.399588</Low>
+    <Close>0.408919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-17</Date>
+    <Open>0.408628</Open>
+    <High>0.416371</High>
+    <Low>0.400427</Low>
+    <Close>0.405875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-18</Date>
+    <Open>0.406483</Open>
+    <High>0.416954</High>
+    <Low>0.399824</Low>
+    <Close>0.403332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-19</Date>
+    <Open>0.403436</Open>
+    <High>0.430335</High>
+    <Low>0.396875</Low>
+    <Close>0.427051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-20</Date>
+    <Open>0.427155</Open>
+    <High>0.427215</High>
+    <Low>0.389763</Low>
+    <Close>0.393801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-21</Date>
+    <Open>0.39301</Open>
+    <High>0.469469</High>
+    <Low>0.375931</Low>
+    <Close>0.4131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-22</Date>
+    <Open>0.413303</Open>
+    <High>0.438726</High>
+    <Low>0.387335</Low>
+    <Close>0.426779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-23</Date>
+    <Open>0.426879</Open>
+    <High>0.450055</High>
+    <Low>0.426084</Low>
+    <Close>0.448007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-24</Date>
+    <Open>0.44861</Open>
+    <High>0.456797</High>
+    <Low>0.429048</Low>
+    <Close>0.430238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-25</Date>
+    <Open>0.430238</Open>
+    <High>0.43675</High>
+    <Low>0.410237</Low>
+    <Close>0.418565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-26</Date>
+    <Open>0.419261</Open>
+    <High>0.447223</High>
+    <Low>0.416654</Low>
+    <Close>0.42405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-27</Date>
+    <Open>0.424749</Open>
+    <High>0.454623</High>
+    <Low>0.424654</Low>
+    <Close>0.452011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-28</Date>
+    <Open>0.451911</Open>
+    <High>0.45251</High>
+    <Low>0.405273</Low>
+    <Close>0.42124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-29</Date>
+    <Open>0.42114</Open>
+    <High>0.449266</High>
+    <Low>0.416034</Low>
+    <Close>0.441337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-11-30</Date>
+    <Open>0.441332</Open>
+    <High>0.478271</High>
+    <Low>0.438655</Low>
+    <Close>0.472219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-01</Date>
+    <Open>0.472919</Open>
+    <High>0.479614</High>
+    <Low>0.465447</Low>
+    <Close>0.471528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-02</Date>
+    <Open>0.471824</Open>
+    <High>0.484744</High>
+    <Low>0.461651</Low>
+    <Close>0.479229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-03</Date>
+    <Open>0.480429</Open>
+    <High>0.485034</High>
+    <Low>0.470247</Low>
+    <Close>0.476448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-04</Date>
+    <Open>0.476048</Open>
+    <High>0.514706</High>
+    <Low>0.472194</Low>
+    <Close>0.506501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-05</Date>
+    <Open>0.506401</Open>
+    <High>0.518404</High>
+    <Low>0.4791</Low>
+    <Close>0.483615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-06</Date>
+    <Open>0.48441</Open>
+    <High>0.49403</High>
+    <Low>0.474591</Low>
+    <Close>0.48159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-07</Date>
+    <Open>0.48149</Open>
+    <High>0.4895</High>
+    <Low>0.438591</Low>
+    <Close>0.442304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-08</Date>
+    <Open>0.4416</Open>
+    <High>0.451054</High>
+    <Low>0.4318</Low>
+    <Close>0.445731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-09</Date>
+    <Open>0.446031</Open>
+    <High>0.446936</High>
+    <Low>0.435013</Low>
+    <Close>0.435013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-10</Date>
+    <Open>0.435317</Open>
+    <High>0.4501</High>
+    <Low>0.435217</Low>
+    <Close>0.438691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-11</Date>
+    <Open>0.439696</Open>
+    <High>0.446904</High>
+    <Low>0.430843</Low>
+    <Close>0.432086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-12</Date>
+    <Open>0.432687</Open>
+    <High>0.433743</High>
+    <Low>0.414641</Low>
+    <Close>0.423738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-13</Date>
+    <Open>0.42423</Open>
+    <High>0.442133</High>
+    <Low>0.408106</Low>
+    <Close>0.436895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-14</Date>
+    <Open>0.43985</Open>
+    <High>0.457963</High>
+    <Low>0.436865</Low>
+    <Close>0.450027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-15</Date>
+    <Open>0.450045</Open>
+    <High>0.476095</High>
+    <Low>0.446045</Low>
+    <Close>0.461092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-16</Date>
+    <Open>0.458992</Open>
+    <High>0.470047</High>
+    <Low>0.404621</Low>
+    <Close>0.414341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-17</Date>
+    <Open>0.415142</Open>
+    <High>0.437044</High>
+    <Low>0.394028</Low>
+    <Close>0.420055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-18</Date>
+    <Open>0.413054</Open>
+    <High>0.424051</High>
+    <Low>0.412016</Low>
+    <Close>0.41805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-19</Date>
+    <Open>0.418</Open>
+    <High>0.448996</High>
+    <Low>0.410041</Low>
+    <Close>0.425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-20</Date>
+    <Open>0.440991</Open>
+    <High>0.473009</High>
+    <Low>0.421992</Low>
+    <Close>0.456018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-21</Date>
+    <Open>0.455018</Open>
+    <High>0.464009</High>
+    <Low>0.441013</Low>
+    <Close>0.443022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-22</Date>
+    <Open>0.443018</Open>
+    <High>0.446</High>
+    <Low>0.424957</Low>
+    <Close>0.434926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-23</Date>
+    <Open>0.435926</Open>
+    <High>0.44396</High>
+    <Low>0.429953</Low>
+    <Close>0.429957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-24</Date>
+    <Open>0.432952</Open>
+    <High>0.433978</High>
+    <Low>0.423958</Low>
+    <Close>0.42797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-25</Date>
+    <Open>0.427974</Open>
+    <High>0.427987</High>
+    <Low>0.417937</Low>
+    <Close>0.421945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-26</Date>
+    <Open>0.423949</Open>
+    <High>0.430935</High>
+    <Low>0.41995</Low>
+    <Close>0.422915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-27</Date>
+    <Open>0.423919</Open>
+    <High>0.428923</High>
+    <Low>0.406837</Low>
+    <Close>0.411839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-28</Date>
+    <Open>0.411839</Open>
+    <High>0.414876</High>
+    <Low>0.388778</Low>
+    <Close>0.391788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-29</Date>
+    <Open>0.391792</Open>
+    <High>0.39585</High>
+    <Low>0.38184</Low>
+    <Close>0.387825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-30</Date>
+    <Open>0.383827</Open>
+    <High>0.390824</High>
+    <Low>0.3768</Low>
+    <Close>0.38081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2022-12-31</Date>
+    <Open>0.383804</Open>
+    <High>0.408096</High>
+    <Low>0.377711</Low>
+    <Close>0.382509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-01</Date>
+    <Open>0.382405</Open>
+    <High>0.386626</High>
+    <Low>0.379007</Low>
+    <Close>0.384119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-02</Date>
+    <Open>0.384119</Open>
+    <High>0.406841</High>
+    <Low>0.378841</Low>
+    <Close>0.397977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-03</Date>
+    <Open>0.399372</Open>
+    <High>0.402559</High>
+    <Low>0.389033</Low>
+    <Close>0.393047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-04</Date>
+    <Open>0.393446</Open>
+    <High>0.419128</High>
+    <Low>0.393347</Low>
+    <Close>0.408565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-05</Date>
+    <Open>0.407961</Open>
+    <High>0.420869</High>
+    <Low>0.407961</Low>
+    <Close>0.409453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-06</Date>
+    <Open>0.410852</Open>
+    <High>0.421886</High>
+    <Low>0.399768</Low>
+    <Close>0.41887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-07</Date>
+    <Open>0.418866</Open>
+    <High>0.426485</High>
+    <Low>0.417862</Low>
+    <Close>0.418999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-08</Date>
+    <Open>0.419095</Open>
+    <High>0.443733</High>
+    <Low>0.412634</Low>
+    <Close>0.443047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-09</Date>
+    <Open>0.443447</Open>
+    <High>0.50344</High>
+    <Low>0.443316</Low>
+    <Close>0.478195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-10</Date>
+    <Open>0.478295</Open>
+    <High>0.514149</High>
+    <Low>0.462981</Low>
+    <Close>0.491364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-11</Date>
+    <Open>0.491979</Open>
+    <High>0.49606</High>
+    <Low>0.47162</Low>
+    <Close>0.484556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-12</Date>
+    <Open>0.484771</Open>
+    <High>0.549005</High>
+    <Low>0.483952</Low>
+    <Close>0.535454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-13</Date>
+    <Open>0.535348</Open>
+    <High>0.547644</High>
+    <Low>0.517159</Low>
+    <Close>0.536048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-14</Date>
+    <Open>0.536548</Open>
+    <High>0.593983</High>
+    <Low>0.513987</Low>
+    <Close>0.554728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-15</Date>
+    <Open>0.554755</Open>
+    <High>0.592172</High>
+    <Low>0.538781</Low>
+    <Close>0.589371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-16</Date>
+    <Open>0.589977</Open>
+    <High>0.599534</High>
+    <Low>0.555422</Low>
+    <Close>0.585512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-17</Date>
+    <Open>0.586118</Open>
+    <High>0.6457</High>
+    <Low>0.57754</Low>
+    <Close>0.620668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-18</Date>
+    <Open>0.625062</Open>
+    <High>0.628082</High>
+    <Low>0.558922</Low>
+    <Close>0.585971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-19</Date>
+    <Open>0.585965</Open>
+    <High>0.591982</High>
+    <Low>0.557972</Low>
+    <Close>0.583977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-20</Date>
+    <Open>0.581035</Open>
+    <High>0.642135</High>
+    <Low>0.569994</Low>
+    <Close>0.636108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-21</Date>
+    <Open>0.628107</Open>
+    <High>0.671161</High>
+    <Low>0.627125</Low>
+    <Close>0.637127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-22</Date>
+    <Open>0.650098</Open>
+    <High>0.709142</High>
+    <Low>0.619105</Low>
+    <Close>0.672134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-23</Date>
+    <Open>0.673128</Open>
+    <High>0.730066</High>
+    <Low>0.666153</Low>
+    <Close>0.710114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-24</Date>
+    <Open>0.7111</Open>
+    <High>0.722094</High>
+    <Low>0.643103</Low>
+    <Close>0.65102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-25</Date>
+    <Open>0.66702</Open>
+    <High>0.750067</High>
+    <Low>0.631095</Low>
+    <Close>0.700112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-26</Date>
+    <Open>0.701119</Open>
+    <High>0.733132</High>
+    <Low>0.66404</Low>
+    <Close>0.673054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-27</Date>
+    <Open>0.672054</Open>
+    <High>0.688165</High>
+    <Low>0.649123</Low>
+    <Close>0.67433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-28</Date>
+    <Open>0.674229</Open>
+    <High>0.697376</High>
+    <Low>0.645142</Low>
+    <Close>0.656431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-29</Date>
+    <Open>0.655838</Open>
+    <High>0.68302</High>
+    <Low>0.645268</Low>
+    <Close>0.676027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-30</Date>
+    <Open>0.676027</Open>
+    <High>0.728051</High>
+    <Low>0.629994</Low>
+    <Close>0.643039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-01-31</Date>
+    <Open>0.643045</Open>
+    <High>0.748022</High>
+    <Low>0.639032</Low>
+    <Close>0.736074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-01</Date>
+    <Open>0.739052</Open>
+    <High>0.821099</High>
+    <Low>0.691</Low>
+    <Close>0.814049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-02</Date>
+    <Open>0.814041</Open>
+    <High>0.899099</High>
+    <Low>0.797088</Low>
+    <Close>0.882176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-03</Date>
+    <Open>0.882176</Open>
+    <High>1.03001</High>
+    <Low>0.844084</Low>
+    <Close>0.954076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-04</Date>
+    <Open>0.954076</Open>
+    <High>0.979088</High>
+    <Low>0.917083</Low>
+    <Close>0.923083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-05</Date>
+    <Open>0.923074</Open>
+    <High>0.934215</High>
+    <Low>0.848153</Low>
+    <Close>0.885221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-06</Date>
+    <Open>0.882221</Open>
+    <High>0.930972</High>
+    <Low>0.852153</Low>
+    <Close>0.879035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-07</Date>
+    <Open>0.880035</Open>
+    <High>1.06903</High>
+    <Low>0.858069</Low>
+    <Close>1.05706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-08</Date>
+    <Open>1.05905</Open>
+    <High>1.20811</High>
+    <Low>0.98704</Low>
+    <Close>1.00708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-09</Date>
+    <Open>1.00707</Open>
+    <High>1.11898</High>
+    <Low>0.83818</Low>
+    <Close>0.85609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-10</Date>
+    <Open>0.85609</Open>
+    <High>1.06821</High>
+    <Low>0.85609</Low>
+    <Close>0.953152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-11</Date>
+    <Open>0.953</Open>
+    <High>1.11711</High>
+    <Low>0.92012</Low>
+    <Close>1.0921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-12</Date>
+    <Open>1.09122</Open>
+    <High>1.13211</High>
+    <Low>1.00514</Low>
+    <Close>1.0181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-13</Date>
+    <Open>1.0191</Open>
+    <High>1.03718</High>
+    <Low>0.926732</Low>
+    <Close>0.958527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-14</Date>
+    <Open>0.955525</Open>
+    <High>1.17545</High>
+    <Low>0.933681</Low>
+    <Close>1.13747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-15</Date>
+    <Open>1.13745</Open>
+    <High>1.28618</High>
+    <Low>1.08331</Low>
+    <Close>1.21623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-16</Date>
+    <Open>1.21623</Open>
+    <High>1.2701</High>
+    <Low>1.10838</Low>
+    <Close>1.10838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-17</Date>
+    <Open>1.10838</Open>
+    <High>1.1611</High>
+    <Low>1.06131</Low>
+    <Close>1.09811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-18</Date>
+    <Open>1.09811</Open>
+    <High>1.13416</High>
+    <Low>1.04229</Low>
+    <Close>1.05418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-19</Date>
+    <Open>1.05517</Open>
+    <High>1.10317</High>
+    <Low>1.01228</Low>
+    <Close>1.03323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-20</Date>
+    <Open>1.03323</Open>
+    <High>1.08913</High>
+    <Low>0.986286</Low>
+    <Close>1.02504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-21</Date>
+    <Open>1.02604</Open>
+    <High>1.05917</High>
+    <Low>0.956096</Low>
+    <Close>1.01318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-22</Date>
+    <Open>1.01318</Open>
+    <High>1.05014</High>
+    <Low>0.929149</Low>
+    <Close>1.007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-23</Date>
+    <Open>1.00533</Open>
+    <High>1.0871</High>
+    <Low>1.00361</Low>
+    <Close>1.04814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-24</Date>
+    <Open>1.04615</Open>
+    <High>1.05819</High>
+    <Low>0.931084</Low>
+    <Close>0.956981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-25</Date>
+    <Open>0.957981</Open>
+    <High>0.978049</High>
+    <Low>0.916092</Low>
+    <Close>0.952067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-26</Date>
+    <Open>0.950857</Open>
+    <High>0.992679</High>
+    <Low>0.945094</Low>
+    <Close>0.973497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-27</Date>
+    <Open>0.973768</Open>
+    <High>0.99761</High>
+    <Low>0.936975</Low>
+    <Close>0.961258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-02-28</Date>
+    <Open>0.962358</Open>
+    <High>1.11606</High>
+    <Low>0.957957</Low>
+    <Close>1.06018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-01</Date>
+    <Open>1.0602</Open>
+    <High>1.12409</High>
+    <Low>1.03001</Low>
+    <Close>1.05714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-02</Date>
+    <Open>1.05515</Open>
+    <High>1.06815</High>
+    <Low>0.953943</Low>
+    <Close>0.989089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-03</Date>
+    <Open>0.990079</Open>
+    <High>1.09935</High>
+    <Low>0.885124</Low>
+    <Close>1.02407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-04</Date>
+    <Open>1.02407</Open>
+    <High>1.05206</High>
+    <Low>0.951048</Low>
+    <Close>0.99807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-05</Date>
+    <Open>0.99607</Open>
+    <High>1.09011</High>
+    <Low>0.988079</Low>
+    <Close>1.06012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-06</Date>
+    <Open>1.05312</Open>
+    <High>1.08702</High>
+    <Low>1.01602</Low>
+    <Close>1.05294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-07</Date>
+    <Open>1.05188</Open>
+    <High>1.11299</High>
+    <Low>1.02085</Low>
+    <Close>1.06395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-08</Date>
+    <Open>1.06595</Open>
+    <High>1.1599</High>
+    <Low>0.949952</Low>
+    <Close>0.961962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-09</Date>
+    <Open>0.960904</Open>
+    <High>1.00051</High>
+    <Low>0.889795</Low>
+    <Close>0.898081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-10</Date>
+    <Open>0.896081</Open>
+    <High>0.951019</High>
+    <Low>0.767939</Low>
+    <Close>0.836961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-11</Date>
+    <Open>0.836969</Open>
+    <High>0.88503</High>
+    <Low>0.762148</Low>
+    <Close>0.812951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-12</Date>
+    <Open>0.814281</Open>
+    <High>0.919436</High>
+    <Low>0.784074</Low>
+    <Close>0.906558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-13</Date>
+    <Open>0.905447</Open>
+    <High>1.03945</High>
+    <Low>0.896031</Low>
+    <Close>0.999372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-14</Date>
+    <Open>0.999251</Open>
+    <High>1.26054</High>
+    <Low>0.950808</Low>
+    <Close>1.19288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-15</Date>
+    <Open>1.19601</Open>
+    <High>1.33681</High>
+    <Low>1.03255</Low>
+    <Close>1.17993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-16</Date>
+    <Open>1.18094</Open>
+    <High>1.24777</High>
+    <Low>1.13904</Low>
+    <Close>1.20095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-17</Date>
+    <Open>1.19996</Open>
+    <High>1.54901</High>
+    <Low>1.1747</Low>
+    <Close>1.49145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-18</Date>
+    <Open>1.49044</Open>
+    <High>1.57565</High>
+    <Low>1.41389</Low>
+    <Close>1.49847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-19</Date>
+    <Open>1.49748</Open>
+    <High>1.57971</High>
+    <Low>1.41703</Low>
+    <Close>1.47746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-20</Date>
+    <Open>1.47546</Open>
+    <High>1.54037</High>
+    <Low>1.22503</Low>
+    <Close>1.2385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-21</Date>
+    <Open>1.23951</Open>
+    <High>1.34595</High>
+    <Low>1.23159</Low>
+    <Close>1.26303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-22</Date>
+    <Open>1.26302</Open>
+    <High>1.35839</High>
+    <Low>1.17841</Low>
+    <Close>1.18223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-23</Date>
+    <Open>1.18524</Open>
+    <High>1.24523</High>
+    <Low>1.14913</Low>
+    <Close>1.20149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-24</Date>
+    <Open>1.20149</Open>
+    <High>1.23709</High>
+    <Low>1.08522</Low>
+    <Close>1.0982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-25</Date>
+    <Open>1.09922</Open>
+    <High>1.11412</High>
+    <Low>1.02712</Low>
+    <Close>1.04001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-26</Date>
+    <Open>1.04001</Open>
+    <High>1.13098</High>
+    <Low>1.037</Low>
+    <Close>1.09924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-27</Date>
+    <Open>1.10081</Open>
+    <High>1.121</High>
+    <Low>0.99237</Low>
+    <Close>1.01368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-28</Date>
+    <Open>1.00947</Open>
+    <High>1.0763</High>
+    <Low>0.99835</Low>
+    <Close>1.05541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-29</Date>
+    <Open>1.05441</Open>
+    <High>1.1843</High>
+    <Low>1.04928</Low>
+    <Close>1.11621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-30</Date>
+    <Open>1.11633</Open>
+    <High>1.17427</High>
+    <Low>1.07822</Low>
+    <Close>1.12231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-03-31</Date>
+    <Open>1.1183</Open>
+    <High>1.14134</High>
+    <Low>1.08534</Low>
+    <Close>1.12424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-01</Date>
+    <Open>1.12424</Open>
+    <High>1.17034</High>
+    <Low>1.09625</Low>
+    <Close>1.1094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-02</Date>
+    <Open>1.1104</Open>
+    <High>1.11947</High>
+    <Low>1.03971</Low>
+    <Close>1.04866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-03</Date>
+    <Open>1.05265</Open>
+    <High>1.07632</High>
+    <Low>1.0104</Low>
+    <Close>1.04942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-04</Date>
+    <Open>1.05042</Open>
+    <High>1.07845</High>
+    <Low>1.02547</Low>
+    <Close>1.06554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-05</Date>
+    <Open>1.06453</Open>
+    <High>1.12745</High>
+    <Low>1.05826</Low>
+    <Close>1.0994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-06</Date>
+    <Open>1.09935</Open>
+    <High>1.11021</High>
+    <Low>1.0434</Low>
+    <Close>1.05637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-07</Date>
+    <Open>1.05538</Open>
+    <High>1.06358</High>
+    <Low>1.01883</Low>
+    <Close>1.02176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-08</Date>
+    <Open>1.02777</Open>
+    <High>1.04651</High>
+    <Low>1.01277</Low>
+    <Close>1.02841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-09</Date>
+    <Open>1.0254</Open>
+    <High>1.0437</High>
+    <Low>1.00773</Low>
+    <Close>1.0437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-10</Date>
+    <Open>1.03569</Open>
+    <High>1.06273</High>
+    <Low>1.02228</Low>
+    <Close>1.05786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-11</Date>
+    <Open>1.05385</Open>
+    <High>1.1121</High>
+    <Low>1.05176</Low>
+    <Close>1.09308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-12</Date>
+    <Open>1.09305</Open>
+    <High>1.14898</High>
+    <Low>1.03214</Low>
+    <Close>1.13789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-13</Date>
+    <Open>1.12488</Open>
+    <High>1.16703</High>
+    <Low>1.12286</Low>
+    <Close>1.13909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-14</Date>
+    <Open>1.14109</Open>
+    <High>1.21792</High>
+    <Low>1.13319</Low>
+    <Close>1.206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-15</Date>
+    <Open>1.20498</Open>
+    <High>1.24716</High>
+    <Low>1.17404</Low>
+    <Close>1.20007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-16</Date>
+    <Open>1.19907</Open>
+    <High>1.233</High>
+    <Low>1.16798</Low>
+    <Close>1.21783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-17</Date>
+    <Open>1.21783</Open>
+    <High>1.22185</High>
+    <Low>1.10876</Low>
+    <Close>1.12366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-18</Date>
+    <Open>1.12566</Open>
+    <High>1.16949</High>
+    <Low>1.09847</Low>
+    <Close>1.13919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-19</Date>
+    <Open>1.13921</Open>
+    <High>1.15031</High>
+    <Low>1.01892</Low>
+    <Close>1.04858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-20</Date>
+    <Open>1.04753</Open>
+    <High>1.05254</High>
+    <Low>0.96713</Low>
+    <Close>0.97408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-21</Date>
+    <Open>0.97707</Open>
+    <High>0.99002</High>
+    <Low>0.91382</Low>
+    <Close>0.91891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-22</Date>
+    <Open>0.92091</Open>
+    <High>0.97704</High>
+    <Low>0.91501</Low>
+    <Close>0.9691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-23</Date>
+    <Open>0.96209</Open>
+    <High>0.99109</High>
+    <Low>0.9292</Low>
+    <Close>0.94505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-24</Date>
+    <Open>0.94105</Open>
+    <High>0.98305</High>
+    <Low>0.93597</Low>
+    <Close>0.96903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-25</Date>
+    <Open>0.97103</Open>
+    <High>0.98123</High>
+    <Low>0.91896</Low>
+    <Close>0.98123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-26</Date>
+    <Open>0.96923</Open>
+    <High>1.03821</High>
+    <Low>0.90016</Low>
+    <Close>0.95632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-27</Date>
+    <Open>0.95631</Open>
+    <High>1.08638</High>
+    <Low>0.9483</Low>
+    <Close>1.06337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-28</Date>
+    <Open>1.06334</Open>
+    <High>1.08243</High>
+    <Low>1.01648</Low>
+    <Close>1.02879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-29</Date>
+    <Open>1.02879</Open>
+    <High>1.03875</High>
+    <Low>1.00368</Low>
+    <Close>1.0116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-04-30</Date>
+    <Open>1.0116</Open>
+    <High>1.02243</High>
+    <Low>0.98056</Low>
+    <Close>0.98956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-01</Date>
+    <Open>0.98854</Open>
+    <High>0.99645</High>
+    <Low>0.92494</Low>
+    <Close>0.93424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-02</Date>
+    <Open>0.93425</Open>
+    <High>0.945057</High>
+    <Low>0.919009</Low>
+    <Close>0.933569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-03</Date>
+    <Open>0.936571</Open>
+    <High>0.941583</High>
+    <Low>0.893321</Low>
+    <Close>0.937253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-04</Date>
+    <Open>0.918248</Open>
+    <High>0.946246</High>
+    <Low>0.897368</Low>
+    <Close>0.902334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-05</Date>
+    <Open>0.902334</Open>
+    <High>0.916861</High>
+    <Low>0.863311</Low>
+    <Close>0.913831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-06</Date>
+    <Open>0.909836</Open>
+    <High>0.921912</High>
+    <Low>0.836294</Low>
+    <Close>0.862498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-07</Date>
+    <Open>0.858491</Open>
+    <High>0.870156</High>
+    <Low>0.849001</Low>
+    <Close>0.859012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-08</Date>
+    <Open>0.859012</Open>
+    <High>0.871035</High>
+    <Low>0.751511</Low>
+    <Close>0.771586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-09</Date>
+    <Open>0.771586</Open>
+    <High>0.793547</High>
+    <Low>0.752827</Low>
+    <Close>0.758758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-10</Date>
+    <Open>0.757341</Open>
+    <High>0.809971</High>
+    <Low>0.741815</Low>
+    <Close>0.781781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-11</Date>
+    <Open>0.794794</Open>
+    <High>0.794794</High>
+    <Low>0.708637</Low>
+    <Close>0.726726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-12</Date>
+    <Open>0.721721</Open>
+    <High>0.753602</High>
+    <Low>0.70063</Low>
+    <Close>0.752602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-13</Date>
+    <Open>0.752602</Open>
+    <High>0.758455</High>
+    <Low>0.734367</Low>
+    <Close>0.746373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-14</Date>
+    <Open>0.748374</Open>
+    <High>0.76746</High>
+    <Low>0.733366</Low>
+    <Close>0.75045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-15</Date>
+    <Open>0.749374</Open>
+    <High>0.778622</High>
+    <Low>0.733366</Low>
+    <Close>0.766536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-16</Date>
+    <Open>0.765535</Open>
+    <High>0.768538</High>
+    <Low>0.728291</Low>
+    <Close>0.734367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-17</Date>
+    <Open>0.734294</Open>
+    <High>0.791396</High>
+    <Low>0.728291</Low>
+    <Close>0.791396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-18</Date>
+    <Open>0.791396</Open>
+    <High>0.803241</High>
+    <Low>0.746224</Low>
+    <Close>0.769308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-19</Date>
+    <Open>0.753301</Open>
+    <High>0.774201</High>
+    <Low>0.7503</Low>
+    <Close>0.765222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-20</Date>
+    <Open>0.765382</Open>
+    <High>0.770385</High>
+    <Low>0.748598</Low>
+    <Close>0.750675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-21</Date>
+    <Open>0.752677</Open>
+    <High>0.75668</High>
+    <Low>0.71743</Low>
+    <Close>0.722433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-22</Date>
+    <Open>0.722433</Open>
+    <High>0.732366</High>
+    <Low>0.704422</Low>
+    <Close>0.722433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-23</Date>
+    <Open>0.725101</Open>
+    <High>0.781086</High>
+    <Low>0.724167</Low>
+    <Close>0.766046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-24</Date>
+    <Open>0.766046</Open>
+    <High>0.790008</High>
+    <Low>0.71585</Low>
+    <Close>0.728156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-25</Date>
+    <Open>0.729164</Open>
+    <High>0.757755</High>
+    <Low>0.699686</Low>
+    <Close>0.740222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-26</Date>
+    <Open>0.740315</Open>
+    <High>0.746283</High>
+    <Low>0.718172</Low>
+    <Close>0.741148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-27</Date>
+    <Open>0.743223</Open>
+    <High>0.751248</High>
+    <Low>0.723231</Low>
+    <Close>0.726269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IMX">
+    <Date>2023-05-28</Date>
+    <Open>0.726218</Open>
+    <High>0.769177</High>
+    <Low>0.723361</Low>
+    <Close>0.768177</Close>
+  </Cryptocurrency>
+</Root>

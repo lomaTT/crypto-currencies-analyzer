@@ -1,0 +1,2663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-15</Date>
+    <Open>0.643098</Open>
+    <High>0.772839</High>
+    <Low>0.626122</Low>
+    <Close>0.6662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-16</Date>
+    <Open>0.6662</Open>
+    <High>0.712144</High>
+    <Low>0.591171</Low>
+    <Close>0.617197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-17</Date>
+    <Open>0.618195</Open>
+    <High>0.641165</High>
+    <Low>0.59123</Low>
+    <Close>0.621191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-18</Date>
+    <Open>0.620255</Open>
+    <High>0.646224</High>
+    <Low>0.562268</Low>
+    <Close>0.638169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-19</Date>
+    <Open>0.640103</Open>
+    <High>0.792888</High>
+    <Low>0.640103</Low>
+    <Close>0.718281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-20</Date>
+    <Open>0.718281</Open>
+    <High>0.730196</High>
+    <Low>0.655344</Low>
+    <Close>0.6911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-21</Date>
+    <Open>0.692099</Open>
+    <High>0.749025</High>
+    <Low>0.655213</Low>
+    <Close>0.715069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-22</Date>
+    <Open>0.715069</Open>
+    <High>0.747028</High>
+    <Low>0.67612</Low>
+    <Close>0.680183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-23</Date>
+    <Open>0.681182</Open>
+    <High>0.718281</High>
+    <Low>0.660207</Low>
+    <Close>0.679184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-24</Date>
+    <Open>0.679184</Open>
+    <High>0.723204</High>
+    <Low>0.635237</Low>
+    <Close>0.685108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-25</Date>
+    <Open>0.686107</Open>
+    <High>0.701158</High>
+    <Low>0.648286</Low>
+    <Close>0.65721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-26</Date>
+    <Open>0.658609</Open>
+    <High>0.66317</High>
+    <Low>0.59129</Low>
+    <Close>0.634964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-27</Date>
+    <Open>0.633466</Open>
+    <High>0.724974</High>
+    <Low>0.584157</Low>
+    <Close>0.664535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-28</Date>
+    <Open>0.665241</Open>
+    <High>0.682215</High>
+    <Low>0.636127</Low>
+    <Close>0.647242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-29</Date>
+    <Open>0.643234</Open>
+    <High>0.658269</High>
+    <Low>0.62729</Low>
+    <Close>0.646288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-30</Date>
+    <Open>0.64778</Open>
+    <High>0.700809</High>
+    <Low>0.641593</Low>
+    <Close>0.694913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-05-31</Date>
+    <Open>0.694414</Open>
+    <High>1.01419</High>
+    <Low>0.689448</Low>
+    <Close>0.883204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-01</Date>
+    <Open>0.883293</Open>
+    <High>0.92426</High>
+    <Low>0.721278</Low>
+    <Close>0.733339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-02</Date>
+    <Open>0.731534</Open>
+    <High>0.740333</High>
+    <Low>0.701368</Low>
+    <Close>0.735338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-03</Date>
+    <Open>0.733339</Open>
+    <High>0.760015</High>
+    <Low>0.660271</Low>
+    <Close>0.713379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-04</Date>
+    <Open>0.713379</Open>
+    <High>0.734302</High>
+    <Low>0.675439</Low>
+    <Close>0.694472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-05</Date>
+    <Open>0.694472</Open>
+    <High>0.769338</High>
+    <Low>0.677478</Low>
+    <Close>0.742302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-06</Date>
+    <Open>0.742302</Open>
+    <High>0.803325</High>
+    <Low>0.709396</Low>
+    <Close>0.724391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-07</Date>
+    <Open>0.723385</Open>
+    <High>0.725397</High>
+    <Low>0.663469</Low>
+    <Close>0.71143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-08</Date>
+    <Open>0.71143</Open>
+    <High>0.714499</High>
+    <Low>0.663522</Low>
+    <Close>0.679565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-09</Date>
+    <Open>0.678559</Open>
+    <High>0.688407</High>
+    <Low>0.654515</Low>
+    <Close>0.672435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-10</Date>
+    <Open>0.672428</Open>
+    <High>0.690433</High>
+    <Low>0.613288</Low>
+    <Close>0.630192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-11</Date>
+    <Open>0.630199</Open>
+    <High>0.64431</High>
+    <Low>0.51536</Low>
+    <Close>0.536388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-12</Date>
+    <Open>0.537387</Open>
+    <High>0.572358</High>
+    <Low>0.481316</Low>
+    <Close>0.512369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-13</Date>
+    <Open>0.512364</Open>
+    <High>0.512364</High>
+    <Low>0.43676</Low>
+    <Close>0.489324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-14</Date>
+    <Open>0.489324</Open>
+    <High>0.528212</High>
+    <Low>0.462329</Low>
+    <Close>0.497402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-15</Date>
+    <Open>0.496409</Open>
+    <High>0.54923</High>
+    <Low>0.461168</Low>
+    <Close>0.548177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-16</Date>
+    <Open>0.5453</Open>
+    <High>0.5453</High>
+    <Low>0.4793</Low>
+    <Close>0.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-17</Date>
+    <Open>0.496309</Open>
+    <High>0.68142</High>
+    <Low>0.491915</Low>
+    <Close>0.509488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-18</Date>
+    <Open>0.50789</Open>
+    <High>0.518388</High>
+    <Low>0.451331</Low>
+    <Close>0.481214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-19</Date>
+    <Open>0.480221</Open>
+    <High>0.553335</High>
+    <Low>0.480187</Low>
+    <Close>0.535303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-20</Date>
+    <Open>0.5305</Open>
+    <High>0.548396</High>
+    <Low>0.5132</Low>
+    <Close>0.528418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-21</Date>
+    <Open>0.527366</Open>
+    <High>0.568545</High>
+    <Low>0.523371</Low>
+    <Close>0.529417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-22</Date>
+    <Open>0.528418</Open>
+    <High>0.532467</High>
+    <Low>0.498451</Low>
+    <Close>0.505494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-23</Date>
+    <Open>0.506493</Open>
+    <High>0.538461</High>
+    <Low>0.500499</Low>
+    <Close>0.528471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-24</Date>
+    <Open>0.540459</Open>
+    <High>0.55853</High>
+    <Low>0.522477</Low>
+    <Close>0.55057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-25</Date>
+    <Open>0.54945</Open>
+    <High>0.58941</High>
+    <Low>0.525642</Low>
+    <Close>0.553612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-26</Date>
+    <Open>0.553618</Open>
+    <High>0.583391</High>
+    <Low>0.526079</Low>
+    <Close>0.548165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-27</Date>
+    <Open>0.547966</Open>
+    <High>0.621434</High>
+    <Low>0.522686</Low>
+    <Close>0.59547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-28</Date>
+    <Open>0.59547</Open>
+    <High>0.614434</High>
+    <Low>0.529454</Low>
+    <Close>0.550322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-29</Date>
+    <Open>0.549313</Open>
+    <High>0.574316</High>
+    <Low>0.525306</Low>
+    <Close>0.540345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-06-30</Date>
+    <Open>0.539247</Open>
+    <High>0.540845</High>
+    <Low>0.470012</Low>
+    <Close>0.486416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-01</Date>
+    <Open>0.4876</Open>
+    <High>0.5149</High>
+    <Low>0.4825</Low>
+    <Close>0.4921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-02</Date>
+    <Open>0.4901</Open>
+    <High>0.5084</High>
+    <Low>0.4697</Low>
+    <Close>0.4938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-03</Date>
+    <Open>0.492908</Open>
+    <High>0.492908</High>
+    <Low>0.465294</Low>
+    <Close>0.480175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-04</Date>
+    <Open>0.4776</Open>
+    <High>0.4787</High>
+    <Low>0.4647</Low>
+    <Close>0.4721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-05</Date>
+    <Open>0.490411</Open>
+    <High>0.501448</High>
+    <Low>0.478425</Low>
+    <Close>0.494455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-06</Date>
+    <Open>0.494455</Open>
+    <High>0.522425</High>
+    <Low>0.480423</Low>
+    <Close>0.516431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-07</Date>
+    <Open>0.515432</Open>
+    <High>0.530681</High>
+    <Low>0.494455</Low>
+    <Close>0.519688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-08</Date>
+    <Open>0.519688</Open>
+    <High>0.529629</High>
+    <Low>0.487707</Low>
+    <Close>0.517689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-09</Date>
+    <Open>0.51669</Open>
+    <High>0.550669</High>
+    <Low>0.509643</Low>
+    <Close>0.519688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-10</Date>
+    <Open>0.521635</Open>
+    <High>0.523686</High>
+    <Low>0.490656</Low>
+    <Close>0.498701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-11</Date>
+    <Open>0.495503</Open>
+    <High>0.729589</High>
+    <Low>0.31571</Low>
+    <Close>0.472374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-12</Date>
+    <Open>0.471928</Open>
+    <High>0.72937</High>
+    <Low>0.315484</Low>
+    <Close>0.471728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-13</Date>
+    <Open>0.470148</Open>
+    <High>0.664608</High>
+    <Low>0.315453</Low>
+    <Close>0.482565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-14</Date>
+    <Open>0.482565</Open>
+    <High>0.531628</High>
+    <Low>0.471622</Low>
+    <Close>0.4997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-15</Date>
+    <Open>0.4997</Open>
+    <High>0.509694</High>
+    <Low>0.48371</Low>
+    <Close>0.495851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-16</Date>
+    <Open>0.495851</Open>
+    <High>0.529841</High>
+    <Low>0.480808</Low>
+    <Close>0.510847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-17</Date>
+    <Open>0.509862</Open>
+    <High>0.559927</High>
+    <Low>0.505904</Low>
+    <Close>0.514866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-18</Date>
+    <Open>0.513861</Open>
+    <High>0.572885</High>
+    <Low>0.505843</Low>
+    <Close>0.538876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-19</Date>
+    <Open>0.538838</Open>
+    <High>0.588</High>
+    <Low>0.531963</Low>
+    <Close>0.580093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-20</Date>
+    <Open>0.58</Open>
+    <High>0.623012</High>
+    <Low>0.521958</Low>
+    <Close>0.542027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-21</Date>
+    <Open>0.541054</Open>
+    <High>0.541076</High>
+    <Low>0.50404</Low>
+    <Close>0.533117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-22</Date>
+    <Open>0.532128</Open>
+    <High>0.619142</High>
+    <Low>0.523058</Low>
+    <Close>0.59013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-23</Date>
+    <Open>0.589</Open>
+    <High>0.715193</High>
+    <Low>0.570063</Low>
+    <Close>0.628126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-24</Date>
+    <Open>0.628119</Open>
+    <High>0.640077</High>
+    <Low>0.574029</Low>
+    <Close>0.594119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-25</Date>
+    <Open>0.594119</Open>
+    <High>0.60012</High>
+    <Low>0.540059</Low>
+    <Close>0.549044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-26</Date>
+    <Open>0.549049</Open>
+    <High>0.54906</High>
+    <Low>0.505</Low>
+    <Close>0.515077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-27</Date>
+    <Open>0.514377</Open>
+    <High>0.665393</High>
+    <Low>0.315781</Low>
+    <Close>0.561535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-28</Date>
+    <Open>0.561746</Open>
+    <High>0.599218</High>
+    <Low>0.547304</Low>
+    <Close>0.580316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-29</Date>
+    <Open>0.579151</Open>
+    <High>0.6682</High>
+    <Low>0.566147</Low>
+    <Close>0.606248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-30</Date>
+    <Open>0.606242</Open>
+    <High>0.681272</High>
+    <Low>0.587164</Low>
+    <Close>0.593196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-07-31</Date>
+    <Open>0.592213</Open>
+    <High>0.687206</High>
+    <Low>0.580209</Low>
+    <Close>0.65315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-01</Date>
+    <Open>0.657151</Open>
+    <High>0.678305</High>
+    <Low>0.605073</Low>
+    <Close>0.610171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-02</Date>
+    <Open>0.611183</Open>
+    <High>0.626244</High>
+    <Low>0.564169</Low>
+    <Close>0.61011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-03</Date>
+    <Open>0.609116</Open>
+    <High>0.655105</High>
+    <Low>0.592148</Low>
+    <Close>0.614154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-04</Date>
+    <Open>0.613135</Open>
+    <High>0.628138</High>
+    <Low>0.591018</Low>
+    <Close>0.595024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-05</Date>
+    <Open>0.594018</Open>
+    <High>0.660132</High>
+    <Low>0.588053</Low>
+    <Close>0.649123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-06</Date>
+    <Open>0.650123</Open>
+    <High>0.768046</High>
+    <Low>0.648084</Low>
+    <Close>0.663146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-07</Date>
+    <Open>0.663146</Open>
+    <High>0.673067</High>
+    <Low>0.636153</Low>
+    <Close>0.661119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-08</Date>
+    <Open>0.662126</Open>
+    <High>0.687151</High>
+    <Low>0.649117</Low>
+    <Close>0.67008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-09</Date>
+    <Open>0.66978</Open>
+    <High>0.795203</High>
+    <Low>0.315851</Low>
+    <Close>0.632433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-10</Date>
+    <Open>0.634227</Open>
+    <High>0.791832</High>
+    <Low>0.315885</Low>
+    <Close>0.65469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-11</Date>
+    <Open>0.655096</Open>
+    <High>0.792801</High>
+    <Low>0.490537</Low>
+    <Close>0.648605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-12</Date>
+    <Open>0.649124</Open>
+    <High>0.790795</High>
+    <Low>0.61971</Low>
+    <Close>0.634292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-13</Date>
+    <Open>0.634692</Open>
+    <High>0.787509</High>
+    <Low>0.460052</Low>
+    <Close>0.625544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-14</Date>
+    <Open>0.626944</Open>
+    <High>0.788107</High>
+    <Low>0.315888</Low>
+    <Close>0.610489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-15</Date>
+    <Open>0.610183</Open>
+    <High>0.782335</High>
+    <Low>0.315885</Low>
+    <Close>0.604145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-16</Date>
+    <Open>0.602839</Open>
+    <High>0.775762</High>
+    <Low>0.49042</Low>
+    <Close>0.592853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-17</Date>
+    <Open>0.589653</Open>
+    <High>0.781609</High>
+    <Low>0.316013</Low>
+    <Close>0.562639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-18</Date>
+    <Open>0.563345</Open>
+    <High>0.769892</High>
+    <Low>0.3159</Low>
+    <Close>0.563806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-19</Date>
+    <Open>0.5653</Open>
+    <High>0.762676</High>
+    <Low>0.315932</Low>
+    <Close>0.49655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-20</Date>
+    <Open>0.498115</Open>
+    <High>0.759337</High>
+    <Low>0.49494</Low>
+    <Close>0.503595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-21</Date>
+    <Open>0.503495</Open>
+    <High>0.689517</High>
+    <Low>0.293403</Low>
+    <Close>0.51389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-22</Date>
+    <Open>0.51259</Open>
+    <High>0.6875</High>
+    <Low>0.293321</Low>
+    <Close>0.490117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-23</Date>
+    <Open>0.490326</Open>
+    <High>0.687441</High>
+    <Low>0.293253</Low>
+    <Close>0.51341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-24</Date>
+    <Open>0.514395</Open>
+    <High>0.690486</High>
+    <Low>0.293418</Low>
+    <Close>0.519847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-25</Date>
+    <Open>0.519142</Open>
+    <High>0.689652</High>
+    <Low>0.293415</Low>
+    <Close>0.509815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-26</Date>
+    <Open>0.511615</Open>
+    <High>0.687859</High>
+    <Low>0.2933</Low>
+    <Close>0.479748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-27</Date>
+    <Open>0.479848</Open>
+    <High>0.687941</High>
+    <Low>0.474924</Low>
+    <Close>0.566017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-28</Date>
+    <Open>0.565011</Open>
+    <High>0.604012</High>
+    <Low>0.511995</Low>
+    <Close>0.512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-29</Date>
+    <Open>0.512</Open>
+    <High>0.523026</High>
+    <Low>0.49795</Low>
+    <Close>0.522031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-30</Date>
+    <Open>0.519442</Open>
+    <High>0.684514</High>
+    <Low>0.293397</Low>
+    <Close>0.515746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-08-31</Date>
+    <Open>0.513441</Open>
+    <High>0.558534</High>
+    <Low>0.293279</Low>
+    <Close>0.509095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-01</Date>
+    <Open>0.5094</Open>
+    <High>0.597724</High>
+    <Low>0.293279</Low>
+    <Close>0.50097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-02</Date>
+    <Open>0.49857</Open>
+    <High>0.684973</High>
+    <Low>0.293294</Low>
+    <Close>0.500175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-03</Date>
+    <Open>0.50198</Open>
+    <High>0.59776</High>
+    <Low>0.2933</Low>
+    <Close>0.5003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-04</Date>
+    <Open>0.4982</Open>
+    <High>0.6846</High>
+    <Low>0.293329</Low>
+    <Close>0.5051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-05</Date>
+    <Open>0.506751</Open>
+    <High>0.675868</High>
+    <Low>0.463346</Low>
+    <Close>0.477848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-06</Date>
+    <Open>0.516052</Open>
+    <High>0.679368</High>
+    <Low>0.469247</Low>
+    <Close>0.5051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-07</Date>
+    <Open>0.4769</Open>
+    <High>0.673047</High>
+    <Low>0.293291</Low>
+    <Close>0.482334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-08</Date>
+    <Open>0.481934</Open>
+    <High>0.675774</High>
+    <Low>0.458941</Low>
+    <Close>0.46557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-09</Date>
+    <Open>0.4656</Open>
+    <High>0.678549</High>
+    <Low>0.464565</Low>
+    <Close>0.489466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-10</Date>
+    <Open>0.517186</Open>
+    <High>0.681379</High>
+    <Low>0.479396</Low>
+    <Close>0.485492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-11</Date>
+    <Open>0.5002</Open>
+    <High>0.682577</High>
+    <Low>0.473361</Low>
+    <Close>0.487622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-12</Date>
+    <Open>0.477619</Open>
+    <High>0.680043</High>
+    <Low>0.467803</Low>
+    <Close>0.477286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-13</Date>
+    <Open>0.491747</Open>
+    <High>0.678336</High>
+    <Low>0.446336</Low>
+    <Close>0.47561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-14</Date>
+    <Open>0.476648</Open>
+    <High>0.67124</High>
+    <Low>0.442169</Low>
+    <Close>0.460824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-15</Date>
+    <Open>0.46062</Open>
+    <High>0.670288</High>
+    <Low>0.423204</Low>
+    <Close>0.450655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-16</Date>
+    <Open>0.441669</Open>
+    <High>0.6699</High>
+    <Low>0.432357</Low>
+    <Close>0.446655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-17</Date>
+    <Open>0.466953</Open>
+    <High>0.669733</High>
+    <Low>0.4365</Low>
+    <Close>0.452145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-18</Date>
+    <Open>0.438</Open>
+    <High>0.6685</High>
+    <Low>0.4265</Low>
+    <Close>0.4656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-19</Date>
+    <Open>0.464654</Open>
+    <High>0.49995</High>
+    <Low>0.437044</Low>
+    <Close>0.474747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-20</Date>
+    <Open>0.473847</Open>
+    <High>0.49975</High>
+    <Low>0.438944</Low>
+    <Close>0.451945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-21</Date>
+    <Open>0.451909</Open>
+    <High>0.4537</High>
+    <Low>0.213621</Low>
+    <Close>0.4236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-22</Date>
+    <Open>0.4245</Open>
+    <High>0.4398</High>
+    <Low>0.2123</Low>
+    <Close>0.4318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-23</Date>
+    <Open>0.432643</Open>
+    <High>0.4428</High>
+    <Low>0.2135</Low>
+    <Close>0.428457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-24</Date>
+    <Open>0.42907</Open>
+    <High>0.434935</High>
+    <Low>0.2139</Low>
+    <Close>0.418338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-25</Date>
+    <Open>0.418042</Open>
+    <High>0.530237</High>
+    <Low>0.210906</Low>
+    <Close>0.4183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-26</Date>
+    <Open>0.4178</Open>
+    <High>0.530253</High>
+    <Low>0.210602</Low>
+    <Close>0.4232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-27</Date>
+    <Open>0.4224</Open>
+    <High>0.4408</High>
+    <Low>0.364364</Low>
+    <Close>0.413259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-28</Date>
+    <Open>0.4138</Open>
+    <High>0.428957</High>
+    <Low>0.29627</Low>
+    <Close>0.4188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-29</Date>
+    <Open>0.4194</Open>
+    <High>0.431943</High>
+    <Low>0.2127</Low>
+    <Close>0.428343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-09-30</Date>
+    <Open>0.427243</Open>
+    <High>0.436444</High>
+    <Low>0.2108</Low>
+    <Close>0.4159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-01</Date>
+    <Open>0.417042</Open>
+    <High>0.4198</High>
+    <Low>0.209979</Low>
+    <Close>0.4112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-02</Date>
+    <Open>0.412</Open>
+    <High>0.4145</High>
+    <Low>0.2075</Low>
+    <Close>0.4031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-03</Date>
+    <Open>0.40344</Open>
+    <High>0.5302</High>
+    <Low>0.2709</Low>
+    <Close>0.39924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-04</Date>
+    <Open>0.39924</Open>
+    <High>0.418526</High>
+    <Low>0.342669</Low>
+    <Close>0.408623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-05</Date>
+    <Open>0.409023</Open>
+    <High>0.425585</High>
+    <Low>0.343938</Low>
+    <Close>0.40204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-06</Date>
+    <Open>0.40118</Open>
+    <High>0.569985</High>
+    <Low>0.326842</Low>
+    <Close>0.396467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-07</Date>
+    <Open>0.397268</Open>
+    <High>0.400672</High>
+    <Low>0.205931</Low>
+    <Close>0.394255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-08</Date>
+    <Open>0.393539</Open>
+    <High>0.549944</High>
+    <Low>0.205616</Low>
+    <Close>0.391502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-09</Date>
+    <Open>0.391698</Open>
+    <High>0.5499</High>
+    <Low>0.264426</Low>
+    <Close>0.351135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-10</Date>
+    <Open>0.35127</Open>
+    <High>0.578658</High>
+    <Low>0.342266</Low>
+    <Close>0.3641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-11</Date>
+    <Open>0.3466</Open>
+    <High>0.5768</High>
+    <Low>0.324245</Low>
+    <Close>0.377162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-12</Date>
+    <Open>0.374962</Open>
+    <High>0.587006</High>
+    <Low>0.330064</Low>
+    <Close>0.372011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-13</Date>
+    <Open>0.371011</Open>
+    <High>0.583094</High>
+    <Low>0.332577</Low>
+    <Close>0.368629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-14</Date>
+    <Open>0.36963</Open>
+    <High>0.585512</High>
+    <Low>0.34511</Low>
+    <Close>0.370415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-15</Date>
+    <Open>0.372215</Open>
+    <High>0.593142</High>
+    <Low>0.368915</Low>
+    <Close>0.39712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-16</Date>
+    <Open>0.39802</Open>
+    <High>0.460032</High>
+    <Low>0.388008</Low>
+    <Close>0.39102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-17</Date>
+    <Open>0.391016</Open>
+    <High>0.400036</High>
+    <Low>0.385008</Low>
+    <Close>0.391008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-18</Date>
+    <Open>0.389712</Open>
+    <High>0.591412</High>
+    <Low>0.372911</Low>
+    <Close>0.384623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-19</Date>
+    <Open>0.385523</Open>
+    <High>0.585453</High>
+    <Low>0.365622</Low>
+    <Close>0.3749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-20</Date>
+    <Open>0.372696</Open>
+    <High>0.411896</High>
+    <Low>0.275022</Low>
+    <Close>0.371974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-21</Date>
+    <Open>0.371963</Open>
+    <High>0.484005</High>
+    <Low>0.354293</Low>
+    <Close>0.434035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-22</Date>
+    <Open>0.43403</Open>
+    <High>0.445031</High>
+    <Low>0.395008</Low>
+    <Close>0.405036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-23</Date>
+    <Open>0.405036</Open>
+    <High>0.467047</High>
+    <Low>0.384031</Low>
+    <Close>0.420055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-24</Date>
+    <Open>0.420046</Open>
+    <High>0.43203</High>
+    <Low>0.401032</Low>
+    <Close>0.40602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-25</Date>
+    <Open>0.406016</Open>
+    <High>0.428146</High>
+    <Low>0.393</Low>
+    <Close>0.417133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-26</Date>
+    <Open>0.417342</Open>
+    <High>0.425219</High>
+    <Low>0.407081</Low>
+    <Close>0.410911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-27</Date>
+    <Open>0.411019</Open>
+    <High>0.423185</High>
+    <Low>0.394028</Low>
+    <Close>0.400224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-28</Date>
+    <Open>0.400224</Open>
+    <High>0.414175</High>
+    <Low>0.393612</Low>
+    <Close>0.412783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-29</Date>
+    <Open>0.412178</Open>
+    <High>0.44452</High>
+    <Low>0.406481</Low>
+    <Close>0.4151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-30</Date>
+    <Open>0.414099</Open>
+    <High>0.423085</High>
+    <Low>0.398068</Low>
+    <Close>0.40108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-10-31</Date>
+    <Open>0.40108</Open>
+    <High>0.415979</High>
+    <Low>0.393583</Low>
+    <Close>0.401368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-01</Date>
+    <Open>0.401776</Open>
+    <High>0.412679</High>
+    <Low>0.395929</Low>
+    <Close>0.39696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-02</Date>
+    <Open>0.396956</Open>
+    <High>0.408988</High>
+    <Low>0.380954</Low>
+    <Close>0.386985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-03</Date>
+    <Open>0.386977</Open>
+    <High>0.450982</High>
+    <Low>0.385988</Low>
+    <Close>0.427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-04</Date>
+    <Open>0.429</Open>
+    <High>0.475943</High>
+    <Low>0.421996</Low>
+    <Close>0.448036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-05</Date>
+    <Open>0.449036</Open>
+    <High>0.464042</High>
+    <Low>0.435022</Low>
+    <Close>0.440026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-06</Date>
+    <Open>0.439018</Open>
+    <High>0.444004</High>
+    <Low>0.422013</Low>
+    <Close>0.422034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-07</Date>
+    <Open>0.418042</Open>
+    <High>0.419029</High>
+    <Low>0.396032</Low>
+    <Close>0.400048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-08</Date>
+    <Open>0.40108</Open>
+    <High>0.406203</High>
+    <Low>0.309433</Low>
+    <Close>0.335002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-09</Date>
+    <Open>0.336005</Open>
+    <High>0.343607</High>
+    <Low>0.256769</Low>
+    <Close>0.267749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-10</Date>
+    <Open>0.266664</Open>
+    <High>0.345498</High>
+    <Low>0.261509</Low>
+    <Close>0.314315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-11</Date>
+    <Open>0.31356</Open>
+    <High>0.350458</High>
+    <Low>0.277076</Low>
+    <Close>0.284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-12</Date>
+    <Open>0.284028</Open>
+    <High>0.372329</High>
+    <Low>0.281953</Low>
+    <Close>0.32741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-13</Date>
+    <Open>0.32741</Open>
+    <High>0.329406</High>
+    <Low>0.301909</Low>
+    <Close>0.305572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-14</Date>
+    <Open>0.304573</Open>
+    <High>0.311626</High>
+    <Low>0.282575</Low>
+    <Close>0.298581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-15</Date>
+    <Open>0.29955</Open>
+    <High>0.334699</High>
+    <Low>0.29955</Low>
+    <Close>0.314685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-16</Date>
+    <Open>0.313617</Open>
+    <High>0.325619</High>
+    <Low>0.294675</Low>
+    <Close>0.301725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-17</Date>
+    <Open>0.302724</Open>
+    <High>0.303769</High>
+    <Low>0.290368</Low>
+    <Close>0.293665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-18</Date>
+    <Open>0.296777</Open>
+    <High>0.302954</High>
+    <Low>0.275291</Low>
+    <Close>0.281776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-19</Date>
+    <Open>0.285671</Open>
+    <High>0.287654</High>
+    <Low>0.273199</Low>
+    <Close>0.276712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-20</Date>
+    <Open>0.277112</Open>
+    <High>0.291464</High>
+    <Low>0.268704</Low>
+    <Close>0.277577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-21</Date>
+    <Open>0.278573</Open>
+    <High>0.289623</High>
+    <Low>0.263604</Low>
+    <Close>0.270675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-22</Date>
+    <Open>0.271671</Open>
+    <High>0.281695</High>
+    <Low>0.260687</Low>
+    <Close>0.277639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-23</Date>
+    <Open>0.276643</Open>
+    <High>0.305636</High>
+    <Low>0.276634</Low>
+    <Close>0.289681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-24</Date>
+    <Open>0.290683</Open>
+    <High>0.296727</High>
+    <Low>0.283756</Low>
+    <Close>0.291752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-25</Date>
+    <Open>0.291752</Open>
+    <High>0.303818</High>
+    <Low>0.279776</Low>
+    <Close>0.287836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-26</Date>
+    <Open>0.287833</Open>
+    <High>0.298842</High>
+    <Low>0.28482</Low>
+    <Close>0.285831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-27</Date>
+    <Open>0.285834</Open>
+    <High>0.295819</High>
+    <Low>0.285834</Low>
+    <Close>0.291816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-28</Date>
+    <Open>0.291813</Open>
+    <High>0.292812</High>
+    <Low>0.272853</Low>
+    <Close>0.285891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-29</Date>
+    <Open>0.284892</Open>
+    <High>0.334822</High>
+    <Low>0.281071</Low>
+    <Close>0.300883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-11-30</Date>
+    <Open>0.300889</Open>
+    <High>0.33699</High>
+    <Low>0.296979</Low>
+    <Close>0.317019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-01</Date>
+    <Open>0.317013</Open>
+    <High>0.323016</High>
+    <Low>0.306018</Low>
+    <Close>0.308018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-02</Date>
+    <Open>0.309015</Open>
+    <High>0.322013</High>
+    <Low>0.30303</Low>
+    <Close>0.313019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-03</Date>
+    <Open>0.314019</Open>
+    <High>0.324058</High>
+    <Low>0.306031</Low>
+    <Close>0.307031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-04</Date>
+    <Open>0.306031</Open>
+    <High>0.318964</High>
+    <Low>0.30203</Low>
+    <Close>0.308762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-05</Date>
+    <Open>0.308062</Open>
+    <High>0.325639</High>
+    <Low>0.297318</Low>
+    <Close>0.302509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-06</Date>
+    <Open>0.302406</Open>
+    <High>0.312803</High>
+    <Low>0.295897</Low>
+    <Close>0.301997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-07</Date>
+    <Open>0.301897</Open>
+    <High>0.3111</High>
+    <Low>0.281423</Low>
+    <Close>0.285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-08</Date>
+    <Open>0.291523</Open>
+    <High>0.299051</High>
+    <Low>0.280428</Low>
+    <Close>0.29092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-09</Date>
+    <Open>0.291723</Open>
+    <High>0.301606</High>
+    <Low>0.284917</Low>
+    <Close>0.288612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-10</Date>
+    <Open>0.289112</Open>
+    <High>0.338997</High>
+    <Low>0.285697</Low>
+    <Close>0.301994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-11</Date>
+    <Open>0.301997</Open>
+    <High>0.337</High>
+    <Low>0.300994</Low>
+    <Close>0.30403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-12</Date>
+    <Open>0.30403</Open>
+    <High>0.354032</High>
+    <Low>0.30403</Low>
+    <Close>0.342031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-13</Date>
+    <Open>0.344031</Open>
+    <High>0.350024</High>
+    <Low>0.310031</Low>
+    <Close>0.32092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-14</Date>
+    <Open>0.320923</Open>
+    <High>0.323945</High>
+    <Low>0.312953</Low>
+    <Close>0.315022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-15</Date>
+    <Open>0.315032</Open>
+    <High>0.316032</High>
+    <Low>0.29503</Low>
+    <Close>0.296059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-16</Date>
+    <Open>0.296059</Open>
+    <High>0.3082</High>
+    <Low>0.264053</Low>
+    <Close>0.267027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-17</Date>
+    <Open>0.267027</Open>
+    <High>0.271033</High>
+    <Low>0.257026</Low>
+    <Close>0.270035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-18</Date>
+    <Open>0.270035</Open>
+    <High>0.274027</High>
+    <Low>0.259421</Low>
+    <Close>0.259434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-19</Date>
+    <Open>0.266432</Open>
+    <High>0.293015</High>
+    <Low>0.255433</Low>
+    <Close>0.264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-20</Date>
+    <Open>0.264</Open>
+    <High>0.285003</High>
+    <Low>0.264</Low>
+    <Close>0.269011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-21</Date>
+    <Open>0.269013</Open>
+    <High>0.271014</High>
+    <Low>0.2527</Low>
+    <Close>0.255213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-22</Date>
+    <Open>0.25761</Open>
+    <High>0.2713</High>
+    <Low>0.250175</Low>
+    <Close>0.261858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-23</Date>
+    <Open>0.261058</Open>
+    <High>0.27</High>
+    <Low>0.256367</Low>
+    <Close>0.259771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-24</Date>
+    <Open>0.267473</Open>
+    <High>0.272176</High>
+    <Low>0.258874</Low>
+    <Close>0.269484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-25</Date>
+    <Open>0.268681</Open>
+    <High>0.270284</High>
+    <Low>0.257079</Low>
+    <Close>0.258561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-26</Date>
+    <Open>0.264368</Open>
+    <High>0.29894</High>
+    <Low>0.256874</Low>
+    <Close>0.281944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-27</Date>
+    <Open>0.282946</Open>
+    <High>0.299949</High>
+    <Low>0.271878</Low>
+    <Close>0.271894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-28</Date>
+    <Open>0.273896</Open>
+    <High>0.276856</High>
+    <Low>0.259717</Low>
+    <Close>0.264857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-29</Date>
+    <Open>0.26486</Open>
+    <High>0.26685</High>
+    <Low>0.25447</Low>
+    <Close>0.262882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-30</Date>
+    <Open>0.261077</Open>
+    <High>0.28556</High>
+    <Low>0.256977</Low>
+    <Close>0.270964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2022-12-31</Date>
+    <Open>0.270962</Open>
+    <High>0.273968</High>
+    <Low>0.267061</Low>
+    <Close>0.271461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-01</Date>
+    <Open>0.271464</Open>
+    <High>0.271564</High>
+    <Low>0.266656</Low>
+    <Close>0.269173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-02</Date>
+    <Open>0.269176</Open>
+    <High>0.27589</High>
+    <Low>0.267188</Low>
+    <Close>0.269814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-03</Date>
+    <Open>0.269714</Open>
+    <High>0.28488</High>
+    <Low>0.269611</Low>
+    <Close>0.273293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-04</Date>
+    <Open>0.273793</Open>
+    <High>0.282287</High>
+    <Low>0.272685</Low>
+    <Close>0.277905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-05</Date>
+    <Open>0.277808</Open>
+    <High>0.285614</High>
+    <Low>0.274687</Low>
+    <Close>0.275901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-06</Date>
+    <Open>0.275917</Open>
+    <High>0.276292</High>
+    <Low>0.264147</Low>
+    <Close>0.268717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-07</Date>
+    <Open>0.268614</Open>
+    <High>0.27592</High>
+    <Low>0.264623</Low>
+    <Close>0.266836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-08</Date>
+    <Open>0.26672</Open>
+    <High>0.276864</High>
+    <Low>0.264366</Low>
+    <Close>0.275659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-09</Date>
+    <Open>0.275667</Open>
+    <High>0.290445</High>
+    <Low>0.27525</Low>
+    <Close>0.283797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-10</Date>
+    <Open>0.2839</Open>
+    <High>0.322877</High>
+    <Low>0.2821</Low>
+    <Close>0.303442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-11</Date>
+    <Open>0.303255</Open>
+    <High>0.314387</High>
+    <Low>0.293844</Low>
+    <Close>0.300797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-12</Date>
+    <Open>0.300976</Open>
+    <High>0.310078</High>
+    <Low>0.294691</Low>
+    <Close>0.306028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-13</Date>
+    <Open>0.306431</Open>
+    <High>0.332323</High>
+    <Low>0.300661</Low>
+    <Close>0.320429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-14</Date>
+    <Open>0.320326</Open>
+    <High>0.343355</High>
+    <Low>0.31606</Low>
+    <Close>0.331717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-15</Date>
+    <Open>0.331533</Open>
+    <High>0.337464</High>
+    <Low>0.315432</Low>
+    <Close>0.330099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-16</Date>
+    <Open>0.330199</Open>
+    <High>0.349248</High>
+    <Low>0.320815</Low>
+    <Close>0.338207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-17</Date>
+    <Open>0.338214</Open>
+    <High>0.347203</High>
+    <Low>0.330517</Low>
+    <Close>0.333037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-18</Date>
+    <Open>0.332937</Open>
+    <High>0.345231</High>
+    <Low>0.303918</Low>
+    <Close>0.306885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-19</Date>
+    <Open>0.306985</Open>
+    <High>0.316803</High>
+    <Low>0.302176</Low>
+    <Close>0.315287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-20</Date>
+    <Open>0.315291</Open>
+    <High>0.340161</High>
+    <Low>0.310494</Low>
+    <Close>0.339661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-21</Date>
+    <Open>0.339561</Open>
+    <High>0.3441</High>
+    <Low>0.330109</Low>
+    <Close>0.339868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-22</Date>
+    <Open>0.339854</Open>
+    <High>0.365077</High>
+    <Low>0.326262</Low>
+    <Close>0.359372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-23</Date>
+    <Open>0.356668</Open>
+    <High>0.414012</High>
+    <Low>0.347242</Low>
+    <Close>0.378057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-24</Date>
+    <Open>0.379061</Open>
+    <High>0.407045</High>
+    <Low>0.360054</Low>
+    <Close>0.364007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-25</Date>
+    <Open>0.363011</Open>
+    <High>0.408073</High>
+    <Low>0.341061</Low>
+    <Close>0.383065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-26</Date>
+    <Open>0.384065</Open>
+    <High>0.443991</High>
+    <Low>0.376056</Low>
+    <Close>0.389039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-27</Date>
+    <Open>0.389035</Open>
+    <High>0.404093</High>
+    <Low>0.37703</Low>
+    <Close>0.39515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-28</Date>
+    <Open>0.398235</Open>
+    <High>0.408994</High>
+    <Low>0.379876</Low>
+    <Close>0.380776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-29</Date>
+    <Open>0.380684</Open>
+    <High>0.405449</High>
+    <Low>0.379283</Low>
+    <Close>0.398316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-30</Date>
+    <Open>0.39872</Open>
+    <High>0.471009</High>
+    <Low>0.391527</Low>
+    <Close>0.407024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-01-31</Date>
+    <Open>0.405028</Open>
+    <High>0.424983</High>
+    <Low>0.394043</Low>
+    <Close>0.403036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-01</Date>
+    <Open>0.403032</Open>
+    <High>0.421008</High>
+    <Low>0.375</Low>
+    <Close>0.408024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-02</Date>
+    <Open>0.408024</Open>
+    <High>0.427102</High>
+    <Low>0.400024</Low>
+    <Close>0.407077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-03</Date>
+    <Open>0.407085</Open>
+    <High>0.412166</High>
+    <Low>0.394596</Low>
+    <Close>0.405532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-04</Date>
+    <Open>0.405532</Open>
+    <High>0.414566</High>
+    <Low>0.396232</Low>
+    <Close>0.403836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-05</Date>
+    <Open>0.403932</Open>
+    <High>0.409982</High>
+    <Low>0.375879</Low>
+    <Close>0.385096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-06</Date>
+    <Open>0.3851</Open>
+    <High>0.390998</High>
+    <Low>0.372371</Low>
+    <Close>0.384815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-07</Date>
+    <Open>0.384515</Open>
+    <High>0.412817</High>
+    <Low>0.37693</Low>
+    <Close>0.411525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-08</Date>
+    <Open>0.412025</Open>
+    <High>0.42403</High>
+    <Low>0.387043</Low>
+    <Close>0.401032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-09</Date>
+    <Open>0.400024</Open>
+    <High>0.409984</High>
+    <Low>0.357036</Low>
+    <Close>0.358032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-10</Date>
+    <Open>0.359036</Open>
+    <High>0.36304</High>
+    <Low>0.345083</Low>
+    <Close>0.351053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-11</Date>
+    <Open>0.350153</Open>
+    <High>0.365333</High>
+    <Low>0.348638</Low>
+    <Close>0.365137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-12</Date>
+    <Open>0.364833</Open>
+    <High>0.379815</High>
+    <Low>0.35855</Low>
+    <Close>0.361625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-13</Date>
+    <Open>0.362036</Open>
+    <High>0.367503</High>
+    <Low>0.330165</Low>
+    <Close>0.339983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-14</Date>
+    <Open>0.33986</Open>
+    <High>0.359933</High>
+    <Low>0.338667</Low>
+    <Close>0.355528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-15</Date>
+    <Open>0.356643</Open>
+    <High>0.393355</High>
+    <Low>0.349508</Low>
+    <Close>0.387774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-16</Date>
+    <Open>0.386069</Open>
+    <High>0.408069</High>
+    <Low>0.36804</Low>
+    <Close>0.369125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-17</Date>
+    <Open>0.369048</Open>
+    <High>0.397032</High>
+    <Low>0.366029</Low>
+    <Close>0.390035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-18</Date>
+    <Open>0.390351</Open>
+    <High>0.424485</High>
+    <Low>0.38847</Low>
+    <Close>0.41197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-19</Date>
+    <Open>0.411866</Open>
+    <High>0.551039</High>
+    <Low>0.411566</Low>
+    <Close>0.466103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-20</Date>
+    <Open>0.466103</Open>
+    <High>0.506076</High>
+    <Low>0.455041</Low>
+    <Close>0.457018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-21</Date>
+    <Open>0.457032</Open>
+    <High>0.509041</High>
+    <Low>0.41908</Low>
+    <Close>0.428077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-22</Date>
+    <Open>0.429077</Open>
+    <High>0.433069</High>
+    <Low>0.404008</Low>
+    <Close>0.420021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-23</Date>
+    <Open>0.420596</Open>
+    <High>0.445045</High>
+    <Low>0.413078</Low>
+    <Close>0.425055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-24</Date>
+    <Open>0.425068</Open>
+    <High>0.500095</High>
+    <Low>0.42208</Low>
+    <Close>0.448991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-25</Date>
+    <Open>0.450991</Open>
+    <High>0.467014</High>
+    <Low>0.418042</Low>
+    <Close>0.42803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-26</Date>
+    <Open>0.42743</Open>
+    <High>0.499045</High>
+    <Low>0.42673</Low>
+    <Close>0.479029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-27</Date>
+    <Open>0.480024</Open>
+    <High>0.519036</High>
+    <Low>0.460014</Low>
+    <Close>0.471024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-02-28</Date>
+    <Open>0.470024</Open>
+    <High>0.477995</High>
+    <Low>0.434065</Low>
+    <Close>0.441388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-01</Date>
+    <Open>0.441393</Open>
+    <High>0.496535</High>
+    <Low>0.438761</Low>
+    <Close>0.475962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-02</Date>
+    <Open>0.476062</Open>
+    <High>0.479458</High>
+    <Low>0.4427</Low>
+    <Close>0.452636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-03</Date>
+    <Open>0.452632</Open>
+    <High>0.454045</High>
+    <Low>0.406937</Low>
+    <Close>0.414125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-04</Date>
+    <Open>0.413633</Open>
+    <High>0.431335</High>
+    <Low>0.40224</Low>
+    <Close>0.404332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-05</Date>
+    <Open>0.405232</Open>
+    <High>0.422838</High>
+    <Low>0.405128</Low>
+    <Close>0.417146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-06</Date>
+    <Open>0.41725</Open>
+    <High>0.417446</High>
+    <Low>0.400336</Low>
+    <Close>0.404976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-07</Date>
+    <Open>0.40456</Open>
+    <High>0.411104</High>
+    <Low>0.372648</Low>
+    <Close>0.384881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-08</Date>
+    <Open>0.384085</Open>
+    <High>0.392831</High>
+    <Low>0.355982</Low>
+    <Close>0.358486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-09</Date>
+    <Open>0.356957</Open>
+    <High>0.369882</High>
+    <Low>0.33263</Low>
+    <Close>0.336734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-10</Date>
+    <Open>0.337534</Open>
+    <High>0.342857</High>
+    <Low>0.314175</Low>
+    <Close>0.341729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-11</Date>
+    <Open>0.341826</Open>
+    <High>0.353609</High>
+    <Low>0.312664</Low>
+    <Close>0.323627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-12</Date>
+    <Open>0.323115</Open>
+    <High>0.349781</High>
+    <Low>0.322285</Low>
+    <Close>0.344452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-13</Date>
+    <Open>0.344654</Open>
+    <High>0.375216</High>
+    <Low>0.344654</Low>
+    <Close>0.370171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-14</Date>
+    <Open>0.370142</Open>
+    <High>0.40356</High>
+    <Low>0.362315</Low>
+    <Close>0.385656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-15</Date>
+    <Open>0.385844</Open>
+    <High>0.393134</High>
+    <Low>0.34655</Low>
+    <Close>0.36252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-16</Date>
+    <Open>0.362312</Open>
+    <High>0.511117</High>
+    <Low>0.359948</Low>
+    <Close>0.414024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-17</Date>
+    <Open>0.413001</Open>
+    <High>0.430103</High>
+    <Low>0.401718</Low>
+    <Close>0.418251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-18</Date>
+    <Open>0.419455</Open>
+    <High>0.453657</High>
+    <Low>0.416221</Low>
+    <Close>0.419568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-19</Date>
+    <Open>0.419254</Open>
+    <High>0.436584</High>
+    <Low>0.409171</Low>
+    <Close>0.416057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-20</Date>
+    <Open>0.415844</Open>
+    <High>0.42174</High>
+    <Low>0.396924</Low>
+    <Close>0.402957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-21</Date>
+    <Open>0.402367</Open>
+    <High>0.42095</High>
+    <Low>0.392065</Low>
+    <Close>0.412716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-22</Date>
+    <Open>0.413515</Open>
+    <High>0.418656</High>
+    <Low>0.378224</Low>
+    <Close>0.388261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-23</Date>
+    <Open>0.388084</Open>
+    <High>0.398895</High>
+    <Low>0.378828</Low>
+    <Close>0.383631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-24</Date>
+    <Open>0.384305</Open>
+    <High>0.391381</High>
+    <Low>0.363392</Low>
+    <Close>0.367778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-25</Date>
+    <Open>0.367715</Open>
+    <High>0.373744</High>
+    <Low>0.357103</Low>
+    <Close>0.362748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-26</Date>
+    <Open>0.362859</Open>
+    <High>0.383329</High>
+    <Low>0.361347</Low>
+    <Close>0.371619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-27</Date>
+    <Open>0.371809</Open>
+    <High>0.396301</High>
+    <Low>0.348433</Low>
+    <Close>0.352866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-28</Date>
+    <Open>0.352869</Open>
+    <High>0.365402</High>
+    <Low>0.348808</Low>
+    <Close>0.361537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-29</Date>
+    <Open>0.361941</Open>
+    <High>0.393516</High>
+    <Low>0.361741</Low>
+    <Close>0.393171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-30</Date>
+    <Open>0.392174</Open>
+    <High>0.403289</High>
+    <Low>0.372056</Low>
+    <Close>0.381103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-03-31</Date>
+    <Open>0.380006</Open>
+    <High>0.405041</High>
+    <Low>0.374309</Low>
+    <Close>0.387978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-01</Date>
+    <Open>0.38822</Open>
+    <High>0.393447</High>
+    <Low>0.380998</Low>
+    <Close>0.386043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-02</Date>
+    <Open>0.385042</Open>
+    <High>0.387563</High>
+    <Low>0.367854</Low>
+    <Close>0.370133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-03</Date>
+    <Open>0.369833</Open>
+    <High>0.377521</High>
+    <Low>0.360319</Low>
+    <Close>0.366543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-04</Date>
+    <Open>0.367169</Open>
+    <High>0.384007</High>
+    <Low>0.366303</Low>
+    <Close>0.38099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-05</Date>
+    <Open>0.381791</Open>
+    <High>0.398836</High>
+    <Low>0.377139</Low>
+    <Close>0.390841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-06</Date>
+    <Open>0.390274</Open>
+    <High>0.392679</High>
+    <Low>0.377051</Low>
+    <Close>0.383434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-07</Date>
+    <Open>0.384238</Open>
+    <High>0.402553</High>
+    <Low>0.374143</Low>
+    <Close>0.39269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-08</Date>
+    <Open>0.39269</Open>
+    <High>0.494252</High>
+    <Low>0.388295</Low>
+    <Close>0.452176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-09</Date>
+    <Open>0.452176</Open>
+    <High>0.462314</High>
+    <Low>0.420298</Low>
+    <Close>0.433273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-10</Date>
+    <Open>0.4353</Open>
+    <High>0.437306</High>
+    <Low>0.41615</Low>
+    <Close>0.429352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-11</Date>
+    <Open>0.431145</Open>
+    <High>0.442176</High>
+    <Low>0.420232</Low>
+    <Close>0.421517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-12</Date>
+    <Open>0.421513</Open>
+    <High>0.423219</High>
+    <Low>0.402113</Low>
+    <Close>0.407918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-13</Date>
+    <Open>0.409019</Open>
+    <High>0.423749</High>
+    <Low>0.40516</Low>
+    <Close>0.410494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-14</Date>
+    <Open>0.411094</Open>
+    <High>0.43258</High>
+    <Low>0.404619</Low>
+    <Close>0.419048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-15</Date>
+    <Open>0.418643</Open>
+    <High>0.434221</High>
+    <Low>0.414707</Low>
+    <Close>0.429582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-16</Date>
+    <Open>0.431488</Open>
+    <High>0.450792</High>
+    <Low>0.42376</Low>
+    <Close>0.439003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-17</Date>
+    <Open>0.440199</Open>
+    <High>0.44295</High>
+    <Low>0.416608</Low>
+    <Close>0.418509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-18</Date>
+    <Open>0.419743</Open>
+    <High>0.455514</High>
+    <Low>0.416179</Low>
+    <Close>0.444476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-19</Date>
+    <Open>0.443684</Open>
+    <High>0.445692</High>
+    <Low>0.407451</Low>
+    <Close>0.41241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-20</Date>
+    <Open>0.411915</Open>
+    <High>0.425221</High>
+    <Low>0.384046</Low>
+    <Close>0.388239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-21</Date>
+    <Open>0.388123</Open>
+    <High>0.392624</High>
+    <Low>0.360935</Low>
+    <Close>0.368363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-22</Date>
+    <Open>0.368359</Open>
+    <High>0.386031</High>
+    <Low>0.359599</Low>
+    <Close>0.375334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-23</Date>
+    <Open>0.376534</Open>
+    <High>0.378638</High>
+    <Low>0.356475</Low>
+    <Close>0.361318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-24</Date>
+    <Open>0.361418</Open>
+    <High>0.371522</High>
+    <Low>0.354293</Low>
+    <Close>0.367611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-25</Date>
+    <Open>0.367511</Open>
+    <High>0.37359</High>
+    <Low>0.358036</Low>
+    <Close>0.37359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-26</Date>
+    <Open>0.374586</Open>
+    <High>0.390782</High>
+    <Low>0.355946</Low>
+    <Close>0.366728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-27</Date>
+    <Open>0.367618</Open>
+    <High>0.374956</High>
+    <Low>0.358625</Low>
+    <Close>0.366432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-28</Date>
+    <Open>0.366417</Open>
+    <High>0.366425</High>
+    <Low>0.352334</Low>
+    <Close>0.357807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-29</Date>
+    <Open>0.358254</Open>
+    <High>0.389053</High>
+    <Low>0.355552</Low>
+    <Close>0.381621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-04-30</Date>
+    <Open>0.381225</Open>
+    <High>0.381225</High>
+    <Low>0.365419</Low>
+    <Close>0.367409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-01</Date>
+    <Open>0.367995</Open>
+    <High>0.369255</High>
+    <Low>0.346035</Low>
+    <Close>0.34739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-02</Date>
+    <Open>0.347394</Open>
+    <High>0.358682</High>
+    <Low>0.344959</Low>
+    <Close>0.35582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-03</Date>
+    <Open>0.356021</Open>
+    <High>0.357178</High>
+    <Low>0.340009</Low>
+    <Close>0.353795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-04</Date>
+    <Open>0.353181</Open>
+    <High>0.365817</High>
+    <Low>0.342654</Low>
+    <Close>0.343127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-05</Date>
+    <Open>0.34233</Open>
+    <High>0.349748</High>
+    <Low>0.342147</Low>
+    <Close>0.346115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-06</Date>
+    <Open>0.346318</Open>
+    <High>0.349045</High>
+    <Low>0.322493</Low>
+    <Close>0.328971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-07</Date>
+    <Open>0.328958</Open>
+    <High>0.335022</High>
+    <Low>0.325588</Low>
+    <Close>0.328984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-08</Date>
+    <Open>0.329485</Open>
+    <High>0.333393</High>
+    <Low>0.293502</Low>
+    <Close>0.29883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-09</Date>
+    <Open>0.299209</Open>
+    <High>0.309209</High>
+    <Low>0.296756</Low>
+    <Close>0.304905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-10</Date>
+    <Open>0.305636</Open>
+    <High>0.317849</High>
+    <Low>0.297427</Low>
+    <Close>0.315815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-11</Date>
+    <Open>0.315215</Open>
+    <High>0.319019</High>
+    <Low>0.299039</Low>
+    <Close>0.302232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-12</Date>
+    <Open>0.302502</Open>
+    <High>0.310148</High>
+    <Low>0.291613</Low>
+    <Close>0.309447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-13</Date>
+    <Open>0.310848</Open>
+    <High>0.314989</High>
+    <Low>0.307254</Low>
+    <Close>0.310366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-14</Date>
+    <Open>0.310496</Open>
+    <High>0.313628</High>
+    <Low>0.304412</Low>
+    <Close>0.305763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-15</Date>
+    <Open>0.305853</Open>
+    <High>0.31649</High>
+    <Low>0.301851</Low>
+    <Close>0.309085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-16</Date>
+    <Open>0.309697</Open>
+    <High>0.313125</High>
+    <Low>0.304953</Low>
+    <Close>0.309424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-17</Date>
+    <Open>0.310855</Open>
+    <High>0.318559</High>
+    <Low>0.303821</Low>
+    <Close>0.318127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-18</Date>
+    <Open>0.318759</Open>
+    <High>0.318759</High>
+    <Low>0.30042</Low>
+    <Close>0.306423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-19</Date>
+    <Open>0.306322</Open>
+    <High>0.30794</High>
+    <Low>0.301072</Low>
+    <Close>0.301787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-20</Date>
+    <Open>0.301951</Open>
+    <High>0.306676</High>
+    <Low>0.30035</Low>
+    <Close>0.304804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-21</Date>
+    <Open>0.304774</Open>
+    <High>0.304813</High>
+    <Low>0.296348</Low>
+    <Close>0.296678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-22</Date>
+    <Open>0.296248</Open>
+    <High>0.296778</High>
+    <Low>0.28317</Low>
+    <Close>0.288973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-23</Date>
+    <Open>0.288335</Open>
+    <High>0.295659</High>
+    <Low>0.286569</Low>
+    <Close>0.291818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-24</Date>
+    <Open>0.291815</Open>
+    <High>0.293332</High>
+    <Low>0.278792</Low>
+    <Close>0.282886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-25</Date>
+    <Open>0.282986</Open>
+    <High>0.295879</High>
+    <Low>0.274695</Low>
+    <Close>0.290123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-26</Date>
+    <Open>0.290609</Open>
+    <High>0.298086</High>
+    <Low>0.286003</Low>
+    <Close>0.295159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-27</Date>
+    <Open>0.295159</Open>
+    <High>0.296095</High>
+    <Low>0.291376</Low>
+    <Close>0.293815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BICO">
+    <Date>2023-05-28</Date>
+    <Open>0.293788</Open>
+    <High>0.306189</High>
+    <Low>0.291864</Low>
+    <Close>0.295565</Close>
+  </Cryptocurrency>
+</Root>

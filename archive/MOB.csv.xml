@@ -1,0 +1,2656 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-14</Date>
+    <Open>1.94469</Open>
+    <High>1.94469</High>
+    <Low>1.94469</Low>
+    <Close>1.94469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-15</Date>
+    <Open>1.88935</Open>
+    <High>1.96564</High>
+    <Low>1.86638</Low>
+    <Close>1.96544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-16</Date>
+    <Open>1.96264</Open>
+    <High>1.98661</High>
+    <Low>1.80229</Low>
+    <Close>1.83561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-17</Date>
+    <Open>1.84242</Open>
+    <High>2.06931</High>
+    <Low>1.80229</Low>
+    <Close>1.90971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-18</Date>
+    <Open>1.91051</Open>
+    <High>1.95565</High>
+    <Low>1.79666</Low>
+    <Close>1.82744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-19</Date>
+    <Open>1.83343</Open>
+    <High>2.26973</High>
+    <Low>1.78767</Low>
+    <Close>2.01398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-20</Date>
+    <Open>2.01319</Open>
+    <High>2.14485</High>
+    <Low>1.84778</Low>
+    <Close>1.86576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-21</Date>
+    <Open>1.87075</Open>
+    <High>2.03835</High>
+    <Low>1.83162</Low>
+    <Close>1.94827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-22</Date>
+    <Open>1.95346</Open>
+    <High>2.09727</High>
+    <Low>1.90452</Low>
+    <Close>2.04155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-23</Date>
+    <Open>2.05054</Open>
+    <High>2.08749</High>
+    <Low>1.9177</Low>
+    <Close>1.94267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-24</Date>
+    <Open>1.92868</Open>
+    <High>2.00139</High>
+    <Low>1.86295</Low>
+    <Close>1.98242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-25</Date>
+    <Open>1.99321</Open>
+    <High>2.10247</High>
+    <Low>1.95965</Low>
+    <Close>1.97163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-26</Date>
+    <Open>1.97663</Open>
+    <High>2.02077</High>
+    <Low>1.84778</Low>
+    <Close>1.94405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-27</Date>
+    <Open>1.94486</Open>
+    <High>1.95305</High>
+    <Low>1.84797</Low>
+    <Close>1.91789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-28</Date>
+    <Open>1.91798</Open>
+    <High>1.98899</High>
+    <Low>1.87976</Low>
+    <Close>1.96678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-29</Date>
+    <Open>1.96166</Open>
+    <High>2.00383</High>
+    <Low>1.91385</Low>
+    <Close>1.95996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-30</Date>
+    <Open>1.95794</Open>
+    <High>2.07534</High>
+    <Low>1.95397</Low>
+    <Close>2.06834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-05-31</Date>
+    <Open>2.06855</Open>
+    <High>2.44904</High>
+    <Low>2.02538</Low>
+    <Close>2.32391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-01</Date>
+    <Open>2.32126</Open>
+    <High>2.4331</High>
+    <Low>2.04895</Low>
+    <Close>2.05915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-02</Date>
+    <Open>2.04995</Open>
+    <High>2.08812</High>
+    <Low>1.98221</Low>
+    <Close>2.03716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-03</Date>
+    <Open>2.03816</Open>
+    <High>2.12934</High>
+    <Low>1.96374</Low>
+    <Close>1.99326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-04</Date>
+    <Open>1.99526</Open>
+    <High>2.0484</High>
+    <Low>1.97193</Low>
+    <Close>2.01946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-05</Date>
+    <Open>2.0205</Open>
+    <High>2.06027</High>
+    <Low>1.95042</Low>
+    <Close>1.97514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-06</Date>
+    <Open>1.97614</Open>
+    <High>2.08931</High>
+    <Low>1.97115</Low>
+    <Close>1.99832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-07</Date>
+    <Open>2.00232</Open>
+    <High>2.04332</High>
+    <Low>1.91439</Low>
+    <Close>2.03233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-08</Date>
+    <Open>2.03843</Open>
+    <High>2.03843</High>
+    <Low>1.92461</Low>
+    <Close>1.93576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-09</Date>
+    <Open>1.93674</Open>
+    <High>1.94627</High>
+    <Low>1.90248</Low>
+    <Close>1.91239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-10</Date>
+    <Open>1.91237</Open>
+    <High>1.93445</High>
+    <Low>1.65519</Low>
+    <Close>1.68186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-11</Date>
+    <Open>1.68384</Open>
+    <High>1.72216</High>
+    <Low>1.61216</Low>
+    <Close>1.63314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-12</Date>
+    <Open>1.63417</Open>
+    <High>1.65167</High>
+    <Low>1.55782</Low>
+    <Close>1.61699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-13</Date>
+    <Open>1.61699</Open>
+    <High>1.61699</High>
+    <Low>1.38127</Low>
+    <Close>1.38807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-14</Date>
+    <Open>1.38808</Open>
+    <High>1.3928</High>
+    <Low>1.16059</Low>
+    <Close>1.1626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-15</Date>
+    <Open>1.16559</Open>
+    <High>1.20163</High>
+    <Low>1.03694</Low>
+    <Close>1.14063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-16</Date>
+    <Open>1.1318</Open>
+    <High>1.15723</High>
+    <Low>1.04485</Low>
+    <Close>1.06411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-17</Date>
+    <Open>1.03061</Open>
+    <High>1.0745</High>
+    <Low>1.02709</Low>
+    <Close>1.04875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-18</Date>
+    <Open>1.04875</Open>
+    <High>1.05275</High>
+    <Low>0.97634</Low>
+    <Close>1.00637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-19</Date>
+    <Open>1.00836</Open>
+    <High>1.07671</High>
+    <Low>0.98558</Low>
+    <Close>1.0736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-20</Date>
+    <Open>1.07771</Open>
+    <High>1.1535</High>
+    <Low>1.04814</Low>
+    <Close>1.06683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-21</Date>
+    <Open>1.06472</Open>
+    <High>1.15707</High>
+    <Low>1.06472</Low>
+    <Close>1.0989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-22</Date>
+    <Open>1.0999</Open>
+    <High>1.0999</High>
+    <Low>1.04895</Low>
+    <Close>1.05894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-23</Date>
+    <Open>1.05883</Open>
+    <High>1.18481</High>
+    <Low>1.05295</Low>
+    <Close>1.15085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-24</Date>
+    <Open>1.15584</Open>
+    <High>1.18082</High>
+    <Low>1.12005</Low>
+    <Close>1.13612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-25</Date>
+    <Open>1.13786</Open>
+    <High>1.16323</High>
+    <Low>1.12526</Low>
+    <Close>1.15918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-26</Date>
+    <Open>1.1592</Open>
+    <High>1.19817</High>
+    <Low>1.11932</Low>
+    <Close>1.1333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-27</Date>
+    <Open>1.12933</Open>
+    <High>1.12936</High>
+    <Low>1.05702</Low>
+    <Close>1.06805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-28</Date>
+    <Open>1.06896</Open>
+    <High>1.09102</High>
+    <Low>1.04508</Low>
+    <Close>1.05967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-29</Date>
+    <Open>1.05369</Open>
+    <High>1.1514</High>
+    <Low>1.03844</Low>
+    <Close>1.13562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-06-30</Date>
+    <Open>1.14162</Open>
+    <High>1.3116</High>
+    <Low>1.0736</Low>
+    <Close>1.08769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-01</Date>
+    <Open>1.07571</Open>
+    <High>1.15173</High>
+    <Low>1.06761</Low>
+    <Close>1.06882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-02</Date>
+    <Open>1.06832</Open>
+    <High>1.10218</High>
+    <Low>1.05734</Low>
+    <Close>1.08919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-05</Date>
+    <Open>1.07382</Open>
+    <High>1.10478</High>
+    <Low>1.06372</Low>
+    <Close>1.08869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-06</Date>
+    <Open>1.0868</Open>
+    <High>1.16272</High>
+    <Low>1.07571</Low>
+    <Close>1.11377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-07</Date>
+    <Open>1.12326</Open>
+    <High>1.14481</High>
+    <Low>1.09818</Low>
+    <Close>1.13732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-08</Date>
+    <Open>1.1362</Open>
+    <High>1.1703</High>
+    <Low>1.11233</Low>
+    <Close>1.12433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-09</Date>
+    <Open>1.12233</Open>
+    <High>1.14831</High>
+    <Low>1.11533</Low>
+    <Close>1.14731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-10</Date>
+    <Open>1.14931</Open>
+    <High>1.15131</High>
+    <Low>1.06825</Low>
+    <Close>1.08135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-11</Date>
+    <Open>1.07835</Open>
+    <High>1.07835</High>
+    <Low>1.04406</Low>
+    <Close>1.04406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-12</Date>
+    <Open>1.04406</Open>
+    <High>1.04406</High>
+    <Low>1.00999</Low>
+    <Close>1.01798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-13</Date>
+    <Open>1.01203</Open>
+    <High>1.04196</High>
+    <Low>0.99391</Low>
+    <Close>1.01009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-14</Date>
+    <Open>1.01009</Open>
+    <High>1.05936</High>
+    <Low>1.00619</Low>
+    <Close>1.04837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-15</Date>
+    <Open>1.04337</Open>
+    <High>1.07635</High>
+    <Low>1.03438</Low>
+    <Close>1.04769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-16</Date>
+    <Open>1.04669</Open>
+    <High>1.12766</High>
+    <Low>1.01959</Low>
+    <Close>1.08078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-17</Date>
+    <Open>1.08171</Open>
+    <High>1.54058</High>
+    <Low>1.07874</Low>
+    <Close>1.19369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-18</Date>
+    <Open>1.19468</Open>
+    <High>1.19869</High>
+    <Low>1.10761</Low>
+    <Close>1.12574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-19</Date>
+    <Open>1.12173</Open>
+    <High>1.20987</High>
+    <Low>1.11689</Low>
+    <Close>1.16219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-20</Date>
+    <Open>1.164</Open>
+    <High>1.17513</High>
+    <Low>1.111</Low>
+    <Close>1.12206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-21</Date>
+    <Open>1.12013</Open>
+    <High>1.13126</High>
+    <Low>1.08411</Low>
+    <Close>1.12225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-22</Date>
+    <Open>1.12227</Open>
+    <High>1.16234</High>
+    <Low>1.11806</Low>
+    <Close>1.13017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-23</Date>
+    <Open>1.1322</Open>
+    <High>1.1471</High>
+    <Low>1.08389</Low>
+    <Close>1.09421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-24</Date>
+    <Open>1.09522</Open>
+    <High>1.19118</High>
+    <Low>1.09514</Low>
+    <Close>1.16723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-25</Date>
+    <Open>1.16123</Open>
+    <High>1.419</High>
+    <Low>1.10611</Low>
+    <Close>1.1411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-26</Date>
+    <Open>1.14313</Open>
+    <High>1.14511</High>
+    <Low>1.04801</Low>
+    <Close>1.05716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-27</Date>
+    <Open>1.05816</Open>
+    <High>1.15011</High>
+    <Low>1.05816</Low>
+    <Close>1.13327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-28</Date>
+    <Open>1.13229</Open>
+    <High>1.24425</High>
+    <Low>1.12316</Low>
+    <Close>1.22725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-29</Date>
+    <Open>1.22732</Open>
+    <High>1.26305</High>
+    <Low>1.19936</Low>
+    <Close>1.23751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-30</Date>
+    <Open>1.23651</Open>
+    <High>1.27945</High>
+    <Low>1.20034</Low>
+    <Close>1.2274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-07-31</Date>
+    <Open>1.22447</Open>
+    <High>1.22925</High>
+    <Low>1.17234</Low>
+    <Close>1.22128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-01</Date>
+    <Open>1.22029</Open>
+    <High>1.49436</High>
+    <Low>1.19653</Low>
+    <Close>1.26237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-02</Date>
+    <Open>1.26538</Open>
+    <High>1.56317</High>
+    <Low>1.19117</Low>
+    <Close>1.31222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-03</Date>
+    <Open>1.31626</Open>
+    <High>1.46935</High>
+    <Low>1.31128</Low>
+    <Close>1.38435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-04</Date>
+    <Open>1.38132</Open>
+    <High>1.44814</High>
+    <Low>1.33015</Low>
+    <Close>1.40106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-05</Date>
+    <Open>1.40204</Open>
+    <High>1.51014</High>
+    <Low>1.35926</Low>
+    <Close>1.36226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-06</Date>
+    <Open>1.36726</Open>
+    <High>1.38501</High>
+    <Low>1.34327</Low>
+    <Close>1.3543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-07</Date>
+    <Open>1.3583</Open>
+    <High>1.3583</High>
+    <Low>1.30417</Low>
+    <Close>1.32024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-08</Date>
+    <Open>1.31125</Open>
+    <High>1.3405</High>
+    <Low>1.30217</Low>
+    <Close>1.30321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-09</Date>
+    <Open>1.30714</Open>
+    <High>1.31126</High>
+    <Low>1.21627</Low>
+    <Close>1.23826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-10</Date>
+    <Open>1.23725</Open>
+    <High>1.28086</High>
+    <Low>1.19229</Low>
+    <Close>1.26137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-11</Date>
+    <Open>1.26437</Open>
+    <High>1.33553</High>
+    <Low>1.26038</Low>
+    <Close>1.28857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-12</Date>
+    <Open>1.29665</Open>
+    <High>1.30965</High>
+    <Low>1.20648</Low>
+    <Close>1.27259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-13</Date>
+    <Open>1.26857</Open>
+    <High>1.31958</High>
+    <Low>1.26364</Low>
+    <Close>1.28751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-14</Date>
+    <Open>1.28849</Open>
+    <High>1.30347</High>
+    <Low>1.22634</Low>
+    <Close>1.2384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-15</Date>
+    <Open>1.2414</Open>
+    <High>1.26634</High>
+    <Low>1.19813</Low>
+    <Close>1.20928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-16</Date>
+    <Open>1.20829</Open>
+    <High>1.22322</High>
+    <Low>1.19204</Low>
+    <Close>1.19906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-17</Date>
+    <Open>1.19911</Open>
+    <High>1.31697</High>
+    <Low>1.192</Low>
+    <Close>1.24209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-18</Date>
+    <Open>1.2411</Open>
+    <High>1.2801</High>
+    <Low>1.2071</Low>
+    <Close>1.21801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-19</Date>
+    <Open>1.21812</Open>
+    <High>1.22112</High>
+    <Low>1.122</Low>
+    <Close>1.12311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-20</Date>
+    <Open>1.12406</Open>
+    <High>1.1611</High>
+    <Low>1.10094</Low>
+    <Close>1.10699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-21</Date>
+    <Open>1.10699</Open>
+    <High>1.14167</High>
+    <Low>1.10294</Low>
+    <Close>1.13097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-22</Date>
+    <Open>1.13003</Open>
+    <High>1.13003</High>
+    <Low>1.04081</Low>
+    <Close>1.04081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-23</Date>
+    <Open>1.04083</Open>
+    <High>1.067</High>
+    <Low>1.01998</Low>
+    <Close>1.04803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-24</Date>
+    <Open>1.053</Open>
+    <High>1.07811</High>
+    <Low>1.03002</Low>
+    <Close>1.0671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-25</Date>
+    <Open>1.06507</Open>
+    <High>1.09707</High>
+    <Low>1.05998</Low>
+    <Close>1.07609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-26</Date>
+    <Open>1.07898</Open>
+    <High>1.18313</High>
+    <Low>1.04899</Low>
+    <Close>1.0611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-27</Date>
+    <Open>1.0601</Open>
+    <High>1.06211</High>
+    <Low>1.02012</Low>
+    <Close>1.02904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-28</Date>
+    <Open>1.02502</Open>
+    <High>1.04604</High>
+    <Low>1.02102</Low>
+    <Close>1.03499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-29</Date>
+    <Open>1.03499</Open>
+    <High>1.038</High>
+    <Low>0.99793</Low>
+    <Close>1.02904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-30</Date>
+    <Open>1.03109</Open>
+    <High>1.05099</High>
+    <Low>1.00002</Low>
+    <Close>1.01812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-08-31</Date>
+    <Open>1.01507</Open>
+    <High>1.05403</High>
+    <Low>1.00302</Low>
+    <Close>1.022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-01</Date>
+    <Open>1.024</Open>
+    <High>1.024</High>
+    <Low>0.99793</Low>
+    <Close>1.02096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-02</Date>
+    <Open>1.01995</Open>
+    <High>1.03512</High>
+    <Low>1.016</Low>
+    <Close>1.02116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-03</Date>
+    <Open>1.02118</Open>
+    <High>1.02708</High>
+    <Low>1.0051</Low>
+    <Close>1.011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-04</Date>
+    <Open>1.011</Open>
+    <High>1.017</High>
+    <Low>0.9981</Low>
+    <Close>1.007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-05</Date>
+    <Open>1.005</Open>
+    <High>1.015</High>
+    <Low>0.994</Low>
+    <Close>1.0021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-06</Date>
+    <Open>1.0041</Open>
+    <High>1.0211</High>
+    <Low>0.95</Low>
+    <Close>0.957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-07</Date>
+    <Open>0.95607</Open>
+    <High>0.978</High>
+    <Low>0.935</Low>
+    <Close>0.9741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-08</Date>
+    <Open>0.97407</Open>
+    <High>0.97611</High>
+    <Low>0.94901</Low>
+    <Close>0.97017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-09</Date>
+    <Open>0.97014</Open>
+    <High>1.0122</High>
+    <Low>0.96616</Low>
+    <Close>1.00834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-10</Date>
+    <Open>1.01138</Open>
+    <High>1.09844</High>
+    <Low>1.00335</Low>
+    <Close>1.03319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-11</Date>
+    <Open>1.0412</Open>
+    <High>1.05432</High>
+    <Low>1.01724</Low>
+    <Close>1.01724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-12</Date>
+    <Open>1.02125</Open>
+    <High>1.0362</High>
+    <Low>1.00521</Low>
+    <Close>1.00522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-13</Date>
+    <Open>1.0102</Open>
+    <High>1.01428</High>
+    <Low>0.87502</Low>
+    <Close>0.93602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-14</Date>
+    <Open>0.93602</Open>
+    <High>0.94905</High>
+    <Low>0.929</Low>
+    <Close>0.94624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-15</Date>
+    <Open>0.94731</Open>
+    <High>0.98</High>
+    <Low>0.93923</Low>
+    <Close>0.9509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-16</Date>
+    <Open>0.95091</Open>
+    <High>0.95496</High>
+    <Low>0.937906</Low>
+    <Close>0.946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-17</Date>
+    <Open>0.945905</Open>
+    <High>0.963096</High>
+    <Low>0.944</Low>
+    <Close>0.956096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-18</Date>
+    <Open>0.959</Open>
+    <High>0.96</High>
+    <Low>0.916908</Low>
+    <Close>0.919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-19</Date>
+    <Open>0.919</Open>
+    <High>0.919184</High>
+    <Low>0.883</Low>
+    <Close>0.916092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-20</Date>
+    <Open>0.918184</Open>
+    <High>0.921092</High>
+    <Low>0.897179</Low>
+    <Close>0.907091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-21</Date>
+    <Open>0.905091</Open>
+    <High>1.25312</High>
+    <Low>0.90109</Low>
+    <Close>0.961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-22</Date>
+    <Open>0.961</Open>
+    <High>0.968097</High>
+    <Low>0.92</Low>
+    <Close>0.937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-23</Date>
+    <Open>0.932</Open>
+    <High>0.942906</High>
+    <Low>0.901</Low>
+    <Close>0.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-24</Date>
+    <Open>0.915945</Open>
+    <High>0.932028</High>
+    <Low>0.906964</Low>
+    <Close>0.915073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-25</Date>
+    <Open>0.912</Open>
+    <High>0.930028</High>
+    <Low>0.903964</Low>
+    <Close>0.903964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-26</Date>
+    <Open>0.903991</Open>
+    <High>0.911964</High>
+    <Low>0.875088</Low>
+    <Close>0.892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-27</Date>
+    <Open>0.886089</Open>
+    <High>0.925</High>
+    <Low>0.884</Low>
+    <Close>0.895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-28</Date>
+    <Open>0.894911</Open>
+    <High>0.9</High>
+    <Low>0.871913</Low>
+    <Close>0.891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-29</Date>
+    <Open>0.893</Open>
+    <High>0.895</High>
+    <Low>0.874</Low>
+    <Close>0.891089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-09-30</Date>
+    <Open>0.892</Open>
+    <High>0.894179</High>
+    <Low>0.874</Low>
+    <Close>0.875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-01</Date>
+    <Open>0.872</Open>
+    <High>0.881088</High>
+    <Low>0.866087</Low>
+    <Close>0.876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-02</Date>
+    <Open>0.875</Open>
+    <High>0.985</High>
+    <Low>0.872</Low>
+    <Close>0.872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-03</Date>
+    <Open>0.873</Open>
+    <High>0.890178</High>
+    <Low>0.865</Low>
+    <Close>0.879088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-04</Date>
+    <Open>0.880264</Open>
+    <High>0.891267</High>
+    <Low>0.877088</Low>
+    <Close>0.888266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-05</Date>
+    <Open>0.890267</Open>
+    <High>0.892268</High>
+    <Low>0.87</Low>
+    <Close>0.875175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-06</Date>
+    <Open>0.873175</Open>
+    <High>0.897117</High>
+    <Low>0.873175</Low>
+    <Close>0.884124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-07</Date>
+    <Open>0.88415</Open>
+    <High>0.886142</High>
+    <Low>0.870026</Low>
+    <Close>0.870096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-08</Date>
+    <Open>0.872113</Open>
+    <High>0.901153</High>
+    <Low>0.868087</Low>
+    <Close>0.88523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-09</Date>
+    <Open>0.887222</Open>
+    <High>0.985197</High>
+    <Low>0.876149</Low>
+    <Close>0.928186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-10</Date>
+    <Open>0.927093</Open>
+    <High>1.0211</High>
+    <Low>0.911182</Low>
+    <Close>0.947905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-11</Date>
+    <Open>0.948</Open>
+    <High>0.9959</High>
+    <Low>0.865913</Low>
+    <Close>0.865913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-12</Date>
+    <Open>0.865922</Open>
+    <High>0.879965</High>
+    <Low>0.85894</Low>
+    <Close>0.861026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-13</Date>
+    <Open>0.862</Open>
+    <High>0.863991</High>
+    <Low>0.806895</Low>
+    <Close>0.834067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-14</Date>
+    <Open>0.833033</Open>
+    <High>0.860077</High>
+    <Low>0.831017</Low>
+    <Close>0.838017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-15</Date>
+    <Open>0.836033</Open>
+    <High>0.849093</High>
+    <Low>0.834033</Low>
+    <Close>0.844042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-16</Date>
+    <Open>0.839042</Open>
+    <High>0.858</High>
+    <Low>0.8355</Low>
+    <Close>0.845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-17</Date>
+    <Open>0.8495</Open>
+    <High>0.8625</High>
+    <Low>0.8325</Low>
+    <Close>0.843025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-18</Date>
+    <Open>0.844025</Open>
+    <High>0.848085</High>
+    <Low>0.829017</Low>
+    <Close>0.834042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-19</Date>
+    <Open>0.83405</Open>
+    <High>0.835067</High>
+    <Low>0.820016</Low>
+    <Close>0.821992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-20</Date>
+    <Open>0.822</Open>
+    <High>0.835</High>
+    <Low>0.813927</Low>
+    <Close>0.816943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-21</Date>
+    <Open>0.816959</Open>
+    <High>0.821066</High>
+    <Low>0.799968</Low>
+    <Close>0.818025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-22</Date>
+    <Open>0.820066</Open>
+    <High>0.837033</High>
+    <Low>0.810065</Low>
+    <Close>0.830058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-23</Date>
+    <Open>0.832067</Open>
+    <High>0.835075</High>
+    <Low>0.824066</Low>
+    <Close>0.828108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-24</Date>
+    <Open>0.829116</Open>
+    <High>1.0701</High>
+    <Low>0.820082</Low>
+    <Close>0.928046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-25</Date>
+    <Open>0.928028</Open>
+    <High>0.965048</High>
+    <Low>0.858017</Low>
+    <Close>0.872314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-26</Date>
+    <Open>0.872279</Open>
+    <High>0.893232</High>
+    <Low>0.849221</Low>
+    <Close>0.850238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-27</Date>
+    <Open>0.850238</Open>
+    <High>0.864207</High>
+    <Low>0.833033</Low>
+    <Close>0.836042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-28</Date>
+    <Open>0.837059</Open>
+    <High>0.843169</High>
+    <Low>0.820074</Low>
+    <Close>0.836176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-29</Date>
+    <Open>0.836167</Open>
+    <High>0.856291</High>
+    <Low>0.830307</Low>
+    <Close>0.839185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-30</Date>
+    <Open>0.838201</Open>
+    <High>0.846169</High>
+    <Low>0.826165</Low>
+    <Close>0.830141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-10-31</Date>
+    <Open>0.831183</Open>
+    <High>0.839992</High>
+    <Low>0.823959</Low>
+    <Close>0.832917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-01</Date>
+    <Open>0.831942</Open>
+    <High>0.841907</High>
+    <Low>0.81591</Low>
+    <Close>0.819918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-02</Date>
+    <Open>0.819918</Open>
+    <High>0.823041</High>
+    <Low>0.798944</Low>
+    <Close>0.802968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-03</Date>
+    <Open>0.803952</Open>
+    <High>0.841899</High>
+    <Low>0.801968</Low>
+    <Close>0.821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-04</Date>
+    <Open>0.821984</Open>
+    <High>0.85506</High>
+    <Low>0.813967</Low>
+    <Close>0.853068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-05</Date>
+    <Open>0.857069</Open>
+    <High>0.866017</High>
+    <Low>0.851026</Low>
+    <Close>0.865043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-06</Date>
+    <Open>0.864035</Open>
+    <High>0.928074</High>
+    <Low>0.847017</Low>
+    <Close>0.884062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-07</Date>
+    <Open>0.883071</Open>
+    <High>0.958038</High>
+    <Low>0.859983</Low>
+    <Close>0.860112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-08</Date>
+    <Open>0.860258</Open>
+    <High>0.862</High>
+    <Low>0.688031</Low>
+    <Close>0.74222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-09</Date>
+    <Open>0.736716</Open>
+    <High>0.746678</High>
+    <Low>0.567901</Low>
+    <Close>0.571723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-10</Date>
+    <Open>0.569812</Open>
+    <High>0.71364</High>
+    <Low>0.555478</Low>
+    <Close>0.663908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-11</Date>
+    <Open>0.663767</Open>
+    <High>0.761801</High>
+    <Low>0.605027</Low>
+    <Close>0.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-12</Date>
+    <Open>0.612061</Open>
+    <High>0.625952</High>
+    <Low>0.592931</Low>
+    <Close>0.596924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-13</Date>
+    <Open>0.595925</Open>
+    <High>0.605968</High>
+    <Low>0.577306</Low>
+    <Close>0.581185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-14</Date>
+    <Open>0.581185</Open>
+    <High>0.58424</High>
+    <Low>0.519272</Low>
+    <Close>0.567205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-15</Date>
+    <Open>0.569145</Open>
+    <High>0.610328</High>
+    <Low>0.569145</Low>
+    <Close>0.596403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-16</Date>
+    <Open>0.59727</Open>
+    <High>0.601446</High>
+    <Low>0.583358</Low>
+    <Close>0.586448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-17</Date>
+    <Open>0.58847</Open>
+    <High>0.662509</High>
+    <Low>0.579542</Low>
+    <Close>0.610511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-18</Date>
+    <Open>0.610536</Open>
+    <High>0.612559</High>
+    <Low>0.583282</Low>
+    <Close>0.583328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-19</Date>
+    <Open>0.583317</Open>
+    <High>0.584275</High>
+    <Low>0.574321</Low>
+    <Close>0.582388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-20</Date>
+    <Open>0.582394</Open>
+    <High>0.643169</High>
+    <Low>0.57935</Low>
+    <Close>0.60808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-21</Date>
+    <Open>0.60609</Open>
+    <High>0.607082</High>
+    <Low>0.552331</Low>
+    <Close>0.556332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-22</Date>
+    <Open>0.555316</Open>
+    <High>0.567392</High>
+    <Low>0.547282</Low>
+    <Close>0.565309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-23</Date>
+    <Open>0.565298</Open>
+    <High>0.615285</High>
+    <Low>0.564288</Low>
+    <Close>0.599346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-24</Date>
+    <Open>0.600339</Open>
+    <High>0.616383</High>
+    <Low>0.581534</Low>
+    <Close>0.584538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-25</Date>
+    <Open>0.585502</Open>
+    <High>0.58663</High>
+    <Low>0.573535</Low>
+    <Close>0.576671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-26</Date>
+    <Open>0.577665</Open>
+    <High>3.71755</High>
+    <Low>0.576636</Low>
+    <Close>1.68001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-27</Date>
+    <Open>1.67701</Open>
+    <High>2.46752</High>
+    <Low>1.39118</Low>
+    <Close>1.48505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-28</Date>
+    <Open>1.49104</Open>
+    <High>1.82507</High>
+    <Low>1.32151</Low>
+    <Close>1.33749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-29</Date>
+    <Open>1.33648</Open>
+    <High>1.52442</High>
+    <Low>1.29947</Low>
+    <Close>1.43147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-11-30</Date>
+    <Open>1.42847</Open>
+    <High>1.47244</High>
+    <Low>1.32092</Low>
+    <Close>1.34508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-01</Date>
+    <Open>1.35105</Open>
+    <High>1.35314</High>
+    <Low>1.06503</Low>
+    <Close>1.10907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-02</Date>
+    <Open>1.10806</Open>
+    <High>1.40006</High>
+    <Low>1.10806</Low>
+    <Close>1.15007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-03</Date>
+    <Open>1.15605</Open>
+    <High>1.17105</High>
+    <Low>1.09013</Low>
+    <Close>1.12911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-04</Date>
+    <Open>1.12311</Open>
+    <High>1.37014</High>
+    <Low>1.106</Low>
+    <Close>1.17012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-05</Date>
+    <Open>1.17023</Open>
+    <High>1.3204</High>
+    <Low>1.16412</Low>
+    <Close>1.23904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-06</Date>
+    <Open>1.23502</Open>
+    <High>1.25901</High>
+    <Low>1.16401</Low>
+    <Close>1.17199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-07</Date>
+    <Open>1.17098</Open>
+    <High>1.218</High>
+    <Low>1.11801</Low>
+    <Close>1.13398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-08</Date>
+    <Open>1.13402</Open>
+    <High>1.15723</High>
+    <Low>1.07911</Low>
+    <Close>1.12308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-09</Date>
+    <Open>1.12509</Open>
+    <High>1.13702</High>
+    <Low>1.08804</Low>
+    <Close>1.09905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-10</Date>
+    <Open>1.09404</Open>
+    <High>1.106</High>
+    <Low>1.02099</Low>
+    <Close>1.02399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-11</Date>
+    <Open>1.023</Open>
+    <High>1.04404</High>
+    <Low>1.0061</Low>
+    <Close>1.0071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-12</Date>
+    <Open>1.0071</Open>
+    <High>1.0071</High>
+    <Low>0.91901</Low>
+    <Close>0.94809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-13</Date>
+    <Open>0.95008</Open>
+    <High>0.95109</High>
+    <Low>0.89104</Low>
+    <Close>0.9068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-14</Date>
+    <Open>0.90581</Open>
+    <High>1.37988</High>
+    <Low>0.89783</Low>
+    <Close>1.14108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-15</Date>
+    <Open>1.135</Open>
+    <High>1.27826</High>
+    <Low>1.0191</Low>
+    <Close>1.02721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-16</Date>
+    <Open>1.03021</Open>
+    <High>1.077</High>
+    <Low>0.9641</Low>
+    <Close>0.9651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-17</Date>
+    <Open>0.9671</Open>
+    <High>0.97406</High>
+    <Low>0.83904</Low>
+    <Close>0.8831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-18</Date>
+    <Open>0.88411</Open>
+    <High>1.16913</High>
+    <Low>0.88308</Low>
+    <Close>0.91312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-19</Date>
+    <Open>0.915</Open>
+    <High>1.04814</High>
+    <Low>0.881</Low>
+    <Close>0.882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-20</Date>
+    <Open>0.88</Open>
+    <High>0.93601</High>
+    <Low>0.87497</Low>
+    <Close>0.90505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-21</Date>
+    <Open>0.90705</Open>
+    <High>1.038</High>
+    <Low>0.90603</Low>
+    <Close>0.92104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-22</Date>
+    <Open>0.92004</Open>
+    <High>0.96091</High>
+    <Low>0.92004</Low>
+    <Close>0.94287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-23</Date>
+    <Open>0.94585</Open>
+    <High>0.9529</High>
+    <Low>0.92691</Low>
+    <Close>0.93091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-24</Date>
+    <Open>0.92991</Open>
+    <High>0.93892</High>
+    <Low>0.88996</Low>
+    <Close>0.89796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-25</Date>
+    <Open>0.89696</Open>
+    <High>0.91095</High>
+    <Low>0.8839</Low>
+    <Close>0.89087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-26</Date>
+    <Open>0.8889</Open>
+    <High>0.89391</High>
+    <Low>0.8718</Low>
+    <Close>0.87582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-27</Date>
+    <Open>0.87884</Open>
+    <High>1.03575</High>
+    <Low>0.87782</Low>
+    <Close>0.91363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-28</Date>
+    <Open>0.91164</Open>
+    <High>0.9837</High>
+    <Low>0.88851</Low>
+    <Close>0.88953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-29</Date>
+    <Open>0.89055</Open>
+    <High>0.8925</High>
+    <Low>0.86664</Low>
+    <Close>0.8736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-30</Date>
+    <Open>0.87059</Open>
+    <High>0.88059</High>
+    <Low>0.83958</Low>
+    <Close>0.849567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2022-12-31</Date>
+    <Open>0.852573</Open>
+    <High>0.954484</High>
+    <Low>0.845569</Low>
+    <Close>0.861569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-01</Date>
+    <Open>0.85957</Open>
+    <High>0.908536</High>
+    <Low>0.858571</Low>
+    <Close>0.877587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-02</Date>
+    <Open>0.876588</Open>
+    <High>0.904629</High>
+    <Low>0.872651</Low>
+    <Close>0.887707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-03</Date>
+    <Open>0.885725</Open>
+    <High>0.897704</High>
+    <Low>0.865645</Low>
+    <Close>0.870669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-04</Date>
+    <Open>0.872668</Open>
+    <High>0.899622</High>
+    <Low>0.868635</Low>
+    <Close>0.890715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-05</Date>
+    <Open>0.891697</Open>
+    <High>0.93769</High>
+    <Low>0.871642</Low>
+    <Close>0.877684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-06</Date>
+    <Open>0.878684</Open>
+    <High>0.882656</High>
+    <Low>0.836523</Low>
+    <Close>0.865732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-07</Date>
+    <Open>0.866714</Open>
+    <High>0.940718</High>
+    <Low>0.857734</Low>
+    <Close>0.87579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-08</Date>
+    <Open>0.875781</Open>
+    <High>0.913854</High>
+    <Low>0.87479</Low>
+    <Close>0.891866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-09</Date>
+    <Open>0.892848</Open>
+    <High>0.925907</High>
+    <Low>0.891813</Low>
+    <Close>0.912991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-10</Date>
+    <Open>0.910991</Open>
+    <High>0.91989</High>
+    <Low>0.89791</Low>
+    <Close>0.911118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-11</Date>
+    <Open>0.909136</Open>
+    <High>1.155</High>
+    <Low>0.908982</Low>
+    <Close>0.968981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-12</Date>
+    <Open>0.97</Open>
+    <High>1.04593</High>
+    <Low>0.966903</Low>
+    <Close>1.00009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-13</Date>
+    <Open>1.00008</Open>
+    <High>1.02014</High>
+    <Low>0.99</Low>
+    <Close>1.0111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-14</Date>
+    <Open>1.01009</Open>
+    <High>1.14013</High>
+    <Low>1.00211</Low>
+    <Close>1.09205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-15</Date>
+    <Open>1.09106</Open>
+    <High>1.09504</High>
+    <Low>1.0521</Low>
+    <Close>1.06532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-16</Date>
+    <Open>1.06932</Open>
+    <High>1.09832</High>
+    <Low>1.03107</Low>
+    <Close>1.04402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-17</Date>
+    <Open>1.04503</Open>
+    <High>1.04911</High>
+    <Low>1.0191</Low>
+    <Close>1.02211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-18</Date>
+    <Open>1.02411</Open>
+    <High>1.05907</High>
+    <Low>0.93899</Low>
+    <Close>0.94794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-19</Date>
+    <Open>0.94794</Open>
+    <High>1.02393</High>
+    <Low>0.93892</Low>
+    <Close>0.97797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-20</Date>
+    <Open>0.97907</Open>
+    <High>1.19406</High>
+    <Low>0.97706</Low>
+    <Close>1.0892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-21</Date>
+    <Open>1.09023</Open>
+    <High>1.1772</High>
+    <Low>1.09023</Low>
+    <Close>1.10618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-22</Date>
+    <Open>1.10517</Open>
+    <High>1.13323</High>
+    <Low>1.0972</Low>
+    <Close>1.13323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-23</Date>
+    <Open>1.13623</Open>
+    <High>1.16815</High>
+    <Low>1.12016</Low>
+    <Close>1.15819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-24</Date>
+    <Open>1.15919</Open>
+    <High>1.19519</High>
+    <Low>1.13806</Low>
+    <Close>1.13905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-25</Date>
+    <Open>1.13803</Open>
+    <High>1.14005</High>
+    <Low>1.08106</Low>
+    <Close>1.10619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-26</Date>
+    <Open>1.10619</Open>
+    <High>1.12709</High>
+    <Low>1.09902</Low>
+    <Close>1.12008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-27</Date>
+    <Open>1.1221</Open>
+    <High>1.14636</High>
+    <Low>1.09633</Low>
+    <Close>1.13454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-28</Date>
+    <Open>1.13442</Open>
+    <High>1.13827</High>
+    <Low>1.09523</Low>
+    <Close>1.09621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-29</Date>
+    <Open>1.09925</Open>
+    <High>1.13919</High>
+    <Low>1.0843</Low>
+    <Close>1.13307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-30</Date>
+    <Open>1.13302</Open>
+    <High>1.14008</High>
+    <Low>1.08103</Low>
+    <Close>1.08605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-01-31</Date>
+    <Open>1.09105</Open>
+    <High>2.06688</High>
+    <Low>1.08707</Low>
+    <Close>1.57514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-01</Date>
+    <Open>1.57413</Open>
+    <High>1.69003</High>
+    <Low>1.303</Low>
+    <Close>1.42009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-02</Date>
+    <Open>1.41707</Open>
+    <High>1.50136</High>
+    <Low>1.38107</Low>
+    <Close>1.39527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-03</Date>
+    <Open>1.39231</Open>
+    <High>1.8002</High>
+    <Low>1.38521</Low>
+    <Close>1.56513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-04</Date>
+    <Open>1.56813</Open>
+    <High>1.62013</High>
+    <Low>1.51011</Low>
+    <Close>1.57213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-05</Date>
+    <Open>1.57014</Open>
+    <High>1.60637</High>
+    <Low>1.43339</Low>
+    <Close>1.46338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-06</Date>
+    <Open>1.46337</Open>
+    <High>1.49137</High>
+    <Low>1.41797</Low>
+    <Close>1.45906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-07</Date>
+    <Open>1.45113</Open>
+    <High>1.58594</High>
+    <Low>1.44104</Low>
+    <Close>1.52409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-08</Date>
+    <Open>1.52409</Open>
+    <High>1.55308</High>
+    <Low>1.43723</Low>
+    <Close>1.4491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-09</Date>
+    <Open>1.4491</Open>
+    <High>1.47703</High>
+    <Low>1.30134</Low>
+    <Close>1.30134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-10</Date>
+    <Open>1.29813</Open>
+    <High>1.88315</High>
+    <Low>1.23727</Low>
+    <Close>1.46822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-11</Date>
+    <Open>1.47325</Open>
+    <High>1.57622</High>
+    <Low>1.39214</Low>
+    <Close>1.41913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-12</Date>
+    <Open>1.41714</Open>
+    <High>1.57514</High>
+    <Low>1.38212</Low>
+    <Close>1.40511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-13</Date>
+    <Open>1.40114</Open>
+    <High>1.74761</High>
+    <Low>1.36534</Low>
+    <Close>1.50481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-14</Date>
+    <Open>1.50083</Open>
+    <High>1.62007</High>
+    <Low>1.47272</Low>
+    <Close>1.59866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-15</Date>
+    <Open>1.59664</Open>
+    <High>1.6743</High>
+    <Low>1.55556</Low>
+    <Close>1.63928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-16</Date>
+    <Open>1.63829</Open>
+    <High>2.11419</High>
+    <Low>1.63826</Low>
+    <Close>1.66957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-17</Date>
+    <Open>1.67222</Open>
+    <High>1.75816</High>
+    <Low>1.5971</Low>
+    <Close>1.72015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-18</Date>
+    <Open>1.72622</Open>
+    <High>2.27946</High>
+    <Low>1.71512</Low>
+    <Close>1.96633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-19</Date>
+    <Open>1.97132</Open>
+    <High>2.02232</High>
+    <Low>1.80551</Low>
+    <Close>1.82546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-20</Date>
+    <Open>1.82838</Open>
+    <High>2.09821</High>
+    <Low>1.78748</Low>
+    <Close>1.90715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-21</Date>
+    <Open>1.91013</Open>
+    <High>1.96331</High>
+    <Low>1.75633</Low>
+    <Close>1.76432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-22</Date>
+    <Open>1.77032</Open>
+    <High>1.81329</High>
+    <Low>1.63525</Low>
+    <Close>1.69914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-23</Date>
+    <Open>1.70298</Open>
+    <High>1.98326</High>
+    <Low>1.70215</Low>
+    <Close>1.83711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-24</Date>
+    <Open>1.83322</Open>
+    <High>1.92623</High>
+    <Low>1.67517</Low>
+    <Close>1.71197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-25</Date>
+    <Open>1.713</Open>
+    <High>1.923</High>
+    <Low>1.68413</Low>
+    <Close>1.79713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-26</Date>
+    <Open>1.79211</Open>
+    <High>1.83918</High>
+    <Low>1.74216</Low>
+    <Close>1.78018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-27</Date>
+    <Open>1.78009</Open>
+    <High>1.81509</High>
+    <Low>1.72607</Low>
+    <Close>1.75609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-02-28</Date>
+    <Open>1.74009</Open>
+    <High>1.87207</High>
+    <Low>1.721</Low>
+    <Close>1.75832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-01</Date>
+    <Open>1.76135</Open>
+    <High>1.85619</High>
+    <Low>1.75321</Low>
+    <Close>1.78725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-02</Date>
+    <Open>1.78327</Open>
+    <High>1.80223</High>
+    <Low>1.73814</Low>
+    <Close>1.75916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-03</Date>
+    <Open>1.75811</Open>
+    <High>1.76109</High>
+    <Low>1.65722</Low>
+    <Close>1.6671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-04</Date>
+    <Open>1.66715</Open>
+    <High>1.70619</High>
+    <Low>1.59014</Low>
+    <Close>1.62611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-05</Date>
+    <Open>1.62513</Open>
+    <High>1.82009</High>
+    <Low>1.61906</Low>
+    <Close>1.6842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-06</Date>
+    <Open>1.68419</Open>
+    <High>1.77512</High>
+    <Low>1.66103</Low>
+    <Close>1.7079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-07</Date>
+    <Open>1.70683</Open>
+    <High>1.745</High>
+    <Low>1.59986</Low>
+    <Close>1.60502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-08</Date>
+    <Open>1.61098</Open>
+    <High>1.6349</High>
+    <Low>1.55092</Low>
+    <Close>1.55092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-09</Date>
+    <Open>1.55077</Open>
+    <High>1.55375</High>
+    <Low>1.38871</Low>
+    <Close>1.40404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-10</Date>
+    <Open>1.39622</Open>
+    <High>1.40703</High>
+    <Low>1.30599</Low>
+    <Close>1.34688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-11</Date>
+    <Open>1.35233</Open>
+    <High>1.37874</High>
+    <Low>1.23272</Low>
+    <Close>1.23474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-12</Date>
+    <Open>1.23303</Open>
+    <High>1.35947</High>
+    <Low>1.22823</Low>
+    <Close>1.34981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-13</Date>
+    <Open>1.34971</Open>
+    <High>1.4751</High>
+    <Low>1.3251</Low>
+    <Close>1.44829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-14</Date>
+    <Open>1.44976</Open>
+    <High>1.60471</High>
+    <Low>1.43331</Low>
+    <Close>1.51319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-15</Date>
+    <Open>1.51444</Open>
+    <High>1.65105</High>
+    <Low>1.45865</Low>
+    <Close>1.48328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-16</Date>
+    <Open>1.48118</Open>
+    <High>1.48249</High>
+    <Low>1.42096</Low>
+    <Close>1.44346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-17</Date>
+    <Open>1.44454</Open>
+    <High>1.53381</High>
+    <Low>1.4331</Low>
+    <Close>1.51652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-18</Date>
+    <Open>1.51335</Open>
+    <High>1.81784</High>
+    <Low>1.50848</Low>
+    <Close>1.67546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-19</Date>
+    <Open>1.67902</Open>
+    <High>1.72696</High>
+    <Low>1.61383</Low>
+    <Close>1.67095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-20</Date>
+    <Open>1.67904</Open>
+    <High>1.74634</High>
+    <Low>1.61463</Low>
+    <Close>1.62892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-21</Date>
+    <Open>1.63092</Open>
+    <High>1.64854</High>
+    <Low>1.56685</Low>
+    <Close>1.63211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-22</Date>
+    <Open>1.63421</Open>
+    <High>1.65145</High>
+    <Low>1.52748</Low>
+    <Close>1.53325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-23</Date>
+    <Open>1.53629</Open>
+    <High>1.57452</High>
+    <Low>1.49488</Low>
+    <Close>1.5243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-24</Date>
+    <Open>1.52217</Open>
+    <High>1.55464</High>
+    <Low>1.41467</Low>
+    <Close>1.42571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-25</Date>
+    <Open>1.42861</Open>
+    <High>1.44174</High>
+    <Low>1.40358</Low>
+    <Close>1.41537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-26</Date>
+    <Open>1.41341</Open>
+    <High>1.46337</High>
+    <Low>1.40829</Low>
+    <Close>1.44663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-27</Date>
+    <Open>1.44959</Open>
+    <High>1.67641</High>
+    <Low>1.41692</Low>
+    <Close>1.47169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-28</Date>
+    <Open>1.47169</Open>
+    <High>1.47472</High>
+    <Low>1.41145</Low>
+    <Close>1.43056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-29</Date>
+    <Open>1.42556</Open>
+    <High>1.51039</High>
+    <Low>1.42556</Low>
+    <Close>1.48127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-30</Date>
+    <Open>1.48144</Open>
+    <High>1.52332</High>
+    <Low>1.44414</Low>
+    <Close>1.45541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-03-31</Date>
+    <Open>1.45939</Open>
+    <High>1.48537</High>
+    <Low>1.44551</Low>
+    <Close>1.46929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-01</Date>
+    <Open>1.46844</Open>
+    <High>1.47243</High>
+    <Low>1.43353</Low>
+    <Close>1.43953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-02</Date>
+    <Open>1.44053</Open>
+    <High>1.44361</High>
+    <Low>1.40395</Low>
+    <Close>1.41388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-03</Date>
+    <Open>1.41389</Open>
+    <High>1.94241</High>
+    <Low>1.36453</Low>
+    <Close>1.61763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-04</Date>
+    <Open>1.62165</Open>
+    <High>1.66338</High>
+    <Low>1.47965</Low>
+    <Close>1.50377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-05</Date>
+    <Open>1.50477</Open>
+    <High>1.53044</High>
+    <Low>1.44036</Low>
+    <Close>1.46253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-06</Date>
+    <Open>1.46053</Open>
+    <High>1.47249</High>
+    <Low>1.40078</Low>
+    <Close>1.40648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-07</Date>
+    <Open>1.40751</Open>
+    <High>1.42771</High>
+    <Low>1.40115</Low>
+    <Close>1.40504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-08</Date>
+    <Open>1.40404</Open>
+    <High>1.45795</High>
+    <Low>1.36053</Low>
+    <Close>1.36053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-09</Date>
+    <Open>1.36653</Open>
+    <High>1.40793</High>
+    <Low>1.36084</Low>
+    <Close>1.39482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-10</Date>
+    <Open>1.39293</Open>
+    <High>1.45394</High>
+    <Low>1.38583</Low>
+    <Close>1.42214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-11</Date>
+    <Open>1.42217</Open>
+    <High>1.45207</High>
+    <Low>1.39345</Low>
+    <Close>1.39938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-12</Date>
+    <Open>1.39737</Open>
+    <High>1.40353</High>
+    <Low>1.34445</Low>
+    <Close>1.37107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-13</Date>
+    <Open>1.37107</Open>
+    <High>1.49449</High>
+    <Low>1.36609</Low>
+    <Close>1.41234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-14</Date>
+    <Open>1.41235</Open>
+    <High>1.53367</High>
+    <Low>1.41039</Low>
+    <Close>1.4412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-15</Date>
+    <Open>1.4442</Open>
+    <High>1.45645</High>
+    <Low>1.42122</Low>
+    <Close>1.43027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-16</Date>
+    <Open>1.42727</Open>
+    <High>1.43323</High>
+    <Low>1.39927</Low>
+    <Close>1.41309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-17</Date>
+    <Open>1.41396</Open>
+    <High>1.42108</High>
+    <Low>1.35269</Low>
+    <Close>1.3596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-18</Date>
+    <Open>1.3578</Open>
+    <High>1.39253</High>
+    <Low>1.35061</Low>
+    <Close>1.36534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-19</Date>
+    <Open>1.37033</Open>
+    <High>1.38737</High>
+    <Low>1.26258</Low>
+    <Close>1.26865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-20</Date>
+    <Open>1.26866</Open>
+    <High>1.27353</High>
+    <Low>1.15628</Low>
+    <Close>1.17516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-21</Date>
+    <Open>1.18005</Open>
+    <High>1.18012</High>
+    <Low>1.06179</Low>
+    <Close>1.0719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-22</Date>
+    <Open>1.07288</Open>
+    <High>1.11802</High>
+    <Low>1.03668</Low>
+    <Close>1.1131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-23</Date>
+    <Open>1.1151</Open>
+    <High>1.2181</High>
+    <Low>1.0593</Low>
+    <Close>1.06505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-24</Date>
+    <Open>1.06605</Open>
+    <High>1.087</High>
+    <Low>1.05203</Low>
+    <Close>1.05803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-25</Date>
+    <Open>1.05703</Open>
+    <High>1.0641</High>
+    <Low>1.03203</Low>
+    <Close>1.05924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-26</Date>
+    <Open>1.06125</Open>
+    <High>1.11123</High>
+    <Low>1.01812</Low>
+    <Close>1.03633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-27</Date>
+    <Open>1.03833</Open>
+    <High>1.07446</High>
+    <Low>1.03027</Low>
+    <Close>1.06835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-28</Date>
+    <Open>1.06836</Open>
+    <High>1.06836</High>
+    <Low>1.02154</Low>
+    <Close>1.03188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-29</Date>
+    <Open>1.0338</Open>
+    <High>1.1608</High>
+    <Low>1.02774</Low>
+    <Close>1.07463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-04-30</Date>
+    <Open>1.07762</Open>
+    <High>1.18072</High>
+    <Low>1.05159</Low>
+    <Close>1.05159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-01</Date>
+    <Open>1.05159</Open>
+    <High>1.05259</High>
+    <Low>0.98119</Low>
+    <Close>0.98626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-02</Date>
+    <Open>0.98927</Open>
+    <High>1.0176</High>
+    <Low>0.981167</Low>
+    <Close>1.00963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-03</Date>
+    <Open>1.01151</Open>
+    <High>1.01152</High>
+    <Low>0.945302</Low>
+    <Close>0.983265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-04</Date>
+    <Open>0.983256</Open>
+    <High>1.00217</High>
+    <Low>0.962356</Low>
+    <Close>0.964357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-05</Date>
+    <Open>0.959355</Open>
+    <High>0.968387</High>
+    <Low>0.936777</Low>
+    <Close>0.945869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-06</Date>
+    <Open>0.944568</Open>
+    <High>0.948415</High>
+    <Low>0.8255</Low>
+    <Close>0.836453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-07</Date>
+    <Open>0.837463</Open>
+    <High>0.849128</High>
+    <Low>0.820368</Low>
+    <Close>0.830971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-08</Date>
+    <Open>0.830971</Open>
+    <High>0.838989</High>
+    <Low>0.707488</Low>
+    <Close>0.718582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-09</Date>
+    <Open>0.720504</Open>
+    <High>0.837921</High>
+    <Low>0.716501</Low>
+    <Close>0.81081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-10</Date>
+    <Open>0.810365</Open>
+    <High>0.810891</High>
+    <Low>0.749674</Low>
+    <Close>0.765765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-11</Date>
+    <Open>0.765765</Open>
+    <High>0.769892</High>
+    <Low>0.711139</Low>
+    <Close>0.715643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-12</Date>
+    <Open>0.714242</Open>
+    <High>0.745724</High>
+    <Low>0.701831</Low>
+    <Close>0.740918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-13</Date>
+    <Open>0.741693</Open>
+    <High>0.749349</High>
+    <Low>0.709525</Low>
+    <Close>0.713128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-14</Date>
+    <Open>0.713128</Open>
+    <High>0.735067</High>
+    <Low>0.707253</Low>
+    <Close>0.722733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-15</Date>
+    <Open>0.723334</Open>
+    <High>0.738917</High>
+    <Low>0.712427</Low>
+    <Close>0.726508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-16</Date>
+    <Open>0.727012</Open>
+    <High>0.788773</High>
+    <Low>0.713999</Low>
+    <Close>0.762381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-17</Date>
+    <Open>0.759379</Open>
+    <High>0.776388</High>
+    <Low>0.733293</Low>
+    <Close>0.753377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-18</Date>
+    <Open>0.754077</Open>
+    <High>0.765106</High>
+    <Low>0.720088</Low>
+    <Close>0.731292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-19</Date>
+    <Open>0.737295</Open>
+    <High>0.74</High>
+    <Low>0.715286</Low>
+    <Close>0.721209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-20</Date>
+    <Open>0.72036</Open>
+    <High>0.723506</High>
+    <Low>0.708566</Low>
+    <Close>0.712712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-21</Date>
+    <Open>0.713713</Open>
+    <High>0.716716</High>
+    <Low>0.674404</Low>
+    <Close>0.678407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-22</Date>
+    <Open>0.669401</Open>
+    <High>0.688413</High>
+    <Low>0.665332</Low>
+    <Close>0.670402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-23</Date>
+    <Open>0.671074</Open>
+    <High>0.725051</High>
+    <Low>0.666107</Low>
+    <Close>0.688041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-24</Date>
+    <Open>0.687055</Open>
+    <High>0.690069</High>
+    <Low>0.629987</Low>
+    <Close>0.640962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-25</Date>
+    <Open>0.640962</Open>
+    <High>0.740978</High>
+    <Low>0.639</Low>
+    <Close>0.681014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-26</Date>
+    <Open>0.679014</Open>
+    <High>0.724036</High>
+    <Low>0.670054</Low>
+    <Close>0.681163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-27</Date>
+    <Open>0.680129</Open>
+    <High>0.685212</High>
+    <Low>0.672215</Low>
+    <Close>0.675263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MOB">
+    <Date>2023-05-28</Date>
+    <Open>0.67527</Open>
+    <High>0.712206</High>
+    <Low>0.67527</Low>
+    <Close>0.700161</Close>
+  </Cryptocurrency>
+</Root>

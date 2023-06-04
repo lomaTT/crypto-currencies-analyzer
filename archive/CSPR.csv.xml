@@ -1,0 +1,2677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-13</Date>
+    <Open>0.0374362</Open>
+    <High>0.0374362</High>
+    <Low>0.0374287</Low>
+    <Close>0.0374287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-14</Date>
+    <Open>0.0354325</Open>
+    <High>0.0378318</High>
+    <Low>0.0335328</Low>
+    <Close>0.0372478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-15</Date>
+    <Open>0.0373476</Open>
+    <High>0.040643</High>
+    <Low>0.0353575</Low>
+    <Close>0.039153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-16</Date>
+    <Open>0.039153</Open>
+    <High>0.0451412</High>
+    <Low>0.0380505</Low>
+    <Close>0.0420411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-17</Date>
+    <Open>0.0421451</Open>
+    <High>0.0424448</High>
+    <Low>0.0380543</Low>
+    <Close>0.0412504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-18</Date>
+    <Open>0.0412504</Open>
+    <High>0.0415501</High>
+    <Low>0.0378469</Low>
+    <Close>0.0386497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-19</Date>
+    <Open>0.0387496</Open>
+    <High>0.0405635</High>
+    <Low>0.0361529</Low>
+    <Close>0.039964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-20</Date>
+    <Open>0.0398641</Open>
+    <High>0.0408632</High>
+    <Low>0.0380619</Low>
+    <Close>0.0383501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-21</Date>
+    <Open>0.038254</Open>
+    <High>0.040747</High>
+    <Low>0.0373551</Low>
+    <Close>0.0393488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-22</Date>
+    <Open>0.0393488</Open>
+    <High>0.040751</High>
+    <Low>0.039149</Low>
+    <Close>0.0400519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-23</Date>
+    <Open>0.039952</Open>
+    <High>0.0408591</High>
+    <Low>0.0379544</Low>
+    <Close>0.0393527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-24</Date>
+    <Open>0.0393527</Open>
+    <High>0.0394526</High>
+    <Low>0.0373589</Low>
+    <Close>0.0384461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-25</Date>
+    <Open>0.03845</Open>
+    <High>0.0384577</High>
+    <Low>0.0361602</Low>
+    <Close>0.0371591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-26</Date>
+    <Open>0.0371554</Open>
+    <High>0.0380581</High>
+    <Low>0.0338627</Low>
+    <Close>0.0364635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-27</Date>
+    <Open>0.0365634</Open>
+    <High>0.0368631</High>
+    <Low>0.0336629</Low>
+    <Close>0.0366633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-28</Date>
+    <Open>0.0364584</Open>
+    <High>0.0380547</High>
+    <Low>0.0348623</Low>
+    <Close>0.036158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-29</Date>
+    <Open>0.036057</Open>
+    <High>0.03846</High>
+    <Low>0.0359644</Low>
+    <Close>0.0380581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-30</Date>
+    <Open>0.0378606</Open>
+    <High>0.038561</High>
+    <Low>0.0368631</Low>
+    <Close>0.0381694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-05-31</Date>
+    <Open>0.0382732</Open>
+    <High>0.0397682</High>
+    <Low>0.0373663</Low>
+    <Close>0.0376661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-01</Date>
+    <Open>0.0377716</Open>
+    <High>0.0386694</High>
+    <Low>0.0358605</Low>
+    <Close>0.0367669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-02</Date>
+    <Open>0.0367669</Open>
+    <High>0.037766</High>
+    <Low>0.0361638</Low>
+    <Close>0.0365671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-03</Date>
+    <Open>0.036667</Open>
+    <High>0.0378636</High>
+    <Low>0.034972</Low>
+    <Close>0.0358688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-04</Date>
+    <Open>0.0360686</Open>
+    <High>0.0365693</High>
+    <Low>0.0355626</Low>
+    <Close>0.0357728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-05</Date>
+    <Open>0.0358727</Open>
+    <High>0.036271</High>
+    <Low>0.0352703</Low>
+    <Close>0.0361667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-06</Date>
+    <Open>0.036166</Open>
+    <High>0.0370688</High>
+    <Low>0.03527</Low>
+    <Close>0.0356697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-07</Date>
+    <Open>0.0356697</Open>
+    <High>0.035771</High>
+    <Low>0.0326725</Low>
+    <Close>0.0345716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-08</Date>
+    <Open>0.0344721</Open>
+    <High>0.0348787</High>
+    <Low>0.0335772</Low>
+    <Close>0.034378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-09</Date>
+    <Open>0.0343776</Open>
+    <High>0.0345775</High>
+    <Low>0.0334732</Low>
+    <Close>0.0342712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-10</Date>
+    <Open>0.0344714</Open>
+    <High>0.0347711</High>
+    <Low>0.0316651</Low>
+    <Close>0.0329568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-11</Date>
+    <Open>0.0329578</Open>
+    <High>0.0331618</High>
+    <Low>0.0300624</Low>
+    <Close>0.0305648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-12</Date>
+    <Open>0.0304652</Open>
+    <High>0.0311641</High>
+    <Low>0.0263628</Low>
+    <Close>0.0288645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-13</Date>
+    <Open>0.0287646</Open>
+    <High>0.0288647</High>
+    <Low>0.023567</Low>
+    <Close>0.0262634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-14</Date>
+    <Open>0.0262632</Open>
+    <High>0.0276579</High>
+    <Low>0.0238637</Low>
+    <Close>0.0259688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-15</Date>
+    <Open>0.0260687</Open>
+    <High>0.0287654</High>
+    <Low>0.0246555</Low>
+    <Close>0.0287654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-16</Date>
+    <Open>0.0287597</Open>
+    <High>0.0287626</High>
+    <Low>0.0252646</Low>
+    <Close>0.0252646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-17</Date>
+    <Open>0.0242667</Open>
+    <High>0.0261638</High>
+    <Low>0.0242667</Low>
+    <Close>0.0254694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-18</Date>
+    <Open>0.0254694</Open>
+    <High>0.0260695</High>
+    <Low>0.0222672</Low>
+    <Close>0.0236614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-19</Date>
+    <Open>0.0237605</Open>
+    <High>0.0259688</High>
+    <Low>0.0230656</Low>
+    <Close>0.0254694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-20</Date>
+    <Open>0.0255443</Open>
+    <High>0.025766</High>
+    <Low>0.0242914</Low>
+    <Close>0.0255848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-21</Date>
+    <Open>0.0256692</Open>
+    <High>0.0269784</High>
+    <Low>0.0253721</Low>
+    <Close>0.0262711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-22</Date>
+    <Open>0.0261712</Open>
+    <High>0.0270729</High>
+    <Low>0.0250724</Low>
+    <Close>0.0258741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-23</Date>
+    <Open>0.025974</Open>
+    <High>0.0272727</High>
+    <Low>0.0258715</Low>
+    <Close>0.0267705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-24</Date>
+    <Open>0.0267732</Open>
+    <High>0.0318716</High>
+    <Low>0.0265734</Low>
+    <Close>0.0301764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-25</Date>
+    <Open>0.0300699</Open>
+    <High>0.0313758</High>
+    <Low>0.02938</Low>
+    <Close>0.0309783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-26</Date>
+    <Open>0.0309783</Open>
+    <High>0.0310854</High>
+    <Low>0.029982</Low>
+    <Close>0.0303812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-27</Date>
+    <Open>0.0303818</Open>
+    <High>0.0372672</High>
+    <Low>0.0291819</Low>
+    <Close>0.0335701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-28</Date>
+    <Open>0.0337672</Open>
+    <High>0.0348665</High>
+    <Low>0.0306681</Low>
+    <Close>0.0313629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-29</Date>
+    <Open>0.0314609</Open>
+    <High>0.0326545</High>
+    <Low>0.0282609</Low>
+    <Close>0.0294611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-06-30</Date>
+    <Open>0.0294646</Open>
+    <High>0.0294646</High>
+    <Low>0.0262645</Low>
+    <Close>0.0272672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-01</Date>
+    <Open>0.0271674</Open>
+    <High>0.0312593</High>
+    <Low>0.0271674</Low>
+    <Close>0.0293677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-02</Date>
+    <Open>0.0292678</Open>
+    <High>0.0295674</High>
+    <Low>0.0284658</Low>
+    <Close>0.0290651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-03</Date>
+    <Open>0.0290651</Open>
+    <High>0.029961</High>
+    <Low>0.0279636</Low>
+    <Close>0.0293618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-04</Date>
+    <Open>0.0293618</Open>
+    <High>0.0302636</High>
+    <Low>0.028463</Low>
+    <Close>0.0296644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-05</Date>
+    <Open>0.0297642</Open>
+    <High>0.0303635</High>
+    <Low>0.0286684</Low>
+    <Close>0.0297672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-06</Date>
+    <Open>0.0296673</Open>
+    <High>0.029967</High>
+    <Low>0.0289681</Low>
+    <Close>0.0295674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-07</Date>
+    <Open>0.0295674</Open>
+    <High>0.0303818</High>
+    <Low>0.0291679</Low>
+    <Close>0.0300819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-08</Date>
+    <Open>0.0300819</Open>
+    <High>0.0310813</High>
+    <Low>0.0289797</Low>
+    <Close>0.0308815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-09</Date>
+    <Open>0.0308815</Open>
+    <High>0.0326804</High>
+    <Low>0.0303787</Low>
+    <Close>0.0321807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-10</Date>
+    <Open>0.0321807</Open>
+    <High>0.0324805</High>
+    <Low>0.0304817</Low>
+    <Close>0.0309814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-11</Date>
+    <Open>0.0308815</Open>
+    <High>0.0310813</High>
+    <Low>0.0293706</Low>
+    <Close>0.0294734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-12</Date>
+    <Open>0.0295704</Open>
+    <High>0.0308691</High>
+    <Low>0.0289681</Low>
+    <Close>0.0292707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-13</Date>
+    <Open>0.0292719</Open>
+    <High>0.0298701</High>
+    <Low>0.0278721</Low>
+    <Close>0.0293735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-14</Date>
+    <Open>0.0293735</Open>
+    <High>0.0315716</High>
+    <Low>0.0290767</Low>
+    <Close>0.0303818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-15</Date>
+    <Open>0.0303818</Open>
+    <High>0.0313812</High>
+    <Low>0.0296852</Low>
+    <Close>0.0302909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-16</Date>
+    <Open>0.0302909</Open>
+    <High>0.0320036</High>
+    <Low>0.029938</Low>
+    <Close>0.0310038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-17</Date>
+    <Open>0.0309719</Open>
+    <High>0.0331537</High>
+    <Low>0.0303642</Low>
+    <Close>0.0308817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-18</Date>
+    <Open>0.030792</Open>
+    <High>0.0332983</High>
+    <Low>0.03039</Low>
+    <Close>0.0317927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-19</Date>
+    <Open>0.0318923</Open>
+    <High>0.0332066</High>
+    <Low>0.0314897</Low>
+    <Close>0.0332053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-20</Date>
+    <Open>0.03323</Open>
+    <High>0.03387</High>
+    <Low>0.0303912</Low>
+    <Close>0.0309415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-21</Date>
+    <Open>0.0309837</Open>
+    <High>0.0310903</High>
+    <Low>0.0297012</Low>
+    <Close>0.0309677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-22</Date>
+    <Open>0.0309177</Open>
+    <High>0.0321977</High>
+    <Low>0.0301333</Low>
+    <Close>0.0305067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-23</Date>
+    <Open>0.03048</Open>
+    <High>0.0315857</High>
+    <Low>0.030243</Low>
+    <Close>0.0305858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-24</Date>
+    <Open>0.0305743</Open>
+    <High>0.0318471</High>
+    <Low>0.030534</Low>
+    <Close>0.031456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-25</Date>
+    <Open>0.031436</Open>
+    <High>0.0316848</High>
+    <Low>0.0295503</Low>
+    <Close>0.0301724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-26</Date>
+    <Open>0.0300827</Open>
+    <High>0.030283</High>
+    <Low>0.0285814</Low>
+    <Close>0.0292644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-27</Date>
+    <Open>0.0292741</Open>
+    <High>0.0313982</High>
+    <Low>0.0292</Low>
+    <Close>0.0309768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-28</Date>
+    <Open>0.0309374</Open>
+    <High>0.0323429</High>
+    <Low>0.0302433</Low>
+    <Close>0.0312562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-29</Date>
+    <Open>0.0312081</Open>
+    <High>0.0326085</High>
+    <Low>0.0300399</Low>
+    <Close>0.0308526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-30</Date>
+    <Open>0.0308423</Open>
+    <High>0.0336018</High>
+    <Low>0.0307823</Low>
+    <Close>0.0325307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-07-31</Date>
+    <Open>0.0324523</Open>
+    <High>0.0332253</High>
+    <Low>0.032089</Low>
+    <Close>0.0325575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-01</Date>
+    <Open>0.0325678</Open>
+    <High>0.0326988</High>
+    <Low>0.0313103</Low>
+    <Close>0.0315091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-02</Date>
+    <Open>0.0315095</Open>
+    <High>0.0317702</High>
+    <Low>0.0298493</Low>
+    <Close>0.0305152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-03</Date>
+    <Open>0.0305252</Open>
+    <High>0.0317489</High>
+    <Low>0.0300769</Low>
+    <Close>0.0313978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-04</Date>
+    <Open>0.0313894</Open>
+    <High>0.0313894</High>
+    <Low>0.0304312</Low>
+    <Close>0.0312509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-05</Date>
+    <Open>0.0312609</Open>
+    <High>0.0320238</High>
+    <Low>0.0311378</Low>
+    <Close>0.031466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-06</Date>
+    <Open>0.031446</Open>
+    <High>0.0320564</High>
+    <Low>0.031436</Low>
+    <Close>0.0317773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-07</Date>
+    <Open>0.031777</Open>
+    <High>0.0345755</High>
+    <Low>0.0312278</Low>
+    <Close>0.0329959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-08</Date>
+    <Open>0.0329963</Open>
+    <High>0.036464</High>
+    <Low>0.0329256</Low>
+    <Close>0.0342741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-09</Date>
+    <Open>0.0342741</Open>
+    <High>0.0387874</High>
+    <Low>0.0337171</Low>
+    <Close>0.0379876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-10</Date>
+    <Open>0.0380776</Open>
+    <High>0.0382088</High>
+    <Low>0.0348222</Low>
+    <Close>0.0361505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-11</Date>
+    <Open>0.0361809</Open>
+    <High>0.0389293</High>
+    <Low>0.0360358</Low>
+    <Close>0.036167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-12</Date>
+    <Open>0.036177</Open>
+    <High>0.0391356</High>
+    <Low>0.035978</Low>
+    <Close>0.0373872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-13</Date>
+    <Open>0.0373172</Open>
+    <High>0.03782</High>
+    <Low>0.0362119</Low>
+    <Close>0.0367143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-14</Date>
+    <Open>0.0367139</Open>
+    <High>0.0371148</High>
+    <Low>0.0346083</Low>
+    <Close>0.0353109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-15</Date>
+    <Open>0.0352799</Open>
+    <High>0.037669</High>
+    <Low>0.0339478</Low>
+    <Close>0.0371289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-16</Date>
+    <Open>0.0370589</Open>
+    <High>0.0382076</High>
+    <Low>0.035356</Low>
+    <Close>0.0364533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-17</Date>
+    <Open>0.0364333</Open>
+    <High>0.0374541</High>
+    <Low>0.0332243</Low>
+    <Close>0.0338924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-18</Date>
+    <Open>0.0338924</Open>
+    <High>0.0339024</High>
+    <Low>0.0312028</Low>
+    <Close>0.0314203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-19</Date>
+    <Open>0.0314</Open>
+    <High>0.0314531</High>
+    <Low>0.02816</Low>
+    <Close>0.0294829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-20</Date>
+    <Open>0.0294615</Open>
+    <High>0.0313644</High>
+    <Low>0.0279538</Low>
+    <Close>0.0280897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-21</Date>
+    <Open>0.0280994</Open>
+    <High>0.0316778</High>
+    <Low>0.0280597</Low>
+    <Close>0.0292091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-22</Date>
+    <Open>0.0291994</Open>
+    <High>0.030167</High>
+    <Low>0.0282183</Low>
+    <Close>0.029565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-23</Date>
+    <Open>0.0295456</Open>
+    <High>0.0317781</High>
+    <Low>0.0288694</Low>
+    <Close>0.0300606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-24</Date>
+    <Open>0.030037</Open>
+    <High>0.0301218</High>
+    <Low>0.0290788</Low>
+    <Close>0.0296724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-25</Date>
+    <Open>0.0296827</Open>
+    <High>0.0310181</High>
+    <Low>0.0294897</Low>
+    <Close>0.0309509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-26</Date>
+    <Open>0.0309509</Open>
+    <High>0.0312184</High>
+    <Low>0.0283977</Low>
+    <Close>0.0289029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-27</Date>
+    <Open>0.0288929</Open>
+    <High>0.0291897</High>
+    <Low>0.0275</Low>
+    <Close>0.0278808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-28</Date>
+    <Open>0.0278708</Open>
+    <High>0.02966</High>
+    <Low>0.0270281</Low>
+    <Close>0.0275797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-29</Date>
+    <Open>0.02761</Open>
+    <High>0.0288791</High>
+    <Low>0.0271876</Low>
+    <Close>0.0281817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-30</Date>
+    <Open>0.0281923</Open>
+    <High>0.028822</High>
+    <Low>0.0275308</Low>
+    <Close>0.0280625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-08-31</Date>
+    <Open>0.0280222</Open>
+    <High>0.02879</High>
+    <Low>0.0273216</Low>
+    <Close>0.0280097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-01</Date>
+    <Open>0.0279897</Open>
+    <High>0.0282597</High>
+    <Low>0.0272462</Low>
+    <Close>0.0278183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-02</Date>
+    <Open>0.0278486</Open>
+    <High>0.0288143</High>
+    <Low>0.0275614</Low>
+    <Close>0.0279536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-03</Date>
+    <Open>0.0279245</Open>
+    <High>0.0280028</High>
+    <Low>0.02738</Low>
+    <Close>0.0277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-04</Date>
+    <Open>0.02771</Open>
+    <High>0.0278928</High>
+    <Low>0.02736</Low>
+    <Close>0.0276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-05</Date>
+    <Open>0.02763</Open>
+    <High>0.0277928</High>
+    <Low>0.02653</Low>
+    <Close>0.0269627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-06</Date>
+    <Open>0.0269627</Open>
+    <High>0.0277628</High>
+    <Low>0.0256174</Low>
+    <Close>0.02591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-07</Date>
+    <Open>0.0259118</Open>
+    <High>0.0266892</High>
+    <Low>0.025119</Low>
+    <Close>0.0266219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-08</Date>
+    <Open>0.0266</Open>
+    <High>0.0266816</High>
+    <Low>0.0258926</Low>
+    <Close>0.0265943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-09</Date>
+    <Open>0.02658</Open>
+    <High>0.02871</High>
+    <Low>0.0265334</Low>
+    <Close>0.0282193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-10</Date>
+    <Open>0.0282056</Open>
+    <High>0.0299084</High>
+    <Low>0.027693</Low>
+    <Close>0.0297156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-11</Date>
+    <Open>0.0297162</Open>
+    <High>0.0322003</High>
+    <Low>0.0292099</Low>
+    <Close>0.0304773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-12</Date>
+    <Open>0.0304876</Open>
+    <High>0.0311984</High>
+    <Low>0.0285554</Low>
+    <Close>0.0294253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-13</Date>
+    <Open>0.0294153</Open>
+    <High>0.0301842</High>
+    <Low>0.0279325</Low>
+    <Close>0.0287106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-14</Date>
+    <Open>0.0286706</Open>
+    <High>0.0293626</High>
+    <Low>0.0281703</Low>
+    <Close>0.0289778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-15</Date>
+    <Open>0.0289872</Open>
+    <High>0.0321771</High>
+    <Low>0.0287665</Low>
+    <Close>0.0291871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-16</Date>
+    <Open>0.029168</Open>
+    <High>0.029897</High>
+    <Low>0.0286071</Low>
+    <Close>0.029767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-17</Date>
+    <Open>0.029827</Open>
+    <High>0.0309669</High>
+    <Low>0.0294571</Low>
+    <Close>0.03039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-18</Date>
+    <Open>0.03037</Open>
+    <High>0.03054</High>
+    <Low>0.0276</Low>
+    <Close>0.02808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-19</Date>
+    <Open>0.02806</Open>
+    <High>0.0283972</High>
+    <Low>0.02489</Low>
+    <Close>0.0279628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-20</Date>
+    <Open>0.0279328</Open>
+    <High>0.03007</High>
+    <Low>0.0269827</Low>
+    <Close>0.02939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-21</Date>
+    <Open>0.02935</Open>
+    <High>0.029833</High>
+    <Low>0.0274527</Low>
+    <Close>0.0274927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-22</Date>
+    <Open>0.02748</Open>
+    <High>0.029873</High>
+    <Low>0.02724</Low>
+    <Close>0.02869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-23</Date>
+    <Open>0.0286929</Open>
+    <High>0.0296</High>
+    <Low>0.0283828</Low>
+    <Close>0.02945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-24</Date>
+    <Open>0.0294371</Open>
+    <High>0.0299194</High>
+    <Low>0.0285231</Low>
+    <Close>0.0286223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-25</Date>
+    <Open>0.02863</Open>
+    <High>0.0290703</High>
+    <Low>0.0280728</Low>
+    <Close>0.02868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-26</Date>
+    <Open>0.0286706</Open>
+    <High>0.030117</High>
+    <Low>0.02783</Low>
+    <Close>0.02797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-27</Date>
+    <Open>0.02794</Open>
+    <High>0.029573</High>
+    <Low>0.02749</Low>
+    <Close>0.0285671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-28</Date>
+    <Open>0.0285671</Open>
+    <High>0.02973</High>
+    <Low>0.0279944</Low>
+    <Close>0.02967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-29</Date>
+    <Open>0.02967</Open>
+    <High>0.030083</High>
+    <Low>0.0291671</Low>
+    <Close>0.029603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-09-30</Date>
+    <Open>0.029603</Open>
+    <High>0.03011</High>
+    <Low>0.0291329</Low>
+    <Close>0.02946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-01</Date>
+    <Open>0.0294429</Open>
+    <High>0.03006</High>
+    <Low>0.02934</Low>
+    <Close>0.02971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-02</Date>
+    <Open>0.02971</Open>
+    <High>0.02982</High>
+    <Low>0.0289429</Low>
+    <Close>0.02914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-03</Date>
+    <Open>0.02915</Open>
+    <High>0.0293729</High>
+    <Low>0.02861</Low>
+    <Close>0.0292329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-04</Date>
+    <Open>0.0292329</Open>
+    <High>0.0306461</High>
+    <Low>0.0292329</Low>
+    <Close>0.0301791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-05</Date>
+    <Open>0.030176</Open>
+    <High>0.0301891</High>
+    <Low>0.02928</Low>
+    <Close>0.030163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-06</Date>
+    <Open>0.0301651</Open>
+    <High>0.0379049</High>
+    <Low>0.0301348</Low>
+    <Close>0.0373664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-07</Date>
+    <Open>0.0373563</Open>
+    <High>0.0374764</High>
+    <Low>0.0342144</Low>
+    <Close>0.0366951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-08</Date>
+    <Open>0.0367648</Open>
+    <High>0.0371933</High>
+    <Low>0.0342144</Low>
+    <Close>0.0350288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-09</Date>
+    <Open>0.0349691</Open>
+    <High>0.0370737</High>
+    <Low>0.0345135</Low>
+    <Close>0.0368474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-10</Date>
+    <Open>0.0367774</Open>
+    <High>0.0372437</High>
+    <Low>0.0347035</Low>
+    <Close>0.0359864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-11</Date>
+    <Open>0.03601</Open>
+    <High>0.03604</High>
+    <Low>0.0336766</Low>
+    <Close>0.0348169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-12</Date>
+    <Open>0.0348351</Open>
+    <High>0.0355786</High>
+    <Low>0.0342073</Low>
+    <Close>0.034431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-13</Date>
+    <Open>0.0344003</Open>
+    <High>0.0366196</High>
+    <Low>0.0325345</Low>
+    <Close>0.0350832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-14</Date>
+    <Open>0.0351332</Open>
+    <High>0.0366633</High>
+    <Low>0.0344107</Low>
+    <Close>0.034981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-15</Date>
+    <Open>0.0350514</Open>
+    <High>0.0410129</High>
+    <Low>0.0350407</Low>
+    <Close>0.039132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-16</Date>
+    <Open>0.0392124</Open>
+    <High>0.0545595</High>
+    <Low>0.0386112</Low>
+    <Close>0.050512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-17</Date>
+    <Open>0.0504725</Open>
+    <High>0.0526705</High>
+    <Low>0.0468205</Low>
+    <Close>0.0473009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-18</Date>
+    <Open>0.0474014</Open>
+    <High>0.048699</High>
+    <Low>0.0442009</Low>
+    <Close>0.0453027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-19</Date>
+    <Open>0.0453145</Open>
+    <High>0.0462509</High>
+    <Low>0.04022</Low>
+    <Close>0.04125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-20</Date>
+    <Open>0.0412</Open>
+    <High>0.0441956</High>
+    <Low>0.0397388</Low>
+    <Close>0.043347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-21</Date>
+    <Open>0.0432857</Open>
+    <High>0.0486034</High>
+    <Low>0.0425274</Low>
+    <Close>0.0476038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-22</Date>
+    <Open>0.0477038</Open>
+    <High>0.0480043</High>
+    <Low>0.0429926</Low>
+    <Close>0.0439635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-23</Date>
+    <Open>0.043944</Open>
+    <High>0.0479762</High>
+    <Low>0.0432839</Low>
+    <Close>0.0469161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-24</Date>
+    <Open>0.0469561</Open>
+    <High>0.049673</High>
+    <Low>0.0445262</Low>
+    <Close>0.0470919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-25</Date>
+    <Open>0.0471319</Open>
+    <High>0.0506132</High>
+    <Low>0.0461328</Low>
+    <Close>0.0477053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-26</Date>
+    <Open>0.0477062</Open>
+    <High>0.0495339</High>
+    <Low>0.0469041</Low>
+    <Close>0.0478634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-27</Date>
+    <Open>0.0478939</Open>
+    <High>0.0482435</High>
+    <Low>0.0439891</Low>
+    <Close>0.0443727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-28</Date>
+    <Open>0.0443027</Open>
+    <High>0.0451036</High>
+    <Low>0.0419042</Low>
+    <Close>0.0425094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-29</Date>
+    <Open>0.0426081</Open>
+    <High>0.0434139</High>
+    <Low>0.0405081</Low>
+    <Close>0.0405093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-30</Date>
+    <Open>0.0405097</Open>
+    <High>0.04352</High>
+    <Low>0.0387501</Low>
+    <Close>0.0417483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-10-31</Date>
+    <Open>0.0417884</Open>
+    <High>0.0417884</High>
+    <Low>0.0389543</Low>
+    <Close>0.0410067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-01</Date>
+    <Open>0.040958</Open>
+    <High>0.0417312</High>
+    <Low>0.0393117</Low>
+    <Close>0.0395856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-02</Date>
+    <Open>0.0396056</Open>
+    <High>0.0397656</High>
+    <Low>0.0375477</Low>
+    <Close>0.0387177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-03</Date>
+    <Open>0.0387177</Open>
+    <High>0.0405351</High>
+    <Low>0.0385885</Low>
+    <Close>0.03862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-04</Date>
+    <Open>0.0386296</Open>
+    <High>0.0414129</High>
+    <Low>0.0385</Low>
+    <Close>0.0413733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-05</Date>
+    <Open>0.0412433</Open>
+    <High>0.0421925</High>
+    <Low>0.0397224</Low>
+    <Close>0.0400724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-06</Date>
+    <Open>0.040122</Open>
+    <High>0.0409812</High>
+    <Low>0.0388431</Low>
+    <Close>0.0398432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-07</Date>
+    <Open>0.0397632</Open>
+    <High>0.0417921</High>
+    <Low>0.0383346</Low>
+    <Close>0.0389447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-08</Date>
+    <Open>0.0389578</Open>
+    <High>0.03978</High>
+    <Low>0.0327157</Low>
+    <Close>0.0383246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-09</Date>
+    <Open>0.0382945</Open>
+    <High>0.0405311</High>
+    <Low>0.0309574</Low>
+    <Close>0.0320284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-10</Date>
+    <Open>0.0320372</Open>
+    <High>0.0394192</High>
+    <Low>0.0314724</Low>
+    <Close>0.0366031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-11</Date>
+    <Open>0.0366369</Open>
+    <High>0.0421595</High>
+    <Low>0.0335236</Low>
+    <Close>0.03429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-12</Date>
+    <Open>0.0343237</Open>
+    <High>0.0351067</High>
+    <Low>0.0318825</Low>
+    <Close>0.0335595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-13</Date>
+    <Open>0.0335495</Open>
+    <High>0.0340985</High>
+    <Low>0.029967</Low>
+    <Close>0.0301977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-14</Date>
+    <Open>0.0301877</Open>
+    <High>0.0307899</High>
+    <Low>0.0271864</Low>
+    <Close>0.0285871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-15</Date>
+    <Open>0.0285956</Open>
+    <High>0.0304995</High>
+    <Low>0.0281505</Low>
+    <Close>0.029011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-16</Date>
+    <Open>0.0289652</Open>
+    <High>0.0291841</High>
+    <Low>0.0273621</Low>
+    <Close>0.0279346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-17</Date>
+    <Open>0.0279942</Open>
+    <High>0.0282857</High>
+    <Low>0.0265264</Low>
+    <Close>0.0272287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-18</Date>
+    <Open>0.0272185</Open>
+    <High>0.028953</High>
+    <Low>0.026939</Low>
+    <Close>0.0271984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-19</Date>
+    <Open>0.0272087</Open>
+    <High>0.0286396</High>
+    <Low>0.0271482</Low>
+    <Close>0.0285899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-20</Date>
+    <Open>0.02857</Open>
+    <High>0.0289341</High>
+    <Low>0.0268294</Low>
+    <Close>0.027119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-21</Date>
+    <Open>0.0271287</Open>
+    <High>0.0290296</High>
+    <Low>0.026779</Low>
+    <Close>0.027437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-22</Date>
+    <Open>0.027477</Open>
+    <High>0.0282164</High>
+    <Low>0.0266558</Low>
+    <Close>0.0281556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-23</Date>
+    <Open>0.0281536</Open>
+    <High>0.0303544</High>
+    <Low>0.0279045</Low>
+    <Close>0.0300569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-24</Date>
+    <Open>0.0300569</Open>
+    <High>0.0309484</High>
+    <Low>0.0284772</Low>
+    <Close>0.029395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-25</Date>
+    <Open>0.0294047</Open>
+    <High>0.0311376</High>
+    <Low>0.0287916</Low>
+    <Close>0.0306728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-26</Date>
+    <Open>0.0307319</Open>
+    <High>0.0315098</High>
+    <Low>0.0303024</Low>
+    <Close>0.0307019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-27</Date>
+    <Open>0.0306619</Open>
+    <High>0.0316697</High>
+    <Low>0.0306013</Low>
+    <Close>0.0316401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-28</Date>
+    <Open>0.0316201</Open>
+    <High>0.0316201</High>
+    <Low>0.0295038</Low>
+    <Close>0.0301385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-29</Date>
+    <Open>0.0301186</Open>
+    <High>0.0305738</High>
+    <Low>0.0295573</Low>
+    <Close>0.0301688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-11-30</Date>
+    <Open>0.0301585</Open>
+    <High>0.0306352</High>
+    <Low>0.029807</Low>
+    <Close>0.0306212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-01</Date>
+    <Open>0.0305809</Open>
+    <High>0.0308131</High>
+    <Low>0.02908</Low>
+    <Close>0.0293415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-02</Date>
+    <Open>0.0293415</Open>
+    <High>0.0299836</High>
+    <Low>0.0292921</Low>
+    <Close>0.0299018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-03</Date>
+    <Open>0.0299318</Open>
+    <High>0.03043</High>
+    <Low>0.0295835</Low>
+    <Close>0.030016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-04</Date>
+    <Open>0.030023</Open>
+    <High>0.0306531</High>
+    <Low>0.029823</Low>
+    <Close>0.030256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-05</Date>
+    <Open>0.0302761</Open>
+    <High>0.0305661</High>
+    <Low>0.0296827</Low>
+    <Close>0.0299309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-06</Date>
+    <Open>0.029933</Open>
+    <High>0.03008</High>
+    <Low>0.0296288</Low>
+    <Close>0.0296794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-07</Date>
+    <Open>0.02969</Open>
+    <High>0.02983</High>
+    <Low>0.0282723</Low>
+    <Close>0.02939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-08</Date>
+    <Open>0.02937</Open>
+    <High>0.0296433</High>
+    <Low>0.02874</Low>
+    <Close>0.0295121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-09</Date>
+    <Open>0.0295127</Open>
+    <High>0.0297418</High>
+    <Low>0.0290794</Low>
+    <Close>0.0296709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-10</Date>
+    <Open>0.0297212</Open>
+    <High>0.0301609</High>
+    <Low>0.0294097</Low>
+    <Close>0.0296794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-11</Date>
+    <Open>0.0296797</Open>
+    <High>0.0305509</High>
+    <Low>0.0296697</Low>
+    <Close>0.030013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-12</Date>
+    <Open>0.030016</Open>
+    <High>0.030023</High>
+    <Low>0.0293403</Low>
+    <Close>0.0297527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-13</Date>
+    <Open>0.0297527</Open>
+    <High>0.0307474</High>
+    <Low>0.0289378</Low>
+    <Close>0.0298925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-14</Date>
+    <Open>0.0298931</Open>
+    <High>0.0304194</High>
+    <Low>0.0291897</Low>
+    <Close>0.0293918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-15</Date>
+    <Open>0.0293921</Open>
+    <High>0.029753</High>
+    <Low>0.0283728</Low>
+    <Close>0.0284228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-16</Date>
+    <Open>0.0284357</Open>
+    <High>0.029</High>
+    <Low>0.0271827</Low>
+    <Close>0.0271827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-17</Date>
+    <Open>0.0271827</Open>
+    <High>0.0278731</High>
+    <Low>0.0268654</Low>
+    <Close>0.0274636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-18</Date>
+    <Open>0.0274736</Open>
+    <High>0.0279025</High>
+    <Low>0.0273111</Low>
+    <Close>0.0278633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-19</Date>
+    <Open>0.027886</Open>
+    <High>0.0278933</High>
+    <Low>0.02644</Low>
+    <Close>0.0265495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-20</Date>
+    <Open>0.0266</Open>
+    <High>0.0269105</High>
+    <Low>0.02576</Low>
+    <Close>0.026181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-21</Date>
+    <Open>0.026191</Open>
+    <High>0.0268297</High>
+    <Low>0.0258203</Low>
+    <Close>0.0263913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-22</Date>
+    <Open>0.0263911</Open>
+    <High>0.02687</High>
+    <Low>0.0258969</Low>
+    <Close>0.0263155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-23</Date>
+    <Open>0.0263458</Open>
+    <High>0.0274173</High>
+    <Low>0.0263455</Low>
+    <Close>0.0273873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-24</Date>
+    <Open>0.0273773</Open>
+    <High>0.0274278</High>
+    <Low>0.0267076</Low>
+    <Close>0.0268881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-25</Date>
+    <Open>0.0269381</Open>
+    <High>0.0277967</High>
+    <Low>0.0268992</Low>
+    <Close>0.0277958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-26</Date>
+    <Open>0.0277867</Open>
+    <High>0.0289242</High>
+    <Low>0.027697</Low>
+    <Close>0.0289142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-27</Date>
+    <Open>0.0289142</Open>
+    <High>0.0289448</High>
+    <Low>0.0280191</Low>
+    <Close>0.0287688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-28</Date>
+    <Open>0.0286988</Open>
+    <High>0.0289278</High>
+    <Low>0.0270551</Low>
+    <Close>0.0271153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-29</Date>
+    <Open>0.0271656</Open>
+    <High>0.0286788</High>
+    <Low>0.0269182</Low>
+    <Close>0.0270875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-30</Date>
+    <Open>0.0270278</Open>
+    <High>0.027946</High>
+    <Low>0.0265778</Low>
+    <Close>0.0272464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2022-12-31</Date>
+    <Open>0.0272561</Open>
+    <High>0.0282956</High>
+    <Low>0.0269363</Low>
+    <Close>0.0275462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-01</Date>
+    <Open>0.0275562</Open>
+    <High>0.0282676</High>
+    <Low>0.0275362</Low>
+    <Close>0.0281371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-02</Date>
+    <Open>0.0281371</Open>
+    <High>0.0294706</High>
+    <Low>0.0280288</Low>
+    <Close>0.0293609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-03</Date>
+    <Open>0.0293406</Open>
+    <High>0.0294409</High>
+    <Low>0.0284883</Low>
+    <Close>0.0287491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-04</Date>
+    <Open>0.0287491</Open>
+    <High>0.0305184</High>
+    <Low>0.0287082</Low>
+    <Close>0.0298202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-05</Date>
+    <Open>0.0298401</Open>
+    <High>0.0303506</High>
+    <Low>0.0283084</Low>
+    <Close>0.0283401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-06</Date>
+    <Open>0.0283415</Open>
+    <High>0.0284889</High>
+    <Low>0.0272464</Low>
+    <Close>0.0279713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-07</Date>
+    <Open>0.027991</Open>
+    <High>0.0283823</High>
+    <Low>0.0276917</Low>
+    <Close>0.0280233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-08</Date>
+    <Open>0.0280516</Open>
+    <High>0.0293138</High>
+    <Low>0.0280516</Low>
+    <Close>0.0290156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-09</Date>
+    <Open>0.0290465</Open>
+    <High>0.0297649</High>
+    <Low>0.0289745</Low>
+    <Close>0.02931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-10</Date>
+    <Open>0.02927</Open>
+    <High>0.0295582</High>
+    <Low>0.0289462</Low>
+    <Close>0.0294238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-11</Date>
+    <Open>0.029405</Open>
+    <High>0.0301312</High>
+    <Low>0.0288</Low>
+    <Close>0.0298997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-12</Date>
+    <Open>0.029887</Open>
+    <High>0.0307972</High>
+    <Low>0.029887</Low>
+    <Close>0.0304227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-13</Date>
+    <Open>0.030413</Open>
+    <High>0.033642</High>
+    <Low>0.0303197</Low>
+    <Close>0.0329133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-14</Date>
+    <Open>0.0329826</Open>
+    <High>0.035485</High>
+    <Low>0.0328436</Low>
+    <Close>0.0347914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-15</Date>
+    <Open>0.0346635</Open>
+    <High>0.0349759</High>
+    <Low>0.0321471</Low>
+    <Close>0.03347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-16</Date>
+    <Open>0.0334697</Open>
+    <High>0.0342303</High>
+    <Low>0.0316913</Low>
+    <Close>0.0337003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-17</Date>
+    <Open>0.0336507</Open>
+    <High>0.0399656</High>
+    <Low>0.033591</Low>
+    <Close>0.0382938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-18</Date>
+    <Open>0.0383242</Open>
+    <High>0.0408433</High>
+    <Low>0.0344697</Low>
+    <Close>0.0348583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-19</Date>
+    <Open>0.0349379</Open>
+    <High>0.0376859</High>
+    <Low>0.034669</Low>
+    <Close>0.0367085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-20</Date>
+    <Open>0.0366985</Open>
+    <High>0.0384569</High>
+    <Low>0.0354196</Low>
+    <Close>0.0382965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-21</Date>
+    <Open>0.0383465</Open>
+    <High>0.0388989</High>
+    <Low>0.0366077</Low>
+    <Close>0.0371759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-22</Date>
+    <Open>0.0371871</Open>
+    <High>0.0372252</High>
+    <Low>0.0343482</Low>
+    <Close>0.034957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-23</Date>
+    <Open>0.034947</Open>
+    <High>0.0371178</High>
+    <Low>0.0344172</Low>
+    <Close>0.0357657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-24</Date>
+    <Open>0.035755</Open>
+    <High>0.0363111</High>
+    <Low>0.0343917</Low>
+    <Close>0.0345114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-25</Date>
+    <Open>0.034491</Open>
+    <High>0.0353174</High>
+    <Low>0.0323219</Low>
+    <Close>0.0345655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-26</Date>
+    <Open>0.0345259</Open>
+    <High>0.0360951</High>
+    <Low>0.033401</Low>
+    <Close>0.033693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-27</Date>
+    <Open>0.033703</Open>
+    <High>0.0394855</High>
+    <Low>0.0332166</Low>
+    <Close>0.0359476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-28</Date>
+    <Open>0.0359526</Open>
+    <High>0.0366484</High>
+    <Low>0.034588</Low>
+    <Close>0.034757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-29</Date>
+    <Open>0.0347469</Open>
+    <High>0.0374964</High>
+    <Low>0.0346776</Low>
+    <Close>0.0367218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-30</Date>
+    <Open>0.0367618</Open>
+    <High>0.0375596</High>
+    <Low>0.0346303</Low>
+    <Close>0.0352725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-01-31</Date>
+    <Open>0.0352721</Open>
+    <High>0.03721</High>
+    <Low>0.0348976</Low>
+    <Close>0.0360032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-01</Date>
+    <Open>0.0360329</Open>
+    <High>0.0370637</High>
+    <Low>0.0337003</Low>
+    <Close>0.0365922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-02</Date>
+    <Open>0.0365918</Open>
+    <High>0.0379749</High>
+    <Low>0.0357029</Low>
+    <Close>0.0359068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-03</Date>
+    <Open>0.0358972</Open>
+    <High>0.0378034</High>
+    <Low>0.0356754</Low>
+    <Close>0.037683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-04</Date>
+    <Open>0.037693</Open>
+    <High>0.041985</High>
+    <Low>0.037413</Low>
+    <Close>0.0406737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-05</Date>
+    <Open>0.0406833</Open>
+    <High>0.0414399</High>
+    <Low>0.0370604</Low>
+    <Close>0.0387597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-06</Date>
+    <Open>0.0387901</Open>
+    <High>0.0400908</High>
+    <Low>0.0379268</Low>
+    <Close>0.0396712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-07</Date>
+    <Open>0.0396716</Open>
+    <High>0.0458986</High>
+    <Low>0.0389031</Low>
+    <Close>0.0448727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-08</Date>
+    <Open>0.0449027</Open>
+    <High>0.0458537</High>
+    <Low>0.0412762</Low>
+    <Close>0.0436631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-09</Date>
+    <Open>0.0436931</Open>
+    <High>0.04383</High>
+    <Low>0.0380534</Low>
+    <Close>0.0380938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-10</Date>
+    <Open>0.0380434</Open>
+    <High>0.0400188</High>
+    <Low>0.0374856</Low>
+    <Close>0.0377353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-11</Date>
+    <Open>0.037646</Open>
+    <High>0.040064</High>
+    <Low>0.0375453</Low>
+    <Close>0.039954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-12</Date>
+    <Open>0.039964</Open>
+    <High>0.0400844</High>
+    <Low>0.0376653</Low>
+    <Close>0.0382231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-13</Date>
+    <Open>0.0382238</Open>
+    <High>0.0386404</High>
+    <Low>0.0352568</Low>
+    <Close>0.0363696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-14</Date>
+    <Open>0.0364</Open>
+    <High>0.0376054</High>
+    <Low>0.0358333</Low>
+    <Close>0.0363138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-15</Date>
+    <Open>0.0364046</Open>
+    <High>0.0395751</High>
+    <Low>0.0361734</Low>
+    <Close>0.0389766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-16</Date>
+    <Open>0.0389862</Open>
+    <High>0.0407733</High>
+    <Low>0.0371426</Low>
+    <Close>0.0371926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-17</Date>
+    <Open>0.0371126</Open>
+    <High>0.0386227</High>
+    <Low>0.0367244</Low>
+    <Close>0.0384735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-18</Date>
+    <Open>0.0385065</Open>
+    <High>0.0395679</High>
+    <Low>0.0382369</Low>
+    <Close>0.0391863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-19</Date>
+    <Open>0.0391767</Open>
+    <High>0.0409378</High>
+    <Low>0.038145</Low>
+    <Close>0.039009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-20</Date>
+    <Open>0.039039</Open>
+    <High>0.0405573</High>
+    <Low>0.0382503</Low>
+    <Close>0.0390916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-21</Date>
+    <Open>0.0391392</Open>
+    <High>0.0415758</High>
+    <Low>0.0379334</Low>
+    <Close>0.0392071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-22</Date>
+    <Open>0.0391971</Open>
+    <High>0.0395544</High>
+    <Low>0.0374771</Low>
+    <Close>0.0395328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-23</Date>
+    <Open>0.0396492</Open>
+    <High>0.0404332</High>
+    <Low>0.0377742</Low>
+    <Close>0.0380323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-24</Date>
+    <Open>0.0380257</Open>
+    <High>0.0391074</High>
+    <Low>0.0367996</Low>
+    <Close>0.0368596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-25</Date>
+    <Open>0.0369096</Open>
+    <High>0.0385835</High>
+    <Low>0.0366455</Low>
+    <Close>0.0375526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-26</Date>
+    <Open>0.0376238</Open>
+    <High>0.039252</High>
+    <Low>0.0376026</Low>
+    <Close>0.0384431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-27</Date>
+    <Open>0.0384542</Open>
+    <High>0.0399112</High>
+    <Low>0.0381115</Low>
+    <Close>0.0387519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-02-28</Date>
+    <Open>0.0387619</Open>
+    <High>0.0423204</High>
+    <Low>0.0387219</Low>
+    <Close>0.039888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-01</Date>
+    <Open>0.0398484</Open>
+    <High>0.0420034</High>
+    <Low>0.0388362</Low>
+    <Close>0.0404765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-02</Date>
+    <Open>0.0405453</Open>
+    <High>0.0437622</High>
+    <Low>0.0402352</Low>
+    <Close>0.0435839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-03</Date>
+    <Open>0.0435639</Open>
+    <High>0.0465479</High>
+    <Low>0.0396552</Low>
+    <Close>0.0427826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-04</Date>
+    <Open>0.0429543</Open>
+    <High>0.0433739</High>
+    <Low>0.039402</Low>
+    <Close>0.0410733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-05</Date>
+    <Open>0.0410633</Open>
+    <High>0.0419642</High>
+    <Low>0.040264</Low>
+    <Close>0.0405745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-06</Date>
+    <Open>0.0405749</Open>
+    <High>0.0414129</High>
+    <Low>0.039908</Low>
+    <Close>0.0402776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-07</Date>
+    <Open>0.040256</Open>
+    <High>0.0409</High>
+    <Low>0.0377943</Low>
+    <Close>0.0385981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-08</Date>
+    <Open>0.0385881</Open>
+    <High>0.0394476</High>
+    <Low>0.0358586</Low>
+    <Close>0.0360086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-09</Date>
+    <Open>0.0359464</Open>
+    <High>0.0372325</High>
+    <Low>0.0336429</Low>
+    <Close>0.0343534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-10</Date>
+    <Open>0.0343162</Open>
+    <High>0.0354804</High>
+    <Low>0.0333173</Low>
+    <Close>0.0353901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-11</Date>
+    <Open>0.0354651</Open>
+    <High>0.0367373</High>
+    <Low>0.0331207</Low>
+    <Close>0.0345185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-12</Date>
+    <Open>0.0345028</Open>
+    <High>0.0366413</High>
+    <Low>0.0342854</Low>
+    <Close>0.0362126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-13</Date>
+    <Open>0.0362421</Open>
+    <High>0.0379334</High>
+    <Low>0.035256</Low>
+    <Close>0.0372599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-14</Date>
+    <Open>0.0372064</Open>
+    <High>0.0392886</High>
+    <Low>0.0363162</Low>
+    <Close>0.0372607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-15</Date>
+    <Open>0.0372685</Open>
+    <High>0.0380129</High>
+    <Low>0.0351494</Low>
+    <Close>0.0357051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-16</Date>
+    <Open>0.035628</Open>
+    <High>0.0363631</High>
+    <Low>0.0348111</Low>
+    <Close>0.0353868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-17</Date>
+    <Open>0.0354173</Open>
+    <High>0.038211</High>
+    <Low>0.0353472</Low>
+    <Close>0.0376422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-18</Date>
+    <Open>0.0377329</Open>
+    <High>0.0386175</High>
+    <Low>0.0364682</Low>
+    <Close>0.0366392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-19</Date>
+    <Open>0.0366793</Open>
+    <High>0.0383242</High>
+    <Low>0.0363594</Low>
+    <Close>0.0379145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-20</Date>
+    <Open>0.0378833</Open>
+    <High>0.0379832</High>
+    <Low>0.0358428</Low>
+    <Close>0.0362017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-21</Date>
+    <Open>0.0361916</Open>
+    <High>0.0374316</High>
+    <Low>0.0354922</Low>
+    <Close>0.0369178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-22</Date>
+    <Open>0.0369375</Open>
+    <High>0.0379452</High>
+    <Low>0.0354303</Low>
+    <Close>0.0363694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-23</Date>
+    <Open>0.0362591</Open>
+    <High>0.037254</High>
+    <Low>0.0358035</Low>
+    <Close>0.0369507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-24</Date>
+    <Open>0.0369868</Open>
+    <High>0.0373297</High>
+    <Low>0.0344575</Low>
+    <Close>0.0350654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-25</Date>
+    <Open>0.0349387</Open>
+    <High>0.0356656</High>
+    <Low>0.0342773</Low>
+    <Close>0.0348134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-26</Date>
+    <Open>0.0347637</Open>
+    <High>0.035602</High>
+    <Low>0.0346636</Low>
+    <Close>0.0351597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-27</Date>
+    <Open>0.0351787</Open>
+    <High>0.0356549</High>
+    <Low>0.0334634</Low>
+    <Close>0.0343261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-28</Date>
+    <Open>0.0343061</Open>
+    <High>0.0373446</High>
+    <Low>0.0334307</Low>
+    <Close>0.0372441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-29</Date>
+    <Open>0.0372245</Open>
+    <High>0.0382715</High>
+    <Low>0.0362505</Low>
+    <Close>0.0368744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-30</Date>
+    <Open>0.0367974</Open>
+    <High>0.0375475</High>
+    <Low>0.0359968</Low>
+    <Close>0.0367999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-03-31</Date>
+    <Open>0.0367803</Open>
+    <High>0.0402877</High>
+    <Low>0.0364426</Low>
+    <Close>0.0402681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-01</Date>
+    <Open>0.040208</Open>
+    <High>0.0415716</High>
+    <Low>0.0394522</Low>
+    <Close>0.0399944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-02</Date>
+    <Open>0.0399748</Open>
+    <High>0.0404666</High>
+    <Low>0.0381759</Low>
+    <Close>0.0385539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-03</Date>
+    <Open>0.0385739</Open>
+    <High>0.0394714</High>
+    <Low>0.0375543</Low>
+    <Close>0.0379644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-04</Date>
+    <Open>0.0380348</Open>
+    <High>0.0409505</High>
+    <Low>0.0378587</Low>
+    <Close>0.0409405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-05</Date>
+    <Open>0.0409109</Open>
+    <High>0.0430464</High>
+    <Low>0.0409008</Low>
+    <Close>0.0412548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-06</Date>
+    <Open>0.0412448</Open>
+    <High>0.0426322</High>
+    <Low>0.0401205</Low>
+    <Close>0.0412644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-07</Date>
+    <Open>0.0412749</Open>
+    <High>0.0430315</High>
+    <Low>0.0404434</Low>
+    <Close>0.0409403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-08</Date>
+    <Open>0.0409907</Open>
+    <High>0.0433617</High>
+    <Low>0.0409395</Low>
+    <Close>0.0429267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-09</Date>
+    <Open>0.0428871</Open>
+    <High>0.0432151</High>
+    <Low>0.0408541</Low>
+    <Close>0.0416846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-10</Date>
+    <Open>0.0416679</Open>
+    <High>0.0442888</High>
+    <Low>0.0415658</Low>
+    <Close>0.0429052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-11</Date>
+    <Open>0.0429848</Open>
+    <High>0.043849</High>
+    <Low>0.0426341</Low>
+    <Close>0.0427018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-12</Date>
+    <Open>0.0427122</Open>
+    <High>0.0431675</High>
+    <Low>0.0412653</Low>
+    <Close>0.0425231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-13</Date>
+    <Open>0.0426032</Open>
+    <High>0.0449339</High>
+    <Low>0.0422463</Low>
+    <Close>0.0440723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-14</Date>
+    <Open>0.0441523</Open>
+    <High>0.0468205</High>
+    <Low>0.0441123</Low>
+    <Close>0.0463584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-15</Date>
+    <Open>0.0464585</Open>
+    <High>0.0502242</High>
+    <Low>0.0455127</Low>
+    <Close>0.0490841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-16</Date>
+    <Open>0.0491037</Open>
+    <High>0.060982</High>
+    <Low>0.0482724</Low>
+    <Close>0.0560181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-17</Date>
+    <Open>0.055938</Open>
+    <High>0.0574954</High>
+    <Low>0.0526158</Low>
+    <Close>0.0530713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-18</Date>
+    <Open>0.0531013</Open>
+    <High>0.0589006</High>
+    <Low>0.0529407</Low>
+    <Close>0.0584605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-19</Date>
+    <Open>0.0584511</Open>
+    <High>0.0589847</High>
+    <Low>0.0530323</Low>
+    <Close>0.0549196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-20</Date>
+    <Open>0.0548085</Open>
+    <High>0.0552193</High>
+    <Low>0.0487122</Low>
+    <Close>0.0492264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-21</Date>
+    <Open>0.0492634</Open>
+    <High>0.0506865</High>
+    <Low>0.0473082</Low>
+    <Close>0.0477747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-22</Date>
+    <Open>0.0477247</Open>
+    <High>0.0524347</High>
+    <Low>0.0467937</Low>
+    <Close>0.0522652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-23</Date>
+    <Open>0.0522847</Open>
+    <High>0.0522947</High>
+    <Low>0.0492625</Low>
+    <Close>0.0496425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-24</Date>
+    <Open>0.0497325</Open>
+    <High>0.0517605</High>
+    <Low>0.0486993</Low>
+    <Close>0.050311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-25</Date>
+    <Open>0.0502315</Open>
+    <High>0.0512623</High>
+    <Low>0.0484924</Low>
+    <Close>0.0512623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-26</Date>
+    <Open>0.0512918</Open>
+    <High>0.0580388</High>
+    <Low>0.0506806</Low>
+    <Close>0.0542279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-27</Date>
+    <Open>0.0543374</Open>
+    <High>0.0562873</High>
+    <Low>0.0527042</Low>
+    <Close>0.0547714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-28</Date>
+    <Open>0.054907</Open>
+    <High>0.0556878</High>
+    <Low>0.0531655</Low>
+    <Close>0.0537514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-29</Date>
+    <Open>0.0540794</Open>
+    <High>0.0572595</High>
+    <Low>0.0540283</Low>
+    <Close>0.0567829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-04-30</Date>
+    <Open>0.0567234</Open>
+    <High>0.0634774</High>
+    <Low>0.0566829</Low>
+    <Close>0.0622749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-01</Date>
+    <Open>0.0623149</Open>
+    <High>0.0636755</High>
+    <Low>0.057074</Low>
+    <Close>0.0589553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-02</Date>
+    <Open>0.0589353</Open>
+    <High>0.06059</High>
+    <Low>0.0581312</Low>
+    <Close>0.059106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-03</Date>
+    <Open>0.0591461</Open>
+    <High>0.0594727</High>
+    <Low>0.056133</Low>
+    <Close>0.0589759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-04</Date>
+    <Open>0.059106</Open>
+    <High>0.0611316</High>
+    <Low>0.0584787</Low>
+    <Close>0.0597315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-05</Date>
+    <Open>0.0597621</Open>
+    <High>0.062635</High>
+    <Low>0.058634</Low>
+    <Close>0.0601747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-06</Date>
+    <Open>0.0601497</Open>
+    <High>0.0602524</High>
+    <Low>0.0554385</Low>
+    <Close>0.0566394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-07</Date>
+    <Open>0.0566754</Open>
+    <High>0.0588389</High>
+    <Low>0.0553471</Low>
+    <Close>0.0579217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-08</Date>
+    <Open>0.0579243</Open>
+    <High>0.0579243</High>
+    <Low>0.0505288</Low>
+    <Close>0.0517303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-09</Date>
+    <Open>0.0518018</Open>
+    <High>0.0537299</High>
+    <Low>0.0504104</Low>
+    <Close>0.0508988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-10</Date>
+    <Open>0.0508459</Open>
+    <High>0.0531905</High>
+    <Low>0.049341</Low>
+    <Close>0.0523261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-11</Date>
+    <Open>0.0523163</Open>
+    <High>0.0530447</High>
+    <Low>0.0474927</Low>
+    <Close>0.0489629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-12</Date>
+    <Open>0.0489149</Open>
+    <High>0.0492266</High>
+    <Low>0.04669</Low>
+    <Close>0.048833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-13</Date>
+    <Open>0.048801</Open>
+    <High>0.0510506</High>
+    <Low>0.0483422</Low>
+    <Close>0.0502681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-14</Date>
+    <Open>0.0502641</Open>
+    <High>0.0510295</High>
+    <Low>0.0491155</Low>
+    <Close>0.0492235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-15</Date>
+    <Open>0.0491706</Open>
+    <High>0.0509046</High>
+    <Low>0.0484681</Low>
+    <Close>0.0488081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-16</Date>
+    <Open>0.0488635</Open>
+    <High>0.0495967</High>
+    <Low>0.048046</Low>
+    <Close>0.0488414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-17</Date>
+    <Open>0.0488865</Open>
+    <High>0.0495708</High>
+    <Low>0.0463305</Low>
+    <Close>0.0486533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-18</Date>
+    <Open>0.0484802</Open>
+    <High>0.0484802</High>
+    <Low>0.0461148</Low>
+    <Close>0.0480852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-19</Date>
+    <Open>0.0481262</Open>
+    <High>0.0483353</High>
+    <Low>0.0467587</Low>
+    <Close>0.0479904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-20</Date>
+    <Open>0.048058</Open>
+    <High>0.0497647</High>
+    <Low>0.0476333</Low>
+    <Close>0.0497567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-21</Date>
+    <Open>0.0496746</Open>
+    <High>0.0509125</High>
+    <Low>0.0486772</Low>
+    <Close>0.0487272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-22</Date>
+    <Open>0.0487454</Open>
+    <High>0.0493516</High>
+    <Low>0.0469992</Low>
+    <Close>0.0482681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-23</Date>
+    <Open>0.0481647</Open>
+    <High>0.0500595</High>
+    <Low>0.0479647</Low>
+    <Close>0.050002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-24</Date>
+    <Open>0.049988</Open>
+    <High>0.050308</High>
+    <Low>0.0464591</Low>
+    <Close>0.0478471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-25</Date>
+    <Open>0.0478376</Open>
+    <High>0.0483166</High>
+    <Low>0.0459428</Low>
+    <Close>0.048181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-26</Date>
+    <Open>0.0482093</Open>
+    <High>0.0523483</High>
+    <Low>0.0482093</Low>
+    <Close>0.0509212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-27</Date>
+    <Open>0.0507972</Open>
+    <High>0.0518536</High>
+    <Low>0.0498299</Low>
+    <Close>0.0512105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CSPR">
+    <Date>2023-05-28</Date>
+    <Open>0.0511745</Open>
+    <High>0.0521579</High>
+    <Low>0.0505041</Low>
+    <Close>0.0516319</Close>
+  </Cryptocurrency>
+</Root>

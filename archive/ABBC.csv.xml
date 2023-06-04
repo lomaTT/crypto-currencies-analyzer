@@ -1,0 +1,2663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-15</Date>
+    <Open>0.0886668</Open>
+    <High>0.0911904</High>
+    <Low>0.0872689</Low>
+    <Close>0.0910906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-16</Date>
+    <Open>0.0914901</Open>
+    <High>0.0935876</High>
+    <Low>0.087586</Low>
+    <Close>0.0883761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-17</Date>
+    <Open>0.088385</Open>
+    <High>0.0924796</High>
+    <Low>0.0864961</Low>
+    <Close>0.0910906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-18</Date>
+    <Open>0.0904822</Open>
+    <High>0.092979</High>
+    <Low>0.0821848</Low>
+    <Close>0.0823928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-19</Date>
+    <Open>0.0827922</Open>
+    <High>0.0911179</High>
+    <Low>0.0779985</Low>
+    <Close>0.0902187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-20</Date>
+    <Open>0.0905094</Open>
+    <High>0.0918896</High>
+    <Low>0.0840905</Low>
+    <Close>0.0911813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-21</Date>
+    <Open>0.0913902</Open>
+    <High>0.0918804</High>
+    <Low>0.0886846</Low>
+    <Close>0.0916807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-22</Date>
+    <Open>0.0914809</Open>
+    <High>0.0968836</High>
+    <Low>0.0887783</Low>
+    <Close>0.0958752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-23</Date>
+    <Open>0.0960846</Open>
+    <High>0.0964937</High>
+    <Low>0.07491</Low>
+    <Close>0.0815021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-24</Date>
+    <Open>0.079904</Open>
+    <High>0.0853061</High>
+    <Low>0.0729197</Low>
+    <Close>0.0797961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-25</Date>
+    <Open>0.0797961</Open>
+    <High>0.0849065</High>
+    <Low>0.0797961</Low>
+    <Close>0.0831085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-26</Date>
+    <Open>0.0831002</Open>
+    <High>0.0831002</High>
+    <Low>0.0798201</Low>
+    <Close>0.0803196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-27</Date>
+    <Open>0.0803196</Open>
+    <High>0.0833166</High>
+    <Low>0.0798201</Low>
+    <Close>0.0830169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-28</Date>
+    <Open>0.0835496</Open>
+    <High>0.0837087</High>
+    <Low>0.0794118</Low>
+    <Close>0.0816044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-29</Date>
+    <Open>0.0820023</Open>
+    <High>0.083613</High>
+    <Low>0.0800127</Low>
+    <Close>0.0832117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-30</Date>
+    <Open>0.0829641</Open>
+    <High>0.0917357</High>
+    <Low>0.0829641</Low>
+    <Close>0.086131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-05-31</Date>
+    <Open>0.086131</Open>
+    <High>0.0924352</High>
+    <Low>0.0853317</Low>
+    <Close>0.0902278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-01</Date>
+    <Open>0.0909299</Open>
+    <High>0.0953237</High>
+    <Low>0.0896327</Low>
+    <Close>0.0929163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-02</Date>
+    <Open>0.092907</Open>
+    <High>0.0936157</High>
+    <Low>0.091908</Low>
+    <Close>0.0934158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-03</Date>
+    <Open>0.0935158</Open>
+    <High>0.0935158</High>
+    <Low>0.09083</Low>
+    <Close>0.0916202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-04</Date>
+    <Open>0.0915212</Open>
+    <High>0.0953246</High>
+    <Low>0.090207</Low>
+    <Close>0.0944282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-05</Date>
+    <Open>0.0941284</Open>
+    <High>0.0949145</High>
+    <Low>0.0897246</Low>
+    <Close>0.0922142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-06</Date>
+    <Open>0.0923131</Open>
+    <High>0.101111</High>
+    <Low>0.0911124</Low>
+    <Close>0.0976179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-07</Date>
+    <Open>0.0971174</Open>
+    <High>0.0981175</High>
+    <Low>0.0892223</Low>
+    <Close>0.0928285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-08</Date>
+    <Open>0.0920263</Open>
+    <High>0.0949316</High>
+    <Low>0.0909399</Low>
+    <Close>0.0943386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-09</Date>
+    <Open>0.093839</Open>
+    <High>0.0967245</High>
+    <Low>0.0892277</Low>
+    <Close>0.0895247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-10</Date>
+    <Open>0.0895238</Open>
+    <High>0.0927258</High>
+    <Low>0.0895203</Low>
+    <Close>0.0909843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-11</Date>
+    <Open>0.0906847</Open>
+    <High>0.0945958</High>
+    <Low>0.089694</Low>
+    <Close>0.0901971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-12</Date>
+    <Open>0.0903968</Open>
+    <High>0.0922771</High>
+    <Low>0.0870919</Low>
+    <Close>0.0891893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-13</Date>
+    <Open>0.0881905</Open>
+    <High>0.0883911</High>
+    <Low>0.072392</Low>
+    <Close>0.0760948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-14</Date>
+    <Open>0.0742966</Open>
+    <High>0.0808882</High>
+    <Low>0.0679978</Low>
+    <Close>0.0743137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-15</Date>
+    <Open>0.0768085</Open>
+    <High>0.0779797</High>
+    <Low>0.0717684</Low>
+    <Close>0.0754866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-16</Date>
+    <Open>0.0754866</Open>
+    <High>0.0813105</High>
+    <Low>0.074895</Low>
+    <Close>0.0749025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-17</Date>
+    <Open>0.0738986</Open>
+    <High>0.076886</High>
+    <Low>0.0721988</Low>
+    <Close>0.0747102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-18</Date>
+    <Open>0.0752096</Open>
+    <High>0.0768891</High>
+    <Low>0.0702895</Low>
+    <Close>0.0741789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-19</Date>
+    <Open>0.0739785</Open>
+    <High>0.0752831</High>
+    <Low>0.0665933</Low>
+    <Close>0.0700159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-20</Date>
+    <Open>0.0727054</Open>
+    <High>0.0740111</High>
+    <Low>0.071587</Low>
+    <Close>0.0721206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-21</Date>
+    <Open>0.0720135</Open>
+    <High>0.0741513</High>
+    <Low>0.0696573</Low>
+    <Close>0.0705284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-22</Date>
+    <Open>0.0653346</Open>
+    <High>0.0710289</High>
+    <Low>0.0643356</Low>
+    <Close>0.0667332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-23</Date>
+    <Open>0.0674325</Open>
+    <High>0.0675324</High>
+    <Low>0.0651283</Low>
+    <Close>0.0664335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-24</Date>
+    <Open>0.0663336</Open>
+    <High>0.0709439</High>
+    <Low>0.0661272</Low>
+    <Close>0.0706449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-25</Date>
+    <Open>0.0701298</Open>
+    <High>0.0725492</High>
+    <Low>0.0696303</Low>
+    <Close>0.07135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-26</Date>
+    <Open>0.0709517</Open>
+    <High>0.0717512</High>
+    <Low>0.0695568</Low>
+    <Close>0.0701572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-27</Date>
+    <Open>0.0693584</Open>
+    <High>0.0702606</High>
+    <Low>0.0667399</Low>
+    <Close>0.0678382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-28</Date>
+    <Open>0.0675392</Open>
+    <High>0.0694319</High>
+    <Low>0.0663177</Low>
+    <Close>0.0669169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-29</Date>
+    <Open>0.0663177</Open>
+    <High>0.0724028</High>
+    <Low>0.0663004</Low>
+    <Close>0.0695081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-06-30</Date>
+    <Open>0.0708142</Open>
+    <High>0.0714242</High>
+    <Low>0.0615267</Low>
+    <Close>0.0650219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-01</Date>
+    <Open>0.0618257</Open>
+    <High>0.064516</High>
+    <Low>0.0616198</Low>
+    <Close>0.0631305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-02</Date>
+    <Open>0.0629307</Open>
+    <High>0.0713143</High>
+    <Low>0.0629307</Low>
+    <Close>0.0679184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-03</Date>
+    <Open>0.0679184</Open>
+    <High>0.0726128</High>
+    <Low>0.0658209</Low>
+    <Close>0.0677119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-04</Date>
+    <Open>0.0680115</Open>
+    <High>0.0703085</High>
+    <Low>0.06662</Low>
+    <Close>0.06662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-05</Date>
+    <Open>0.067419</Open>
+    <High>0.0694166</High>
+    <Low>0.0662271</Low>
+    <Close>0.0674258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-06</Date>
+    <Open>0.0662271</Open>
+    <High>0.0694236</High>
+    <Low>0.0657276</Low>
+    <Close>0.0662271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-07</Date>
+    <Open>0.0664269</Open>
+    <High>0.0674258</High>
+    <Low>0.0651544</Low>
+    <Close>0.0651609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-08</Date>
+    <Open>0.0651609</Open>
+    <High>0.0673596</High>
+    <Low>0.0651544</Low>
+    <Close>0.0670597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-09</Date>
+    <Open>0.0671597</Open>
+    <High>0.0674595</High>
+    <Low>0.0654607</Low>
+    <Close>0.0670597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-10</Date>
+    <Open>0.06656</Open>
+    <High>0.0679592</High>
+    <Low>0.064255</Low>
+    <Close>0.0650609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-11</Date>
+    <Open>0.0658605</Open>
+    <High>0.06656</High>
+    <Low>0.0630495</Low>
+    <Close>0.0636427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-12</Date>
+    <Open>0.0636427</Open>
+    <High>0.0645354</High>
+    <Low>0.0617382</Low>
+    <Close>0.0623376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-13</Date>
+    <Open>0.0623395</Open>
+    <High>0.0677302</High>
+    <Low>0.0616383</Low>
+    <Close>0.0618443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-14</Date>
+    <Open>0.0619442</Open>
+    <High>0.0623438</High>
+    <Low>0.0608574</Low>
+    <Close>0.0609634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-15</Date>
+    <Open>0.0612632</Open>
+    <High>0.0628523</High>
+    <Low>0.0604637</Low>
+    <Close>0.0613816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-16</Date>
+    <Open>0.0613816</Open>
+    <High>0.0667566</High>
+    <Low>0.0602819</Low>
+    <Close>0.0613816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-17</Date>
+    <Open>0.061684</Open>
+    <High>0.066888</High>
+    <Low>0.0605836</Low>
+    <Close>0.0611841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-18</Date>
+    <Open>0.061484</Open>
+    <High>0.0618</High>
+    <Low>0.0594821</Low>
+    <Close>0.0602861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-19</Date>
+    <Open>0.0608854</Open>
+    <High>0.0637285</High>
+    <Low>0.05974</Low>
+    <Close>0.0605503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-20</Date>
+    <Open>0.060316</Open>
+    <High>0.0626551</High>
+    <Low>0.0582029</Low>
+    <Close>0.059703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-21</Date>
+    <Open>0.0600072</Open>
+    <High>0.0616099</High>
+    <Low>0.0584047</Low>
+    <Close>0.0595131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-22</Date>
+    <Open>0.0596149</Open>
+    <High>0.0605073</High>
+    <Low>0.0570063</Low>
+    <Close>0.0574126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-23</Date>
+    <Open>0.0571</Open>
+    <High>0.0595059</High>
+    <Low>0.0571</Low>
+    <Close>0.0588118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-24</Date>
+    <Open>0.0589118</Open>
+    <High>0.0608116</High>
+    <Low>0.0577012</Low>
+    <Close>0.0605121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-25</Date>
+    <Open>0.0603115</Open>
+    <High>0.0605121</High>
+    <Low>0.0563994</Low>
+    <Close>0.0564045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-26</Date>
+    <Open>0.0564056</Open>
+    <High>0.057008</High>
+    <Low>0.0479043</Low>
+    <Close>0.0496074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-27</Date>
+    <Open>0.0494074</Open>
+    <High>0.0522047</High>
+    <Low>0.0493035</Low>
+    <Close>0.0506111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-28</Date>
+    <Open>0.0505116</Open>
+    <High>0.051199</High>
+    <Low>0.0464093</Low>
+    <Close>0.047409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-29</Date>
+    <Open>0.047812</Open>
+    <High>0.0487146</High>
+    <Low>0.0452869</Low>
+    <Close>0.0468192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-30</Date>
+    <Open>0.0468187</Open>
+    <High>0.0496179</High>
+    <Low>0.0462171</Low>
+    <Close>0.0494168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-07-31</Date>
+    <Open>0.0491182</Open>
+    <High>0.0506147</High>
+    <Low>0.0491103</Low>
+    <Close>0.0502115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-01</Date>
+    <Open>0.050013</Open>
+    <High>0.0504227</High>
+    <Low>0.047912</Low>
+    <Close>0.0486146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-02</Date>
+    <Open>0.0489147</Open>
+    <High>0.0507098</High>
+    <Low>0.0471052</Low>
+    <Close>0.0471085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-03</Date>
+    <Open>0.0473095</Open>
+    <High>0.0495104</High>
+    <Low>0.0465037</Low>
+    <Close>0.0472113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-04</Date>
+    <Open>0.0471113</Open>
+    <High>0.0486083</High>
+    <Low>0.0468103</Low>
+    <Close>0.0482014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-05</Date>
+    <Open>0.0477019</Open>
+    <High>0.0507096</High>
+    <Low>0.0477019</Low>
+    <Close>0.0493094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-06</Date>
+    <Open>0.0496099</Open>
+    <High>0.0510582</High>
+    <Low>0.0483005</Low>
+    <Close>0.0503116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-07</Date>
+    <Open>0.0503111</Open>
+    <High>0.0510212</High>
+    <Low>0.0483068</Low>
+    <Close>0.0491088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-08</Date>
+    <Open>0.0490098</Open>
+    <High>0.0503086</High>
+    <Low>0.0484082</Low>
+    <Close>0.0485073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-09</Date>
+    <Open>0.0488054</Open>
+    <High>0.0503106</High>
+    <Low>0.0481072</Low>
+    <Close>0.0487102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-10</Date>
+    <Open>0.0489103</Open>
+    <High>0.0505242</High>
+    <Low>0.048011</Low>
+    <Close>0.0481139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-11</Date>
+    <Open>0.0481139</Open>
+    <High>0.051123</High>
+    <Low>0.0481135</Low>
+    <Close>0.0504222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-12</Date>
+    <Open>0.0504252</Open>
+    <High>0.121252</High>
+    <Low>0.0499249</Low>
+    <Close>0.107049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-13</Date>
+    <Open>0.105148</Open>
+    <High>0.212698</High>
+    <Low>0.102847</Low>
+    <Close>0.133452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-14</Date>
+    <Open>0.132252</Open>
+    <High>0.179561</High>
+    <Low>0.125743</Low>
+    <Close>0.147046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-15</Date>
+    <Open>0.147046</Open>
+    <High>0.158141</High>
+    <Low>0.14134</Low>
+    <Close>0.146534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-16</Date>
+    <Open>0.146535</Open>
+    <High>0.174402</High>
+    <Low>0.146525</Low>
+    <Close>0.168015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-17</Date>
+    <Open>0.167515</Open>
+    <High>0.313109</High>
+    <Low>0.164715</Low>
+    <Close>0.296821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-18</Date>
+    <Open>0.295321</Open>
+    <High>0.312031</High>
+    <Low>0.232295</Low>
+    <Close>0.239402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-19</Date>
+    <Open>0.239424</Open>
+    <High>0.260626</High>
+    <Low>0.190119</Low>
+    <Close>0.220622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-20</Date>
+    <Open>0.222311</Open>
+    <High>0.277636</High>
+    <Low>0.209008</Low>
+    <Close>0.233798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-21</Date>
+    <Open>0.2341</Open>
+    <High>0.24957</High>
+    <Low>0.231381</Low>
+    <Close>0.231693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-22</Date>
+    <Open>0.231609</Open>
+    <High>0.238905</High>
+    <Low>0.2167</Low>
+    <Close>0.217863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-23</Date>
+    <Open>0.217867</Open>
+    <High>0.233798</High>
+    <Low>0.213402</Low>
+    <Close>0.216506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-24</Date>
+    <Open>0.216498</Open>
+    <High>0.219518</High>
+    <Low>0.117794</Low>
+    <Close>0.171515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-25</Date>
+    <Open>0.172014</Open>
+    <High>0.213704</High>
+    <Low>0.17151</Low>
+    <Close>0.177105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-26</Date>
+    <Open>0.176596</Open>
+    <High>0.205912</High>
+    <Low>0.176596</Low>
+    <Close>0.189017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-27</Date>
+    <Open>0.188419</Open>
+    <High>0.191506</High>
+    <Low>0.178905</Low>
+    <Close>0.180105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-28</Date>
+    <Open>0.179402</Open>
+    <High>0.187407</High>
+    <Low>0.172807</Low>
+    <Close>0.175698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-29</Date>
+    <Open>0.176139</Open>
+    <High>0.176754</High>
+    <Low>0.165085</Low>
+    <Close>0.168412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-30</Date>
+    <Open>0.168517</Open>
+    <High>0.177891</High>
+    <Low>0.165608</Low>
+    <Close>0.165618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-08-31</Date>
+    <Open>0.165512</Open>
+    <High>0.181</High>
+    <Low>0.16522</Low>
+    <Close>0.1662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-01</Date>
+    <Open>0.165998</Open>
+    <High>0.175186</High>
+    <Low>0.162485</Low>
+    <Close>0.169693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-02</Date>
+    <Open>0.16999</Open>
+    <High>0.190032</High>
+    <Low>0.16909</Low>
+    <Close>0.18983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-03</Date>
+    <Open>0.190427</Open>
+    <High>0.219322</High>
+    <Low>0.1765</Low>
+    <Close>0.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-04</Date>
+    <Open>0.1793</Open>
+    <High>0.206521</High>
+    <Low>0.1769</Low>
+    <Close>0.1944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-05</Date>
+    <Open>0.1946</Open>
+    <High>0.210221</High>
+    <Low>0.1944</Low>
+    <Close>0.20112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-06</Date>
+    <Open>0.2005</Open>
+    <High>0.209</High>
+    <Low>0.1962</Low>
+    <Close>0.1969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-07</Date>
+    <Open>0.197212</Open>
+    <High>0.200534</High>
+    <Low>0.196094</Low>
+    <Close>0.19802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-08</Date>
+    <Open>0.199998</Open>
+    <High>0.200597</High>
+    <Low>0.19343</Low>
+    <Close>0.198467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-09</Date>
+    <Open>0.197496</Open>
+    <High>0.206154</High>
+    <Low>0.194978</Low>
+    <Close>0.195364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-10</Date>
+    <Open>0.19538</Open>
+    <High>0.202363</High>
+    <Low>0.18988</Low>
+    <Close>0.191838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-11</Date>
+    <Open>0.19225</Open>
+    <High>0.192773</High>
+    <Low>0.177757</Low>
+    <Close>0.178543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-12</Date>
+    <Open>0.178536</Open>
+    <High>0.188345</High>
+    <Low>0.177744</Low>
+    <Close>0.183237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-13</Date>
+    <Open>0.184137</Open>
+    <High>0.184137</High>
+    <Low>0.162702</Low>
+    <Close>0.162803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-14</Date>
+    <Open>0.163503</Open>
+    <High>0.186711</High>
+    <Low>0.160503</Low>
+    <Close>0.171645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-15</Date>
+    <Open>0.171245</Open>
+    <High>0.178809</High>
+    <Low>0.170655</Low>
+    <Close>0.174084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-16</Date>
+    <Open>0.174993</Open>
+    <High>0.17898</High>
+    <Low>0.169492</Low>
+    <Close>0.173183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-17</Date>
+    <Open>0.173183</Open>
+    <High>0.17936</High>
+    <Low>0.171151</Low>
+    <Close>0.178039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-18</Date>
+    <Open>0.178754</Open>
+    <High>0.181371</High>
+    <Low>0.167883</Low>
+    <Close>0.167883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-19</Date>
+    <Open>0.165683</Open>
+    <High>0.171583</High>
+    <Low>0.165033</Low>
+    <Close>0.167417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-20</Date>
+    <Open>0.167233</Open>
+    <High>0.168734</High>
+    <Low>0.165417</Low>
+    <Close>0.168017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-21</Date>
+    <Open>0.167517</Open>
+    <High>0.171117</High>
+    <Low>0.1649</Low>
+    <Close>0.1672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-22</Date>
+    <Open>0.1662</Open>
+    <High>0.172017</High>
+    <Low>0.1648</Low>
+    <Close>0.171383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-23</Date>
+    <Open>0.1716</Open>
+    <High>0.1757</High>
+    <Low>0.164784</Low>
+    <Close>0.168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-24</Date>
+    <Open>0.167993</Open>
+    <High>0.170893</High>
+    <Low>0.164908</Low>
+    <Close>0.165713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-25</Date>
+    <Open>0.166011</Open>
+    <High>0.1676</High>
+    <Low>0.162516</Low>
+    <Close>0.163893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-26</Date>
+    <Open>0.162695</Open>
+    <High>0.1639</High>
+    <Low>0.1561</Low>
+    <Close>0.1561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-27</Date>
+    <Open>0.156516</Open>
+    <High>0.1645</High>
+    <Low>0.156</Low>
+    <Close>0.160484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-28</Date>
+    <Open>0.159984</Open>
+    <High>0.162</High>
+    <Low>0.156084</Low>
+    <Close>0.159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-29</Date>
+    <Open>0.159</Open>
+    <High>0.163</High>
+    <Low>0.156984</Low>
+    <Close>0.161816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-09-30</Date>
+    <Open>0.161916</Open>
+    <High>0.164316</High>
+    <Low>0.1594</Low>
+    <Close>0.1608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-01</Date>
+    <Open>0.1607</Open>
+    <High>0.173</High>
+    <Low>0.1586</Low>
+    <Close>0.1615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-02</Date>
+    <Open>0.1615</Open>
+    <High>0.1665</High>
+    <Low>0.1568</Low>
+    <Close>0.1617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-03</Date>
+    <Open>0.1618</Open>
+    <High>0.1624</High>
+    <Low>0.1582</Low>
+    <Close>0.159116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-04</Date>
+    <Open>0.158816</Open>
+    <High>0.161516</High>
+    <Low>0.157416</Low>
+    <Close>0.157947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-05</Date>
+    <Open>0.158548</Open>
+    <High>0.15938</High>
+    <Low>0.155025</Low>
+    <Close>0.157796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-06</Date>
+    <Open>0.156408</Open>
+    <High>0.158163</High>
+    <Low>0.146308</Low>
+    <Close>0.147373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-07</Date>
+    <Open>0.147124</Open>
+    <High>0.15242</High>
+    <Low>0.144813</Low>
+    <Close>0.147221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-08</Date>
+    <Open>0.146818</Open>
+    <High>0.148152</High>
+    <Low>0.145918</Low>
+    <Close>0.1481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-09</Date>
+    <Open>0.147344</Open>
+    <High>0.150399</High>
+    <Low>0.146108</Low>
+    <Close>0.147329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-10</Date>
+    <Open>0.146615</Open>
+    <High>0.150215</High>
+    <Low>0.145</Low>
+    <Close>0.1466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-11</Date>
+    <Open>0.146385</Open>
+    <High>0.147585</High>
+    <Low>0.142586</Low>
+    <Close>0.142587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-12</Date>
+    <Open>0.14268</Open>
+    <High>0.150198</High>
+    <Low>0.14268</Low>
+    <Close>0.146804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-13</Date>
+    <Open>0.146003</Open>
+    <High>0.1513</High>
+    <Low>0.14479</Low>
+    <Close>0.147313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-14</Date>
+    <Open>0.147313</Open>
+    <High>0.149806</High>
+    <Low>0.144207</Low>
+    <Close>0.145004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-15</Date>
+    <Open>0.14516</Open>
+    <High>0.146522</High>
+    <Low>0.144011</Low>
+    <Close>0.145252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-16</Date>
+    <Open>0.146406</Open>
+    <High>0.149004</High>
+    <Low>0.143604</Low>
+    <Close>0.144507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-17</Date>
+    <Open>0.145006</Open>
+    <High>0.14731</High>
+    <Low>0.139804</Low>
+    <Close>0.144003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-18</Date>
+    <Open>0.144204</Open>
+    <High>0.149015</High>
+    <Low>0.139608</Low>
+    <Close>0.140707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-19</Date>
+    <Open>0.141206</Open>
+    <High>0.145704</High>
+    <Low>0.139801</Low>
+    <Close>0.1412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-20</Date>
+    <Open>0.140701</Open>
+    <High>0.144906</High>
+    <Low>0.139989</Low>
+    <Close>0.143286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-21</Date>
+    <Open>0.144188</Open>
+    <High>0.145397</High>
+    <Low>0.141597</Low>
+    <Close>0.143511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-22</Date>
+    <Open>0.143413</Open>
+    <High>0.145304</High>
+    <Low>0.142109</Low>
+    <Close>0.143211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-23</Date>
+    <Open>0.144677</Open>
+    <High>0.147204</High>
+    <Low>0.14241</Low>
+    <Close>0.145419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-24</Date>
+    <Open>0.144712</Open>
+    <High>0.149812</High>
+    <Low>0.144712</Low>
+    <Close>0.146306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-25</Date>
+    <Open>0.147407</Open>
+    <High>0.186215</High>
+    <Low>0.14561</Low>
+    <Close>0.169659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-26</Date>
+    <Open>0.169658</Open>
+    <High>0.200254</High>
+    <Low>0.169656</Low>
+    <Close>0.188555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-27</Date>
+    <Open>0.189253</Open>
+    <High>0.202146</High>
+    <Low>0.187849</Low>
+    <Close>0.198408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-28</Date>
+    <Open>0.19761</Open>
+    <High>0.203019</High>
+    <Low>0.191419</Low>
+    <Close>0.198644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-29</Date>
+    <Open>0.199338</Open>
+    <High>0.202653</High>
+    <Low>0.194849</Low>
+    <Close>0.199746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-30</Date>
+    <Open>0.199748</Open>
+    <High>0.255977</High>
+    <Low>0.197149</Low>
+    <Close>0.227445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-10-31</Date>
+    <Open>0.226145</Open>
+    <High>0.253956</High>
+    <Low>0.2189</Low>
+    <Close>0.230079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-01</Date>
+    <Open>0.230788</Open>
+    <High>0.273064</High>
+    <Low>0.222873</Low>
+    <Close>0.253872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-02</Date>
+    <Open>0.253872</Open>
+    <High>0.28354</High>
+    <Low>0.253872</Low>
+    <Close>0.271889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-03</Date>
+    <Open>0.272284</Open>
+    <High>0.28258</High>
+    <Low>0.267773</Low>
+    <Close>0.2788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-04</Date>
+    <Open>0.2799</Open>
+    <High>0.282289</High>
+    <Low>0.270608</Low>
+    <Close>0.272222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-05</Date>
+    <Open>0.272319</Open>
+    <High>0.272527</High>
+    <Low>0.25201</Low>
+    <Close>0.256513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-06</Date>
+    <Open>0.256208</Open>
+    <High>0.256715</High>
+    <Low>0.206996</Low>
+    <Close>0.215113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-07</Date>
+    <Open>0.215117</Open>
+    <High>0.215126</High>
+    <Low>0.173021</Low>
+    <Close>0.183824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-08</Date>
+    <Open>0.183655</Open>
+    <High>0.204361</High>
+    <Low>0.174109</Low>
+    <Close>0.181342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-09</Date>
+    <Open>0.182354</Open>
+    <High>0.185695</High>
+    <Low>0.154408</Low>
+    <Close>0.155624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-10</Date>
+    <Open>0.155431</Open>
+    <High>0.191974</High>
+    <Low>0.150437</Low>
+    <Close>0.177944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-11</Date>
+    <Open>0.178851</Open>
+    <High>0.209094</High>
+    <Low>0.159268</Low>
+    <Close>0.163733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-12</Date>
+    <Open>0.163645</Open>
+    <High>0.176182</High>
+    <Low>0.16034</Low>
+    <Close>0.170093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-13</Date>
+    <Open>0.168097</Open>
+    <High>0.180129</High>
+    <Low>0.156312</Low>
+    <Close>0.169825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-14</Date>
+    <Open>0.169313</Open>
+    <High>0.172276</High>
+    <Low>0.158093</Low>
+    <Close>0.164103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-15</Date>
+    <Open>0.165963</Open>
+    <High>0.173791</High>
+    <Low>0.164053</Low>
+    <Close>0.165611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-16</Date>
+    <Open>0.168095</Open>
+    <High>0.182445</High>
+    <Low>0.166495</Low>
+    <Close>0.179237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-17</Date>
+    <Open>0.179237</Open>
+    <High>0.183104</High>
+    <Low>0.176361</Low>
+    <Close>0.18126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-18</Date>
+    <Open>0.180947</Open>
+    <High>0.187256</High>
+    <Low>0.178946</Low>
+    <Close>0.180173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-19</Date>
+    <Open>0.179208</Open>
+    <High>0.185242</High>
+    <Low>0.178964</Low>
+    <Close>0.183154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-20</Date>
+    <Open>0.183442</Open>
+    <High>0.184823</High>
+    <Low>0.176834</Low>
+    <Close>0.178358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-21</Date>
+    <Open>0.178436</Open>
+    <High>0.180531</High>
+    <Low>0.169353</Low>
+    <Close>0.170118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-22</Date>
+    <Open>0.171599</Open>
+    <High>0.176365</High>
+    <Low>0.169827</Low>
+    <Close>0.172835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-23</Date>
+    <Open>0.1733</Open>
+    <High>0.180491</High>
+    <Low>0.172762</Low>
+    <Close>0.178879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-24</Date>
+    <Open>0.178555</Open>
+    <High>0.179856</High>
+    <Low>0.174324</Low>
+    <Close>0.176158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-25</Date>
+    <Open>0.174808</Open>
+    <High>0.176824</High>
+    <Low>0.170269</Low>
+    <Close>0.171648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-26</Date>
+    <Open>0.170783</Open>
+    <High>0.174531</High>
+    <Low>0.170301</Low>
+    <Close>0.170717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-27</Date>
+    <Open>0.170874</Open>
+    <High>0.17435</High>
+    <Low>0.162743</Low>
+    <Close>0.163456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-28</Date>
+    <Open>0.163506</Open>
+    <High>0.166452</High>
+    <Low>0.15039</Low>
+    <Close>0.153774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-29</Date>
+    <Open>0.152584</Open>
+    <High>0.166047</High>
+    <Low>0.152044</Low>
+    <Close>0.161672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-11-30</Date>
+    <Open>0.161831</Open>
+    <High>0.167349</High>
+    <Low>0.160149</Low>
+    <Close>0.165364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-01</Date>
+    <Open>0.164588</Open>
+    <High>0.166889</High>
+    <Low>0.161075</Low>
+    <Close>0.162731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-02</Date>
+    <Open>0.163914</Open>
+    <High>0.165013</High>
+    <Low>0.160266</Low>
+    <Close>0.162154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-03</Date>
+    <Open>0.162404</Open>
+    <High>0.162912</High>
+    <Low>0.16035</Low>
+    <Close>0.161387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-04</Date>
+    <Open>0.161398</Open>
+    <High>0.162273</High>
+    <Low>0.157157</Low>
+    <Close>0.157173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-05</Date>
+    <Open>0.156631</Open>
+    <High>0.159548</High>
+    <Low>0.149704</Low>
+    <Close>0.149804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-06</Date>
+    <Open>0.149803</Open>
+    <High>0.157298</High>
+    <Low>0.149003</Low>
+    <Close>0.1517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-07</Date>
+    <Open>0.153555</Open>
+    <High>0.155367</High>
+    <Low>0.14904</Low>
+    <Close>0.149416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-08</Date>
+    <Open>0.149913</Open>
+    <High>0.1557</High>
+    <Low>0.149147</Low>
+    <Close>0.15023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-09</Date>
+    <Open>0.150815</Open>
+    <High>0.159997</High>
+    <Low>0.144307</Low>
+    <Close>0.144504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-10</Date>
+    <Open>0.144406</Open>
+    <High>0.153903</High>
+    <Low>0.144406</Low>
+    <Close>0.150597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-11</Date>
+    <Open>0.1506</Open>
+    <High>0.153003</High>
+    <Low>0.143997</Low>
+    <Close>0.146315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-12</Date>
+    <Open>0.146315</Open>
+    <High>0.149401</High>
+    <Low>0.14071</Low>
+    <Close>0.143011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-13</Date>
+    <Open>0.142511</Open>
+    <High>0.144013</High>
+    <Low>0.109197</Low>
+    <Close>0.115971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-14</Date>
+    <Open>0.115763</Open>
+    <High>0.128678</High>
+    <Low>0.107379</Low>
+    <Close>0.121408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-15</Date>
+    <Open>0.122912</Open>
+    <High>0.133413</High>
+    <Low>0.119112</Low>
+    <Close>0.123512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-16</Date>
+    <Open>0.124912</Open>
+    <High>0.128311</High>
+    <Low>0.105104</Low>
+    <Close>0.106057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-17</Date>
+    <Open>0.106235</Open>
+    <High>0.106513</High>
+    <Low>0.093288</Low>
+    <Close>0.09742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-18</Date>
+    <Open>0.097486</Open>
+    <High>0.09838</High>
+    <Low>0.094618</Low>
+    <Close>0.096992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-19</Date>
+    <Open>0.09667</Open>
+    <High>0.098198</High>
+    <Low>0.093605</Low>
+    <Close>0.095836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-20</Date>
+    <Open>0.095296</Open>
+    <High>0.097572</High>
+    <Low>0.092866</Low>
+    <Close>0.093834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-21</Date>
+    <Open>0.094988</Open>
+    <High>0.096399</High>
+    <Low>0.092282</Low>
+    <Close>0.094076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-22</Date>
+    <Open>0.093628</Open>
+    <High>0.095268</High>
+    <Low>0.090306</Low>
+    <Close>0.094149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-23</Date>
+    <Open>0.093561</Open>
+    <High>0.100444</High>
+    <Low>0.093146</Low>
+    <Close>0.097657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-24</Date>
+    <Open>0.09757</Open>
+    <High>0.100107</High>
+    <Low>0.093385</Low>
+    <Close>0.095718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-25</Date>
+    <Open>0.095113</Open>
+    <High>0.096112</High>
+    <Low>0.093153</Low>
+    <Close>0.093959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-26</Date>
+    <Open>0.093383</Open>
+    <High>0.095109</High>
+    <Low>0.088151</Low>
+    <Close>0.088427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-27</Date>
+    <Open>0.088153</Open>
+    <High>0.089645</High>
+    <Low>0.082776</Low>
+    <Close>0.084008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-28</Date>
+    <Open>0.08457</Open>
+    <High>0.086005</High>
+    <Low>0.082475</Low>
+    <Close>0.084754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-29</Date>
+    <Open>0.084926</Open>
+    <High>0.087002</High>
+    <Low>0.083063</Low>
+    <Close>0.085161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-30</Date>
+    <Open>0.085259</Open>
+    <High>0.0863936</High>
+    <Low>0.0840771</Low>
+    <Close>0.0856362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2022-12-31</Date>
+    <Open>0.0856363</Open>
+    <High>0.0881821</High>
+    <Low>0.0848627</Low>
+    <Close>0.0866417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-01</Date>
+    <Open>0.0869025</Open>
+    <High>0.0878511</High>
+    <Low>0.0837694</Low>
+    <Close>0.0842764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-02</Date>
+    <Open>0.084758</Open>
+    <High>0.085386</High>
+    <Low>0.0823311</Low>
+    <Close>0.0832252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-03</Date>
+    <Open>0.0828806</Open>
+    <High>0.0841633</High>
+    <Low>0.0817935</Low>
+    <Close>0.0829566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-04</Date>
+    <Open>0.0841282</Open>
+    <High>0.0873794</High>
+    <Low>0.0831909</Low>
+    <Close>0.0863545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-05</Date>
+    <Open>0.0867004</Open>
+    <High>0.0948168</High>
+    <Low>0.0859929</Low>
+    <Close>0.0948168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-06</Date>
+    <Open>0.0897686</Open>
+    <High>0.106162</High>
+    <Low>0.087871</Low>
+    <Close>0.0913708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-07</Date>
+    <Open>0.090671</Open>
+    <High>0.0935429</High>
+    <Low>0.0890681</Low>
+    <Close>0.0921799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-08</Date>
+    <Open>0.0926868</Open>
+    <High>0.092984</High>
+    <Low>0.0895506</Low>
+    <Close>0.0911023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-09</Date>
+    <Open>0.091269</Open>
+    <High>0.0939027</High>
+    <Low>0.0903419</Low>
+    <Close>0.091976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-10</Date>
+    <Open>0.092446</Open>
+    <High>0.093517</High>
+    <Low>0.0911017</Low>
+    <Close>0.0922629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-11</Date>
+    <Open>0.0924479</Open>
+    <High>0.094261</High>
+    <Low>0.091777</Low>
+    <Close>0.093864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-12</Date>
+    <Open>0.0943276</Open>
+    <High>0.0967882</High>
+    <Low>0.0935376</Low>
+    <Close>0.0957685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-13</Date>
+    <Open>0.0958047</Open>
+    <High>0.0963</High>
+    <Low>0.0929058</Low>
+    <Close>0.0933753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-14</Date>
+    <Open>0.0940035</Open>
+    <High>0.0947036</High>
+    <Low>0.089108</Low>
+    <Close>0.0892685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-15</Date>
+    <Open>0.0892659</Open>
+    <High>0.0908132</High>
+    <Low>0.087255</Low>
+    <Close>0.0874454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-16</Date>
+    <Open>0.0886137</Open>
+    <High>0.0906515</High>
+    <Low>0.0872162</Low>
+    <Close>0.0894228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-17</Date>
+    <Open>0.0894026</Open>
+    <High>0.0900381</High>
+    <Low>0.0862373</Low>
+    <Close>0.0877108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-18</Date>
+    <Open>0.0879227</Open>
+    <High>0.0886762</High>
+    <Low>0.0832</Low>
+    <Close>0.0836048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-19</Date>
+    <Open>0.0833818</Open>
+    <High>0.0852922</High>
+    <Low>0.0819851</Low>
+    <Close>0.0840596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-20</Date>
+    <Open>0.08296</Open>
+    <High>0.0849049</High>
+    <Low>0.0810578</Low>
+    <Close>0.0810578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-21</Date>
+    <Open>0.0813766</Open>
+    <High>0.0831593</High>
+    <Low>0.0805646</Low>
+    <Close>0.0815082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-22</Date>
+    <Open>0.0813855</Open>
+    <High>0.0825374</High>
+    <Low>0.0801152</Low>
+    <Close>0.0805161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-23</Date>
+    <Open>0.0808194</Open>
+    <High>0.0822379</High>
+    <Low>0.0781607</Low>
+    <Close>0.0781607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-24</Date>
+    <Open>0.0782287</Open>
+    <High>0.0798918</High>
+    <Low>0.075326</Low>
+    <Close>0.0775151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-25</Date>
+    <Open>0.077277</Open>
+    <High>0.0789744</High>
+    <Low>0.0733937</Low>
+    <Close>0.0737345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-26</Date>
+    <Open>0.0733832</Open>
+    <High>0.0760953</High>
+    <Low>0.0731334</Low>
+    <Close>0.0752983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-27</Date>
+    <Open>0.0742789</Open>
+    <High>0.0838818</High>
+    <Low>0.0742789</Low>
+    <Close>0.0811178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-28</Date>
+    <Open>0.0809257</Open>
+    <High>0.0832785</High>
+    <Low>0.079924</Low>
+    <Close>0.0816155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-29</Date>
+    <Open>0.081918</Open>
+    <High>0.0824231</High>
+    <Low>0.0794477</Low>
+    <Close>0.080028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-30</Date>
+    <Open>0.0801556</Open>
+    <High>0.0803058</High>
+    <Low>0.0742047</Low>
+    <Close>0.0745057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-01-31</Date>
+    <Open>0.0738859</Open>
+    <High>0.0763866</High>
+    <Low>0.0735426</Low>
+    <Close>0.0758536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-01</Date>
+    <Open>0.0764333</Open>
+    <High>0.0787018</High>
+    <Low>0.0742435</Low>
+    <Close>0.0777884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-02</Date>
+    <Open>0.0784909</Open>
+    <High>0.0785209</High>
+    <Low>0.0756257</Low>
+    <Close>0.0765285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-03</Date>
+    <Open>0.0760802</Open>
+    <High>0.0773227</High>
+    <Low>0.0730073</Low>
+    <Close>0.0749967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-04</Date>
+    <Open>0.0750568</Open>
+    <High>0.0760376</High>
+    <Low>0.0742067</Low>
+    <Close>0.0756746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-05</Date>
+    <Open>0.0746857</Open>
+    <High>0.0759334</High>
+    <Low>0.0742064</Low>
+    <Close>0.0750047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-06</Date>
+    <Open>0.0752996</Open>
+    <High>0.0777068</High>
+    <Low>0.0744634</Low>
+    <Close>0.0769803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-07</Date>
+    <Open>0.0763173</Open>
+    <High>0.0784984</High>
+    <Low>0.074359</Low>
+    <Close>0.075703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-08</Date>
+    <Open>0.0761</Open>
+    <High>0.0783063</High>
+    <Low>0.0758023</Low>
+    <Close>0.0770614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-09</Date>
+    <Open>0.077325</Open>
+    <High>0.0776008</High>
+    <Low>0.0742148</Low>
+    <Close>0.0743634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-10</Date>
+    <Open>0.074749</Open>
+    <High>0.0759122</High>
+    <Low>0.0740099</Low>
+    <Close>0.0750185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-11</Date>
+    <Open>0.0754621</Open>
+    <High>0.0763889</High>
+    <Low>0.0752053</Low>
+    <Close>0.0760076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-12</Date>
+    <Open>0.0769369</Open>
+    <High>0.0774308</High>
+    <Low>0.0758091</Low>
+    <Close>0.0761043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-13</Date>
+    <Open>0.0761269</Open>
+    <High>0.0772378</High>
+    <Low>0.0743283</Low>
+    <Close>0.0750688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-14</Date>
+    <Open>0.075083</Open>
+    <High>0.0766291</High>
+    <Low>0.0746291</Low>
+    <Close>0.0749285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-15</Date>
+    <Open>0.0749315</Open>
+    <High>0.07701</High>
+    <Low>0.074609</Low>
+    <Close>0.0754136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-16</Date>
+    <Open>0.0755121</Open>
+    <High>0.0780133</High>
+    <Low>0.0752128</Low>
+    <Close>0.0765314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-17</Date>
+    <Open>0.0746264</Open>
+    <High>0.0760607</High>
+    <Low>0.0742392</Low>
+    <Close>0.0758578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-18</Date>
+    <Open>0.0759846</Open>
+    <High>0.0766428</High>
+    <Low>0.0749135</Low>
+    <Close>0.0753128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-19</Date>
+    <Open>0.0756406</Open>
+    <High>0.0761607</High>
+    <Low>0.0742186</Low>
+    <Close>0.0743986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-20</Date>
+    <Open>0.0749165</Open>
+    <High>0.0755666</High>
+    <Low>0.0745006</Low>
+    <Close>0.0753208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-21</Date>
+    <Open>0.0750168</Open>
+    <High>0.0777921</High>
+    <Low>0.0749115</Low>
+    <Close>0.0755759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-22</Date>
+    <Open>0.0755683</Open>
+    <High>0.0772187</High>
+    <Low>0.0741774</Low>
+    <Close>0.0744842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-23</Date>
+    <Open>0.0747805</Open>
+    <High>0.0923892</High>
+    <Low>0.074601</Low>
+    <Close>0.0788147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-24</Date>
+    <Open>0.0790319</Open>
+    <High>0.0829057</High>
+    <Low>0.0755691</Low>
+    <Close>0.0787592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-25</Date>
+    <Open>0.077154</Open>
+    <High>0.0790843</High>
+    <Low>0.074058</Low>
+    <Close>0.0753193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-26</Date>
+    <Open>0.0749482</Open>
+    <High>0.0764389</High>
+    <Low>0.0742124</Low>
+    <Close>0.0759916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-27</Date>
+    <Open>0.0755833</Open>
+    <High>0.076392</High>
+    <Low>0.0709448</Low>
+    <Close>0.0712811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-02-28</Date>
+    <Open>0.0711963</Open>
+    <High>0.0760818</High>
+    <Low>0.0710093</Low>
+    <Close>0.0749837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-01</Date>
+    <Open>0.0742056</Open>
+    <High>0.0759349</High>
+    <Low>0.072938</Low>
+    <Close>0.0734448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-02</Date>
+    <Open>0.0746284</Open>
+    <High>0.0746867</High>
+    <Low>0.0712936</Low>
+    <Close>0.0716064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-03</Date>
+    <Open>0.0711007</Open>
+    <High>0.0730168</High>
+    <Low>0.0708149</Low>
+    <Close>0.0728044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-04</Date>
+    <Open>0.0721798</Open>
+    <High>0.0753388</High>
+    <Low>0.0721798</Low>
+    <Close>0.0750853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-05</Date>
+    <Open>0.074594</Open>
+    <High>0.0755033</High>
+    <Low>0.0739796</Low>
+    <Close>0.075339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-06</Date>
+    <Open>0.07538</Open>
+    <High>0.0753838</High>
+    <Low>0.0727558</Low>
+    <Close>0.0737876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-07</Date>
+    <Open>0.0741138</Open>
+    <High>0.0742475</High>
+    <Low>0.0713029</Low>
+    <Close>0.0713964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-08</Date>
+    <Open>0.0715993</Open>
+    <High>0.0722749</High>
+    <Low>0.0672336</Low>
+    <Close>0.0673083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-09</Date>
+    <Open>0.0675</Open>
+    <High>0.0683938</High>
+    <Low>0.0637096</Low>
+    <Close>0.0654075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-10</Date>
+    <Open>0.0650228</Open>
+    <High>0.066667</High>
+    <Low>0.0624681</Low>
+    <Close>0.0656761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-11</Date>
+    <Open>0.0662031</Open>
+    <High>0.0665537</High>
+    <Low>0.0637734</Low>
+    <Close>0.064366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-12</Date>
+    <Open>0.0649894</Open>
+    <High>0.0666352</High>
+    <Low>0.0639142</Low>
+    <Close>0.0661392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-13</Date>
+    <Open>0.0666476</Open>
+    <High>0.0684164</High>
+    <Low>0.0644216</Low>
+    <Close>0.0671609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-14</Date>
+    <Open>0.0667965</Open>
+    <High>0.0734869</High>
+    <Low>0.0652164</Low>
+    <Close>0.0699269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-15</Date>
+    <Open>0.0700291</Open>
+    <High>0.0752399</High>
+    <Low>0.0693017</Low>
+    <Close>0.0723971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-16</Date>
+    <Open>0.0725534</Open>
+    <High>0.0739987</High>
+    <Low>0.0718161</Low>
+    <Close>0.0734201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-17</Date>
+    <Open>0.0740112</Open>
+    <High>0.0745429</High>
+    <Low>0.0718785</Low>
+    <Close>0.0730184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-18</Date>
+    <Open>0.0728178</Open>
+    <High>0.0728752</High>
+    <Low>0.0716021</Low>
+    <Close>0.0723358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-19</Date>
+    <Open>0.0724861</Open>
+    <High>0.0737471</High>
+    <Low>0.0710138</Low>
+    <Close>0.0711435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-20</Date>
+    <Open>0.0710926</Open>
+    <High>0.0738496</High>
+    <Low>0.068079</Low>
+    <Close>0.0700842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-21</Date>
+    <Open>0.0700362</Open>
+    <High>0.0722061</High>
+    <Low>0.0689303</Low>
+    <Close>0.0710178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-22</Date>
+    <Open>0.070845</Open>
+    <High>0.0743408</High>
+    <Low>0.0703745</Low>
+    <Close>0.0725658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-23</Date>
+    <Open>0.0727982</Open>
+    <High>0.0730004</High>
+    <Low>0.0723441</Low>
+    <Close>0.0727554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-24</Date>
+    <Open>0.0728238</Open>
+    <High>0.0746073</High>
+    <Low>0.0726782</Low>
+    <Close>0.0739887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-25</Date>
+    <Open>0.073689</Open>
+    <High>0.0744893</High>
+    <Low>0.0728973</Low>
+    <Close>0.0743713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-26</Date>
+    <Open>0.0742742</Open>
+    <High>0.0753678</High>
+    <Low>0.0735654</Low>
+    <Close>0.0736832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-27</Date>
+    <Open>0.0743617</Open>
+    <High>0.0766375</High>
+    <Low>0.0720266</Low>
+    <Close>0.0726348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-28</Date>
+    <Open>0.0726348</Open>
+    <High>0.0758205</High>
+    <Low>0.0726348</Low>
+    <Close>0.0755317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-29</Date>
+    <Open>0.0754294</Open>
+    <High>0.0869209</High>
+    <Low>0.0754287</Low>
+    <Close>0.0847042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-30</Date>
+    <Open>0.0847254</Open>
+    <High>0.0864035</High>
+    <Low>0.0765054</Low>
+    <Close>0.0805225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-03-31</Date>
+    <Open>0.0807226</Open>
+    <High>0.0840185</High>
+    <Low>0.0770146</Low>
+    <Close>0.0795159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-01</Date>
+    <Open>0.0794238</Open>
+    <High>0.0834309</High>
+    <Low>0.079223</Low>
+    <Close>0.0830307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-02</Date>
+    <Open>0.0833342</Open>
+    <High>0.084058</High>
+    <Low>0.0817335</Low>
+    <Close>0.0828513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-03</Date>
+    <Open>0.0836518</Open>
+    <High>0.083852</High>
+    <Low>0.0819287</Low>
+    <Close>0.0823305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-04</Date>
+    <Open>0.0821353</Open>
+    <High>0.0854342</High>
+    <Low>0.0821353</Low>
+    <Close>0.0828414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-05</Date>
+    <Open>0.0831415</Open>
+    <High>0.0875271</High>
+    <Low>0.0829274</Low>
+    <Close>0.0855308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-06</Date>
+    <Open>0.0850187</Open>
+    <High>0.0891419</High>
+    <Low>0.0842168</Low>
+    <Close>0.0883309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-07</Date>
+    <Open>0.0884318</Open>
+    <High>0.0921626</High>
+    <Low>0.0882423</Low>
+    <Close>0.0911774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-08</Date>
+    <Open>0.0911674</Open>
+    <High>0.0913685</High>
+    <Low>0.0867347</Low>
+    <Close>0.0898359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-09</Date>
+    <Open>0.0898458</Open>
+    <High>0.0930558</High>
+    <Low>0.0896457</Low>
+    <Close>0.0915549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-10</Date>
+    <Open>0.0916559</Open>
+    <High>0.0932466</High>
+    <Low>0.0911592</Low>
+    <Close>0.0924711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-11</Date>
+    <Open>0.0925712</Open>
+    <High>0.093977</High>
+    <Low>0.0901811</Low>
+    <Close>0.0911893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-12</Date>
+    <Open>0.0910901</Open>
+    <High>0.094094</High>
+    <Low>0.0902884</Low>
+    <Close>0.0920718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-13</Date>
+    <Open>0.0924721</Open>
+    <High>0.0949024</High>
+    <Low>0.0921746</Low>
+    <Close>0.0938938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-14</Date>
+    <Open>0.0942904</Open>
+    <High>0.0967909</High>
+    <Low>0.094094</Low>
+    <Close>0.0967909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-15</Date>
+    <Open>0.0968794</Open>
+    <High>0.0970941</High>
+    <Low>0.0959959</Low>
+    <Close>0.0965868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-16</Date>
+    <Open>0.0967861</Open>
+    <High>0.0970786</High>
+    <Low>0.0945661</Low>
+    <Close>0.0945661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-17</Date>
+    <Open>0.0947634</Open>
+    <High>0.0964762</High>
+    <Low>0.0937543</Low>
+    <Close>0.0938413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-18</Date>
+    <Open>0.0939639</Open>
+    <High>0.0964251</High>
+    <Low>0.0935421</Low>
+    <Close>0.0960182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-19</Date>
+    <Open>0.0957239</Open>
+    <High>0.0965647</High>
+    <Low>0.0942471</Low>
+    <Close>0.094552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-20</Date>
+    <Open>0.0953267</Open>
+    <High>0.0972136</High>
+    <Low>0.0943405</Low>
+    <Close>0.0972087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-21</Date>
+    <Open>0.0970508</Open>
+    <High>0.099961</High>
+    <Low>0.0965135</Low>
+    <Close>0.099605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-22</Date>
+    <Open>0.0992991</Open>
+    <High>0.104318</High>
+    <Low>0.0992981</Low>
+    <Close>0.10081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-23</Date>
+    <Open>0.100709</Open>
+    <High>0.103231</High>
+    <Low>0.100609</Low>
+    <Close>0.102505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-24</Date>
+    <Open>0.102401</Open>
+    <High>0.102903</High>
+    <Low>0.101106</Low>
+    <Close>0.102903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-25</Date>
+    <Open>0.103103</Open>
+    <High>0.1058</High>
+    <Low>0.101299</Low>
+    <Close>0.102624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-26</Date>
+    <Open>0.102729</Open>
+    <High>0.104718</High>
+    <Low>0.101922</Low>
+    <Close>0.102735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-27</Date>
+    <Open>0.102533</Open>
+    <High>0.103832</High>
+    <Low>0.102236</Low>
+    <Close>0.103339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-28</Date>
+    <Open>0.103332</Open>
+    <High>0.103747</High>
+    <Low>0.102336</Low>
+    <Close>0.103481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-29</Date>
+    <Open>0.103476</Open>
+    <High>0.104271</High>
+    <Low>0.10318</Low>
+    <Close>0.103661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-04-30</Date>
+    <Open>0.103661</Open>
+    <High>0.103865</High>
+    <Low>0.102145</Low>
+    <Close>0.102458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-01</Date>
+    <Open>0.102655</Open>
+    <High>0.102657</High>
+    <Low>0.099993</Low>
+    <Close>0.100227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-02</Date>
+    <Open>0.100826</Open>
+    <High>0.10177</High>
+    <Low>0.095319</Low>
+    <Close>0.101362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-03</Date>
+    <Open>0.101262</Open>
+    <High>0.103229</High>
+    <Low>0.0989356</Low>
+    <Close>0.103028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-04</Date>
+    <Open>0.10323</Open>
+    <High>0.104242</High>
+    <Low>0.101129</Low>
+    <Close>0.102737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-05</Date>
+    <Open>0.102838</Open>
+    <High>0.104283</High>
+    <Low>0.101558</Low>
+    <Close>0.102949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-06</Date>
+    <Open>0.104139</Open>
+    <High>0.10514</High>
+    <Low>0.10253</Low>
+    <Close>0.104778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-07</Date>
+    <Open>0.104767</Open>
+    <High>0.104968</High>
+    <Low>0.101843</Low>
+    <Close>0.102539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-08</Date>
+    <Open>0.102157</Open>
+    <High>0.102388</High>
+    <Low>0.099366</Low>
+    <Close>0.100663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-09</Date>
+    <Open>0.100959</Open>
+    <High>0.100959</High>
+    <Low>0.093915</Low>
+    <Close>0.096106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-10</Date>
+    <Open>0.095879</Open>
+    <High>0.097692</High>
+    <Low>0.094747</Low>
+    <Close>0.095464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-11</Date>
+    <Open>0.09556</Open>
+    <High>0.095746</High>
+    <Low>0.090069</Low>
+    <Close>0.090633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-12</Date>
+    <Open>0.090742</Open>
+    <High>0.090854</High>
+    <Low>0.083744</Low>
+    <Close>0.087943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-13</Date>
+    <Open>0.087888</Open>
+    <High>0.093113</High>
+    <Low>0.087155</Low>
+    <Close>0.091656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-14</Date>
+    <Open>0.091677</Open>
+    <High>0.095668</High>
+    <Low>0.091375</Low>
+    <Close>0.095425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-15</Date>
+    <Open>0.095168</Open>
+    <High>0.096064</High>
+    <Low>0.092365</Low>
+    <Close>0.095779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-16</Date>
+    <Open>0.095914</Open>
+    <High>0.0982203</High>
+    <Low>0.0939894</Low>
+    <Close>0.0963612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-17</Date>
+    <Open>0.0962155</Open>
+    <High>0.0985152</High>
+    <Low>0.0953146</Low>
+    <Close>0.0964606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-18</Date>
+    <Open>0.0967624</Open>
+    <High>0.100494</High>
+    <Low>0.0953881</Low>
+    <Close>0.0977741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-19</Date>
+    <Open>0.0970641</Open>
+    <High>0.0985843</High>
+    <Low>0.0962923</Low>
+    <Close>0.0974793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-20</Date>
+    <Open>0.0972299</Open>
+    <High>0.10132</High>
+    <Low>0.0968347</Low>
+    <Close>0.100962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-21</Date>
+    <Open>0.097397</Open>
+    <High>0.10075</High>
+    <Low>0.095967</Low>
+    <Close>0.097558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-22</Date>
+    <Open>0.097759</Open>
+    <High>0.102058</High>
+    <Low>0.096348</Low>
+    <Close>0.100814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-23</Date>
+    <Open>0.101011</Open>
+    <High>0.101211</High>
+    <Low>0.098674</Low>
+    <Close>0.099993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-24</Date>
+    <Open>0.096308</Open>
+    <High>0.096905</High>
+    <Low>0.095613</Low>
+    <Close>0.096196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-25</Date>
+    <Open>0.098091</Open>
+    <High>0.098091</High>
+    <Low>0.093892</Low>
+    <Close>0.094202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-26</Date>
+    <Open>0.094402</Open>
+    <High>0.097213</High>
+    <Low>0.09411</Low>
+    <Close>0.095622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-27</Date>
+    <Open>0.095619</Open>
+    <High>0.100545</High>
+    <Low>0.095428</Low>
+    <Close>0.100313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ABBC">
+    <Date>2023-05-28</Date>
+    <Open>0.099919</Open>
+    <High>0.101218</High>
+    <Low>0.095928</Low>
+    <Close>0.096322</Close>
+  </Cryptocurrency>
+</Root>

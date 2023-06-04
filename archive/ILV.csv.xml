@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-14</Date>
+    <Open>309.613</Open>
+    <High>311.23</High>
+    <Low>289.42</Low>
+    <Close>305.301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-15</Date>
+    <Open>304.902</Open>
+    <High>321.064</High>
+    <Low>298.791</Low>
+    <Close>319.576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-16</Date>
+    <Open>319.836</Open>
+    <High>324.068</High>
+    <Low>294.606</Low>
+    <Close>303.405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-17</Date>
+    <Open>303.485</Open>
+    <High>316.741</High>
+    <Low>296.624</Low>
+    <Close>308.809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-18</Date>
+    <Open>308.748</Open>
+    <High>313.372</High>
+    <Low>284.56</Low>
+    <Close>289.703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-19</Date>
+    <Open>288.965</Open>
+    <High>302.057</High>
+    <Low>278.687</Low>
+    <Close>296.273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-20</Date>
+    <Open>296.683</Open>
+    <High>305.216</High>
+    <Low>284.538</Low>
+    <Close>290.201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-21</Date>
+    <Open>290.831</Open>
+    <High>295.805</High>
+    <Low>286.016</Low>
+    <Close>291.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-22</Date>
+    <Open>292.2</Open>
+    <High>304.104</High>
+    <Low>290.781</Low>
+    <Close>297.353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-23</Date>
+    <Open>297.083</Open>
+    <High>310.0</High>
+    <Low>292.778</Low>
+    <Close>295.565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-24</Date>
+    <Open>295.685</Open>
+    <High>297.403</High>
+    <Low>284.087</Low>
+    <Close>293.867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-25</Date>
+    <Open>294.437</Open>
+    <High>301.488</High>
+    <Low>286.834</Low>
+    <Close>293.188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-26</Date>
+    <Open>293.198</Open>
+    <High>294.885</High>
+    <Low>260.917</Low>
+    <Close>274.166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-27</Date>
+    <Open>273.489</Open>
+    <High>274.765</High>
+    <Low>252.802</Low>
+    <Close>258.771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-28</Date>
+    <Open>257.952</Open>
+    <High>270.676</High>
+    <Low>254.104</Low>
+    <Close>268.595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-29</Date>
+    <Open>268.651</Open>
+    <High>274.971</High>
+    <Low>262.505</Low>
+    <Close>270.579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-30</Date>
+    <Open>271.009</Open>
+    <High>311.002</High>
+    <Low>269.716</Low>
+    <Close>308.864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-05-31</Date>
+    <Open>309.723</Open>
+    <High>316.425</High>
+    <Low>297.792</Low>
+    <Close>301.459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-01</Date>
+    <Open>301.087</Open>
+    <High>308.462</High>
+    <Low>276.376</Low>
+    <Close>279.868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-02</Date>
+    <Open>279.839</Open>
+    <High>290.339</High>
+    <Low>271.336</Low>
+    <Close>279.688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-03</Date>
+    <Open>280.297</Open>
+    <High>283.465</High>
+    <Low>264.941</Low>
+    <Close>271.524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-04</Date>
+    <Open>271.544</Open>
+    <High>273.284</High>
+    <Low>264.255</Low>
+    <Close>272.695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-05</Date>
+    <Open>272.198</Open>
+    <High>280.27</High>
+    <Low>269.077</Low>
+    <Close>275.741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-06</Date>
+    <Open>275.94</Open>
+    <High>318.226</High>
+    <Low>273.942</Low>
+    <Close>284.261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-07</Date>
+    <Open>284.361</Open>
+    <High>287.558</High>
+    <Low>262.782</Low>
+    <Close>281.774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-08</Date>
+    <Open>281.774</Open>
+    <High>282.988</High>
+    <Low>269.203</Low>
+    <Close>273.922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-09</Date>
+    <Open>274.721</Open>
+    <High>275.36</High>
+    <Low>267.57</Low>
+    <Close>269.374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-10</Date>
+    <Open>269.071</Open>
+    <High>271.172</High>
+    <Low>248.938</Low>
+    <Close>251.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-11</Date>
+    <Open>251.877</Open>
+    <High>255.916</High>
+    <Low>224.623</Low>
+    <Close>232.737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-12</Date>
+    <Open>232.537</Open>
+    <High>233.835</High>
+    <Low>213.499</Low>
+    <Close>223.223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-13</Date>
+    <Open>222.923</Open>
+    <High>222.923</High>
+    <Low>174.596</Low>
+    <Close>180.948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-14</Date>
+    <Open>181.248</Open>
+    <High>186.258</High>
+    <Low>161.565</Low>
+    <Close>172.792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-15</Date>
+    <Open>172.892</Open>
+    <High>183.824</High>
+    <Low>152.026</Low>
+    <Close>182.825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-16</Date>
+    <Open>183.025</Open>
+    <High>185.159</High>
+    <Low>160.407</Low>
+    <Close>162.089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-17</Date>
+    <Open>157.381</Open>
+    <High>165.624</High>
+    <Low>155.482</Low>
+    <Close>160.009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-18</Date>
+    <Open>160.008</Open>
+    <High>164.306</High>
+    <Low>132.974</Low>
+    <Close>140.572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-19</Date>
+    <Open>139.973</Open>
+    <High>202.956</High>
+    <Low>138.6</Low>
+    <Close>166.583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-20</Date>
+    <Open>166.483</Open>
+    <High>171.594</High>
+    <Low>155.598</Low>
+    <Close>160.723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-21</Date>
+    <Open>160.707</Open>
+    <High>176.341</High>
+    <Low>159.508</Low>
+    <Close>166.816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-22</Date>
+    <Open>166.034</Open>
+    <High>168.531</High>
+    <Low>154.43</Low>
+    <Close>156.044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-23</Date>
+    <Open>156.244</Open>
+    <High>166.733</High>
+    <Low>154.146</Low>
+    <Close>164.935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-24</Date>
+    <Open>165.018</Open>
+    <High>184.145</High>
+    <Low>164.935</Low>
+    <Close>180.459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-25</Date>
+    <Open>180.32</Open>
+    <High>184.275</High>
+    <Low>173.284</Low>
+    <Close>184.071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-26</Date>
+    <Open>184.067</Open>
+    <High>189.571</High>
+    <Low>177.593</Low>
+    <Close>182.087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-27</Date>
+    <Open>181.691</Open>
+    <High>185.081</High>
+    <Low>172.14</Low>
+    <Close>175.943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-28</Date>
+    <Open>175.137</Open>
+    <High>180.797</High>
+    <Low>167.532</Low>
+    <Close>169.741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-29</Date>
+    <Open>169.699</Open>
+    <High>170.55</High>
+    <Low>158.777</Low>
+    <Close>161.205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-06-30</Date>
+    <Open>161.206</Open>
+    <High>161.706</High>
+    <Low>134.638</Low>
+    <Close>135.937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-01</Date>
+    <Open>135.437</Open>
+    <High>144.341</High>
+    <Low>120.855</Low>
+    <Close>122.965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-02</Date>
+    <Open>122.965</Open>
+    <High>122.965</High>
+    <Low>114.251</Low>
+    <Close>115.162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-03</Date>
+    <Open>115.261</Open>
+    <High>115.861</High>
+    <Low>108.248</Low>
+    <Close>112.853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-04</Date>
+    <Open>112.653</Open>
+    <High>115.861</High>
+    <Low>107.76</Low>
+    <Close>115.861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-05</Date>
+    <Open>115.461</Open>
+    <High>118.158</High>
+    <Low>108.769</Low>
+    <Close>116.132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-06</Date>
+    <Open>115.793</Open>
+    <High>117.62</High>
+    <Low>111.467</Low>
+    <Close>116.921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-07</Date>
+    <Open>116.392</Open>
+    <High>122.126</High>
+    <Low>115.303</Low>
+    <Close>120.408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-08</Date>
+    <Open>120.458</Open>
+    <High>122.902</High>
+    <Low>113.352</Low>
+    <Close>116.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-09</Date>
+    <Open>116.75</Open>
+    <High>117.979</High>
+    <Low>113.352</Low>
+    <Close>116.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-10</Date>
+    <Open>115.979</Open>
+    <High>116.42</High>
+    <Low>107.565</Low>
+    <Close>109.954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-11</Date>
+    <Open>109.414</Open>
+    <High>109.594</High>
+    <Low>102.728</Low>
+    <Close>102.728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-12</Date>
+    <Open>103.278</Open>
+    <High>104.316</High>
+    <Low>91.2995</Low>
+    <Close>92.5973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-13</Date>
+    <Open>92.8108</Open>
+    <High>97.2329</High>
+    <Low>87.7422</Low>
+    <Close>94.315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-14</Date>
+    <Open>94.6747</Open>
+    <High>104.337</High>
+    <Low>92.5659</Low>
+    <Close>101.369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-15</Date>
+    <Open>101.679</Open>
+    <High>107.506</High>
+    <Low>100.689</Low>
+    <Close>106.128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-16</Date>
+    <Open>106.468</Open>
+    <High>154.269</High>
+    <Low>98.6004</Low>
+    <Close>117.876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-17</Date>
+    <Open>118.176</Open>
+    <High>121.274</High>
+    <Low>110.791</Low>
+    <Close>113.571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-18</Date>
+    <Open>113.77</Open>
+    <High>125.591</High>
+    <Low>111.263</Low>
+    <Close>122.172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-19</Date>
+    <Open>122.063</Open>
+    <High>133.3</High>
+    <Low>121.166</Low>
+    <Close>130.621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-20</Date>
+    <Open>130.7</Open>
+    <High>137.041</High>
+    <Low>123.6</Low>
+    <Close>128.906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-21</Date>
+    <Open>128.915</Open>
+    <High>129.626</High>
+    <Low>117.412</Low>
+    <Close>128.931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-22</Date>
+    <Open>128.931</Open>
+    <High>130.535</High>
+    <Low>118.022</Low>
+    <Close>119.926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-23</Date>
+    <Open>119.9</Open>
+    <High>123.007</High>
+    <Low>113.231</Low>
+    <Close>115.192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-24</Date>
+    <Open>114.742</Open>
+    <High>120.685</High>
+    <Low>114.622</Low>
+    <Close>119.203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-25</Date>
+    <Open>118.604</Open>
+    <High>120.764</High>
+    <Low>105.272</Low>
+    <Close>108.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-26</Date>
+    <Open>109.22</Open>
+    <High>109.29</High>
+    <Low>92.7644</Low>
+    <Close>100.285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-27</Date>
+    <Open>100.254</Open>
+    <High>115.73</High>
+    <Low>99.734</Low>
+    <Close>114.418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-28</Date>
+    <Open>114.408</Open>
+    <High>121.158</High>
+    <Low>110.141</Low>
+    <Close>118.464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-29</Date>
+    <Open>118.714</Open>
+    <High>124.317</High>
+    <Low>114.777</Low>
+    <Close>120.369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-30</Date>
+    <Open>120.88</Open>
+    <High>123.213</High>
+    <Low>117.246</Low>
+    <Close>117.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-07-31</Date>
+    <Open>118.492</Open>
+    <High>129.985</High>
+    <Low>116.085</Low>
+    <Close>119.147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-01</Date>
+    <Open>119.348</Open>
+    <High>119.841</High>
+    <Low>113.624</Low>
+    <Close>114.364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-02</Date>
+    <Open>114.332</Open>
+    <High>116.826</High>
+    <Low>108.24</Low>
+    <Close>115.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-03</Date>
+    <Open>115.383</Open>
+    <High>117.569</High>
+    <Low>110.658</Low>
+    <Close>114.479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-04</Date>
+    <Open>114.676</Open>
+    <High>115.914</High>
+    <Low>109.305</Low>
+    <Close>109.863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-05</Date>
+    <Open>109.953</Open>
+    <High>117.362</High>
+    <Low>109.345</Low>
+    <Close>115.052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-06</Date>
+    <Open>115.052</Open>
+    <High>117.776</High>
+    <Low>112.669</Low>
+    <Close>113.776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-07</Date>
+    <Open>114.125</Open>
+    <High>114.316</High>
+    <Low>111.019</Low>
+    <Close>113.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-08</Date>
+    <Open>113.532</Open>
+    <High>116.472</High>
+    <Low>111.503</Low>
+    <Close>112.633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-09</Date>
+    <Open>112.894</Open>
+    <High>113.774</High>
+    <Low>103.147</Low>
+    <Close>105.851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-10</Date>
+    <Open>105.851</Open>
+    <High>115.187</High>
+    <Low>102.755</Low>
+    <Close>114.413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-11</Date>
+    <Open>114.083</Open>
+    <High>128.164</High>
+    <Low>113.143</Low>
+    <Close>117.265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-12</Date>
+    <Open>117.655</Open>
+    <High>120.194</High>
+    <Low>115.246</Low>
+    <Close>118.865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-13</Date>
+    <Open>119.355</Open>
+    <High>122.358</High>
+    <Low>115.569</Low>
+    <Close>117.576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-14</Date>
+    <Open>117.576</Open>
+    <High>120.416</High>
+    <Low>112.607</Low>
+    <Close>113.375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-15</Date>
+    <Open>113.424</Open>
+    <High>117.092</High>
+    <Low>106.331</Low>
+    <Close>109.216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-16</Date>
+    <Open>109.477</Open>
+    <High>110.664</High>
+    <Low>104.994</Low>
+    <Close>106.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-17</Date>
+    <Open>106.199</Open>
+    <High>110.584</High>
+    <Low>102.217</Low>
+    <Close>103.267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-18</Date>
+    <Open>103.708</Open>
+    <High>106.056</High>
+    <Low>102.278</Low>
+    <Close>104.811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-19</Date>
+    <Open>104.821</Open>
+    <High>105.551</High>
+    <Low>91.4091</Low>
+    <Close>92.0092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-20</Date>
+    <Open>91.9992</Open>
+    <High>99.638</High>
+    <Low>87.773</Low>
+    <Close>90.4682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-21</Date>
+    <Open>90.27</Open>
+    <High>93.7719</High>
+    <Low>89.4966</Low>
+    <Close>92.5781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-22</Date>
+    <Open>92.4981</Open>
+    <High>93.1565</High>
+    <Low>87.3348</Low>
+    <Close>88.4841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-23</Date>
+    <Open>88.654</Open>
+    <High>92.0025</High>
+    <Low>87.43</Low>
+    <Close>90.7218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-24</Date>
+    <Open>90.7109</Open>
+    <High>92.1174</High>
+    <Low>87.8674</Low>
+    <Close>90.9373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-25</Date>
+    <Open>90.6182</Open>
+    <High>93.8491</High>
+    <Low>89.5354</Low>
+    <Close>91.7228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-26</Date>
+    <Open>91.6928</Open>
+    <High>92.1318</High>
+    <Low>82.4784</Low>
+    <Close>83.2483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-27</Date>
+    <Open>83.2483</Open>
+    <High>83.5667</High>
+    <Low>76.023</Low>
+    <Close>77.2123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-28</Date>
+    <Open>77.0315</Open>
+    <High>78.9447</High>
+    <Low>76.1108</Low>
+    <Close>77.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-29</Date>
+    <Open>77.28</Open>
+    <High>79.6524</High>
+    <Low>73.5226</Low>
+    <Close>78.9655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-30</Date>
+    <Open>79.2963</Open>
+    <High>81.5684</High>
+    <Low>75.2145</Low>
+    <Close>78.027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-08-31</Date>
+    <Open>77.7562</Open>
+    <High>81.0408</High>
+    <Low>76.7992</Low>
+    <Close>79.1892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-01</Date>
+    <Open>79.2984</Open>
+    <High>86.29</High>
+    <Low>75.6055</Low>
+    <Close>78.9253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-02</Date>
+    <Open>78.7853</Open>
+    <High>80.0388</High>
+    <Low>75.2253</Low>
+    <Close>76.6815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-03</Date>
+    <Open>76.7423</Open>
+    <High>83.74</High>
+    <Low>74.38</Low>
+    <Close>75.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-04</Date>
+    <Open>74.8</Open>
+    <High>76.1</High>
+    <Low>74.0</Low>
+    <Close>75.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-05</Date>
+    <Open>75.04</Open>
+    <High>77.1</High>
+    <Low>73.52</Low>
+    <Close>74.9775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-06</Date>
+    <Open>75.0375</Open>
+    <High>78.9679</High>
+    <Low>72.7</Low>
+    <Close>74.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-07</Date>
+    <Open>73.6044</Open>
+    <High>75.1083</High>
+    <Low>68.9035</Low>
+    <Close>74.3052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-08</Date>
+    <Open>74.6052</Open>
+    <High>75.6136</High>
+    <Low>72.1014</Low>
+    <Close>75.3113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-09</Date>
+    <Open>75.3</Open>
+    <High>81.2122</High>
+    <Low>74.4082</Low>
+    <Close>78.8268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-10</Date>
+    <Open>78.8292</Open>
+    <High>80.3737</High>
+    <Low>77.3725</Low>
+    <Close>79.9552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-11</Date>
+    <Open>80.0152</Open>
+    <High>80.8751</High>
+    <Low>76.069</Low>
+    <Close>76.2983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-12</Date>
+    <Open>76.3883</Open>
+    <High>78.5726</High>
+    <Low>74.0741</Low>
+    <Close>75.7652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-13</Date>
+    <Open>75.7527</Open>
+    <High>77.3855</High>
+    <Low>69.5814</Low>
+    <Close>70.6414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-14</Date>
+    <Open>70.3707</Open>
+    <High>71.7779</High>
+    <Low>68.6628</Low>
+    <Close>71.7694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-15</Date>
+    <Open>71.3185</Open>
+    <High>74.7322</High>
+    <Low>64.917</Low>
+    <Close>66.894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-16</Date>
+    <Open>66.6953</Open>
+    <High>67.0953</High>
+    <Low>63.4809</Low>
+    <Close>64.2936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-17</Date>
+    <Open>64.3936</Open>
+    <High>65.0</High>
+    <Low>62.8</Low>
+    <Close>63.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-18</Date>
+    <Open>63.03</Open>
+    <High>64.44</High>
+    <Low>55.0945</Low>
+    <Close>56.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-19</Date>
+    <Open>56.3</Open>
+    <High>58.4058</High>
+    <Low>53.9946</Low>
+    <Close>58.1116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-20</Date>
+    <Open>58.2116</Open>
+    <High>59.3059</High>
+    <Low>56.0</Low>
+    <Close>56.8057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-21</Date>
+    <Open>56.5</Open>
+    <High>59.67</High>
+    <Low>53.7</Low>
+    <Close>54.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-22</Date>
+    <Open>54.0354</Open>
+    <High>57.3</High>
+    <Low>52.35</Low>
+    <Close>56.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-23</Date>
+    <Open>56.4944</Open>
+    <High>58.28</High>
+    <Low>54.1246</Low>
+    <Close>56.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-24</Date>
+    <Open>56.5566</Open>
+    <High>67.6593</High>
+    <Low>55.6433</Low>
+    <Close>57.8046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-25</Date>
+    <Open>57.9</Open>
+    <High>58.5059</High>
+    <Low>55.1978</Low>
+    <Close>55.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-26</Date>
+    <Open>55.6006</Open>
+    <High>57.9</High>
+    <Low>55.0055</Low>
+    <Close>57.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-27</Date>
+    <Open>57.2</Open>
+    <High>60.8939</High>
+    <Low>56.4944</Low>
+    <Close>56.8943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-28</Date>
+    <Open>56.9</Open>
+    <High>58.7</High>
+    <Low>54.4891</Low>
+    <Close>58.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-29</Date>
+    <Open>58.21</Open>
+    <High>58.9641</High>
+    <Low>55.0955</Low>
+    <Close>56.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-09-30</Date>
+    <Open>56.73</Open>
+    <High>58.48</High>
+    <Low>56.23</Low>
+    <Close>56.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-01</Date>
+    <Open>56.75</Open>
+    <High>57.5958</High>
+    <Low>55.96</Low>
+    <Close>56.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-02</Date>
+    <Open>56.17</Open>
+    <High>57.07</High>
+    <Low>54.77</Low>
+    <Close>55.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-03</Date>
+    <Open>55.34</Open>
+    <High>56.6857</High>
+    <Low>53.9</Low>
+    <Close>56.3656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-04</Date>
+    <Open>56.1056</Open>
+    <High>58.4417</High>
+    <Low>55.7356</Low>
+    <Close>57.5073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-05</Date>
+    <Open>57.5015</Open>
+    <High>58.6576</High>
+    <Low>55.4655</Low>
+    <Close>56.8857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-06</Date>
+    <Open>56.5213</Open>
+    <High>58.5499</High>
+    <Low>56.3396</Low>
+    <Close>56.9603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-07</Date>
+    <Open>56.6296</Open>
+    <High>57.5475</High>
+    <Low>55.6144</Low>
+    <Close>56.2079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-08</Date>
+    <Open>56.2956</Open>
+    <High>56.9074</High>
+    <Low>55.7456</Low>
+    <Close>55.8445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-09</Date>
+    <Open>55.8245</Open>
+    <High>56.2056</High>
+    <Low>54.5354</Low>
+    <Close>55.1955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-10</Date>
+    <Open>55.071</Open>
+    <High>55.7856</High>
+    <Low>52.8294</Low>
+    <Close>53.2747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-11</Date>
+    <Open>53.24</Open>
+    <High>53.59</High>
+    <Low>51.6148</Low>
+    <Close>52.0048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-12</Date>
+    <Open>52.3253</Open>
+    <High>60.7282</High>
+    <Low>51.9438</Low>
+    <Close>55.6017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-13</Date>
+    <Open>55.6</Open>
+    <High>56.9051</High>
+    <Low>50.4949</Low>
+    <Close>55.8045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-14</Date>
+    <Open>56.005</Open>
+    <High>64.3045</High>
+    <Low>54.0016</Low>
+    <Close>54.0022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-15</Date>
+    <Open>54.0022</Open>
+    <High>54.7055</High>
+    <Low>52.7037</Low>
+    <Close>53.0027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-16</Date>
+    <Open>53.2932</Open>
+    <High>54.7889</High>
+    <Low>52.7242</Low>
+    <Close>53.7927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-17</Date>
+    <Open>53.7822</Open>
+    <High>55.3683</High>
+    <Low>53.3395</Low>
+    <Close>54.5211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-18</Date>
+    <Open>54.7011</Open>
+    <High>55.2028</High>
+    <Low>52.3005</Low>
+    <Close>53.7021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-19</Date>
+    <Open>53.6432</Open>
+    <High>54.4133</High>
+    <Low>52.0036</Low>
+    <Close>52.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-20</Date>
+    <Open>52.6595</Open>
+    <High>53.2127</High>
+    <Low>51.2469</Low>
+    <Close>52.2148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-21</Date>
+    <Open>51.9548</Open>
+    <High>53.1027</High>
+    <Low>50.4495</Low>
+    <Close>52.6637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-22</Date>
+    <Open>52.4937</Open>
+    <High>55.5611</High>
+    <Low>51.5836</Low>
+    <Close>53.9049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-23</Date>
+    <Open>53.8048</Open>
+    <High>64.3968</High>
+    <Low>53.0042</Low>
+    <Close>57.1074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-24</Date>
+    <Open>57.1074</Open>
+    <High>60.3036</High>
+    <Low>54.6995</Low>
+    <Close>55.1022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-25</Date>
+    <Open>55.1028</Open>
+    <High>62.3237</High>
+    <Low>54.4951</Low>
+    <Close>59.2207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-26</Date>
+    <Open>59.1201</Open>
+    <High>82.5148</High>
+    <Low>58.5181</Low>
+    <Close>71.8201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-27</Date>
+    <Open>71.8201</Open>
+    <High>76.3023</High>
+    <Low>65.7026</Low>
+    <Close>66.204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-28</Date>
+    <Open>66.104</Open>
+    <High>68.2116</High>
+    <Low>63.4032</Low>
+    <Close>67.2148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-29</Date>
+    <Open>67.2128</Open>
+    <High>73.3213</High>
+    <Low>66.5153</Low>
+    <Close>67.9156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-30</Date>
+    <Open>68.0163</Open>
+    <High>70.1161</High>
+    <Low>66.0158</Low>
+    <Close>66.7133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-10-31</Date>
+    <Open>66.714</Open>
+    <High>70.0993</High>
+    <Low>65.6151</Low>
+    <Close>66.2947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-01</Date>
+    <Open>66.296</Open>
+    <High>67.0919</High>
+    <Low>61.5877</Low>
+    <Close>62.5937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-02</Date>
+    <Open>62.5931</Open>
+    <High>62.6937</High>
+    <Low>57.5954</Low>
+    <Close>57.8965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-03</Date>
+    <Open>57.7965</Open>
+    <High>61.0957</High>
+    <Low>57.6965</Low>
+    <Close>59.5994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-04</Date>
+    <Open>59.5994</Open>
+    <High>66.6</High>
+    <Low>59.3994</Low>
+    <Close>66.0053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-05</Date>
+    <Open>66.4046</Open>
+    <High>67.4081</High>
+    <Low>64.8032</Low>
+    <Close>65.0033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-06</Date>
+    <Open>64.9033</Open>
+    <High>65.4026</High>
+    <Low>62.5019</Low>
+    <Close>62.505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-07</Date>
+    <Open>62.605</Open>
+    <High>62.605</High>
+    <Low>59.1024</Low>
+    <Close>59.6077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-08</Date>
+    <Open>59.5119</Open>
+    <High>60.6</High>
+    <Low>46.0644</Low>
+    <Close>51.3536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-09</Date>
+    <Open>51.2533</Open>
+    <High>52.3449</High>
+    <Low>42.6515</Low>
+    <Close>43.8134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-10</Date>
+    <Open>43.6507</Open>
+    <High>54.6793</High>
+    <Low>42.4326</Low>
+    <Close>50.5764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-11</Date>
+    <Open>50.6167</Open>
+    <High>56.4164</High>
+    <Low>45.4772</Low>
+    <Close>47.7906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-12</Date>
+    <Open>47.7048</Open>
+    <High>53.0894</High>
+    <Low>45.6177</Low>
+    <Close>45.9172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-13</Date>
+    <Open>45.9172</Open>
+    <High>46.3304</High>
+    <Low>43.5433</Low>
+    <Close>44.238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-14</Date>
+    <Open>44.1381</Open>
+    <High>47.0435</High>
+    <Low>41.9328</Low>
+    <Close>43.934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-15</Date>
+    <Open>43.934</Open>
+    <High>46.2583</High>
+    <Low>43.934</Low>
+    <Close>44.8551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-16</Date>
+    <Open>44.5356</Open>
+    <High>45.7578</High>
+    <Low>41.4893</Low>
+    <Close>43.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-17</Date>
+    <Open>43.6563</Open>
+    <High>44.2346</High>
+    <Low>41.458</Low>
+    <Close>43.7658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-18</Date>
+    <Open>43.6768</Open>
+    <High>44.1551</High>
+    <Low>41.8073</Low>
+    <Close>43.2897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-19</Date>
+    <Open>43.2997</Open>
+    <High>43.8643</High>
+    <Low>42.8216</Low>
+    <Close>43.8344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-20</Date>
+    <Open>43.8144</Open>
+    <High>44.077</High>
+    <Low>40.448</Low>
+    <Close>40.5383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-21</Date>
+    <Open>40.738</Open>
+    <High>40.7429</High>
+    <Low>38.2525</Low>
+    <Close>39.0531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-22</Date>
+    <Open>38.9928</Open>
+    <High>42.2446</High>
+    <Low>37.7528</Low>
+    <Close>39.5517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-23</Date>
+    <Open>39.6488</Open>
+    <High>41.153</High>
+    <Low>39.5465</Low>
+    <Close>40.9549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-24</Date>
+    <Open>41.0552</Open>
+    <High>42.2628</High>
+    <Low>40.9549</Low>
+    <Close>41.0655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-25</Date>
+    <Open>41.0642</Open>
+    <High>41.0655</High>
+    <Low>38.4711</Low>
+    <Close>38.9778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-26</Date>
+    <Open>38.977</Open>
+    <High>44.973</High>
+    <Low>38.877</Low>
+    <Close>39.6762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-27</Date>
+    <Open>39.577</Open>
+    <High>40.9758</High>
+    <Low>39.4771</Low>
+    <Close>40.375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-28</Date>
+    <Open>40.2742</Open>
+    <High>40.2754</High>
+    <Low>37.7796</Low>
+    <Close>38.7853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-29</Date>
+    <Open>38.6853</Open>
+    <High>39.8652</High>
+    <Low>38.1628</Low>
+    <Close>39.5254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-11-30</Date>
+    <Open>39.5554</Open>
+    <High>44.0035</High>
+    <Low>39.5246</Low>
+    <Close>42.3021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-01</Date>
+    <Open>42.2017</Open>
+    <High>42.7051</High>
+    <Low>41.1029</Low>
+    <Close>41.9025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-02</Date>
+    <Open>41.8421</Open>
+    <High>42.9747</High>
+    <Low>41.3041</Low>
+    <Close>42.0625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-03</Date>
+    <Open>42.0425</Open>
+    <High>43.1443</High>
+    <Low>41.5541</Low>
+    <Close>41.6383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-04</Date>
+    <Open>41.6442</Open>
+    <High>63.0063</High>
+    <Low>41.4641</Low>
+    <Close>47.5095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-05</Date>
+    <Open>47.5095</Open>
+    <High>50.9051</High>
+    <Low>44.8</Low>
+    <Close>45.0014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-06</Date>
+    <Open>45.1009</Open>
+    <High>46.3995</High>
+    <Low>43.6</Low>
+    <Close>44.3991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-07</Date>
+    <Open>44.3991</Open>
+    <High>45.1604</High>
+    <Low>42.563</Low>
+    <Close>43.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-08</Date>
+    <Open>43.4104</Open>
+    <High>47.6733</High>
+    <Low>42.54</Low>
+    <Close>47.0533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-09</Date>
+    <Open>47.0033</Open>
+    <High>51.5015</High>
+    <Low>46.0009</Low>
+    <Close>46.4014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-10</Date>
+    <Open>46.5019</Open>
+    <High>47.5005</High>
+    <Low>46.1982</Low>
+    <Close>46.4991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-11</Date>
+    <Open>46.5195</Open>
+    <High>53.1911</High>
+    <Low>45.9695</Low>
+    <Close>50.405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-12</Date>
+    <Open>50.5051</Open>
+    <High>51.0051</High>
+    <Low>46.3042</Low>
+    <Close>48.4044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-13</Date>
+    <Open>48.4044</Open>
+    <High>49.3965</High>
+    <Low>46.012</Low>
+    <Close>47.988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-14</Date>
+    <Open>47.939</Open>
+    <High>48.9895</High>
+    <Low>47.1133</Low>
+    <Close>47.4933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-15</Date>
+    <Open>47.49</Open>
+    <High>47.5348</High>
+    <Low>43.3787</Low>
+    <Close>43.4887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-16</Date>
+    <Open>43.4987</Open>
+    <High>44.18</High>
+    <Low>40.114</Low>
+    <Close>40.208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-17</Date>
+    <Open>40.254</Open>
+    <High>47.7052</High>
+    <Low>38.9647</Low>
+    <Close>41.3345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-18</Date>
+    <Open>41.4754</Open>
+    <High>42.2534</High>
+    <Low>40.6529</Low>
+    <Close>41.1849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-19</Date>
+    <Open>40.9625</Open>
+    <High>45.83</High>
+    <Low>39.74</Low>
+    <Close>39.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-20</Date>
+    <Open>39.7592</Open>
+    <High>41.7604</High>
+    <Low>39.2104</Low>
+    <Close>41.2617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-21</Date>
+    <Open>40.75</Open>
+    <High>41.2733</High>
+    <Low>40.4996</Low>
+    <Close>40.512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-22</Date>
+    <Open>40.5116</Open>
+    <High>40.63</High>
+    <Low>39.2865</Low>
+    <Close>40.3032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-23</Date>
+    <Open>40.3032</Open>
+    <High>40.8235</High>
+    <Low>40.008</Low>
+    <Close>40.236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-24</Date>
+    <Open>40.226</Open>
+    <High>40.4592</High>
+    <Low>40.1876</Low>
+    <Close>40.4576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-25</Date>
+    <Open>40.1888</Open>
+    <High>40.3988</High>
+    <Low>39.3849</Low>
+    <Close>39.6648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-26</Date>
+    <Open>39.6352</Open>
+    <High>40.2332</High>
+    <Low>39.596</Low>
+    <Close>40.122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-27</Date>
+    <Open>40.132</Open>
+    <High>40.6541</High>
+    <Low>39.2239</Low>
+    <Close>40.3946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-28</Date>
+    <Open>40.363</Open>
+    <High>40.6737</High>
+    <Low>38.8275</Low>
+    <Close>38.9094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-29</Date>
+    <Open>38.8894</Open>
+    <High>39.5838</High>
+    <Low>38.8202</Low>
+    <Close>38.9325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-30</Date>
+    <Open>38.9125</Open>
+    <High>39.1616</High>
+    <Low>38.1805</Low>
+    <Close>38.7502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2022-12-31</Date>
+    <Open>38.7502</Open>
+    <High>39.0513</High>
+    <Low>38.3508</Low>
+    <Close>38.3508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-01</Date>
+    <Open>38.3608</Open>
+    <High>38.6945</High>
+    <Low>38.0195</Low>
+    <Close>38.5019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-02</Date>
+    <Open>38.5219</Open>
+    <High>40.0372</High>
+    <Low>38.0928</Low>
+    <Close>39.3274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-03</Date>
+    <Open>39.297</Open>
+    <High>39.4482</High>
+    <Low>38.2039</Low>
+    <Close>38.505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-04</Date>
+    <Open>38.485</Open>
+    <High>40.1639</High>
+    <Low>38.445</Low>
+    <Close>39.7869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-05</Date>
+    <Open>39.7169</Open>
+    <High>39.9672</High>
+    <Low>39.1047</Low>
+    <Close>39.1763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-06</Date>
+    <Open>39.1463</Open>
+    <High>39.6345</High>
+    <Low>38.0702</Low>
+    <Close>38.738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-07</Date>
+    <Open>38.6676</Open>
+    <High>42.7306</High>
+    <Low>38.5976</Low>
+    <Close>39.3605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-08</Date>
+    <Open>39.3882</Open>
+    <High>40.6531</High>
+    <Low>39.2853</Low>
+    <Close>40.6039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-09</Date>
+    <Open>40.7051</Open>
+    <High>46.8244</High>
+    <Low>40.5623</Low>
+    <Close>42.8496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-10</Date>
+    <Open>45.8795</Open>
+    <High>46.9966</High>
+    <Low>42.1249</Low>
+    <Close>45.1063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-11</Date>
+    <Open>45.1968</Open>
+    <High>49.99</High>
+    <Low>44.7071</Low>
+    <Close>47.8257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-12</Date>
+    <Open>47.7252</Open>
+    <High>53.5389</High>
+    <Low>46.4277</Low>
+    <Close>51.3251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-13</Date>
+    <Open>51.3941</Open>
+    <High>54.8827</High>
+    <Low>50.5751</Low>
+    <Close>53.3148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-14</Date>
+    <Open>53.3243</Open>
+    <High>57.5101</High>
+    <Low>53.0653</Low>
+    <Close>54.4927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-15</Date>
+    <Open>54.4927</Open>
+    <High>54.7093</High>
+    <Low>51.4846</Low>
+    <Close>52.9754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-16</Date>
+    <Open>52.8953</Open>
+    <High>54.5202</High>
+    <Low>51.5031</Low>
+    <Close>53.4105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-17</Date>
+    <Open>53.3916</Open>
+    <High>55.8784</High>
+    <Low>52.35</Low>
+    <Close>54.246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-18</Date>
+    <Open>54.2554</Open>
+    <High>55.0228</High>
+    <Low>50.0755</Low>
+    <Close>50.5775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-19</Date>
+    <Open>50.547</Open>
+    <High>52.1495</High>
+    <Low>49.949</Low>
+    <Close>51.4685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-20</Date>
+    <Open>51.5231</Open>
+    <High>55.7184</High>
+    <Low>50.71</Low>
+    <Close>55.6095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-21</Date>
+    <Open>55.48</Open>
+    <High>57.7367</High>
+    <Low>55.2949</Low>
+    <Close>56.6013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-22</Date>
+    <Open>56.4285</Open>
+    <High>58.2811</High>
+    <Low>55.0505</Low>
+    <Close>56.5813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-23</Date>
+    <Open>56.5708</Open>
+    <High>63.9215</High>
+    <Low>56.4107</Low>
+    <Close>63.4095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-24</Date>
+    <Open>63.4595</Open>
+    <High>66.0086</High>
+    <Low>60.3412</Low>
+    <Close>60.3412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-25</Date>
+    <Open>60.3118</Open>
+    <High>63.3714</High>
+    <Low>58.1746</Low>
+    <Close>61.3404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-26</Date>
+    <Open>61.3004</Open>
+    <High>63.3682</High>
+    <Low>60.4412</Low>
+    <Close>61.0449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-27</Date>
+    <Open>61.1155</Open>
+    <High>68.7131</High>
+    <Low>59.7325</Low>
+    <Close>63.4341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-28</Date>
+    <Open>63.5022</Open>
+    <High>65.2356</High>
+    <Low>61.3847</Low>
+    <Close>61.7417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-29</Date>
+    <Open>61.7424</Open>
+    <High>72.6987</High>
+    <Low>61.5242</Low>
+    <Close>70.9236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-30</Date>
+    <Open>70.9628</Open>
+    <High>73.853</High>
+    <Low>64.6387</Low>
+    <Close>66.3947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-01-31</Date>
+    <Open>66.2746</Open>
+    <High>68.9035</High>
+    <Low>64.9761</Low>
+    <Close>67.8861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-01</Date>
+    <Open>67.9854</Open>
+    <High>74.9952</High>
+    <Low>66.38</Low>
+    <Close>73.7044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-02</Date>
+    <Open>73.7737</Open>
+    <High>90.68</High>
+    <Low>73.2037</Low>
+    <Close>86.5873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-03</Date>
+    <Open>86.6373</Open>
+    <High>107.595</High>
+    <Low>84.5135</Low>
+    <Close>97.2978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-04</Date>
+    <Open>97.2378</Open>
+    <High>101.387</High>
+    <Low>92.5865</Low>
+    <Close>96.0177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-05</Date>
+    <Open>95.9777</Open>
+    <High>96.1077</High>
+    <Low>85.3205</Low>
+    <Close>88.7322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-06</Date>
+    <Open>88.8222</Open>
+    <High>96.2296</High>
+    <Low>88.74</Low>
+    <Close>89.0036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-07</Date>
+    <Open>89.1236</Open>
+    <High>91.5437</High>
+    <Low>85.8091</Low>
+    <Close>90.8364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-08</Date>
+    <Open>90.8354</Open>
+    <High>98.039</High>
+    <Low>85.7994</Low>
+    <Close>89.1862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-09</Date>
+    <Open>89.1462</Open>
+    <High>89.7591</High>
+    <Low>72.7096</Low>
+    <Close>73.4273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-10</Date>
+    <Open>73.4473</Open>
+    <High>76.2468</High>
+    <Low>71.6572</Low>
+    <Close>72.2008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-11</Date>
+    <Open>72.1908</Open>
+    <High>79.938</High>
+    <Low>71.9186</Low>
+    <Close>79.4872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-12</Date>
+    <Open>79.3179</Open>
+    <High>80.5072</High>
+    <Low>74.6419</Low>
+    <Close>75.3275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-13</Date>
+    <Open>75.2075</Open>
+    <High>76.6014</High>
+    <Low>69.6136</Low>
+    <Close>71.8088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-14</Date>
+    <Open>71.8395</Open>
+    <High>78.3113</High>
+    <Low>71.6958</Low>
+    <Close>76.5014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-15</Date>
+    <Open>76.3305</Open>
+    <High>88.2659</High>
+    <Low>75.728</Low>
+    <Close>86.7765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-16</Date>
+    <Open>86.9557</Open>
+    <High>90.7045</High>
+    <Low>80.8705</Low>
+    <Close>81.0976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-17</Date>
+    <Open>81.1514</Open>
+    <High>88.0526</High>
+    <Low>79.7788</Low>
+    <Close>85.3777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-18</Date>
+    <Open>85.482</Open>
+    <High>87.5275</High>
+    <Low>84.4518</Low>
+    <Close>84.8744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-19</Date>
+    <Open>84.8936</Open>
+    <High>86.5038</High>
+    <Low>81.7429</Low>
+    <Close>82.9983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-20</Date>
+    <Open>83.0283</Open>
+    <High>86.0595</High>
+    <Low>80.9018</Low>
+    <Close>83.1733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-21</Date>
+    <Open>83.1958</Open>
+    <High>84.6535</High>
+    <Low>77.7055</Low>
+    <Close>78.3041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-22</Date>
+    <Open>78.3633</Open>
+    <High>78.8995</High>
+    <Low>74.0811</Low>
+    <Close>77.8308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-23</Date>
+    <Open>77.9047</Open>
+    <High>80.3664</High>
+    <Low>76.0244</Low>
+    <Close>76.4699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-24</Date>
+    <Open>76.4315</Open>
+    <High>77.6247</High>
+    <Low>71.8994</Low>
+    <Close>72.7593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-25</Date>
+    <Open>72.8185</Open>
+    <High>74.1267</High>
+    <Low>70.4863</Low>
+    <Close>72.9751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-26</Date>
+    <Open>72.8844</Open>
+    <High>77.6954</High>
+    <Low>72.8058</Low>
+    <Close>75.676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-27</Date>
+    <Open>75.7268</Open>
+    <High>76.3538</High>
+    <Low>72.7073</Low>
+    <Close>73.7544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-02-28</Date>
+    <Open>73.8837</Open>
+    <High>78.7008</High>
+    <Low>72.8615</Low>
+    <Close>75.9052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-01</Date>
+    <Open>75.8344</Open>
+    <High>88.4827</High>
+    <Low>75.7691</Low>
+    <Close>87.6214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-02</Date>
+    <Open>87.6105</Open>
+    <High>88.6924</High>
+    <Low>79.0395</Low>
+    <Close>85.6177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-03</Date>
+    <Open>85.5477</Open>
+    <High>87.3579</High>
+    <Low>77.9204</Low>
+    <Close>81.2257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-04</Date>
+    <Open>81.1757</Open>
+    <High>84.0109</High>
+    <Low>76.4038</Low>
+    <Close>77.0054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-05</Date>
+    <Open>77.0154</Open>
+    <High>80.8273</High>
+    <Low>76.6969</Low>
+    <Close>78.8595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-06</Date>
+    <Open>78.9595</Open>
+    <High>83.9966</High>
+    <Low>77.1962</Low>
+    <Close>81.0351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-07</Date>
+    <Open>80.9219</Open>
+    <High>83.0792</High>
+    <Low>72.9891</Low>
+    <Close>74.6463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-08</Date>
+    <Open>74.647</Open>
+    <High>77.18</High>
+    <Low>66.3267</Low>
+    <Close>66.366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-09</Date>
+    <Open>66.4134</Open>
+    <High>67.4584</High>
+    <Low>59.8874</Low>
+    <Close>60.6155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-10</Date>
+    <Open>60.7761</Open>
+    <High>61.6925</High>
+    <Low>57.316</Low>
+    <Close>60.2579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-11</Date>
+    <Open>60.3429</Open>
+    <High>64.2252</High>
+    <Low>58.6963</Low>
+    <Close>62.1473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-12</Date>
+    <Open>62.1856</Open>
+    <High>66.5245</High>
+    <Low>60.2783</Low>
+    <Close>65.6094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-13</Date>
+    <Open>65.7204</Open>
+    <High>73.7031</High>
+    <Low>65.516</Low>
+    <Close>71.256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-14</Date>
+    <Open>71.2532</Open>
+    <High>77.7822</High>
+    <Low>69.0432</Low>
+    <Close>72.6072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-15</Date>
+    <Open>72.679</Open>
+    <High>75.6639</High>
+    <Low>64.8391</Low>
+    <Close>66.7699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-16</Date>
+    <Open>66.6688</Open>
+    <High>68.364</High>
+    <Low>65.6611</Low>
+    <Close>66.5734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-17</Date>
+    <Open>66.6128</Open>
+    <High>73.54</High>
+    <Low>65.8927</Low>
+    <Close>72.7168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-18</Date>
+    <Open>72.7576</Open>
+    <High>80.2029</High>
+    <Low>71.0566</Low>
+    <Close>75.5161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-19</Date>
+    <Open>75.4256</Open>
+    <High>79.2149</High>
+    <Low>74.2773</Low>
+    <Close>74.634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-20</Date>
+    <Open>74.6039</Open>
+    <High>74.891</High>
+    <Low>69.072</Low>
+    <Close>69.3924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-21</Date>
+    <Open>69.3623</Open>
+    <High>71.6013</High>
+    <Low>66.9796</Low>
+    <Close>70.0427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-22</Date>
+    <Open>69.9732</Open>
+    <High>70.9534</High>
+    <Low>65.6267</Low>
+    <Close>66.602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-23</Date>
+    <Open>66.5946</Open>
+    <High>70.4126</High>
+    <Low>66.1789</Low>
+    <Close>68.5222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-24</Date>
+    <Open>68.4635</Open>
+    <High>69.309</High>
+    <Low>62.6939</Low>
+    <Close>62.7183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-25</Date>
+    <Open>62.7195</Open>
+    <High>63.1907</High>
+    <Low>58.8853</Low>
+    <Close>59.7573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-26</Date>
+    <Open>59.7179</Open>
+    <High>62.0521</High>
+    <Low>59.6178</Low>
+    <Close>61.5094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-27</Date>
+    <Open>61.5476</Open>
+    <High>61.8746</High>
+    <Low>55.1009</Low>
+    <Close>56.1164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-28</Date>
+    <Open>56.0763</Open>
+    <High>58.8359</High>
+    <Low>55.2393</Low>
+    <Close>58.0426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-29</Date>
+    <Open>58.0026</Open>
+    <High>60.7864</High>
+    <Low>57.4349</Low>
+    <Close>60.0278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-30</Date>
+    <Open>60.0414</Open>
+    <High>60.974</High>
+    <Low>57.6086</Low>
+    <Close>58.7965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-03-31</Date>
+    <Open>58.7464</Open>
+    <High>60.6582</High>
+    <Low>57.5167</Low>
+    <Close>59.832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-01</Date>
+    <Open>59.8726</Open>
+    <High>60.7831</High>
+    <Low>59.1284</Low>
+    <Close>59.9322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-02</Date>
+    <Open>59.9722</Open>
+    <High>60.0396</High>
+    <Low>57.419</Low>
+    <Close>58.2961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-03</Date>
+    <Open>58.2361</Open>
+    <High>59.5002</High>
+    <Low>56.7793</Low>
+    <Close>57.7419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-04</Date>
+    <Open>57.8131</Open>
+    <High>60.8049</High>
+    <Low>57.487</Low>
+    <Close>59.8599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-05</Date>
+    <Open>59.5898</Open>
+    <High>61.4927</High>
+    <Low>59.3231</Low>
+    <Close>60.9219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-06</Date>
+    <Open>60.8213</Open>
+    <High>61.1765</High>
+    <Low>58.7123</Low>
+    <Close>59.6745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-07</Date>
+    <Open>59.6415</Open>
+    <High>60.3629</High>
+    <Low>58.2838</Low>
+    <Close>58.8541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-08</Date>
+    <Open>58.8835</Open>
+    <High>59.69</High>
+    <Low>58.6522</Low>
+    <Close>58.943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-09</Date>
+    <Open>58.9836</Open>
+    <High>59.2408</High>
+    <Low>57.455</Low>
+    <Close>58.7894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-10</Date>
+    <Open>58.86</Open>
+    <High>59.5905</High>
+    <Low>57.9609</Low>
+    <Close>59.248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-11</Date>
+    <Open>59.328</Open>
+    <High>61.1331</High>
+    <Low>58.5862</Low>
+    <Close>59.2386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-12</Date>
+    <Open>59.1185</Open>
+    <High>59.6613</High>
+    <Low>56.8668</Low>
+    <Close>59.5959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-13</Date>
+    <Open>59.5864</Open>
+    <High>63.6393</High>
+    <Low>59.0307</Low>
+    <Close>62.8403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-14</Date>
+    <Open>62.7602</Open>
+    <High>65.9498</High>
+    <Low>61.3827</Low>
+    <Close>63.3826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-15</Date>
+    <Open>63.3713</Open>
+    <High>65.3287</High>
+    <Low>62.7189</Low>
+    <Close>64.2371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-16</Date>
+    <Open>64.1871</Open>
+    <High>66.4758</High>
+    <Low>63.7441</Low>
+    <Close>65.4345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-17</Date>
+    <Open>65.4345</Open>
+    <High>66.8921</High>
+    <Low>63.0621</Low>
+    <Close>63.2429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-18</Date>
+    <Open>63.4668</Open>
+    <High>65.6362</High>
+    <Low>62.8121</Low>
+    <Close>64.2628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-19</Date>
+    <Open>64.2816</Open>
+    <High>64.9723</High>
+    <Low>58.0273</Low>
+    <Close>58.3721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-20</Date>
+    <Open>58.3703</Open>
+    <High>58.4804</High>
+    <Low>55.77</Low>
+    <Close>56.3656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-21</Date>
+    <Open>56.6528</Open>
+    <High>57.0049</High>
+    <Low>52.7894</Low>
+    <Close>52.9642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-22</Date>
+    <Open>53.0236</Open>
+    <High>54.4822</High>
+    <Low>52.9084</Low>
+    <Close>53.5448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-23</Date>
+    <Open>53.5248</Open>
+    <High>54.0203</High>
+    <Low>52.2789</Low>
+    <Close>52.9627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-24</Date>
+    <Open>53.0126</Open>
+    <High>53.39</High>
+    <Low>50.21</Low>
+    <Close>51.041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-25</Date>
+    <Open>51.0715</Open>
+    <High>52.4621</High>
+    <Low>49.703</Low>
+    <Close>52.3921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-26</Date>
+    <Open>52.5321</Open>
+    <High>55.5411</High>
+    <Low>50.0405</Low>
+    <Close>52.2883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-27</Date>
+    <Open>52.3568</Open>
+    <High>54.0662</High>
+    <Low>51.8887</Low>
+    <Close>53.4098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-28</Date>
+    <Open>53.4066</Open>
+    <High>53.4676</High>
+    <Low>51.6548</Low>
+    <Close>52.8617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-29</Date>
+    <Open>52.8296</Open>
+    <High>54.7734</High>
+    <Low>52.4293</Low>
+    <Close>53.0113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-04-30</Date>
+    <Open>53.0013</Open>
+    <High>53.4214</High>
+    <Low>51.7905</Low>
+    <Close>52.0096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-01</Date>
+    <Open>52.0286</Open>
+    <High>52.104</High>
+    <Low>49.5</Low>
+    <Close>50.3131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-02</Date>
+    <Open>50.2836</Open>
+    <High>51.4999</High>
+    <Low>50.0505</Low>
+    <Close>51.3418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-03</Date>
+    <Open>51.3913</Open>
+    <High>51.3913</High>
+    <Low>48.9122</Low>
+    <Close>51.0038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-04</Date>
+    <Open>50.8437</Open>
+    <High>51.6855</High>
+    <Low>49.7329</Low>
+    <Close>49.8184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-05</Date>
+    <Open>49.8284</Open>
+    <High>52.1527</High>
+    <Low>49.6884</Low>
+    <Close>51.4868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-06</Date>
+    <Open>51.4868</Open>
+    <High>52.1632</High>
+    <Low>48.2237</Low>
+    <Close>48.9555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-07</Date>
+    <Open>49.0657</Open>
+    <High>49.6855</High>
+    <Low>48.4471</Low>
+    <Close>48.757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-08</Date>
+    <Open>48.7475</Open>
+    <High>49.1785</High>
+    <Low>46.0217</Low>
+    <Close>46.5204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-09</Date>
+    <Open>46.5353</Open>
+    <High>46.9114</High>
+    <Low>45.6401</Low>
+    <Close>45.9359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-10</Date>
+    <Open>45.7606</Open>
+    <High>48.0628</High>
+    <Low>45.1261</Low>
+    <Close>46.0961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-11</Date>
+    <Open>46.0314</Open>
+    <High>46.3317</High>
+    <Low>44.3943</Low>
+    <Close>45.1106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-12</Date>
+    <Open>45.0951</Open>
+    <High>45.541</High>
+    <Low>43.4347</Low>
+    <Close>45.056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-13</Date>
+    <Open>45.1261</Open>
+    <High>45.9976</High>
+    <Low>44.4222</Low>
+    <Close>44.9269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-14</Date>
+    <Open>44.8569</Open>
+    <High>45.6374</High>
+    <Low>44.5967</Low>
+    <Close>45.1171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-15</Date>
+    <Open>45.1071</Open>
+    <High>46.3924</High>
+    <Low>44.7123</Low>
+    <Close>45.802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-16</Date>
+    <Open>45.6819</Open>
+    <High>45.9722</High>
+    <Low>45.0915</Low>
+    <Close>45.5728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-17</Date>
+    <Open>45.6783</Open>
+    <High>49.3547</High>
+    <Low>45.2881</Low>
+    <Close>48.7344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-18</Date>
+    <Open>48.7395</Open>
+    <High>49.0145</High>
+    <Low>46.6887</Low>
+    <Close>47.539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-19</Date>
+    <Open>47.509</Open>
+    <High>48.0992</High>
+    <Low>47.3</Low>
+    <Close>47.8639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-20</Date>
+    <Open>47.8639</Open>
+    <High>48.094</High>
+    <Low>47.0123</Low>
+    <Close>47.1471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-21</Date>
+    <Open>47.1471</Open>
+    <High>47.5728</High>
+    <Low>46.113</Low>
+    <Close>46.3178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-22</Date>
+    <Open>46.3532</Open>
+    <High>47.3737</High>
+    <Low>46.083</Low>
+    <Close>47.2083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-23</Date>
+    <Open>47.1966</Open>
+    <High>48.5253</High>
+    <Low>46.9585</Low>
+    <Close>47.8429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-24</Date>
+    <Open>47.8243</Open>
+    <High>48.0953</High>
+    <Low>45.854</Low>
+    <Close>47.4181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-25</Date>
+    <Open>47.4472</Open>
+    <High>47.7762</High>
+    <Low>46.4533</Low>
+    <Close>47.581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-26</Date>
+    <Open>47.589</Open>
+    <High>47.9862</High>
+    <Low>46.8042</Low>
+    <Close>47.4804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-27</Date>
+    <Open>47.4895</Open>
+    <High>47.8034</High>
+    <Low>47.2446</Low>
+    <Close>47.7186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ILV">
+    <Date>2023-05-28</Date>
+    <Open>47.7843</Open>
+    <High>48.8437</High>
+    <Low>47.3784</Low>
+    <Close>48.7907</Close>
+  </Cryptocurrency>
+</Root>

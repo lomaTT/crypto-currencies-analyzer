@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-14</Date>
+    <Open>0.0424178</Open>
+    <High>0.0443212</High>
+    <Low>0.0388022</Low>
+    <Close>0.0403793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-15</Date>
+    <Open>0.0403634</Open>
+    <High>0.0438441</High>
+    <Low>0.0399999</Low>
+    <Close>0.0424348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-16</Date>
+    <Open>0.042429</Open>
+    <High>0.0467638</High>
+    <Low>0.0401497</Low>
+    <Close>0.0416957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-17</Date>
+    <Open>0.0416758</Open>
+    <High>0.0431725</High>
+    <Low>0.0407869</Low>
+    <Close>0.0427387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-18</Date>
+    <Open>0.0427643</Open>
+    <High>0.0432281</High>
+    <Low>0.0387296</Low>
+    <Close>0.0393688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-19</Date>
+    <Open>0.0394487</Open>
+    <High>0.0404636</High>
+    <Low>0.0377147</Low>
+    <Close>0.04001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-20</Date>
+    <Open>0.03998</Open>
+    <High>0.0407851</High>
+    <Low>0.0383501</Low>
+    <Close>0.0388533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-21</Date>
+    <Open>0.0388933</Open>
+    <High>0.0410624</High>
+    <Low>0.03843</Low>
+    <Close>0.0396284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-22</Date>
+    <Open>0.0396284</Open>
+    <High>0.0431938</High>
+    <Low>0.0395885</Low>
+    <Close>0.0422992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-23</Date>
+    <Open>0.0422992</Open>
+    <High>0.0459194</High>
+    <Low>0.0415601</Low>
+    <Close>0.0435976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-24</Date>
+    <Open>0.0435477</Open>
+    <High>0.0461346</High>
+    <Low>0.0405454</Low>
+    <Close>0.0426745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-25</Date>
+    <Open>0.0426944</Open>
+    <High>0.0449505</High>
+    <Low>0.0421236</Low>
+    <Close>0.044097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-26</Date>
+    <Open>0.0440371</Open>
+    <High>0.0445709</High>
+    <Low>0.0402117</Low>
+    <Close>0.0412987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-27</Date>
+    <Open>0.0412945</Open>
+    <High>0.041928</High>
+    <Low>0.0392568</Low>
+    <Close>0.0395804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-28</Date>
+    <Open>0.0395345</Open>
+    <High>0.0411688</High>
+    <Low>0.0394387</Low>
+    <Close>0.0405225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-29</Date>
+    <Open>0.0405217</Open>
+    <High>0.0410952</High>
+    <Low>0.0396399</Low>
+    <Close>0.0406952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-30</Date>
+    <Open>0.0407547</Open>
+    <High>0.0439622</High>
+    <Low>0.040487</Low>
+    <Close>0.043719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-05-31</Date>
+    <Open>0.043759</Open>
+    <High>0.0441507</High>
+    <Low>0.0418995</Low>
+    <Close>0.0435108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-01</Date>
+    <Open>0.0435222</Open>
+    <High>0.0477118</High>
+    <Low>0.0415984</Low>
+    <Close>0.0417524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-02</Date>
+    <Open>0.0417524</Open>
+    <High>0.0462084</High>
+    <Low>0.0416283</Low>
+    <Close>0.0440883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-03</Date>
+    <Open>0.0441193</Open>
+    <High>0.0455451</High>
+    <Low>0.0417393</Low>
+    <Close>0.0426069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-04</Date>
+    <Open>0.0426199</Open>
+    <High>0.0426319</High>
+    <Low>0.0404953</Low>
+    <Close>0.0418781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-05</Date>
+    <Open>0.0418672</Open>
+    <High>0.0428909</High>
+    <Low>0.0410851</Low>
+    <Close>0.0427897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-06</Date>
+    <Open>0.0428097</Open>
+    <High>0.0446538</High>
+    <Low>0.0423302</Low>
+    <Close>0.0432836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-07</Date>
+    <Open>0.0432632</Open>
+    <High>0.0436424</High>
+    <Low>0.0408253</Low>
+    <Close>0.0426254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-08</Date>
+    <Open>0.0426354</Open>
+    <High>0.0427575</High>
+    <Low>0.0412432</Low>
+    <Close>0.0420526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-09</Date>
+    <Open>0.0420526</Open>
+    <High>0.042083</High>
+    <Low>0.0411075</Low>
+    <Close>0.0414452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-10</Date>
+    <Open>0.0414452</Open>
+    <High>0.0425126</High>
+    <Low>0.0389502</Low>
+    <Close>0.0392697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-11</Date>
+    <Open>0.0392601</Open>
+    <High>0.0397063</High>
+    <Low>0.0365346</Low>
+    <Close>0.0369582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-12</Date>
+    <Open>0.0370171</Open>
+    <High>0.0407262</High>
+    <Low>0.0362592</Low>
+    <Close>0.0373041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-13</Date>
+    <Open>0.0372741</Open>
+    <High>0.0372741</High>
+    <Low>0.0287368</Low>
+    <Close>0.0297985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-14</Date>
+    <Open>0.0298088</Open>
+    <High>0.0299081</High>
+    <Low>0.0258115</Low>
+    <Close>0.0268877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-15</Date>
+    <Open>0.0268777</Open>
+    <High>0.0282089</High>
+    <Low>0.0242889</Low>
+    <Close>0.0278981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-16</Date>
+    <Open>0.0283787</Open>
+    <High>0.0283987</High>
+    <Low>0.0260986</Low>
+    <Close>0.026393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-17</Date>
+    <Open>0.0257047</Open>
+    <High>0.0275616</High>
+    <Low>0.0257047</Low>
+    <Close>0.0270775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-18</Date>
+    <Open>0.0270877</Open>
+    <High>0.0283459</High>
+    <Low>0.0246594</Low>
+    <Close>0.025868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-19</Date>
+    <Open>0.0259279</Open>
+    <High>0.0273771</High>
+    <Low>0.0251542</Low>
+    <Close>0.0270947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-20</Date>
+    <Open>0.0271147</Open>
+    <High>0.0288782</High>
+    <Low>0.0269776</Low>
+    <Close>0.0286285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-21</Date>
+    <Open>0.0286185</Open>
+    <High>0.0306055</High>
+    <Low>0.0280663</Low>
+    <Close>0.0296543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-22</Date>
+    <Open>0.0296414</Open>
+    <High>0.0298361</High>
+    <Low>0.0279432</Low>
+    <Close>0.0282447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-23</Date>
+    <Open>0.0282507</Open>
+    <High>0.0288092</High>
+    <Low>0.0277592</Low>
+    <Close>0.0285264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-24</Date>
+    <Open>0.0285224</Open>
+    <High>0.0300329</High>
+    <Low>0.0285155</Low>
+    <Close>0.0299593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-25</Date>
+    <Open>0.029948</Open>
+    <High>0.0302717</High>
+    <Low>0.0285638</Low>
+    <Close>0.0296902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-26</Date>
+    <Open>0.0297382</Open>
+    <High>0.0312239</High>
+    <Low>0.0293219</Low>
+    <Close>0.0308209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-27</Date>
+    <Open>0.0308212</Open>
+    <High>0.0338233</High>
+    <Low>0.0297062</Low>
+    <Close>0.0307386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-28</Date>
+    <Open>0.0307326</Open>
+    <High>0.0328111</High>
+    <Low>0.0297784</Low>
+    <Close>0.030881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-29</Date>
+    <Open>0.0308664</Open>
+    <High>0.0309283</High>
+    <Low>0.027977</Low>
+    <Close>0.0288261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-06-30</Date>
+    <Open>0.0288204</Open>
+    <High>0.0290201</High>
+    <Low>0.0259113</Low>
+    <Close>0.0264203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-01</Date>
+    <Open>0.0264332</Open>
+    <High>0.0280811</High>
+    <Low>0.0263993</Low>
+    <Close>0.0271331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-02</Date>
+    <Open>0.0271211</Open>
+    <High>0.0287175</High>
+    <Low>0.0266849</Low>
+    <Close>0.0280603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-03</Date>
+    <Open>0.0280603</Open>
+    <High>0.0283321</High>
+    <Low>0.027071</Low>
+    <Close>0.0281963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-04</Date>
+    <Open>0.0282253</Open>
+    <High>0.0304534</High>
+    <Low>0.0278877</Low>
+    <Close>0.029092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-05</Date>
+    <Open>0.029091</Open>
+    <High>0.0296634</High>
+    <Low>0.028177</Low>
+    <Close>0.029081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-06</Date>
+    <Open>0.029082</Open>
+    <High>0.0312606</High>
+    <Low>0.0284756</Low>
+    <Close>0.0294416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-07</Date>
+    <Open>0.0294376</Open>
+    <High>0.0302678</High>
+    <Low>0.0290121</Low>
+    <Close>0.0301599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-08</Date>
+    <Open>0.0301599</Open>
+    <High>0.0306016</High>
+    <Low>0.0292495</Low>
+    <Close>0.0298641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-09</Date>
+    <Open>0.0298381</Open>
+    <High>0.0306366</High>
+    <Low>0.0297292</Low>
+    <Close>0.0305207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-10</Date>
+    <Open>0.0305106</Open>
+    <High>0.0305686</High>
+    <Low>0.0288478</Low>
+    <Close>0.0293554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-11</Date>
+    <Open>0.0293234</Open>
+    <High>0.0293454</High>
+    <Low>0.0276463</Low>
+    <Close>0.027699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-12</Date>
+    <Open>0.0276951</Open>
+    <High>0.0292358</High>
+    <Low>0.0271578</Low>
+    <Close>0.0273057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-13</Date>
+    <Open>0.0273029</Open>
+    <High>0.0277722</High>
+    <Low>0.0261512</Low>
+    <Close>0.0270057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-14</Date>
+    <Open>0.0271156</Open>
+    <High>0.0281331</High>
+    <Low>0.0268958</Low>
+    <Close>0.0279132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-15</Date>
+    <Open>0.0279432</Open>
+    <High>0.0291783</High>
+    <Low>0.0278005</Low>
+    <Close>0.0286714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-16</Date>
+    <Open>0.0286714</Open>
+    <High>0.0295041</High>
+    <Low>0.0282387</Low>
+    <Close>0.0290913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-17</Date>
+    <Open>0.0293741</Open>
+    <High>0.0300743</High>
+    <Low>0.0288063</Low>
+    <Close>0.0291824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-18</Date>
+    <Open>0.0292921</Open>
+    <High>0.0306082</High>
+    <Low>0.0288599</Low>
+    <Close>0.0297931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-19</Date>
+    <Open>0.0297911</Open>
+    <High>0.0318313</High>
+    <Low>0.029485</Low>
+    <Close>0.0316151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-20</Date>
+    <Open>0.0316</Open>
+    <High>0.0318835</High>
+    <Low>0.0298445</Low>
+    <Close>0.0300015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-21</Date>
+    <Open>0.0300015</Open>
+    <High>0.0303148</High>
+    <Low>0.0288614</Low>
+    <Close>0.0301175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-22</Date>
+    <Open>0.0301172</Open>
+    <High>0.0321987</High>
+    <Low>0.0298318</Low>
+    <Close>0.0307068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-23</Date>
+    <Open>0.03071</Open>
+    <High>0.0315375</High>
+    <Low>0.0297218</Low>
+    <Close>0.0300157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-24</Date>
+    <Open>0.030003</Open>
+    <High>0.0307925</High>
+    <Low>0.030003</Low>
+    <Close>0.0305758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-25</Date>
+    <Open>0.0305761</Open>
+    <High>0.0307461</High>
+    <Low>0.0282931</Low>
+    <Close>0.0286623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-26</Date>
+    <Open>0.0286623</Open>
+    <High>0.0286729</High>
+    <Low>0.0271516</Low>
+    <Close>0.0279342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-27</Date>
+    <Open>0.02795</Open>
+    <High>0.0300435</High>
+    <Low>0.0276939</Low>
+    <Close>0.0297371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-28</Date>
+    <Open>0.0297271</Open>
+    <High>0.0308802</High>
+    <Low>0.0296709</Low>
+    <Close>0.0307762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-29</Date>
+    <Open>0.0307862</Open>
+    <High>0.0310237</High>
+    <Low>0.0295</Low>
+    <Close>0.0301824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-30</Date>
+    <Open>0.0301824</Open>
+    <High>0.0313206</High>
+    <Low>0.0297516</Low>
+    <Close>0.0305304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-07-31</Date>
+    <Open>0.0305204</Open>
+    <High>0.0324087</High>
+    <Low>0.0297989</Low>
+    <Close>0.0313572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-01</Date>
+    <Open>0.0313694</Open>
+    <High>0.0347183</High>
+    <Low>0.030102</Low>
+    <Close>0.0322897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-02</Date>
+    <Open>0.0324197</Open>
+    <High>0.0345221</High>
+    <Low>0.0304619</Low>
+    <Close>0.0314153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-03</Date>
+    <Open>0.0314153</Open>
+    <High>0.0339968</High>
+    <Low>0.0314153</Low>
+    <Close>0.0338185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-04</Date>
+    <Open>0.0337001</Open>
+    <High>0.0337671</High>
+    <Low>0.0319722</Low>
+    <Close>0.0325313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-05</Date>
+    <Open>0.032531</Open>
+    <High>0.0332466</High>
+    <Low>0.0322139</Low>
+    <Close>0.0330263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-06</Date>
+    <Open>0.0330163</Open>
+    <High>0.0338151</High>
+    <Low>0.0329063</Low>
+    <Close>0.0331476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-07</Date>
+    <Open>0.0331473</Open>
+    <High>0.033168</High>
+    <Low>0.0323936</Low>
+    <Close>0.033106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-08</Date>
+    <Open>0.0330863</Open>
+    <High>0.0335667</High>
+    <Low>0.0326042</Low>
+    <Close>0.033154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-09</Date>
+    <Open>0.032994</Open>
+    <High>0.0333057</High>
+    <Low>0.0310365</Low>
+    <Close>0.0315663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-10</Date>
+    <Open>0.0315663</Open>
+    <High>0.033409</High>
+    <Low>0.030928</Low>
+    <Close>0.0332096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-11</Date>
+    <Open>0.0332333</Open>
+    <High>0.0359065</High>
+    <Low>0.0330096</Low>
+    <Close>0.0338359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-12</Date>
+    <Open>0.0338259</Open>
+    <High>0.0345473</High>
+    <Low>0.0331366</Low>
+    <Close>0.0340557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-13</Date>
+    <Open>0.0341157</Open>
+    <High>0.0348774</High>
+    <Low>0.0340563</Low>
+    <Close>0.0344834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-14</Date>
+    <Open>0.0344834</Open>
+    <High>0.0352341</High>
+    <Low>0.0337481</Low>
+    <Close>0.0343106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-15</Date>
+    <Open>0.0342903</Open>
+    <High>0.0348004</High>
+    <Low>0.0333387</Low>
+    <Close>0.0340082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-16</Date>
+    <Open>0.0340082</Open>
+    <High>0.0341627</High>
+    <Low>0.0332557</Low>
+    <Close>0.0341331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-17</Date>
+    <Open>0.0341127</Open>
+    <High>0.0359054</High>
+    <Low>0.03295</Low>
+    <Close>0.0332623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-18</Date>
+    <Open>0.0333427</Open>
+    <High>0.0333903</High>
+    <Low>0.0328423</Low>
+    <Close>0.0331603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-19</Date>
+    <Open>0.0331133</Open>
+    <High>0.0332033</High>
+    <Low>0.02892</Low>
+    <Close>0.0292229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-20</Date>
+    <Open>0.0292229</Open>
+    <High>0.0293953</High>
+    <Low>0.028168</Low>
+    <Close>0.0282497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-21</Date>
+    <Open>0.0282394</Open>
+    <High>0.0295891</High>
+    <Low>0.0282392</Low>
+    <Close>0.0294791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-22</Date>
+    <Open>0.0296194</Open>
+    <High>0.0296212</High>
+    <Low>0.0280683</Low>
+    <Close>0.0284249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-23</Date>
+    <Open>0.0284357</Open>
+    <High>0.0318927</High>
+    <Low>0.0283175</Low>
+    <Close>0.0304106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-24</Date>
+    <Open>0.03041</Open>
+    <High>0.0306012</High>
+    <Low>0.029218</Low>
+    <Close>0.0298627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-25</Date>
+    <Open>0.0298624</Open>
+    <High>0.0303179</High>
+    <Low>0.0294009</Low>
+    <Close>0.0300909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-26</Date>
+    <Open>0.0300809</Open>
+    <High>0.0301303</High>
+    <Low>0.02781</Low>
+    <Close>0.0280628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-27</Date>
+    <Open>0.0280628</Open>
+    <High>0.0281325</High>
+    <Low>0.0269008</Low>
+    <Close>0.0277608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-28</Date>
+    <Open>0.0277606</Open>
+    <High>0.0287914</High>
+    <Low>0.0273878</Low>
+    <Close>0.02783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-29</Date>
+    <Open>0.02794</Open>
+    <High>0.028482</High>
+    <Low>0.0266587</Low>
+    <Close>0.028382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-30</Date>
+    <Open>0.028402</Open>
+    <High>0.0300388</High>
+    <Low>0.0274005</Low>
+    <Close>0.0279725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-08-31</Date>
+    <Open>0.0279722</Open>
+    <High>0.0286406</High>
+    <Low>0.0276386</Low>
+    <Close>0.0279597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-01</Date>
+    <Open>0.0279597</Open>
+    <High>0.0281406</High>
+    <Low>0.0268987</Low>
+    <Close>0.0272984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-02</Date>
+    <Open>0.0272984</Open>
+    <High>0.0278519</High>
+    <Low>0.0270327</Low>
+    <Close>0.0271033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-03</Date>
+    <Open>0.0270943</Open>
+    <High>0.0274627</High>
+    <Low>0.02696</Low>
+    <Close>0.02733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-04</Date>
+    <Open>0.02734</Open>
+    <High>0.0276628</High>
+    <Low>0.02703</Low>
+    <Close>0.02757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-05</Date>
+    <Open>0.02757</Open>
+    <High>0.02792</High>
+    <Low>0.02686</Low>
+    <Close>0.0272227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-06</Date>
+    <Open>0.0272327</Open>
+    <High>0.0278428</High>
+    <Low>0.02531</Low>
+    <Close>0.02555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-07</Date>
+    <Open>0.02555</Open>
+    <High>0.0261197</High>
+    <Low>0.0248012</Low>
+    <Close>0.0260918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-08</Date>
+    <Open>0.0260816</Open>
+    <High>0.0266424</High>
+    <Low>0.0256218</Low>
+    <Close>0.0265142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-09</Date>
+    <Open>0.02667</Open>
+    <High>0.0279573</High>
+    <Low>0.0265145</Low>
+    <Close>0.0275594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-10</Date>
+    <Open>0.0275599</Open>
+    <High>0.0284822</High>
+    <Low>0.0275499</Low>
+    <Close>0.0281754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-11</Date>
+    <Open>0.0281956</Open>
+    <High>0.0285503</High>
+    <Low>0.0278395</Low>
+    <Close>0.0283471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-12</Date>
+    <Open>0.0283071</Open>
+    <High>0.0288561</High>
+    <Low>0.0275763</Low>
+    <Close>0.0279956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-13</Date>
+    <Open>0.0281785</Open>
+    <High>0.028618</High>
+    <Low>0.0262108</Low>
+    <Close>0.0264603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-14</Date>
+    <Open>0.0264605</Open>
+    <High>0.0264626</High>
+    <Low>0.025891</Low>
+    <Close>0.0262666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-15</Date>
+    <Open>0.0262666</Open>
+    <High>0.0271649</High>
+    <Low>0.0257638</Low>
+    <Close>0.0262876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-16</Date>
+    <Open>0.02629</Open>
+    <High>0.0263276</High>
+    <Low>0.0256074</Low>
+    <Close>0.0258774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-17</Date>
+    <Open>0.02588</Open>
+    <High>0.02667</High>
+    <Low>0.0258674</Low>
+    <Close>0.02648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-18</Date>
+    <Open>0.0265</Open>
+    <High>0.02666</High>
+    <Low>0.0250575</Low>
+    <Close>0.02522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-19</Date>
+    <Open>0.0251975</Open>
+    <High>0.0252025</High>
+    <Low>0.0240524</Low>
+    <Close>0.0250725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-20</Date>
+    <Open>0.0250725</Open>
+    <High>0.0259426</High>
+    <Low>0.0249225</Low>
+    <Close>0.0256326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-21</Date>
+    <Open>0.0256405</Open>
+    <High>0.02591</High>
+    <Low>0.0246325</Low>
+    <Close>0.02487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-22</Date>
+    <Open>0.02451</Open>
+    <High>0.02527</High>
+    <Low>0.0241876</Low>
+    <Close>0.02517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-23</Date>
+    <Open>0.02518</Open>
+    <High>0.0255726</High>
+    <Low>0.02439</Low>
+    <Close>0.02473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-24</Date>
+    <Open>0.0247383</Open>
+    <High>0.0253185</High>
+    <Low>0.0247383</Low>
+    <Close>0.025072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-25</Date>
+    <Open>0.02507</Open>
+    <High>0.0251113</High>
+    <Low>0.02466</Low>
+    <Close>0.02474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-26</Date>
+    <Open>0.02475</Open>
+    <High>0.0269727</High>
+    <Low>0.02447</Low>
+    <Close>0.02507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-27</Date>
+    <Open>0.02509</Open>
+    <High>0.02582</High>
+    <Low>0.02489</Low>
+    <Close>0.0249775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-28</Date>
+    <Open>0.02498</Open>
+    <High>0.025105</High>
+    <Low>0.0241576</Low>
+    <Close>0.02473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-29</Date>
+    <Open>0.02477</Open>
+    <High>0.0252</High>
+    <Low>0.0243976</Low>
+    <Close>0.0251725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-09-30</Date>
+    <Open>0.02518</Open>
+    <High>0.0253125</High>
+    <Low>0.0248125</Low>
+    <Close>0.02492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-01</Date>
+    <Open>0.02493</Open>
+    <High>0.0249825</High>
+    <Low>0.02454</Low>
+    <Close>0.02466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-02</Date>
+    <Open>0.02466</Open>
+    <High>0.02836</High>
+    <Low>0.0246</Low>
+    <Close>0.02659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-03</Date>
+    <Open>0.0266027</Open>
+    <High>0.0269427</High>
+    <Low>0.0251225</Low>
+    <Close>0.0254425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-04</Date>
+    <Open>0.0254525</Open>
+    <High>0.0257577</High>
+    <Low>0.0251425</Low>
+    <Close>0.0257277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-05</Date>
+    <Open>0.0257277</Open>
+    <High>0.0257877</High>
+    <Low>0.0249525</Low>
+    <Close>0.0253051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-06</Date>
+    <Open>0.025175</Open>
+    <High>0.0257151</High>
+    <Low>0.025174</Low>
+    <Close>0.0256844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-07</Date>
+    <Open>0.0256844</Open>
+    <High>0.0256944</High>
+    <Low>0.0250818</Low>
+    <Close>0.0253936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-08</Date>
+    <Open>0.0253825</Open>
+    <High>0.0258234</High>
+    <Low>0.0253318</Low>
+    <Close>0.0255566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-09</Date>
+    <Open>0.0255566</Open>
+    <High>0.0257726</High>
+    <Low>0.02523</Low>
+    <Close>0.0256551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-10</Date>
+    <Open>0.0256551</Open>
+    <High>0.0313231</High>
+    <Low>0.0254925</Low>
+    <Close>0.0281572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-11</Date>
+    <Open>0.02816</Open>
+    <High>0.0290871</High>
+    <Low>0.0262074</Low>
+    <Close>0.0269276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-12</Date>
+    <Open>0.0270276</Open>
+    <High>0.0287089</High>
+    <Low>0.0265892</Low>
+    <Close>0.0268608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-13</Date>
+    <Open>0.0268608</Open>
+    <High>0.0270397</High>
+    <Low>0.024229</Low>
+    <Close>0.025492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-14</Date>
+    <Open>0.025492</Open>
+    <High>0.0292818</High>
+    <Low>0.0253218</Low>
+    <Close>0.0286011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-15</Date>
+    <Open>0.0285809</Open>
+    <High>0.0301612</High>
+    <Low>0.0269016</Low>
+    <Close>0.0269813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-16</Date>
+    <Open>0.02702</Open>
+    <High>0.0272811</High>
+    <Low>0.0260616</Low>
+    <Close>0.0263611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-17</Date>
+    <Open>0.0263613</Open>
+    <High>0.0284606</High>
+    <Low>0.0258597</Low>
+    <Close>0.0270605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-18</Date>
+    <Open>0.0270608</Open>
+    <High>0.0299021</High>
+    <Low>0.0270005</Low>
+    <Close>0.0278017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-19</Date>
+    <Open>0.0278828</Open>
+    <High>0.0320006</High>
+    <Low>0.0276108</Low>
+    <Close>0.03019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-20</Date>
+    <Open>0.0302</Open>
+    <High>0.0313391</High>
+    <Low>0.0287009</Low>
+    <Close>0.0299879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-21</Date>
+    <Open>0.0299979</Open>
+    <High>0.0307</High>
+    <Low>0.0283277</Low>
+    <Close>0.0289123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-22</Date>
+    <Open>0.028932</Open>
+    <High>0.0293329</High>
+    <Low>0.0282314</Low>
+    <Close>0.0288926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-23</Date>
+    <Open>0.0288926</Open>
+    <High>0.0289123</High>
+    <Low>0.0276322</Low>
+    <Close>0.0280439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-24</Date>
+    <Open>0.0280436</Open>
+    <High>0.0294724</High>
+    <Low>0.0278017</Low>
+    <Close>0.0283714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-25</Date>
+    <Open>0.0283911</Open>
+    <High>0.0286577</High>
+    <Low>0.0275289</Low>
+    <Close>0.028199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-26</Date>
+    <Open>0.0281996</Open>
+    <High>0.0287981</High>
+    <Low>0.0281373</Low>
+    <Close>0.028748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-27</Date>
+    <Open>0.0287581</Open>
+    <High>0.0293765</High>
+    <Low>0.0285563</Low>
+    <Close>0.0288317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-28</Date>
+    <Open>0.0288317</Open>
+    <High>0.030784</High>
+    <Low>0.0288209</Low>
+    <Close>0.0304064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-29</Date>
+    <Open>0.0304158</Open>
+    <High>0.0307007</High>
+    <Low>0.0297198</Low>
+    <Close>0.0300069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-30</Date>
+    <Open>0.0300172</Open>
+    <High>0.0306377</High>
+    <Low>0.0290358</Low>
+    <Close>0.0290358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-10-31</Date>
+    <Open>0.0290361</Open>
+    <High>0.0293259</High>
+    <Low>0.0284154</Low>
+    <Close>0.0289277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-01</Date>
+    <Open>0.0289583</Open>
+    <High>0.0292144</High>
+    <Low>0.0286843</Low>
+    <Close>0.0289271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-02</Date>
+    <Open>0.0289271</Open>
+    <High>0.0289271</High>
+    <Low>0.0271476</Low>
+    <Close>0.0274184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-03</Date>
+    <Open>0.0274184</Open>
+    <High>0.0282972</High>
+    <Low>0.0273484</Low>
+    <Close>0.0280197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-04</Date>
+    <Open>0.0277492</Open>
+    <High>0.0294026</High>
+    <Low>0.0277492</Low>
+    <Close>0.0293824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-05</Date>
+    <Open>0.0293521</Open>
+    <High>0.029783</High>
+    <Low>0.028962</Low>
+    <Close>0.0291918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-06</Date>
+    <Open>0.0292018</Open>
+    <High>0.0296691</High>
+    <Low>0.0286729</Low>
+    <Close>0.0287023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-07</Date>
+    <Open>0.0287023</Open>
+    <High>0.0287326</High>
+    <Low>0.0277419</Low>
+    <Close>0.0279536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-08</Date>
+    <Open>0.0279584</Open>
+    <High>0.0281841</High>
+    <Low>0.0243741</Low>
+    <Close>0.0250951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-09</Date>
+    <Open>0.0250951</Open>
+    <High>0.0276645</High>
+    <Low>0.021663</Low>
+    <Close>0.0232962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-10</Date>
+    <Open>0.0230147</Open>
+    <High>0.0270513</High>
+    <Low>0.021432</Low>
+    <Close>0.0241342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-11</Date>
+    <Open>0.0241534</Open>
+    <High>0.0276831</High>
+    <Low>0.0222011</Low>
+    <Close>0.0225027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-12</Date>
+    <Open>0.0224757</Open>
+    <High>0.0230941</High>
+    <Low>0.0218706</Low>
+    <Close>0.0224196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-13</Date>
+    <Open>0.0224296</Open>
+    <High>0.0230484</High>
+    <Low>0.020887</Low>
+    <Close>0.0211046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-14</Date>
+    <Open>0.0211104</Open>
+    <High>0.0211924</High>
+    <Low>0.01874</Low>
+    <Close>0.0204293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-15</Date>
+    <Open>0.0204383</Open>
+    <High>0.0214585</High>
+    <Low>0.0204073</Low>
+    <Close>0.0210489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-16</Date>
+    <Open>0.0210643</Open>
+    <High>0.0229007</High>
+    <Low>0.0203398</Low>
+    <Close>0.0205309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-17</Date>
+    <Open>0.0207222</Open>
+    <High>0.0207322</High>
+    <Low>0.0201209</Low>
+    <Close>0.020474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-18</Date>
+    <Open>0.0204642</Open>
+    <High>0.020723</High>
+    <Low>0.0203745</Low>
+    <Close>0.0205563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-19</Date>
+    <Open>0.0205563</Open>
+    <High>0.0229838</High>
+    <Low>0.0205337</Low>
+    <Close>0.0213775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-20</Date>
+    <Open>0.0213907</Open>
+    <High>0.0221219</High>
+    <Low>0.0203189</Low>
+    <Close>0.0203989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-21</Date>
+    <Open>0.0203792</Open>
+    <High>0.0214601</High>
+    <Low>0.0198085</Low>
+    <Close>0.0205151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-22</Date>
+    <Open>0.0205154</Open>
+    <High>0.0217315</High>
+    <Low>0.0203456</Low>
+    <Close>0.0211741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-23</Date>
+    <Open>0.0211841</Open>
+    <High>0.022493</High>
+    <Low>0.0211125</Low>
+    <Close>0.0223156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-24</Date>
+    <Open>0.0223356</Open>
+    <High>0.0228969</High>
+    <Low>0.0215803</Low>
+    <Close>0.0220714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-25</Date>
+    <Open>0.0220714</Open>
+    <High>0.0239449</High>
+    <Low>0.0216627</Low>
+    <Close>0.0225272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-26</Date>
+    <Open>0.0225269</Open>
+    <High>0.022707</High>
+    <Low>0.0221454</Low>
+    <Close>0.0223268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-27</Date>
+    <Open>0.0223368</Open>
+    <High>0.022626</High>
+    <Low>0.0221869</Low>
+    <Close>0.0224556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-28</Date>
+    <Open>0.0224556</Open>
+    <High>0.0224867</High>
+    <Low>0.0214278</Low>
+    <Close>0.0218517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-29</Date>
+    <Open>0.0218515</Open>
+    <High>0.022292</High>
+    <Low>0.0217004</Low>
+    <Close>0.0220718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-11-30</Date>
+    <Open>0.0220718</Open>
+    <High>0.0225711</High>
+    <Low>0.0219407</Low>
+    <Close>0.0225709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-01</Date>
+    <Open>0.0225709</Open>
+    <High>0.0240593</High>
+    <Low>0.02249</Low>
+    <Close>0.0226214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-02</Date>
+    <Open>0.0226411</Open>
+    <High>0.0227818</High>
+    <Low>0.0221318</Low>
+    <Close>0.0224113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-03</Date>
+    <Open>0.0224213</Open>
+    <High>0.022582</High>
+    <Low>0.0221544</Low>
+    <Close>0.0222122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-04</Date>
+    <Open>0.0222222</Open>
+    <High>0.0223145</High>
+    <Low>0.0219344</Low>
+    <Close>0.0221444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-05</Date>
+    <Open>0.0221322</Open>
+    <High>0.023497</High>
+    <Low>0.02208</Low>
+    <Close>0.0222507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-06</Date>
+    <Open>0.0222522</Open>
+    <High>0.0223104</High>
+    <Low>0.022</Low>
+    <Close>0.0221196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-07</Date>
+    <Open>0.0221296</Open>
+    <High>0.0228309</High>
+    <Low>0.02145</Low>
+    <Close>0.02193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-08</Date>
+    <Open>0.02193</Open>
+    <High>0.0233021</High>
+    <Low>0.02184</Low>
+    <Close>0.0227616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-09</Date>
+    <Open>0.0227623</Open>
+    <High>0.0231209</High>
+    <Low>0.0226314</Low>
+    <Close>0.0226507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-10</Date>
+    <Open>0.0226507</Open>
+    <High>0.0234002</High>
+    <Low>0.02251</Low>
+    <Close>0.0228395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-11</Date>
+    <Open>0.0228395</Open>
+    <High>0.0230398</High>
+    <Low>0.0223745</Low>
+    <Close>0.0224622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-12</Date>
+    <Open>0.0224645</Open>
+    <High>0.0228623</High>
+    <Low>0.0215404</Low>
+    <Close>0.021852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-13</Date>
+    <Open>0.021852</Open>
+    <High>0.0222645</High>
+    <Low>0.0215137</Low>
+    <Close>0.0221647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-14</Date>
+    <Open>0.0221749</Open>
+    <High>0.0235986</High>
+    <Low>0.0221538</Low>
+    <Close>0.0224316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-15</Date>
+    <Open>0.02244</Open>
+    <High>0.0224422</High>
+    <Low>0.0217922</Low>
+    <Close>0.0219522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-16</Date>
+    <Open>0.0219544</Open>
+    <High>0.0219544</High>
+    <Low>0.0206541</Low>
+    <Close>0.0209242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-17</Date>
+    <Open>0.0209021</Open>
+    <High>0.0209142</High>
+    <Low>0.0197712</Low>
+    <Close>0.0201726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-18</Date>
+    <Open>0.0201826</Open>
+    <High>0.0205508</High>
+    <Low>0.0201626</Low>
+    <Close>0.0204927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-19</Date>
+    <Open>0.0205233</Open>
+    <High>0.0205251</High>
+    <Low>0.0194402</Low>
+    <Close>0.01977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-20</Date>
+    <Open>0.01977</Open>
+    <High>0.0204402</High>
+    <Low>0.0194194</Low>
+    <Close>0.0202808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-21</Date>
+    <Open>0.0202908</Open>
+    <High>0.0204508</High>
+    <Low>0.0201298</Low>
+    <Close>0.020151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-22</Date>
+    <Open>0.020151</Open>
+    <High>0.02134</High>
+    <Low>0.0201208</Low>
+    <Close>0.0205765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-23</Date>
+    <Open>0.0205765</Open>
+    <High>0.0209379</High>
+    <Low>0.0205669</Low>
+    <Close>0.0208279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-24</Date>
+    <Open>0.0208279</Open>
+    <High>0.0209279</High>
+    <Low>0.0207685</Low>
+    <Close>0.0208485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-25</Date>
+    <Open>0.0208485</Open>
+    <High>0.0214596</High>
+    <Low>0.0207563</Low>
+    <Close>0.0208973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-26</Date>
+    <Open>0.0208979</Open>
+    <High>0.0210881</High>
+    <Low>0.0205153</Low>
+    <Close>0.0205459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-27</Date>
+    <Open>0.0205459</Open>
+    <High>0.0207161</High>
+    <Low>0.0201813</Low>
+    <Close>0.0202221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-28</Date>
+    <Open>0.0202121</Open>
+    <High>0.0203241</High>
+    <Low>0.0197665</Low>
+    <Close>0.0198893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-29</Date>
+    <Open>0.0198994</Open>
+    <High>0.0213393</High>
+    <Low>0.0198697</Low>
+    <Close>0.020031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-30</Date>
+    <Open>0.020031</Open>
+    <High>0.0201809</High>
+    <Low>0.01953</Low>
+    <Close>0.0197801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2022-12-31</Date>
+    <Open>0.0197799</Open>
+    <High>0.0200178</High>
+    <Low>0.0197099</Low>
+    <Close>0.0198001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-01</Date>
+    <Open>0.0197899</Open>
+    <High>0.0199312</High>
+    <Low>0.0196684</Low>
+    <Close>0.0198807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-02</Date>
+    <Open>0.0198607</Open>
+    <High>0.0202321</High>
+    <Low>0.0196917</Low>
+    <Close>0.0201633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-03</Date>
+    <Open>0.0201635</Open>
+    <High>0.0202431</High>
+    <Low>0.019972</Low>
+    <Close>0.0200022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-04</Date>
+    <Open>0.0200024</Open>
+    <High>0.0203119</High>
+    <Low>0.0199816</Low>
+    <Close>0.0201434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-05</Date>
+    <Open>0.0201334</Open>
+    <High>0.0203127</High>
+    <Low>0.0200126</Low>
+    <Close>0.0202129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-06</Date>
+    <Open>0.0202139</Open>
+    <High>0.0203127</High>
+    <Low>0.0194589</Low>
+    <Close>0.0201438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-07</Date>
+    <Open>0.0201436</Open>
+    <High>0.0201535</High>
+    <Low>0.019865</Low>
+    <Close>0.019905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-08</Date>
+    <Open>0.0199052</Open>
+    <High>0.0202557</High>
+    <Low>0.0197768</Low>
+    <Close>0.0202376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-09</Date>
+    <Open>0.020246</Open>
+    <High>0.02127</High>
+    <Low>0.0202258</Low>
+    <Close>0.0209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-10</Date>
+    <Open>0.0208898</Open>
+    <High>0.0213981</High>
+    <Low>0.0206979</Low>
+    <Close>0.021183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-11</Date>
+    <Open>0.0211738</Open>
+    <High>0.0214094</High>
+    <Low>0.0210064</Low>
+    <Close>0.0213496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-12</Date>
+    <Open>0.0214679</Open>
+    <High>0.0220015</High>
+    <Low>0.02124</Low>
+    <Close>0.0219722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-13</Date>
+    <Open>0.021882</Open>
+    <High>0.022692</High>
+    <Low>0.0216811</Low>
+    <Close>0.022692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-14</Date>
+    <Open>0.022692</Open>
+    <High>0.0240148</High>
+    <Low>0.0223727</Low>
+    <Close>0.0231112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-15</Date>
+    <Open>0.0231123</Open>
+    <High>0.0244739</High>
+    <Low>0.0230139</Low>
+    <Close>0.024097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-16</Date>
+    <Open>0.0240872</Open>
+    <High>0.0245098</High>
+    <Low>0.0234698</Low>
+    <Close>0.0238705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-17</Date>
+    <Open>0.0238705</Open>
+    <High>0.0248905</High>
+    <Low>0.0236019</Low>
+    <Close>0.0246127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-18</Date>
+    <Open>0.0246127</Open>
+    <High>0.0248025</High>
+    <Low>0.0229365</Low>
+    <Close>0.0230988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-19</Date>
+    <Open>0.0230888</Open>
+    <High>0.0235702</High>
+    <Low>0.022927</Low>
+    <Close>0.0235191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-20</Date>
+    <Open>0.0235091</Open>
+    <High>0.0245047</High>
+    <Low>0.0232295</Low>
+    <Close>0.0244242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-21</Date>
+    <Open>0.0244244</Open>
+    <High>0.024915</High>
+    <Low>0.0242451</Low>
+    <Close>0.024855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-22</Date>
+    <Open>0.0249047</Open>
+    <High>0.024914</High>
+    <Low>0.0243034</Low>
+    <Close>0.0243949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-23</Date>
+    <Open>0.0243949</Open>
+    <High>0.024983</High>
+    <Low>0.0243346</Low>
+    <Close>0.024924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-24</Date>
+    <Open>0.0249535</Open>
+    <High>0.0260723</High>
+    <Low>0.0248925</Low>
+    <Close>0.0252805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-25</Date>
+    <Open>0.0252808</Open>
+    <High>0.0257346</High>
+    <Low>0.0242334</Low>
+    <Close>0.0255543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-26</Date>
+    <Open>0.0255543</Open>
+    <High>0.0259339</High>
+    <Low>0.02491</Low>
+    <Close>0.025092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-27</Date>
+    <Open>0.025102</Open>
+    <High>0.0364098</High>
+    <Low>0.024875</Low>
+    <Close>0.0279006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-28</Date>
+    <Open>0.0274866</Open>
+    <High>0.0287469</High>
+    <Low>0.0268156</Low>
+    <Close>0.0269054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-29</Date>
+    <Open>0.0268854</Open>
+    <High>0.0272008</High>
+    <Low>0.026654</Low>
+    <Close>0.0270611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-30</Date>
+    <Open>0.0270611</Open>
+    <High>0.0273027</High>
+    <Low>0.02509</Low>
+    <Close>0.0252018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-01-31</Date>
+    <Open>0.0252018</Open>
+    <High>0.0262876</High>
+    <Low>0.0251013</Low>
+    <Close>0.0259423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-01</Date>
+    <Open>0.0259421</Open>
+    <High>0.0279614</High>
+    <Low>0.0253405</Low>
+    <Close>0.0272916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-02</Date>
+    <Open>0.0272914</Open>
+    <High>0.0279425</High>
+    <Low>0.026943</Low>
+    <Close>0.0269654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-03</Date>
+    <Open>0.0269557</Open>
+    <High>0.029806</High>
+    <Low>0.0269267</Low>
+    <Close>0.0283423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-04</Date>
+    <Open>0.0283523</Open>
+    <High>0.0287923</High>
+    <Low>0.0278522</Low>
+    <Close>0.0285426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-05</Date>
+    <Open>0.0285323</Open>
+    <High>0.0305352</High>
+    <Low>0.0274163</Low>
+    <Close>0.0276669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-06</Date>
+    <Open>0.0277172</Open>
+    <High>0.0284163</High>
+    <Low>0.0273497</Low>
+    <Close>0.0277611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-07</Date>
+    <Open>0.0277611</Open>
+    <High>0.033821</High>
+    <Low>0.0275422</Low>
+    <Close>0.0296721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-08</Date>
+    <Open>0.0296718</Open>
+    <High>0.03047</High>
+    <Low>0.028342</Low>
+    <Close>0.0288723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-09</Date>
+    <Open>0.028862</Open>
+    <High>0.02908</High>
+    <Low>0.0266967</Low>
+    <Close>0.0268124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-10</Date>
+    <Open>0.0268027</Open>
+    <High>0.0274766</High>
+    <Low>0.0266667</Low>
+    <Close>0.026904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-11</Date>
+    <Open>0.02691</Open>
+    <High>0.0278939</High>
+    <Low>0.0268732</Low>
+    <Close>0.0277825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-12</Date>
+    <Open>0.0277856</Open>
+    <High>0.0279234</High>
+    <Low>0.0271141</Low>
+    <Close>0.0272627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-13</Date>
+    <Open>0.0272527</Open>
+    <High>0.0273349</High>
+    <Low>0.0257824</Low>
+    <Close>0.0263142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-14</Date>
+    <Open>0.0263245</Open>
+    <High>0.0269432</High>
+    <Low>0.0258601</Low>
+    <Close>0.0269002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-15</Date>
+    <Open>0.026901</Open>
+    <High>0.0287046</High>
+    <Low>0.0267075</Low>
+    <Close>0.0286854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-16</Date>
+    <Open>0.0286952</Open>
+    <High>0.0296656</High>
+    <Low>0.0278264</Low>
+    <Close>0.0278395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-17</Date>
+    <Open>0.0278395</Open>
+    <High>0.0293718</High>
+    <Low>0.0274722</Low>
+    <Close>0.0292126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-18</Date>
+    <Open>0.0292429</Open>
+    <High>0.0300248</High>
+    <Low>0.0286955</Low>
+    <Close>0.029265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-19</Date>
+    <Open>0.029235</Open>
+    <High>0.0303552</High>
+    <Low>0.0288538</Low>
+    <Close>0.0298866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-20</Date>
+    <Open>0.0298766</Open>
+    <High>0.0338534</High>
+    <Low>0.0288075</Low>
+    <Close>0.0321813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-21</Date>
+    <Open>0.0321813</Open>
+    <High>0.0342365</High>
+    <Low>0.0303846</Low>
+    <Close>0.0307455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-22</Date>
+    <Open>0.0307252</Open>
+    <High>0.0308959</High>
+    <Low>0.0294638</Low>
+    <Close>0.0302403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-23</Date>
+    <Open>0.0302394</Open>
+    <High>0.0307031</High>
+    <Low>0.0297833</Low>
+    <Close>0.0298439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-24</Date>
+    <Open>0.0298342</Open>
+    <High>0.030343</High>
+    <Low>0.0291626</Low>
+    <Close>0.0294697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-25</Date>
+    <Open>0.0294497</Open>
+    <High>0.0298621</High>
+    <Low>0.0287417</Low>
+    <Close>0.029072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-26</Date>
+    <Open>0.0290629</Open>
+    <High>0.0312047</High>
+    <Low>0.0290223</Low>
+    <Close>0.0300918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-27</Date>
+    <Open>0.0301015</Open>
+    <High>0.0309228</High>
+    <Low>0.0295227</Low>
+    <Close>0.0302415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-02-28</Date>
+    <Open>0.0302318</Open>
+    <High>0.0304218</High>
+    <Low>0.029307</Low>
+    <Close>0.0294659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-01</Date>
+    <Open>0.0294759</Open>
+    <High>0.0298733</High>
+    <Low>0.028914</Low>
+    <Close>0.0297839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-02</Date>
+    <Open>0.0297839</Open>
+    <High>0.0299536</High>
+    <Low>0.0284926</Low>
+    <Close>0.0289326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-03</Date>
+    <Open>0.0289223</Open>
+    <High>0.0290229</High>
+    <Low>0.0266837</Low>
+    <Close>0.0272719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-04</Date>
+    <Open>0.0272719</Open>
+    <High>0.0280817</High>
+    <Low>0.0271614</Low>
+    <Close>0.0274219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-05</Date>
+    <Open>0.0274119</Open>
+    <High>0.027902</High>
+    <Low>0.0273411</Low>
+    <Close>0.027423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-06</Date>
+    <Open>0.027433</Open>
+    <High>0.0274633</High>
+    <Low>0.0268013</Low>
+    <Close>0.0270484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-07</Date>
+    <Open>0.0270484</Open>
+    <High>0.0277081</High>
+    <Low>0.0261895</Low>
+    <Close>0.0262287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-08</Date>
+    <Open>0.0262287</Open>
+    <High>0.0265481</High>
+    <Low>0.0253585</Low>
+    <Close>0.025379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-09</Date>
+    <Open>0.0253875</Open>
+    <High>0.0259619</High>
+    <Low>0.0228452</Low>
+    <Close>0.0230121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-10</Date>
+    <Open>0.0230123</Open>
+    <High>0.0231607</High>
+    <Low>0.0217593</Low>
+    <Close>0.0226515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-11</Date>
+    <Open>0.0226506</Open>
+    <High>0.0236612</High>
+    <Low>0.0222237</Low>
+    <Close>0.0230992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-12</Date>
+    <Open>0.0230791</Open>
+    <High>0.0243297</High>
+    <Low>0.0229428</Low>
+    <Close>0.0243196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-13</Date>
+    <Open>0.0243196</Open>
+    <High>0.0264895</High>
+    <Low>0.0241598</Low>
+    <Close>0.0263146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-14</Date>
+    <Open>0.0263146</Open>
+    <High>0.0276729</High>
+    <Low>0.0260382</Low>
+    <Close>0.0268198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-15</Date>
+    <Open>0.02682</Open>
+    <High>0.027458</High>
+    <Low>0.0258033</Low>
+    <Close>0.0262096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-16</Date>
+    <Open>0.0262094</Open>
+    <High>0.0266405</High>
+    <Low>0.0258615</Low>
+    <Close>0.0263961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-17</Date>
+    <Open>0.026385</Open>
+    <High>0.0277232</High>
+    <Low>0.02626</Low>
+    <Close>0.0276725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-18</Date>
+    <Open>0.0276725</Open>
+    <High>0.0280755</High>
+    <Low>0.0268523</Low>
+    <Close>0.027081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-19</Date>
+    <Open>0.0270506</Open>
+    <High>0.0280514</High>
+    <Low>0.0268363</Low>
+    <Close>0.0277538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-20</Date>
+    <Open>0.0277229</Open>
+    <High>0.0284422</High>
+    <Low>0.026695</Low>
+    <Close>0.0269781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-21</Date>
+    <Open>0.0269681</Open>
+    <High>0.0273485</High>
+    <Low>0.0261361</Low>
+    <Close>0.0272068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-22</Date>
+    <Open>0.0272065</Open>
+    <High>0.027476</High>
+    <Low>0.0244358</Low>
+    <Close>0.0250384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-23</Date>
+    <Open>0.0250284</Open>
+    <High>0.0266667</High>
+    <Low>0.0250199</Low>
+    <Close>0.0265451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-24</Date>
+    <Open>0.0265451</Open>
+    <High>0.0265728</High>
+    <Low>0.0254798</Low>
+    <Close>0.0256664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-25</Date>
+    <Open>0.0256785</Open>
+    <High>0.0260357</High>
+    <Low>0.0253686</Low>
+    <Close>0.0256148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-26</Date>
+    <Open>0.0256048</Open>
+    <High>0.0261432</High>
+    <Low>0.0255945</Low>
+    <Close>0.0258091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-27</Date>
+    <Open>0.0258084</Open>
+    <High>0.0260134</High>
+    <Low>0.0245247</Low>
+    <Close>0.0249017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-28</Date>
+    <Open>0.0249017</Open>
+    <High>0.0254969</High>
+    <Low>0.0248089</Low>
+    <Close>0.0253299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-29</Date>
+    <Open>0.0253299</Open>
+    <High>0.0260963</High>
+    <Low>0.0251781</Low>
+    <Close>0.0260447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-30</Date>
+    <Open>0.0260478</Open>
+    <High>0.026708</High>
+    <Low>0.0258213</Low>
+    <Close>0.0261973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-03-31</Date>
+    <Open>0.0261973</Open>
+    <High>0.0268959</High>
+    <Low>0.0259449</Low>
+    <Close>0.0266953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-01</Date>
+    <Open>0.0266956</Open>
+    <High>0.0277781</High>
+    <Low>0.0266953</Low>
+    <Close>0.02765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-02</Date>
+    <Open>0.0276502</Open>
+    <High>0.0281715</High>
+    <Low>0.0266881</Low>
+    <Close>0.0268767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-03</Date>
+    <Open>0.0268767</Open>
+    <High>0.0269416</High>
+    <Low>0.0260483</Low>
+    <Close>0.0263005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-04</Date>
+    <Open>0.0262505</Open>
+    <High>0.0269602</High>
+    <Low>0.0262402</Low>
+    <Close>0.0268237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-05</Date>
+    <Open>0.0268334</Open>
+    <High>0.0274201</High>
+    <Low>0.0265509</Low>
+    <Close>0.0273999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-06</Date>
+    <Open>0.0273901</Open>
+    <High>0.0304925</High>
+    <Low>0.0273582</Low>
+    <Close>0.0275997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-07</Date>
+    <Open>0.0275997</Open>
+    <High>0.0298949</High>
+    <Low>0.0271365</Low>
+    <Close>0.0273605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-08</Date>
+    <Open>0.0273702</Open>
+    <High>0.028193</High>
+    <Low>0.0273297</Low>
+    <Close>0.0276208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-09</Date>
+    <Open>0.0276208</Open>
+    <High>0.0281689</High>
+    <Low>0.0268066</Low>
+    <Close>0.0281689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-10</Date>
+    <Open>0.0281789</Open>
+    <High>0.0293891</High>
+    <Low>0.0271887</Low>
+    <Close>0.0276727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-11</Date>
+    <Open>0.0276727</Open>
+    <High>0.0289626</High>
+    <Low>0.0276507</Low>
+    <Close>0.0285279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-12</Date>
+    <Open>0.0285082</Open>
+    <High>0.0285768</High>
+    <Low>0.0271111</Low>
+    <Close>0.0274014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-13</Date>
+    <Open>0.0274014</Open>
+    <High>0.0277566</High>
+    <Low>0.0271122</Low>
+    <Close>0.0277366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-14</Date>
+    <Open>0.0277466</Open>
+    <High>0.0281284</High>
+    <Low>0.0275017</Low>
+    <Close>0.0278331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-15</Date>
+    <Open>0.0278331</Open>
+    <High>0.0281759</High>
+    <Low>0.0277138</Low>
+    <Close>0.027755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-16</Date>
+    <Open>0.0277547</Open>
+    <High>0.0287232</High>
+    <Low>0.0275053</Low>
+    <Close>0.0282889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-17</Date>
+    <Open>0.0282892</Open>
+    <High>0.0283827</High>
+    <Low>0.0274248</Low>
+    <Close>0.0275162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-18</Date>
+    <Open>0.0275162</Open>
+    <High>0.0280918</High>
+    <Low>0.027444</Low>
+    <Close>0.0279147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-19</Date>
+    <Open>0.0279142</Open>
+    <High>0.0282722</High>
+    <Low>0.0264622</Low>
+    <Close>0.027225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-20</Date>
+    <Open>0.0271949</Open>
+    <High>0.0271949</High>
+    <Low>0.0260799</Low>
+    <Close>0.0264421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-21</Date>
+    <Open>0.0264419</Open>
+    <High>0.0267047</High>
+    <Low>0.0256459</Low>
+    <Close>0.0258172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-22</Date>
+    <Open>0.0258072</Open>
+    <High>0.0263026</High>
+    <Low>0.0256972</Low>
+    <Close>0.0263024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-23</Date>
+    <Open>0.0262824</Open>
+    <High>0.0263821</High>
+    <Low>0.0258772</Low>
+    <Close>0.0261113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-24</Date>
+    <Open>0.0261113</Open>
+    <High>0.0263984</High>
+    <Low>0.0255248</Low>
+    <Close>0.0256905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-25</Date>
+    <Open>0.0256908</Open>
+    <High>0.0260716</High>
+    <Low>0.02516</Low>
+    <Close>0.0256959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-26</Date>
+    <Open>0.0256959</Open>
+    <High>0.0263853</High>
+    <Low>0.0248247</Low>
+    <Close>0.0253681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-27</Date>
+    <Open>0.0253681</Open>
+    <High>0.0259873</High>
+    <Low>0.0252756</Low>
+    <Close>0.0256084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-28</Date>
+    <Open>0.0256182</Open>
+    <High>0.0268894</High>
+    <Low>0.0254782</Low>
+    <Close>0.02593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-29</Date>
+    <Open>0.0258699</Open>
+    <High>0.0264906</High>
+    <Low>0.0258689</Low>
+    <Close>0.0261354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-04-30</Date>
+    <Open>0.0260951</Open>
+    <High>0.0261654</High>
+    <Low>0.0255651</Low>
+    <Close>0.0256946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-01</Date>
+    <Open>0.0256946</Open>
+    <High>0.0278484</High>
+    <Low>0.024994</Low>
+    <Close>0.026007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-02</Date>
+    <Open>0.026007</Open>
+    <High>0.0260073</High>
+    <Low>0.0245447</Low>
+    <Close>0.0249655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-03</Date>
+    <Open>0.0249555</Open>
+    <High>0.0251453</High>
+    <Low>0.0240379</Low>
+    <Close>0.0246464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-04</Date>
+    <Open>0.0246467</Open>
+    <High>0.0248445</High>
+    <Low>0.0242797</Low>
+    <Close>0.0244188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-05</Date>
+    <Open>0.024409</Open>
+    <High>0.0249369</High>
+    <Low>0.024329</Low>
+    <Close>0.0248726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-06</Date>
+    <Open>0.0248629</Open>
+    <High>0.0249867</High>
+    <Low>0.0241071</Low>
+    <Close>0.0243626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-07</Date>
+    <Open>0.0243613</Open>
+    <High>0.0244224</High>
+    <Low>0.0242304</Low>
+    <Close>0.0243187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-08</Date>
+    <Open>0.0243289</Open>
+    <High>0.0243289</High>
+    <Low>0.0230559</Low>
+    <Close>0.0232479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-09</Date>
+    <Open>0.0232374</Open>
+    <High>0.023686</High>
+    <Low>0.0232374</Low>
+    <Close>0.0235936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-10</Date>
+    <Open>0.0236006</Open>
+    <High>0.0241089</High>
+    <Low>0.0232155</Low>
+    <Close>0.0237537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-11</Date>
+    <Open>0.0237537</Open>
+    <High>0.0238738</High>
+    <Low>0.0227527</Low>
+    <Close>0.0229729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-12</Date>
+    <Open>0.0229729</Open>
+    <High>0.0231885</High>
+    <Low>0.0225202</Low>
+    <Close>0.0231285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-13</Date>
+    <Open>0.0231285</Open>
+    <High>0.023274</High>
+    <Low>0.0230215</Low>
+    <Close>0.0231316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-14</Date>
+    <Open>0.0231316</Open>
+    <High>0.0234941</High>
+    <Low>0.0230138</Low>
+    <Close>0.0232339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-15</Date>
+    <Open>0.0232639</Open>
+    <High>0.0235941</High>
+    <Low>0.0231216</Low>
+    <Close>0.0235164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-16</Date>
+    <Open>0.0235164</Open>
+    <High>0.0246572</High>
+    <Low>0.0233393</Low>
+    <Close>0.0234617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-17</Date>
+    <Open>0.0234594</Open>
+    <High>0.0236818</High>
+    <Low>0.0231593</Low>
+    <Close>0.0236118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-18</Date>
+    <Open>0.0236218</Open>
+    <High>0.0237795</High>
+    <Low>0.0230892</Low>
+    <Close>0.0232693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-19</Date>
+    <Open>0.0232593</Open>
+    <High>0.0233805</High>
+    <Low>0.0230916</Low>
+    <Close>0.023197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-20</Date>
+    <Open>0.0232016</Open>
+    <High>0.0237814</High>
+    <Low>0.0230962</Low>
+    <Close>0.0235011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-21</Date>
+    <Open>0.0235011</Open>
+    <High>0.0242521</High>
+    <Low>0.0233116</Low>
+    <Close>0.0236942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-22</Date>
+    <Open>0.0236918</Open>
+    <High>0.0244647</High>
+    <Low>0.0231439</Low>
+    <Close>0.0243422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-23</Date>
+    <Open>0.0243334</Open>
+    <High>0.0245344</High>
+    <Low>0.0241541</Low>
+    <Close>0.0242715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-24</Date>
+    <Open>0.0242712</Open>
+    <High>0.0243124</High>
+    <Low>0.0231256</Low>
+    <Close>0.0233286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-25</Date>
+    <Open>0.0233288</Open>
+    <High>0.0233881</High>
+    <Low>0.0230577</Low>
+    <Close>0.0232107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-26</Date>
+    <Open>0.0231493</Open>
+    <High>0.0232705</High>
+    <Low>0.0230016</Low>
+    <Close>0.0232146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-27</Date>
+    <Open>0.023217</Open>
+    <High>0.0232293</High>
+    <Low>0.0229771</Low>
+    <Close>0.0231886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="JST">
+    <Date>2023-05-28</Date>
+    <Open>0.023177</Open>
+    <High>0.023477</High>
+    <Low>0.023177</Low>
+    <Close>0.0233854</Close>
+  </Cryptocurrency>
+</Root>

@@ -1,0 +1,7010 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-01</Date>
+    <Open>11.0</Open>
+    <High>11.5</High>
+    <Low>8.609</Low>
+    <Close>8.823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-02</Date>
+    <Open>8.823</Open>
+    <High>9.509</High>
+    <Low>5.986</Low>
+    <Close>7.257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-03</Date>
+    <Open>7.257</Open>
+    <High>8.926</High>
+    <Low>4.679</Low>
+    <Close>4.875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-04</Date>
+    <Open>4.875</Open>
+    <High>5.754</High>
+    <Low>4.361</Low>
+    <Close>4.575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-05</Date>
+    <Open>4.575</Open>
+    <High>5.073</High>
+    <Low>1.333</Low>
+    <Close>1.885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-06</Date>
+    <Open>1.885</Open>
+    <High>3.502</High>
+    <Low>1.131</Low>
+    <Close>3.183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-07</Date>
+    <Open>3.183</Open>
+    <High>3.373</High>
+    <Low>2.194</Low>
+    <Close>2.855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-08</Date>
+    <Open>2.855</Open>
+    <High>2.972</High>
+    <Low>2.282</Low>
+    <Close>2.374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-09</Date>
+    <Open>2.374</Open>
+    <High>3.189</High>
+    <Low>2.16</Low>
+    <Close>2.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-10</Date>
+    <Open>2.88</Open>
+    <High>3.142</High>
+    <Low>2.258</Low>
+    <Close>2.388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-11</Date>
+    <Open>2.388</Open>
+    <High>2.949</High>
+    <Low>2.038</Low>
+    <Close>2.716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-12</Date>
+    <Open>2.716</Open>
+    <High>2.733</High>
+    <Low>2.316</Low>
+    <Close>2.626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-13</Date>
+    <Open>2.626</Open>
+    <High>2.639</High>
+    <Low>2.187</Low>
+    <Close>2.329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-14</Date>
+    <Open>2.329</Open>
+    <High>2.666</High>
+    <Low>2.16</Low>
+    <Close>2.467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-15</Date>
+    <Open>2.467</Open>
+    <High>2.646</High>
+    <Low>1.69</Low>
+    <Close>1.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-16</Date>
+    <Open>1.76</Open>
+    <High>1.823</High>
+    <Low>1.469</Low>
+    <Close>1.518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-17</Date>
+    <Open>1.518</Open>
+    <High>1.659</High>
+    <Low>1.32</Low>
+    <Close>1.538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-18</Date>
+    <Open>1.538</Open>
+    <High>1.867</High>
+    <Low>1.534</Low>
+    <Close>1.695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-19</Date>
+    <Open>1.695</Open>
+    <High>1.947</High>
+    <Low>1.609</Low>
+    <Close>1.774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-20</Date>
+    <Open>1.774</Open>
+    <High>1.938</High>
+    <Low>1.575</Low>
+    <Close>1.644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-21</Date>
+    <Open>1.644</Open>
+    <High>1.743</High>
+    <Low>1.365</Low>
+    <Close>1.411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-22</Date>
+    <Open>1.411</Open>
+    <High>1.463</High>
+    <Low>1.324</Low>
+    <Close>1.392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-23</Date>
+    <Open>1.392</Open>
+    <High>1.453</High>
+    <Low>1.223</Low>
+    <Close>1.264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-24</Date>
+    <Open>1.264</Open>
+    <High>1.475</High>
+    <Low>1.248</Low>
+    <Close>1.409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-25</Date>
+    <Open>1.409</Open>
+    <High>1.444</High>
+    <Low>1.337</Low>
+    <Close>1.403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-26</Date>
+    <Open>1.403</Open>
+    <High>1.444</High>
+    <Low>1.357</Low>
+    <Close>1.398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-27</Date>
+    <Open>1.398</Open>
+    <High>1.451</High>
+    <Low>1.332</Low>
+    <Close>1.373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-28</Date>
+    <Open>1.373</Open>
+    <High>1.393</High>
+    <Low>1.255</Low>
+    <Close>1.271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-29</Date>
+    <Open>1.271</Open>
+    <High>1.289</High>
+    <Low>1.2</Low>
+    <Close>1.255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-09-30</Date>
+    <Open>1.255</Open>
+    <High>1.327</High>
+    <Low>1.242</Low>
+    <Close>1.283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-01</Date>
+    <Open>1.283</Open>
+    <High>1.35</High>
+    <Low>1.208</Low>
+    <Close>1.252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-02</Date>
+    <Open>1.252</Open>
+    <High>1.263</High>
+    <Low>1.045</Low>
+    <Close>1.117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-03</Date>
+    <Open>1.117</Open>
+    <High>1.128</High>
+    <Low>1.051</Low>
+    <Close>1.059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-04</Date>
+    <Open>1.059</Open>
+    <High>1.069</High>
+    <Low>0.8612</Low>
+    <Close>0.8787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-05</Date>
+    <Open>0.8787</Open>
+    <High>0.9457</High>
+    <Low>0.8232</Low>
+    <Close>0.8461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-06</Date>
+    <Open>0.8461</Open>
+    <High>0.8522</High>
+    <Low>0.627</Low>
+    <Close>0.6398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-07</Date>
+    <Open>0.6398</Open>
+    <High>0.6824</High>
+    <Low>0.5513</Low>
+    <Close>0.6776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-08</Date>
+    <Open>0.6776</Open>
+    <High>0.7986</High>
+    <Low>0.5994</Low>
+    <Close>0.7764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-09</Date>
+    <Open>0.7764</Open>
+    <High>0.8647</High>
+    <Low>0.7368</Low>
+    <Close>0.8277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-10</Date>
+    <Open>0.8277</Open>
+    <High>0.8718</High>
+    <Low>0.7343</Low>
+    <Close>0.7481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-11</Date>
+    <Open>0.7481</Open>
+    <High>0.7857</High>
+    <Low>0.6974</Low>
+    <Close>0.7615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-12</Date>
+    <Open>0.7615</Open>
+    <High>0.8015</High>
+    <Low>0.7302</Low>
+    <Close>0.7623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-13</Date>
+    <Open>0.7623</Open>
+    <High>0.7701</High>
+    <Low>0.7122</Low>
+    <Close>0.7366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-14</Date>
+    <Open>0.7366</Open>
+    <High>0.7663</High>
+    <Low>0.6925</Low>
+    <Close>0.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-15</Date>
+    <Open>0.72</Open>
+    <High>0.7218</High>
+    <Low>0.6673</Low>
+    <Close>0.7045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-16</Date>
+    <Open>0.7045</Open>
+    <High>0.7075</High>
+    <Low>0.6427</Low>
+    <Close>0.6577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-17</Date>
+    <Open>0.6577</Open>
+    <High>0.679</High>
+    <Low>0.6439</Low>
+    <Close>0.6635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-18</Date>
+    <Open>0.6635</Open>
+    <High>0.7174</High>
+    <Low>0.6615</Low>
+    <Close>0.7141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-19</Date>
+    <Open>0.7141</Open>
+    <High>0.7253</High>
+    <Low>0.6676</Low>
+    <Close>0.6762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-20</Date>
+    <Open>0.6762</Open>
+    <High>0.6781</High>
+    <Low>0.6122</Low>
+    <Close>0.6266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-21</Date>
+    <Open>0.6266</Open>
+    <High>0.6981</High>
+    <Low>0.6219</Low>
+    <Close>0.6644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-22</Date>
+    <Open>0.6644</Open>
+    <High>0.718</High>
+    <Low>0.6599</Low>
+    <Close>0.6666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-23</Date>
+    <Open>0.6666</Open>
+    <High>0.6963</High>
+    <Low>0.6457</Low>
+    <Close>0.664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-24</Date>
+    <Open>0.664</Open>
+    <High>0.672</High>
+    <Low>0.6456</Low>
+    <Close>0.6576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-25</Date>
+    <Open>0.6576</Open>
+    <High>0.6592</High>
+    <Low>0.6162</Low>
+    <Close>0.6236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-26</Date>
+    <Open>0.6236</Open>
+    <High>0.6425</High>
+    <Low>0.5893</Low>
+    <Close>0.6251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-27</Date>
+    <Open>0.6251</Open>
+    <High>0.7151</High>
+    <Low>0.6237</Low>
+    <Close>0.6958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-28</Date>
+    <Open>0.6958</Open>
+    <High>0.7036</High>
+    <Low>0.6094</Low>
+    <Close>0.637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-29</Date>
+    <Open>0.637</Open>
+    <High>0.6775</High>
+    <Low>0.6199</Low>
+    <Close>0.6435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-30</Date>
+    <Open>0.6435</Open>
+    <High>0.6484</High>
+    <Low>0.5874</Low>
+    <Close>0.5975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-10-31</Date>
+    <Open>0.5975</Open>
+    <High>0.634</High>
+    <Low>0.5896</Low>
+    <Close>0.6053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-01</Date>
+    <Open>0.6053</Open>
+    <High>0.6157</High>
+    <Low>0.5934</Low>
+    <Close>0.6043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-02</Date>
+    <Open>0.6043</Open>
+    <High>0.6218</High>
+    <Low>0.5815</Low>
+    <Close>0.5815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-03</Date>
+    <Open>0.5815</Open>
+    <High>0.5815</High>
+    <Low>0.5054</Low>
+    <Close>0.5236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-04</Date>
+    <Open>0.5236</Open>
+    <High>0.5293</High>
+    <Low>0.4715</Low>
+    <Close>0.4884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-05</Date>
+    <Open>0.4884</Open>
+    <High>0.5417</High>
+    <Low>0.4814</Low>
+    <Close>0.5167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-06</Date>
+    <Open>0.5167</Open>
+    <High>0.6319</High>
+    <Low>0.5145</Low>
+    <Close>0.6144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-07</Date>
+    <Open>0.6144</Open>
+    <High>0.7092</High>
+    <Low>0.5811</Low>
+    <Close>0.6028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-08</Date>
+    <Open>0.6028</Open>
+    <High>0.6595</High>
+    <Low>0.5897</Low>
+    <Close>0.6388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-09</Date>
+    <Open>0.6388</Open>
+    <High>0.6564</High>
+    <Low>0.583</Low>
+    <Close>0.6008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-10</Date>
+    <Open>0.6008</Open>
+    <High>0.69</High>
+    <Low>0.5842</Low>
+    <Close>0.6711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-11</Date>
+    <Open>0.6711</Open>
+    <High>0.7588</High>
+    <Low>0.671</Low>
+    <Close>0.6811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-12</Date>
+    <Open>0.6811</Open>
+    <High>0.7237</High>
+    <Low>0.6435</Low>
+    <Close>0.6898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-13</Date>
+    <Open>0.6898</Open>
+    <High>0.9821</High>
+    <Low>0.685</Low>
+    <Close>0.9584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-14</Date>
+    <Open>0.9584</Open>
+    <High>1.101</High>
+    <Low>0.8491</Low>
+    <Close>1.045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-15</Date>
+    <Open>1.045</Open>
+    <High>1.426</High>
+    <Low>1.045</Low>
+    <Close>1.246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-16</Date>
+    <Open>1.246</Open>
+    <High>1.474</High>
+    <Low>1.132</Low>
+    <Close>1.317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-17</Date>
+    <Open>1.317</Open>
+    <High>1.441</High>
+    <Low>1.222</Low>
+    <Close>1.331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-18</Date>
+    <Open>1.331</Open>
+    <High>1.352</High>
+    <Low>1.064</Low>
+    <Close>1.143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-19</Date>
+    <Open>1.143</Open>
+    <High>1.659</High>
+    <Low>1.115</Low>
+    <Close>1.569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-20</Date>
+    <Open>1.569</Open>
+    <High>1.791</High>
+    <Low>1.488</Low>
+    <Close>1.577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-21</Date>
+    <Open>1.577</Open>
+    <High>1.73</High>
+    <Low>1.493</Low>
+    <Close>1.648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-22</Date>
+    <Open>1.648</Open>
+    <High>1.746</High>
+    <Low>1.391</Low>
+    <Close>1.622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-23</Date>
+    <Open>1.622</Open>
+    <High>1.68</High>
+    <Low>1.428</Low>
+    <Close>1.523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-24</Date>
+    <Open>1.523</Open>
+    <High>1.587</High>
+    <Low>1.295</Low>
+    <Close>1.337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-25</Date>
+    <Open>1.337</Open>
+    <High>1.504</High>
+    <Low>1.16</Low>
+    <Close>1.222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-26</Date>
+    <Open>1.222</Open>
+    <High>1.429</High>
+    <Low>0.9787</Low>
+    <Close>1.417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-27</Date>
+    <Open>1.417</Open>
+    <High>1.507</High>
+    <Low>1.306</Low>
+    <Close>1.449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-28</Date>
+    <Open>1.449</Open>
+    <High>1.481</High>
+    <Low>1.338</Low>
+    <Close>1.366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-29</Date>
+    <Open>1.366</Open>
+    <High>1.459</High>
+    <Low>1.343</Low>
+    <Close>1.428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-11-30</Date>
+    <Open>1.428</Open>
+    <High>1.578</High>
+    <Low>1.412</Low>
+    <Close>1.577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-01</Date>
+    <Open>1.577</Open>
+    <High>2.018</High>
+    <Low>1.542</Low>
+    <Close>1.923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-02</Date>
+    <Open>1.923</Open>
+    <High>2.375</High>
+    <Low>1.872</Low>
+    <Close>2.176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-03</Date>
+    <Open>2.176</Open>
+    <High>2.227</High>
+    <Low>2.001</Low>
+    <Close>2.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-04</Date>
+    <Open>2.13</Open>
+    <High>2.154</High>
+    <Low>1.824</Low>
+    <Close>1.902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-05</Date>
+    <Open>1.902</Open>
+    <High>2.331</High>
+    <Low>1.856</Low>
+    <Close>2.319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-06</Date>
+    <Open>2.319</Open>
+    <High>2.33</High>
+    <Low>2.067</Low>
+    <Close>2.187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-07</Date>
+    <Open>2.187</Open>
+    <High>2.496</High>
+    <Low>2.107</Low>
+    <Close>2.406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-08</Date>
+    <Open>2.406</Open>
+    <High>2.468</High>
+    <Low>2.041</Low>
+    <Close>2.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-09</Date>
+    <Open>2.12</Open>
+    <High>2.314</High>
+    <Low>1.971</Low>
+    <Close>2.214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-10</Date>
+    <Open>2.214</Open>
+    <High>2.234</High>
+    <Low>2.091</Low>
+    <Close>2.154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-11</Date>
+    <Open>2.154</Open>
+    <High>2.167</High>
+    <Low>1.892</Low>
+    <Close>1.929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-12</Date>
+    <Open>1.929</Open>
+    <High>2.213</High>
+    <Low>1.923</Low>
+    <Close>2.154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-13</Date>
+    <Open>2.154</Open>
+    <High>2.427</High>
+    <Low>2.144</Low>
+    <Close>2.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-14</Date>
+    <Open>2.39</Open>
+    <High>2.593</High>
+    <Low>2.25</Low>
+    <Close>2.564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-15</Date>
+    <Open>2.564</Open>
+    <High>2.8</High>
+    <Low>2.526</Low>
+    <Close>2.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-16</Date>
+    <Open>2.72</Open>
+    <High>2.949</High>
+    <Low>2.545</Low>
+    <Close>2.847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-17</Date>
+    <Open>2.847</Open>
+    <High>2.965</High>
+    <Low>2.619</Low>
+    <Close>2.682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-18</Date>
+    <Open>2.682</Open>
+    <High>2.863</High>
+    <Low>2.589</Low>
+    <Close>2.826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-19</Date>
+    <Open>2.826</Open>
+    <High>3.076</High>
+    <Low>2.711</Low>
+    <Close>2.866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-20</Date>
+    <Open>2.866</Open>
+    <High>2.936</High>
+    <Low>2.634</Low>
+    <Close>2.702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-21</Date>
+    <Open>2.702</Open>
+    <High>2.782</High>
+    <Low>2.436</Low>
+    <Close>2.506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-22</Date>
+    <Open>2.506</Open>
+    <High>2.756</High>
+    <Low>2.297</Low>
+    <Close>2.717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-23</Date>
+    <Open>2.717</Open>
+    <High>2.759</High>
+    <Low>1.15</Low>
+    <Close>2.217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-24</Date>
+    <Open>2.217</Open>
+    <High>2.605</High>
+    <Low>1.962</Low>
+    <Close>2.587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-25</Date>
+    <Open>2.587</Open>
+    <High>2.681</High>
+    <Low>2.37</Low>
+    <Close>2.528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-26</Date>
+    <Open>2.528</Open>
+    <High>2.531</High>
+    <Low>2.311</Low>
+    <Close>2.385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-27</Date>
+    <Open>2.385</Open>
+    <High>2.723</High>
+    <Low>2.301</Low>
+    <Close>2.624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-28</Date>
+    <Open>2.624</Open>
+    <High>2.892</High>
+    <Low>2.555</Low>
+    <Close>2.616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-29</Date>
+    <Open>2.616</Open>
+    <High>2.669</High>
+    <Low>2.368</Low>
+    <Close>2.504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-30</Date>
+    <Open>2.504</Open>
+    <High>2.739</High>
+    <Low>2.392</Low>
+    <Close>2.583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2020-12-31</Date>
+    <Open>2.583</Open>
+    <High>2.935</High>
+    <Low>2.451</Low>
+    <Close>2.869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-01</Date>
+    <Open>2.869</Open>
+    <High>3.342</High>
+    <Low>2.801</Low>
+    <Close>3.337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-02</Date>
+    <Open>3.337</Open>
+    <High>3.366</High>
+    <Low>3.025</Low>
+    <Close>3.196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-03</Date>
+    <Open>3.196</Open>
+    <High>3.582</High>
+    <Low>2.958</Low>
+    <Close>3.454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-04</Date>
+    <Open>3.454</Open>
+    <High>4.161</High>
+    <Low>3.189</Low>
+    <Close>3.571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-05</Date>
+    <Open>3.571</Open>
+    <High>4.015</High>
+    <Low>3.122</Low>
+    <Close>3.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-06</Date>
+    <Open>3.86</Open>
+    <High>4.134</High>
+    <Low>3.563</Low>
+    <Close>3.886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-07</Date>
+    <Open>3.886</Open>
+    <High>4.371</High>
+    <Low>3.542</Low>
+    <Close>3.948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-08</Date>
+    <Open>3.948</Open>
+    <High>4.48</High>
+    <Low>3.255</Low>
+    <Close>4.286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-09</Date>
+    <Open>4.286</Open>
+    <High>5.029</High>
+    <Low>4.191</Low>
+    <Close>4.679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-10</Date>
+    <Open>4.679</Open>
+    <High>4.873</High>
+    <Low>4.021</Low>
+    <Close>4.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-11</Date>
+    <Open>4.39</Open>
+    <High>4.414</High>
+    <Low>3.191</Low>
+    <Close>3.883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-12</Date>
+    <Open>3.883</Open>
+    <High>4.66</High>
+    <Low>3.676</Low>
+    <Close>4.286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-13</Date>
+    <Open>4.286</Open>
+    <High>5.196</High>
+    <Low>3.963</Low>
+    <Close>5.117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-14</Date>
+    <Open>5.117</Open>
+    <High>5.779</High>
+    <Low>4.982</Low>
+    <Close>5.675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-15</Date>
+    <Open>5.675</Open>
+    <High>6.826</High>
+    <Low>5.345</Low>
+    <Close>6.411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-16</Date>
+    <Open>6.411</Open>
+    <High>7.494</High>
+    <Low>6.106</Low>
+    <Close>7.153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-17</Date>
+    <Open>7.153</Open>
+    <High>7.786</High>
+    <Low>6.8</Low>
+    <Close>7.056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-18</Date>
+    <Open>7.056</Open>
+    <High>7.714</High>
+    <Low>6.85</Low>
+    <Close>7.483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-19</Date>
+    <Open>7.483</Open>
+    <High>7.706</High>
+    <Low>6.217</Low>
+    <Close>6.538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-20</Date>
+    <Open>6.538</Open>
+    <High>7.322</High>
+    <Low>6.076</Low>
+    <Close>7.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-21</Date>
+    <Open>7.3</Open>
+    <High>7.334</High>
+    <Low>5.411</Low>
+    <Close>5.609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-22</Date>
+    <Open>5.609</Open>
+    <High>6.999</High>
+    <Low>5.235</Low>
+    <Close>6.742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-23</Date>
+    <Open>6.742</Open>
+    <High>7.442</High>
+    <Low>6.594</Low>
+    <Close>7.084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-24</Date>
+    <Open>7.084</Open>
+    <High>8.499</High>
+    <Low>6.982</Low>
+    <Close>8.345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-25</Date>
+    <Open>8.345</Open>
+    <High>9.5</High>
+    <Low>7.423</Low>
+    <Close>7.615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-26</Date>
+    <Open>7.615</Open>
+    <High>8.421</High>
+    <Low>6.793</Low>
+    <Close>8.176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-27</Date>
+    <Open>8.176</Open>
+    <High>8.218</High>
+    <Low>6.95</Low>
+    <Close>7.093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-28</Date>
+    <Open>7.093</Open>
+    <High>8.761</High>
+    <Low>6.928</Low>
+    <Close>8.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-29</Date>
+    <Open>8.26</Open>
+    <High>9.025</High>
+    <Low>7.774</Low>
+    <Close>8.982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-30</Date>
+    <Open>8.982</Open>
+    <High>10.39</High>
+    <Low>8.375</Low>
+    <Close>10.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-01-31</Date>
+    <Open>10.39</Open>
+    <High>11.14</High>
+    <Low>9.662</Low>
+    <Close>10.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-01</Date>
+    <Open>10.13</Open>
+    <High>13.06</High>
+    <Low>9.761</Low>
+    <Close>13.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-02</Date>
+    <Open>13.04</Open>
+    <High>13.82</High>
+    <Low>12.22</Low>
+    <Close>12.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-03</Date>
+    <Open>12.66</Open>
+    <High>14.85</High>
+    <Low>12.48</Low>
+    <Close>14.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-04</Date>
+    <Open>14.2</Open>
+    <High>16.6</High>
+    <Low>14.0</Low>
+    <Close>15.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-05</Date>
+    <Open>15.39</Open>
+    <High>15.83</High>
+    <Low>14.71</Low>
+    <Close>14.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-06</Date>
+    <Open>14.96</Open>
+    <High>15.41</High>
+    <Low>13.26</Low>
+    <Close>13.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-07</Date>
+    <Open>13.78</Open>
+    <High>14.01</High>
+    <Low>11.47</Low>
+    <Close>13.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-08</Date>
+    <Open>13.16</Open>
+    <High>14.69</High>
+    <Low>12.64</Low>
+    <Close>14.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-09</Date>
+    <Open>14.11</Open>
+    <High>14.94</High>
+    <Low>13.57</Low>
+    <Close>14.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-10</Date>
+    <Open>14.26</Open>
+    <High>15.86</High>
+    <Low>13.75</Low>
+    <Close>14.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-11</Date>
+    <Open>14.87</Open>
+    <High>17.58</High>
+    <Low>14.01</Low>
+    <Close>16.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-12</Date>
+    <Open>16.88</Open>
+    <High>17.36</High>
+    <Low>15.61</Low>
+    <Close>16.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-13</Date>
+    <Open>16.59</Open>
+    <High>17.24</High>
+    <Low>15.69</Low>
+    <Close>16.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-14</Date>
+    <Open>16.02</Open>
+    <High>16.38</High>
+    <Low>14.82</Low>
+    <Close>14.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-15</Date>
+    <Open>14.95</Open>
+    <High>18.39</High>
+    <Low>12.91</Low>
+    <Close>17.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-16</Date>
+    <Open>17.26</Open>
+    <High>17.94</High>
+    <Low>15.59</Low>
+    <Close>16.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-17</Date>
+    <Open>16.46</Open>
+    <High>17.13</High>
+    <Low>14.64</Low>
+    <Close>16.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-18</Date>
+    <Open>16.18</Open>
+    <High>16.96</High>
+    <Low>15.51</Low>
+    <Close>15.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-19</Date>
+    <Open>15.77</Open>
+    <High>15.92</High>
+    <Low>13.95</Low>
+    <Close>14.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-20</Date>
+    <Open>14.53</Open>
+    <High>19.77</High>
+    <Low>14.45</Low>
+    <Close>18.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-21</Date>
+    <Open>18.33</Open>
+    <High>19.37</High>
+    <Low>16.88</Low>
+    <Close>17.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-22</Date>
+    <Open>17.33</Open>
+    <High>17.37</High>
+    <Low>13.69</Low>
+    <Close>16.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-23</Date>
+    <Open>16.58</Open>
+    <High>17.33</High>
+    <Low>12.04</Low>
+    <Close>14.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-24</Date>
+    <Open>14.85</Open>
+    <High>15.8</High>
+    <Low>13.65</Low>
+    <Close>14.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-25</Date>
+    <Open>14.71</Open>
+    <High>17.12</High>
+    <Low>14.21</Low>
+    <Close>14.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-26</Date>
+    <Open>14.33</Open>
+    <High>16.54</High>
+    <Low>13.09</Low>
+    <Close>15.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-27</Date>
+    <Open>15.33</Open>
+    <High>17.6</High>
+    <Low>15.31</Low>
+    <Close>16.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-02-28</Date>
+    <Open>16.31</Open>
+    <High>16.38</High>
+    <Low>13.64</Low>
+    <Close>15.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-01</Date>
+    <Open>15.1</Open>
+    <High>18.85</High>
+    <Low>14.97</Low>
+    <Close>18.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-02</Date>
+    <Open>18.84</Open>
+    <High>20.72</High>
+    <Low>16.78</Low>
+    <Close>17.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-03</Date>
+    <Open>17.87</Open>
+    <High>19.13</High>
+    <Low>17.21</Low>
+    <Close>17.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-04</Date>
+    <Open>17.43</Open>
+    <High>18.89</High>
+    <Low>17.0</Low>
+    <Close>17.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-05</Date>
+    <Open>17.35</Open>
+    <High>17.37</High>
+    <Low>15.6</Low>
+    <Close>16.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-06</Date>
+    <Open>16.63</Open>
+    <High>17.04</High>
+    <Low>15.76</Low>
+    <Close>16.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-07</Date>
+    <Open>16.59</Open>
+    <High>18.11</High>
+    <Low>16.32</Low>
+    <Close>17.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-08</Date>
+    <Open>17.92</Open>
+    <High>18.21</High>
+    <Low>16.69</Low>
+    <Close>17.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-09</Date>
+    <Open>17.23</Open>
+    <High>20.19</High>
+    <Low>17.14</Low>
+    <Close>19.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-10</Date>
+    <Open>19.67</Open>
+    <High>19.83</High>
+    <Low>17.67</Low>
+    <Close>17.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-11</Date>
+    <Open>17.95</Open>
+    <High>19.27</High>
+    <Low>17.06</Low>
+    <Close>18.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-12</Date>
+    <Open>18.63</Open>
+    <High>19.57</High>
+    <Low>18.06</Low>
+    <Close>19.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-13</Date>
+    <Open>19.38</Open>
+    <High>23.43</High>
+    <Low>18.98</Low>
+    <Close>22.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-14</Date>
+    <Open>22.82</Open>
+    <High>23.02</High>
+    <Low>20.3</Low>
+    <Close>20.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-15</Date>
+    <Open>20.69</Open>
+    <High>21.88</High>
+    <Low>19.55</Low>
+    <Close>19.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-16</Date>
+    <Open>19.81</Open>
+    <High>20.53</High>
+    <Low>18.69</Low>
+    <Close>20.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-17</Date>
+    <Open>20.21</Open>
+    <High>20.38</High>
+    <Low>19.09</Low>
+    <Close>19.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-18</Date>
+    <Open>19.91</Open>
+    <High>20.3</High>
+    <Low>19.56</Low>
+    <Close>19.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-19</Date>
+    <Open>19.72</Open>
+    <High>20.59</High>
+    <Low>19.0</Low>
+    <Close>20.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-20</Date>
+    <Open>20.3</Open>
+    <High>20.98</High>
+    <Low>19.43</Low>
+    <Close>19.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-21</Date>
+    <Open>19.47</Open>
+    <High>19.71</High>
+    <Low>18.45</Low>
+    <Close>18.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-22</Date>
+    <Open>18.85</Open>
+    <High>19.4</High>
+    <Low>17.24</Low>
+    <Close>17.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-23</Date>
+    <Open>17.32</Open>
+    <High>17.78</High>
+    <Low>16.35</Low>
+    <Close>16.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-24</Date>
+    <Open>16.44</Open>
+    <High>17.44</High>
+    <Low>14.6</Low>
+    <Close>14.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-25</Date>
+    <Open>14.97</Open>
+    <High>15.31</High>
+    <Low>14.1</Low>
+    <Close>14.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-26</Date>
+    <Open>14.83</Open>
+    <High>16.93</High>
+    <Low>14.82</Low>
+    <Close>16.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-27</Date>
+    <Open>16.82</Open>
+    <High>16.94</High>
+    <Low>15.83</Low>
+    <Close>16.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-28</Date>
+    <Open>16.19</Open>
+    <High>16.45</High>
+    <Low>14.88</Low>
+    <Close>15.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-29</Date>
+    <Open>15.26</Open>
+    <High>16.12</High>
+    <Low>15.04</Low>
+    <Close>15.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-30</Date>
+    <Open>15.81</Open>
+    <High>15.98</High>
+    <Low>15.31</Low>
+    <Close>15.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-03-31</Date>
+    <Open>15.44</Open>
+    <High>15.67</High>
+    <Low>14.13</Low>
+    <Close>14.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-01</Date>
+    <Open>14.7</Open>
+    <High>15.25</High>
+    <Low>14.52</Low>
+    <Close>14.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-02</Date>
+    <Open>14.87</Open>
+    <High>16.5</High>
+    <Low>14.63</Low>
+    <Close>16.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-03</Date>
+    <Open>16.44</Open>
+    <High>16.57</High>
+    <Low>14.6</Low>
+    <Close>14.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-04</Date>
+    <Open>14.83</Open>
+    <High>15.46</High>
+    <Low>14.61</Low>
+    <Close>15.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-05</Date>
+    <Open>15.25</Open>
+    <High>15.65</High>
+    <Low>14.71</Low>
+    <Close>15.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-06</Date>
+    <Open>15.06</Open>
+    <High>15.92</High>
+    <Low>14.95</Low>
+    <Close>15.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-07</Date>
+    <Open>15.32</Open>
+    <High>15.48</High>
+    <Low>13.6</Low>
+    <Close>13.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-08</Date>
+    <Open>13.87</Open>
+    <High>14.66</High>
+    <Low>13.75</Low>
+    <Close>14.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-09</Date>
+    <Open>14.43</Open>
+    <High>15.4</High>
+    <Low>14.36</Low>
+    <Close>14.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-10</Date>
+    <Open>14.53</Open>
+    <High>15.15</High>
+    <Low>14.09</Low>
+    <Close>14.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-11</Date>
+    <Open>14.5</Open>
+    <High>14.56</High>
+    <Low>13.8</Low>
+    <Close>14.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-12</Date>
+    <Open>14.18</Open>
+    <High>16.39</High>
+    <Low>13.91</Low>
+    <Close>16.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-13</Date>
+    <Open>16.06</Open>
+    <High>16.45</High>
+    <Low>15.29</Low>
+    <Close>15.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-14</Date>
+    <Open>15.85</Open>
+    <High>17.67</High>
+    <Low>15.67</Low>
+    <Close>17.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-15</Date>
+    <Open>17.5</Open>
+    <High>18.3</High>
+    <Low>17.2</Low>
+    <Close>17.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-16</Date>
+    <Open>17.58</Open>
+    <High>17.66</High>
+    <Low>15.75</Low>
+    <Close>16.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-17</Date>
+    <Open>16.27</Open>
+    <High>16.86</High>
+    <Low>15.48</Low>
+    <Close>15.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-18</Date>
+    <Open>15.84</Open>
+    <High>16.06</High>
+    <Low>10.69</Low>
+    <Close>14.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-19</Date>
+    <Open>14.04</Open>
+    <High>14.37</High>
+    <Low>11.87</Low>
+    <Close>12.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-20</Date>
+    <Open>12.16</Open>
+    <High>12.8</High>
+    <Low>11.07</Low>
+    <Close>12.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-21</Date>
+    <Open>12.71</Open>
+    <High>13.59</High>
+    <Low>11.82</Low>
+    <Close>12.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-22</Date>
+    <Open>12.46</Open>
+    <High>14.31</High>
+    <Low>12.13</Low>
+    <Close>12.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-23</Date>
+    <Open>12.32</Open>
+    <High>12.61</High>
+    <Low>10.16</Low>
+    <Close>11.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-24</Date>
+    <Open>11.83</Open>
+    <High>11.84</High>
+    <Low>10.53</Low>
+    <Close>10.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-25</Date>
+    <Open>10.71</Open>
+    <High>11.66</High>
+    <Low>10.34</Low>
+    <Close>10.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-26</Date>
+    <Open>10.97</Open>
+    <High>12.47</High>
+    <Low>10.9</Low>
+    <Close>12.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-27</Date>
+    <Open>12.15</Open>
+    <High>14.45</High>
+    <Low>11.96</Low>
+    <Close>14.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-28</Date>
+    <Open>14.29</Open>
+    <High>14.54</High>
+    <Low>13.0</Low>
+    <Close>14.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-29</Date>
+    <Open>14.31</Open>
+    <High>14.88</High>
+    <Low>13.58</Low>
+    <Close>14.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-04-30</Date>
+    <Open>14.04</Open>
+    <High>14.68</High>
+    <Low>13.81</Low>
+    <Close>14.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-01</Date>
+    <Open>14.35</Open>
+    <High>15.15</High>
+    <Low>14.25</Low>
+    <Close>14.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-02</Date>
+    <Open>14.78</Open>
+    <High>14.85</High>
+    <Low>13.76</Low>
+    <Close>13.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-03</Date>
+    <Open>13.89</Open>
+    <High>14.86</High>
+    <Low>13.89</Low>
+    <Close>14.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-04</Date>
+    <Open>14.39</Open>
+    <High>14.48</High>
+    <Low>12.6</Low>
+    <Close>12.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-05</Date>
+    <Open>12.67</Open>
+    <High>14.48</High>
+    <Low>12.53</Low>
+    <Close>14.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-06</Date>
+    <Open>14.38</Open>
+    <High>17.01</High>
+    <Low>13.99</Low>
+    <Close>16.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-07</Date>
+    <Open>16.53</Open>
+    <High>17.82</High>
+    <Low>15.41</Low>
+    <Close>15.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-08</Date>
+    <Open>15.82</Open>
+    <High>16.8</High>
+    <Low>15.5</Low>
+    <Close>16.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-09</Date>
+    <Open>16.33</Open>
+    <High>16.53</High>
+    <Low>15.24</Low>
+    <Close>15.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-10</Date>
+    <Open>15.53</Open>
+    <High>16.7</High>
+    <Low>13.09</Low>
+    <Close>13.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-11</Date>
+    <Open>13.83</Open>
+    <High>15.33</High>
+    <Low>13.38</Low>
+    <Close>15.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-12</Date>
+    <Open>15.27</Open>
+    <High>18.38</High>
+    <Low>14.78</Low>
+    <Close>14.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-13</Date>
+    <Open>14.94</Open>
+    <High>16.82</High>
+    <Low>13.87</Low>
+    <Close>14.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-14</Date>
+    <Open>14.76</Open>
+    <High>19.03</High>
+    <Low>14.68</Low>
+    <Close>18.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-15</Date>
+    <Open>18.59</Open>
+    <High>18.98</High>
+    <Low>16.13</Low>
+    <Close>16.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-16</Date>
+    <Open>16.2</Open>
+    <High>17.7</High>
+    <Low>15.03</Low>
+    <Close>16.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-17</Date>
+    <Open>16.52</Open>
+    <High>18.25</High>
+    <Low>14.48</Low>
+    <Close>16.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-18</Date>
+    <Open>16.16</Open>
+    <High>22.54</High>
+    <Low>16.07</Low>
+    <Close>21.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-19</Date>
+    <Open>21.47</Open>
+    <High>22.0</High>
+    <Low>11.2</Low>
+    <Close>13.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-20</Date>
+    <Open>13.21</Open>
+    <High>17.01</High>
+    <Low>11.6</Low>
+    <Close>15.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-21</Date>
+    <Open>15.14</Open>
+    <High>16.41</High>
+    <Low>10.42</Low>
+    <Close>12.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-22</Date>
+    <Open>12.74</Open>
+    <High>13.22</High>
+    <Low>10.01</Low>
+    <Close>11.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-23</Date>
+    <Open>11.09</Open>
+    <High>11.47</High>
+    <Low>6.319</Low>
+    <Close>9.026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-24</Date>
+    <Open>9.026</Open>
+    <High>12.35</High>
+    <Low>8.931</Low>
+    <Close>11.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-25</Date>
+    <Open>11.97</Open>
+    <High>12.69</High>
+    <Low>9.625</Low>
+    <Close>12.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-26</Date>
+    <Open>12.25</Open>
+    <High>13.59</High>
+    <Low>11.6</Low>
+    <Close>13.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-27</Date>
+    <Open>13.43</Open>
+    <High>13.44</High>
+    <Low>11.6</Low>
+    <Close>12.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-28</Date>
+    <Open>12.12</Open>
+    <High>12.37</High>
+    <Low>10.04</Low>
+    <Close>10.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-29</Date>
+    <Open>10.59</Open>
+    <High>11.44</High>
+    <Low>9.629</Low>
+    <Close>10.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-30</Date>
+    <Open>10.04</Open>
+    <High>11.16</High>
+    <Low>9.593</Low>
+    <Close>10.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-05-31</Date>
+    <Open>10.84</Open>
+    <High>12.53</High>
+    <Low>10.03</Low>
+    <Close>12.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-01</Date>
+    <Open>12.48</Open>
+    <High>12.67</High>
+    <Low>11.36</Low>
+    <Close>12.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-02</Date>
+    <Open>12.05</Open>
+    <High>12.96</High>
+    <Low>11.65</Low>
+    <Close>12.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-03</Date>
+    <Open>12.53</Open>
+    <High>13.5</High>
+    <Low>12.24</Low>
+    <Close>13.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-04</Date>
+    <Open>13.23</Open>
+    <High>13.25</High>
+    <Low>11.37</Low>
+    <Close>11.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-05</Date>
+    <Open>11.85</Open>
+    <High>12.56</High>
+    <Low>11.05</Low>
+    <Close>11.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-06</Date>
+    <Open>11.56</Open>
+    <High>11.94</High>
+    <Low>11.33</Low>
+    <Close>11.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-07</Date>
+    <Open>11.54</Open>
+    <High>11.82</High>
+    <Low>10.17</Low>
+    <Close>10.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-08</Date>
+    <Open>10.27</Open>
+    <High>10.51</High>
+    <Low>9.131</Low>
+    <Close>10.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-09</Date>
+    <Open>10.08</Open>
+    <High>10.54</High>
+    <Low>9.471</Low>
+    <Close>10.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-10</Date>
+    <Open>10.54</Open>
+    <High>10.59</High>
+    <Low>9.206</Low>
+    <Close>9.407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-11</Date>
+    <Open>9.407</Open>
+    <High>9.553</High>
+    <Low>8.297</Low>
+    <Close>8.558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-12</Date>
+    <Open>8.558</Open>
+    <High>8.568</High>
+    <Low>7.639</Low>
+    <Close>7.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-13</Date>
+    <Open>7.84</Open>
+    <High>8.873</High>
+    <Low>7.747</Low>
+    <Close>8.639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-14</Date>
+    <Open>8.639</Open>
+    <High>9.435</High>
+    <Low>8.4</Low>
+    <Close>9.254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-15</Date>
+    <Open>9.254</Open>
+    <High>9.65</High>
+    <Low>8.929</Low>
+    <Close>9.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-16</Date>
+    <Open>9.11</Open>
+    <High>9.11</High>
+    <Low>8.255</Low>
+    <Close>8.488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-17</Date>
+    <Open>8.488</Open>
+    <High>9.169</High>
+    <Low>8.209</Low>
+    <Close>8.464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-18</Date>
+    <Open>8.464</Open>
+    <High>8.489</High>
+    <Low>7.567</Low>
+    <Close>7.831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-19</Date>
+    <Open>7.831</Open>
+    <High>7.98</High>
+    <Low>7.472</Low>
+    <Close>7.483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-20</Date>
+    <Open>7.483</Open>
+    <High>8.653</High>
+    <Low>7.332</Low>
+    <Close>8.424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-21</Date>
+    <Open>8.424</Open>
+    <High>8.52</High>
+    <Low>6.618</Low>
+    <Close>6.649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-22</Date>
+    <Open>6.649</Open>
+    <High>7.551</High>
+    <Low>5.981</Low>
+    <Close>6.807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-23</Date>
+    <Open>6.807</Open>
+    <High>7.53</High>
+    <Low>6.515</Low>
+    <Close>7.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-24</Date>
+    <Open>7.05</Open>
+    <High>7.34</High>
+    <Low>6.621</Low>
+    <Close>7.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-25</Date>
+    <Open>7.06</Open>
+    <High>7.198</High>
+    <Low>6.154</Low>
+    <Close>6.297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-26</Date>
+    <Open>6.297</Open>
+    <High>6.836</High>
+    <Low>6.074</Low>
+    <Close>6.829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-27</Date>
+    <Open>6.829</Open>
+    <High>7.142</High>
+    <Low>6.49</Low>
+    <Close>7.142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-28</Date>
+    <Open>7.142</Open>
+    <High>7.772</High>
+    <Low>7.028</Low>
+    <Close>7.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-29</Date>
+    <Open>7.6</Open>
+    <High>8.447</High>
+    <Low>7.562</Low>
+    <Close>7.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-06-30</Date>
+    <Open>7.94</Open>
+    <High>8.182</High>
+    <Low>7.254</Low>
+    <Close>8.153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-01</Date>
+    <Open>8.153</Open>
+    <High>8.161</High>
+    <Low>7.183</Low>
+    <Close>7.422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-02</Date>
+    <Open>7.422</Open>
+    <High>7.53</High>
+    <Low>6.976</Low>
+    <Close>7.423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-03</Date>
+    <Open>7.423</Open>
+    <High>7.703</High>
+    <Low>7.258</Low>
+    <Close>7.616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-04</Date>
+    <Open>7.616</Open>
+    <High>8.229</High>
+    <Low>7.373</Low>
+    <Close>7.934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-05</Date>
+    <Open>7.934</Open>
+    <High>8.229</High>
+    <Low>7.227</Low>
+    <Close>8.069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-06</Date>
+    <Open>8.069</Open>
+    <High>9.509</High>
+    <Low>8.062</Low>
+    <Close>8.984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-07</Date>
+    <Open>8.984</Open>
+    <High>9.716</High>
+    <Low>8.749</Low>
+    <Close>8.779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-08</Date>
+    <Open>8.779</Open>
+    <High>8.788</High>
+    <Low>7.805</Low>
+    <Close>7.892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-09</Date>
+    <Open>7.892</Open>
+    <High>8.575</High>
+    <Low>7.63</Low>
+    <Close>8.406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-10</Date>
+    <Open>8.406</Open>
+    <High>8.607</High>
+    <Low>7.842</Low>
+    <Close>7.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-11</Date>
+    <Open>7.99</Open>
+    <High>8.394</High>
+    <Low>7.825</Low>
+    <Close>8.148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-12</Date>
+    <Open>8.148</Open>
+    <High>8.273</High>
+    <Low>7.446</Low>
+    <Close>7.638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-13</Date>
+    <Open>7.638</Open>
+    <High>7.667</High>
+    <Low>6.928</Low>
+    <Close>7.134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-14</Date>
+    <Open>7.134</Open>
+    <High>7.344</High>
+    <Low>6.737</Low>
+    <Close>7.126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-15</Date>
+    <Open>7.126</Open>
+    <High>7.406</High>
+    <Low>6.619</Low>
+    <Close>6.717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-16</Date>
+    <Open>6.717</Open>
+    <High>6.891</High>
+    <Low>6.334</Low>
+    <Close>6.353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-17</Date>
+    <Open>6.353</Open>
+    <High>7.503</High>
+    <Low>6.308</Low>
+    <Close>7.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-18</Date>
+    <Open>7.5</Open>
+    <High>7.996</High>
+    <Low>7.029</Low>
+    <Close>7.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-19</Date>
+    <Open>7.09</Open>
+    <High>7.144</High>
+    <Low>6.477</Low>
+    <Close>6.645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-20</Date>
+    <Open>6.645</Open>
+    <High>6.746</High>
+    <Low>6.026</Low>
+    <Close>6.289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-21</Date>
+    <Open>6.289</Open>
+    <High>7.16</High>
+    <Low>6.139</Low>
+    <Close>7.084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-22</Date>
+    <Open>7.084</Open>
+    <High>8.27</High>
+    <Low>7.035</Low>
+    <Close>8.244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-23</Date>
+    <Open>8.244</Open>
+    <High>8.623</High>
+    <Low>7.656</Low>
+    <Close>8.597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-24</Date>
+    <Open>8.597</Open>
+    <High>8.608</High>
+    <Low>7.887</Low>
+    <Close>8.038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-25</Date>
+    <Open>8.038</Open>
+    <High>8.337</High>
+    <Low>7.754</Low>
+    <Close>8.336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-26</Date>
+    <Open>8.336</Open>
+    <High>9.614</High>
+    <Low>8.261</Low>
+    <Close>8.279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-27</Date>
+    <Open>8.279</Open>
+    <High>8.548</High>
+    <Low>7.823</Low>
+    <Close>8.192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-28</Date>
+    <Open>8.192</Open>
+    <High>8.5</High>
+    <Low>8.021</Low>
+    <Close>8.152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-29</Date>
+    <Open>8.152</Open>
+    <High>8.288</High>
+    <Low>7.981</Low>
+    <Close>8.176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-30</Date>
+    <Open>8.176</Open>
+    <High>8.531</High>
+    <Low>7.859</Low>
+    <Close>8.469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-07-31</Date>
+    <Open>8.469</Open>
+    <High>9.007</High>
+    <Low>8.216</Low>
+    <Close>8.854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-01</Date>
+    <Open>8.854</Open>
+    <High>9.207</High>
+    <Low>8.409</Low>
+    <Close>8.494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-02</Date>
+    <Open>8.494</Open>
+    <High>8.712</High>
+    <Low>8.285</Low>
+    <Close>8.344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-03</Date>
+    <Open>8.344</Open>
+    <High>8.459</High>
+    <Low>7.88</Low>
+    <Close>8.085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-04</Date>
+    <Open>8.085</Open>
+    <High>8.88</High>
+    <Low>7.952</Low>
+    <Close>8.758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-05</Date>
+    <Open>8.758</Open>
+    <High>9.655</High>
+    <Low>8.206</Low>
+    <Close>9.631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-06</Date>
+    <Open>9.631</Open>
+    <High>10.11</High>
+    <Low>8.99</Low>
+    <Close>9.812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-07</Date>
+    <Open>9.812</Open>
+    <High>10.68</High>
+    <Low>9.714</Low>
+    <Close>10.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-08</Date>
+    <Open>10.35</Open>
+    <High>10.48</High>
+    <Low>9.221</Low>
+    <Close>9.389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-09</Date>
+    <Open>9.389</Open>
+    <High>10.14</High>
+    <Low>9.046</Low>
+    <Close>9.812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-10</Date>
+    <Open>9.812</Open>
+    <High>10.63</High>
+    <Low>9.591</Low>
+    <Close>10.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-11</Date>
+    <Open>10.37</Open>
+    <High>12.14</High>
+    <Low>10.35</Low>
+    <Close>11.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-12</Date>
+    <Open>11.28</Open>
+    <High>12.18</High>
+    <Low>10.53</Low>
+    <Close>12.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-13</Date>
+    <Open>12.14</Open>
+    <High>12.59</High>
+    <Low>11.79</Low>
+    <Close>12.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-14</Date>
+    <Open>12.56</Open>
+    <High>12.87</High>
+    <Low>11.82</Low>
+    <Close>12.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-15</Date>
+    <Open>12.22</Open>
+    <High>12.72</High>
+    <Low>11.52</Low>
+    <Close>12.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-16</Date>
+    <Open>12.62</Open>
+    <High>13.45</High>
+    <Low>11.98</Low>
+    <Close>12.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-17</Date>
+    <Open>12.56</Open>
+    <High>14.45</High>
+    <Low>12.11</Low>
+    <Close>12.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-18</Date>
+    <Open>12.58</Open>
+    <High>13.36</High>
+    <Low>12.03</Low>
+    <Close>12.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-19</Date>
+    <Open>12.55</Open>
+    <High>14.25</High>
+    <Low>12.05</Low>
+    <Close>14.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-20</Date>
+    <Open>14.01</Open>
+    <High>14.69</High>
+    <Low>13.55</Low>
+    <Close>14.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-21</Date>
+    <Open>14.68</Open>
+    <High>14.85</High>
+    <Low>13.5</Low>
+    <Close>13.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-22</Date>
+    <Open>13.68</Open>
+    <High>14.05</High>
+    <Low>13.11</Low>
+    <Close>13.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-23</Date>
+    <Open>13.77</Open>
+    <High>14.17</High>
+    <Low>13.56</Low>
+    <Close>13.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-24</Date>
+    <Open>13.8</Open>
+    <High>13.94</High>
+    <Low>12.29</Low>
+    <Close>12.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-25</Date>
+    <Open>12.32</Open>
+    <High>12.63</High>
+    <Low>11.54</Low>
+    <Close>12.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-26</Date>
+    <Open>12.25</Open>
+    <High>12.51</High>
+    <Low>11.19</Low>
+    <Close>11.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-27</Date>
+    <Open>11.62</Open>
+    <High>12.28</High>
+    <Low>11.26</Low>
+    <Close>12.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-28</Date>
+    <Open>12.22</Open>
+    <High>12.3</High>
+    <Low>11.61</Low>
+    <Close>11.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-29</Date>
+    <Open>11.79</Open>
+    <High>12.06</High>
+    <Low>11.26</Low>
+    <Close>11.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-30</Date>
+    <Open>11.61</Open>
+    <High>12.19</High>
+    <Low>11.0</Low>
+    <Close>11.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-08-31</Date>
+    <Open>11.53</Open>
+    <High>12.3</High>
+    <Low>11.15</Low>
+    <Close>12.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-01</Date>
+    <Open>12.06</Open>
+    <High>13.93</High>
+    <Low>11.69</Low>
+    <Close>13.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-02</Date>
+    <Open>13.85</Open>
+    <High>13.93</High>
+    <Low>12.91</Low>
+    <Close>13.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-03</Date>
+    <Open>13.1</Open>
+    <High>13.57</High>
+    <Low>12.77</Low>
+    <Close>13.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-04</Date>
+    <Open>13.07</Open>
+    <High>13.32</High>
+    <Low>12.83</Low>
+    <Close>13.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-05</Date>
+    <Open>13.09</Open>
+    <High>14.29</High>
+    <Low>12.98</Low>
+    <Close>14.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-06</Date>
+    <Open>14.28</Open>
+    <High>14.3</High>
+    <Low>13.38</Low>
+    <Close>13.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-07</Date>
+    <Open>13.62</Open>
+    <High>13.79</High>
+    <Low>9.548</Low>
+    <Close>10.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-08</Date>
+    <Open>10.89</Open>
+    <High>11.64</High>
+    <Low>10.09</Low>
+    <Close>11.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-09</Date>
+    <Open>11.31</Open>
+    <High>11.92</High>
+    <Low>10.96</Low>
+    <Close>11.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-10</Date>
+    <Open>11.0</Open>
+    <High>11.39</High>
+    <Low>9.81</Low>
+    <Close>10.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-11</Date>
+    <Open>10.13</Open>
+    <High>10.88</High>
+    <Low>10.06</Low>
+    <Close>10.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-12</Date>
+    <Open>10.57</Open>
+    <High>11.94</High>
+    <Low>10.35</Low>
+    <Close>11.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-13</Date>
+    <Open>11.86</Open>
+    <High>12.05</High>
+    <Low>10.05</Low>
+    <Close>11.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-14</Date>
+    <Open>11.08</Open>
+    <High>13.22</High>
+    <Low>10.98</Low>
+    <Close>13.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-15</Date>
+    <Open>13.19</Open>
+    <High>15.54</High>
+    <Low>12.61</Low>
+    <Close>15.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-16</Date>
+    <Open>15.17</Open>
+    <High>16.16</High>
+    <Low>14.37</Low>
+    <Close>14.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-17</Date>
+    <Open>14.91</Open>
+    <High>15.24</High>
+    <Low>12.33</Low>
+    <Close>12.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-18</Date>
+    <Open>12.51</Open>
+    <High>13.29</High>
+    <Low>12.11</Low>
+    <Close>12.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-19</Date>
+    <Open>12.69</Open>
+    <High>12.72</High>
+    <Low>11.78</Low>
+    <Close>12.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-20</Date>
+    <Open>12.05</Open>
+    <High>12.09</High>
+    <Low>9.916</Low>
+    <Close>10.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-21</Date>
+    <Open>10.32</Open>
+    <High>10.87</High>
+    <Low>8.959</Low>
+    <Close>9.201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-22</Date>
+    <Open>9.201</Open>
+    <High>10.66</High>
+    <Low>9.068</Low>
+    <Close>10.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-23</Date>
+    <Open>10.51</Open>
+    <High>10.9</High>
+    <Low>10.14</Low>
+    <Close>10.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-24</Date>
+    <Open>10.65</Open>
+    <High>10.65</High>
+    <Low>8.922</Low>
+    <Close>9.683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-25</Date>
+    <Open>9.683</Open>
+    <High>9.83</High>
+    <Low>9.092</Low>
+    <Close>9.525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-26</Date>
+    <Open>9.525</Open>
+    <High>11.58</High>
+    <Low>8.524</Low>
+    <Close>11.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-27</Date>
+    <Open>11.41</Open>
+    <High>11.94</High>
+    <Low>9.965</Low>
+    <Close>10.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-28</Date>
+    <Open>10.01</Open>
+    <High>10.41</High>
+    <Low>9.607</Low>
+    <Close>9.683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-29</Date>
+    <Open>9.683</Open>
+    <High>10.08</High>
+    <Low>9.24</Low>
+    <Close>9.501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-09-30</Date>
+    <Open>9.501</Open>
+    <High>10.17</High>
+    <Low>9.456</Low>
+    <Close>10.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-01</Date>
+    <Open>10.16</Open>
+    <High>10.96</High>
+    <Low>10.05</Low>
+    <Close>10.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-02</Date>
+    <Open>10.83</Open>
+    <High>11.3</High>
+    <Low>10.5</Low>
+    <Close>10.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-03</Date>
+    <Open>10.89</Open>
+    <High>11.19</High>
+    <Low>10.68</Low>
+    <Close>10.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-04</Date>
+    <Open>10.82</Open>
+    <High>10.82</High>
+    <Low>10.1</Low>
+    <Close>10.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-05</Date>
+    <Open>10.36</Open>
+    <High>10.86</High>
+    <Low>10.29</Low>
+    <Close>10.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-06</Date>
+    <Open>10.83</Open>
+    <High>10.97</High>
+    <Low>9.904</Low>
+    <Close>10.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-07</Date>
+    <Open>10.53</Open>
+    <High>11.09</High>
+    <Low>10.24</Low>
+    <Close>10.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-08</Date>
+    <Open>10.78</Open>
+    <High>11.51</High>
+    <Low>10.67</Low>
+    <Close>10.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-09</Date>
+    <Open>10.74</Open>
+    <High>10.97</High>
+    <Low>10.57</Low>
+    <Close>10.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-10</Date>
+    <Open>10.94</Open>
+    <High>11.13</High>
+    <Low>10.2</Low>
+    <Close>10.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-11</Date>
+    <Open>10.26</Open>
+    <High>10.85</High>
+    <Low>10.0</Low>
+    <Close>10.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-12</Date>
+    <Open>10.33</Open>
+    <High>10.34</High>
+    <Low>9.662</Low>
+    <Close>10.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-13</Date>
+    <Open>10.05</Open>
+    <High>10.7</High>
+    <Low>9.752</Low>
+    <Close>10.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-14</Date>
+    <Open>10.26</Open>
+    <High>10.98</High>
+    <Low>10.1</Low>
+    <Close>10.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-15</Date>
+    <Open>10.75</Open>
+    <High>11.32</High>
+    <Low>10.4</Low>
+    <Close>11.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-16</Date>
+    <Open>11.09</Open>
+    <High>11.88</High>
+    <Low>10.89</Low>
+    <Close>11.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-17</Date>
+    <Open>11.4</Open>
+    <High>11.79</High>
+    <Low>10.76</Low>
+    <Close>11.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-18</Date>
+    <Open>11.14</Open>
+    <High>11.33</High>
+    <Low>10.71</Low>
+    <Close>10.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-19</Date>
+    <Open>10.8</Open>
+    <High>11.03</High>
+    <Low>10.51</Low>
+    <Close>10.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-20</Date>
+    <Open>10.72</Open>
+    <High>11.59</High>
+    <Low>10.48</Low>
+    <Close>11.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-21</Date>
+    <Open>11.54</Open>
+    <High>11.71</High>
+    <Low>10.81</Low>
+    <Close>10.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-22</Date>
+    <Open>10.89</Open>
+    <High>11.36</High>
+    <Low>10.61</Low>
+    <Close>10.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-23</Date>
+    <Open>10.69</Open>
+    <High>11.04</High>
+    <Low>10.54</Low>
+    <Close>10.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-24</Date>
+    <Open>10.99</Open>
+    <High>11.14</High>
+    <Low>10.24</Low>
+    <Close>10.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-25</Date>
+    <Open>10.53</Open>
+    <High>10.77</High>
+    <Low>10.48</Low>
+    <Close>10.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-26</Date>
+    <Open>10.77</Open>
+    <High>12.17</High>
+    <Low>10.75</Low>
+    <Close>11.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-27</Date>
+    <Open>11.37</Open>
+    <High>12.2</High>
+    <Low>10.15</Low>
+    <Close>10.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-28</Date>
+    <Open>10.15</Open>
+    <High>11.0</High>
+    <Low>10.08</Low>
+    <Close>10.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-29</Date>
+    <Open>10.98</Open>
+    <High>11.79</High>
+    <Low>10.89</Low>
+    <Close>11.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-30</Date>
+    <Open>11.43</Open>
+    <High>11.47</High>
+    <Low>10.84</Low>
+    <Close>11.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-10-31</Date>
+    <Open>11.1</Open>
+    <High>11.29</High>
+    <Low>10.58</Low>
+    <Close>10.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-01</Date>
+    <Open>10.88</Open>
+    <High>13.11</High>
+    <Low>10.57</Low>
+    <Close>12.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-02</Date>
+    <Open>12.76</Open>
+    <High>13.1</High>
+    <Low>12.09</Low>
+    <Close>12.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-03</Date>
+    <Open>12.12</Open>
+    <High>13.44</High>
+    <Low>11.88</Low>
+    <Close>13.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-04</Date>
+    <Open>13.42</Open>
+    <High>13.45</High>
+    <Low>12.07</Low>
+    <Close>12.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-05</Date>
+    <Open>12.97</Open>
+    <High>13.27</High>
+    <Low>12.14</Low>
+    <Close>12.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-06</Date>
+    <Open>12.14</Open>
+    <High>12.22</High>
+    <Low>11.37</Low>
+    <Close>11.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-07</Date>
+    <Open>11.85</Open>
+    <High>12.27</High>
+    <Low>11.57</Low>
+    <Close>12.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-08</Date>
+    <Open>12.1</Open>
+    <High>12.33</High>
+    <Low>11.95</Low>
+    <Close>12.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-09</Date>
+    <Open>12.3</Open>
+    <High>12.44</High>
+    <Low>11.96</Low>
+    <Close>11.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-10</Date>
+    <Open>11.97</Open>
+    <High>12.26</High>
+    <Low>10.66</Low>
+    <Close>11.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-11</Date>
+    <Open>11.09</Open>
+    <High>11.41</High>
+    <Low>10.92</Low>
+    <Close>11.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-12</Date>
+    <Open>11.15</Open>
+    <High>11.38</High>
+    <Low>10.56</Low>
+    <Close>10.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-13</Date>
+    <Open>10.98</Open>
+    <High>11.22</High>
+    <Low>10.69</Low>
+    <Close>11.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-14</Date>
+    <Open>11.18</Open>
+    <High>11.3</High>
+    <Low>10.77</Low>
+    <Close>11.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-15</Date>
+    <Open>11.05</Open>
+    <High>11.2</High>
+    <Low>10.33</Low>
+    <Close>10.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-16</Date>
+    <Open>10.34</Open>
+    <High>10.34</High>
+    <Low>9.144</Low>
+    <Close>9.667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-17</Date>
+    <Open>9.643</Open>
+    <High>10.1</High>
+    <Low>9.53</Low>
+    <Close>9.746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-18</Date>
+    <Open>9.746</Open>
+    <High>10.14</High>
+    <Low>8.631</Low>
+    <Close>8.791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-19</Date>
+    <Open>8.791</Open>
+    <High>9.343</High>
+    <Low>8.645</Low>
+    <Close>9.013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-20</Date>
+    <Open>9.013</Open>
+    <High>9.244</High>
+    <Low>8.719</Low>
+    <Close>9.052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-21</Date>
+    <Open>9.052</Open>
+    <High>9.171</High>
+    <Low>8.687</Low>
+    <Close>8.741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-22</Date>
+    <Open>8.741</Open>
+    <High>8.77</High>
+    <Low>8.132</Low>
+    <Close>8.234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-23</Date>
+    <Open>8.234</Open>
+    <High>8.65</High>
+    <Low>8.143</Low>
+    <Close>8.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-24</Date>
+    <Open>8.376</Open>
+    <High>8.461</High>
+    <Low>7.8216</Low>
+    <Close>7.9463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-25</Date>
+    <Open>7.9481</Open>
+    <High>8.4212</High>
+    <Low>7.6579</Low>
+    <Close>8.1714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-26</Date>
+    <Open>8.1811</Open>
+    <High>8.426</High>
+    <Low>6.8621</Low>
+    <Close>7.0205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-27</Date>
+    <Open>7.0201</Open>
+    <High>7.3396</High>
+    <Low>6.9313</Low>
+    <Close>7.1617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-28</Date>
+    <Open>7.1628</Open>
+    <High>8.0405</High>
+    <Low>6.6565</Low>
+    <Close>7.8022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-29</Date>
+    <Open>7.8044</Open>
+    <High>8.1596</High>
+    <Low>7.5067</Low>
+    <Close>7.5526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-11-30</Date>
+    <Open>7.5685</Open>
+    <High>7.9554</High>
+    <Low>7.1801</Low>
+    <Close>7.8901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-01</Date>
+    <Open>7.9049</Open>
+    <High>8.1888</High>
+    <Low>7.523</Low>
+    <Close>7.5987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-02</Date>
+    <Open>7.5908</Open>
+    <High>7.622</High>
+    <Low>7.2</Low>
+    <Close>7.4196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-03</Date>
+    <Open>7.4132</Open>
+    <High>7.4801</High>
+    <Low>6.6345</Low>
+    <Close>6.8326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-04</Date>
+    <Open>6.8425</Open>
+    <High>6.9307</High>
+    <Low>4.3893</Low>
+    <Close>5.8455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-05</Date>
+    <Open>5.8455</Open>
+    <High>5.9759</High>
+    <Low>5.0844</Low>
+    <Close>5.2401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-06</Date>
+    <Open>5.2327</Open>
+    <High>6.1899</High>
+    <Low>4.8</Low>
+    <Close>6.0813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-07</Date>
+    <Open>6.0798</Open>
+    <High>6.4711</High>
+    <Low>5.8174</Low>
+    <Close>5.8443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-08</Date>
+    <Open>5.818</Open>
+    <High>6.9272</High>
+    <Low>5.6487</Low>
+    <Close>6.6983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-09</Date>
+    <Open>6.713</Open>
+    <High>6.7523</High>
+    <Low>5.426</Low>
+    <Close>5.565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-10</Date>
+    <Open>5.5719</Open>
+    <High>5.7448</High>
+    <Low>5.0948</Low>
+    <Close>5.1449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-11</Date>
+    <Open>5.1429</Open>
+    <High>5.778</High>
+    <Low>5.0112</Low>
+    <Close>5.6379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-12</Date>
+    <Open>5.64</Open>
+    <High>5.7386</High>
+    <Low>5.3469</Low>
+    <Close>5.6344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-13</Date>
+    <Open>5.6336</Open>
+    <High>6.3451</High>
+    <Low>5.2754</Low>
+    <Close>5.6072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-14</Date>
+    <Open>5.6197</Open>
+    <High>5.9237</High>
+    <Low>5.3508</Low>
+    <Close>5.6881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-15</Date>
+    <Open>5.6789</Open>
+    <High>6.15808</High>
+    <Low>5.6038</Low>
+    <Close>5.87852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-16</Date>
+    <Open>5.87652</Open>
+    <High>6.20286</High>
+    <Low>5.6767</Low>
+    <Close>5.73672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-17</Date>
+    <Open>5.73072</Open>
+    <High>5.84275</High>
+    <Low>5.35814</Low>
+    <Close>5.5112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-18</Date>
+    <Open>5.5122</Open>
+    <High>5.87776</High>
+    <Low>5.45518</Low>
+    <Close>5.57423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-19</Date>
+    <Open>5.57123</Open>
+    <High>5.63969</High>
+    <Low>5.33413</Low>
+    <Close>5.42117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-20</Date>
+    <Open>5.42171</Open>
+    <High>5.52866</High>
+    <Low>5.08402</Low>
+    <Close>5.39562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-21</Date>
+    <Open>5.39316</Open>
+    <High>5.7493</High>
+    <Low>5.33613</Low>
+    <Close>5.59924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-22</Date>
+    <Open>5.60124</Open>
+    <High>6.4956</High>
+    <Low>5.57067</Low>
+    <Close>6.48524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-23</Date>
+    <Open>6.48524</Open>
+    <High>7.48099</High>
+    <Low>6.22124</Low>
+    <Close>7.21789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-24</Date>
+    <Open>7.21989</Open>
+    <High>8.0008</High>
+    <Low>7.06653</Low>
+    <Close>7.68784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-25</Date>
+    <Open>7.68761</Open>
+    <High>8.15389</High>
+    <Low>7.22933</Low>
+    <Close>7.54202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-26</Date>
+    <Open>7.53801</Open>
+    <High>7.97319</High>
+    <Low>7.15458</Low>
+    <Close>7.90695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-27</Date>
+    <Open>7.90895</Open>
+    <High>9.58287</High>
+    <Low>7.61628</Low>
+    <Close>9.10973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-28</Date>
+    <Open>9.11273</Open>
+    <High>9.78796</High>
+    <Low>8.42253</Low>
+    <Close>9.18584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-29</Date>
+    <Open>9.18084</Open>
+    <High>9.94899</High>
+    <Low>8.75975</Low>
+    <Close>9.29686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-30</Date>
+    <Open>9.29086</Open>
+    <High>10.6691</High>
+    <Low>8.78476</Low>
+    <Close>10.2701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2021-12-31</Date>
+    <Open>10.267</Open>
+    <High>10.4151</High>
+    <Low>9.35194</Low>
+    <Close>9.46695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-01</Date>
+    <Open>9.47795</Open>
+    <High>9.54695</High>
+    <Low>9.0271</Low>
+    <Close>9.08182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-02</Date>
+    <Open>9.09282</Open>
+    <High>9.37094</High>
+    <Low>8.82288</Low>
+    <Close>9.0258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-03</Date>
+    <Open>9.02981</Open>
+    <High>9.449</High>
+    <Low>8.43984</Low>
+    <Close>8.49385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-04</Date>
+    <Open>8.49385</Open>
+    <High>8.78</High>
+    <Low>7.9582</Low>
+    <Close>8.13119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-05</Date>
+    <Open>8.12219</Open>
+    <High>9.035</High>
+    <Low>7.25</Low>
+    <Close>7.78622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-06</Date>
+    <Open>7.77822</Open>
+    <High>7.87</High>
+    <Low>7.106</Low>
+    <Close>7.50625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-07</Date>
+    <Open>7.52201</Open>
+    <High>7.52701</High>
+    <Low>6.43607</Low>
+    <Close>7.10429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-08</Date>
+    <Open>7.09329</Open>
+    <High>7.32</High>
+    <Low>6.30937</Low>
+    <Close>6.671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-09</Date>
+    <Open>6.669</Open>
+    <High>7.206</High>
+    <Low>6.523</Low>
+    <Close>7.057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-10</Date>
+    <Open>7.057</Open>
+    <High>7.216</High>
+    <Low>6.20338</Low>
+    <Close>6.547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-11</Date>
+    <Open>6.548</Open>
+    <High>7.11271</High>
+    <Low>6.476</Low>
+    <Close>6.93169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-12</Date>
+    <Open>6.93208</Open>
+    <High>7.28819</High>
+    <Low>6.92069</Low>
+    <Close>7.07783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-13</Date>
+    <Open>7.07483</Open>
+    <High>7.55202</High>
+    <Low>6.83673</Low>
+    <Close>7.07083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-14</Date>
+    <Open>7.06182</Open>
+    <High>7.36768</High>
+    <Low>6.73069</Low>
+    <Close>7.07412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-15</Date>
+    <Open>7.06583</Open>
+    <High>7.22761</High>
+    <Low>6.98649</Low>
+    <Close>7.0105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-16</Date>
+    <Open>7.0105</Open>
+    <High>7.09284</High>
+    <Low>6.85643</Low>
+    <Close>6.98679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-17</Date>
+    <Open>6.98879</Open>
+    <High>6.9948</High>
+    <Low>6.32253</Low>
+    <Close>6.42357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-18</Date>
+    <Open>6.42457</Open>
+    <High>6.57297</High>
+    <Low>6.0088</Low>
+    <Close>6.27088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-19</Date>
+    <Open>6.27388</Open>
+    <High>6.28751</High>
+    <Low>5.90836</Low>
+    <Close>6.14484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-20</Date>
+    <Open>6.13884</Open>
+    <High>6.59298</High>
+    <Low>5.90559</Low>
+    <Close>5.9932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-21</Date>
+    <Open>5.9932</Open>
+    <High>6.0022</High>
+    <Low>4.80396</Low>
+    <Close>4.92348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-22</Date>
+    <Open>4.93999</Open>
+    <High>5.11502</High>
+    <Low>3.9878</Low>
+    <Close>4.3443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-23</Date>
+    <Open>4.34687</Open>
+    <High>4.79244</High>
+    <Low>4.30943</Low>
+    <Close>4.38088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-24</Date>
+    <Open>4.38688</Open>
+    <High>4.69694</High>
+    <Low>3.80476</Low>
+    <Close>4.3433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-25</Date>
+    <Open>4.3343</Open>
+    <High>4.65933</High>
+    <Low>4.26528</Low>
+    <Close>4.54527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-26</Date>
+    <Open>4.55328</Open>
+    <High>4.8024</High>
+    <Low>4.11547</Low>
+    <Close>4.24955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-27</Date>
+    <Open>4.25155</Open>
+    <High>4.31459</High>
+    <Low>3.85354</Low>
+    <Close>3.95198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-28</Date>
+    <Open>3.95598</Open>
+    <High>4.21426</High>
+    <Low>3.93379</Low>
+    <Close>4.12883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-29</Date>
+    <Open>4.12883</Open>
+    <High>4.3193</High>
+    <Low>4.11023</Low>
+    <Close>4.20626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-30</Date>
+    <Open>4.20326</Open>
+    <High>4.35431</High>
+    <Low>4.0036</Low>
+    <Close>4.08563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-01-31</Date>
+    <Open>4.08663</Open>
+    <High>4.31359</High>
+    <Low>3.86955</Low>
+    <Close>4.21511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-01</Date>
+    <Open>4.21811</Open>
+    <High>4.49224</High>
+    <Low>4.2001</Low>
+    <Close>4.35318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-02</Date>
+    <Open>4.35661</Open>
+    <High>4.44467</High>
+    <Low>4.03461</Low>
+    <Close>4.09768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-03</Date>
+    <Open>4.10428</Open>
+    <High>4.13707</High>
+    <Low>3.94158</Low>
+    <Close>4.03302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-04</Date>
+    <Open>4.03402</Open>
+    <High>4.40252</High>
+    <Low>4.02161</Low>
+    <Close>4.38851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-05</Date>
+    <Open>4.38851</Open>
+    <High>4.90143</High>
+    <Low>4.35848</Low>
+    <Close>4.70882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-06</Date>
+    <Open>4.70882</Open>
+    <High>4.77486</High>
+    <Low>4.46823</Low>
+    <Close>4.65786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-07</Date>
+    <Open>4.65386</Open>
+    <High>4.97298</High>
+    <Low>4.64286</Low>
+    <Close>4.90592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-08</Date>
+    <Open>4.90443</Open>
+    <High>5.08956</High>
+    <Low>4.51361</Low>
+    <Close>4.6662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-09</Date>
+    <Open>4.6672</Open>
+    <High>4.79379</High>
+    <Low>4.54663</Low>
+    <Close>4.76524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-10</Date>
+    <Open>4.76276</Open>
+    <High>4.84035</High>
+    <Low>4.38851</Low>
+    <Close>4.50115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-11</Date>
+    <Open>4.50415</Open>
+    <High>4.51961</High>
+    <Low>4.04862</Low>
+    <Close>4.07922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-12</Date>
+    <Open>4.07622</Open>
+    <High>4.27556</High>
+    <Low>4.02301</Low>
+    <Close>4.18909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-13</Date>
+    <Open>4.18909</Open>
+    <High>4.25355</High>
+    <Low>3.98139</Low>
+    <Close>4.07044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-14</Date>
+    <Open>4.06644</Open>
+    <High>4.12606</High>
+    <Low>3.93997</Low>
+    <Close>4.08204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-15</Date>
+    <Open>4.08245</Open>
+    <High>4.38119</High>
+    <Low>4.06403</Low>
+    <Close>4.34661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-16</Date>
+    <Open>4.34661</Open>
+    <High>4.45022</High>
+    <Low>4.18451</Low>
+    <Close>4.34417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-17</Date>
+    <Open>4.34217</Open>
+    <High>4.35318</High>
+    <Low>3.90234</Low>
+    <Close>3.99179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-18</Date>
+    <Open>3.98979</Open>
+    <High>4.09687</High>
+    <Low>3.8293</Low>
+    <Close>3.86232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-19</Date>
+    <Open>3.86332</Open>
+    <High>3.95837</High>
+    <Low>3.73887</Low>
+    <Close>3.84992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-20</Date>
+    <Open>3.84892</Open>
+    <High>3.87632</High>
+    <Low>3.55742</Low>
+    <Close>3.67684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-21</Date>
+    <Open>3.67684</Open>
+    <High>3.8059</High>
+    <Low>3.34167</Low>
+    <Close>3.3967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-22</Date>
+    <Open>3.3937</Open>
+    <High>3.4067</High>
+    <Low>3.13894</Low>
+    <Close>3.32866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-23</Date>
+    <Open>3.334</Open>
+    <High>3.56013</High>
+    <Low>3.328</Low>
+    <Close>3.38603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-24</Date>
+    <Open>3.38203</Open>
+    <High>3.38969</High>
+    <Low>2.75438</Low>
+    <Close>3.06723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-25</Date>
+    <Open>3.06992</Open>
+    <High>3.35268</High>
+    <Low>3.06923</Low>
+    <Close>3.34467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-26</Date>
+    <Open>3.34167</Open>
+    <High>3.42337</High>
+    <Low>3.22061</Low>
+    <Close>3.2573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-27</Date>
+    <Open>3.2543</Open>
+    <High>3.45038</High>
+    <Low>3.06453</Low>
+    <Close>3.14557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-02-28</Date>
+    <Open>3.14426</Open>
+    <High>3.4984</High>
+    <Low>3.07323</Low>
+    <Close>3.43537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-01</Date>
+    <Open>3.45273</Open>
+    <High>3.62245</High>
+    <Low>3.39336</Low>
+    <Close>3.46004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-02</Date>
+    <Open>3.46104</Open>
+    <High>3.63209</High>
+    <Low>3.36501</Low>
+    <Close>3.42103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-03</Date>
+    <Open>3.42103</Open>
+    <High>3.43103</High>
+    <Low>3.22765</Low>
+    <Close>3.31566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-04</Date>
+    <Open>3.31766</Open>
+    <High>3.34</High>
+    <Low>3.0006</Low>
+    <Close>3.06192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-05</Date>
+    <Open>3.05992</Open>
+    <High>3.13794</High>
+    <Low>2.95459</Low>
+    <Close>3.11862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-06</Date>
+    <Open>3.11994</Open>
+    <High>3.14094</High>
+    <Low>2.97389</Low>
+    <Close>2.9969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-07</Date>
+    <Open>2.9949</Open>
+    <High>3.02591</High>
+    <Low>2.77555</Low>
+    <Close>2.88186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-08</Date>
+    <Open>2.88286</Open>
+    <High>3.08931</High>
+    <Low>2.81856</Low>
+    <Close>2.86557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-09</Date>
+    <Open>2.86457</Open>
+    <High>3.23832</High>
+    <Low>2.86257</Low>
+    <Close>3.12863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-10</Date>
+    <Open>3.13163</Open>
+    <High>3.19264</High>
+    <Low>2.87457</Low>
+    <Close>3.0022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-11</Date>
+    <Open>2.87315</Open>
+    <High>3.0059</High>
+    <Low>2.85586</Low>
+    <Close>2.92558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-12</Date>
+    <Open>2.92458</Open>
+    <High>2.9886</High>
+    <Low>2.89358</Low>
+    <Close>2.93629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-13</Date>
+    <Open>2.93829</Open>
+    <High>2.96159</High>
+    <Low>2.75683</Low>
+    <Close>2.77083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-14</Date>
+    <Open>2.76755</Open>
+    <High>2.89158</High>
+    <Low>2.75655</Low>
+    <Close>2.86957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-15</Date>
+    <Open>2.87129</Open>
+    <High>2.95088</High>
+    <Low>2.76855</Low>
+    <Close>2.91687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-16</Date>
+    <Open>2.91888</Open>
+    <High>3.16795</High>
+    <Low>2.88758</Low>
+    <Close>3.08392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-17</Date>
+    <Open>3.08292</Open>
+    <High>3.26198</High>
+    <Low>3.07392</Low>
+    <Close>3.16658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-18</Date>
+    <Open>3.16958</Open>
+    <High>3.35668</High>
+    <Low>3.06823</Low>
+    <Close>3.26863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-19</Date>
+    <Open>3.27163</Open>
+    <High>3.43572</High>
+    <Low>3.27096</Low>
+    <Close>3.34434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-20</Date>
+    <Open>3.34267</Open>
+    <High>3.5041</High>
+    <Low>3.16558</Low>
+    <Close>3.2423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-21</Date>
+    <Open>3.2433</Open>
+    <High>3.40936</High>
+    <Low>3.16727</Low>
+    <Close>3.29532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-22</Date>
+    <Open>3.29432</Open>
+    <High>3.56278</High>
+    <Low>3.27531</Low>
+    <Close>3.45573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-23</Date>
+    <Open>3.45773</Open>
+    <High>3.62945</High>
+    <Low>3.42471</Low>
+    <Close>3.5948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-24</Date>
+    <Open>3.59644</Open>
+    <High>3.72249</High>
+    <Low>3.55242</Low>
+    <Close>3.65346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-25</Date>
+    <Open>3.64982</Open>
+    <High>3.80028</High>
+    <Low>3.51276</Low>
+    <Close>3.62881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-26</Date>
+    <Open>3.62345</Open>
+    <High>3.70185</High>
+    <Low>3.53341</Low>
+    <Close>3.63645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-27</Date>
+    <Open>3.63782</Open>
+    <High>3.97259</High>
+    <Low>3.54077</Low>
+    <Close>3.93958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-28</Date>
+    <Open>3.93918</Open>
+    <High>4.16166</High>
+    <Low>3.90417</Low>
+    <Close>4.06162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-29</Date>
+    <Open>4.06644</Open>
+    <High>4.26528</High>
+    <Low>3.7405</Low>
+    <Close>4.08604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-30</Date>
+    <Open>4.08604</Open>
+    <High>4.40532</High>
+    <Low>4.01461</Low>
+    <Close>4.26585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-03-31</Date>
+    <Open>4.26928</Open>
+    <High>5.02</High>
+    <Low>4.21984</Low>
+    <Close>4.43289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-01</Date>
+    <Open>4.43433</Open>
+    <High>4.77091</High>
+    <Low>4.16025</Low>
+    <Close>4.58237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-02</Date>
+    <Open>4.58683</Open>
+    <High>4.79944</High>
+    <Low>4.39476</Low>
+    <Close>4.47779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-03</Date>
+    <Open>4.47679</Open>
+    <High>4.5028</High>
+    <Low>4.28471</Low>
+    <Close>4.45378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-04</Date>
+    <Open>4.45734</Open>
+    <High>4.52281</High>
+    <Low>4.07882</Low>
+    <Close>4.28986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-05</Date>
+    <Open>4.29229</Open>
+    <High>4.41732</High>
+    <Low>4.10841</Low>
+    <Close>4.18984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-06</Date>
+    <Open>4.18984</Open>
+    <High>4.19684</High>
+    <Low>3.563</Low>
+    <Close>3.659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-07</Date>
+    <Open>3.657</Open>
+    <High>3.696</High>
+    <Low>3.481</Low>
+    <Close>3.62236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-08</Date>
+    <Open>3.62436</Open>
+    <High>3.66973</High>
+    <Low>3.41402</Low>
+    <Close>3.42037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-09</Date>
+    <Open>3.41737</Open>
+    <High>3.54506</High>
+    <Low>3.35501</Low>
+    <Close>3.53606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-10</Date>
+    <Open>3.53606</Open>
+    <High>3.62409</High>
+    <Low>3.47369</Low>
+    <Close>3.53571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-11</Date>
+    <Open>3.53871</Open>
+    <High>3.55336</High>
+    <Low>3.07392</Low>
+    <Close>3.09993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-12</Date>
+    <Open>3.10093</Open>
+    <High>3.28666</High>
+    <Low>3.07592</Low>
+    <Close>3.19996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-13</Date>
+    <Open>3.19996</Open>
+    <High>3.345</High>
+    <Low>3.16263</Low>
+    <Close>3.30999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-14</Date>
+    <Open>3.31199</Open>
+    <High>3.5227</High>
+    <Low>3.18095</Low>
+    <Close>3.23932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-15</Date>
+    <Open>3.23565</Open>
+    <High>3.36967</High>
+    <Low>3.19864</Low>
+    <Close>3.30566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-16</Date>
+    <Open>3.30466</Open>
+    <High>3.33767</High>
+    <Low>3.24432</Low>
+    <Close>3.33067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-17</Date>
+    <Open>3.33167</Open>
+    <High>3.39368</High>
+    <Low>3.27833</Low>
+    <Close>3.31866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-18</Date>
+    <Open>3.32066</Open>
+    <High>3.33467</High>
+    <Low>3.05131</Low>
+    <Close>3.28599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-19</Date>
+    <Open>3.28499</Open>
+    <High>3.37668</High>
+    <Low>3.23765</Low>
+    <Close>3.33867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-20</Date>
+    <Open>3.34067</Open>
+    <High>3.45769</High>
+    <Low>3.24332</Low>
+    <Close>3.31366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-21</Date>
+    <Open>3.31466</Open>
+    <High>3.69274</High>
+    <Low>3.31366</Low>
+    <Close>3.4937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-22</Date>
+    <Open>3.49335</Open>
+    <High>3.70974</High>
+    <Low>3.38768</Low>
+    <Close>3.56036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-23</Date>
+    <Open>3.56171</Open>
+    <High>3.56571</High>
+    <Low>3.37467</Low>
+    <Close>3.45769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-24</Date>
+    <Open>3.45735</Open>
+    <High>3.56471</High>
+    <Low>3.35334</Low>
+    <Close>3.41268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-25</Date>
+    <Open>3.41268</Open>
+    <High>3.42869</High>
+    <Low>3.08631</Low>
+    <Close>3.28133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-26</Date>
+    <Open>3.28466</Open>
+    <High>3.30966</High>
+    <Low>2.92158</Low>
+    <Close>2.9783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-27</Date>
+    <Open>2.9773</Open>
+    <High>3.0303</High>
+    <Low>2.877</Low>
+    <Close>2.9933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-28</Date>
+    <Open>2.9943</Open>
+    <High>3.0503</High>
+    <Low>2.90929</Low>
+    <Close>2.9623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-29</Date>
+    <Open>2.965</Open>
+    <High>3.0203</High>
+    <Low>2.68527</Low>
+    <Close>2.70627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-04-30</Date>
+    <Open>2.70627</Open>
+    <High>2.75328</High>
+    <Low>2.53</Low>
+    <Close>2.53425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-01</Date>
+    <Open>2.53</Open>
+    <High>2.53</High>
+    <Low>2.245</Low>
+    <Close>2.353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-02</Date>
+    <Open>2.353</Open>
+    <High>2.43824</High>
+    <Low>2.262</Low>
+    <Close>2.37424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-03</Date>
+    <Open>2.37724</Open>
+    <High>2.459</High>
+    <Low>2.29754</Low>
+    <Close>2.33677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-04</Date>
+    <Open>2.33553</Open>
+    <High>2.6</High>
+    <Low>2.30377</Low>
+    <Close>2.588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-05</Date>
+    <Open>2.58822</Open>
+    <High>2.65047</High>
+    <Low>2.19978</Low>
+    <Close>2.26155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-06</Date>
+    <Open>2.26255</Open>
+    <High>2.32477</High>
+    <Low>2.17057</Low>
+    <Close>2.23578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-07</Date>
+    <Open>2.23578</Open>
+    <High>2.26477</High>
+    <Low>2.13457</Low>
+    <Close>2.13457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-08</Date>
+    <Open>2.13057</Open>
+    <High>2.18213</High>
+    <Low>2.06417</Low>
+    <Close>2.15135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-09</Date>
+    <Open>2.14935</Open>
+    <High>2.15835</High>
+    <Low>1.74748</Low>
+    <Close>1.83263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-10</Date>
+    <Open>1.83163</Open>
+    <High>1.9904</High>
+    <Low>1.68333</Low>
+    <Close>1.72431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-11</Date>
+    <Open>1.72231</Open>
+    <High>1.84308</High>
+    <Low>1.21823</Low>
+    <Close>1.30615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-12</Date>
+    <Open>1.30715</Open>
+    <High>1.40521</High>
+    <Low>1.03554</Low>
+    <Close>1.1818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-13</Date>
+    <Open>1.17981</Open>
+    <High>1.66915</High>
+    <Low>1.10689</Low>
+    <Close>1.31975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-14</Date>
+    <Open>1.32075</Open>
+    <High>1.50344</High>
+    <Low>1.16655</Low>
+    <Close>1.26523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-15</Date>
+    <Open>1.26523</Open>
+    <High>1.36922</High>
+    <Low>1.25923</Low>
+    <Close>1.36436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-16</Date>
+    <Open>1.36722</Open>
+    <High>1.40331</High>
+    <Low>1.2294</Low>
+    <Close>1.29531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-17</Date>
+    <Open>1.30131</Open>
+    <High>1.4942</High>
+    <Low>1.24014</Low>
+    <Close>1.42015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-18</Date>
+    <Open>1.42215</Open>
+    <High>1.48407</High>
+    <Low>1.27135</Low>
+    <Close>1.30031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-19</Date>
+    <Open>1.3023</Open>
+    <High>1.34978</High>
+    <Low>1.20479</Low>
+    <Close>1.32667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-20</Date>
+    <Open>1.3288</Open>
+    <High>1.39089</High>
+    <Low>1.25437</Low>
+    <Close>1.27946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-21</Date>
+    <Open>1.28046</Open>
+    <High>1.45411</High>
+    <Low>1.26947</Low>
+    <Close>1.39618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-22</Date>
+    <Open>1.39419</Open>
+    <High>1.51603</High>
+    <Low>1.38606</Low>
+    <Close>1.42529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-23</Date>
+    <Open>1.42629</Open>
+    <High>1.70395</High>
+    <Low>1.42629</Low>
+    <Close>1.62705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-24</Date>
+    <Open>1.62788</Open>
+    <High>1.68814</High>
+    <Low>1.5012</Low>
+    <Close>1.62588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-25</Date>
+    <Open>1.62872</Open>
+    <High>1.76206</High>
+    <Low>1.59309</Low>
+    <Close>1.65701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-26</Date>
+    <Open>1.65701</Open>
+    <High>1.70812</High>
+    <Low>1.42044</Low>
+    <Close>1.50649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-27</Date>
+    <Open>1.50734</Open>
+    <High>1.54545</High>
+    <Low>1.38861</Low>
+    <Close>1.42957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-28</Date>
+    <Open>1.42736</Open>
+    <High>1.53731</High>
+    <Low>1.3961</Low>
+    <Close>1.50723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-29</Date>
+    <Open>1.50849</Open>
+    <High>1.55228</High>
+    <Low>1.4534</Low>
+    <Close>1.47438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-30</Date>
+    <Open>1.47536</Open>
+    <High>1.69481</High>
+    <Low>1.46146</Low>
+    <Close>1.67466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-05-31</Date>
+    <Open>1.67583</Open>
+    <High>1.89767</High>
+    <Low>1.60671</Low>
+    <Close>1.84652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-01</Date>
+    <Open>1.84552</Open>
+    <High>1.91247</High>
+    <Low>1.59924</Low>
+    <Close>1.60655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-02</Date>
+    <Open>1.60855</Open>
+    <High>1.65451</High>
+    <Low>1.57158</Low>
+    <Close>1.64552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-03</Date>
+    <Open>1.64452</Open>
+    <High>1.69947</High>
+    <Low>1.51951</Low>
+    <Close>1.56564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-04</Date>
+    <Open>1.56564</Open>
+    <High>1.59176</High>
+    <Low>1.50576</Low>
+    <Close>1.5788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-05</Date>
+    <Open>1.57682</Open>
+    <High>1.60472</High>
+    <Low>1.51273</Low>
+    <Close>1.55554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-06</Date>
+    <Open>1.55753</Open>
+    <High>1.69163</High>
+    <Low>1.54157</Low>
+    <Close>1.60763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-07</Date>
+    <Open>1.60965</Open>
+    <High>1.61666</High>
+    <Low>1.47479</Low>
+    <Close>1.58172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-08</Date>
+    <Open>1.58273</Open>
+    <High>1.60177</High>
+    <Low>1.476</Low>
+    <Close>1.49603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-09</Date>
+    <Open>1.49703</Open>
+    <High>1.54167</High>
+    <Low>1.45385</Low>
+    <Close>1.49275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-10</Date>
+    <Open>1.49173</Open>
+    <High>1.50277</High>
+    <Low>1.35352</Low>
+    <Close>1.39721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-11</Date>
+    <Open>1.39922</Open>
+    <High>1.40721</High>
+    <Low>1.17055</Low>
+    <Close>1.21063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-12</Date>
+    <Open>1.21063</Open>
+    <High>1.23462</High>
+    <Low>1.09258</Low>
+    <Close>1.18454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-13</Date>
+    <Open>1.18454</Open>
+    <High>1.18454</High>
+    <Low>0.90029</Low>
+    <Close>0.97764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-14</Date>
+    <Open>0.97765</Open>
+    <High>1.02871</High>
+    <Low>0.88168</Low>
+    <Close>0.95485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-15</Date>
+    <Open>0.95385</Open>
+    <High>1.07781</High>
+    <Low>0.87542</Low>
+    <Close>1.07039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-16</Date>
+    <Open>1.0724</Open>
+    <High>1.0903</High>
+    <Low>0.9614</Low>
+    <Close>0.99371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-17</Date>
+    <Open>0.94568</Open>
+    <High>1.03563</High>
+    <Low>0.93071</Low>
+    <Close>1.01178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-18</Date>
+    <Open>1.02</Open>
+    <High>1.05875</High>
+    <Low>0.85973</Low>
+    <Close>0.91152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-19</Date>
+    <Open>0.91152</Open>
+    <High>1.03875</High>
+    <Low>0.88967</Low>
+    <Close>1.02467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-20</Date>
+    <Open>1.0321</Open>
+    <High>1.19768</High>
+    <Low>1.0003</Low>
+    <Close>1.09479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-21</Date>
+    <Open>1.09579</Open>
+    <High>1.29483</High>
+    <Low>1.07382</Low>
+    <Close>1.21766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-22</Date>
+    <Open>1.21766</Open>
+    <High>1.31868</High>
+    <Low>1.13475</Low>
+    <Close>1.21179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-23</Date>
+    <Open>1.21279</Open>
+    <High>1.29171</High>
+    <Low>1.17482</Low>
+    <Close>1.22178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-24</Date>
+    <Open>1.22178</Open>
+    <High>1.33313</High>
+    <Low>1.21978</Low>
+    <Close>1.283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-25</Date>
+    <Open>1.284</Open>
+    <High>1.31308</High>
+    <Low>1.19717</Low>
+    <Close>1.25912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-26</Date>
+    <Open>1.26012</Open>
+    <High>1.28213</High>
+    <Low>1.1743</Low>
+    <Close>1.20425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-27</Date>
+    <Open>1.20526</Open>
+    <High>1.21426</High>
+    <Low>1.12594</Low>
+    <Close>1.14698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-28</Date>
+    <Open>1.14592</Open>
+    <High>1.19092</High>
+    <Low>1.09687</Low>
+    <Close>1.13259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-29</Date>
+    <Open>1.13359</Open>
+    <High>1.14157</High>
+    <Low>1.02964</Low>
+    <Close>1.06671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-06-30</Date>
+    <Open>1.06672</Open>
+    <High>1.0757</High>
+    <Low>0.933878</Low>
+    <Close>0.951856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-01</Date>
+    <Open>0.9541</Open>
+    <High>1.0303</High>
+    <Low>0.9234</Low>
+    <Close>0.9793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-02</Date>
+    <Open>0.98</Open>
+    <High>0.9963</High>
+    <Low>0.9438</Low>
+    <Close>0.9875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-03</Date>
+    <Open>0.986814</Open>
+    <High>1.0323</High>
+    <Low>0.94</Low>
+    <Close>1.0269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-04</Date>
+    <Open>1.0281</Open>
+    <High>1.0923</High>
+    <Low>0.9883</Low>
+    <Close>1.086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-05</Date>
+    <Open>1.11466</Open>
+    <High>1.12065</High>
+    <Low>1.02077</Low>
+    <Close>1.0898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-06</Date>
+    <Open>1.0908</Open>
+    <High>1.14774</High>
+    <Low>1.07271</Low>
+    <Close>1.13675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-07</Date>
+    <Open>1.13675</Open>
+    <High>1.21167</High>
+    <Low>1.13575</Low>
+    <Close>1.18229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-08</Date>
+    <Open>1.18329</Open>
+    <High>1.23026</High>
+    <Low>1.13632</Low>
+    <Close>1.1683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-09</Date>
+    <Open>1.1693</Open>
+    <High>1.25225</High>
+    <Low>1.15219</Low>
+    <Close>1.24325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-10</Date>
+    <Open>1.24425</Open>
+    <High>1.29622</High>
+    <Low>1.20528</Low>
+    <Close>1.27923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-11</Date>
+    <Open>1.28023</Open>
+    <High>1.32021</High>
+    <Low>1.16883</Low>
+    <Close>1.17894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-12</Date>
+    <Open>1.17687</Open>
+    <High>1.17794</High>
+    <Low>1.10378</Low>
+    <Close>1.12887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-13</Date>
+    <Open>1.12892</Open>
+    <High>1.19291</High>
+    <Low>1.10588</Low>
+    <Close>1.17105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-14</Date>
+    <Open>1.17105</Open>
+    <High>1.36918</High>
+    <Low>1.17105</Low>
+    <Close>1.35339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-15</Date>
+    <Open>1.36338</Open>
+    <High>1.43794</High>
+    <Low>1.34409</Low>
+    <Close>1.40638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-16</Date>
+    <Open>1.40678</Open>
+    <High>1.46251</High>
+    <Low>1.34366</Low>
+    <Close>1.44487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-17</Date>
+    <Open>1.44501</Open>
+    <High>1.47656</High>
+    <Low>1.35082</Low>
+    <Close>1.40743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-18</Date>
+    <Open>1.41452</Open>
+    <High>1.57695</High>
+    <Low>1.39835</Low>
+    <Close>1.46276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-19</Date>
+    <Open>1.46266</Open>
+    <High>1.52348</High>
+    <Low>1.41709</Low>
+    <Close>1.46053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-20</Date>
+    <Open>1.4602</Open>
+    <High>1.46783</High>
+    <Low>1.31007</Low>
+    <Close>1.33807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-21</Date>
+    <Open>1.33807</Open>
+    <High>1.43697</High>
+    <Low>1.27925</Low>
+    <Close>1.41385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-22</Date>
+    <Open>1.41385</Open>
+    <High>1.45521</High>
+    <Low>1.30833</Low>
+    <Close>1.32739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-23</Date>
+    <Open>1.32739</Open>
+    <High>1.38688</High>
+    <Low>1.28826</Low>
+    <Close>1.31445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-24</Date>
+    <Open>1.31445</Open>
+    <High>1.37684</High>
+    <Low>1.31045</Low>
+    <Close>1.36606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-25</Date>
+    <Open>1.35547</Open>
+    <High>1.43993</High>
+    <Low>1.2653</Low>
+    <Close>1.43031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-26</Date>
+    <Open>1.43041</Open>
+    <High>1.43584</High>
+    <Low>1.21717</Low>
+    <Close>1.24909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-27</Date>
+    <Open>1.2481</Open>
+    <High>1.35437</High>
+    <Low>1.24027</Low>
+    <Close>1.33702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-28</Date>
+    <Open>1.33692</Open>
+    <High>1.66488</High>
+    <Low>1.33263</Low>
+    <Close>1.63463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-29</Date>
+    <Open>1.63443</Open>
+    <High>1.64291</High>
+    <Low>1.45161</Low>
+    <Close>1.50582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-30</Date>
+    <Open>1.50582</Open>
+    <High>1.58134</High>
+    <Low>1.46461</Low>
+    <Close>1.49129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-07-31</Date>
+    <Open>1.50011</Open>
+    <High>1.55933</High>
+    <Low>1.45737</Low>
+    <Close>1.51615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-01</Date>
+    <Open>1.51565</Open>
+    <High>1.51581</High>
+    <Low>1.39563</Low>
+    <Close>1.41322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-02</Date>
+    <Open>1.42323</Open>
+    <High>1.44035</High>
+    <Low>1.3286</Low>
+    <Close>1.37343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-03</Date>
+    <Open>1.37343</Open>
+    <High>1.49929</High>
+    <Low>1.31954</Low>
+    <Close>1.48157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-04</Date>
+    <Open>1.48124</Open>
+    <High>1.52243</High>
+    <Low>1.41391</Low>
+    <Close>1.44624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-05</Date>
+    <Open>1.44674</Open>
+    <High>1.54219</High>
+    <Low>1.43124</Low>
+    <Close>1.50049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-06</Date>
+    <Open>1.50049</Open>
+    <High>1.56011</High>
+    <Low>1.49358</Low>
+    <Close>1.51913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-07</Date>
+    <Open>1.51915</Open>
+    <High>1.53808</High>
+    <Low>1.48442</Low>
+    <Close>1.53609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-08</Date>
+    <Open>1.53609</Open>
+    <High>1.62012</High>
+    <Low>1.49761</Low>
+    <Close>1.57899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-09</Date>
+    <Open>1.57899</Open>
+    <High>1.57917</High>
+    <Low>1.42146</Low>
+    <Close>1.44949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-10</Date>
+    <Open>1.44949</Open>
+    <High>1.60407</High>
+    <Low>1.39029</Low>
+    <Close>1.57066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-11</Date>
+    <Open>1.57126</Open>
+    <High>1.61573</High>
+    <Low>1.53788</Low>
+    <Close>1.54893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-12</Date>
+    <Open>1.56363</Open>
+    <High>1.57559</High>
+    <Low>1.49995</Low>
+    <Close>1.54291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-13</Date>
+    <Open>1.55021</Open>
+    <High>1.59296</High>
+    <Low>1.52981</Low>
+    <Close>1.5447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-14</Date>
+    <Open>1.5447</Open>
+    <High>1.60743</High>
+    <Low>1.46908</Low>
+    <Close>1.48446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-15</Date>
+    <Open>1.48435</Open>
+    <High>1.5438</High>
+    <Low>1.43634</Low>
+    <Close>1.45855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-16</Date>
+    <Open>1.45856</Open>
+    <High>1.46524</High>
+    <Low>1.4062</Low>
+    <Close>1.42843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-17</Date>
+    <Open>1.42843</Open>
+    <High>1.47711</High>
+    <Low>1.3647</Low>
+    <Close>1.3875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-18</Date>
+    <Open>1.3629</Open>
+    <High>1.39917</High>
+    <Low>1.35038</Low>
+    <Close>1.37861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-19</Date>
+    <Open>1.37894</Open>
+    <High>1.38234</High>
+    <Low>1.17232</Low>
+    <Close>1.20522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-20</Date>
+    <Open>1.17314</Open>
+    <High>1.22185</High>
+    <Low>1.13191</Low>
+    <Close>1.14759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-21</Date>
+    <Open>1.14757</Open>
+    <High>1.21569</High>
+    <Low>1.14347</Low>
+    <Close>1.20398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-22</Date>
+    <Open>1.20418</Open>
+    <High>1.21825</High>
+    <Low>1.13103</Low>
+    <Close>1.1637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-23</Date>
+    <Open>1.16349</Open>
+    <High>1.22319</High>
+    <Low>1.15198</Low>
+    <Close>1.20552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-24</Date>
+    <Open>1.2051</Open>
+    <High>1.23397</High>
+    <Low>1.17502</Low>
+    <Close>1.23191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-25</Date>
+    <Open>1.2312</Open>
+    <High>1.25731</High>
+    <Low>1.18118</Low>
+    <Close>1.21294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-26</Date>
+    <Open>1.21304</Open>
+    <High>1.21389</High>
+    <Low>1.08809</Low>
+    <Close>1.09761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-27</Date>
+    <Open>1.09761</Open>
+    <High>1.10319</High>
+    <Low>1.0452</Low>
+    <Close>1.05823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-28</Date>
+    <Open>1.05822</Open>
+    <High>1.07193</High>
+    <Low>1.028</Low>
+    <Close>1.0511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-29</Date>
+    <Open>1.0509</Open>
+    <High>1.08291</High>
+    <Low>1.00003</Low>
+    <Close>1.07818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-30</Date>
+    <Open>1.07819</Open>
+    <High>1.11189</High>
+    <Low>1.02339</Low>
+    <Close>1.0579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-08-31</Date>
+    <Open>1.05898</Open>
+    <High>1.0951</High>
+    <Low>1.03904</Low>
+    <Close>1.05789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-01</Date>
+    <Open>1.05889</Open>
+    <High>1.06779</High>
+    <Low>1.01085</Low>
+    <Close>1.05194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-02</Date>
+    <Open>1.04804</Open>
+    <High>1.14499</High>
+    <Low>1.04605</Low>
+    <Close>1.09216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-03</Date>
+    <Open>1.09317</Open>
+    <High>1.13903</High>
+    <Low>1.0831</Low>
+    <Close>1.11701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-04</Date>
+    <Open>1.11701</Open>
+    <High>1.16102</High>
+    <Low>1.1111</Low>
+    <Close>1.1499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-05</Date>
+    <Open>1.1499</Open>
+    <High>1.2219</High>
+    <Low>1.1201</Low>
+    <Close>1.20822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-06</Date>
+    <Open>1.22002</Open>
+    <High>1.26683</High>
+    <Low>1.12689</Low>
+    <Close>1.1361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-07</Date>
+    <Open>1.134</Open>
+    <High>1.2668</High>
+    <Low>1.08607</Low>
+    <Close>1.25529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-08</Date>
+    <Open>1.25529</Open>
+    <High>1.31737</High>
+    <Low>1.18627</Low>
+    <Close>1.3089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-09</Date>
+    <Open>1.3088</Open>
+    <High>1.36024</High>
+    <Low>1.29333</Low>
+    <Close>1.33625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-10</Date>
+    <Open>1.33607</Open>
+    <High>1.37714</High>
+    <Low>1.2903</Low>
+    <Close>1.32055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-11</Date>
+    <Open>1.33467</Open>
+    <High>1.35876</High>
+    <Low>1.28402</Low>
+    <Close>1.29451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-12</Date>
+    <Open>1.29151</Open>
+    <High>1.34916</High>
+    <Low>1.24845</Low>
+    <Close>1.26545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-13</Date>
+    <Open>1.26578</Open>
+    <High>1.28115</High>
+    <Low>1.17514</Low>
+    <Close>1.19112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-14</Date>
+    <Open>1.19112</Open>
+    <High>1.20694</High>
+    <Low>1.15411</Low>
+    <Close>1.17439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-15</Date>
+    <Open>1.17439</Open>
+    <High>1.19724</High>
+    <Low>1.10936</Low>
+    <Close>1.131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-16</Date>
+    <Open>1.128</Open>
+    <High>1.1409</High>
+    <Low>1.09401</Low>
+    <Close>1.13879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-17</Date>
+    <Open>1.13879</Open>
+    <High>1.17122</High>
+    <Low>1.1211</Low>
+    <Close>1.167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-18</Date>
+    <Open>1.1669</Open>
+    <High>1.1839</High>
+    <Low>0.9871</Low>
+    <Close>1.0449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-19</Date>
+    <Open>1.0449</Open>
+    <High>1.07891</High>
+    <Low>1.002</Low>
+    <Close>1.06801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-20</Date>
+    <Open>1.06801</Open>
+    <High>1.07501</High>
+    <Low>1.03431</Low>
+    <Close>1.048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-21</Date>
+    <Open>1.04792</Open>
+    <High>1.06731</High>
+    <Low>1.0072</Low>
+    <Close>1.0161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-22</Date>
+    <Open>1.0141</Open>
+    <High>1.0899</High>
+    <Low>0.9932</Low>
+    <Close>1.0792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-23</Date>
+    <Open>1.07931</Open>
+    <High>1.1131</High>
+    <Low>1.0348</Low>
+    <Close>1.06499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-24</Date>
+    <Open>1.06503</Open>
+    <High>1.11877</High>
+    <Low>1.06491</Low>
+    <Close>1.09419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-25</Date>
+    <Open>1.09419</Open>
+    <High>1.09601</High>
+    <Low>1.04011</Low>
+    <Close>1.0541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-26</Date>
+    <Open>1.0541</Open>
+    <High>1.06101</High>
+    <Low>1.0121</Low>
+    <Close>1.0509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-27</Date>
+    <Open>1.0509</Open>
+    <High>1.1407</High>
+    <Low>1.0417</Low>
+    <Close>1.05879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-28</Date>
+    <Open>1.05879</Open>
+    <High>1.0809</High>
+    <Low>1.023</Low>
+    <Close>1.0749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-29</Date>
+    <Open>1.0771</Open>
+    <High>1.0968</High>
+    <Low>1.05299</Low>
+    <Close>1.08901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-09-30</Date>
+    <Open>1.0889</Open>
+    <High>1.11801</High>
+    <Low>1.083</Low>
+    <Close>1.0931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-01</Date>
+    <Open>1.09501</Open>
+    <High>1.12501</High>
+    <Low>1.0702</Low>
+    <Close>1.0713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-02</Date>
+    <Open>1.0714</Open>
+    <High>1.081</High>
+    <Low>1.0347</Low>
+    <Close>1.0541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-03</Date>
+    <Open>1.05401</Open>
+    <High>1.08432</High>
+    <Low>1.0192</Low>
+    <Close>1.08211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-04</Date>
+    <Open>1.08411</Open>
+    <High>1.17425</High>
+    <Low>1.0771</Low>
+    <Close>1.13444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-05</Date>
+    <Open>1.14324</Open>
+    <High>1.32513</High>
+    <Low>1.1011</Low>
+    <Close>1.30106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-06</Date>
+    <Open>1.30406</Open>
+    <High>1.35834</High>
+    <Low>1.25336</Low>
+    <Close>1.31342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-07</Date>
+    <Open>1.31334</Open>
+    <High>1.41584</High>
+    <Low>1.29937</Low>
+    <Close>1.36449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-08</Date>
+    <Open>1.36444</Open>
+    <High>1.38594</High>
+    <Low>1.33543</Low>
+    <Close>1.36054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-09</Date>
+    <Open>1.36055</Open>
+    <High>1.38908</High>
+    <Low>1.32233</Low>
+    <Close>1.38208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-10</Date>
+    <Open>1.38208</Open>
+    <High>1.38794</High>
+    <Low>1.28017</Low>
+    <Close>1.29467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-11</Date>
+    <Open>1.2948</Open>
+    <High>1.2958</High>
+    <Low>1.20477</Low>
+    <Close>1.27709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-12</Date>
+    <Open>1.27709</Open>
+    <High>1.27709</High>
+    <Low>1.19709</Low>
+    <Close>1.20324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-13</Date>
+    <Open>1.2032</Open>
+    <High>1.24717</High>
+    <Low>1.08902</Low>
+    <Close>1.2412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-14</Date>
+    <Open>1.2468</Open>
+    <High>1.43364</High>
+    <Low>1.2332</Low>
+    <Close>1.38016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-15</Date>
+    <Open>1.37936</Open>
+    <High>1.54675</High>
+    <Low>1.36591</Low>
+    <Close>1.46607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-16</Date>
+    <Open>1.466</Open>
+    <High>1.49731</High>
+    <Low>1.41523</Low>
+    <Close>1.45506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-17</Date>
+    <Open>1.45497</Open>
+    <High>1.47689</High>
+    <Low>1.38084</Low>
+    <Close>1.40283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-18</Date>
+    <Open>1.40123</Open>
+    <High>1.53192</High>
+    <Low>1.39024</Low>
+    <Close>1.51486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-19</Date>
+    <Open>1.51605</Open>
+    <High>1.53375</High>
+    <Low>1.4592</Low>
+    <Close>1.5202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-20</Date>
+    <Open>1.52018</Open>
+    <High>1.52018</High>
+    <Low>1.365</Low>
+    <Close>1.3807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-21</Date>
+    <Open>1.3811</Open>
+    <High>1.38973</High>
+    <Low>1.27837</Low>
+    <Close>1.34931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-22</Date>
+    <Open>1.34629</Open>
+    <High>1.34889</High>
+    <Low>1.2943</Low>
+    <Close>1.30732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-23</Date>
+    <Open>1.3068</Open>
+    <High>1.418</High>
+    <Low>1.25823</Low>
+    <Close>1.40498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-24</Date>
+    <Open>1.40495</Open>
+    <High>1.45692</High>
+    <Low>1.39504</Low>
+    <Close>1.42586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-25</Date>
+    <Open>1.43026</Open>
+    <High>1.6624</High>
+    <Low>1.39476</Low>
+    <Close>1.59941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-26</Date>
+    <Open>1.59584</Open>
+    <High>1.7142</High>
+    <Low>1.55456</Low>
+    <Close>1.65616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-27</Date>
+    <Open>1.65616</Open>
+    <High>1.72256</High>
+    <Low>1.59678</Low>
+    <Close>1.6553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-28</Date>
+    <Open>1.6465</Open>
+    <High>1.75688</High>
+    <Low>1.60186</Low>
+    <Close>1.71354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-29</Date>
+    <Open>1.71254</Open>
+    <High>1.86915</High>
+    <Low>1.6477</Low>
+    <Close>1.77971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-30</Date>
+    <Open>1.77873</Open>
+    <High>1.88729</High>
+    <Low>1.69527</Low>
+    <Close>1.69534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-10-31</Date>
+    <Open>1.69672</Open>
+    <High>1.8076</High>
+    <Low>1.58724</Low>
+    <Close>1.60237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-01</Date>
+    <Open>1.6022</Open>
+    <High>1.65905</High>
+    <Low>1.56392</Low>
+    <Close>1.58104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-02</Date>
+    <Open>1.58104</Open>
+    <High>1.69472</High>
+    <Low>1.50105</Low>
+    <Close>1.6057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-03</Date>
+    <Open>1.6057</Open>
+    <High>1.81565</High>
+    <Low>1.5929</Low>
+    <Close>1.76238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-04</Date>
+    <Open>1.76128</Open>
+    <High>2.07465</High>
+    <Low>1.696</Low>
+    <Close>1.96546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-05</Date>
+    <Open>1.96546</Open>
+    <High>2.01484</High>
+    <Low>1.83239</Low>
+    <Close>1.83279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-06</Date>
+    <Open>1.83279</Open>
+    <High>1.88764</High>
+    <Low>1.7324</Low>
+    <Close>1.74694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-07</Date>
+    <Open>1.73034</Open>
+    <High>1.92536</High>
+    <Low>1.6803</Low>
+    <Close>1.686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-08</Date>
+    <Open>1.69331</Open>
+    <High>1.86227</High>
+    <Low>1.13648</Low>
+    <Close>1.36879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-09</Date>
+    <Open>1.36859</Open>
+    <High>1.42803</High>
+    <Low>1.00928</Low>
+    <Close>1.04534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-10</Date>
+    <Open>1.06154</Open>
+    <High>1.40368</High>
+    <Low>1.01231</Low>
+    <Close>1.24498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-11</Date>
+    <Open>1.24474</Open>
+    <High>1.42512</High>
+    <Low>1.16004</Low>
+    <Close>1.23346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-12</Date>
+    <Open>1.22896</Open>
+    <High>1.27063</High>
+    <Low>1.10311</Low>
+    <Close>1.17089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-13</Date>
+    <Open>1.17159</Open>
+    <High>1.28566</High>
+    <Low>1.14903</Low>
+    <Close>1.24316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-14</Date>
+    <Open>1.24316</Open>
+    <High>1.31036</High>
+    <Low>1.13839</Low>
+    <Close>1.21328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-15</Date>
+    <Open>1.21322</Open>
+    <High>1.37662</High>
+    <Low>1.20709</Low>
+    <Close>1.3026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-16</Date>
+    <Open>1.30261</Open>
+    <High>1.37223</High>
+    <Low>1.26295</Low>
+    <Close>1.27923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-17</Date>
+    <Open>1.27912</Open>
+    <High>1.32675</High>
+    <Low>1.22793</Low>
+    <Close>1.24413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-18</Date>
+    <Open>1.24422</Open>
+    <High>1.25884</High>
+    <Low>1.19079</Low>
+    <Close>1.20771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-19</Date>
+    <Open>1.20771</Open>
+    <High>1.21881</High>
+    <Low>1.1618</Low>
+    <Close>1.21163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-20</Date>
+    <Open>1.21364</Open>
+    <High>1.24748</High>
+    <Low>1.1428</Low>
+    <Close>1.14556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-21</Date>
+    <Open>1.17427</Open>
+    <High>1.20507</High>
+    <Low>1.07697</Low>
+    <Close>1.11655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-22</Date>
+    <Open>1.11656</Open>
+    <High>1.18658</High>
+    <Low>1.07777</Low>
+    <Close>1.16168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-23</Date>
+    <Open>1.16168</Open>
+    <High>1.22361</High>
+    <Low>1.15859</Low>
+    <Close>1.19179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-24</Date>
+    <Open>1.19179</Open>
+    <High>1.22887</High>
+    <Low>1.15609</Low>
+    <Close>1.16132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-25</Date>
+    <Open>1.16132</Open>
+    <High>1.18707</High>
+    <Low>1.14215</Low>
+    <Close>1.16693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-26</Date>
+    <Open>1.16558</Open>
+    <High>1.21848</High>
+    <Low>1.16544</Low>
+    <Close>1.1793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-27</Date>
+    <Open>1.1793</Open>
+    <High>1.31784</High>
+    <Low>1.17351</Low>
+    <Close>1.28827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-28</Date>
+    <Open>1.28837</Open>
+    <High>1.38047</High>
+    <Low>1.21642</Low>
+    <Close>1.33539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-29</Date>
+    <Open>1.33365</Open>
+    <High>1.41925</High>
+    <Low>1.29367</Low>
+    <Close>1.40088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-11-30</Date>
+    <Open>1.40128</Open>
+    <High>1.46303</High>
+    <Low>1.36917</Low>
+    <Close>1.44666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-01</Date>
+    <Open>1.44624</Open>
+    <High>1.48495</High>
+    <Low>1.35595</Low>
+    <Close>1.40088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-02</Date>
+    <Open>1.40377</Open>
+    <High>1.40478</High>
+    <Low>1.32135</Low>
+    <Close>1.39058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-03</Date>
+    <Open>1.39088</Open>
+    <High>1.43193</High>
+    <Low>1.31593</Low>
+    <Close>1.32633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-04</Date>
+    <Open>1.32693</Open>
+    <High>1.35841</High>
+    <Low>1.32243</Low>
+    <Close>1.34393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-05</Date>
+    <Open>1.34393</Open>
+    <High>1.40493</High>
+    <Low>1.33603</Low>
+    <Close>1.38644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-06</Date>
+    <Open>1.38644</Open>
+    <High>1.42583</High>
+    <Low>1.23689</Low>
+    <Close>1.27177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-07</Date>
+    <Open>1.2717</Open>
+    <High>1.27971</High>
+    <Low>1.14611</Low>
+    <Close>1.1541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-08</Date>
+    <Open>1.1542</Open>
+    <High>1.19778</High>
+    <Low>1.13421</Low>
+    <Close>1.18098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-09</Date>
+    <Open>1.18098</Open>
+    <High>1.21191</High>
+    <Low>1.15219</Low>
+    <Close>1.17194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-10</Date>
+    <Open>1.17184</Open>
+    <High>1.2009</High>
+    <Low>1.16898</Low>
+    <Close>1.17708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-11</Date>
+    <Open>1.17708</Open>
+    <High>1.18815</High>
+    <Low>1.11951</Low>
+    <Close>1.12823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-12</Date>
+    <Open>1.12813</Open>
+    <High>1.14913</High>
+    <Low>1.092</Low>
+    <Close>1.1369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-13</Date>
+    <Open>1.14101</Open>
+    <High>1.17005</High>
+    <Low>1.09751</Low>
+    <Close>1.15952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-14</Date>
+    <Open>1.16162</Open>
+    <High>1.16962</High>
+    <Low>1.11309</Low>
+    <Close>1.11998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-15</Date>
+    <Open>1.11998</Open>
+    <High>1.13203</High>
+    <Low>1.09621</Low>
+    <Close>1.10722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-16</Date>
+    <Open>1.10722</Open>
+    <High>1.13501</High>
+    <Low>0.9571</Low>
+    <Close>0.9943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-17</Date>
+    <Open>0.995</Open>
+    <High>1.01423</High>
+    <Low>0.9542</Low>
+    <Close>1.00103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-18</Date>
+    <Open>1.00023</Open>
+    <High>1.02405</High>
+    <Low>0.99994</Low>
+    <Close>1.00023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-19</Date>
+    <Open>1.00984</Open>
+    <High>1.00995</High>
+    <Low>0.90114</Low>
+    <Close>0.91689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-20</Date>
+    <Open>0.9168</Open>
+    <High>0.9879</High>
+    <Low>0.91669</Low>
+    <Close>0.95594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-21</Date>
+    <Open>0.95594</Open>
+    <High>0.96904</High>
+    <Low>0.92393</Low>
+    <Close>0.93505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-22</Date>
+    <Open>0.93415</Open>
+    <High>0.94492</High>
+    <Low>0.90502</Low>
+    <Close>0.93874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-23</Date>
+    <Open>0.93874</Open>
+    <High>0.95879</High>
+    <Low>0.93394</Low>
+    <Close>0.93801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-24</Date>
+    <Open>0.93801</Open>
+    <High>0.94892</High>
+    <Low>0.93574</Low>
+    <Close>0.94403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-25</Date>
+    <Open>0.94403</Open>
+    <High>0.94687</High>
+    <Low>0.91112</Low>
+    <Close>0.91678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-26</Date>
+    <Open>0.91681</Open>
+    <High>0.98271</High>
+    <Low>0.91681</Low>
+    <Close>0.9809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-27</Date>
+    <Open>0.9809</Open>
+    <High>1.0228</High>
+    <Low>0.96793</Low>
+    <Close>0.99881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-28</Date>
+    <Open>0.99881</Open>
+    <High>0.99881</High>
+    <Low>0.94151</Low>
+    <Close>0.94859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-29</Date>
+    <Open>0.9486</Open>
+    <High>0.98368</High>
+    <Low>0.91671</Low>
+    <Close>0.94137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-30</Date>
+    <Open>0.94138</Open>
+    <High>0.948673</High>
+    <Low>0.912643</Low>
+    <Close>0.934333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2022-12-31</Date>
+    <Open>0.934123</Open>
+    <High>0.9424</High>
+    <Low>0.905647</Low>
+    <Close>0.932434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-01</Date>
+    <Open>0.932434</Open>
+    <High>0.943522</High>
+    <Low>0.912589</Low>
+    <Close>0.938459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-02</Date>
+    <Open>0.93556</Open>
+    <High>0.970531</High>
+    <Low>0.920504</Low>
+    <Close>0.965781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-03</Date>
+    <Open>0.965781</Open>
+    <High>0.983605</High>
+    <Low>0.949701</Low>
+    <Close>0.956527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-04</Date>
+    <Open>0.956536</Open>
+    <High>1.01148</High>
+    <Low>0.955708</Low>
+    <Close>0.975578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-05</Date>
+    <Open>0.975678</Open>
+    <High>1.00859</High>
+    <Low>0.967813</Low>
+    <Close>0.991553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-06</Date>
+    <Open>0.991602</Open>
+    <High>1.01088</High>
+    <Low>0.957611</Low>
+    <Close>1.00859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-07</Date>
+    <Open>1.00858</Open>
+    <High>1.06668</High>
+    <Low>1.00857</Low>
+    <Close>1.05275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-08</Date>
+    <Open>1.05275</Open>
+    <High>1.09365</High>
+    <Low>1.04393</Low>
+    <Close>1.07297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-09</Date>
+    <Open>1.07197</Open>
+    <High>1.13509</High>
+    <Low>1.07082</Low>
+    <Close>1.08919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-10</Date>
+    <Open>1.0909</Open>
+    <High>1.1466</High>
+    <Low>1.06425</Low>
+    <Close>1.12136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-11</Date>
+    <Open>1.12047</Open>
+    <High>1.12439</High>
+    <Low>1.05003</Low>
+    <Close>1.071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-12</Date>
+    <Open>1.0719</Open>
+    <High>1.14149</High>
+    <Low>1.06559</Low>
+    <Close>1.13611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-13</Date>
+    <Open>1.13611</Open>
+    <High>1.21989</High>
+    <Low>1.097</Low>
+    <Close>1.20221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-14</Date>
+    <Open>1.20131</Open>
+    <High>1.32799</High>
+    <Low>1.18211</Low>
+    <Close>1.23306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-15</Date>
+    <Open>1.23306</Open>
+    <High>1.33348</High>
+    <Low>1.21234</Low>
+    <Close>1.28627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-16</Date>
+    <Open>1.28641</Open>
+    <High>1.3352</High>
+    <Low>1.19428</Low>
+    <Close>1.26273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-17</Date>
+    <Open>1.25486</Open>
+    <High>1.29386</High>
+    <Low>1.23402</Low>
+    <Close>1.25002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-18</Date>
+    <Open>1.25004</Open>
+    <High>1.31627</High>
+    <Low>1.12909</Low>
+    <Close>1.17604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-19</Date>
+    <Open>1.17693</Open>
+    <High>1.20084</High>
+    <Low>1.14797</Low>
+    <Close>1.18695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-20</Date>
+    <Open>1.18695</Open>
+    <High>1.31005</High>
+    <Low>1.16609</Low>
+    <Close>1.30842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-21</Date>
+    <Open>1.30443</Open>
+    <High>1.35778</High>
+    <Low>1.26977</Low>
+    <Close>1.33647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-22</Date>
+    <Open>1.33545</Open>
+    <High>1.41548</High>
+    <Low>1.27844</Low>
+    <Close>1.32526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-23</Date>
+    <Open>1.32607</Open>
+    <High>1.38106</High>
+    <Low>1.31924</Low>
+    <Close>1.3533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-24</Date>
+    <Open>1.3534</Open>
+    <High>1.37521</High>
+    <Low>1.22128</Low>
+    <Close>1.25004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-25</Date>
+    <Open>1.24994</Open>
+    <High>1.32446</High>
+    <Low>1.21526</Low>
+    <Close>1.28411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-26</Date>
+    <Open>1.28421</Open>
+    <High>1.33599</High>
+    <Low>1.27447</Low>
+    <Close>1.31431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-27</Date>
+    <Open>1.31432</Open>
+    <High>1.36034</High>
+    <Low>1.26837</Low>
+    <Close>1.33581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-28</Date>
+    <Open>1.33731</Open>
+    <High>1.3651</High>
+    <Low>1.27853</Low>
+    <Close>1.29136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-29</Date>
+    <Open>1.29135</Open>
+    <High>1.35725</High>
+    <Low>1.27648</Low>
+    <Close>1.35605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-30</Date>
+    <Open>1.35605</Open>
+    <High>1.36685</High>
+    <Low>1.21809</Low>
+    <Close>1.22619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-01-31</Date>
+    <Open>1.22619</Open>
+    <High>1.2787</High>
+    <Low>1.22126</Low>
+    <Close>1.26571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-01</Date>
+    <Open>1.26571</Open>
+    <High>1.31759</High>
+    <Low>1.19016</Low>
+    <Close>1.30228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-02</Date>
+    <Open>1.30277</Open>
+    <High>1.62285</High>
+    <Low>1.29926</Low>
+    <Close>1.53631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-03</Date>
+    <Open>1.53621</Open>
+    <High>1.63685</High>
+    <Low>1.46843</Low>
+    <Close>1.58133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-04</Date>
+    <Open>1.58133</Open>
+    <High>1.58133</High>
+    <Low>1.52031</Low>
+    <Close>1.53292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-05</Date>
+    <Open>1.53292</Open>
+    <High>1.53997</High>
+    <Low>1.40958</Low>
+    <Close>1.43786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-06</Date>
+    <Open>1.43816</Open>
+    <High>1.55168</High>
+    <Low>1.39355</Low>
+    <Close>1.46186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-07</Date>
+    <Open>1.46186</Open>
+    <High>1.49824</High>
+    <Low>1.42869</Low>
+    <Close>1.4849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-08</Date>
+    <Open>1.48489</Open>
+    <High>1.54695</High>
+    <Low>1.37545</Low>
+    <Close>1.42781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-09</Date>
+    <Open>1.42781</Open>
+    <High>1.46906</High>
+    <Low>1.22097</Low>
+    <Close>1.23902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-10</Date>
+    <Open>1.24002</Open>
+    <High>1.31645</High>
+    <Low>1.23516</Low>
+    <Close>1.29919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-11</Date>
+    <Open>1.3012</Open>
+    <High>1.32942</High>
+    <Low>1.26914</Low>
+    <Close>1.32332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-12</Date>
+    <Open>1.32233</Open>
+    <High>1.32293</High>
+    <Low>1.24227</Low>
+    <Close>1.27033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-13</Date>
+    <Open>1.27063</Open>
+    <High>1.28514</High>
+    <Low>1.207</Low>
+    <Close>1.27589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-14</Date>
+    <Open>1.2749</Open>
+    <High>1.32674</High>
+    <Low>1.24982</Low>
+    <Close>1.29839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-15</Date>
+    <Open>1.29773</Open>
+    <High>1.39912</High>
+    <Low>1.28447</Low>
+    <Close>1.39647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-16</Date>
+    <Open>1.39645</Open>
+    <High>1.43713</High>
+    <Low>1.32986</Low>
+    <Close>1.33625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-17</Date>
+    <Open>1.33565</Open>
+    <High>1.43004</High>
+    <Low>1.31543</Low>
+    <Close>1.40694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-18</Date>
+    <Open>1.40734</Open>
+    <High>1.47055</High>
+    <Low>1.40117</Low>
+    <Close>1.43304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-19</Date>
+    <Open>1.43323</Open>
+    <High>1.51744</High>
+    <Low>1.41221</Low>
+    <Close>1.43462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-20</Date>
+    <Open>1.43502</Open>
+    <High>1.51151</High>
+    <Low>1.3816</Low>
+    <Close>1.49586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-21</Date>
+    <Open>1.49606</Open>
+    <High>1.51536</High>
+    <Low>1.39747</Low>
+    <Close>1.42324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-22</Date>
+    <Open>1.42084</Open>
+    <High>1.47195</High>
+    <Low>1.33629</Low>
+    <Close>1.388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-23</Date>
+    <Open>1.38696</Open>
+    <High>1.48441</High>
+    <Low>1.38245</Low>
+    <Close>1.47298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-24</Date>
+    <Open>1.47508</Open>
+    <High>1.51434</High>
+    <Low>1.33319</Low>
+    <Close>1.33689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-25</Date>
+    <Open>1.33689</Open>
+    <High>1.38292</High>
+    <Low>1.27454</Low>
+    <Close>1.30889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-26</Date>
+    <Open>1.30899</Open>
+    <High>1.34833</High>
+    <Low>1.30888</Low>
+    <Close>1.33018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-27</Date>
+    <Open>1.32988</Open>
+    <High>1.36614</High>
+    <Low>1.27581</Low>
+    <Close>1.29386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-02-28</Date>
+    <Open>1.29346</Open>
+    <High>1.33691</High>
+    <Low>1.25979</Low>
+    <Close>1.28832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-01</Date>
+    <Open>1.28846</Open>
+    <High>1.35438</High>
+    <Low>1.26523</Low>
+    <Close>1.34798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-02</Date>
+    <Open>1.34798</Open>
+    <High>1.36842</High>
+    <Low>1.28804</Low>
+    <Close>1.31292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-03</Date>
+    <Open>1.31321</Open>
+    <High>1.31923</High>
+    <Low>1.16699</Low>
+    <Close>1.22199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-04</Date>
+    <Open>1.22227</Open>
+    <High>1.24926</High>
+    <Low>1.16306</Low>
+    <Close>1.19898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-05</Date>
+    <Open>1.1992</Open>
+    <High>1.22919</High>
+    <Low>1.19</Low>
+    <Close>1.21103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-06</Date>
+    <Open>1.21103</Open>
+    <High>1.22432</High>
+    <Low>1.17179</Low>
+    <Close>1.21503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-07</Date>
+    <Open>1.21503</Open>
+    <High>1.23718</High>
+    <Low>1.15603</Low>
+    <Close>1.16704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-08</Date>
+    <Open>1.16894</Open>
+    <High>1.19799</High>
+    <Low>1.10484</Low>
+    <Close>1.10493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-09</Date>
+    <Open>1.10879</Open>
+    <High>1.16762</High>
+    <Low>1.03179</Low>
+    <Close>1.03979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-10</Date>
+    <Open>1.0398</Open>
+    <High>1.09812</High>
+    <Low>0.99982</Low>
+    <Close>1.08781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-11</Date>
+    <Open>1.08774</Open>
+    <High>1.12455</High>
+    <Low>1.02201</Low>
+    <Close>1.05886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-12</Date>
+    <Open>1.05785</Open>
+    <High>1.18175</High>
+    <Low>1.05765</Low>
+    <Close>1.15197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-13</Date>
+    <Open>1.15167</Open>
+    <High>1.28698</High>
+    <Low>1.11277</Low>
+    <Close>1.24706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-14</Date>
+    <Open>1.24686</Open>
+    <High>1.29147</High>
+    <Low>1.1883</Low>
+    <Close>1.22101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-15</Date>
+    <Open>1.22202</Open>
+    <High>1.28167</High>
+    <Low>1.1033</Low>
+    <Close>1.13063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-16</Date>
+    <Open>1.13152</Open>
+    <High>1.15599</High>
+    <Low>1.1129</Low>
+    <Close>1.13853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-17</Date>
+    <Open>1.13871</Open>
+    <High>1.2386</High>
+    <Low>1.13787</Low>
+    <Close>1.23779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-18</Date>
+    <Open>1.23769</Open>
+    <High>1.30159</High>
+    <Low>1.19843</Low>
+    <Close>1.21171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-19</Date>
+    <Open>1.21503</Open>
+    <High>1.26538</High>
+    <Low>1.19806</Low>
+    <Close>1.24376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-20</Date>
+    <Open>1.24283</Open>
+    <High>1.25261</High>
+    <Low>1.14884</Low>
+    <Close>1.17016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-21</Date>
+    <Open>1.17217</Open>
+    <High>1.22139</High>
+    <Low>1.13132</Low>
+    <Close>1.15758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-22</Date>
+    <Open>1.1586</Open>
+    <High>1.18058</High>
+    <Low>1.03307</Low>
+    <Close>1.05268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-23</Date>
+    <Open>1.05298</Open>
+    <High>1.11775</High>
+    <Low>1.03683</Low>
+    <Close>1.07724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-24</Date>
+    <Open>1.07633</Open>
+    <High>1.08719</High>
+    <Low>1.0163</Low>
+    <Close>1.03012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-25</Date>
+    <Open>1.03014</Open>
+    <High>1.04483</High>
+    <Low>1.00103</Low>
+    <Close>1.01187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-26</Date>
+    <Open>1.01188</Open>
+    <High>1.05885</High>
+    <Low>1.0099</Low>
+    <Close>1.04718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-27</Date>
+    <Open>1.04715</Open>
+    <High>1.06416</High>
+    <Low>0.97215</Low>
+    <Close>1.00157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-28</Date>
+    <Open>1.00157</Open>
+    <High>1.05418</High>
+    <Low>0.99326</Low>
+    <Close>1.04321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-29</Date>
+    <Open>1.04241</Open>
+    <High>1.09056</High>
+    <Low>1.03441</Low>
+    <Close>1.08231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-30</Date>
+    <Open>1.08913</Open>
+    <High>1.10005</High>
+    <Low>1.0423</Low>
+    <Close>1.0715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-03-31</Date>
+    <Open>1.07149</Open>
+    <High>1.10844</High>
+    <Low>1.05621</Low>
+    <Close>1.09412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-01</Date>
+    <Open>1.09422</Open>
+    <High>1.12041</High>
+    <Low>1.07824</Low>
+    <Close>1.09149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-02</Date>
+    <Open>1.0901</Open>
+    <High>1.10884</High>
+    <Low>1.04771</Low>
+    <Close>1.05565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-03</Date>
+    <Open>1.05756</Open>
+    <High>1.10133</High>
+    <Low>1.02557</Low>
+    <Close>1.06131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-04</Date>
+    <Open>1.06633</Open>
+    <High>1.15889</High>
+    <Low>1.06171</Low>
+    <Close>1.14367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-05</Date>
+    <Open>1.14367</Open>
+    <High>1.1614</High>
+    <Low>1.11727</Low>
+    <Close>1.13171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-06</Date>
+    <Open>1.13171</Open>
+    <High>1.14556</High>
+    <Low>1.11012</Low>
+    <Close>1.11849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-07</Date>
+    <Open>1.11839</Open>
+    <High>1.14907</High>
+    <Low>1.09945</Low>
+    <Close>1.10272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-08</Date>
+    <Open>1.10273</Open>
+    <High>1.13312</High>
+    <Low>1.09445</Low>
+    <Close>1.10143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-09</Date>
+    <Open>1.10133</Open>
+    <High>1.11977</High>
+    <Low>1.06055</Low>
+    <Close>1.11895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-10</Date>
+    <Open>1.11928</Open>
+    <High>1.14586</High>
+    <Low>1.09346</Low>
+    <Close>1.13703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-11</Date>
+    <Open>1.13693</Open>
+    <High>1.15605</High>
+    <Low>1.13307</Low>
+    <Close>1.14303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-12</Date>
+    <Open>1.14303</Open>
+    <High>1.14542</High>
+    <Low>1.09421</Low>
+    <Close>1.12278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-13</Date>
+    <Open>1.11997</Open>
+    <High>1.17271</High>
+    <Low>1.11388</Low>
+    <Close>1.16201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-14</Date>
+    <Open>1.16171</Open>
+    <High>1.2014</High>
+    <Low>1.14955</Low>
+    <Close>1.18298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-15</Date>
+    <Open>1.18157</Open>
+    <High>1.19415</High>
+    <Low>1.16805</Low>
+    <Close>1.17496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-16</Date>
+    <Open>1.17496</Open>
+    <High>1.21709</High>
+    <Low>1.16206</Low>
+    <Close>1.20671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-17</Date>
+    <Open>1.20691</Open>
+    <High>1.20902</High>
+    <Low>1.15694</Low>
+    <Close>1.16259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-18</Date>
+    <Open>1.16259</Open>
+    <High>1.22059</High>
+    <Low>1.15757</Low>
+    <Close>1.2023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-19</Date>
+    <Open>1.20233</Open>
+    <High>1.20991</High>
+    <Low>1.0892</Low>
+    <Close>1.1005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-20</Date>
+    <Open>1.10159</Open>
+    <High>1.11257</High>
+    <Low>1.05033</Low>
+    <Close>1.06719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-21</Date>
+    <Open>1.06707</Open>
+    <High>1.08025</High>
+    <Low>1.01438</Low>
+    <Close>1.02359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-22</Date>
+    <Open>1.02479</Open>
+    <High>1.0492</High>
+    <Low>1.01504</Low>
+    <Close>1.04519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-23</Date>
+    <Open>1.04519</Open>
+    <High>1.06107</High>
+    <Low>1.02019</Low>
+    <Close>1.03215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-24</Date>
+    <Open>1.03105</Open>
+    <High>1.0599</High>
+    <Low>1.02987</Low>
+    <Close>1.04692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-25</Date>
+    <Open>1.04693</Open>
+    <High>1.06318</High>
+    <Low>1.01691</Low>
+    <Close>1.06274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-26</Date>
+    <Open>1.06014</Open>
+    <High>1.09582</High>
+    <Low>0.98089</Low>
+    <Close>1.03522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-27</Date>
+    <Open>1.02623</Open>
+    <High>1.06829</High>
+    <Low>1.02328</Low>
+    <Close>1.06147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-28</Date>
+    <Open>1.06155</Open>
+    <High>1.06155</High>
+    <Low>1.0294</Low>
+    <Close>1.04681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-29</Date>
+    <Open>1.04671</Open>
+    <High>1.06184</High>
+    <Low>1.03971</Low>
+    <Close>1.05652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-04-30</Date>
+    <Open>1.05671</Open>
+    <High>1.05671</High>
+    <Low>1.0167</Low>
+    <Close>1.02168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-01</Date>
+    <Open>1.02167</Open>
+    <High>1.02756</High>
+    <Low>0.99126</Low>
+    <Close>1.00627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-02</Date>
+    <Open>1.00626</Open>
+    <High>1.02781</High>
+    <Low>1.00092</Low>
+    <Close>1.01862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-03</Date>
+    <Open>1.01842</Open>
+    <High>1.03538</High>
+    <Low>0.99423</Low>
+    <Close>1.03538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-04</Date>
+    <Open>1.03537</Open>
+    <High>1.04949</High>
+    <Low>1.01924</Low>
+    <Close>1.03037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-05</Date>
+    <Open>1.03047</Open>
+    <High>1.05608</High>
+    <Low>1.02227</Low>
+    <Close>1.04885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-06</Date>
+    <Open>1.04886</Open>
+    <High>1.05198</High>
+    <Low>0.98832</Low>
+    <Close>0.99663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-07</Date>
+    <Open>0.99679</Open>
+    <High>1.00952</High>
+    <Low>0.99212</Low>
+    <Close>1.00118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-08</Date>
+    <Open>1.0015</Open>
+    <High>1.00327</High>
+    <Low>0.874394</Low>
+    <Close>0.897081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-09</Date>
+    <Open>0.896881</Open>
+    <High>0.908745</High>
+    <Low>0.880956</Low>
+    <Close>0.89069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-10</Date>
+    <Open>0.89099</Open>
+    <High>0.915097</High>
+    <Low>0.856041</Low>
+    <Close>0.908908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-11</Date>
+    <Open>0.908808</Open>
+    <High>0.918017</High>
+    <Low>0.859773</Low>
+    <Close>0.873973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-12</Date>
+    <Open>0.873973</Open>
+    <High>0.887721</High>
+    <Low>0.846446</Low>
+    <Close>0.885508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-13</Date>
+    <Open>0.884807</Open>
+    <High>0.891635</High>
+    <Low>0.874337</Low>
+    <Close>0.885242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-14</Date>
+    <Open>0.885242</Open>
+    <High>0.90074</High>
+    <Low>0.877539</Low>
+    <Close>0.888433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-15</Date>
+    <Open>0.889433</Open>
+    <High>0.91383</High>
+    <Low>0.885431</Low>
+    <Close>0.898629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-16</Date>
+    <Open>0.898428</Open>
+    <High>0.901441</High>
+    <Low>0.880428</Low>
+    <Close>0.889344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-17</Date>
+    <Open>0.889055</Open>
+    <High>0.927664</High>
+    <Low>0.884254</Low>
+    <Close>0.919359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-18</Date>
+    <Open>0.919168</Open>
+    <High>0.928964</High>
+    <Low>0.879352</Low>
+    <Close>0.915266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-19</Date>
+    <Open>0.915266</Open>
+    <High>0.917027</High>
+    <Low>0.893025</Low>
+    <Close>0.90107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-20</Date>
+    <Open>0.90105</Open>
+    <High>0.907916</High>
+    <Low>0.890456</Low>
+    <Close>0.903713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-21</Date>
+    <Open>0.902912</Open>
+    <High>0.905633</High>
+    <Low>0.877338</Low>
+    <Close>0.880628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-22</Date>
+    <Open>0.88054</Open>
+    <High>0.901641</High>
+    <Low>0.866333</Low>
+    <Close>0.89955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-23</Date>
+    <Open>0.89945</Open>
+    <High>0.915201</High>
+    <Low>0.893341</Low>
+    <Close>0.898945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-24</Date>
+    <Open>0.898954</Open>
+    <High>0.90089</High>
+    <Low>0.853126</Low>
+    <Close>0.867048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-25</Date>
+    <Open>0.866757</Open>
+    <High>0.868965</High>
+    <Low>0.844068</Low>
+    <Close>0.854917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-26</Date>
+    <Open>0.855117</Open>
+    <High>0.855917</High>
+    <Low>0.826974</Low>
+    <Close>0.844069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-27</Date>
+    <Open>0.844153</Open>
+    <High>0.848337</High>
+    <Low>0.832341</Low>
+    <Close>0.83921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SUSHI">
+    <Date>2023-05-28</Date>
+    <Open>0.83931</Open>
+    <High>0.869343</High>
+    <Low>0.838952</Low>
+    <Close>0.865899</Close>
+  </Cryptocurrency>
+</Root>

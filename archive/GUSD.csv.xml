@@ -1,0 +1,2677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-13</Date>
+    <Open>0.98732</Open>
+    <High>0.987419</High>
+    <Low>0.987221</Low>
+    <Close>0.987221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-14</Date>
+    <Open>1.06576</Open>
+    <High>1.10699</High>
+    <Low>1.06575</Low>
+    <Close>1.09846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-15</Date>
+    <Open>1.09323</Open>
+    <High>1.10864</High>
+    <Low>1.07486</Low>
+    <Close>1.09569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-16</Date>
+    <Open>1.09439</Open>
+    <High>1.09847</High>
+    <Low>0.9957</Low>
+    <Close>0.9967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-17</Date>
+    <Open>0.9966</Open>
+    <High>1.0</High>
+    <Low>0.9959</Low>
+    <Close>0.9994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-18</Date>
+    <Open>0.9989</Open>
+    <High>1.0002</High>
+    <Low>0.9978</Low>
+    <Close>0.9995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-19</Date>
+    <Open>0.9997</Open>
+    <High>1.0007</High>
+    <Low>0.9992</Low>
+    <Close>1.0005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-20</Date>
+    <Open>0.9999</Open>
+    <High>1.0019</High>
+    <Low>0.9995</Low>
+    <Close>1.0019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-21</Date>
+    <Open>1.08807</Open>
+    <High>1.09504</High>
+    <Low>0.99381</Low>
+    <Close>0.99421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-22</Date>
+    <Open>0.99421</Open>
+    <High>0.99431</High>
+    <Low>0.99391</Low>
+    <Close>0.99421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-23</Date>
+    <Open>0.9967</Open>
+    <High>0.9967</High>
+    <Low>0.9951</Low>
+    <Close>0.9952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-24</Date>
+    <Open>0.9955</Open>
+    <High>0.9996</High>
+    <Low>0.9952</Low>
+    <Close>0.9988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-25</Date>
+    <Open>0.997</Open>
+    <High>1.0004</High>
+    <Low>0.9959</Low>
+    <Close>0.9989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-26</Date>
+    <Open>0.9989</Open>
+    <High>1.08487</High>
+    <Low>0.9963</Low>
+    <Close>0.9986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-27</Date>
+    <Open>0.998</Open>
+    <High>2.83678</High>
+    <Low>0.9951</Low>
+    <Close>0.9979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-28</Date>
+    <Open>0.99647</Open>
+    <High>0.99913</High>
+    <Low>0.99584</Low>
+    <Close>0.99736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-29</Date>
+    <Open>0.99731</Open>
+    <High>1.00201</High>
+    <Low>0.9973</Low>
+    <Close>1.00116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-30</Date>
+    <Open>1.00016</Open>
+    <High>1.00168</High>
+    <Low>0.9996</Low>
+    <Close>1.0001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-05-31</Date>
+    <Open>1.0</Open>
+    <High>1.0473</High>
+    <Low>0.9994</Low>
+    <Close>1.0002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-01</Date>
+    <Open>1.0001</Open>
+    <High>1.0027</High>
+    <Low>0.9996</Low>
+    <Close>1.0014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-02</Date>
+    <Open>1.0006</Open>
+    <High>1.002</High>
+    <Low>0.9996</Low>
+    <Close>0.9998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-03</Date>
+    <Open>0.9996</Open>
+    <High>1.00173</High>
+    <Low>0.9996</Low>
+    <Close>1.00033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-04</Date>
+    <Open>1.00013</Open>
+    <High>1.00148</High>
+    <Low>1.0</Low>
+    <Close>1.00024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-05</Date>
+    <Open>1.05549</Open>
+    <High>1.05549</High>
+    <Low>0.99974</Low>
+    <Close>0.99988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-06</Date>
+    <Open>0.9991</Open>
+    <High>1.00218</High>
+    <Low>0.99815</Low>
+    <Close>1.00216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-07</Date>
+    <Open>1.00226</Open>
+    <High>1.003</High>
+    <Low>0.99978</Low>
+    <Close>1.00188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-08</Date>
+    <Open>1.00142</Open>
+    <High>1.00263</High>
+    <Low>0.9996</Low>
+    <Close>1.00263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-09</Date>
+    <Open>1.00104</Open>
+    <High>1.00326</High>
+    <Low>1.00006</Low>
+    <Close>1.00125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-10</Date>
+    <Open>1.00124</Open>
+    <High>1.0033</High>
+    <Low>1.00101</Low>
+    <Close>1.00242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-11</Date>
+    <Open>1.00138</Open>
+    <High>1.00283</High>
+    <Low>1.00119</Low>
+    <Close>1.00134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-12</Date>
+    <Open>1.00146</Open>
+    <High>1.00238</High>
+    <Low>0.9994</Low>
+    <Close>1.00097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-13</Date>
+    <Open>1.00087</Open>
+    <High>1.29733</High>
+    <Low>0.9974</Low>
+    <Close>1.00063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-14</Date>
+    <Open>1.00106</Open>
+    <High>1.0027</High>
+    <Low>0.99884</Low>
+    <Close>1.0014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-15</Date>
+    <Open>0.99972</Open>
+    <High>1.00409</High>
+    <Low>0.9992</Low>
+    <Close>1.001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-16</Date>
+    <Open>1.00209</Open>
+    <High>1.00679</High>
+    <Low>1.0002</Low>
+    <Close>1.00339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-17</Date>
+    <Open>1.00555</Open>
+    <High>1.07634</High>
+    <Low>0.99378</Low>
+    <Close>0.9987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-18</Date>
+    <Open>0.9986</Open>
+    <High>1.16403</High>
+    <Low>0.99805</Low>
+    <Close>1.00048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-19</Date>
+    <Open>0.99841</Open>
+    <High>0.99905</High>
+    <Low>0.98842</Low>
+    <Close>0.9948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-20</Date>
+    <Open>0.9955</Open>
+    <High>1.0015</High>
+    <Low>0.99401</Low>
+    <Close>1.0006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-21</Date>
+    <Open>0.9999</Open>
+    <High>1.0016</High>
+    <Low>0.98861</Low>
+    <Close>0.99251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-22</Date>
+    <Open>0.99331</Open>
+    <High>0.9989</High>
+    <Low>0.99011</Low>
+    <Close>0.9965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-23</Date>
+    <Open>0.9965</Open>
+    <High>0.9978</High>
+    <Low>0.99421</Low>
+    <Close>0.995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-24</Date>
+    <Open>0.995</Open>
+    <High>0.9962</High>
+    <Low>0.99231</Low>
+    <Close>0.99421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-25</Date>
+    <Open>0.99401</Open>
+    <High>0.99563</High>
+    <Low>0.99355</Low>
+    <Close>0.9943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-26</Date>
+    <Open>0.99413</Open>
+    <High>0.99841</High>
+    <Low>0.99392</Low>
+    <Close>0.99518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-27</Date>
+    <Open>0.99653</Open>
+    <High>0.99791</High>
+    <Low>0.99546</Low>
+    <Close>0.99649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-28</Date>
+    <Open>0.99783</Open>
+    <High>0.99832</High>
+    <Low>0.99606</Low>
+    <Close>0.99646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-29</Date>
+    <Open>0.99785</Open>
+    <High>1.00023</High>
+    <Low>0.99561</Low>
+    <Close>0.99829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-06-30</Date>
+    <Open>0.9983</Open>
+    <High>0.999919</High>
+    <Low>0.997212</Low>
+    <Close>0.998101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-01</Date>
+    <Open>0.997801</Open>
+    <High>1.0004</High>
+    <Low>0.997302</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-02</Date>
+    <Open>0.999</Open>
+    <High>1.0003</High>
+    <Low>0.997601</Low>
+    <Close>0.999499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-03</Date>
+    <Open>0.999699</Open>
+    <High>1.0002</High>
+    <Low>0.997901</Low>
+    <Close>1.0002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-04</Date>
+    <Open>0.999199</Open>
+    <High>1.0005</High>
+    <Low>0.997202</Low>
+    <Close>0.999299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-05</Date>
+    <Open>0.997901</Open>
+    <High>0.999499</High>
+    <Low>0.997801</Low>
+    <Close>0.999499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-06</Date>
+    <Open>0.993</Open>
+    <High>0.999499</High>
+    <Low>0.993</Low>
+    <Close>0.997202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-07</Date>
+    <Open>0.997202</Open>
+    <High>1.0</High>
+    <Low>0.997102</Low>
+    <Close>0.998301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-08</Date>
+    <Open>0.998401</Open>
+    <High>1.0</High>
+    <Low>0.998201</Low>
+    <Close>0.9986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-09</Date>
+    <Open>1.0003</Open>
+    <High>1.0003</High>
+    <Low>0.998401</Low>
+    <Close>0.9989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-10</Date>
+    <Open>0.9999</Open>
+    <High>1.0002</High>
+    <Low>0.9987</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-11</Date>
+    <Open>0.9992</Open>
+    <High>1.003</High>
+    <Low>0.995303</Low>
+    <Close>0.997601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-12</Date>
+    <Open>0.9986</Open>
+    <High>1.09114</High>
+    <Low>0.997502</Low>
+    <Close>1.0002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-13</Date>
+    <Open>1.00021</Open>
+    <High>1.09645</High>
+    <Low>0.9979</Low>
+    <Close>0.9993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-14</Date>
+    <Open>0.9997</Open>
+    <High>1.0054</High>
+    <Low>0.9971</Low>
+    <Close>1.0054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-15</Date>
+    <Open>1.0075</Open>
+    <High>1.10826</High>
+    <Low>0.9986</Low>
+    <Close>1.0005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-16</Date>
+    <Open>1.0006</Open>
+    <High>1.00928</High>
+    <Low>0.9988</Low>
+    <Close>0.9994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-17</Date>
+    <Open>0.994</Open>
+    <High>1.08128</High>
+    <Low>0.994</Low>
+    <Close>1.00058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-18</Date>
+    <Open>1.07699</Open>
+    <High>1.07852</High>
+    <Low>0.998191</Low>
+    <Close>1.00067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-19</Date>
+    <Open>0.99876</Open>
+    <High>1.07699</High>
+    <Low>0.99876</Low>
+    <Close>0.99929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-20</Date>
+    <Open>0.99917</Open>
+    <High>1.00098</High>
+    <Low>0.99912</Low>
+    <Close>1.00085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-21</Date>
+    <Open>1.00179</Open>
+    <High>1.00179</High>
+    <Low>0.99913</Low>
+    <Close>0.99942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-22</Date>
+    <Open>0.99914</Open>
+    <High>1.00171</High>
+    <Low>0.99908</Low>
+    <Close>0.99993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-23</Date>
+    <Open>1.00148</Open>
+    <High>1.0017</High>
+    <Low>0.99998</Low>
+    <Close>1.00152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-24</Date>
+    <Open>1.06934</Open>
+    <High>1.06989</High>
+    <Low>1.06835</Low>
+    <Close>1.06916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-25</Date>
+    <Open>1.0693</Open>
+    <High>1.08801</High>
+    <Low>1.06669</Low>
+    <Close>1.08518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-26</Date>
+    <Open>1.00162</Open>
+    <High>1.08889</High>
+    <Low>1.00004</Low>
+    <Close>1.00385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-27</Date>
+    <Open>1.00318</Open>
+    <High>1.00575</High>
+    <Low>1.00308</Low>
+    <Close>1.00553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-28</Date>
+    <Open>1.08604</Open>
+    <High>1.08604</High>
+    <Low>1.00143</Low>
+    <Close>1.00419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-29</Date>
+    <Open>1.00301</Open>
+    <High>1.00335</High>
+    <Low>1.00004</Low>
+    <Close>1.00162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-30</Date>
+    <Open>1.00084</Open>
+    <High>1.003</High>
+    <Low>1.00054</Low>
+    <Close>1.00073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-07-31</Date>
+    <Open>1.00068</Open>
+    <High>1.0028</High>
+    <Low>1.00008</Low>
+    <Close>1.00233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-01</Date>
+    <Open>1.00226</Open>
+    <High>1.00257</High>
+    <Low>0.99923</Low>
+    <Close>1.00099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-02</Date>
+    <Open>1.05271</Open>
+    <High>1.05871</High>
+    <Low>1.00108</Low>
+    <Close>1.00118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-03</Date>
+    <Open>1.00054</Open>
+    <High>1.00191</High>
+    <Low>0.9993</Low>
+    <Close>1.00007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-04</Date>
+    <Open>1.00174</Open>
+    <High>1.00174</High>
+    <Low>0.99848</Low>
+    <Close>1.00093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-05</Date>
+    <Open>1.00037</Open>
+    <High>1.00285</High>
+    <Low>1.00023</Low>
+    <Close>1.00119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-06</Date>
+    <Open>1.00067</Open>
+    <High>1.00246</High>
+    <Low>1.00034</Low>
+    <Close>1.00182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-07</Date>
+    <Open>1.00183</Open>
+    <High>1.00187</High>
+    <Low>0.99997</Low>
+    <Close>1.00089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-08</Date>
+    <Open>1.00085</Open>
+    <High>1.06083</High>
+    <Low>1.00026</Low>
+    <Close>1.00085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-09</Date>
+    <Open>1.00035</Open>
+    <High>1.05757</High>
+    <Low>0.99998</Low>
+    <Close>1.00081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-10</Date>
+    <Open>1.0025</Open>
+    <High>1.0025</High>
+    <Low>0.999</Low>
+    <Close>1.00079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-11</Date>
+    <Open>1.00079</Open>
+    <High>1.00216</High>
+    <Low>1.00051</Low>
+    <Close>1.00085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-12</Date>
+    <Open>1.002</Open>
+    <High>1.00211</High>
+    <Low>1.0005</Low>
+    <Close>1.00067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-13</Date>
+    <Open>1.00194</Open>
+    <High>1.00206</High>
+    <Low>0.99842</Low>
+    <Close>1.00069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-14</Date>
+    <Open>1.001</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-15</Date>
+    <Open>0.999</Open>
+    <High>1.0013</High>
+    <Low>0.999</Low>
+    <Close>0.99982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-16</Date>
+    <Open>1.00115</Open>
+    <High>1.00115</High>
+    <Low>0.9997</Low>
+    <Close>0.99978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-17</Date>
+    <Open>1.001</Open>
+    <High>1.00138</High>
+    <Low>0.99977</Low>
+    <Close>0.99989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-18</Date>
+    <Open>1.001</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>1.001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-19</Date>
+    <Open>0.999</Open>
+    <High>1.0013</High>
+    <Low>0.9986</Low>
+    <Close>0.9998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-20</Date>
+    <Open>0.99693</Open>
+    <High>1.00219</High>
+    <Low>0.99693</Low>
+    <Close>0.99949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-21</Date>
+    <Open>1.00031</Open>
+    <High>1.001</High>
+    <Low>0.99851</Low>
+    <Close>1.001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-22</Date>
+    <Open>0.999</Open>
+    <High>1.00115</High>
+    <Low>0.999</Low>
+    <Close>1.00095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-23</Date>
+    <Open>0.99972</Open>
+    <High>1.00103</High>
+    <Low>0.99839</Low>
+    <Close>0.99842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-24</Date>
+    <Open>0.99997</Open>
+    <High>1.00095</High>
+    <Low>0.99911</Low>
+    <Close>0.99969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-25</Date>
+    <Open>1.001</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>1.001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-26</Date>
+    <Open>0.999</Open>
+    <High>1.001</High>
+    <Low>0.99861</Low>
+    <Close>0.99945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-27</Date>
+    <Open>0.99914</Open>
+    <High>1.00066</High>
+    <Low>0.99872</Low>
+    <Close>0.99954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-28</Date>
+    <Open>0.999</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-29</Date>
+    <Open>0.99935</Open>
+    <High>1.00046</High>
+    <Low>0.9992</Low>
+    <Close>0.99943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-30</Date>
+    <Open>1.0</Open>
+    <High>1.001</High>
+    <Low>0.99732</Low>
+    <Close>0.9998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-08-31</Date>
+    <Open>0.9997</Open>
+    <High>1.00016</High>
+    <Low>0.9987</Low>
+    <Close>0.9988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-01</Date>
+    <Open>1.001</Open>
+    <High>1.001</High>
+    <Low>0.99864</Low>
+    <Close>0.99995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-02</Date>
+    <Open>0.99806</Open>
+    <High>1.00019</High>
+    <Low>0.99791</Low>
+    <Close>0.99867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-03</Date>
+    <Open>0.99893</Open>
+    <High>1.0</High>
+    <Low>0.9977</Low>
+    <Close>0.9986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-04</Date>
+    <Open>0.9983</Open>
+    <High>0.9998</High>
+    <Low>0.9976</Low>
+    <Close>0.9984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-05</Date>
+    <Open>0.997</Open>
+    <High>1.07774</High>
+    <Low>0.974679</Low>
+    <Close>0.9982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-06</Date>
+    <Open>0.9973</Open>
+    <High>0.9985</High>
+    <Low>0.9955</Low>
+    <Close>0.9956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-07</Date>
+    <Open>0.99617</Open>
+    <High>0.9987</High>
+    <Low>0.99542</Low>
+    <Close>0.99859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-08</Date>
+    <Open>0.99791</Open>
+    <High>0.99869</High>
+    <Low>0.99596</Low>
+    <Close>0.99869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-09</Date>
+    <Open>0.9988</Open>
+    <High>0.99932</High>
+    <Low>0.996269</Low>
+    <Close>0.99855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-10</Date>
+    <Open>0.998689</Open>
+    <High>0.99966</High>
+    <Low>0.996398</Low>
+    <Close>0.99838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-11</Date>
+    <Open>0.997239</Open>
+    <High>0.99939</High>
+    <Low>0.997239</Low>
+    <Close>0.997379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-12</Date>
+    <Open>0.997679</Open>
+    <High>0.99958</High>
+    <Low>0.995229</Low>
+    <Close>0.997759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-13</Date>
+    <Open>0.999</Open>
+    <High>1.00014</High>
+    <Low>0.996279</Low>
+    <Close>0.99934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-14</Date>
+    <Open>0.99946</Open>
+    <High>0.99966</High>
+    <Low>0.99805</Low>
+    <Close>0.998369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-15</Date>
+    <Open>0.99845</Open>
+    <High>0.998679</High>
+    <Low>0.99751</Low>
+    <Close>0.99762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-16</Date>
+    <Open>0.99744</Open>
+    <High>0.999</High>
+    <Low>0.997201</Low>
+    <Close>0.9973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-17</Date>
+    <Open>0.9975</Open>
+    <High>0.9984</High>
+    <Low>0.9974</Low>
+    <Close>0.9984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-18</Date>
+    <Open>0.9981</Open>
+    <High>0.9996</High>
+    <Low>0.9976</Low>
+    <Close>0.9979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-19</Date>
+    <Open>0.9991</Open>
+    <High>1.061</High>
+    <Low>0.9837</Low>
+    <Close>0.996999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-20</Date>
+    <Open>0.997199</Open>
+    <High>0.9986</High>
+    <Low>0.9961</Low>
+    <Close>0.9961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-21</Date>
+    <Open>0.9961</Open>
+    <High>0.9993</High>
+    <Low>0.978098</Low>
+    <Close>0.9971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-22</Date>
+    <Open>0.9953</Open>
+    <High>0.9993</High>
+    <Low>0.9953</Low>
+    <Close>0.9973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-23</Date>
+    <Open>0.9973</Open>
+    <High>0.9979</High>
+    <Low>0.9969</Low>
+    <Close>0.997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-24</Date>
+    <Open>0.99838</Open>
+    <High>0.99838</High>
+    <Low>0.9961</Low>
+    <Close>0.99718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-25</Date>
+    <Open>0.9977</Open>
+    <High>0.99999</High>
+    <Low>0.9973</Low>
+    <Close>0.99999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-26</Date>
+    <Open>0.9995</Open>
+    <High>0.99955</High>
+    <Low>0.9978</Low>
+    <Close>0.9981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-27</Date>
+    <Open>0.998</Open>
+    <High>0.9995</High>
+    <Low>0.9977</Low>
+    <Close>0.9978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-28</Date>
+    <Open>1.0</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-29</Date>
+    <Open>1.101</Open>
+    <High>1.10281</High>
+    <Low>1.08588</Low>
+    <Close>1.09218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-09-30</Date>
+    <Open>1.09159</Open>
+    <High>1.09343</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-01</Date>
+    <Open>0.999</Open>
+    <High>1.09078</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-02</Date>
+    <Open>1.08895</Open>
+    <High>1.09509</High>
+    <Low>1.08803</Low>
+    <Close>1.08826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-03</Date>
+    <Open>0.999</Open>
+    <High>1.10636</High>
+    <Low>0.999</Low>
+    <Close>1.10499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-04</Date>
+    <Open>1.1061</Open>
+    <High>1.10814</High>
+    <Low>1.10214</Low>
+    <Close>1.10401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-05</Date>
+    <Open>1.09995</Open>
+    <High>1.10038</High>
+    <Low>1.08822</Low>
+    <Close>1.09184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-06</Date>
+    <Open>1.09085</Open>
+    <High>1.10236</High>
+    <Low>1.09085</Low>
+    <Close>1.10086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-07</Date>
+    <Open>1.09965</Open>
+    <High>1.1143</High>
+    <Low>1.09672</Low>
+    <Close>1.10508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-08</Date>
+    <Open>1.12308</Open>
+    <High>1.12797</High>
+    <Low>1.10361</Low>
+    <Close>1.12109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-09</Date>
+    <Open>1.11395</Open>
+    <High>1.13835</High>
+    <Low>1.11395</Low>
+    <Close>1.12542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-10</Date>
+    <Open>1.12503</Open>
+    <High>1.14664</High>
+    <Low>1.12457</Low>
+    <Close>1.14642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-11</Date>
+    <Open>1.15233</Open>
+    <High>1.21861</High>
+    <Low>1.12072</Low>
+    <Close>1.15652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-12</Date>
+    <Open>1.16163</Open>
+    <High>1.20273</High>
+    <Low>1.16163</Low>
+    <Close>1.17374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-13</Date>
+    <Open>1.17204</Open>
+    <High>1.17945</High>
+    <Low>0.997</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-14</Date>
+    <Open>0.999</Open>
+    <High>1.12668</High>
+    <Low>0.997</Low>
+    <Close>0.997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-15</Date>
+    <Open>1.0943</Open>
+    <High>1.1067</High>
+    <Low>1.05929</Low>
+    <Close>1.06648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-16</Date>
+    <Open>1.07257</Open>
+    <High>1.07833</High>
+    <Low>1.06545</Low>
+    <Close>1.07131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-17</Date>
+    <Open>1.07342</Open>
+    <High>1.07834</High>
+    <Low>1.0651</Low>
+    <Close>1.06889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-18</Date>
+    <Open>1.07569</Open>
+    <High>1.08012</High>
+    <Low>1.067</Low>
+    <Close>1.07519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-19</Date>
+    <Open>1.07027</Open>
+    <High>1.07936</High>
+    <Low>1.07027</Low>
+    <Close>1.07533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-20</Date>
+    <Open>1.0738</Open>
+    <High>1.07876</High>
+    <Low>1.06472</Low>
+    <Close>1.07289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-21</Date>
+    <Open>1.06738</Open>
+    <High>1.07354</High>
+    <Low>1.02278</Low>
+    <Close>1.04744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-22</Date>
+    <Open>1.05012</Open>
+    <High>1.08199</High>
+    <Low>1.03683</Low>
+    <Close>1.05078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-23</Date>
+    <Open>1.06033</Open>
+    <High>1.0633</High>
+    <Low>1.03787</Low>
+    <Close>1.03787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-24</Date>
+    <Open>1.0365</Open>
+    <High>1.06096</High>
+    <Low>1.0365</Low>
+    <Close>1.06029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-25</Date>
+    <Open>1.06153</Open>
+    <High>1.06238</High>
+    <Low>1.04401</Low>
+    <Close>1.05514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-26</Date>
+    <Open>1.04831</Open>
+    <High>1.06566</High>
+    <Low>1.04476</Low>
+    <Close>1.05781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-27</Date>
+    <Open>1.05357</Open>
+    <High>1.06362</High>
+    <Low>1.04425</Low>
+    <Close>1.05484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-28</Date>
+    <Open>1.0631</Open>
+    <High>1.0631</High>
+    <Low>1.0414</Low>
+    <Close>1.05635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-29</Date>
+    <Open>1.04495</Open>
+    <High>1.06382</High>
+    <Low>1.04332</Low>
+    <Close>1.04399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-30</Date>
+    <Open>1.06181</Open>
+    <High>1.06282</High>
+    <Low>1.04325</Low>
+    <Close>1.0456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-10-31</Date>
+    <Open>1.04708</Open>
+    <High>1.06329</High>
+    <Low>1.04248</Low>
+    <Close>1.05519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-01</Date>
+    <Open>1.04835</Open>
+    <High>1.05934</High>
+    <Low>1.02784</Low>
+    <Close>1.0386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-02</Date>
+    <Open>1.02732</Open>
+    <High>1.04434</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-03</Date>
+    <Open>1.0</Open>
+    <High>1.0</High>
+    <Low>0.997</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-04</Date>
+    <Open>1.04004</Open>
+    <High>1.04004</High>
+    <Low>1.03314</Low>
+    <Close>1.0391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-05</Date>
+    <Open>1.03669</Open>
+    <High>1.03918</High>
+    <Low>1.03373</Low>
+    <Close>1.03918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-06</Date>
+    <Open>1.03383</Open>
+    <High>1.03931</High>
+    <Low>1.03339</Low>
+    <Close>1.03554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-07</Date>
+    <Open>1.03629</Open>
+    <High>1.03975</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-08</Date>
+    <Open>0.999</Open>
+    <High>1.0101</High>
+    <Low>0.991</Low>
+    <Close>0.996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-09</Date>
+    <Open>1.0</Open>
+    <High>1.0</High>
+    <Low>0.99</Low>
+    <Close>0.994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-10</Date>
+    <Open>0.994</Open>
+    <High>1.008</High>
+    <Low>0.994</Low>
+    <Close>0.998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-11</Date>
+    <Open>1.007</Open>
+    <High>1.007</High>
+    <Low>0.992</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-12</Date>
+    <Open>0.997</Open>
+    <High>1.989</High>
+    <Low>0.997</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-13</Date>
+    <Open>1.0</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-14</Date>
+    <Open>1.001</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>1.001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-15</Date>
+    <Open>1.0</Open>
+    <High>1.007</High>
+    <Low>0.999</Low>
+    <Close>1.004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-16</Date>
+    <Open>0.999</Open>
+    <High>1.09553</High>
+    <Low>0.99</Low>
+    <Close>0.991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-17</Date>
+    <Open>0.998</Open>
+    <High>1.0</High>
+    <Low>0.995</Low>
+    <Close>0.998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-18</Date>
+    <Open>1.10001</Open>
+    <High>1.1007</High>
+    <Low>1.08033</Low>
+    <Close>1.09512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-19</Date>
+    <Open>1.08615</Open>
+    <High>1.09596</High>
+    <Low>1.0801</Low>
+    <Close>1.0844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-20</Date>
+    <Open>1.0865</Open>
+    <High>1.09468</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-21</Date>
+    <Open>0.999</Open>
+    <High>1.0</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-22</Date>
+    <Open>1.07659</Open>
+    <High>1.10175</High>
+    <Low>1.05754</Low>
+    <Close>1.10175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-23</Date>
+    <Open>1.1013</Open>
+    <High>1.10182</High>
+    <Low>1.08955</Low>
+    <Close>1.09399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-24</Date>
+    <Open>1.09674</Open>
+    <High>1.1004</High>
+    <Low>1.08149</Low>
+    <Close>1.08496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-25</Date>
+    <Open>1.0845</Open>
+    <High>1.09731</High>
+    <Low>1.08116</Low>
+    <Close>1.09665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-26</Date>
+    <Open>1.09292</Open>
+    <High>1.09706</High>
+    <Low>1.08097</Low>
+    <Close>1.09625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-27</Date>
+    <Open>1.093</Open>
+    <High>1.10106</High>
+    <Low>1.08107</Low>
+    <Close>1.08551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-28</Date>
+    <Open>1.10118</Open>
+    <High>1.10731</High>
+    <Low>1.0858</Low>
+    <Close>1.10235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-29</Date>
+    <Open>1.08846</Open>
+    <High>1.10687</High>
+    <Low>1.08555</Low>
+    <Close>1.08693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-11-30</Date>
+    <Open>1.08823</Open>
+    <High>1.12952</High>
+    <Low>1.08674</Low>
+    <Close>1.11438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-01</Date>
+    <Open>1.12559</Open>
+    <High>1.12814</High>
+    <Low>1.08948</Low>
+    <Close>1.09917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-02</Date>
+    <Open>1.10213</Open>
+    <High>1.12944</High>
+    <Low>1.09249</Low>
+    <Close>1.09823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-03</Date>
+    <Open>1.09794</Open>
+    <High>1.10102</High>
+    <Low>1.07887</Low>
+    <Close>1.08668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-04</Date>
+    <Open>1.08246</Open>
+    <High>1.09376</High>
+    <Low>1.07824</Low>
+    <Close>1.08932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-05</Date>
+    <Open>1.09137</Open>
+    <High>1.13252</High>
+    <Low>1.0883</Low>
+    <Close>1.09842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-06</Date>
+    <Open>1.11459</Open>
+    <High>1.12708</High>
+    <Low>1.09419</Low>
+    <Close>1.09538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-07</Date>
+    <Open>1.11646</Open>
+    <High>1.13682</High>
+    <Low>1.09528</Low>
+    <Close>1.12039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-08</Date>
+    <Open>1.11581</Open>
+    <High>1.1567</High>
+    <Low>1.11581</Low>
+    <Close>1.12678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-09</Date>
+    <Open>1.13454</Open>
+    <High>1.14855</High>
+    <Low>1.1026</Low>
+    <Close>1.13505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-10</Date>
+    <Open>1.13023</Open>
+    <High>1.14718</High>
+    <Low>1.10045</Low>
+    <Close>1.11828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-11</Date>
+    <Open>1.12591</Open>
+    <High>1.13091</High>
+    <Low>1.088</Low>
+    <Close>1.12019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-12</Date>
+    <Open>1.11763</Open>
+    <High>1.13165</High>
+    <Low>1.11041</Low>
+    <Close>1.11871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-13</Date>
+    <Open>1.11991</Open>
+    <High>1.12595</High>
+    <Low>1.08651</Low>
+    <Close>1.10861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-14</Date>
+    <Open>1.08981</Open>
+    <High>1.10943</High>
+    <Low>1.086</Low>
+    <Close>1.10378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-15</Date>
+    <Open>1.10595</Open>
+    <High>1.10808</High>
+    <Low>1.08603</Low>
+    <Close>1.10289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-16</Date>
+    <Open>1.0912</Open>
+    <High>1.13796</High>
+    <Low>1.07746</Low>
+    <Close>1.13796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-17</Date>
+    <Open>1.11794</Open>
+    <High>1.13913</High>
+    <Low>1.08506</Low>
+    <Close>1.12597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-18</Date>
+    <Open>1.12544</Open>
+    <High>1.14733</High>
+    <Low>1.09363</Low>
+    <Close>1.12752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-19</Date>
+    <Open>1.10453</Open>
+    <High>1.14961</High>
+    <Low>1.09216</Low>
+    <Close>1.13155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-20</Date>
+    <Open>1.13416</Open>
+    <High>1.14935</High>
+    <Low>1.10782</Low>
+    <Close>1.11127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-21</Date>
+    <Open>1.11114</Open>
+    <High>1.11479</High>
+    <Low>1.06827</Low>
+    <Close>1.07045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-22</Date>
+    <Open>1.07776</Open>
+    <High>1.10215</High>
+    <Low>1.06763</Low>
+    <Close>1.06814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-23</Date>
+    <Open>1.07036</Open>
+    <High>1.0802</High>
+    <Low>1.04271</Low>
+    <Close>1.07813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-24</Date>
+    <Open>1.07879</Open>
+    <High>1.09213</High>
+    <Low>1.06151</Low>
+    <Close>1.06782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-25</Date>
+    <Open>1.06847</Open>
+    <High>1.09258</High>
+    <Low>1.04906</Low>
+    <Close>1.07698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-26</Date>
+    <Open>1.07031</Open>
+    <High>1.09438</High>
+    <Low>1.04791</Low>
+    <Close>1.09438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-27</Date>
+    <Open>1.09429</Open>
+    <High>1.09492</High>
+    <Low>1.06111</Low>
+    <Close>1.07744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-28</Date>
+    <Open>1.06826</Open>
+    <High>1.10008</High>
+    <Low>1.06207</Low>
+    <Close>1.09939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-29</Date>
+    <Open>1.09928</Open>
+    <High>1.10007</High>
+    <Low>1.07227</Low>
+    <Close>1.07873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-30</Date>
+    <Open>1.08171</Open>
+    <High>1.16967</High>
+    <Low>1.07129</Low>
+    <Close>1.12207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2022-12-31</Date>
+    <Open>1.11019</Open>
+    <High>1.13908</High>
+    <Low>1.08602</Low>
+    <Close>1.1034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-01</Date>
+    <Open>1.0882</Open>
+    <High>1.10698</High>
+    <Low>1.08537</Low>
+    <Close>1.09309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-02</Date>
+    <Open>1.08664</Open>
+    <High>1.107</High>
+    <Low>1.08534</Low>
+    <Close>1.10055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-03</Date>
+    <Open>1.09773</Open>
+    <High>1.11222</High>
+    <Low>1.08531</Low>
+    <Close>1.08659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-04</Date>
+    <Open>1.10147</Open>
+    <High>1.10669</High>
+    <Low>1.08544</Low>
+    <Close>1.10222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-05</Date>
+    <Open>1.08721</Open>
+    <High>1.10686</High>
+    <Low>1.08559</Low>
+    <Close>1.08701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-06</Date>
+    <Open>1.10464</Open>
+    <High>1.1069</High>
+    <Low>1.08532</Low>
+    <Close>1.09177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-07</Date>
+    <Open>1.08976</Open>
+    <High>1.10698</High>
+    <Low>1.0854</Low>
+    <Close>1.09601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-08</Date>
+    <Open>1.08803</Open>
+    <High>1.10692</High>
+    <Low>1.07953</Low>
+    <Close>1.09778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-09</Date>
+    <Open>1.09029</Open>
+    <High>1.13023</High>
+    <Low>1.07969</Low>
+    <Close>1.13023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-10</Date>
+    <Open>1.12582</Open>
+    <High>1.14479</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-11</Date>
+    <Open>1.0</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-12</Date>
+    <Open>1.12197</Open>
+    <High>1.17955</High>
+    <Low>0.999</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-13</Date>
+    <Open>1.0</Open>
+    <High>1.08522</High>
+    <Low>0.999</Low>
+    <Close>1.06189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-14</Date>
+    <Open>1.05859</Open>
+    <High>1.08548</High>
+    <Low>1.05831</Low>
+    <Close>1.08298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-15</Date>
+    <Open>1.001</Open>
+    <High>1.001</High>
+    <Low>0.99</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-16</Date>
+    <Open>1.0</Open>
+    <High>1.08014</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-17</Date>
+    <Open>1.0</Open>
+    <High>1.14087</High>
+    <Low>1.0</Low>
+    <Close>1.001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-18</Date>
+    <Open>1.001</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-19</Date>
+    <Open>1.0</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-20</Date>
+    <Open>1.14248</Open>
+    <High>1.1709</High>
+    <Low>1.13354</Low>
+    <Close>1.1605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-21</Date>
+    <Open>1.16654</Open>
+    <High>1.17054</High>
+    <Low>1.10491</Low>
+    <Close>1.12036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-22</Date>
+    <Open>1.12156</Open>
+    <High>1.13572</High>
+    <Low>1.10739</Low>
+    <Close>1.10872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-23</Date>
+    <Open>1.1146</Open>
+    <High>1.12077</High>
+    <Low>1.10692</Low>
+    <Close>1.11962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-24</Date>
+    <Open>1.11293</Open>
+    <High>1.12092</High>
+    <Low>1.08807</Low>
+    <Close>1.10188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-25</Date>
+    <Open>1.10074</Open>
+    <High>1.17472</High>
+    <Low>1.08873</Low>
+    <Close>1.11919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-26</Date>
+    <Open>1.12883</Open>
+    <High>1.13094</High>
+    <Low>1.11833</Low>
+    <Close>1.12879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-27</Date>
+    <Open>1.12925</Open>
+    <High>1.14722</High>
+    <Low>1.12466</Low>
+    <Close>1.14318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-28</Date>
+    <Open>1.14865</Open>
+    <High>1.162</High>
+    <Low>1.135</Low>
+    <Close>1.14435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-29</Date>
+    <Open>1.14586</Open>
+    <High>1.15305</High>
+    <Low>1.14108</Low>
+    <Close>1.15284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-30</Date>
+    <Open>1.15395</Open>
+    <High>1.16421</High>
+    <Low>1.14611</Low>
+    <Close>1.15878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-01-31</Date>
+    <Open>1.16222</Open>
+    <High>1.17822</High>
+    <Low>0.997</Low>
+    <Close>1.17822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-01</Date>
+    <Open>1.17234</Open>
+    <High>1.17808</High>
+    <Low>0.99</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-02</Date>
+    <Open>0.999</Open>
+    <High>1.0</High>
+    <Low>0.999</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-03</Date>
+    <Open>0.999</Open>
+    <High>1.13688</High>
+    <Low>0.999</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-04</Date>
+    <Open>0.999</Open>
+    <High>1.0</High>
+    <Low>0.999</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-05</Date>
+    <Open>1.12352</Open>
+    <High>1.13245</High>
+    <Low>1.12266</Low>
+    <Close>1.12761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-06</Date>
+    <Open>1.12831</Open>
+    <High>1.13043</High>
+    <Low>1.12371</Low>
+    <Close>1.12661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-07</Date>
+    <Open>1.12486</Open>
+    <High>1.13046</High>
+    <Low>1.11961</Low>
+    <Close>1.12096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-08</Date>
+    <Open>1.12291</Open>
+    <High>1.12676</High>
+    <Low>0.999</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-09</Date>
+    <Open>1.0</Open>
+    <High>1.0</High>
+    <Low>0.998</Low>
+    <Close>0.998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-10</Date>
+    <Open>0.998</Open>
+    <High>1.0</High>
+    <Low>0.998</Low>
+    <Close>0.998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-11</Date>
+    <Open>1.0</Open>
+    <High>1.0</High>
+    <Low>0.998</Low>
+    <Close>0.998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-12</Date>
+    <Open>1.09563</Open>
+    <High>1.10692</High>
+    <Low>1.09231</Low>
+    <Close>1.09666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-13</Date>
+    <Open>1.1031</Open>
+    <High>1.10838</High>
+    <Low>1.09312</Low>
+    <Close>1.10292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-14</Date>
+    <Open>1.10224</Open>
+    <High>1.11335</High>
+    <Low>1.09246</Low>
+    <Close>1.09934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-15</Date>
+    <Open>1.10682</Open>
+    <High>1.11034</High>
+    <Low>1.0884</Low>
+    <Close>1.10475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-16</Date>
+    <Open>1.09808</Open>
+    <High>1.13152</High>
+    <Low>1.09235</Low>
+    <Close>1.13113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-17</Date>
+    <Open>1.11613</Open>
+    <High>1.14307</High>
+    <Low>1.10945</Low>
+    <Close>1.12821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-18</Date>
+    <Open>1.1359</Open>
+    <High>1.14382</High>
+    <Low>1.12959</Low>
+    <Close>1.14101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-19</Date>
+    <Open>1.13053</Open>
+    <High>1.1416</High>
+    <Low>1.13033</Low>
+    <Close>1.14022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-20</Date>
+    <Open>1.13362</Open>
+    <High>1.14167</High>
+    <Low>1.13105</Low>
+    <Close>1.13634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-21</Date>
+    <Open>1.13491</Open>
+    <High>1.14144</High>
+    <Low>1.12914</Low>
+    <Close>1.13247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-22</Date>
+    <Open>1.13568</Open>
+    <High>1.18932</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-23</Date>
+    <Open>0.999</Open>
+    <High>1.001</High>
+    <Low>0.999</Low>
+    <Close>0.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-24</Date>
+    <Open>1.0</Open>
+    <High>1.0</High>
+    <Low>0.998</Low>
+    <Close>0.998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-25</Date>
+    <Open>0.998</Open>
+    <High>1.15986</High>
+    <Low>0.998</Low>
+    <Close>1.14816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-26</Date>
+    <Open>1.15034</Open>
+    <High>1.15671</High>
+    <Low>1.14002</Low>
+    <Close>1.15234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-27</Date>
+    <Open>1.15412</Open>
+    <High>1.15548</High>
+    <Low>1.14393</Low>
+    <Close>1.15054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-02-28</Date>
+    <Open>1.1515</Open>
+    <High>1.17308</High>
+    <Low>1.14445</Low>
+    <Close>1.16367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-01</Date>
+    <Open>1.16722</Open>
+    <High>1.17341</High>
+    <Low>1.15166</Low>
+    <Close>1.15577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-02</Date>
+    <Open>1.1727</Open>
+    <High>1.17697</High>
+    <Low>1.15164</Low>
+    <Close>1.16113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-03</Date>
+    <Open>1.16646</Open>
+    <High>1.1845</High>
+    <Low>1.14353</Low>
+    <Close>1.16419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-04</Date>
+    <Open>1.15996</Open>
+    <High>1.16996</High>
+    <Low>1.1501</Low>
+    <Close>1.15179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-05</Date>
+    <Open>1.16468</Open>
+    <High>1.185</High>
+    <Low>1.14316</Low>
+    <Close>1.15949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-06</Date>
+    <Open>1.16333</Open>
+    <High>1.16645</High>
+    <Low>1.15505</Low>
+    <Close>1.15619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-07</Date>
+    <Open>1.16053</Open>
+    <High>1.16522</High>
+    <Low>1.13905</Low>
+    <Close>1.14703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-08</Date>
+    <Open>1.15555</Open>
+    <High>1.18171</High>
+    <Low>1.12127</Low>
+    <Close>1.15345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-09</Date>
+    <Open>1.1384</Open>
+    <High>1.18532</High>
+    <Low>1.13297</Low>
+    <Close>1.1591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-10</Date>
+    <Open>1.16567</Open>
+    <High>1.21582</High>
+    <Low>1.16175</Low>
+    <Close>1.17726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-11</Date>
+    <Open>1.16763</Open>
+    <High>1.19087</High>
+    <Low>0.969</Low>
+    <Close>1.18795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-12</Date>
+    <Open>0.969</Open>
+    <High>1.19738</High>
+    <Low>0.969</Low>
+    <Close>1.19032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-13</Date>
+    <Open>1.19113</Open>
+    <High>1.19623</High>
+    <Low>1.15366</Low>
+    <Close>1.17681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-14</Date>
+    <Open>1.16601</Open>
+    <High>1.17692</High>
+    <Low>0.972</Low>
+    <Close>0.998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-15</Date>
+    <Open>0.999</Open>
+    <High>1.0</High>
+    <Low>0.997</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-16</Date>
+    <Open>0.998</Open>
+    <High>1.0</High>
+    <Low>0.998</Low>
+    <Close>0.998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-17</Date>
+    <Open>1.11235</Open>
+    <High>1.13</High>
+    <Low>1.09992</Low>
+    <Close>1.11424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-18</Date>
+    <Open>1.10907</Open>
+    <High>1.13487</High>
+    <Low>0.999</Low>
+    <Close>1.12867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-19</Date>
+    <Open>0.999</Open>
+    <High>1.13746</High>
+    <Low>0.999</Low>
+    <Close>1.13569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-20</Date>
+    <Open>1.12719</Open>
+    <High>1.13786</High>
+    <Low>1.12216</Low>
+    <Close>1.12386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-21</Date>
+    <Open>1.13513</Open>
+    <High>1.1379</High>
+    <Low>1.12004</Low>
+    <Close>1.12494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-22</Date>
+    <Open>1.13877</Open>
+    <High>1.14127</High>
+    <Low>1.11908</Low>
+    <Close>1.13058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-23</Date>
+    <Open>1.13494</Open>
+    <High>1.13494</High>
+    <Low>1.1081</Low>
+    <Close>1.11753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-24</Date>
+    <Open>1.11394</Open>
+    <High>1.13085</High>
+    <Low>1.10905</Low>
+    <Close>1.12519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-25</Date>
+    <Open>1.12085</Open>
+    <High>1.13091</High>
+    <Low>1.11912</Low>
+    <Close>1.12572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-26</Date>
+    <Open>1.12145</Open>
+    <High>1.13084</High>
+    <Low>1.11926</Low>
+    <Close>1.122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-27</Date>
+    <Open>1.12263</Open>
+    <High>1.14148</High>
+    <Low>1.11922</Low>
+    <Close>1.12904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-28</Date>
+    <Open>1.13528</Open>
+    <High>1.16064</High>
+    <Low>1.1243</Low>
+    <Close>1.16064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-29</Date>
+    <Open>1.15625</Open>
+    <High>1.17451</High>
+    <Low>1.15439</Low>
+    <Close>1.16872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-30</Date>
+    <Open>1.1672</Open>
+    <High>1.17139</High>
+    <Low>1.15168</Low>
+    <Close>1.16699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-03-31</Date>
+    <Open>1.16262</Open>
+    <High>1.16789</High>
+    <Low>1.15216</Low>
+    <Close>1.16144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-01</Date>
+    <Open>1.15812</Open>
+    <High>1.17214</High>
+    <Low>1.14784</Low>
+    <Close>1.15504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-02</Date>
+    <Open>1.15221</Open>
+    <High>1.15816</High>
+    <Low>1.14687</Low>
+    <Close>1.15513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-03</Date>
+    <Open>1.15669</Open>
+    <High>1.16313</High>
+    <Low>1.13864</Low>
+    <Close>1.14862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-04</Date>
+    <Open>1.15069</Open>
+    <High>1.15654</High>
+    <Low>1.12985</Low>
+    <Close>1.13399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-05</Date>
+    <Open>1.13296</Open>
+    <High>1.15217</High>
+    <Low>1.12983</Low>
+    <Close>1.14231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-06</Date>
+    <Open>1.14388</Open>
+    <High>1.14658</High>
+    <Low>1.133</Low>
+    <Close>1.13552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-07</Date>
+    <Open>1.1402</Open>
+    <High>1.1461</High>
+    <Low>1.13257</Low>
+    <Close>1.13745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-08</Date>
+    <Open>1.14132</Open>
+    <High>1.16206</High>
+    <Low>1.13687</Low>
+    <Close>1.14993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-09</Date>
+    <Open>1.14799</Open>
+    <High>1.15951</High>
+    <Low>1.14696</Low>
+    <Close>1.14722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-10</Date>
+    <Open>1.15718</Open>
+    <High>1.15944</High>
+    <Low>1.12654</Low>
+    <Close>1.13277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-11</Date>
+    <Open>1.13927</Open>
+    <High>1.14149</High>
+    <Low>1.11005</Low>
+    <Close>1.12661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-12</Date>
+    <Open>1.12564</Open>
+    <High>1.12694</High>
+    <Low>1.1041</Low>
+    <Close>1.10717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-13</Date>
+    <Open>1.11231</Open>
+    <High>1.12928</High>
+    <Low>1.09742</Low>
+    <Close>1.10945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-14</Date>
+    <Open>1.10201</Open>
+    <High>1.16532</High>
+    <Low>1.09756</Low>
+    <Close>1.15029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-15</Date>
+    <Open>1.1495</Open>
+    <High>1.19</High>
+    <Low>1.14112</Low>
+    <Close>1.14424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-16</Date>
+    <Open>1.1603</Open>
+    <High>1.16628</High>
+    <Low>1.12143</Low>
+    <Close>1.12143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-17</Date>
+    <Open>1.12152</Open>
+    <High>1.13731</High>
+    <Low>1.0548</Low>
+    <Close>1.0548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-18</Date>
+    <Open>1.05669</Open>
+    <High>1.06642</High>
+    <Low>1.05392</Low>
+    <Close>1.05533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-19</Date>
+    <Open>1.05514</Open>
+    <High>1.05514</High>
+    <Low>1.02934</Low>
+    <Close>1.03528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-20</Date>
+    <Open>1.03167</Open>
+    <High>1.03762</High>
+    <Low>1.01275</Low>
+    <Close>1.02227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-21</Date>
+    <Open>1.02271</Open>
+    <High>1.02435</High>
+    <Low>1.00765</Low>
+    <Close>1.02435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-22</Date>
+    <Open>1.02117</Open>
+    <High>1.02703</High>
+    <Low>1.01342</Low>
+    <Close>1.0236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-23</Date>
+    <Open>1.02208</Open>
+    <High>1.02705</High>
+    <Low>1.018</Low>
+    <Close>1.0229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-24</Date>
+    <Open>1.02265</Open>
+    <High>1.03564</High>
+    <Low>1.02265</Low>
+    <Close>1.02793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-25</Date>
+    <Open>1.02767</Open>
+    <High>1.04364</High>
+    <Low>1.02559</Low>
+    <Close>1.04364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-26</Date>
+    <Open>1.03489</Open>
+    <High>1.04371</High>
+    <Low>1.02077</Low>
+    <Close>1.03054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-27</Date>
+    <Open>1.03202</Open>
+    <High>1.03921</High>
+    <Low>1.02022</Low>
+    <Close>1.03376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-28</Date>
+    <Open>1.02351</Open>
+    <High>1.03994</High>
+    <Low>1.01267</Low>
+    <Close>1.02104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-29</Date>
+    <Open>1.01548</Open>
+    <High>1.0268</High>
+    <Low>1.01255</Low>
+    <Close>1.01855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-04-30</Date>
+    <Open>1.01881</Open>
+    <High>1.03736</High>
+    <Low>1.01375</Low>
+    <Close>1.02317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-01</Date>
+    <Open>1.02286</Open>
+    <High>1.03725</High>
+    <Low>1.01753</Low>
+    <Close>1.01994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-02</Date>
+    <Open>1.02729</Open>
+    <High>1.03113</High>
+    <Low>1.01677</Low>
+    <Close>1.03069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-03</Date>
+    <Open>1.02072</Open>
+    <High>1.04012</High>
+    <Low>1.01949</Low>
+    <Close>1.03425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-04</Date>
+    <Open>1.03505</Open>
+    <High>1.03928</High>
+    <Low>1.02951</Low>
+    <Close>1.03383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-05</Date>
+    <Open>1.03527</Open>
+    <High>1.0395</High>
+    <Low>1.02985</Low>
+    <Close>1.03387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-06</Date>
+    <Open>1.03819</Open>
+    <High>1.04063</High>
+    <Low>1.03164</Low>
+    <Close>1.03467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-07</Date>
+    <Open>1.03962</Open>
+    <High>1.04153</High>
+    <Low>1.03219</Low>
+    <Close>1.03269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-08</Date>
+    <Open>1.03553</Open>
+    <High>1.03731</High>
+    <Low>1.004</Low>
+    <Close>1.004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-09</Date>
+    <Open>1.01548</Open>
+    <High>1.01737</High>
+    <Low>0.97702</Low>
+    <Close>1.00583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-10</Date>
+    <Open>1.004</Open>
+    <High>1.00944</High>
+    <Low>0.98906</Low>
+    <Close>0.99694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-11</Date>
+    <Open>1.00829</Open>
+    <High>1.01971</High>
+    <Low>0.99357</Low>
+    <Close>1.01963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-12</Date>
+    <Open>0.99</Open>
+    <High>1.01669</High>
+    <Low>0.9803</Low>
+    <Close>0.99239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-13</Date>
+    <Open>0.99194</Open>
+    <High>0.99688</High>
+    <Low>0.96944</Low>
+    <Close>0.97532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-14</Date>
+    <Open>0.97739</Open>
+    <High>0.98083</High>
+    <Low>0.93633</Low>
+    <Close>0.94483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-15</Date>
+    <Open>0.94183</Open>
+    <High>0.95695</High>
+    <Low>0.91482</Low>
+    <Close>0.92558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-16</Date>
+    <Open>0.92343</Open>
+    <High>0.937631</High>
+    <Low>0.9075</Low>
+    <Close>0.937631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-17</Date>
+    <Open>0.94201</Open>
+    <High>0.972208</High>
+    <Low>0.921021</Low>
+    <Close>0.966851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-18</Date>
+    <Open>0.963212</Open>
+    <High>0.985344</High>
+    <Low>0.944495</Low>
+    <Close>0.978529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-19</Date>
+    <Open>0.980052</Open>
+    <High>1.00383</High>
+    <Low>0.978926</Low>
+    <Close>0.996462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-20</Date>
+    <Open>0.995221</Open>
+    <High>1.00729</High>
+    <Low>0.992867</Low>
+    <Close>1.00525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-21</Date>
+    <Open>1.00641</Open>
+    <High>1.00759</High>
+    <Low>1.00372</Low>
+    <Close>1.00671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-22</Date>
+    <Open>1.00588</Open>
+    <High>1.0129</High>
+    <Low>1.00443</Low>
+    <Close>1.00945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-23</Date>
+    <Open>1.00689</Open>
+    <High>1.01026</High>
+    <Low>1.00672</Low>
+    <Close>1.00999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-24</Date>
+    <Open>1.00861</Open>
+    <High>1.01057</High>
+    <Low>1.00192</Low>
+    <Close>1.00829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-25</Date>
+    <Open>1.0088</Open>
+    <High>1.0159</High>
+    <Low>1.00746</Low>
+    <Close>1.01379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-26</Date>
+    <Open>1.01289</Open>
+    <High>1.0141</High>
+    <Low>1.0093</Low>
+    <Close>1.01162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-27</Date>
+    <Open>1.01225</Open>
+    <High>1.01327</High>
+    <Low>1.00979</Low>
+    <Close>1.01064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GUSD">
+    <Date>2023-05-28</Date>
+    <Open>1.01204</Open>
+    <High>1.02095</High>
+    <Low>1.01057</Low>
+    <Close>1.01428</Close>
+  </Cryptocurrency>
+</Root>

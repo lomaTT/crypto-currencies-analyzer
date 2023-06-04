@@ -1,0 +1,2705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-09</Date>
+    <Open>2.26232</Open>
+    <High>2.3333</High>
+    <Low>1.80664</Low>
+    <Close>2.10158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-10</Date>
+    <Open>2.13836</Open>
+    <High>2.35729</High>
+    <Low>1.68949</Low>
+    <Close>1.86844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-11</Date>
+    <Open>1.86026</Open>
+    <High>2.01919</High>
+    <Low>1.40649</Low>
+    <Close>1.55821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-12</Date>
+    <Open>1.50372</Open>
+    <High>1.68324</High>
+    <Low>1.21855</Low>
+    <Close>1.3824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-13</Date>
+    <Open>1.39608</Open>
+    <High>1.79984</High>
+    <Low>1.3532</Low>
+    <Close>1.49146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-14</Date>
+    <Open>1.48847</Open>
+    <High>1.54952</High>
+    <Low>1.32721</Low>
+    <Close>1.41887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-15</Date>
+    <Open>1.41801</Open>
+    <High>1.53285</High>
+    <Low>1.32887</Low>
+    <Close>1.42828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-16</Date>
+    <Open>1.43228</Open>
+    <High>1.51818</High>
+    <Low>1.34625</Low>
+    <Close>1.43713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-17</Date>
+    <Open>1.43713</Open>
+    <High>1.55129</High>
+    <Low>1.3812</Low>
+    <Close>1.50519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-18</Date>
+    <Open>1.50204</Open>
+    <High>1.63204</High>
+    <Low>1.37321</Low>
+    <Close>1.40817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-19</Date>
+    <Open>1.41202</Open>
+    <High>1.4427</High>
+    <Low>1.34852</Low>
+    <Close>1.40759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-20</Date>
+    <Open>1.41273</Open>
+    <High>1.47423</High>
+    <Low>1.31043</Low>
+    <Close>1.32541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-21</Date>
+    <Open>1.32541</Open>
+    <High>1.34438</High>
+    <Low>1.26523</Low>
+    <Close>1.28932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-22</Date>
+    <Open>1.28932</Open>
+    <High>1.44797</High>
+    <Low>1.26622</Low>
+    <Close>1.28645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-23</Date>
+    <Open>1.28645</Open>
+    <High>1.37235</High>
+    <Low>1.21678</Low>
+    <Close>1.25437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-24</Date>
+    <Open>1.2465</Open>
+    <High>1.2465</High>
+    <Low>1.05773</Low>
+    <Close>1.09058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-25</Date>
+    <Open>1.09047</Open>
+    <High>1.12553</High>
+    <Low>1.04885</Low>
+    <Close>1.0918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-26</Date>
+    <Open>1.09169</Open>
+    <High>1.44441</High>
+    <Low>0.93388</Low>
+    <Close>1.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-27</Date>
+    <Open>1.003</Open>
+    <High>1.26873</High>
+    <Low>0.95005</Low>
+    <Close>1.08591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-28</Date>
+    <Open>1.08676</Open>
+    <High>1.14063</High>
+    <Low>0.988</Low>
+    <Close>1.02979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-29</Date>
+    <Open>1.02979</Open>
+    <High>1.25662</High>
+    <Low>1.01981</Low>
+    <Close>1.13475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-30</Date>
+    <Open>1.13474</Open>
+    <High>1.25265</High>
+    <Low>1.13282</Low>
+    <Close>1.20915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-05-31</Date>
+    <Open>1.21403</Open>
+    <High>1.23314</High>
+    <Low>1.03717</Low>
+    <Close>1.07414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-01</Date>
+    <Open>1.07414</Open>
+    <High>1.09612</High>
+    <Low>0.97902</Low>
+    <Close>1.02008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-02</Date>
+    <Open>1.01908</Open>
+    <High>1.04106</High>
+    <Low>1.0001</Low>
+    <Close>1.02108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-03</Date>
+    <Open>1.02208</Open>
+    <High>1.05316</High>
+    <Low>0.99505</Low>
+    <Close>1.00713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-04</Date>
+    <Open>1.01012</Open>
+    <High>1.02117</High>
+    <Low>0.99303</Low>
+    <Close>1.00623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-05</Date>
+    <Open>1.00924</Open>
+    <High>1.05102</High>
+    <Low>1.00215</Low>
+    <Close>1.03702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-06</Date>
+    <Open>1.03702</Open>
+    <High>1.10208</High>
+    <Low>1.02903</Low>
+    <Close>1.09108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-07</Date>
+    <Open>1.08409</Open>
+    <High>1.0871</High>
+    <Low>1.00514</Low>
+    <Close>1.06613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-08</Date>
+    <Open>1.06914</Open>
+    <High>1.08328</High>
+    <Low>1.00126</Low>
+    <Close>1.01135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-09</Date>
+    <Open>1.01134</Open>
+    <High>1.04616</High>
+    <Low>0.99321</Low>
+    <Close>1.02114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-10</Date>
+    <Open>1.02113</Open>
+    <High>1.03509</High>
+    <Low>0.99283</Low>
+    <Close>0.99773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-11</Date>
+    <Open>0.99973</Open>
+    <High>1.00895</High>
+    <Low>0.85791</Low>
+    <Close>0.85901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-12</Date>
+    <Open>0.85903</Open>
+    <High>0.85903</High>
+    <Low>0.79101</Low>
+    <Close>0.814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-13</Date>
+    <Open>0.812</Open>
+    <High>0.812</High>
+    <Low>0.54999</Low>
+    <Close>0.61914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-14</Date>
+    <Open>0.61814</Open>
+    <High>0.63304</High>
+    <Low>0.56415</Low>
+    <Close>0.59828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-15</Date>
+    <Open>0.59729</Open>
+    <High>0.63126</High>
+    <Low>0.51108</Low>
+    <Close>0.61913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-16</Date>
+    <Open>0.61707</Open>
+    <High>0.694236</High>
+    <Low>0.543402</Low>
+    <Close>0.559272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-17</Date>
+    <Open>0.532264</Open>
+    <High>0.573484</High>
+    <Low>0.509332</Low>
+    <Close>0.549346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-18</Date>
+    <Open>0.550339</Open>
+    <High>0.67114</High>
+    <Low>0.400403</Low>
+    <Close>0.433293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-19</Date>
+    <Open>0.434295</Open>
+    <High>0.63224</High>
+    <Low>0.43127</Low>
+    <Close>0.505393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-20</Date>
+    <Open>0.506392</Open>
+    <High>0.547342</High>
+    <Low>0.452411</Low>
+    <Close>0.506442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-21</Date>
+    <Open>0.506392</Open>
+    <High>0.784293</High>
+    <Low>0.4994</Low>
+    <Close>0.537408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-22</Date>
+    <Open>0.537408</Open>
+    <High>0.566932</High>
+    <Low>0.485014</Low>
+    <Close>0.515284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-23</Date>
+    <Open>0.515432</Open>
+    <High>0.572227</High>
+    <Low>0.509938</Low>
+    <Close>0.542857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-24</Date>
+    <Open>0.542757</Open>
+    <High>0.68952</High>
+    <Low>0.542757</Low>
+    <Close>0.632406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-25</Date>
+    <Open>0.632606</Open>
+    <High>0.726113</High>
+    <Low>0.606593</Low>
+    <Close>0.64235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-26</Date>
+    <Open>0.64225</Open>
+    <High>0.677439</High>
+    <Low>0.609928</Low>
+    <Close>0.637405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-27</Date>
+    <Open>0.637817</Open>
+    <High>0.638023</High>
+    <Low>0.555239</Low>
+    <Close>0.571191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-28</Date>
+    <Open>0.570597</Open>
+    <High>0.598455</High>
+    <Low>0.52765</Low>
+    <Close>0.529847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-29</Date>
+    <Open>0.529842</Open>
+    <High>0.539851</High>
+    <Low>0.493009</Low>
+    <Close>0.508684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-06-30</Date>
+    <Open>0.508489</Open>
+    <High>0.518572</High>
+    <Low>0.432394</Low>
+    <Close>0.439072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-01</Date>
+    <Open>0.439172</Open>
+    <High>0.48971</High>
+    <Low>0.434834</Low>
+    <Close>0.460493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-02</Date>
+    <Open>0.460493</Open>
+    <High>0.589692</High>
+    <Low>0.445565</Low>
+    <Close>0.461745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-03</Date>
+    <Open>0.464396</Open>
+    <High>0.559272</High>
+    <Low>0.460501</Low>
+    <Close>0.507639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-04</Date>
+    <Open>0.511383</Open>
+    <High>0.572213</High>
+    <Low>0.472485</Low>
+    <Close>0.537854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-05</Date>
+    <Open>0.536855</Open>
+    <High>0.680283</High>
+    <Low>0.530563</Low>
+    <Close>0.56258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-06</Date>
+    <Open>0.56258</Open>
+    <High>0.624749</High>
+    <Low>0.548496</Low>
+    <Close>0.604834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-07</Date>
+    <Open>0.603835</Open>
+    <High>0.740256</High>
+    <Low>0.592448</Low>
+    <Close>0.675395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-08</Date>
+    <Open>0.675295</Open>
+    <High>0.879384</High>
+    <Low>0.655841</Low>
+    <Close>0.740356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-09</Date>
+    <Open>0.739356</Open>
+    <High>0.774435</High>
+    <Low>0.676094</Low>
+    <Close>0.690585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-10</Date>
+    <Open>0.690516</Open>
+    <High>0.695582</High>
+    <Low>0.620727</Low>
+    <Close>0.650909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-11</Date>
+    <Open>0.651909</Open>
+    <High>0.653277</High>
+    <Low>0.61251</Low>
+    <Close>0.635627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-12</Date>
+    <Open>0.63273</Open>
+    <High>0.655344</High>
+    <Low>0.583916</Low>
+    <Close>0.628471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-13</Date>
+    <Open>0.628396</Open>
+    <High>0.952047</High>
+    <Low>0.627353</Low>
+    <Close>0.864221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-14</Date>
+    <Open>0.869217</Open>
+    <High>1.06904</High>
+    <Low>0.758393</Low>
+    <Close>0.858485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-15</Date>
+    <Open>0.858385</Open>
+    <High>1.31494</High>
+    <Low>0.857685</Low>
+    <Close>1.16265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-16</Date>
+    <Open>1.16035</Open>
+    <High>1.40282</High>
+    <Low>1.04359</Low>
+    <Close>1.37519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-17</Date>
+    <Open>1.37383</Open>
+    <High>1.86</High>
+    <Low>1.35815</Low>
+    <Close>1.73505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-18</Date>
+    <Open>1.72705</Open>
+    <High>1.80051</High>
+    <Low>1.39394</Low>
+    <Close>1.40948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-19</Date>
+    <Open>1.41048</Open>
+    <High>1.74081</High>
+    <Low>1.40996</Low>
+    <Close>1.55515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-20</Date>
+    <Open>1.556</Open>
+    <High>1.92003</High>
+    <Low>1.40357</Low>
+    <Close>1.59378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-21</Date>
+    <Open>1.59268</Open>
+    <High>1.65906</High>
+    <Low>1.40044</Low>
+    <Close>1.61479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-22</Date>
+    <Open>1.6146</Open>
+    <High>1.7214</High>
+    <Low>1.47628</Low>
+    <Close>1.52644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-23</Date>
+    <Open>1.52644</Open>
+    <High>1.73827</High>
+    <Low>1.46357</Low>
+    <Close>1.51249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-24</Date>
+    <Open>1.51249</Open>
+    <High>1.80018</High>
+    <Low>1.49665</Low>
+    <Close>1.68012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-25</Date>
+    <Open>1.68102</Open>
+    <High>1.72753</High>
+    <Low>1.50042</Low>
+    <Close>1.58533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-26</Date>
+    <Open>1.58513</Open>
+    <High>1.58513</High>
+    <Low>1.28804</Low>
+    <Close>1.40151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-27</Date>
+    <Open>1.3986</Open>
+    <High>1.96691</High>
+    <Low>1.39019</Low>
+    <Close>1.85555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-28</Date>
+    <Open>1.85184</Open>
+    <High>2.66243</High>
+    <Low>1.82426</Low>
+    <Close>2.29136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-29</Date>
+    <Open>2.28388</Open>
+    <High>2.49472</High>
+    <Low>2.05858</Low>
+    <Close>2.28654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-30</Date>
+    <Open>2.28254</Open>
+    <High>2.58771</High>
+    <Low>2.20062</Low>
+    <Close>2.37011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-07-31</Date>
+    <Open>2.37121</Open>
+    <High>2.41808</High>
+    <Low>2.24108</Low>
+    <Close>2.25752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-01</Date>
+    <Open>2.25808</Open>
+    <High>2.28876</High>
+    <Low>2.00236</Low>
+    <Close>2.03581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-02</Date>
+    <Open>2.03551</Open>
+    <High>2.47157</High>
+    <Low>1.84887</Low>
+    <Close>2.3375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-03</Date>
+    <Open>2.339</Open>
+    <High>2.79324</High>
+    <Low>2.15656</Low>
+    <Close>2.69697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-04</Date>
+    <Open>2.69602</Open>
+    <High>2.85494</High>
+    <Low>2.35664</Low>
+    <Close>2.36839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-05</Date>
+    <Open>2.36909</Open>
+    <High>2.77853</High>
+    <Low>2.36507</Low>
+    <Close>2.54948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-06</Date>
+    <Open>2.55651</Open>
+    <High>2.70138</High>
+    <Low>2.51345</Low>
+    <Close>2.64058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-07</Date>
+    <Open>2.64061</Open>
+    <High>2.68464</High>
+    <Low>2.3744</Low>
+    <Close>2.50448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-08</Date>
+    <Open>2.50248</Open>
+    <High>2.6355</High>
+    <Low>2.37559</Low>
+    <Close>2.39631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-09</Date>
+    <Open>2.39729</Open>
+    <High>2.41741</High>
+    <Low>2.09048</Low>
+    <Close>2.26045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-10</Date>
+    <Open>2.25745</Open>
+    <High>2.69962</High>
+    <Low>2.12762</Low>
+    <Close>2.65177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-11</Date>
+    <Open>2.65106</Open>
+    <High>2.88186</High>
+    <Low>2.61418</Low>
+    <Close>2.62123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-12</Date>
+    <Open>2.62123</Open>
+    <High>2.71625</High>
+    <Low>2.48224</Low>
+    <Close>2.68821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-13</Date>
+    <Open>2.68724</Open>
+    <High>3.10174</High>
+    <Low>2.67607</Low>
+    <Close>2.91314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-14</Date>
+    <Open>2.90813</Open>
+    <High>3.06717</High>
+    <Low>2.66572</Low>
+    <Close>2.71184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-15</Date>
+    <Open>2.70984</Open>
+    <High>2.86177</High>
+    <Low>2.5838</Low>
+    <Close>2.68364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-16</Date>
+    <Open>2.68167</Open>
+    <High>2.80353</High>
+    <Low>2.54613</Low>
+    <Close>2.57823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-17</Date>
+    <Open>2.57723</Open>
+    <High>2.79939</High>
+    <Low>2.45995</Low>
+    <Close>2.49717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-18</Date>
+    <Open>2.49617</Open>
+    <High>2.5403</High>
+    <Low>2.34426</Low>
+    <Close>2.35002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-19</Date>
+    <Open>2.34823</Open>
+    <High>2.35124</High>
+    <Low>1.999</Low>
+    <Close>2.0052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-20</Date>
+    <Open>2.0081</Open>
+    <High>2.0081</High>
+    <Low>1.73184</Low>
+    <Close>1.80498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-21</Date>
+    <Open>1.80096</Open>
+    <High>2.33012</High>
+    <Low>1.80096</Low>
+    <Close>2.18396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-22</Date>
+    <Open>2.17696</Open>
+    <High>2.21516</High>
+    <Low>1.86872</Low>
+    <Close>2.03365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-23</Date>
+    <Open>2.03569</Open>
+    <High>2.26591</High>
+    <Low>2.03569</Low>
+    <Close>2.12004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-24</Date>
+    <Open>2.12079</Open>
+    <High>2.34814</High>
+    <Low>2.054</Low>
+    <Close>2.2162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-25</Date>
+    <Open>2.22218</Open>
+    <High>2.28273</High>
+    <Low>1.98414</Low>
+    <Close>2.00906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-26</Date>
+    <Open>2.00902</Open>
+    <High>2.08344</High>
+    <Low>1.802</Low>
+    <Close>1.82518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-27</Date>
+    <Open>1.82218</Open>
+    <High>1.82416</High>
+    <Low>1.60106</Low>
+    <Close>1.60503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-28</Date>
+    <Open>1.60705</Open>
+    <High>1.71503</High>
+    <Low>1.58105</Low>
+    <Close>1.647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-29</Date>
+    <Open>1.645</Open>
+    <High>1.87502</High>
+    <Low>1.55486</Low>
+    <Close>1.85713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-30</Date>
+    <Open>1.85719</Open>
+    <High>1.93414</High>
+    <Low>1.71419</Low>
+    <Close>1.81116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-08-31</Date>
+    <Open>1.81116</Open>
+    <High>2.15913</High>
+    <Low>1.77716</Low>
+    <Close>2.02498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-01</Date>
+    <Open>2.02298</Open>
+    <High>2.16602</High>
+    <Low>1.93883</Low>
+    <Close>2.11187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-02</Date>
+    <Open>2.11287</Open>
+    <High>2.28127</High>
+    <Low>2.00902</Low>
+    <Close>2.16132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-03</Date>
+    <Open>2.16135</Open>
+    <High>2.20429</High>
+    <Low>1.978</Low>
+    <Close>2.011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-04</Date>
+    <Open>2.008</Open>
+    <High>2.039</High>
+    <Low>1.939</Low>
+    <Close>2.021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-05</Date>
+    <Open>2.02</Open>
+    <High>2.091</High>
+    <Low>1.913</Low>
+    <Close>1.989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-06</Date>
+    <Open>1.9902</Open>
+    <High>2.24922</High>
+    <Low>1.81682</Low>
+    <Close>1.893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-07</Date>
+    <Open>1.893</Open>
+    <High>2.05037</High>
+    <Low>1.78016</Low>
+    <Close>1.97314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-08</Date>
+    <Open>1.97414</Open>
+    <High>1.98914</High>
+    <Low>1.84817</Low>
+    <Close>1.86928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-09</Date>
+    <Open>1.87126</Open>
+    <High>2.12666</High>
+    <Low>1.8602</Low>
+    <Close>2.0697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-10</Date>
+    <Open>2.06841</Open>
+    <High>2.1486</High>
+    <Low>1.9325</Low>
+    <Close>2.05639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-11</Date>
+    <Open>2.06439</Open>
+    <High>2.14477</High>
+    <Low>2.02379</Low>
+    <Close>2.03451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-12</Date>
+    <Open>2.03249</Open>
+    <High>2.1234</High>
+    <Low>1.96241</Low>
+    <Close>2.00736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-13</Date>
+    <Open>2.0086</Open>
+    <High>2.01636</High>
+    <Low>1.77807</Low>
+    <Close>1.84802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-14</Date>
+    <Open>1.84802</Open>
+    <High>1.888</High>
+    <Low>1.65217</Low>
+    <Close>1.74844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-15</Date>
+    <Open>1.74744</Open>
+    <High>2.21942</High>
+    <Low>1.66945</Low>
+    <Close>1.74883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-16</Date>
+    <Open>1.74588</Open>
+    <High>1.818</High>
+    <Low>1.67083</Low>
+    <Close>1.80682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-17</Date>
+    <Open>1.80782</Open>
+    <High>1.932</High>
+    <Low>1.756</Low>
+    <Close>1.884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-18</Date>
+    <Open>1.88</Open>
+    <High>1.925</High>
+    <Low>1.70083</Low>
+    <Close>1.711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-19</Date>
+    <Open>1.706</Open>
+    <High>1.82737</High>
+    <Low>1.62584</Low>
+    <Close>1.82336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-20</Date>
+    <Open>1.82118</Open>
+    <High>1.86237</High>
+    <Low>1.76335</Low>
+    <Close>1.78318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-21</Date>
+    <Open>1.778</Open>
+    <High>1.951</High>
+    <Low>1.74717</Low>
+    <Close>1.775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-22</Date>
+    <Open>1.776</Open>
+    <High>1.928</High>
+    <Low>1.72883</Low>
+    <Close>1.77182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-23</Date>
+    <Open>1.772</Open>
+    <High>1.838</High>
+    <Low>1.696</Low>
+    <Close>1.76882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-24</Date>
+    <Open>1.77286</Open>
+    <High>1.78398</High>
+    <Low>1.6752</Low>
+    <Close>1.68413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-25</Date>
+    <Open>1.68317</Open>
+    <High>1.72605</High>
+    <Low>1.59898</Low>
+    <Close>1.607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-26</Date>
+    <Open>1.606</Open>
+    <High>1.65317</High>
+    <Low>1.53815</Low>
+    <Close>1.601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-27</Date>
+    <Open>1.6</Open>
+    <High>1.731</High>
+    <Low>1.568</Low>
+    <Close>1.58784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-28</Date>
+    <Open>1.589</Open>
+    <High>1.661</High>
+    <Low>1.51985</Low>
+    <Close>1.629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-29</Date>
+    <Open>1.629</Open>
+    <High>1.648</High>
+    <Low>1.553</Low>
+    <Close>1.58616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-09-30</Date>
+    <Open>1.586</Open>
+    <High>1.64816</High>
+    <Low>1.55784</Low>
+    <Close>1.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-01</Date>
+    <Open>1.55916</Open>
+    <High>1.583</High>
+    <Low>1.5</Low>
+    <Close>1.513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-02</Date>
+    <Open>1.513</Open>
+    <High>1.523</High>
+    <Low>1.461</Low>
+    <Close>1.473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-03</Date>
+    <Open>1.473</Open>
+    <High>1.55331</High>
+    <Low>1.41514</Low>
+    <Close>1.53015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-04</Date>
+    <Open>1.53115</Open>
+    <High>1.62649</High>
+    <Low>1.5143</Low>
+    <Close>1.56447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-05</Date>
+    <Open>1.56331</Open>
+    <High>1.58147</High>
+    <Low>1.494</Low>
+    <Close>1.5143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-06</Date>
+    <Open>1.5143</Open>
+    <High>1.57825</High>
+    <Low>1.48025</Low>
+    <Close>1.48325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-07</Date>
+    <Open>1.48125</Open>
+    <High>1.50827</High>
+    <Low>1.45603</Low>
+    <Close>1.49422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-08</Date>
+    <Open>1.49419</Open>
+    <High>1.4981</High>
+    <Low>1.46715</Low>
+    <Close>1.46838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-09</Date>
+    <Open>1.46837</Open>
+    <High>1.48515</High>
+    <Low>1.44414</Low>
+    <Close>1.45529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-10</Date>
+    <Open>1.45429</Open>
+    <High>1.46815</High>
+    <Low>1.33187</Low>
+    <Close>1.33487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-11</Date>
+    <Open>1.335</Open>
+    <High>1.36286</High>
+    <Low>1.262</Low>
+    <Close>1.32287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-12</Date>
+    <Open>1.32188</Open>
+    <High>1.33287</High>
+    <Low>1.26295</Low>
+    <Close>1.27004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-13</Date>
+    <Open>1.27005</Open>
+    <High>1.27201</High>
+    <Low>1.11391</Low>
+    <Close>1.26511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-14</Date>
+    <Open>1.2651</Open>
+    <High>1.38408</High>
+    <Low>1.25815</Low>
+    <Close>1.27603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-15</Date>
+    <Open>1.27704</Open>
+    <High>1.38507</High>
+    <Low>1.27601</Low>
+    <Close>1.33407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-16</Date>
+    <Open>1.334</Open>
+    <High>1.36405</High>
+    <Low>1.31303</Low>
+    <Close>1.33705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-17</Date>
+    <Open>1.33507</Open>
+    <High>1.55005</High>
+    <Low>1.33007</Low>
+    <Close>1.51903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-18</Date>
+    <Open>1.519</Open>
+    <High>1.57908</High>
+    <Low>1.44503</Low>
+    <Close>1.48306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-19</Date>
+    <Open>1.48015</Open>
+    <High>1.48803</High>
+    <Low>1.383</Low>
+    <Close>1.413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-20</Date>
+    <Open>1.413</Open>
+    <High>1.51098</High>
+    <Low>1.38314</Low>
+    <Close>1.4879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-21</Date>
+    <Open>1.4859</Open>
+    <High>1.55708</High>
+    <Low>1.43788</Low>
+    <Close>1.54012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-22</Date>
+    <Open>1.54011</Open>
+    <High>1.54812</High>
+    <Low>1.49204</Low>
+    <Close>1.51514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-23</Date>
+    <Open>1.51612</Open>
+    <High>1.53103</High>
+    <Low>1.438</Low>
+    <Close>1.49719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-24</Date>
+    <Open>1.49719</Open>
+    <High>1.5841</High>
+    <Low>1.49719</Low>
+    <Close>1.52706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-25</Date>
+    <Open>1.52706</Open>
+    <High>1.7006</High>
+    <Low>1.48112</Low>
+    <Close>1.67454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-26</Date>
+    <Open>1.67555</Open>
+    <High>1.75156</High>
+    <Low>1.63046</Low>
+    <Close>1.69749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-27</Date>
+    <Open>1.69749</Open>
+    <High>1.73859</High>
+    <Low>1.61698</Low>
+    <Close>1.6381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-28</Date>
+    <Open>1.6371</Open>
+    <High>1.70232</High>
+    <Low>1.59311</Low>
+    <Close>1.69035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-29</Date>
+    <Open>1.6903</Open>
+    <High>1.75955</High>
+    <Low>1.6205</Low>
+    <Close>1.65038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-30</Date>
+    <Open>1.6484</Open>
+    <High>1.67949</High>
+    <Low>1.50929</Low>
+    <Close>1.55331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-10-31</Date>
+    <Open>1.55333</Open>
+    <High>1.574</High>
+    <Low>1.49494</Low>
+    <Close>1.51888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-01</Date>
+    <Open>1.51891</Open>
+    <High>1.5418</High>
+    <Low>1.45971</Low>
+    <Close>1.48784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-02</Date>
+    <Open>1.48885</Open>
+    <High>1.549</High>
+    <Low>1.44586</Low>
+    <Close>1.48591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-03</Date>
+    <Open>1.48491</Open>
+    <High>1.63</High>
+    <Low>1.48393</Low>
+    <Close>1.61398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-04</Date>
+    <Open>1.60998</Open>
+    <High>1.84698</High>
+    <Low>1.593</Low>
+    <Close>1.76014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-05</Date>
+    <Open>1.75914</Open>
+    <High>1.82405</High>
+    <Low>1.69005</Low>
+    <Close>1.70809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-06</Date>
+    <Open>1.70007</Open>
+    <High>1.70793</High>
+    <Low>1.61703</Low>
+    <Close>1.62511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-07</Date>
+    <Open>1.62213</Open>
+    <High>1.73603</High>
+    <Low>1.55409</Low>
+    <Close>1.64821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-08</Date>
+    <Open>1.6525</Open>
+    <High>1.711</High>
+    <Low>1.2326</Low>
+    <Close>1.30992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-09</Date>
+    <Open>1.30891</Open>
+    <High>1.32</High>
+    <Low>0.89497</Low>
+    <Close>0.91278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-10</Date>
+    <Open>0.91045</Open>
+    <High>1.30721</High>
+    <Low>0.8909</Low>
+    <Close>1.21737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-11</Date>
+    <Open>1.21834</Open>
+    <High>1.39783</High>
+    <Low>1.11857</Low>
+    <Close>1.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-12</Date>
+    <Open>1.18135</Open>
+    <High>1.1927</High>
+    <Low>1.06308</Low>
+    <Close>1.10002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-13</Date>
+    <Open>1.10101</Open>
+    <High>1.12497</High>
+    <Low>1.03823</Low>
+    <Close>1.06451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-14</Date>
+    <Open>1.05951</Open>
+    <High>1.13164</High>
+    <Low>0.97553</Low>
+    <Close>1.11643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-15</Date>
+    <Open>1.11527</Open>
+    <High>1.23876</High>
+    <Low>1.11527</Low>
+    <Close>1.2008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-16</Date>
+    <Open>1.20353</Open>
+    <High>1.26868</High>
+    <Low>1.15482</Low>
+    <Close>1.21986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-17</Date>
+    <Open>1.22086</Open>
+    <High>1.26098</High>
+    <Low>1.16306</Low>
+    <Close>1.24403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-18</Date>
+    <Open>1.24502</Open>
+    <High>1.29193</High>
+    <Low>1.21858</Low>
+    <Close>1.22658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-19</Date>
+    <Open>1.22659</Open>
+    <High>1.23866</High>
+    <Low>1.1677</Low>
+    <Close>1.19975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-20</Date>
+    <Open>1.20075</Open>
+    <High>1.20473</High>
+    <Low>1.09959</Low>
+    <Close>1.10831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-21</Date>
+    <Open>1.10733</Open>
+    <High>1.11541</High>
+    <Low>1.05074</Low>
+    <Close>1.09768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-22</Date>
+    <Open>1.09567</Open>
+    <High>1.15475</High>
+    <Low>1.04673</Low>
+    <Close>1.12156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-23</Date>
+    <Open>1.12163</Open>
+    <High>1.17566</High>
+    <Low>1.10566</Low>
+    <Close>1.14774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-24</Date>
+    <Open>1.14775</Open>
+    <High>1.1858</High>
+    <Low>1.12302</Low>
+    <Close>1.13606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-25</Date>
+    <Open>1.13503</Open>
+    <High>1.14509</High>
+    <Low>1.1062</Low>
+    <Close>1.10937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-26</Date>
+    <Open>1.10836</Open>
+    <High>1.13229</High>
+    <Low>1.08532</Low>
+    <Close>1.08537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-27</Date>
+    <Open>1.08536</Open>
+    <High>1.11031</High>
+    <Low>1.07937</Low>
+    <Close>1.09432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-28</Date>
+    <Open>1.0933</Open>
+    <High>1.09331</High>
+    <Low>1.01443</Low>
+    <Close>1.07058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-29</Date>
+    <Open>1.07258</Open>
+    <High>1.12641</High>
+    <Low>1.06455</Low>
+    <Close>1.10159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-11-30</Date>
+    <Open>1.10559</Open>
+    <High>1.15852</High>
+    <Low>1.09664</Low>
+    <Close>1.13808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-01</Date>
+    <Open>1.14003</Open>
+    <High>1.14913</High>
+    <Low>1.09112</Low>
+    <Close>1.10208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-02</Date>
+    <Open>1.10707</Open>
+    <High>1.12212</High>
+    <Low>1.07911</Low>
+    <Close>1.12007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-03</Date>
+    <Open>1.11907</Open>
+    <High>1.12607</High>
+    <Low>1.08833</Low>
+    <Close>1.09422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-04</Date>
+    <Open>1.09411</Open>
+    <High>1.11834</High>
+    <Low>1.08522</Low>
+    <Close>1.10622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-05</Date>
+    <Open>1.10822</Open>
+    <High>1.14123</High>
+    <Low>1.06301</Low>
+    <Close>1.07502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-06</Date>
+    <Open>1.07811</Open>
+    <High>1.08602</High>
+    <Low>1.05098</Low>
+    <Close>1.05398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-07</Date>
+    <Open>1.055</Open>
+    <High>1.064</High>
+    <Low>1.005</Low>
+    <Close>1.005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-08</Date>
+    <Open>1.007</Open>
+    <High>1.05409</High>
+    <Low>0.9992</Low>
+    <Close>1.04507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-09</Date>
+    <Open>1.04507</Open>
+    <High>1.06101</High>
+    <Low>1.02998</Low>
+    <Close>1.04103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-10</Date>
+    <Open>1.04204</Open>
+    <High>1.05</High>
+    <Low>1.02199</Low>
+    <Close>1.02498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-11</Date>
+    <Open>1.02398</Open>
+    <High>1.04901</High>
+    <Low>1.02198</Low>
+    <Close>1.0261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-12</Date>
+    <Open>1.0252</Open>
+    <High>1.06702</High>
+    <Low>0.99104</Low>
+    <Close>1.05607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-13</Date>
+    <Open>1.0561</Open>
+    <High>1.13131</High>
+    <Low>1.03327</Low>
+    <Close>1.11672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-14</Date>
+    <Open>1.11574</Open>
+    <High>1.16499</High>
+    <Low>1.11078</Low>
+    <Close>1.14608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-15</Date>
+    <Open>1.146</Open>
+    <High>1.15323</High>
+    <Low>1.10611</Low>
+    <Close>1.12823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-16</Date>
+    <Open>1.12823</Open>
+    <High>1.15812</High>
+    <Low>1.0031</Low>
+    <Close>1.0181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-17</Date>
+    <Open>1.0151</Open>
+    <High>1.02706</High>
+    <Low>0.96305</Low>
+    <Close>0.99713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-18</Date>
+    <Open>0.9981</Open>
+    <High>1.00514</High>
+    <Low>0.96311</Low>
+    <Close>0.98513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-19</Date>
+    <Open>0.99113</Open>
+    <High>0.99916</High>
+    <Low>0.94101</Low>
+    <Close>0.96198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-20</Date>
+    <Open>0.96299</Open>
+    <High>1.00298</High>
+    <Low>0.94898</Low>
+    <Close>0.98604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-21</Date>
+    <Open>0.98604</Open>
+    <High>0.99303</High>
+    <Low>0.928</Low>
+    <Close>0.93305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-22</Date>
+    <Open>0.93404</Open>
+    <High>0.94</High>
+    <Low>0.87592</Low>
+    <Close>0.89887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-23</Date>
+    <Open>0.89985</Open>
+    <High>0.94204</High>
+    <Low>0.88389</Low>
+    <Close>0.9359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-24</Date>
+    <Open>0.93591</Open>
+    <High>0.95592</High>
+    <Low>0.92591</Low>
+    <Close>0.94493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-25</Date>
+    <Open>0.94493</Open>
+    <High>0.9749</High>
+    <Low>0.93795</Low>
+    <Close>0.97087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-26</Date>
+    <Open>0.97187</Open>
+    <High>1.05784</High>
+    <Low>0.96889</Low>
+    <Close>1.03677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-27</Date>
+    <Open>1.03779</Open>
+    <High>1.10369</High>
+    <Low>1.00963</Low>
+    <Close>1.0146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-28</Date>
+    <Open>1.0146</Open>
+    <High>1.02058</High>
+    <Low>0.93458</Low>
+    <Close>0.9455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-29</Date>
+    <Open>0.9505</Open>
+    <High>0.96959</High>
+    <Low>0.93353</Low>
+    <Close>0.95457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-30</Date>
+    <Open>0.95457</Open>
+    <High>0.97156</High>
+    <Low>0.944603</Low>
+    <Close>0.961709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2022-12-31</Date>
+    <Open>0.962038</Open>
+    <High>0.968515</High>
+    <Low>0.946346</Low>
+    <Close>0.953523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-01</Date>
+    <Open>0.953813</Open>
+    <High>1.16314</High>
+    <Low>0.946327</Low>
+    <Close>1.0866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-02</Date>
+    <Open>1.08679</Open>
+    <High>1.2616</High>
+    <Low>1.05976</Low>
+    <Close>1.22242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-03</Date>
+    <Open>1.22071</Open>
+    <High>1.30119</High>
+    <Low>1.18982</Low>
+    <Close>1.19924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-04</Date>
+    <Open>1.19864</Open>
+    <High>1.44271</High>
+    <Low>1.18151</Low>
+    <Close>1.37935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-05</Date>
+    <Open>1.38033</Open>
+    <High>1.40736</High>
+    <Low>1.32724</Low>
+    <Close>1.34923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-06</Date>
+    <Open>1.3486</Open>
+    <High>1.56598</High>
+    <Low>1.26218</Low>
+    <Close>1.54132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-07</Date>
+    <Open>1.54072</Open>
+    <High>1.54824</High>
+    <Low>1.47166</Low>
+    <Close>1.48354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-08</Date>
+    <Open>1.48334</Open>
+    <High>2.29949</High>
+    <Low>1.47576</Low>
+    <Close>1.98976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-09</Date>
+    <Open>1.99376</Open>
+    <High>2.06379</High>
+    <Low>1.8398</Low>
+    <Close>1.91998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-10</Date>
+    <Open>1.933</Open>
+    <High>2.15274</High>
+    <Low>1.88785</Low>
+    <Close>1.90127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-11</Date>
+    <Open>1.90329</Open>
+    <High>1.99798</High>
+    <Low>1.75681</Low>
+    <Close>1.80584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-12</Date>
+    <Open>1.80387</Open>
+    <High>2.22529</High>
+    <Low>1.75368</Low>
+    <Close>2.08719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-13</Date>
+    <Open>2.08321</Open>
+    <High>2.18918</High>
+    <Low>1.90081</Low>
+    <Close>2.10919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-14</Date>
+    <Open>2.10919</Open>
+    <High>2.38136</High>
+    <Low>2.05345</Low>
+    <Close>2.14211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-15</Date>
+    <Open>2.14111</Open>
+    <High>2.46381</High>
+    <Low>2.07839</Low>
+    <Close>2.22865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-16</Date>
+    <Open>2.22567</Open>
+    <High>2.27168</High>
+    <Low>2.05008</Low>
+    <Close>2.11904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-17</Date>
+    <Open>2.11642</Open>
+    <High>2.15619</High>
+    <Low>2.011</Low>
+    <Close>2.0182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-18</Date>
+    <Open>2.0162</Open>
+    <High>2.20115</High>
+    <Low>1.88079</Low>
+    <Close>2.0179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-19</Date>
+    <Open>2.01288</Open>
+    <High>2.05579</High>
+    <Low>1.86379</Low>
+    <Close>1.96092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-20</Date>
+    <Open>1.96192</Open>
+    <High>2.38841</High>
+    <Low>1.94</Low>
+    <Close>2.34642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-21</Date>
+    <Open>2.34842</Open>
+    <High>2.55043</High>
+    <Low>2.16041</Low>
+    <Close>2.45339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-22</Date>
+    <Open>2.44437</Open>
+    <High>2.4765</High>
+    <Low>2.13234</Low>
+    <Close>2.20844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-23</Date>
+    <Open>2.20544</Open>
+    <High>2.67824</High>
+    <Low>2.19535</Low>
+    <Close>2.57241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-24</Date>
+    <Open>2.56338</Open>
+    <High>2.83511</High>
+    <Low>2.29337</Low>
+    <Close>2.36905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-25</Date>
+    <Open>2.37207</Open>
+    <High>2.59247</High>
+    <Low>2.24149</Low>
+    <Close>2.4784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-26</Date>
+    <Open>2.47742</Open>
+    <High>2.58939</High>
+    <Low>2.26807</Low>
+    <Close>2.30423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-27</Date>
+    <Open>2.30421</Open>
+    <High>2.45959</High>
+    <Low>2.22551</Low>
+    <Close>2.3799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-28</Date>
+    <Open>2.38691</Open>
+    <High>2.45054</High>
+    <Low>2.2064</Low>
+    <Close>2.23042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-29</Date>
+    <Open>2.22942</Open>
+    <High>2.34923</High>
+    <Low>2.20549</Low>
+    <Close>2.28709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-30</Date>
+    <Open>2.28709</Open>
+    <High>2.34609</High>
+    <Low>1.977</Low>
+    <Close>2.05314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-01-31</Date>
+    <Open>2.05314</Open>
+    <High>2.233</High>
+    <Low>2.04216</Low>
+    <Close>2.1962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-01</Date>
+    <Open>2.1972</Open>
+    <High>2.36609</High>
+    <Low>2.05902</Low>
+    <Close>2.29814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-02</Date>
+    <Open>2.30414</Open>
+    <High>2.5263</High>
+    <Low>2.23713</Low>
+    <Close>2.29846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-03</Date>
+    <Open>2.29946</Open>
+    <High>2.39831</High>
+    <Low>2.16128</Low>
+    <Close>2.37819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-04</Date>
+    <Open>2.37719</Open>
+    <High>2.39719</High>
+    <Low>2.20515</Low>
+    <Close>2.23518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-05</Date>
+    <Open>2.23518</Open>
+    <High>2.24418</High>
+    <Low>1.96755</Low>
+    <Close>2.04651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-06</Date>
+    <Open>2.04351</Open>
+    <High>2.33002</High>
+    <Low>1.99438</Low>
+    <Close>2.25809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-07</Date>
+    <Open>2.26109</Open>
+    <High>2.66605</High>
+    <Low>2.17115</Low>
+    <Close>2.60918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-08</Date>
+    <Open>2.61216</Open>
+    <High>2.71224</High>
+    <Low>2.3053</Low>
+    <Close>2.43719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-09</Date>
+    <Open>2.43717</Open>
+    <High>3.0</High>
+    <Low>2.328</Low>
+    <Close>2.44822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-10</Date>
+    <Open>2.45725</Open>
+    <High>2.82968</High>
+    <Low>2.24125</Low>
+    <Close>2.27936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-11</Date>
+    <Open>2.284</Open>
+    <High>2.38829</High>
+    <Low>2.20833</Low>
+    <Close>2.35021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-12</Date>
+    <Open>2.35047</Open>
+    <High>2.64721</High>
+    <Low>2.34721</Low>
+    <Close>2.52625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-13</Date>
+    <Open>2.53325</Open>
+    <High>2.55025</High>
+    <Low>2.20941</Low>
+    <Close>2.37428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-14</Date>
+    <Open>2.37728</Open>
+    <High>2.67796</High>
+    <Low>2.32863</Low>
+    <Close>2.567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-15</Date>
+    <Open>2.56903</Open>
+    <High>2.85048</High>
+    <Low>2.51401</Low>
+    <Close>2.7835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-16</Date>
+    <Open>2.7855</Open>
+    <High>2.9943</High>
+    <Low>2.65682</Low>
+    <Close>2.66991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-17</Date>
+    <Open>2.67091</Open>
+    <High>3.14403</High>
+    <Low>2.57628</Low>
+    <Close>3.07731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-18</Date>
+    <Open>3.07731</Open>
+    <High>3.32863</High>
+    <Low>2.94744</Low>
+    <Close>3.24052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-19</Date>
+    <Open>3.24752</Open>
+    <High>3.29146</High>
+    <Low>2.94871</Low>
+    <Close>2.96965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-20</Date>
+    <Open>2.96865</Open>
+    <High>3.06637</High>
+    <Low>2.82842</Low>
+    <Close>2.89112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-21</Date>
+    <Open>2.89012</Open>
+    <High>3.00651</High>
+    <Low>2.69619</Low>
+    <Close>2.7842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-22</Date>
+    <Open>2.78157</Open>
+    <High>2.94034</High>
+    <Low>2.62765</Low>
+    <Close>2.89093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-23</Date>
+    <Open>2.89057</Open>
+    <High>3.21448</High>
+    <Low>2.89057</Low>
+    <Close>2.94361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-24</Date>
+    <Open>2.96141</Open>
+    <High>3.06255</High>
+    <Low>2.76325</Low>
+    <Close>2.79197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-25</Date>
+    <Open>2.776</Open>
+    <High>2.90915</High>
+    <Low>2.69427</Low>
+    <Close>2.8682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-26</Date>
+    <Open>2.8682</Open>
+    <High>3.17925</High>
+    <Low>2.8682</Low>
+    <Close>3.10119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-27</Date>
+    <Open>3.09825</Open>
+    <High>3.29193</High>
+    <Low>2.9811</Low>
+    <Close>3.24756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-02-28</Date>
+    <Open>3.24109</Open>
+    <High>3.2937</High>
+    <Low>2.99098</Low>
+    <Close>3.00191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-01</Date>
+    <Open>2.9956</Open>
+    <High>3.18335</High>
+    <Low>2.95244</Low>
+    <Close>3.00159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-02</Date>
+    <Open>2.98845</Open>
+    <High>3.08056</High>
+    <Low>2.85649</Low>
+    <Close>3.02417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-03</Date>
+    <Open>3.02754</Open>
+    <High>3.05991</High>
+    <Low>2.72911</Low>
+    <Close>2.8132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-04</Date>
+    <Open>2.8092</Open>
+    <High>2.82911</High>
+    <Low>2.41712</Low>
+    <Close>2.51018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-05</Date>
+    <Open>2.5132</Open>
+    <High>2.69727</High>
+    <Low>2.5012</Low>
+    <Close>2.62329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-06</Date>
+    <Open>2.62229</Open>
+    <High>2.65676</High>
+    <Low>2.4905</Low>
+    <Close>2.57785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-07</Date>
+    <Open>2.57585</Open>
+    <High>2.67097</High>
+    <Low>2.44963</Low>
+    <Close>2.51387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-08</Date>
+    <Open>2.51287</Open>
+    <High>2.57679</High>
+    <Low>2.30888</Low>
+    <Close>2.34386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-09</Date>
+    <Open>2.33977</Open>
+    <High>2.42625</High>
+    <Low>2.16922</Low>
+    <Close>2.1722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-10</Date>
+    <Open>2.1712</Open>
+    <High>2.32502</High>
+    <Low>2.07983</Low>
+    <Close>2.31118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-11</Date>
+    <Open>2.31113</Open>
+    <High>2.41937</High>
+    <Low>2.00539</Low>
+    <Close>2.11724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-12</Date>
+    <Open>2.11751</Open>
+    <High>2.45091</High>
+    <Low>2.05812</Low>
+    <Close>2.39054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-13</Date>
+    <Open>2.39259</Open>
+    <High>2.79774</High>
+    <Low>2.37818</Low>
+    <Close>2.70575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-14</Date>
+    <Open>2.70453</Open>
+    <High>3.0521</High>
+    <Low>2.60263</Low>
+    <Close>2.78038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-15</Date>
+    <Open>2.78183</Open>
+    <High>2.83742</High>
+    <Low>2.25086</Low>
+    <Close>2.2705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-16</Date>
+    <Open>2.2715</Open>
+    <High>2.48273</High>
+    <Low>2.25299</Low>
+    <Close>2.38891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-17</Date>
+    <Open>2.39087</Open>
+    <High>2.56491</High>
+    <Low>2.34018</Low>
+    <Close>2.4824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-18</Date>
+    <Open>2.4824</Open>
+    <High>2.84466</High>
+    <Low>2.47865</Low>
+    <Close>2.5155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-19</Date>
+    <Open>2.51452</Open>
+    <High>2.63488</High>
+    <Low>2.45799</Low>
+    <Close>2.52262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-20</Date>
+    <Open>2.52061</Open>
+    <High>2.54479</High>
+    <Low>2.29017</Low>
+    <Close>2.31743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-21</Date>
+    <Open>2.31743</Open>
+    <High>2.54495</High>
+    <Low>2.23134</Low>
+    <Close>2.3826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-22</Date>
+    <Open>2.38559</Open>
+    <High>2.43722</High>
+    <Low>2.24805</Low>
+    <Close>2.34135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-23</Date>
+    <Open>2.3434</Open>
+    <High>2.4338</High>
+    <Low>2.271</Low>
+    <Close>2.30979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-24</Date>
+    <Open>2.30979</Open>
+    <High>2.33289</High>
+    <Low>2.08946</Low>
+    <Close>2.12131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-25</Date>
+    <Open>2.12444</Open>
+    <High>2.19961</High>
+    <Low>2.01767</Low>
+    <Close>2.02496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-26</Date>
+    <Open>2.01996</Open>
+    <High>2.29704</High>
+    <Low>2.01595</Low>
+    <Close>2.15143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-27</Date>
+    <Open>2.14936</Open>
+    <High>2.22578</High>
+    <Low>2.05178</Low>
+    <Close>2.08998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-28</Date>
+    <Open>2.08998</Open>
+    <High>2.38262</High>
+    <Low>2.03469</Low>
+    <Close>2.32991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-29</Date>
+    <Open>2.32991</Open>
+    <High>2.49827</High>
+    <Low>2.3076</Low>
+    <Close>2.39946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-30</Date>
+    <Open>2.40072</Open>
+    <High>2.46257</High>
+    <Low>2.25045</Low>
+    <Close>2.28564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-03-31</Date>
+    <Open>2.28562</Open>
+    <High>2.49957</High>
+    <Low>2.26727</Low>
+    <Close>2.44249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-01</Date>
+    <Open>2.44651</Open>
+    <High>2.48672</High>
+    <Low>2.36273</Low>
+    <Close>2.39686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-02</Date>
+    <Open>2.39729</Open>
+    <High>2.42837</High>
+    <Low>2.30477</Low>
+    <Close>2.31754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-03</Date>
+    <Open>2.31794</Open>
+    <High>2.48832</High>
+    <Low>2.27734</Low>
+    <Close>2.39193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-04</Date>
+    <Open>2.39296</Open>
+    <High>2.60107</High>
+    <Low>2.36309</Low>
+    <Close>2.57131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-05</Date>
+    <Open>2.56928</Open>
+    <High>2.81584</High>
+    <Low>2.55587</Low>
+    <Close>2.58793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-06</Date>
+    <Open>2.58693</Open>
+    <High>2.6065</High>
+    <Low>2.47879</Low>
+    <Close>2.55289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-07</Date>
+    <Open>2.55189</Open>
+    <High>2.64035</High>
+    <Low>2.48604</Low>
+    <Close>2.49384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-08</Date>
+    <Open>2.49775</Open>
+    <High>2.52014</High>
+    <Low>2.37554</Low>
+    <Close>2.38963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-09</Date>
+    <Open>2.38603</Open>
+    <High>2.43216</High>
+    <Low>2.29275</Low>
+    <Close>2.37199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-10</Date>
+    <Open>2.37206</Open>
+    <High>2.45684</High>
+    <Low>2.29718</Low>
+    <Close>2.42136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-11</Date>
+    <Open>2.42399</Open>
+    <High>2.49104</High>
+    <Low>2.3463</Low>
+    <Close>2.35631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-12</Date>
+    <Open>2.35523</Open>
+    <High>2.42037</High>
+    <Low>2.19546</Low>
+    <Close>2.3138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-13</Date>
+    <Open>2.3138</Open>
+    <High>2.44456</High>
+    <Low>2.2442</Low>
+    <Close>2.42533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-14</Date>
+    <Open>2.42633</Open>
+    <High>2.63334</High>
+    <Low>2.42567</Low>
+    <Close>2.60316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-15</Date>
+    <Open>2.60313</Open>
+    <High>2.66445</High>
+    <Low>2.49224</Low>
+    <Close>2.50025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-16</Date>
+    <Open>2.49422</Open>
+    <High>2.64793</High>
+    <Low>2.47012</Low>
+    <Close>2.62178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-17</Date>
+    <Open>2.62578</Open>
+    <High>2.62979</High>
+    <Low>2.47671</Low>
+    <Close>2.49647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-18</Date>
+    <Open>2.4975</Open>
+    <High>2.57998</High>
+    <Low>2.42006</Low>
+    <Close>2.50845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-19</Date>
+    <Open>2.5094</Open>
+    <High>2.53969</High>
+    <Low>2.23183</Low>
+    <Close>2.27625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-20</Date>
+    <Open>2.27925</Open>
+    <High>2.29069</High>
+    <Low>2.11227</Low>
+    <Close>2.13917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-21</Date>
+    <Open>2.13615</Open>
+    <High>2.1878</High>
+    <Low>1.99964</Low>
+    <Close>2.0318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-22</Date>
+    <Open>2.03078</Open>
+    <High>2.10802</High>
+    <Low>2.02445</Low>
+    <Close>2.10019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-23</Date>
+    <Open>2.09919</Open>
+    <High>2.11836</High>
+    <Low>1.99444</Low>
+    <Close>2.04808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-24</Date>
+    <Open>2.0471</Open>
+    <High>2.16404</High>
+    <Low>2.03602</Low>
+    <Close>2.08904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-25</Date>
+    <Open>2.09206</Open>
+    <High>2.14952</High>
+    <Low>2.0141</Low>
+    <Close>2.14952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-26</Date>
+    <Open>2.14949</Open>
+    <High>2.24245</High>
+    <Low>1.9764</Low>
+    <Close>2.08867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-27</Date>
+    <Open>2.08167</Open>
+    <High>2.18422</High>
+    <Low>2.04776</Low>
+    <Close>2.13875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-28</Date>
+    <Open>2.13668</Open>
+    <High>2.14669</High>
+    <Low>2.05688</Low>
+    <Close>2.08767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-29</Date>
+    <Open>2.09061</Open>
+    <High>2.12551</High>
+    <Low>2.07343</Low>
+    <Close>2.09924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-04-30</Date>
+    <Open>2.10124</Open>
+    <High>2.10984</High>
+    <Low>2.02421</Low>
+    <Close>2.04917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-01</Date>
+    <Open>2.04612</Open>
+    <High>2.05303</High>
+    <Low>1.94412</Low>
+    <Close>1.96755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-02</Date>
+    <Open>1.96751</Open>
+    <High>2.01039</High>
+    <Low>1.94904</Low>
+    <Close>1.99021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-03</Date>
+    <Open>1.99322</Open>
+    <High>2.00302</High>
+    <Low>1.85743</Low>
+    <Close>1.97953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-04</Date>
+    <Open>1.97953</Open>
+    <High>2.04937</High>
+    <Low>1.90189</Low>
+    <Close>1.9057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-05</Date>
+    <Open>1.90671</Open>
+    <High>1.97476</High>
+    <Low>1.8296</Low>
+    <Close>1.93876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-06</Date>
+    <Open>1.93876</Open>
+    <High>1.95209</High>
+    <Low>1.79075</Low>
+    <Close>1.8432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-07</Date>
+    <Open>1.84213</Open>
+    <High>1.8825</High>
+    <Low>1.81812</Low>
+    <Close>1.82615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-08</Date>
+    <Open>1.82692</Open>
+    <High>1.8542</High>
+    <Low>1.5991</Low>
+    <Close>1.72931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-09</Date>
+    <Open>1.72959</Open>
+    <High>1.95935</High>
+    <Low>1.72129</Low>
+    <Close>1.85685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-10</Date>
+    <Open>1.85786</Open>
+    <High>1.96035</High>
+    <Low>1.76894</Low>
+    <Close>1.87669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-11</Date>
+    <Open>1.87788</Open>
+    <High>1.88588</High>
+    <Low>1.61361</Low>
+    <Close>1.65165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-12</Date>
+    <Open>1.64965</Open>
+    <High>1.91996</High>
+    <Low>1.58158</Low>
+    <Close>1.89351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-13</Date>
+    <Open>1.89552</Open>
+    <High>1.94317</High>
+    <Low>1.85793</Low>
+    <Close>1.89213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-14</Date>
+    <Open>1.89495</Open>
+    <High>1.96118</High>
+    <Low>1.86212</Low>
+    <Close>1.94617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-15</Date>
+    <Open>1.93597</Open>
+    <High>2.19732</High>
+    <Low>1.90214</Low>
+    <Close>2.15551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-16</Date>
+    <Open>2.1515</Open>
+    <High>2.30092</High>
+    <Low>2.08646</Low>
+    <Close>2.22111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-17</Date>
+    <Open>2.22589</Open>
+    <High>2.56128</High>
+    <Low>2.15586</Low>
+    <Close>2.38519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-18</Date>
+    <Open>2.38295</Open>
+    <High>2.38319</High>
+    <Low>2.11463</Low>
+    <Close>2.16387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-19</Date>
+    <Open>2.16286</Open>
+    <High>2.23289</High>
+    <Low>2.08504</Low>
+    <Close>2.17163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-20</Date>
+    <Open>2.16908</Open>
+    <High>2.18509</High>
+    <Low>2.11148</Low>
+    <Close>2.13914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-21</Date>
+    <Open>2.13992</Open>
+    <High>2.15994</High>
+    <Low>2.04702</Low>
+    <Close>2.07625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-22</Date>
+    <Open>2.07304</Open>
+    <High>2.10105</High>
+    <Low>2.01921</Low>
+    <Close>2.03222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-23</Date>
+    <Open>2.03302</Open>
+    <High>2.11921</High>
+    <Low>2.00452</Low>
+    <Close>2.03912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-24</Date>
+    <Open>2.03912</Open>
+    <High>2.0846</High>
+    <Low>1.92998</Low>
+    <Close>2.04188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-25</Date>
+    <Open>2.0419</Open>
+    <High>2.08073</High>
+    <Low>1.9921</Low>
+    <Close>2.01506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-26</Date>
+    <Open>2.01204</Open>
+    <High>2.05753</High>
+    <Low>1.94317</Low>
+    <Close>1.99844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-27</Date>
+    <Open>1.9956</Open>
+    <High>2.0014</High>
+    <Low>1.95257</Low>
+    <Close>1.96173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="LDO">
+    <Date>2023-05-28</Date>
+    <Open>1.96173</Open>
+    <High>2.05745</High>
+    <Low>1.95998</Low>
+    <Close>2.04647</Close>
+  </Cryptocurrency>
+</Root>

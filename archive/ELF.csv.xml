@@ -1,0 +1,2663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-15</Date>
+    <Open>0.15986</Open>
+    <High>0.164852</High>
+    <Low>0.155551</Low>
+    <Close>0.164303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-16</Date>
+    <Open>0.164003</Open>
+    <High>0.168814</High>
+    <Low>0.14989</Low>
+    <Close>0.155098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-17</Date>
+    <Open>0.155198</Open>
+    <High>0.162621</High>
+    <Low>0.154998</Low>
+    <Close>0.161406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-18</Date>
+    <Open>0.16169</Open>
+    <High>0.177769</High>
+    <Low>0.148107</Low>
+    <Close>0.149605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-19</Date>
+    <Open>0.14959</Open>
+    <High>0.15566</High>
+    <Low>0.137535</Low>
+    <Close>0.151663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-20</Date>
+    <Open>0.151763</Open>
+    <High>0.173709</High>
+    <Low>0.145511</Low>
+    <Close>0.152302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-21</Date>
+    <Open>0.152317</Open>
+    <High>0.155697</High>
+    <Low>0.148422</Low>
+    <Close>0.153001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-22</Date>
+    <Open>0.153101</Open>
+    <High>0.166899</High>
+    <Low>0.152701</Low>
+    <Close>0.161106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-23</Date>
+    <Open>0.161206</Open>
+    <High>0.17033</High>
+    <Low>0.161206</Low>
+    <Close>0.164885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-24</Date>
+    <Open>0.162788</Open>
+    <High>0.162804</High>
+    <Low>0.147223</Low>
+    <Close>0.158594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-25</Date>
+    <Open>0.158494</Open>
+    <High>0.162173</High>
+    <Low>0.154015</Low>
+    <Close>0.159908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-26</Date>
+    <Open>0.160008</Open>
+    <High>0.162305</High>
+    <Low>0.145126</Low>
+    <Close>0.153946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-27</Date>
+    <Open>0.154046</Open>
+    <High>0.237538</High>
+    <Low>0.148052</Low>
+    <Close>0.154645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-28</Date>
+    <Open>0.154822</Open>
+    <High>0.15824</High>
+    <Low>0.146339</Low>
+    <Close>0.151424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-29</Date>
+    <Open>0.151619</Open>
+    <High>0.153231</High>
+    <Low>0.147652</Low>
+    <Close>0.150333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-30</Date>
+    <Open>0.150631</Open>
+    <High>0.163685</High>
+    <Low>0.150239</Low>
+    <Close>0.16207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-05-31</Date>
+    <Open>0.16177</Open>
+    <High>0.165468</High>
+    <Low>0.157874</Low>
+    <Close>0.160871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-01</Date>
+    <Open>0.161479</Open>
+    <High>0.183246</High>
+    <Low>0.158541</Low>
+    <Close>0.158541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-02</Date>
+    <Open>0.158564</Open>
+    <High>0.252572</High>
+    <Low>0.157358</Low>
+    <Close>0.174643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-03</Date>
+    <Open>0.174842</Open>
+    <High>0.187857</High>
+    <Low>0.169639</Low>
+    <Close>0.174348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-04</Date>
+    <Open>0.17435</Open>
+    <High>0.189412</High>
+    <Low>0.170265</Low>
+    <Close>0.170572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-05</Date>
+    <Open>0.17067</Open>
+    <High>0.210119</High>
+    <Low>0.166865</Low>
+    <Close>0.179931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-06</Date>
+    <Open>0.179731</Open>
+    <High>0.20191</High>
+    <Low>0.179049</Low>
+    <Close>0.187442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-07</Date>
+    <Open>0.18824</Open>
+    <High>0.197634</High>
+    <Low>0.171463</Low>
+    <Close>0.18186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-08</Date>
+    <Open>0.182054</Open>
+    <High>0.184291</High>
+    <Low>0.172383</Low>
+    <Close>0.174287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-09</Date>
+    <Open>0.174387</Open>
+    <High>0.209624</High>
+    <Low>0.172772</Low>
+    <Close>0.175652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-10</Date>
+    <Open>0.175451</Open>
+    <High>0.179446</High>
+    <Low>0.159025</Low>
+    <Close>0.16369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-11</Date>
+    <Open>0.163692</Open>
+    <High>0.167519</High>
+    <Low>0.145419</Low>
+    <Close>0.151028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-12</Date>
+    <Open>0.151627</Open>
+    <High>0.152627</High>
+    <Low>0.137629</Low>
+    <Close>0.142723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-13</Date>
+    <Open>0.142724</Open>
+    <High>0.145315</High>
+    <Low>0.119421</Low>
+    <Close>0.124327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-14</Date>
+    <Open>0.124427</Open>
+    <High>0.128804</High>
+    <Low>0.116823</Low>
+    <Close>0.121554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-15</Date>
+    <Open>0.121555</Open>
+    <High>0.142378</High>
+    <Low>0.1184</Low>
+    <Close>0.132601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-16</Date>
+    <Open>0.132714</Open>
+    <High>0.14133</High>
+    <Low>0.126448</Low>
+    <Close>0.132514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-17</Date>
+    <Open>0.128721</Open>
+    <High>0.141219</High>
+    <Low>0.127622</Low>
+    <Close>0.134838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-18</Date>
+    <Open>0.134838</Open>
+    <High>0.137438</High>
+    <Low>0.117928</Low>
+    <Close>0.1234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-19</Date>
+    <Open>0.1233</Open>
+    <High>0.135138</High>
+    <Low>0.122818</Low>
+    <Close>0.132527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-20</Date>
+    <Open>0.132541</Open>
+    <High>0.136949</High>
+    <Low>0.128333</Low>
+    <Close>0.133853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-21</Date>
+    <Open>0.133753</Open>
+    <High>0.151863</High>
+    <Low>0.132641</Low>
+    <Close>0.142258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-22</Date>
+    <Open>0.142443</Open>
+    <High>0.142757</High>
+    <Low>0.133553</Low>
+    <Close>0.134465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-23</Date>
+    <Open>0.134465</Open>
+    <High>0.141558</High>
+    <Low>0.134252</Low>
+    <Close>0.138861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-24</Date>
+    <Open>0.137362</Open>
+    <High>0.145074</High>
+    <Low>0.137263</Low>
+    <Close>0.143487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-25</Date>
+    <Open>0.143188</Open>
+    <High>0.177481</High>
+    <Low>0.141104</Low>
+    <Close>0.151294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-26</Date>
+    <Open>0.151494</Open>
+    <High>0.151895</High>
+    <Low>0.143512</Low>
+    <Close>0.14461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-27</Date>
+    <Open>0.143414</Open>
+    <High>0.15667</High>
+    <Low>0.140015</Low>
+    <Close>0.146668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-28</Date>
+    <Open>0.150263</Open>
+    <High>0.15566</High>
+    <Low>0.144927</Low>
+    <Close>0.14652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-29</Date>
+    <Open>0.146317</Open>
+    <High>0.146618</High>
+    <Low>0.139212</Low>
+    <Close>0.144525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-06-30</Date>
+    <Open>0.142228</Open>
+    <High>0.195451</High>
+    <Low>0.135826</Low>
+    <Close>0.144926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-01</Date>
+    <Open>0.145226</Open>
+    <High>0.189235</High>
+    <Low>0.142115</Low>
+    <Close>0.160523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-02</Date>
+    <Open>0.160623</Open>
+    <High>0.171811</High>
+    <Low>0.14962</Low>
+    <Close>0.14992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-03</Date>
+    <Open>0.15002</Open>
+    <High>0.16878</High>
+    <Low>0.143214</Low>
+    <Close>0.160891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-04</Date>
+    <Open>0.16129</Open>
+    <High>0.25377</High>
+    <Low>0.156396</Low>
+    <Close>0.201558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-05</Date>
+    <Open>0.200859</Open>
+    <High>0.201857</High>
+    <Low>0.188374</Low>
+    <Close>0.189491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-06</Date>
+    <Open>0.189891</Open>
+    <High>0.193187</High>
+    <Low>0.182599</Low>
+    <Close>0.186495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-07</Date>
+    <Open>0.187793</Open>
+    <High>0.192488</High>
+    <Low>0.171611</Low>
+    <Close>0.190086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-08</Date>
+    <Open>0.182672</Open>
+    <High>0.277733</High>
+    <Low>0.180519</Low>
+    <Close>0.219168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-09</Date>
+    <Open>0.219668</Open>
+    <High>0.229639</High>
+    <Low>0.210873</Low>
+    <Close>0.212872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-10</Date>
+    <Open>0.212972</Open>
+    <High>0.241755</High>
+    <Low>0.207975</Low>
+    <Close>0.226864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-11</Date>
+    <Open>0.227463</Open>
+    <High>0.294793</High>
+    <Low>0.217847</Low>
+    <Close>0.256169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-12</Date>
+    <Open>0.256169</Open>
+    <High>0.310489</High>
+    <Low>0.206194</Low>
+    <Close>0.206194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-13</Date>
+    <Open>0.205503</Open>
+    <High>0.2056</High>
+    <Low>0.176323</Low>
+    <Close>0.182336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-14</Date>
+    <Open>0.182036</Open>
+    <High>0.190029</High>
+    <Low>0.173361</Low>
+    <Close>0.180192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-15</Date>
+    <Open>0.180292</Open>
+    <High>0.185289</High>
+    <Low>0.175894</Low>
+    <Close>0.180046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-16</Date>
+    <Open>0.180346</Open>
+    <High>0.183963</High>
+    <Low>0.176329</Low>
+    <Close>0.181664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-17</Date>
+    <Open>0.181751</Open>
+    <High>0.183065</High>
+    <Low>0.176267</Low>
+    <Close>0.178552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-18</Date>
+    <Open>0.178652</Open>
+    <High>0.187477</High>
+    <Low>0.177142</Low>
+    <Close>0.181058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-19</Date>
+    <Open>0.181057</Open>
+    <High>0.1884</High>
+    <Low>0.178987</Low>
+    <Close>0.18803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-20</Date>
+    <Open>0.188</Open>
+    <High>0.201822</High>
+    <Low>0.181898</Low>
+    <Close>0.187009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-21</Date>
+    <Open>0.186922</Open>
+    <High>0.18783</High>
+    <Low>0.172517</Low>
+    <Close>0.180038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-22</Date>
+    <Open>0.180245</Open>
+    <High>0.180934</High>
+    <Low>0.173433</Low>
+    <Close>0.175539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-23</Date>
+    <Open>0.1752</Open>
+    <High>0.177218</High>
+    <Low>0.171585</Low>
+    <Close>0.173335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-24</Date>
+    <Open>0.173435</Open>
+    <High>0.176309</High>
+    <Low>0.173302</Low>
+    <Close>0.174335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-25</Date>
+    <Open>0.174733</Open>
+    <High>0.176133</High>
+    <Low>0.161718</Low>
+    <Close>0.164613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-26</Date>
+    <Open>0.164415</Open>
+    <High>0.165707</High>
+    <Low>0.151905</Low>
+    <Close>0.155523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-27</Date>
+    <Open>0.155623</Open>
+    <High>0.166242</High>
+    <Low>0.155523</Low>
+    <Close>0.16514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-28</Date>
+    <Open>0.16514</Open>
+    <High>0.171838</High>
+    <Low>0.162818</Low>
+    <Close>0.169532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-29</Date>
+    <Open>0.169636</Open>
+    <High>0.17101</High>
+    <Low>0.164233</Low>
+    <Close>0.166068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-30</Date>
+    <Open>0.166168</Open>
+    <High>0.177166</High>
+    <Low>0.166066</Low>
+    <Close>0.169858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-07-31</Date>
+    <Open>0.169951</Open>
+    <High>0.17786</High>
+    <Low>0.167245</Low>
+    <Close>0.171339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-01</Date>
+    <Open>0.171441</Open>
+    <High>0.18485</High>
+    <Low>0.168864</Low>
+    <Close>0.177953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-02</Date>
+    <Open>0.177852</Open>
+    <High>0.182571</High>
+    <Low>0.165963</Low>
+    <Close>0.171629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-03</Date>
+    <Open>0.171634</Open>
+    <High>0.172654</High>
+    <Low>0.166742</Low>
+    <Close>0.171843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-04</Date>
+    <Open>0.171739</Open>
+    <High>0.17513</High>
+    <Low>0.168951</Low>
+    <Close>0.169805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-05</Date>
+    <Open>0.169607</Open>
+    <High>0.176333</High>
+    <Low>0.169607</Low>
+    <Close>0.174533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-06</Date>
+    <Open>0.174535</Open>
+    <High>0.177807</High>
+    <Low>0.174335</Low>
+    <Close>0.176941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-07</Date>
+    <Open>0.177241</Open>
+    <High>0.177934</High>
+    <Low>0.173828</Low>
+    <Close>0.177132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-08</Date>
+    <Open>0.177034</Open>
+    <High>0.179634</High>
+    <Low>0.174624</Low>
+    <Close>0.177521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-09</Date>
+    <Open>0.177428</Open>
+    <High>0.180132</High>
+    <Low>0.168925</Low>
+    <Close>0.171134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-10</Date>
+    <Open>0.170836</Open>
+    <High>0.178643</High>
+    <Low>0.166547</Low>
+    <Close>0.178152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-11</Date>
+    <Open>0.178052</Open>
+    <High>0.202459</High>
+    <Low>0.17755</Low>
+    <Close>0.181785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-12</Date>
+    <Open>0.182273</Open>
+    <High>0.185285</High>
+    <Low>0.178589</Low>
+    <Close>0.185285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-13</Date>
+    <Open>0.185585</Open>
+    <High>0.185893</High>
+    <Low>0.181782</Low>
+    <Close>0.183071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-14</Date>
+    <Open>0.183162</Open>
+    <High>0.189457</High>
+    <Low>0.180441</Low>
+    <Close>0.182357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-15</Date>
+    <Open>0.181058</Open>
+    <High>0.192152</High>
+    <Low>0.178543</Low>
+    <Close>0.181742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-16</Date>
+    <Open>0.181642</Open>
+    <High>0.201514</High>
+    <Low>0.179339</Low>
+    <Close>0.186117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-17</Date>
+    <Open>0.186017</Open>
+    <High>0.190425</High>
+    <Low>0.175398</Low>
+    <Close>0.177314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-18</Date>
+    <Open>0.177814</Open>
+    <High>0.183509</High>
+    <Low>0.175282</Low>
+    <Close>0.176005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-19</Date>
+    <Open>0.176018</Open>
+    <High>0.176418</High>
+    <Low>0.150215</Low>
+    <Close>0.150915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-20</Date>
+    <Open>0.151408</Open>
+    <High>0.155216</High>
+    <Low>0.145588</Low>
+    <Close>0.146499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-21</Date>
+    <Open>0.146496</Open>
+    <High>0.154255</High>
+    <Low>0.1463</Low>
+    <Close>0.152495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-22</Date>
+    <Open>0.152397</Open>
+    <High>0.152902</High>
+    <Low>0.14229</Low>
+    <Close>0.145574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-23</Date>
+    <Open>0.145678</Open>
+    <High>0.148915</High>
+    <Low>0.144596</Low>
+    <Close>0.148503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-24</Date>
+    <Open>0.148599</Open>
+    <High>0.151111</High>
+    <Low>0.14579</Low>
+    <Close>0.150414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-25</Date>
+    <Open>0.150511</Open>
+    <High>0.160795</High>
+    <Low>0.148699</Low>
+    <Close>0.154705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-26</Date>
+    <Open>0.154702</Open>
+    <High>0.156313</High>
+    <Low>0.143513</Low>
+    <Close>0.143813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-27</Date>
+    <Open>0.143514</Open>
+    <High>0.143814</High>
+    <Low>0.138019</Low>
+    <Close>0.138703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-28</Date>
+    <Open>0.138901</Open>
+    <High>0.154402</High>
+    <Low>0.138803</Low>
+    <Close>0.1417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-29</Date>
+    <Open>0.1416</Open>
+    <High>0.14462</High>
+    <Low>0.137892</Low>
+    <Close>0.14301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-30</Date>
+    <Open>0.143014</Open>
+    <High>0.1473</High>
+    <Low>0.139115</Low>
+    <Close>0.141713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-08-31</Date>
+    <Open>0.141611</Open>
+    <High>0.146303</High>
+    <Low>0.14151</Low>
+    <Close>0.145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-01</Date>
+    <Open>0.144901</Open>
+    <High>0.144996</High>
+    <Low>0.139004</Low>
+    <Close>0.142394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-02</Date>
+    <Open>0.142493</Open>
+    <High>0.145699</High>
+    <Low>0.140308</Low>
+    <Close>0.141624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-03</Date>
+    <Open>0.141823</Open>
+    <High>0.141924</High>
+    <Low>0.1401</Low>
+    <Close>0.141514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-04</Date>
+    <Open>0.1416</Open>
+    <High>0.1422</High>
+    <Low>0.1394</Low>
+    <Close>0.141414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-05</Date>
+    <Open>0.1413</Open>
+    <High>0.1424</High>
+    <Low>0.1396</Low>
+    <Close>0.140514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-06</Date>
+    <Open>0.1402</Open>
+    <High>0.1427</High>
+    <Low>0.134087</Low>
+    <Close>0.1346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-07</Date>
+    <Open>0.134608</Open>
+    <High>0.1356</High>
+    <Low>0.129994</Low>
+    <Close>0.135409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-08</Date>
+    <Open>0.135409</Open>
+    <High>0.155214</High>
+    <Low>0.135101</Low>
+    <Close>0.142021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-09</Date>
+    <Open>0.142023</Open>
+    <High>0.147429</High>
+    <Low>0.141517</Low>
+    <Close>0.146048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-10</Date>
+    <Open>0.146161</Open>
+    <High>0.148255</High>
+    <Low>0.145454</Low>
+    <Close>0.147128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-11</Date>
+    <Open>0.147431</Open>
+    <High>0.155747</High>
+    <Low>0.146545</Low>
+    <Close>0.151938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-12</Date>
+    <Open>0.152038</Open>
+    <High>0.165528</High>
+    <Low>0.14973</Low>
+    <Close>0.153631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-13</Date>
+    <Open>0.153528</Open>
+    <High>0.154629</High>
+    <Low>0.13951</Low>
+    <Close>0.140303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-14</Date>
+    <Open>0.140203</Open>
+    <High>0.144396</High>
+    <Low>0.139203</Low>
+    <Close>0.141335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-15</Date>
+    <Open>0.141037</Open>
+    <High>0.142421</High>
+    <Low>0.135474</Low>
+    <Close>0.136986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-16</Date>
+    <Open>0.136993</Open>
+    <High>0.137196</High>
+    <Low>0.134873</Low>
+    <Close>0.136386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-17</Date>
+    <Open>0.136586</Open>
+    <High>0.138714</High>
+    <Low>0.136086</Low>
+    <Close>0.138314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-18</Date>
+    <Open>0.1382</Open>
+    <High>0.138814</High>
+    <Low>0.1319</Low>
+    <Close>0.1322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-19</Date>
+    <Open>0.131987</Open>
+    <High>0.133127</High>
+    <Low>0.126887</Low>
+    <Close>0.132613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-20</Date>
+    <Open>0.132226</Open>
+    <High>0.133327</High>
+    <Low>0.1296</Low>
+    <Close>0.129713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-21</Date>
+    <Open>0.129713</Open>
+    <High>0.134313</High>
+    <Low>0.1279</Low>
+    <Close>0.1284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-22</Date>
+    <Open>0.128113</Open>
+    <High>0.1329</High>
+    <Low>0.1278</Low>
+    <Close>0.132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-23</Date>
+    <Open>0.1321</Open>
+    <High>0.134987</High>
+    <Low>0.129787</Low>
+    <Close>0.1324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-24</Date>
+    <Open>0.132592</Open>
+    <High>0.133904</High>
+    <Low>0.131999</Low>
+    <Close>0.132611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-25</Date>
+    <Open>0.132613</Open>
+    <High>0.133408</High>
+    <Low>0.130099</Low>
+    <Close>0.1301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-26</Date>
+    <Open>0.130101</Open>
+    <High>0.131</High>
+    <Low>0.128</Low>
+    <Close>0.1299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-27</Date>
+    <Open>0.1299</Open>
+    <High>0.1339</High>
+    <Low>0.129187</Low>
+    <Close>0.129487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-28</Date>
+    <Open>0.129487</Open>
+    <High>0.1308</High>
+    <Low>0.127087</Low>
+    <Close>0.1307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-29</Date>
+    <Open>0.1303</Open>
+    <High>0.1308</High>
+    <Low>0.128013</Low>
+    <Close>0.1301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-09-30</Date>
+    <Open>0.1301</Open>
+    <High>0.131713</High>
+    <Low>0.1292</Low>
+    <Close>0.1292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-01</Date>
+    <Open>0.1292</Open>
+    <High>0.132113</High>
+    <Low>0.1291</Low>
+    <Close>0.1302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-02</Date>
+    <Open>0.1304</Open>
+    <High>0.130513</High>
+    <Low>0.1285</Low>
+    <Close>0.1291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-03</Date>
+    <Open>0.1291</Open>
+    <High>0.130313</High>
+    <Low>0.1281</Low>
+    <Close>0.130026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-04</Date>
+    <Open>0.130013</Open>
+    <High>0.13274</High>
+    <Low>0.1299</Low>
+    <Close>0.13254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-05</Date>
+    <Open>0.13244</Open>
+    <High>0.13274</High>
+    <Low>0.1301</Low>
+    <Close>0.131526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-06</Date>
+    <Open>0.131618</Open>
+    <High>0.133124</High>
+    <Low>0.131317</Low>
+    <Close>0.131322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-07</Date>
+    <Open>0.131322</Open>
+    <High>0.132304</High>
+    <Low>0.129701</Low>
+    <Close>0.13172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-08</Date>
+    <Open>0.132009</Open>
+    <High>0.139917</High>
+    <Low>0.131711</Low>
+    <Close>0.133736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-09</Date>
+    <Open>0.133735</Open>
+    <High>0.134127</High>
+    <Low>0.1329</Low>
+    <Close>0.133327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-10</Date>
+    <Open>0.133327</Open>
+    <High>0.133727</High>
+    <Low>0.130174</Low>
+    <Close>0.1303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-11</Date>
+    <Open>0.1303</Open>
+    <High>0.1303</High>
+    <Low>0.126981</Low>
+    <Close>0.126989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-12</Date>
+    <Open>0.127185</Open>
+    <High>0.127696</High>
+    <Low>0.126491</Low>
+    <Close>0.126704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-13</Date>
+    <Open>0.126704</Open>
+    <High>0.127099</High>
+    <Low>0.118489</Low>
+    <Close>0.12431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-14</Date>
+    <Open>0.124311</Open>
+    <High>0.126514</High>
+    <Low>0.123707</Low>
+    <Close>0.124102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-15</Date>
+    <Open>0.124105</Open>
+    <High>0.124511</High>
+    <Low>0.123309</Low>
+    <Close>0.123506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-16</Date>
+    <Open>0.123487</Open>
+    <High>0.128899</High>
+    <Low>0.123295</Low>
+    <Close>0.126905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-17</Date>
+    <Open>0.126706</Open>
+    <High>0.131303</High>
+    <Low>0.125701</Low>
+    <Close>0.128703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-18</Date>
+    <Open>0.128604</Open>
+    <High>0.131309</High>
+    <Low>0.128204</Low>
+    <Close>0.129308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-19</Date>
+    <Open>0.129404</Open>
+    <High>0.129606</High>
+    <Low>0.126492</Low>
+    <Close>0.1267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-20</Date>
+    <Open>0.126801</Open>
+    <High>0.126804</High>
+    <Low>0.124889</Low>
+    <Close>0.125486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-21</Date>
+    <Open>0.125489</Open>
+    <High>0.125492</High>
+    <Low>0.121389</Low>
+    <Close>0.123909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-22</Date>
+    <Open>0.124009</Open>
+    <High>0.125609</High>
+    <Low>0.123706</Low>
+    <Close>0.125211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-23</Date>
+    <Open>0.12501</Open>
+    <High>0.126914</High>
+    <Low>0.123704</Low>
+    <Close>0.126616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-24</Date>
+    <Open>0.126916</Open>
+    <High>0.127912</High>
+    <Low>0.125306</Low>
+    <Close>0.127105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-25</Date>
+    <Open>0.127004</Open>
+    <High>0.132945</High>
+    <Low>0.127004</Low>
+    <Close>0.131542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-26</Date>
+    <Open>0.131342</Open>
+    <High>0.13395</High>
+    <Low>0.130229</Low>
+    <Close>0.132636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-27</Date>
+    <Open>0.132536</Open>
+    <High>0.135731</High>
+    <Low>0.132205</Low>
+    <Close>0.132608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-28</Date>
+    <Open>0.132508</Open>
+    <High>0.133127</High>
+    <Low>0.129709</Low>
+    <Close>0.132828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-29</Date>
+    <Open>0.132724</Open>
+    <High>0.134251</High>
+    <Low>0.132524</Low>
+    <Close>0.133231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-30</Date>
+    <Open>0.133232</Open>
+    <High>0.13364</High>
+    <Low>0.131324</Low>
+    <Close>0.131626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-10-31</Date>
+    <Open>0.131626</Open>
+    <High>0.1322</High>
+    <Low>0.129686</Low>
+    <Close>0.13049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-01</Date>
+    <Open>0.130492</Open>
+    <High>0.132067</High>
+    <Low>0.130288</Low>
+    <Close>0.131187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-02</Date>
+    <Open>0.131286</Open>
+    <High>0.131874</High>
+    <Low>0.127692</Low>
+    <Close>0.127892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-03</Date>
+    <Open>0.127792</Open>
+    <High>0.131296</High>
+    <Low>0.127792</Low>
+    <Close>0.1301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-04</Date>
+    <Open>0.130099</Open>
+    <High>0.135504</High>
+    <Low>0.129486</Low>
+    <Close>0.135208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-05</Date>
+    <Open>0.135111</Open>
+    <High>0.138114</High>
+    <Low>0.134712</Low>
+    <Close>0.135807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-06</Date>
+    <Open>0.135804</Open>
+    <High>0.135805</High>
+    <Low>0.133704</Low>
+    <Close>0.134011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-07</Date>
+    <Open>0.133809</Open>
+    <High>0.133811</High>
+    <Low>0.129813</Low>
+    <Close>0.130114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-08</Date>
+    <Open>0.130139</Open>
+    <High>0.1308</High>
+    <Low>0.110644</Low>
+    <Close>0.114944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-09</Date>
+    <Open>0.114944</Open>
+    <High>0.116719</High>
+    <Low>0.104326</Low>
+    <Close>0.109432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-10</Date>
+    <Open>0.109417</Open>
+    <High>0.133045</High>
+    <Low>0.107532</Low>
+    <Close>0.117209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-11</Date>
+    <Open>0.117101</Open>
+    <High>0.133791</High>
+    <Low>0.109438</Low>
+    <Close>0.111022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-12</Date>
+    <Open>0.111122</Open>
+    <High>0.113545</High>
+    <Low>0.108305</Low>
+    <Close>0.109403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-13</Date>
+    <Open>0.109203</Open>
+    <High>0.117647</High>
+    <Low>0.107393</Low>
+    <Close>0.113541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-14</Date>
+    <Open>0.113364</Open>
+    <High>0.119357</High>
+    <Low>0.108726</Low>
+    <Close>0.117224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-15</Date>
+    <Open>0.117224</Open>
+    <High>0.125674</High>
+    <Low>0.116537</Low>
+    <Close>0.122378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-16</Date>
+    <Open>0.122351</Open>
+    <High>0.12275</High>
+    <Low>0.117075</Low>
+    <Close>0.118989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-17</Date>
+    <Open>0.119089</Open>
+    <High>0.1195</High>
+    <Low>0.116589</Low>
+    <Close>0.118008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-18</Date>
+    <Open>0.117908</Open>
+    <High>0.123599</High>
+    <Low>0.117904</Low>
+    <Close>0.12146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-19</Date>
+    <Open>0.12156</Open>
+    <High>0.124366</High>
+    <Low>0.120756</Low>
+    <Close>0.124269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-20</Date>
+    <Open>0.124371</Open>
+    <High>0.125456</High>
+    <Low>0.118621</Low>
+    <Close>0.118819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-21</Date>
+    <Open>0.118918</Open>
+    <High>0.120719</High>
+    <Low>0.117422</Low>
+    <Close>0.119057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-22</Date>
+    <Open>0.119156</Open>
+    <High>0.121552</High>
+    <Low>0.117747</Low>
+    <Close>0.121352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-23</Date>
+    <Open>0.121544</Open>
+    <High>0.123957</High>
+    <Low>0.12124</Low>
+    <Close>0.123864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-24</Date>
+    <Open>0.123963</Open>
+    <High>0.125175</High>
+    <Low>0.121995</Low>
+    <Close>0.123097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-25</Date>
+    <Open>0.123095</Open>
+    <High>0.126509</High>
+    <Low>0.122893</Low>
+    <Close>0.12423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-26</Date>
+    <Open>0.124327</Open>
+    <High>0.124836</High>
+    <Low>0.124017</Low>
+    <Close>0.124227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-27</Date>
+    <Open>0.124028</Open>
+    <High>0.12652</High>
+    <Low>0.122327</Low>
+    <Close>0.123122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-28</Date>
+    <Open>0.123021</Open>
+    <High>0.124929</High>
+    <Low>0.117335</Low>
+    <Close>0.120554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-29</Date>
+    <Open>0.120453</Open>
+    <High>0.122335</High>
+    <Low>0.119651</Low>
+    <Close>0.120955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-11-30</Date>
+    <Open>0.121054</Open>
+    <High>0.124626</High>
+    <Low>0.120759</Low>
+    <Close>0.124405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-01</Date>
+    <Open>0.124405</Open>
+    <High>0.125012</High>
+    <Low>0.120613</Low>
+    <Close>0.121707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-02</Date>
+    <Open>0.121607</Open>
+    <High>0.122112</High>
+    <Low>0.118912</Low>
+    <Close>0.121005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-03</Date>
+    <Open>0.121007</Open>
+    <High>0.122012</High>
+    <Low>0.118812</Low>
+    <Close>0.119112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-04</Date>
+    <Open>0.119124</Open>
+    <High>0.121136</High>
+    <Low>0.118912</Low>
+    <Close>0.120224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-05</Date>
+    <Open>0.120224</Open>
+    <High>0.122904</High>
+    <Low>0.120012</Low>
+    <Close>0.122802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-06</Date>
+    <Open>0.122802</Open>
+    <High>0.1317</High>
+    <Low>0.1228</Low>
+    <Close>0.129897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-07</Date>
+    <Open>0.129797</Open>
+    <High>0.1301</High>
+    <Low>0.1269</Low>
+    <Close>0.1283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-08</Date>
+    <Open>0.1283</Open>
+    <High>0.131818</High>
+    <Low>0.128201</Low>
+    <Close>0.130509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-09</Date>
+    <Open>0.130713</Open>
+    <High>0.133208</High>
+    <Low>0.129699</Low>
+    <Close>0.129905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-10</Date>
+    <Open>0.130107</Open>
+    <High>0.137301</High>
+    <Low>0.129592</Low>
+    <Close>0.135597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-11</Date>
+    <Open>0.135599</Open>
+    <High>0.1378</High>
+    <Low>0.132513</Low>
+    <Close>0.132613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-12</Date>
+    <Open>0.132727</Open>
+    <High>0.132827</High>
+    <Low>0.1306</Low>
+    <Close>0.131512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-13</Date>
+    <Open>0.131609</Open>
+    <High>0.134544</High>
+    <Low>0.131425</Low>
+    <Close>0.134468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-14</Date>
+    <Open>0.134457</Open>
+    <High>0.1367</High>
+    <Low>0.134372</Low>
+    <Close>0.135709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-15</Date>
+    <Open>0.1357</Open>
+    <High>0.140528</High>
+    <Low>0.135214</Low>
+    <Close>0.140228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-16</Date>
+    <Open>0.140128</Open>
+    <High>0.144114</High>
+    <Low>0.138714</Low>
+    <Close>0.139814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-17</Date>
+    <Open>0.139814</Open>
+    <High>0.145313</High>
+    <Low>0.137214</Low>
+    <Close>0.138418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-18</Date>
+    <Open>0.138519</Open>
+    <High>0.143617</High>
+    <Low>0.138203</Low>
+    <Close>0.142118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-19</Date>
+    <Open>0.141818</Open>
+    <High>0.145703</High>
+    <Low>0.1345</Low>
+    <Close>0.1456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-20</Date>
+    <Open>0.1453</Open>
+    <High>0.147703</High>
+    <Low>0.139406</Low>
+    <Close>0.139806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-21</Date>
+    <Open>0.139806</Open>
+    <High>0.145301</High>
+    <Low>0.1388</Low>
+    <Close>0.144706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-22</Date>
+    <Open>0.144907</Open>
+    <High>0.146194</High>
+    <Low>0.144586</Low>
+    <Close>0.145077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-23</Date>
+    <Open>0.145078</Open>
+    <High>0.150885</High>
+    <Low>0.144981</Low>
+    <Close>0.150483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-24</Date>
+    <Open>0.150383</Open>
+    <High>0.150886</High>
+    <Low>0.149982</Low>
+    <Close>0.150189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-25</Date>
+    <Open>0.150151</Open>
+    <High>0.152575</High>
+    <Low>0.149876</Low>
+    <Close>0.152017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-26</Date>
+    <Open>0.152182</Open>
+    <High>0.152486</High>
+    <Low>0.149862</Low>
+    <Close>0.14991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-27</Date>
+    <Open>0.15</Open>
+    <High>0.150488</High>
+    <Low>0.141649</Low>
+    <Close>0.141945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-28</Date>
+    <Open>0.141943</Open>
+    <High>0.149245</High>
+    <Low>0.141639</Low>
+    <Close>0.14722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-29</Date>
+    <Open>0.147222</Open>
+    <High>0.158018</High>
+    <Low>0.145211</Low>
+    <Close>0.150732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-30</Date>
+    <Open>0.150532</Open>
+    <High>0.165417</High>
+    <Low>0.149932</Low>
+    <Close>0.154621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2022-12-31</Date>
+    <Open>0.154621</Open>
+    <High>0.16032</High>
+    <Low>0.149827</Low>
+    <Close>0.15642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-01</Date>
+    <Open>0.15642</Open>
+    <High>0.157813</High>
+    <Low>0.153512</Low>
+    <Close>0.157026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-02</Date>
+    <Open>0.157026</Open>
+    <High>0.169131</High>
+    <Low>0.155136</Low>
+    <Close>0.16215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-03</Date>
+    <Open>0.162146</Open>
+    <High>0.164747</High>
+    <Low>0.159834</Low>
+    <Close>0.162437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-04</Date>
+    <Open>0.162437</Open>
+    <High>0.169244</High>
+    <Low>0.160734</Low>
+    <Close>0.169144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-05</Date>
+    <Open>0.168844</Open>
+    <High>0.169244</High>
+    <Low>0.164641</Low>
+    <Close>0.167241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-06</Date>
+    <Open>0.16734</Open>
+    <High>0.175928</High>
+    <Low>0.16724</Low>
+    <Close>0.169248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-07</Date>
+    <Open>0.169146</Open>
+    <High>0.170549</High>
+    <Low>0.16595</Low>
+    <Close>0.16766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-08</Date>
+    <Open>0.167671</Open>
+    <High>0.167671</High>
+    <Low>0.163882</Low>
+    <Close>0.165175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-09</Date>
+    <Open>0.165472</Open>
+    <High>0.170668</High>
+    <Low>0.165472</Low>
+    <Close>0.168998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-10</Date>
+    <Open>0.169</Open>
+    <High>0.17048</High>
+    <Low>0.167682</Low>
+    <Close>0.169124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-11</Date>
+    <Open>0.16913</Open>
+    <High>0.1717</High>
+    <Low>0.168398</Low>
+    <Close>0.171397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-12</Date>
+    <Open>0.171388</Open>
+    <High>0.172283</High>
+    <Low>0.166788</Low>
+    <Close>0.170617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-13</Date>
+    <Open>0.170817</Open>
+    <High>0.175721</High>
+    <Low>0.169876</Low>
+    <Close>0.174716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-14</Date>
+    <Open>0.174716</Open>
+    <High>0.184531</High>
+    <Low>0.174614</Low>
+    <Close>0.180209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-15</Date>
+    <Open>0.180613</Open>
+    <High>0.189528</High>
+    <Low>0.178028</Low>
+    <Close>0.186156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-16</Date>
+    <Open>0.186154</Open>
+    <High>0.189357</High>
+    <Low>0.179011</Low>
+    <Close>0.181404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-17</Date>
+    <Open>0.181404</Open>
+    <High>0.182402</High>
+    <Low>0.178898</Low>
+    <Close>0.18022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-18</Date>
+    <Open>0.180218</Open>
+    <High>0.18422</High>
+    <Low>0.173576</Low>
+    <Close>0.174591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-19</Date>
+    <Open>0.17459</Open>
+    <High>0.181004</High>
+    <Low>0.172898</Low>
+    <Close>0.180493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-20</Date>
+    <Open>0.180311</Open>
+    <High>0.185135</High>
+    <Low>0.178096</Low>
+    <Close>0.184931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-21</Date>
+    <Open>0.184931</Open>
+    <High>0.186635</High>
+    <Low>0.182455</Low>
+    <Close>0.184235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-22</Date>
+    <Open>0.183429</Open>
+    <High>0.184117</High>
+    <Low>0.180336</Low>
+    <Close>0.180436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-23</Date>
+    <Open>0.180534</Open>
+    <High>0.181725</High>
+    <Low>0.178916</Low>
+    <Close>0.180929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-24</Date>
+    <Open>0.180925</Open>
+    <High>0.186222</High>
+    <Low>0.180222</Low>
+    <Close>0.181405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-25</Date>
+    <Open>0.181305</Open>
+    <High>0.184133</High>
+    <Low>0.174628</Low>
+    <Close>0.180929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-26</Date>
+    <Open>0.180731</Open>
+    <High>0.182335</High>
+    <Low>0.177525</Low>
+    <Close>0.178714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-27</Date>
+    <Open>0.178614</Open>
+    <High>0.195855</High>
+    <Low>0.177416</Low>
+    <Close>0.18397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-28</Date>
+    <Open>0.18377</Open>
+    <High>0.224258</High>
+    <Low>0.183762</Low>
+    <Close>0.192238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-29</Date>
+    <Open>0.192138</Open>
+    <High>0.193044</High>
+    <Low>0.186243</Low>
+    <Close>0.188408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-30</Date>
+    <Open>0.187409</Open>
+    <High>0.188317</High>
+    <Low>0.175396</Low>
+    <Close>0.175712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-01-31</Date>
+    <Open>0.175812</Open>
+    <High>0.177809</High>
+    <Low>0.175418</Low>
+    <Close>0.176918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-01</Date>
+    <Open>0.176812</Open>
+    <High>0.184809</High>
+    <Low>0.175402</Low>
+    <Close>0.183911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-02</Date>
+    <Open>0.183911</Open>
+    <High>0.187519</High>
+    <Low>0.183122</Low>
+    <Close>0.183937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-03</Date>
+    <Open>0.183939</Open>
+    <High>0.190117</High>
+    <Low>0.183528</Low>
+    <Close>0.190115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-04</Date>
+    <Open>0.189915</Open>
+    <High>0.205514</High>
+    <Low>0.189615</Low>
+    <Close>0.201416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-05</Date>
+    <Open>0.201718</Open>
+    <High>0.215143</High>
+    <Low>0.191852</Low>
+    <Close>0.193948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-06</Date>
+    <Open>0.193948</Open>
+    <High>0.196141</High>
+    <Low>0.191092</Low>
+    <Close>0.193206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-07</Date>
+    <Open>0.192908</Open>
+    <High>0.201908</High>
+    <Low>0.189506</Low>
+    <Close>0.201712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-08</Date>
+    <Open>0.201808</Open>
+    <High>0.219398</High>
+    <Low>0.196826</Low>
+    <Close>0.202314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-09</Date>
+    <Open>0.202312</Open>
+    <High>0.246598</High>
+    <Low>0.19341</Low>
+    <Close>0.214821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-10</Date>
+    <Open>0.214019</Open>
+    <High>0.234947</High>
+    <Low>0.205018</Low>
+    <Close>0.225832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-11</Date>
+    <Open>0.225434</Open>
+    <High>0.234921</High>
+    <Low>0.220913</Low>
+    <Close>0.222622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-12</Date>
+    <Open>0.22252</Open>
+    <High>0.224127</High>
+    <Low>0.214917</Low>
+    <Close>0.217115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-13</Date>
+    <Open>0.217222</Open>
+    <High>0.236678</High>
+    <Low>0.216637</Low>
+    <Close>0.224921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-14</Date>
+    <Open>0.224724</Open>
+    <High>0.233882</High>
+    <Low>0.224521</Low>
+    <Close>0.22989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-15</Date>
+    <Open>0.229696</Open>
+    <High>0.23664</High>
+    <Low>0.224181</Low>
+    <Close>0.236345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-16</Date>
+    <Open>0.236438</Open>
+    <High>0.241248</High>
+    <Low>0.231176</Low>
+    <Close>0.231176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-17</Date>
+    <Open>0.23103</Open>
+    <High>0.238724</High>
+    <Low>0.228027</Low>
+    <Close>0.238724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-18</Date>
+    <Open>0.238736</Open>
+    <High>0.243554</High>
+    <Low>0.238333</Low>
+    <Close>0.241041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-19</Date>
+    <Open>0.241639</Open>
+    <High>0.243036</High>
+    <Low>0.239117</Low>
+    <Close>0.242456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-20</Date>
+    <Open>0.242156</Open>
+    <High>0.259129</High>
+    <Low>0.236669</Low>
+    <Close>0.251108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-21</Date>
+    <Open>0.25071</Open>
+    <High>0.255046</High>
+    <Low>0.244122</Low>
+    <Close>0.255046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-22</Date>
+    <Open>0.254246</Open>
+    <High>0.276239</High>
+    <Low>0.249345</Low>
+    <Close>0.255203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-23</Date>
+    <Open>0.255213</Open>
+    <High>0.268443</High>
+    <Low>0.2552</Low>
+    <Close>0.267435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-24</Date>
+    <Open>0.26754</Open>
+    <High>0.274844</High>
+    <Low>0.26415</Low>
+    <Close>0.268595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-25</Date>
+    <Open>0.2686</Open>
+    <High>0.33412</High>
+    <Low>0.2685</Low>
+    <Close>0.297321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-26</Date>
+    <Open>0.297218</Open>
+    <High>0.298724</High>
+    <Low>0.277525</Low>
+    <Close>0.281625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-27</Date>
+    <Open>0.281714</Open>
+    <High>0.282611</High>
+    <Low>0.267727</Low>
+    <Close>0.271514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-02-28</Date>
+    <Open>0.271516</Open>
+    <High>0.282511</High>
+    <Low>0.270911</Low>
+    <Close>0.279247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-01</Date>
+    <Open>0.279256</Open>
+    <High>0.284137</High>
+    <Low>0.277725</Low>
+    <Close>0.279736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-02</Date>
+    <Open>0.279739</Open>
+    <High>0.3189</High>
+    <Low>0.273449</Low>
+    <Close>0.293023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-03</Date>
+    <Open>0.292923</Open>
+    <High>0.297589</High>
+    <Low>0.274433</Low>
+    <Close>0.290917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-04</Date>
+    <Open>0.290923</Open>
+    <High>0.292135</High>
+    <Low>0.283114</Low>
+    <Close>0.28542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-05</Date>
+    <Open>0.28552</Open>
+    <High>0.286429</High>
+    <Low>0.278714</Low>
+    <Close>0.281534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-06</Date>
+    <Open>0.281634</Open>
+    <High>0.2935</High>
+    <Low>0.281631</Low>
+    <Close>0.285983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-07</Date>
+    <Open>0.285869</Open>
+    <High>0.285994</High>
+    <Low>0.269062</Low>
+    <Close>0.272914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-08</Date>
+    <Open>0.272892</Open>
+    <High>0.284577</High>
+    <Low>0.2725</Low>
+    <Close>0.278486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-09</Date>
+    <Open>0.278467</Open>
+    <High>0.283129</High>
+    <Low>0.276461</Low>
+    <Close>0.282525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-10</Date>
+    <Open>0.282425</Open>
+    <High>0.297694</High>
+    <Low>0.276653</Low>
+    <Close>0.283101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-11</Date>
+    <Open>0.282912</Open>
+    <High>0.318785</High>
+    <Low>0.2808</Low>
+    <Close>0.314866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-12</Date>
+    <Open>0.315814</Open>
+    <High>0.334298</High>
+    <Low>0.300487</Low>
+    <Close>0.313762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-13</Date>
+    <Open>0.314267</Open>
+    <High>0.345975</High>
+    <Low>0.310853</Low>
+    <Close>0.345573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-14</Date>
+    <Open>0.345068</Open>
+    <High>0.37618</High>
+    <Low>0.337342</Low>
+    <Close>0.350122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-15</Date>
+    <Open>0.350341</Open>
+    <High>0.352188</High>
+    <Low>0.305252</Low>
+    <Close>0.313612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-16</Date>
+    <Open>0.313097</Open>
+    <High>0.324729</High>
+    <Low>0.309652</Low>
+    <Close>0.31397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-17</Date>
+    <Open>0.314265</Open>
+    <High>0.325855</High>
+    <Low>0.308259</Low>
+    <Close>0.323367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-18</Date>
+    <Open>0.324034</Open>
+    <High>0.325851</High>
+    <Low>0.308531</Low>
+    <Close>0.309813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-19</Date>
+    <Open>0.309924</Open>
+    <High>0.313738</High>
+    <Low>0.303599</Low>
+    <Close>0.310538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-20</Date>
+    <Open>0.310529</Open>
+    <High>0.31235</High>
+    <Low>0.30232</Low>
+    <Close>0.303704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-21</Date>
+    <Open>0.303704</Open>
+    <High>0.319852</High>
+    <Low>0.299147</Low>
+    <Close>0.307578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-22</Date>
+    <Open>0.308882</Open>
+    <High>0.319887</High>
+    <Low>0.302478</Low>
+    <Close>0.304031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-23</Date>
+    <Open>0.304854</Open>
+    <High>0.30929</High>
+    <Low>0.299406</Low>
+    <Close>0.307037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-24</Date>
+    <Open>0.306737</Open>
+    <High>0.318288</High>
+    <Low>0.304359</Low>
+    <Close>0.308111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-25</Date>
+    <Open>0.307941</Open>
+    <High>0.319431</High>
+    <Low>0.303843</Low>
+    <Close>0.306797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-26</Date>
+    <Open>0.306697</Open>
+    <High>0.307777</High>
+    <Low>0.304058</Low>
+    <Close>0.304944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-27</Date>
+    <Open>0.304835</Open>
+    <High>0.307395</High>
+    <Low>0.294897</Low>
+    <Close>0.29714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-28</Date>
+    <Open>0.29704</Open>
+    <High>0.29798</High>
+    <Low>0.291608</Low>
+    <Close>0.296115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-29</Date>
+    <Open>0.296015</Open>
+    <High>0.297619</High>
+    <Low>0.28889</Low>
+    <Close>0.29655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-30</Date>
+    <Open>0.296689</Open>
+    <High>0.303615</High>
+    <Low>0.2935</Low>
+    <Close>0.29568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-03-31</Date>
+    <Open>0.295783</Open>
+    <High>0.362825</High>
+    <Low>0.294532</Low>
+    <Close>0.325065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-01</Date>
+    <Open>0.324665</Open>
+    <High>0.325124</High>
+    <Low>0.306735</Low>
+    <Close>0.309211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-02</Date>
+    <Open>0.309127</Open>
+    <High>0.311328</High>
+    <Low>0.295901</Low>
+    <Close>0.298585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-03</Date>
+    <Open>0.298585</Open>
+    <High>0.30614</High>
+    <Low>0.296351</Low>
+    <Close>0.303012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-04</Date>
+    <Open>0.302918</Open>
+    <High>0.319493</High>
+    <Low>0.302627</Low>
+    <Close>0.317359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-05</Date>
+    <Open>0.316858</Open>
+    <High>0.322794</High>
+    <Low>0.312128</Low>
+    <Close>0.314813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-06</Date>
+    <Open>0.314816</Open>
+    <High>0.324659</High>
+    <Low>0.31159</Low>
+    <Close>0.321813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-07</Date>
+    <Open>0.321816</Open>
+    <High>0.336565</High>
+    <Low>0.313382</Low>
+    <Close>0.315536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-08</Date>
+    <Open>0.315633</Open>
+    <High>0.317907</High>
+    <Low>0.310055</Low>
+    <Close>0.310524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-09</Date>
+    <Open>0.310421</Open>
+    <High>0.312409</High>
+    <Low>0.307781</Low>
+    <Close>0.312409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-10</Date>
+    <Open>0.312612</Open>
+    <High>0.312681</High>
+    <Low>0.306401</Low>
+    <Close>0.311455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-11</Date>
+    <Open>0.311555</Open>
+    <High>0.316078</High>
+    <Low>0.309973</Low>
+    <Close>0.311808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-12</Date>
+    <Open>0.311602</Open>
+    <High>0.317211</High>
+    <Low>0.306573</Low>
+    <Close>0.316547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-13</Date>
+    <Open>0.316544</Open>
+    <High>0.321431</High>
+    <Low>0.315733</Low>
+    <Close>0.320908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-14</Date>
+    <Open>0.320908</Open>
+    <High>0.331825</High>
+    <Low>0.317945</Low>
+    <Close>0.321163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-15</Date>
+    <Open>0.321166</Open>
+    <High>0.323013</High>
+    <Low>0.318899</Low>
+    <Close>0.319487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-16</Date>
+    <Open>0.319584</Open>
+    <High>0.321764</High>
+    <Low>0.317273</Low>
+    <Close>0.320618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-17</Date>
+    <Open>0.320146</Open>
+    <High>0.320553</High>
+    <Low>0.310677</Low>
+    <Close>0.312881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-18</Date>
+    <Open>0.313088</Open>
+    <High>0.319137</High>
+    <Low>0.31038</Low>
+    <Close>0.317157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-19</Date>
+    <Open>0.31706</Open>
+    <High>0.318134</High>
+    <Low>0.30481</Low>
+    <Close>0.307463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-20</Date>
+    <Open>0.307469</Open>
+    <High>0.30762</High>
+    <Low>0.301591</Low>
+    <Close>0.30363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-21</Date>
+    <Open>0.303721</Open>
+    <High>0.305634</High>
+    <Low>0.295967</Low>
+    <Close>0.29647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-22</Date>
+    <Open>0.296867</Open>
+    <High>0.297906</High>
+    <Low>0.291626</Low>
+    <Close>0.295427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-23</Date>
+    <Open>0.296227</Open>
+    <High>0.299115</High>
+    <Low>0.291244</Low>
+    <Close>0.292815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-24</Date>
+    <Open>0.292815</Open>
+    <High>0.295397</High>
+    <Low>0.284954</Low>
+    <Close>0.287606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-25</Date>
+    <Open>0.287609</Open>
+    <High>0.289875</High>
+    <Low>0.280025</Low>
+    <Close>0.288466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-26</Date>
+    <Open>0.289567</Open>
+    <High>0.299881</High>
+    <Low>0.279553</Low>
+    <Close>0.288601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-27</Date>
+    <Open>0.288192</Open>
+    <High>0.295012</High>
+    <Low>0.285406</Low>
+    <Close>0.292299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-28</Date>
+    <Open>0.292394</Open>
+    <High>0.301997</High>
+    <Low>0.289195</Low>
+    <Close>0.298229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-29</Date>
+    <Open>0.29843</Open>
+    <High>0.298518</High>
+    <Low>0.294103</Low>
+    <Close>0.295274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-04-30</Date>
+    <Open>0.295674</Open>
+    <High>0.295674</High>
+    <Low>0.288676</Low>
+    <Close>0.289765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-01</Date>
+    <Open>0.289762</Open>
+    <High>0.291022</High>
+    <Low>0.276025</Low>
+    <Close>0.277875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-02</Date>
+    <Open>0.277772</Open>
+    <High>0.299471</High>
+    <Low>0.27615</Low>
+    <Close>0.297181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-03</Date>
+    <Open>0.297384</Open>
+    <High>0.3042</High>
+    <Low>0.296939</Low>
+    <Close>0.303882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-04</Date>
+    <Open>0.303582</Open>
+    <High>0.305492</High>
+    <Low>0.298337</Low>
+    <Close>0.299408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-05</Date>
+    <Open>0.299608</Open>
+    <High>0.306936</High>
+    <Low>0.298814</Low>
+    <Close>0.305778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-06</Date>
+    <Open>0.305578</Open>
+    <High>0.307004</High>
+    <Low>0.29275</Low>
+    <Close>0.294812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-07</Date>
+    <Open>0.2949</Open>
+    <High>0.295993</High>
+    <Low>0.292191</Low>
+    <Close>0.293343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-08</Date>
+    <Open>0.293343</Open>
+    <High>0.293846</High>
+    <Low>0.27599</Low>
+    <Close>0.27701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-09</Date>
+    <Open>0.276905</Open>
+    <High>0.28048</High>
+    <Low>0.276131</Low>
+    <Close>0.27998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-10</Date>
+    <Open>0.279826</Open>
+    <High>0.292334</High>
+    <Low>0.278434</Low>
+    <Close>0.288159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-11</Date>
+    <Open>0.288188</Open>
+    <High>0.303073</High>
+    <Low>0.288159</Low>
+    <Close>0.292993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-12</Date>
+    <Open>0.292692</Open>
+    <High>0.292692</High>
+    <Low>0.274565</Low>
+    <Close>0.282926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-13</Date>
+    <Open>0.282826</Open>
+    <High>0.28357</High>
+    <Low>0.27984</Low>
+    <Close>0.281369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-14</Date>
+    <Open>0.281369</Open>
+    <High>0.283742</High>
+    <Low>0.279139</Low>
+    <Close>0.28277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-15</Date>
+    <Open>0.28287</Open>
+    <High>0.2856</High>
+    <Low>0.279668</Low>
+    <Close>0.284199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-16</Date>
+    <Open>0.284299</Open>
+    <High>0.284599</High>
+    <Low>0.277111</Low>
+    <Close>0.27954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-17</Date>
+    <Open>0.279312</Open>
+    <High>0.282941</High>
+    <Low>0.27401</Low>
+    <Close>0.282513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-18</Date>
+    <Open>0.282513</Open>
+    <High>0.290845</High>
+    <Low>0.277311</Low>
+    <Close>0.280812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-19</Date>
+    <Open>0.280712</Open>
+    <High>0.282641</High>
+    <Low>0.27862</Low>
+    <Close>0.281182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-20</Date>
+    <Open>0.281341</Open>
+    <High>0.282454</High>
+    <Low>0.279112</Low>
+    <Close>0.281553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-21</Date>
+    <Open>0.281653</Open>
+    <High>0.284099</High>
+    <Low>0.279568</Low>
+    <Close>0.281569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-22</Date>
+    <Open>0.281441</Open>
+    <High>0.287672</High>
+    <Low>0.28034</Low>
+    <Close>0.285343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-23</Date>
+    <Open>0.285334</Open>
+    <High>0.291358</High>
+    <Low>0.284771</Low>
+    <Close>0.290317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-24</Date>
+    <Open>0.290317</Open>
+    <High>0.292526</High>
+    <Low>0.276408</Low>
+    <Close>0.279683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-25</Date>
+    <Open>0.279586</Open>
+    <High>0.282166</High>
+    <Low>0.275594</Low>
+    <Close>0.281906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-26</Date>
+    <Open>0.281908</Open>
+    <High>0.285611</High>
+    <Low>0.280706</Low>
+    <Close>0.283957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-27</Date>
+    <Open>0.283957</Open>
+    <High>0.284197</High>
+    <Low>0.28179</Low>
+    <Close>0.284111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ELF">
+    <Date>2023-05-28</Date>
+    <Open>0.284185</Open>
+    <High>0.291279</High>
+    <Low>0.284014</Low>
+    <Close>0.290967</Close>
+  </Cryptocurrency>
+</Root>

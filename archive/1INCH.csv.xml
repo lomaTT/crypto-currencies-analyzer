@@ -1,0 +1,6107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-08</Date>
+    <Open>1.3</Open>
+    <High>1.357</High>
+    <Low>1.143</Low>
+    <Close>1.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-09</Date>
+    <Open>1.2</Open>
+    <High>1.34</High>
+    <Low>1.114</Low>
+    <Close>1.244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-10</Date>
+    <Open>1.244</Open>
+    <High>1.547</High>
+    <Low>1.1</Low>
+    <Close>1.224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-11</Date>
+    <Open>1.224</Open>
+    <High>1.224</High>
+    <Low>0.9543</Low>
+    <Close>1.127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-12</Date>
+    <Open>1.127</Open>
+    <High>1.21</High>
+    <Low>1.049</Low>
+    <Close>1.117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-13</Date>
+    <Open>1.117</Open>
+    <High>1.325</High>
+    <Low>1.054</Low>
+    <Close>1.274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-14</Date>
+    <Open>1.274</Open>
+    <High>1.403</High>
+    <Low>1.265</Low>
+    <Close>1.329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-15</Date>
+    <Open>1.329</Open>
+    <High>1.534</High>
+    <Low>1.161</Low>
+    <Close>1.348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-16</Date>
+    <Open>1.348</Open>
+    <High>1.832</High>
+    <Low>1.342</Low>
+    <Close>1.644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-17</Date>
+    <Open>1.644</Open>
+    <High>2.166</High>
+    <Low>1.581</Low>
+    <Close>2.012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-18</Date>
+    <Open>2.012</Open>
+    <High>2.077</High>
+    <Low>1.763</Low>
+    <Close>1.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-19</Date>
+    <Open>1.88</Open>
+    <High>2.097</High>
+    <Low>1.811</Low>
+    <Close>1.903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-20</Date>
+    <Open>1.903</Open>
+    <High>1.979</High>
+    <Low>1.639</Low>
+    <Close>1.846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-21</Date>
+    <Open>1.846</Open>
+    <High>1.897</High>
+    <Low>1.541</Low>
+    <Close>1.589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-22</Date>
+    <Open>1.589</Open>
+    <High>1.85</High>
+    <Low>1.417</Low>
+    <Close>1.761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-23</Date>
+    <Open>1.761</Open>
+    <High>1.999</High>
+    <Low>1.715</Low>
+    <Close>1.949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-24</Date>
+    <Open>1.949</Open>
+    <High>2.498</High>
+    <Low>1.888</Low>
+    <Close>2.491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-25</Date>
+    <Open>2.491</Open>
+    <High>2.713</High>
+    <Low>2.302</Low>
+    <Close>2.358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-26</Date>
+    <Open>2.358</Open>
+    <High>2.686</High>
+    <Low>2.18</Low>
+    <Close>2.686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-27</Date>
+    <Open>2.686</Open>
+    <High>2.733</High>
+    <Low>2.233</Low>
+    <Close>2.518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-28</Date>
+    <Open>2.518</Open>
+    <High>3.368</High>
+    <Low>2.44</Low>
+    <Close>3.122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-29</Date>
+    <Open>3.122</Open>
+    <High>3.5</High>
+    <Low>2.85</Low>
+    <Close>3.341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-30</Date>
+    <Open>3.341</Open>
+    <High>4.676</High>
+    <Low>3.187</Low>
+    <Close>4.565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-01-31</Date>
+    <Open>4.565</Open>
+    <High>5.555</High>
+    <Low>4.468</Low>
+    <Close>4.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-01</Date>
+    <Open>4.94</Open>
+    <High>5.339</High>
+    <Low>4.364</Low>
+    <Close>5.053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-02</Date>
+    <Open>5.053</Open>
+    <High>5.108</High>
+    <Low>4.503</Low>
+    <Close>4.665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-03</Date>
+    <Open>4.665</Open>
+    <High>5.274</High>
+    <Low>4.46</Low>
+    <Close>5.037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-04</Date>
+    <Open>5.037</Open>
+    <High>6.1</High>
+    <Low>4.59</Low>
+    <Close>5.598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-05</Date>
+    <Open>5.598</Open>
+    <High>6.325</High>
+    <Low>5.497</Low>
+    <Close>5.824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-06</Date>
+    <Open>5.824</Open>
+    <High>5.947</High>
+    <Low>5.11</Low>
+    <Close>5.247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-07</Date>
+    <Open>5.247</Open>
+    <High>5.3</High>
+    <Low>4.317</Low>
+    <Close>4.974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-08</Date>
+    <Open>4.974</Open>
+    <High>5.492</High>
+    <Low>4.699</Low>
+    <Close>5.347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-09</Date>
+    <Open>5.347</Open>
+    <High>5.369</High>
+    <Low>4.835</Low>
+    <Close>5.054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-10</Date>
+    <Open>5.054</Open>
+    <High>5.439</High>
+    <Low>4.516</Low>
+    <Close>4.854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-11</Date>
+    <Open>4.854</Open>
+    <High>5.99</High>
+    <Low>4.694</Low>
+    <Close>5.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-12</Date>
+    <Open>5.65</Open>
+    <High>5.817</High>
+    <Low>5.024</Low>
+    <Close>5.263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-13</Date>
+    <Open>5.263</Open>
+    <High>6.051</High>
+    <Low>5.112</Low>
+    <Close>5.694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-14</Date>
+    <Open>5.694</Open>
+    <High>6.273</High>
+    <Low>4.75</Low>
+    <Close>5.272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-15</Date>
+    <Open>5.272</Open>
+    <High>5.525</High>
+    <Low>4.2</Low>
+    <Close>4.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-16</Date>
+    <Open>4.95</Open>
+    <High>5.194</High>
+    <Low>4.56</Low>
+    <Close>4.774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-17</Date>
+    <Open>4.774</Open>
+    <High>5.073</High>
+    <Low>4.362</Low>
+    <Close>4.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-18</Date>
+    <Open>4.85</Open>
+    <High>5.177</High>
+    <Low>4.7</Low>
+    <Close>4.775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-19</Date>
+    <Open>4.775</Open>
+    <High>4.88</High>
+    <Low>4.5</Low>
+    <Close>4.591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-20</Date>
+    <Open>4.591</Open>
+    <High>5.868</High>
+    <Low>4.338</Low>
+    <Close>5.164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-21</Date>
+    <Open>5.164</Open>
+    <High>5.488</High>
+    <Low>4.924</Low>
+    <Close>5.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-22</Date>
+    <Open>5.06</Open>
+    <High>5.06</High>
+    <Low>3.65</Low>
+    <Close>4.554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-23</Date>
+    <Open>4.554</Open>
+    <High>4.555</High>
+    <Low>2.914</Low>
+    <Close>3.688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-24</Date>
+    <Open>3.688</Open>
+    <High>4.15</High>
+    <Low>3.39</Low>
+    <Close>3.639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-25</Date>
+    <Open>3.639</Open>
+    <High>4.65</High>
+    <Low>3.519</Low>
+    <Close>3.906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-26</Date>
+    <Open>3.906</Open>
+    <High>5.182</High>
+    <Low>3.77</Low>
+    <Close>4.509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-27</Date>
+    <Open>4.509</Open>
+    <High>4.877</High>
+    <Low>4.0</Low>
+    <Close>4.157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-02-28</Date>
+    <Open>4.157</Open>
+    <High>4.161</High>
+    <Low>3.519</Low>
+    <Close>3.817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-01</Date>
+    <Open>3.817</Open>
+    <High>4.23</High>
+    <Low>3.792</Low>
+    <Close>4.103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-02</Date>
+    <Open>4.103</Open>
+    <High>4.374</High>
+    <Low>3.81</Low>
+    <Close>4.022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-03</Date>
+    <Open>4.022</Open>
+    <High>4.317</High>
+    <Low>3.998</Low>
+    <Close>4.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-04</Date>
+    <Open>4.07</Open>
+    <High>4.235</High>
+    <Low>3.755</Low>
+    <Close>3.848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-05</Date>
+    <Open>3.848</Open>
+    <High>3.848</High>
+    <Low>3.52</Low>
+    <Close>3.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-06</Date>
+    <Open>3.73</Open>
+    <High>3.856</High>
+    <Low>3.613</Low>
+    <Close>3.856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-07</Date>
+    <Open>3.856</Open>
+    <High>4.107</High>
+    <Low>3.783</Low>
+    <Close>4.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-08</Date>
+    <Open>4.0</Open>
+    <High>4.459</High>
+    <Low>3.476</Low>
+    <Close>4.311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-09</Date>
+    <Open>4.311</Open>
+    <High>5.251</High>
+    <Low>4.214</Low>
+    <Close>4.433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-10</Date>
+    <Open>4.433</Open>
+    <High>4.525</High>
+    <Low>3.52</Low>
+    <Close>4.005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-11</Date>
+    <Open>3.991</Open>
+    <High>4.143</High>
+    <Low>3.907</Low>
+    <Close>4.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-12</Date>
+    <Open>4.003</Open>
+    <High>4.14</High>
+    <Low>3.696</Low>
+    <Close>3.803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-13</Date>
+    <Open>3.803</Open>
+    <High>4.229</High>
+    <Low>3.634</Low>
+    <Close>4.101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-14</Date>
+    <Open>4.101</Open>
+    <High>4.217</High>
+    <Low>3.835</Low>
+    <Close>3.841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-15</Date>
+    <Open>3.841</Open>
+    <High>4.377</High>
+    <Low>3.733</Low>
+    <Close>3.938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-16</Date>
+    <Open>3.938</Open>
+    <High>4.638</High>
+    <Low>3.792</Low>
+    <Close>4.556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-17</Date>
+    <Open>4.556</Open>
+    <High>5.006</High>
+    <Low>4.255</Low>
+    <Close>5.006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-18</Date>
+    <Open>5.006</Open>
+    <High>5.094</High>
+    <Low>4.546</Low>
+    <Close>4.567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-19</Date>
+    <Open>4.567</Open>
+    <High>5.241</High>
+    <Low>4.468</Low>
+    <Close>4.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-20</Date>
+    <Open>4.89</Open>
+    <High>5.195</High>
+    <Low>4.683</Low>
+    <Close>4.692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-21</Date>
+    <Open>4.692</Open>
+    <High>4.793</High>
+    <Low>4.51</Low>
+    <Close>4.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-22</Date>
+    <Open>4.67</Open>
+    <High>4.847</High>
+    <Low>4.212</Low>
+    <Close>4.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-23</Date>
+    <Open>4.3</Open>
+    <High>4.467</High>
+    <Low>4.002</Low>
+    <Close>4.088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-24</Date>
+    <Open>4.088</Open>
+    <High>4.34</High>
+    <Low>3.629</Low>
+    <Close>3.724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-25</Date>
+    <Open>3.724</Open>
+    <High>3.871</High>
+    <Low>3.573</Low>
+    <Close>3.667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-26</Date>
+    <Open>3.667</Open>
+    <High>4.035</High>
+    <Low>3.666</Low>
+    <Close>4.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-27</Date>
+    <Open>4.003</Open>
+    <High>4.064</High>
+    <Low>3.803</Low>
+    <Close>3.997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-28</Date>
+    <Open>3.997</Open>
+    <High>4.227</High>
+    <Low>3.938</Low>
+    <Close>4.085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-29</Date>
+    <Open>4.085</Open>
+    <High>4.628</High>
+    <Low>4.025</Low>
+    <Close>4.599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-30</Date>
+    <Open>4.599</Open>
+    <High>4.687</High>
+    <Low>4.435</Low>
+    <Close>4.507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-03-31</Date>
+    <Open>4.507</Open>
+    <High>4.548</High>
+    <Low>4.176</Low>
+    <Close>4.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-01</Date>
+    <Open>4.34</Open>
+    <High>4.513</High>
+    <Low>4.264</Low>
+    <Close>4.448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-02</Date>
+    <Open>4.448</Open>
+    <High>4.696</High>
+    <Low>4.389</Low>
+    <Close>4.672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-03</Date>
+    <Open>4.672</Open>
+    <High>4.798</High>
+    <Low>4.237</Low>
+    <Close>4.246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-04</Date>
+    <Open>4.246</Open>
+    <High>4.699</High>
+    <Low>4.158</Low>
+    <Close>4.569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-05</Date>
+    <Open>4.569</Open>
+    <High>5.367</High>
+    <Low>4.423</Low>
+    <Close>5.306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-06</Date>
+    <Open>5.306</Open>
+    <High>5.827</High>
+    <Low>5.179</Low>
+    <Close>5.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-07</Date>
+    <Open>5.18</Open>
+    <High>5.869</High>
+    <Low>4.55</Low>
+    <Close>5.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-08</Date>
+    <Open>5.56</Open>
+    <High>6.556</High>
+    <Low>5.47</Low>
+    <Close>6.197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-09</Date>
+    <Open>6.197</Open>
+    <High>6.666</High>
+    <Low>5.944</Low>
+    <Close>6.101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-10</Date>
+    <Open>6.101</Open>
+    <High>6.11</High>
+    <Low>5.535</Low>
+    <Close>5.736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-11</Date>
+    <Open>5.736</Open>
+    <High>5.942</High>
+    <Low>5.544</Low>
+    <Close>5.673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-12</Date>
+    <Open>5.673</Open>
+    <High>5.83</High>
+    <Low>5.272</Low>
+    <Close>5.496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-13</Date>
+    <Open>5.496</Open>
+    <High>5.799</High>
+    <Low>5.42</Low>
+    <Close>5.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-14</Date>
+    <Open>5.61</Open>
+    <High>6.012</High>
+    <Low>5.457</Low>
+    <Close>5.879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-15</Date>
+    <Open>5.879</Open>
+    <High>6.4</High>
+    <Low>5.778</Low>
+    <Close>6.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-16</Date>
+    <Open>6.09</Open>
+    <High>6.144</High>
+    <Low>5.606</Low>
+    <Close>5.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-17</Date>
+    <Open>5.82</Open>
+    <High>6.532</High>
+    <Low>5.811</Low>
+    <Close>6.479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-18</Date>
+    <Open>6.479</Open>
+    <High>6.656</High>
+    <Low>4.636</Low>
+    <Close>5.292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-19</Date>
+    <Open>5.292</Open>
+    <High>5.463</High>
+    <Low>4.722</Low>
+    <Close>4.852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-20</Date>
+    <Open>4.852</Open>
+    <High>5.201</High>
+    <Low>4.435</Low>
+    <Close>5.032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-21</Date>
+    <Open>5.032</Open>
+    <High>5.281</High>
+    <Low>4.867</Low>
+    <Close>5.024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-22</Date>
+    <Open>5.024</Open>
+    <High>5.323</High>
+    <Low>4.571</Low>
+    <Close>4.599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-23</Date>
+    <Open>4.599</Open>
+    <High>4.694</High>
+    <Low>3.777</Low>
+    <Close>4.281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-24</Date>
+    <Open>4.281</Open>
+    <High>4.286</High>
+    <Low>3.925</Low>
+    <Close>3.954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-25</Date>
+    <Open>3.954</Open>
+    <High>4.249</High>
+    <Low>3.803</Low>
+    <Close>3.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-26</Date>
+    <Open>3.999</Open>
+    <High>4.574</High>
+    <Low>3.954</Low>
+    <Close>4.549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-27</Date>
+    <Open>4.549</Open>
+    <High>5.156</High>
+    <Low>4.469</Low>
+    <Close>5.128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-28</Date>
+    <Open>5.128</Open>
+    <High>5.756</High>
+    <Low>4.713</Low>
+    <Close>5.556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-29</Date>
+    <Open>5.556</Open>
+    <High>5.904</High>
+    <Low>5.232</Low>
+    <Close>5.472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-04-30</Date>
+    <Open>5.472</Open>
+    <High>5.752</High>
+    <Low>5.342</Low>
+    <Close>5.648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-01</Date>
+    <Open>5.648</Open>
+    <High>5.754</High>
+    <Low>5.365</Low>
+    <Close>5.521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-02</Date>
+    <Open>5.521</Open>
+    <High>5.531</High>
+    <Low>5.168</Low>
+    <Close>5.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-03</Date>
+    <Open>5.36</Open>
+    <High>5.943</High>
+    <Low>5.355</Low>
+    <Close>5.865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-04</Date>
+    <Open>5.865</Open>
+    <High>5.911</High>
+    <Low>5.217</Low>
+    <Close>5.245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-05</Date>
+    <Open>5.245</Open>
+    <High>6.288</High>
+    <Low>5.202</Low>
+    <Close>5.986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-06</Date>
+    <Open>5.986</Open>
+    <High>7.556</High>
+    <Low>5.895</Low>
+    <Close>6.604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-07</Date>
+    <Open>6.604</Open>
+    <High>7.119</High>
+    <Low>6.314</Low>
+    <Close>6.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-08</Date>
+    <Open>6.58</Open>
+    <High>7.88</High>
+    <Low>6.48</Low>
+    <Close>7.492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-09</Date>
+    <Open>7.492</Open>
+    <High>7.532</High>
+    <Low>6.734</Low>
+    <Close>7.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-10</Date>
+    <Open>7.08</Open>
+    <High>7.192</High>
+    <Low>5.678</Low>
+    <Close>6.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-11</Date>
+    <Open>6.19</Open>
+    <High>6.536</High>
+    <Low>5.813</Low>
+    <Close>6.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-12</Date>
+    <Open>6.53</Open>
+    <High>6.92</High>
+    <Low>5.57</Low>
+    <Close>5.591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-13</Date>
+    <Open>5.591</Open>
+    <High>6.079</High>
+    <Low>5.179</Low>
+    <Close>5.584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-14</Date>
+    <Open>5.584</Open>
+    <High>5.94</High>
+    <Low>5.388</Low>
+    <Close>5.742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-15</Date>
+    <Open>5.742</Open>
+    <High>6.051</High>
+    <Low>5.252</Low>
+    <Close>5.264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-16</Date>
+    <Open>5.264</Open>
+    <High>5.264</High>
+    <Low>5.129</Low>
+    <Close>5.129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-17</Date>
+    <Open>5.129</Open>
+    <High>5.147</High>
+    <Low>4.464</Low>
+    <Close>4.703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-18</Date>
+    <Open>4.703</Open>
+    <High>5.401</High>
+    <Low>4.658</Low>
+    <Close>5.273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-19</Date>
+    <Open>5.273</Open>
+    <High>5.421</High>
+    <Low>2.7</Low>
+    <Close>3.231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-20</Date>
+    <Open>3.231</Open>
+    <High>3.961</High>
+    <Low>2.772</Low>
+    <Close>3.608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-21</Date>
+    <Open>3.608</Open>
+    <High>3.815</High>
+    <Low>2.655</Low>
+    <Close>3.119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-22</Date>
+    <Open>3.119</Open>
+    <High>3.222</High>
+    <Low>2.648</Low>
+    <Close>2.726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-23</Date>
+    <Open>2.726</Open>
+    <High>2.888</High>
+    <Low>1.787</Low>
+    <Close>2.342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-24</Date>
+    <Open>2.342</Open>
+    <High>3.011</High>
+    <Low>2.293</Low>
+    <Close>2.947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-25</Date>
+    <Open>2.947</Open>
+    <High>3.101</High>
+    <Low>2.539</Low>
+    <Close>2.893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-26</Date>
+    <Open>2.893</Open>
+    <High>3.467</High>
+    <Low>2.837</Low>
+    <Close>3.429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-27</Date>
+    <Open>3.429</Open>
+    <High>3.441</High>
+    <Low>2.977</Low>
+    <Close>3.273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-28</Date>
+    <Open>3.273</Open>
+    <High>3.369</High>
+    <Low>2.611</Low>
+    <Close>2.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-29</Date>
+    <Open>2.76</Open>
+    <High>2.978</High>
+    <Low>2.444</Low>
+    <Close>2.566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-30</Date>
+    <Open>2.566</Open>
+    <High>2.978</High>
+    <Low>2.409</Low>
+    <Close>2.882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-05-31</Date>
+    <Open>2.882</Open>
+    <High>3.288</High>
+    <Low>2.753</Low>
+    <Close>3.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-01</Date>
+    <Open>3.21</Open>
+    <High>3.268</High>
+    <Low>2.991</Low>
+    <Close>3.121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-02</Date>
+    <Open>3.121</Open>
+    <High>3.566</High>
+    <Low>3.042</Low>
+    <Close>3.374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-03</Date>
+    <Open>3.374</Open>
+    <High>3.594</High>
+    <Low>3.331</Low>
+    <Close>3.494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-04</Date>
+    <Open>3.494</Open>
+    <High>3.683</High>
+    <Low>3.109</Low>
+    <Close>3.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-05</Date>
+    <Open>3.38</Open>
+    <High>4.004</High>
+    <Low>3.34</Low>
+    <Close>3.683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-06</Date>
+    <Open>3.683</Open>
+    <High>4.107</High>
+    <Low>3.64</Low>
+    <Close>3.901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-07</Date>
+    <Open>3.901</Open>
+    <High>3.912</High>
+    <Low>3.35</Low>
+    <Close>3.403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-08</Date>
+    <Open>3.403</Open>
+    <High>3.455</High>
+    <Low>2.867</Low>
+    <Close>3.101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-09</Date>
+    <Open>3.101</Open>
+    <High>3.233</High>
+    <Low>2.882</Low>
+    <Close>3.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-10</Date>
+    <Open>3.19</Open>
+    <High>3.256</High>
+    <Low>2.854</Low>
+    <Close>3.014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-11</Date>
+    <Open>3.014</Open>
+    <High>3.068</High>
+    <Low>2.666</Low>
+    <Close>2.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-12</Date>
+    <Open>2.74</Open>
+    <High>2.838</High>
+    <Low>2.533</Low>
+    <Close>2.727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-13</Date>
+    <Open>2.727</Open>
+    <High>3.044</High>
+    <Low>2.619</Low>
+    <Close>3.006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-14</Date>
+    <Open>3.006</Open>
+    <High>3.852</High>
+    <Low>2.921</Low>
+    <Close>3.683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-15</Date>
+    <Open>3.683</Open>
+    <High>3.796</High>
+    <Low>3.527</Low>
+    <Close>3.747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-16</Date>
+    <Open>3.747</Open>
+    <High>3.944</High>
+    <Low>3.549</Low>
+    <Close>3.596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-17</Date>
+    <Open>3.596</Open>
+    <High>3.734</High>
+    <Low>3.29</Low>
+    <Close>3.411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-18</Date>
+    <Open>3.411</Open>
+    <High>3.426</High>
+    <Low>3.038</Low>
+    <Close>3.166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-19</Date>
+    <Open>3.166</Open>
+    <High>3.211</High>
+    <Low>3.013</Low>
+    <Close>3.021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-20</Date>
+    <Open>3.021</Open>
+    <High>3.492</High>
+    <Low>2.813</Low>
+    <Close>3.402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-21</Date>
+    <Open>3.402</Open>
+    <High>3.466</High>
+    <Low>2.593</Low>
+    <Close>2.671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-22</Date>
+    <Open>2.671</Open>
+    <High>2.856</High>
+    <Low>2.077</Low>
+    <Close>2.399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-23</Date>
+    <Open>2.399</Open>
+    <High>2.834</High>
+    <Low>2.271</Low>
+    <Close>2.612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-24</Date>
+    <Open>2.612</Open>
+    <High>2.785</High>
+    <Low>2.446</Low>
+    <Close>2.726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-25</Date>
+    <Open>2.726</Open>
+    <High>2.79</High>
+    <Low>2.322</Low>
+    <Close>2.344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-26</Date>
+    <Open>2.344</Open>
+    <High>2.454</High>
+    <Low>2.202</Low>
+    <Close>2.352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-27</Date>
+    <Open>2.352</Open>
+    <High>2.519</High>
+    <Low>2.296</Low>
+    <Close>2.508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-28</Date>
+    <Open>2.508</Open>
+    <High>2.611</High>
+    <Low>2.335</Low>
+    <Close>2.474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-29</Date>
+    <Open>2.474</Open>
+    <High>2.702</High>
+    <Low>2.455</Low>
+    <Close>2.542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-06-30</Date>
+    <Open>2.542</Open>
+    <High>2.573</High>
+    <Low>2.339</Low>
+    <Close>2.535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-01</Date>
+    <Open>2.535</Open>
+    <High>2.537</High>
+    <Low>2.316</Low>
+    <Close>2.371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-02</Date>
+    <Open>2.371</Open>
+    <High>2.408</High>
+    <Low>2.264</Low>
+    <Close>2.394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-03</Date>
+    <Open>2.394</Open>
+    <High>2.495</High>
+    <Low>2.334</Low>
+    <Close>2.484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-04</Date>
+    <Open>2.484</Open>
+    <High>2.665</High>
+    <Low>2.412</Low>
+    <Close>2.532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-05</Date>
+    <Open>2.532</Open>
+    <High>2.543</High>
+    <Low>2.349</Low>
+    <Close>2.489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-06</Date>
+    <Open>2.489</Open>
+    <High>2.929</High>
+    <Low>2.486</Low>
+    <Close>2.838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-07</Date>
+    <Open>2.838</Open>
+    <High>2.966</High>
+    <Low>2.745</Low>
+    <Close>2.761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-08</Date>
+    <Open>2.761</Open>
+    <High>2.773</High>
+    <Low>2.458</Low>
+    <Close>2.507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-09</Date>
+    <Open>2.507</Open>
+    <High>2.625</High>
+    <Low>2.409</Low>
+    <Close>2.576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-10</Date>
+    <Open>2.576</Open>
+    <High>2.627</High>
+    <Low>2.432</Low>
+    <Close>2.489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-11</Date>
+    <Open>2.489</Open>
+    <High>2.573</High>
+    <Low>2.433</Low>
+    <Close>2.517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-12</Date>
+    <Open>2.517</Open>
+    <High>2.587</High>
+    <Low>2.376</Low>
+    <Close>2.423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-13</Date>
+    <Open>2.423</Open>
+    <High>2.452</High>
+    <Low>2.284</Low>
+    <Close>2.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-14</Date>
+    <Open>2.32</Open>
+    <High>2.358</High>
+    <Low>2.179</Low>
+    <Close>2.295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-15</Date>
+    <Open>2.295</Open>
+    <High>2.349</High>
+    <Low>2.127</Low>
+    <Close>2.146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-16</Date>
+    <Open>2.146</Open>
+    <High>2.218</High>
+    <Low>1.956</Low>
+    <Close>1.967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-17</Date>
+    <Open>1.967</Open>
+    <High>2.085</High>
+    <Low>1.953</Low>
+    <Close>2.015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-18</Date>
+    <Open>2.015</Open>
+    <High>2.12</High>
+    <Low>1.999</Low>
+    <Close>2.032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-19</Date>
+    <Open>2.032</Open>
+    <High>2.046</High>
+    <Low>1.78</Low>
+    <Close>1.787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-20</Date>
+    <Open>1.787</Open>
+    <High>1.825</High>
+    <Low>1.62</Low>
+    <Close>1.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-21</Date>
+    <Open>1.71</Open>
+    <High>1.916</High>
+    <Low>1.662</Low>
+    <Close>1.828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-22</Date>
+    <Open>1.828</Open>
+    <High>2.082</High>
+    <Low>1.784</Low>
+    <Close>2.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-23</Date>
+    <Open>2.04</Open>
+    <High>2.148</High>
+    <Low>1.945</Low>
+    <Close>2.112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-24</Date>
+    <Open>2.112</Open>
+    <High>2.15</High>
+    <Low>1.988</Low>
+    <Close>2.044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-25</Date>
+    <Open>2.044</Open>
+    <High>2.129</High>
+    <Low>1.95</Low>
+    <Close>2.048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-26</Date>
+    <Open>2.048</Open>
+    <High>2.35</High>
+    <Low>2.021</Low>
+    <Close>2.138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-27</Date>
+    <Open>2.138</Open>
+    <High>2.22</High>
+    <Low>2.076</Low>
+    <Close>2.216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-28</Date>
+    <Open>2.216</Open>
+    <High>2.241</High>
+    <Low>2.136</Low>
+    <Close>2.187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-29</Date>
+    <Open>2.187</Open>
+    <High>2.262</High>
+    <Low>2.146</Low>
+    <Close>2.246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-30</Date>
+    <Open>2.246</Open>
+    <High>2.32</High>
+    <Low>2.169</Low>
+    <Close>2.305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-07-31</Date>
+    <Open>2.305</Open>
+    <High>2.44</High>
+    <Low>2.262</Low>
+    <Close>2.375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-01</Date>
+    <Open>2.375</Open>
+    <High>2.486</High>
+    <Low>2.312</Low>
+    <Close>2.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-02</Date>
+    <Open>2.32</Open>
+    <High>2.39</High>
+    <Low>2.278</Low>
+    <Close>2.305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-03</Date>
+    <Open>2.305</Open>
+    <High>2.345</High>
+    <Low>2.183</Low>
+    <Close>2.224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-04</Date>
+    <Open>2.224</Open>
+    <High>2.41</High>
+    <Low>2.19</Low>
+    <Close>2.343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-05</Date>
+    <Open>2.343</Open>
+    <High>2.436</High>
+    <Low>2.237</Low>
+    <Close>2.419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-06</Date>
+    <Open>2.419</Open>
+    <High>2.563</High>
+    <Low>2.355</Low>
+    <Close>2.512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-07</Date>
+    <Open>2.512</Open>
+    <High>2.718</High>
+    <Low>2.493</Low>
+    <Close>2.704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-08</Date>
+    <Open>2.704</Open>
+    <High>2.71</High>
+    <Low>2.449</Low>
+    <Close>2.491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-09</Date>
+    <Open>2.491</Open>
+    <High>2.833</High>
+    <Low>2.402</Low>
+    <Close>2.759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-10</Date>
+    <Open>2.759</Open>
+    <High>2.865</High>
+    <Low>2.671</Low>
+    <Close>2.792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-11</Date>
+    <Open>2.792</Open>
+    <High>3.1</High>
+    <Low>2.783</Low>
+    <Close>2.936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-12</Date>
+    <Open>2.873</Open>
+    <High>2.88</High>
+    <Low>2.705</Low>
+    <Close>2.809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-13</Date>
+    <Open>2.809</Open>
+    <High>3.074</High>
+    <Low>2.792</Low>
+    <Close>3.071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-14</Date>
+    <Open>3.071</Open>
+    <High>3.11</High>
+    <Low>2.92</Low>
+    <Close>3.059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-15</Date>
+    <Open>3.059</Open>
+    <High>3.09</High>
+    <Low>2.904</Low>
+    <Close>3.048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-16</Date>
+    <Open>3.048</Open>
+    <High>3.289</High>
+    <Low>3.001</Low>
+    <Close>3.035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-17</Date>
+    <Open>3.035</Open>
+    <High>3.394</High>
+    <Low>2.979</Low>
+    <Close>3.075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-18</Date>
+    <Open>3.075</Open>
+    <High>3.259</High>
+    <Low>2.953</Low>
+    <Close>3.111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-19</Date>
+    <Open>3.111</Open>
+    <High>3.46</High>
+    <Low>3.071</Low>
+    <Close>3.426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-20</Date>
+    <Open>3.426</Open>
+    <High>3.617</High>
+    <Low>3.371</Low>
+    <Close>3.447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-21</Date>
+    <Open>3.447</Open>
+    <High>3.535</High>
+    <Low>3.34</Low>
+    <Close>3.366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-22</Date>
+    <Open>3.366</Open>
+    <High>3.5</High>
+    <Low>3.274</Low>
+    <Close>3.389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-23</Date>
+    <Open>3.389</Open>
+    <High>3.491</High>
+    <Low>3.322</Low>
+    <Close>3.408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-24</Date>
+    <Open>3.408</Open>
+    <High>3.503</High>
+    <Low>3.055</Low>
+    <Close>3.067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-25</Date>
+    <Open>3.067</Open>
+    <High>3.198</High>
+    <Low>2.946</Low>
+    <Close>3.177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-26</Date>
+    <Open>3.177</Open>
+    <High>3.211</High>
+    <Low>2.868</Low>
+    <Close>2.921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-27</Date>
+    <Open>2.921</Open>
+    <High>3.277</High>
+    <Low>2.841</Low>
+    <Close>3.216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-28</Date>
+    <Open>3.216</Open>
+    <High>3.359</High>
+    <Low>3.185</Low>
+    <Close>3.286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-29</Date>
+    <Open>3.286</Open>
+    <High>3.322</High>
+    <Low>3.109</Low>
+    <Close>3.156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-30</Date>
+    <Open>3.156</Open>
+    <High>3.171</High>
+    <Low>2.999</Low>
+    <Close>3.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-08-31</Date>
+    <Open>3.01</Open>
+    <High>3.206</High>
+    <Low>2.949</Low>
+    <Close>3.054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-01</Date>
+    <Open>3.054</Open>
+    <High>3.37</High>
+    <Low>2.981</Low>
+    <Close>3.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-02</Date>
+    <Open>3.34</Open>
+    <High>3.434</High>
+    <Low>3.257</Low>
+    <Close>3.351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-03</Date>
+    <Open>3.351</Open>
+    <High>3.671</High>
+    <Low>3.272</Low>
+    <Close>3.573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-04</Date>
+    <Open>3.573</Open>
+    <High>3.776</High>
+    <Low>3.479</Low>
+    <Close>3.681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-05</Date>
+    <Open>3.681</Open>
+    <High>4.009</High>
+    <Low>3.655</Low>
+    <Close>3.834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-06</Date>
+    <Open>3.834</Open>
+    <High>3.96</High>
+    <Low>3.607</Low>
+    <Close>3.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-07</Date>
+    <Open>3.71</Open>
+    <High>3.746</High>
+    <Low>2.579</Low>
+    <Close>2.926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-08</Date>
+    <Open>2.926</Open>
+    <High>3.015</High>
+    <Low>2.587</Low>
+    <Close>2.915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-09</Date>
+    <Open>2.915</Open>
+    <High>3.197</High>
+    <Low>2.833</Low>
+    <Close>3.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-10</Date>
+    <Open>3.03</Open>
+    <High>3.166</High>
+    <Low>2.737</Low>
+    <Close>2.882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-11</Date>
+    <Open>2.882</Open>
+    <High>3.024</High>
+    <Low>2.83</Low>
+    <Close>2.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-12</Date>
+    <Open>2.91</Open>
+    <High>3.115</High>
+    <Low>2.824</Low>
+    <Close>2.989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-13</Date>
+    <Open>2.989</Open>
+    <High>3.014</High>
+    <Low>2.702</Low>
+    <Close>2.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-14</Date>
+    <Open>2.84</Open>
+    <High>3.105</High>
+    <Low>2.816</Low>
+    <Close>3.071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-15</Date>
+    <Open>3.071</Open>
+    <High>3.327</High>
+    <Low>3.014</Low>
+    <Close>3.299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-16</Date>
+    <Open>3.299</Open>
+    <High>3.512</High>
+    <Low>3.188</Low>
+    <Close>3.327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-17</Date>
+    <Open>3.327</Open>
+    <High>3.365</High>
+    <Low>3.017</Low>
+    <Close>3.118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-18</Date>
+    <Open>3.118</Open>
+    <High>3.315</High>
+    <Low>3.064</Low>
+    <Close>3.133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-19</Date>
+    <Open>3.133</Open>
+    <High>3.142</High>
+    <Low>2.907</Low>
+    <Close>2.946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-20</Date>
+    <Open>2.946</Open>
+    <High>2.954</High>
+    <Low>2.514</Low>
+    <Close>2.575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-21</Date>
+    <Open>2.575</Open>
+    <High>2.664</High>
+    <Low>2.256</Low>
+    <Close>2.319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-22</Date>
+    <Open>2.319</Open>
+    <High>2.68</High>
+    <Low>2.264</Low>
+    <Close>2.631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-23</Date>
+    <Open>2.631</Open>
+    <High>2.851</High>
+    <Low>2.565</Low>
+    <Close>2.781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-24</Date>
+    <Open>2.781</Open>
+    <High>2.845</High>
+    <Low>2.37</Low>
+    <Close>2.549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-25</Date>
+    <Open>2.549</Open>
+    <High>2.599</High>
+    <Low>2.444</Low>
+    <Close>2.492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-26</Date>
+    <Open>2.492</Open>
+    <High>2.799</High>
+    <Low>2.228</Low>
+    <Close>2.682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-27</Date>
+    <Open>2.682</Open>
+    <High>2.915</High>
+    <Low>2.514</Low>
+    <Close>2.524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-28</Date>
+    <Open>2.524</Open>
+    <High>2.613</High>
+    <Low>2.365</Low>
+    <Close>2.373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-29</Date>
+    <Open>2.373</Open>
+    <High>2.582</High>
+    <Low>2.364</Low>
+    <Close>2.498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-09-30</Date>
+    <Open>2.498</Open>
+    <High>2.66</High>
+    <Low>2.477</Low>
+    <Close>2.553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-01</Date>
+    <Open>2.553</Open>
+    <High>2.957</High>
+    <Low>2.543</Low>
+    <Close>2.915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-02</Date>
+    <Open>2.915</Open>
+    <High>3.167</High>
+    <Low>2.815</Low>
+    <Close>3.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-03</Date>
+    <Open>3.05</Open>
+    <High>3.251</High>
+    <Low>2.973</Low>
+    <Close>3.082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-04</Date>
+    <Open>3.082</Open>
+    <High>3.217</High>
+    <Low>2.924</Low>
+    <Close>3.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-05</Date>
+    <Open>3.17</Open>
+    <High>3.323</High>
+    <Low>3.14</Low>
+    <Close>3.277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-06</Date>
+    <Open>3.277</Open>
+    <High>3.357</High>
+    <Low>2.975</Low>
+    <Close>3.115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-07</Date>
+    <Open>3.115</Open>
+    <High>3.248</High>
+    <Low>3.025</Low>
+    <Close>3.133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-08</Date>
+    <Open>3.133</Open>
+    <High>3.287</High>
+    <Low>3.087</Low>
+    <Close>3.161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-09</Date>
+    <Open>3.161</Open>
+    <High>3.242</High>
+    <Low>3.13</Low>
+    <Close>3.198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-10</Date>
+    <Open>3.198</Open>
+    <High>3.199</High>
+    <Low>2.941</Low>
+    <Close>2.955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-11</Date>
+    <Open>2.955</Open>
+    <High>3.058</High>
+    <Low>2.817</Low>
+    <Close>2.905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-12</Date>
+    <Open>2.905</Open>
+    <High>2.931</High>
+    <Low>2.702</Low>
+    <Close>2.897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-13</Date>
+    <Open>2.897</Open>
+    <High>2.989</High>
+    <Low>2.826</Low>
+    <Close>2.962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-14</Date>
+    <Open>2.962</Open>
+    <High>3.499</High>
+    <Low>2.954</Low>
+    <Close>3.359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-15</Date>
+    <Open>3.359</Open>
+    <High>3.378</High>
+    <Low>3.043</Low>
+    <Close>3.242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-16</Date>
+    <Open>3.242</Open>
+    <High>3.334</High>
+    <Low>3.186</Low>
+    <Close>3.209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-17</Date>
+    <Open>3.209</Open>
+    <High>3.572</High>
+    <Low>3.158</Low>
+    <Close>3.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-18</Date>
+    <Open>3.48</Open>
+    <High>3.646</High>
+    <Low>3.302</Low>
+    <Close>3.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-19</Date>
+    <Open>3.45</Open>
+    <High>3.768</High>
+    <Low>3.419</Low>
+    <Close>3.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-20</Date>
+    <Open>3.73</Open>
+    <High>4.238</High>
+    <Low>3.661</Low>
+    <Close>4.168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-21</Date>
+    <Open>4.168</Open>
+    <High>4.527</High>
+    <Low>4.058</Low>
+    <Close>4.139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-22</Date>
+    <Open>4.139</Open>
+    <High>4.339</High>
+    <Low>3.938</Low>
+    <Close>4.021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-23</Date>
+    <Open>4.021</Open>
+    <High>4.077</High>
+    <Low>3.829</Low>
+    <Close>4.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-24</Date>
+    <Open>4.02</Open>
+    <High>4.067</High>
+    <Low>3.688</Low>
+    <Close>3.806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-25</Date>
+    <Open>3.806</Open>
+    <High>4.162</High>
+    <Low>3.768</Low>
+    <Close>4.048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-26</Date>
+    <Open>4.048</Open>
+    <High>4.195</High>
+    <Low>3.876</Low>
+    <Close>3.949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-27</Date>
+    <Open>3.949</Open>
+    <High>9.749</High>
+    <Low>3.918</Low>
+    <Close>5.721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-28</Date>
+    <Open>5.721</Open>
+    <High>5.799</High>
+    <Low>4.799</Low>
+    <Close>5.142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-29</Date>
+    <Open>5.142</Open>
+    <High>5.572</High>
+    <Low>4.921</Low>
+    <Close>5.046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-30</Date>
+    <Open>5.046</Open>
+    <High>5.13</High>
+    <Low>4.583</Low>
+    <Close>4.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-10-31</Date>
+    <Open>4.7</Open>
+    <High>4.705</High>
+    <Low>4.309</Low>
+    <Close>4.579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-01</Date>
+    <Open>4.579</Open>
+    <High>4.678</High>
+    <Low>4.237</Low>
+    <Close>4.573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-02</Date>
+    <Open>4.573</Open>
+    <High>4.764</High>
+    <Low>4.402</Low>
+    <Close>4.629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-03</Date>
+    <Open>4.629</Open>
+    <High>4.629</High>
+    <Low>4.334</Low>
+    <Close>4.423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-04</Date>
+    <Open>4.423</Open>
+    <High>4.599</High>
+    <Low>4.346</Low>
+    <Close>4.512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-05</Date>
+    <Open>4.512</Open>
+    <High>4.612</High>
+    <Low>4.373</Low>
+    <Close>4.396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-06</Date>
+    <Open>4.396</Open>
+    <High>4.461</High>
+    <Low>4.18</Low>
+    <Close>4.423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-07</Date>
+    <Open>4.423</Open>
+    <High>4.621</High>
+    <Low>4.368</Low>
+    <Close>4.573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-08</Date>
+    <Open>4.573</Open>
+    <High>4.632</High>
+    <Low>4.426</Low>
+    <Close>4.629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-09</Date>
+    <Open>4.629</Open>
+    <High>4.64</High>
+    <Low>4.419</Low>
+    <Close>4.432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-10</Date>
+    <Open>4.432</Open>
+    <High>4.728</High>
+    <Low>3.803</Low>
+    <Close>4.076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-11</Date>
+    <Open>4.076</Open>
+    <High>4.479</High>
+    <Low>4.006</Low>
+    <Close>4.283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-12</Date>
+    <Open>4.283</Open>
+    <High>4.283</High>
+    <Low>3.98</Low>
+    <Close>4.166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-13</Date>
+    <Open>4.166</Open>
+    <High>4.296</High>
+    <Low>4.107</Low>
+    <Close>4.275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-14</Date>
+    <Open>4.275</Open>
+    <High>4.338</High>
+    <Low>4.147</Low>
+    <Close>4.279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-15</Date>
+    <Open>4.279</Open>
+    <High>4.352</High>
+    <Low>4.129</Low>
+    <Close>4.188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-16</Date>
+    <Open>4.188</Open>
+    <High>4.189</High>
+    <Low>3.601</Low>
+    <Close>3.848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-17</Date>
+    <Open>3.848</Open>
+    <High>3.956</High>
+    <Low>3.701</Low>
+    <Close>3.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-18</Date>
+    <Open>3.93</Open>
+    <High>4.014</High>
+    <Low>3.477</Low>
+    <Close>3.548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-19</Date>
+    <Open>3.548</Open>
+    <High>3.959</High>
+    <Low>3.475</Low>
+    <Close>3.892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-20</Date>
+    <Open>3.892</Open>
+    <High>4.026</High>
+    <Low>3.802</Low>
+    <Close>3.988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-21</Date>
+    <Open>3.988</Open>
+    <High>4.15</High>
+    <Low>3.865</Low>
+    <Close>3.993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-22</Date>
+    <Open>3.993</Open>
+    <High>3.999</High>
+    <Low>3.758</Low>
+    <Close>3.826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-23</Date>
+    <Open>3.826</Open>
+    <High>4.119</High>
+    <Low>3.755</Low>
+    <Close>4.032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-24</Date>
+    <Open>4.032</Open>
+    <High>4.135</High>
+    <Low>3.899</Low>
+    <Close>3.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-25</Date>
+    <Open>3.99</Open>
+    <High>4.309</High>
+    <Low>3.955</Low>
+    <Close>4.252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-26</Date>
+    <Open>4.252</Open>
+    <High>4.261</High>
+    <Low>3.587</Low>
+    <Close>3.673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-27</Date>
+    <Open>3.673</Open>
+    <High>3.803</High>
+    <Low>3.645</Low>
+    <Close>3.711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-28</Date>
+    <Open>3.711</Open>
+    <High>3.711</High>
+    <Low>3.382</Low>
+    <Close>3.655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-29</Date>
+    <Open>3.655</Open>
+    <High>3.78</High>
+    <Low>3.588</Low>
+    <Close>3.759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-11-30</Date>
+    <Open>3.759</Open>
+    <High>3.796</High>
+    <Low>3.521</Low>
+    <Close>3.546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-01</Date>
+    <Open>3.546</Open>
+    <High>4.255</High>
+    <Low>3.525</Low>
+    <Close>3.687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-02</Date>
+    <Open>3.687</Open>
+    <High>3.687</High>
+    <Low>3.41</Low>
+    <Close>3.476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-03</Date>
+    <Open>3.481</Open>
+    <High>3.4868</High>
+    <Low>3.0033</Low>
+    <Close>3.1308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-04</Date>
+    <Open>3.1363</Open>
+    <High>3.1581</High>
+    <Low>1.95</Low>
+    <Close>2.6664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-05</Date>
+    <Open>2.6748</Open>
+    <High>2.8421</High>
+    <Low>2.5313</Low>
+    <Close>2.6066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-06</Date>
+    <Open>2.608</Open>
+    <High>2.6799</High>
+    <Low>2.3721</Low>
+    <Close>2.6703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-07</Date>
+    <Open>2.6776</Open>
+    <High>2.8559</High>
+    <Low>2.6388</Low>
+    <Close>2.6575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-08</Date>
+    <Open>2.6494</Open>
+    <High>2.7884</High>
+    <Low>2.575</Low>
+    <Close>2.7184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-09</Date>
+    <Open>2.7302</Open>
+    <High>2.9666</High>
+    <Low>2.4966</Low>
+    <Close>2.5207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-10</Date>
+    <Open>2.52</Open>
+    <High>2.6555</High>
+    <Low>2.469</Low>
+    <Close>2.5352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-11</Date>
+    <Open>2.5356</Open>
+    <High>2.6185</High>
+    <Low>2.4572</Low>
+    <Close>2.5581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-12</Date>
+    <Open>2.5581</Open>
+    <High>2.6074</High>
+    <Low>2.4916</Low>
+    <Close>2.5668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-13</Date>
+    <Open>2.56</Open>
+    <High>2.65</High>
+    <Low>2.2345</Low>
+    <Close>2.4469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-14</Date>
+    <Open>2.4483</Open>
+    <High>2.5824</High>
+    <Low>2.3658</Low>
+    <Close>2.5394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-15</Date>
+    <Open>2.5394</Open>
+    <High>2.56928</High>
+    <Low>2.32516</Low>
+    <Close>2.52351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-16</Date>
+    <Open>2.52251</Open>
+    <High>2.70281</High>
+    <Low>2.52251</Low>
+    <Close>2.63079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-17</Date>
+    <Open>2.62979</Open>
+    <High>2.73009</High>
+    <Low>2.39196</Low>
+    <Close>2.47599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-18</Date>
+    <Open>2.47599</Open>
+    <High>2.61605</High>
+    <Low>2.42473</Low>
+    <Close>2.48599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-19</Date>
+    <Open>2.48399</Open>
+    <High>2.52201</High>
+    <Low>2.41196</Low>
+    <Close>2.46098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-20</Date>
+    <Open>2.46123</Open>
+    <High>2.46323</High>
+    <Low>2.30046</Low>
+    <Close>2.38171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-21</Date>
+    <Open>2.38071</Open>
+    <High>2.47099</High>
+    <Low>2.35871</Low>
+    <Close>2.45798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-22</Date>
+    <Open>2.45698</Open>
+    <High>2.57003</High>
+    <Low>2.42697</Low>
+    <Close>2.52726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-23</Date>
+    <Open>2.52901</Open>
+    <High>2.89687</High>
+    <Low>2.44149</Low>
+    <Close>2.76138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-24</Date>
+    <Open>2.7611</Open>
+    <High>2.98119</High>
+    <Low>2.72936</Low>
+    <Close>2.75365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-25</Date>
+    <Open>2.75365</Open>
+    <High>2.81769</High>
+    <Low>2.69535</Low>
+    <Close>2.73509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-26</Date>
+    <Open>2.73509</Open>
+    <High>2.79712</High>
+    <Low>2.63432</Low>
+    <Close>2.77339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-27</Date>
+    <Open>2.77239</Open>
+    <High>2.98219</High>
+    <Low>2.7401</Low>
+    <Close>2.82085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-28</Date>
+    <Open>2.81985</Open>
+    <High>2.83585</High>
+    <Low>2.52425</Low>
+    <Close>2.56251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-29</Date>
+    <Open>2.56251</Open>
+    <High>2.59652</High>
+    <Low>2.4</Low>
+    <Close>2.45449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-30</Date>
+    <Open>2.45025</Open>
+    <High>2.52751</High>
+    <Low>2.33823</Low>
+    <Close>2.45449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2021-12-31</Date>
+    <Open>2.45949</Open>
+    <High>2.5145</High>
+    <Low>2.34323</Low>
+    <Close>2.38924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-01</Date>
+    <Open>2.38924</Open>
+    <High>2.53025</High>
+    <Low>2.38395</Low>
+    <Close>2.5125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-02</Date>
+    <Open>2.5135</Open>
+    <High>2.58226</High>
+    <Low>2.46649</Low>
+    <Close>2.56151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-03</Date>
+    <Open>2.56651</Open>
+    <High>2.65827</High>
+    <Low>2.50025</Low>
+    <Close>2.56026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-04</Date>
+    <Open>2.56026</Open>
+    <High>2.59774</High>
+    <Low>2.46475</Low>
+    <Close>2.50475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-05</Date>
+    <Open>2.4985</Open>
+    <High>2.58126</High>
+    <Low>2.19978</Low>
+    <Close>2.30977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-06</Date>
+    <Open>2.30777</Open>
+    <High>2.38676</High>
+    <Low>2.22833</Low>
+    <Close>2.35976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-07</Date>
+    <Open>2.35794</Open>
+    <High>2.36276</High>
+    <Low>2.13257</Low>
+    <Close>2.16478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-08</Date>
+    <Open>2.16378</Open>
+    <High>2.23978</High>
+    <Low>2.04359</Low>
+    <Close>2.159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-09</Date>
+    <Open>2.158</Open>
+    <High>2.201</High>
+    <Low>2.091</Low>
+    <Close>2.163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-10</Date>
+    <Open>2.164</Open>
+    <High>2.18822</High>
+    <Low>1.973</Low>
+    <Close>2.065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-11</Date>
+    <Open>2.066</Open>
+    <High>2.16222</High>
+    <Low>2.03</Low>
+    <Close>2.13221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-12</Date>
+    <Open>2.13021</Open>
+    <High>2.2609</High>
+    <Low>2.13</Low>
+    <Close>2.2419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-13</Date>
+    <Open>2.2409</Open>
+    <High>2.52501</High>
+    <Low>2.21489</Low>
+    <Close>2.37595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-14</Date>
+    <Open>2.37595</Open>
+    <High>2.45122</High>
+    <Low>2.26491</Low>
+    <Close>2.36971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-15</Date>
+    <Open>2.37095</Open>
+    <High>2.42697</High>
+    <Low>2.3387</Low>
+    <Close>2.38519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-16</Date>
+    <Open>2.38519</Open>
+    <High>2.46423</High>
+    <Low>2.35894</Low>
+    <Close>2.43597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-17</Date>
+    <Open>2.43697</Open>
+    <High>2.44998</High>
+    <Low>2.19666</Low>
+    <Close>2.23189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-18</Date>
+    <Open>2.23189</Open>
+    <High>2.27891</High>
+    <Low>2.11685</Low>
+    <Close>2.21166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-19</Date>
+    <Open>2.21066</Open>
+    <High>2.21088</High>
+    <Low>2.06262</Low>
+    <Close>2.11964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-20</Date>
+    <Open>2.11964</Open>
+    <High>2.23945</High>
+    <Low>2.06621</Low>
+    <Close>2.08642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-21</Date>
+    <Open>2.08642</Open>
+    <High>2.08742</High>
+    <Low>1.70934</Low>
+    <Close>1.78053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-22</Date>
+    <Open>1.78053</Open>
+    <High>1.86056</High>
+    <Low>1.5053</Low>
+    <Close>1.59748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-23</Date>
+    <Open>1.59648</Open>
+    <High>1.71251</High>
+    <Low>1.58132</Low>
+    <Close>1.63433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-24</Date>
+    <Open>1.63433</Open>
+    <High>1.69634</High>
+    <Low>1.42428</Low>
+    <Close>1.57047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-25</Date>
+    <Open>1.57047</Open>
+    <High>1.61281</High>
+    <Low>1.53246</Low>
+    <Close>1.58779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-26</Date>
+    <Open>1.58627</Open>
+    <High>1.8019</High>
+    <Low>1.57594</Low>
+    <Close>1.61597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-27</Date>
+    <Open>1.61397</Open>
+    <High>1.66066</High>
+    <Low>1.52361</Low>
+    <Close>1.56178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-28</Date>
+    <Open>1.56563</Open>
+    <High>1.75835</High>
+    <Low>1.55162</Low>
+    <Close>1.63549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-29</Date>
+    <Open>1.63733</Open>
+    <High>1.74452</High>
+    <Low>1.63649</Low>
+    <Close>1.71752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-30</Date>
+    <Open>1.71651</Open>
+    <High>1.72952</High>
+    <Low>1.62549</Low>
+    <Close>1.64949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-01-31</Date>
+    <Open>1.64996</Open>
+    <High>1.69425</High>
+    <Low>1.57563</Low>
+    <Close>1.68144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-01</Date>
+    <Open>1.6805</Open>
+    <High>1.74387</High>
+    <Low>1.63782</Low>
+    <Close>1.71703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-02</Date>
+    <Open>1.71686</Open>
+    <High>1.74887</High>
+    <Low>1.60664</Low>
+    <Close>1.6293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-03</Date>
+    <Open>1.63047</Open>
+    <High>1.65766</High>
+    <Low>1.58779</Low>
+    <Close>1.64082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-04</Date>
+    <Open>1.63912</Open>
+    <High>1.75005</High>
+    <Low>1.63755</Low>
+    <Close>1.7474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-05</Date>
+    <Open>1.7474</Open>
+    <High>1.84829</High>
+    <Low>1.74139</Low>
+    <Close>1.79608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-06</Date>
+    <Open>1.79608</Open>
+    <High>1.85893</High>
+    <Low>1.75905</Low>
+    <Close>1.82173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-07</Date>
+    <Open>1.82173</Open>
+    <High>1.96377</High>
+    <Low>1.80226</Low>
+    <Close>1.93736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-08</Date>
+    <Open>1.93736</Open>
+    <High>1.98339</High>
+    <Low>1.78443</Low>
+    <Close>1.85267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-09</Date>
+    <Open>1.85267</Open>
+    <High>1.95676</High>
+    <Low>1.83847</Low>
+    <Close>1.93493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-10</Date>
+    <Open>1.93493</Open>
+    <High>1.95175</High>
+    <Low>1.78861</Low>
+    <Close>1.82127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-11</Date>
+    <Open>1.82127</Open>
+    <High>1.84347</High>
+    <Low>1.6835</Low>
+    <Close>1.68751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-12</Date>
+    <Open>1.68818</Open>
+    <High>1.74139</High>
+    <Low>1.64799</Low>
+    <Close>1.68884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-13</Date>
+    <Open>1.68884</Open>
+    <High>1.70765</High>
+    <Low>1.61227</Low>
+    <Close>1.6716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-14</Date>
+    <Open>1.676</Open>
+    <High>1.73804</High>
+    <Low>1.62277</Low>
+    <Close>1.69902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-15</Date>
+    <Open>1.69985</Open>
+    <High>1.77907</High>
+    <Low>1.68801</Low>
+    <Close>1.77406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-16</Date>
+    <Open>1.77486</Open>
+    <High>1.8553</High>
+    <Low>1.75005</Low>
+    <Close>1.81309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-17</Date>
+    <Open>1.81409</Open>
+    <High>1.8291</High>
+    <Low>1.64799</Low>
+    <Close>1.67817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-18</Date>
+    <Open>1.67717</Open>
+    <High>1.68018</High>
+    <Low>1.56094</Low>
+    <Close>1.58479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-19</Date>
+    <Open>1.58195</Open>
+    <High>1.60506</High>
+    <Low>1.52276</Low>
+    <Close>1.57765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-20</Date>
+    <Open>1.57729</Open>
+    <High>1.58865</High>
+    <Low>1.45798</Low>
+    <Close>1.51406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-21</Date>
+    <Open>1.51406</Open>
+    <High>1.55262</High>
+    <Low>1.38755</Low>
+    <Close>1.4047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-22</Date>
+    <Open>1.4047</Open>
+    <High>1.43858</High>
+    <Low>1.31339</Low>
+    <Close>1.3947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-23</Date>
+    <Open>1.39794</Open>
+    <High>1.48364</High>
+    <Low>1.39524</Low>
+    <Close>1.41785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-24</Date>
+    <Open>1.41795</Open>
+    <High>1.41911</High>
+    <Low>1.18069</Low>
+    <Close>1.30852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-25</Date>
+    <Open>1.30939</Open>
+    <High>1.45072</High>
+    <Low>1.30939</Low>
+    <Close>1.45072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-26</Date>
+    <Open>1.45072</Open>
+    <High>1.50375</High>
+    <Low>1.41357</Low>
+    <Close>1.43672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-27</Date>
+    <Open>1.43647</Open>
+    <High>1.53862</High>
+    <Low>1.36154</Low>
+    <Close>1.3987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-02-28</Date>
+    <Open>1.39656</Open>
+    <High>1.5026</High>
+    <Low>1.32936</Low>
+    <Close>1.48759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-01</Date>
+    <Open>1.48874</Open>
+    <High>1.55362</High>
+    <Low>1.46759</Low>
+    <Close>1.50445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-02</Date>
+    <Open>1.50445</Open>
+    <High>1.54746</High>
+    <Low>1.46744</Low>
+    <Close>1.50545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-03</Date>
+    <Open>1.50545</Open>
+    <High>1.51445</High>
+    <Low>1.40242</Low>
+    <Close>1.44229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-04</Date>
+    <Open>1.44443</Open>
+    <High>1.45329</High>
+    <Low>1.32326</Low>
+    <Close>1.3404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-05</Date>
+    <Open>1.3384</Open>
+    <High>1.36541</High>
+    <Low>1.30126</Low>
+    <Close>1.35791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-06</Date>
+    <Open>1.35741</Open>
+    <High>1.36997</High>
+    <Low>1.29169</Low>
+    <Close>1.328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-07</Date>
+    <Open>1.3305</Open>
+    <High>1.33327</High>
+    <Low>1.22945</Low>
+    <Close>1.27038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-08</Date>
+    <Open>1.27038</Open>
+    <High>1.32226</High>
+    <Low>1.26525</Low>
+    <Close>1.28126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-09</Date>
+    <Open>1.28006</Open>
+    <High>1.40028</High>
+    <Low>1.27936</Low>
+    <Close>1.36514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-10</Date>
+    <Open>1.36527</Open>
+    <High>1.46058</High>
+    <Low>1.28626</Low>
+    <Close>1.36955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-11</Date>
+    <Open>1.36955</Open>
+    <High>1.38055</High>
+    <Low>1.30639</Low>
+    <Close>1.32813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-12</Date>
+    <Open>1.32827</Open>
+    <High>1.37514</High>
+    <Low>1.31626</Low>
+    <Close>1.34213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-13</Date>
+    <Open>1.34327</Open>
+    <High>1.41628</High>
+    <Low>1.29839</Low>
+    <Close>1.30539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-14</Date>
+    <Open>1.30226</Open>
+    <High>1.34827</High>
+    <Low>1.29413</Low>
+    <Close>1.32126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-15</Date>
+    <Open>1.32226</Open>
+    <High>1.36827</High>
+    <Low>1.28626</Low>
+    <Close>1.3444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-16</Date>
+    <Open>1.3454</Open>
+    <High>1.54146</High>
+    <Low>1.3414</Low>
+    <Close>1.50445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-17</Date>
+    <Open>1.50445</Open>
+    <High>1.54846</High>
+    <Low>1.46144</Low>
+    <Close>1.48574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-18</Date>
+    <Open>1.48559</Open>
+    <High>1.62597</High>
+    <Low>1.45072</Low>
+    <Close>1.61281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-19</Date>
+    <Open>1.61481</Open>
+    <High>1.74405</High>
+    <Low>1.58479</Low>
+    <Close>1.63182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-20</Date>
+    <Open>1.63182</Open>
+    <High>1.66083</High>
+    <Low>1.53061</Low>
+    <Close>1.56863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-21</Date>
+    <Open>1.56878</Open>
+    <High>1.59364</High>
+    <Low>1.51361</Low>
+    <Close>1.54062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-22</Date>
+    <Open>1.54062</Open>
+    <High>1.5938</High>
+    <Low>1.52961</Low>
+    <Close>1.55578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-23</Date>
+    <Open>1.55678</Open>
+    <High>1.62765</High>
+    <Low>1.52376</Low>
+    <Close>1.59764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-24</Date>
+    <Open>1.60264</Open>
+    <High>1.63682</High>
+    <Low>1.56363</Low>
+    <Close>1.62465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-25</Date>
+    <Open>1.62365</Open>
+    <High>1.65799</High>
+    <Low>1.54762</Low>
+    <Close>1.57279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-26</Date>
+    <Open>1.57279</Open>
+    <High>1.63081</High>
+    <Low>1.55578</Low>
+    <Close>1.61581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-27</Date>
+    <Open>1.61881</Open>
+    <High>1.76771</High>
+    <Low>1.61665</Low>
+    <Close>1.7557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-28</Date>
+    <Open>1.75653</Open>
+    <High>1.82673</High>
+    <Low>1.73235</Low>
+    <Close>1.77271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-29</Date>
+    <Open>1.77471</Open>
+    <High>1.91176</High>
+    <Low>1.70451</Low>
+    <Close>1.77088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-30</Date>
+    <Open>1.77071</Open>
+    <High>1.89057</High>
+    <Low>1.70868</Low>
+    <Close>1.85456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-03-31</Date>
+    <Open>1.85356</Open>
+    <High>1.93139</High>
+    <Low>1.72635</Low>
+    <Close>1.77636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-01</Date>
+    <Open>1.77453</Open>
+    <High>1.88594</High>
+    <Low>1.67233</Low>
+    <Close>1.86756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-02</Date>
+    <Open>1.86737</Open>
+    <High>2.09884</High>
+    <Low>1.85737</Low>
+    <Close>1.97479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-03</Date>
+    <Open>1.97279</Open>
+    <High>2.03081</High>
+    <Low>1.87256</Low>
+    <Close>1.97259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-04</Date>
+    <Open>1.97659</Open>
+    <High>2.0046</High>
+    <Low>1.80336</Low>
+    <Close>1.89557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-05</Date>
+    <Open>1.89657</Open>
+    <High>1.93458</High>
+    <Low>1.83255</Low>
+    <Close>1.86219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-06</Date>
+    <Open>1.86337</Open>
+    <High>1.87237</High>
+    <Low>1.606</Low>
+    <Close>1.664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-07</Date>
+    <Open>1.661</Open>
+    <High>1.667</High>
+    <Low>1.57316</Low>
+    <Close>1.64616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-08</Date>
+    <Open>1.64416</Open>
+    <High>1.68534</High>
+    <Low>1.60048</Low>
+    <Close>1.60164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-09</Date>
+    <Open>1.60364</Open>
+    <High>1.6585</High>
+    <Low>1.56547</Low>
+    <Close>1.64649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-10</Date>
+    <Open>1.64649</Open>
+    <High>1.6685</High>
+    <Low>1.59948</Low>
+    <Close>1.63549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-11</Date>
+    <Open>1.63333</Open>
+    <High>1.63516</High>
+    <Low>1.43029</Low>
+    <Close>1.43443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-12</Date>
+    <Open>1.43629</Open>
+    <High>1.5233</High>
+    <Low>1.42143</Low>
+    <Close>1.49945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-13</Date>
+    <Open>1.49845</Open>
+    <High>1.55031</High>
+    <Low>1.4903</Low>
+    <Close>1.53946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-14</Date>
+    <Open>1.54146</Open>
+    <High>1.56947</High>
+    <Low>1.4823</Low>
+    <Close>1.51215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-15</Date>
+    <Open>1.5133</Open>
+    <High>1.54331</High>
+    <Low>1.48715</Low>
+    <Close>1.5193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-16</Date>
+    <Open>1.5203</Open>
+    <High>1.53131</High>
+    <Low>1.48415</Low>
+    <Close>1.5113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-17</Date>
+    <Open>1.51215</Open>
+    <High>1.5233</High>
+    <Low>1.48315</Low>
+    <Close>1.5013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-18</Date>
+    <Open>1.5003</Open>
+    <High>1.5063</High>
+    <Low>1.38014</Low>
+    <Close>1.48945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-19</Date>
+    <Open>1.48845</Open>
+    <High>1.54131</High>
+    <Low>1.47744</Low>
+    <Close>1.5223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-20</Date>
+    <Open>1.5223</Open>
+    <High>1.59032</High>
+    <Low>1.5083</Low>
+    <Close>1.53731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-21</Date>
+    <Open>1.53731</Open>
+    <High>1.63816</High>
+    <Low>1.5073</Low>
+    <Close>1.5073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-22</Date>
+    <Open>1.50715</Open>
+    <High>1.61132</High>
+    <Low>1.47129</Low>
+    <Close>1.48315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-23</Date>
+    <Open>1.4813</Open>
+    <High>1.4823</High>
+    <Low>1.43514</Low>
+    <Close>1.46215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-24</Date>
+    <Open>1.46129</Open>
+    <High>1.46229</High>
+    <Low>1.40528</Low>
+    <Close>1.43029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-25</Date>
+    <Open>1.43029</Open>
+    <High>1.43329</High>
+    <Low>1.31026</Low>
+    <Close>1.40814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-26</Date>
+    <Open>1.40828</Open>
+    <High>1.42614</High>
+    <Low>1.29013</Low>
+    <Close>1.308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-27</Date>
+    <Open>1.30913</Open>
+    <High>1.346</High>
+    <Low>1.264</Low>
+    <Close>1.319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-28</Date>
+    <Open>1.31813</Open>
+    <High>1.35314</High>
+    <Low>1.28313</Low>
+    <Close>1.30513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-29</Date>
+    <Open>1.30513</Open>
+    <High>1.31213</High>
+    <Low>1.228</Low>
+    <Close>1.25113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-04-30</Date>
+    <Open>1.25113</Open>
+    <High>1.35614</High>
+    <Low>1.21112</Low>
+    <Close>1.21512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-01</Date>
+    <Open>1.214</Open>
+    <High>1.21412</High>
+    <Low>1.071</Low>
+    <Close>1.146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-02</Date>
+    <Open>1.147</Open>
+    <High>1.21412</High>
+    <Low>1.12211</Low>
+    <Close>1.19312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-03</Date>
+    <Open>1.194</Open>
+    <High>1.239</High>
+    <Low>1.15477</Low>
+    <Close>1.16988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-04</Date>
+    <Open>1.16588</Open>
+    <High>1.285</High>
+    <Low>1.16088</Low>
+    <Close>1.285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-05</Date>
+    <Open>1.285</Open>
+    <High>1.37972</High>
+    <Low>1.24775</Low>
+    <Close>1.26975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-06</Date>
+    <Open>1.27075</Open>
+    <High>1.36586</High>
+    <Low>1.26387</Low>
+    <Close>1.33787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-07</Date>
+    <Open>1.33487</Open>
+    <High>1.37386</High>
+    <Low>1.27574</Low>
+    <Close>1.28774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-08</Date>
+    <Open>1.28787</Open>
+    <High>1.33047</High>
+    <Low>1.27449</Low>
+    <Close>1.3206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-09</Date>
+    <Open>1.3196</Open>
+    <High>1.36773</High>
+    <Low>1.09967</Low>
+    <Close>1.10778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-10</Date>
+    <Open>1.10878</Open>
+    <High>1.13877</High>
+    <Low>0.9986</Low>
+    <Close>1.01259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-11</Date>
+    <Open>1.01359</Open>
+    <High>1.07457</High>
+    <Low>0.91152</Low>
+    <Close>1.00726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-12</Date>
+    <Open>1.00726</Open>
+    <High>1.05377</High>
+    <Low>0.68183</Low>
+    <Close>0.7828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-13</Date>
+    <Open>0.78388</Open>
+    <High>0.949145</High>
+    <Low>0.76892</Low>
+    <Close>0.9394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-14</Date>
+    <Open>0.9394</Open>
+    <High>0.955086</High>
+    <Low>0.891125</Low>
+    <Close>0.930695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-15</Date>
+    <Open>0.932599</Open>
+    <High>0.971832</High>
+    <Low>0.907727</Low>
+    <Close>0.971735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-16</Date>
+    <Open>0.971832</Open>
+    <High>0.983818</High>
+    <Low>0.909816</Low>
+    <Close>0.92979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-17</Date>
+    <Open>0.934783</Open>
+    <High>0.975925</High>
+    <Low>0.912629</Low>
+    <Close>0.948765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-18</Date>
+    <Open>0.950762</Open>
+    <High>0.968836</High>
+    <Low>0.900918</Low>
+    <Close>0.907818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-19</Date>
+    <Open>0.909816</Open>
+    <High>0.936063</High>
+    <Low>0.890109</Low>
+    <Close>0.916083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-20</Date>
+    <Open>0.916175</Open>
+    <High>0.940341</High>
+    <Low>0.905185</Low>
+    <Close>0.914901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-21</Date>
+    <Open>0.9159</Open>
+    <High>0.969738</High>
+    <Low>0.905912</Low>
+    <Close>0.946768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-22</Date>
+    <Open>0.946768</Open>
+    <High>1.01568</High>
+    <Low>0.94477</Low>
+    <Close>0.988713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-23</Date>
+    <Open>0.988812</Open>
+    <High>1.05273</High>
+    <Low>0.970736</Low>
+    <Close>0.97383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-24</Date>
+    <Open>0.97383</Open>
+    <High>1.02887</High>
+    <Low>0.942867</Low>
+    <Close>0.992708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-25</Date>
+    <Open>0.992608</Open>
+    <High>1.00669</High>
+    <Low>0.952951</Low>
+    <Close>0.974926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-26</Date>
+    <Open>0.974829</Open>
+    <High>0.979921</High>
+    <Low>0.888932</Low>
+    <Close>0.921078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-27</Date>
+    <Open>0.922077</Open>
+    <High>0.92907</High>
+    <Low>0.885114</Low>
+    <Close>0.8991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-28</Date>
+    <Open>0.896976</Open>
+    <High>0.926036</High>
+    <Low>0.88879</Low>
+    <Close>0.918924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-29</Date>
+    <Open>0.918905</Open>
+    <High>0.927026</High>
+    <Low>0.896022</Low>
+    <Close>0.915991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-30</Date>
+    <Open>0.915982</Open>
+    <High>0.997301</High>
+    <Low>0.908999</Low>
+    <Close>0.991306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-05-31</Date>
+    <Open>0.991206</Open>
+    <High>1.01319</High>
+    <Low>0.958233</Low>
+    <Close>0.968225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-01</Date>
+    <Open>0.968225</Open>
+    <High>0.993205</High>
+    <Low>0.942962</Low>
+    <Close>0.945149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-02</Date>
+    <Open>0.945054</Open>
+    <High>0.958137</High>
+    <Low>0.89919</Low>
+    <Close>0.919172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-03</Date>
+    <Open>0.919172</Open>
+    <High>0.936157</High>
+    <Low>0.859097</Low>
+    <Close>0.876237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-04</Date>
+    <Open>0.876237</Open>
+    <High>0.881162</High>
+    <Low>0.851148</Low>
+    <Close>0.864343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-05</Date>
+    <Open>0.865351</Open>
+    <High>0.870303</High>
+    <Low>0.849311</Low>
+    <Close>0.863188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-06</Date>
+    <Open>0.863188</Open>
+    <High>0.897246</High>
+    <Low>0.855187</Low>
+    <Close>0.870268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-07</Date>
+    <Open>0.871268</Open>
+    <High>0.877245</High>
+    <Low>0.818328</Low>
+    <Close>0.862292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-08</Date>
+    <Open>0.86231</Open>
+    <High>0.86734</High>
+    <Low>0.807499</Low>
+    <Close>0.828461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-09</Date>
+    <Open>0.827462</Open>
+    <High>0.831459</High>
+    <Low>0.797314</Low>
+    <Close>0.804324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-10</Date>
+    <Open>0.804316</Open>
+    <High>0.805331</High>
+    <Low>0.74219</Low>
+    <Close>0.76502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-11</Date>
+    <Open>0.765027</Open>
+    <High>0.771174</High>
+    <Low>0.689137</Low>
+    <Close>0.699202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-12</Date>
+    <Open>0.699202</Open>
+    <High>0.719165</High>
+    <Low>0.649084</Low>
+    <Close>0.671173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-13</Date>
+    <Open>0.671173</Open>
+    <High>0.671173</High>
+    <Low>0.564438</Low>
+    <Close>0.592176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-14</Date>
+    <Open>0.593174</Open>
+    <High>0.600219</High>
+    <Low>0.552176</Low>
+    <Close>0.577306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-15</Date>
+    <Open>0.576308</Open>
+    <High>0.605333</High>
+    <Low>0.536033</Low>
+    <Close>0.603094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-16</Date>
+    <Open>0.602096</Open>
+    <High>0.62975</High>
+    <Low>0.586595</Low>
+    <Close>0.592229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-17</Date>
+    <Open>0.578195</Open>
+    <High>0.601263</High>
+    <Low>0.57151</Low>
+    <Close>0.589692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-18</Date>
+    <Open>0.592294</Open>
+    <High>0.598992</High>
+    <Low>0.513239</Low>
+    <Close>0.538127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-19</Date>
+    <Open>0.538127</Open>
+    <High>0.584298</High>
+    <Low>0.528212</Low>
+    <Close>0.580245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-20</Date>
+    <Open>0.5808</Open>
+    <High>0.723204</High>
+    <Low>0.5573</Low>
+    <Close>0.670262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-21</Date>
+    <Open>0.667265</Open>
+    <High>0.735117</High>
+    <Low>0.656212</Low>
+    <Close>0.692238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-22</Date>
+    <Open>0.693306</Open>
+    <High>0.74925</High>
+    <Low>0.645354</Low>
+    <Close>0.695304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-23</Date>
+    <Open>0.694305</Open>
+    <High>0.712287</High>
+    <Low>0.666333</Low>
+    <Close>0.696303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-24</Date>
+    <Open>0.696303</Open>
+    <High>0.772382</High>
+    <Low>0.695304</Low>
+    <Close>0.765403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-25</Date>
+    <Open>0.766233</Open>
+    <High>0.782217</High>
+    <Low>0.695534</Low>
+    <Close>0.730488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-26</Date>
+    <Open>0.73148</Open>
+    <High>0.78567</High>
+    <Low>0.717569</Low>
+    <Close>0.732546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-27</Date>
+    <Open>0.732553</Open>
+    <High>0.73256</High>
+    <Low>0.647391</Low>
+    <Close>0.668405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-28</Date>
+    <Open>0.668391</Open>
+    <High>0.807265</High>
+    <Low>0.640615</Low>
+    <Close>0.765058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-29</Date>
+    <Open>0.764051</Open>
+    <High>0.778073</High>
+    <Low>0.69409</Low>
+    <Close>0.71813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-06-30</Date>
+    <Open>0.718137</Open>
+    <High>0.750211</High>
+    <Low>0.662204</Low>
+    <Close>0.670195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-01</Date>
+    <Open>0.670195</Open>
+    <High>0.712144</High>
+    <Low>0.644097</Low>
+    <Close>0.653281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-02</Date>
+    <Open>0.6533</Open>
+    <High>0.6612</High>
+    <Low>0.6205</Low>
+    <Close>0.64063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-03</Date>
+    <Open>0.639767</Open>
+    <High>0.641429</High>
+    <Low>0.608647</Low>
+    <Close>0.626984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-04</Date>
+    <Open>0.629648</Open>
+    <High>0.638014</High>
+    <Low>0.606421</Low>
+    <Close>0.631983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-05</Date>
+    <Open>0.628245</Open>
+    <High>0.65721</High>
+    <Low>0.598281</Low>
+    <Close>0.622315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-06</Date>
+    <Open>0.622315</Open>
+    <High>0.631305</High>
+    <Low>0.609329</Low>
+    <Close>0.621316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-07</Date>
+    <Open>0.622614</Open>
+    <High>0.653542</High>
+    <Low>0.618619</Low>
+    <Close>0.646612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-08</Date>
+    <Open>0.645612</Open>
+    <High>0.718497</High>
+    <Low>0.636427</Low>
+    <Close>0.690585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-09</Date>
+    <Open>0.690585</Open>
+    <High>0.713572</High>
+    <Low>0.672529</Low>
+    <Close>0.684589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-10</Date>
+    <Open>0.68552</Open>
+    <High>0.706576</High>
+    <Low>0.633556</Low>
+    <Close>0.646612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-11</Date>
+    <Open>0.646612</Open>
+    <High>0.659604</High>
+    <Low>0.608391</Low>
+    <Close>0.611449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-12</Date>
+    <Open>0.612571</Open>
+    <High>0.612571</High>
+    <Low>0.565377</Low>
+    <Close>0.570429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-13</Date>
+    <Open>0.573343</Open>
+    <High>0.588711</High>
+    <Low>0.542403</Low>
+    <Close>0.578978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-14</Date>
+    <Open>0.575082</Open>
+    <High>0.624925</High>
+    <Low>0.567146</Low>
+    <Close>0.609234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-15</Date>
+    <Open>0.609134</Open>
+    <High>0.694483</High>
+    <Low>0.604237</Low>
+    <Close>0.656803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-16</Date>
+    <Open>0.654903</Open>
+    <High>0.669866</High>
+    <Low>0.631547</Low>
+    <Close>0.663701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-17</Date>
+    <Open>0.663701</Open>
+    <High>0.682043</High>
+    <Low>0.639108</Low>
+    <Close>0.655829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-18</Date>
+    <Open>0.655669</Open>
+    <High>0.735375</High>
+    <Low>0.642788</Low>
+    <Close>0.708337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-19</Date>
+    <Open>0.708387</Open>
+    <High>0.774399</High>
+    <Low>0.703024</Low>
+    <Close>0.740218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-20</Date>
+    <Open>0.7401</Open>
+    <High>0.749882</High>
+    <Low>0.66852</Low>
+    <Close>0.688834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-21</Date>
+    <Open>0.688834</Open>
+    <High>0.691276</High>
+    <Low>0.647732</Low>
+    <Close>0.685471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-22</Date>
+    <Open>0.685571</Open>
+    <High>0.714693</High>
+    <Low>0.655405</Low>
+    <Close>0.660845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-23</Date>
+    <Open>0.660745</Open>
+    <High>0.702742</High>
+    <Low>0.652026</Low>
+    <Close>0.669727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-24</Date>
+    <Open>0.669767</Open>
+    <High>0.697214</High>
+    <Low>0.667387</Low>
+    <Close>0.68173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-25</Date>
+    <Open>0.683437</Open>
+    <High>0.690031</High>
+    <Low>0.629594</Low>
+    <Close>0.646352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-26</Date>
+    <Open>0.649958</Open>
+    <High>0.651465</High>
+    <Low>0.604648</Low>
+    <Close>0.619287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-27</Date>
+    <Open>0.619287</Open>
+    <High>0.686265</High>
+    <Low>0.614986</Low>
+    <Close>0.681063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-28</Date>
+    <Open>0.680963</Open>
+    <High>0.806393</High>
+    <Low>0.680963</Low>
+    <Close>0.776455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-29</Date>
+    <Open>0.776355</Open>
+    <High>0.784961</High>
+    <Low>0.739751</Low>
+    <Close>0.760812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-30</Date>
+    <Open>0.758611</Open>
+    <High>0.834492</High>
+    <Low>0.755502</Low>
+    <Close>0.78896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-07-31</Date>
+    <Open>0.777864</Open>
+    <High>0.80621</High>
+    <Low>0.757712</Low>
+    <Close>0.780379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-01</Date>
+    <Open>0.780612</Open>
+    <High>0.784004</High>
+    <Low>0.744471</Low>
+    <Close>0.760028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-02</Date>
+    <Open>0.761028</Open>
+    <High>0.780504</High>
+    <Low>0.717408</Low>
+    <Close>0.746527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-03</Date>
+    <Open>0.746449</Open>
+    <High>0.80983</High>
+    <Low>0.724781</Low>
+    <Close>0.793898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-04</Date>
+    <Open>0.796539</Open>
+    <High>0.8328</High>
+    <Low>0.762568</Low>
+    <Close>0.793324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-05</Date>
+    <Open>0.793624</Open>
+    <High>0.852211</High>
+    <Low>0.788255</Low>
+    <Close>0.823256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-06</Date>
+    <Open>0.823656</Open>
+    <High>0.845418</High>
+    <Low>0.808737</Low>
+    <Close>0.81858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-07</Date>
+    <Open>0.818388</Open>
+    <High>0.823389</High>
+    <Low>0.801912</Low>
+    <Close>0.818956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-08</Date>
+    <Open>0.818856</Open>
+    <High>0.863859</High>
+    <Low>0.804597</Low>
+    <Close>0.843001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-09</Date>
+    <Open>0.843601</Open>
+    <High>0.876484</High>
+    <Low>0.793074</Low>
+    <Close>0.809062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-10</Date>
+    <Open>0.809262</Open>
+    <High>0.906045</High>
+    <Low>0.783319</Low>
+    <Close>0.870252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-11</Date>
+    <Open>0.870452</Open>
+    <High>0.891019</High>
+    <Low>0.858643</Low>
+    <Close>0.867708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-12</Date>
+    <Open>0.865707</Open>
+    <High>0.892546</High>
+    <Low>0.846423</Low>
+    <Close>0.868099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-13</Date>
+    <Open>0.874602</Open>
+    <High>0.91071</High>
+    <Low>0.866116</Low>
+    <Close>0.884645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-14</Date>
+    <Open>0.884645</Open>
+    <High>0.892048</High>
+    <Low>0.830916</Low>
+    <Close>0.842061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-15</Date>
+    <Open>0.841852</Open>
+    <High>0.863825</High>
+    <Low>0.813328</Low>
+    <Close>0.819905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-16</Date>
+    <Open>0.819605</Open>
+    <High>0.83315</High>
+    <Low>0.808129</Low>
+    <Close>0.821074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-17</Date>
+    <Open>0.821074</Open>
+    <High>0.842293</High>
+    <Low>0.7736</Low>
+    <Close>0.778054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-18</Date>
+    <Open>0.767061</Open>
+    <High>0.783163</High>
+    <Low>0.759061</Low>
+    <Close>0.766308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-19</Date>
+    <Open>0.762676</Open>
+    <High>0.7673</High>
+    <Low>0.655666</Low>
+    <Close>0.685269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-20</Date>
+    <Open>0.665333</Open>
+    <High>0.701691</High>
+    <Low>0.658093</Low>
+    <Close>0.672093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-21</Date>
+    <Open>0.671787</Open>
+    <High>0.7124</High>
+    <Low>0.67178</Low>
+    <Close>0.707586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-22</Date>
+    <Open>0.707086</Open>
+    <High>0.709128</High>
+    <Low>0.658061</Low>
+    <Close>0.680984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-23</Date>
+    <Open>0.681798</Open>
+    <High>0.725093</High>
+    <Low>0.676465</Low>
+    <Close>0.719714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-24</Date>
+    <Open>0.719528</Open>
+    <High>0.741137</High>
+    <Low>0.708672</Low>
+    <Close>0.737466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-25</Date>
+    <Open>0.736466</Open>
+    <High>0.750932</High>
+    <Low>0.721343</Low>
+    <Close>0.747322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-26</Date>
+    <Open>0.746722</Open>
+    <High>0.751662</High>
+    <Low>0.679193</Low>
+    <Close>0.682368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-27</Date>
+    <Open>0.682368</Open>
+    <High>0.682968</High>
+    <Low>0.644971</Low>
+    <Close>0.65122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-28</Date>
+    <Open>0.65122</Open>
+    <High>0.669093</High>
+    <Low>0.645906</Low>
+    <Close>0.661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-29</Date>
+    <Open>0.6609</Open>
+    <High>0.669847</High>
+    <Low>0.626356</Low>
+    <Close>0.666247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-30</Date>
+    <Open>0.666353</Open>
+    <High>0.684</High>
+    <Low>0.637208</Low>
+    <Close>0.655359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-08-31</Date>
+    <Open>0.655352</Open>
+    <High>0.705921</High>
+    <Low>0.651278</Low>
+    <Close>0.678793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-01</Date>
+    <Open>0.679793</Open>
+    <High>0.683507</High>
+    <Low>0.641787</Low>
+    <Close>0.66516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-02</Date>
+    <Open>0.66406</Open>
+    <High>0.737874</High>
+    <Low>0.66346</Low>
+    <Close>0.710607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-03</Date>
+    <Open>0.711514</Open>
+    <High>0.716322</High>
+    <Low>0.678</Low>
+    <Close>0.6853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-04</Date>
+    <Open>0.6853</Open>
+    <High>0.6917</High>
+    <Low>0.6583</Low>
+    <Close>0.6691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-05</Date>
+    <Open>0.6688</Open>
+    <High>0.676768</High>
+    <Low>0.649</Low>
+    <Close>0.656566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-06</Date>
+    <Open>0.657966</Open>
+    <High>0.675668</High>
+    <Low>0.59854</Low>
+    <Close>0.6146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-07</Date>
+    <Open>0.6089</Open>
+    <High>0.634081</High>
+    <Low>0.593182</Low>
+    <Close>0.630944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-08</Date>
+    <Open>0.630944</Open>
+    <High>0.642203</High>
+    <Low>0.615606</Low>
+    <Close>0.634995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-09</Date>
+    <Open>0.634695</Open>
+    <High>0.675315</High>
+    <Low>0.634389</Low>
+    <Close>0.665233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-10</Date>
+    <Open>0.665133</Open>
+    <High>0.680897</High>
+    <Low>0.645526</Low>
+    <Close>0.655024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-11</Date>
+    <Open>0.654824</Open>
+    <High>0.673122</High>
+    <Low>0.63916</Low>
+    <Close>0.63936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-12</Date>
+    <Open>0.638253</Open>
+    <High>0.673562</High>
+    <Low>0.633558</Low>
+    <Close>0.64863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-13</Date>
+    <Open>0.648617</Open>
+    <High>0.658371</High>
+    <Low>0.5935</Low>
+    <Close>0.595812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-14</Date>
+    <Open>0.595812</Open>
+    <High>0.617537</High>
+    <Low>0.5897</Low>
+    <Close>0.609452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-15</Date>
+    <Open>0.609252</Open>
+    <High>0.619136</High>
+    <Low>0.591706</Low>
+    <Close>0.600646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-16</Date>
+    <Open>0.600646</Open>
+    <High>0.625037</High>
+    <Low>0.582453</Low>
+    <Close>0.622838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-17</Date>
+    <Open>0.622838</Open>
+    <High>0.6252</High>
+    <Low>0.6112</Low>
+    <Close>0.6202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-18</Date>
+    <Open>0.6202</Open>
+    <High>0.6394</High>
+    <Low>0.533847</Low>
+    <Close>0.5765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-19</Date>
+    <Open>0.5763</Open>
+    <High>0.60032</High>
+    <Low>0.5552</Low>
+    <Close>0.59916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-20</Date>
+    <Open>0.59926</Open>
+    <High>0.608122</High>
+    <Low>0.585717</Low>
+    <Close>0.59856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-21</Date>
+    <Open>0.597306</Open>
+    <High>0.605861</High>
+    <Low>0.5574</Low>
+    <Close>0.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-22</Date>
+    <Open>0.5609</Open>
+    <High>0.5968</High>
+    <Low>0.5527</Low>
+    <Close>0.5905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-23</Date>
+    <Open>0.590559</Open>
+    <High>0.6193</High>
+    <Low>0.5848</Low>
+    <Close>0.605439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-24</Date>
+    <Open>0.605558</Open>
+    <High>0.625475</High>
+    <Low>0.603054</Low>
+    <Close>0.604948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-25</Date>
+    <Open>0.6049</Open>
+    <High>0.626763</High>
+    <Low>0.596976</Low>
+    <Close>0.5985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-26</Date>
+    <Open>0.5985</Open>
+    <High>0.6361</High>
+    <Low>0.591182</Low>
+    <Close>0.6236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-27</Date>
+    <Open>0.6229</Open>
+    <High>0.6485</High>
+    <Low>0.60144</Low>
+    <Close>0.60344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-28</Date>
+    <Open>0.6035</Open>
+    <High>0.6115</High>
+    <Low>0.574543</Low>
+    <Close>0.5881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-29</Date>
+    <Open>0.5875</Open>
+    <High>0.5923</High>
+    <Low>0.572643</Low>
+    <Close>0.580558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-09-30</Date>
+    <Open>0.583</Open>
+    <High>0.590218</High>
+    <Low>0.5749</Low>
+    <Close>0.5791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-01</Date>
+    <Open>0.576858</Open>
+    <High>0.580458</High>
+    <Low>0.5714</Low>
+    <Close>0.5729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-02</Date>
+    <Open>0.5729</Open>
+    <High>0.5775</High>
+    <Low>0.553</Low>
+    <Close>0.5664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-03</Date>
+    <Open>0.5663</Open>
+    <High>0.574415</High>
+    <Low>0.5448</Low>
+    <Close>0.572057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-04</Date>
+    <Open>0.572357</Open>
+    <High>0.589577</High>
+    <Low>0.570157</Low>
+    <Close>0.585576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-05</Date>
+    <Open>0.586917</Open>
+    <High>0.589018</High>
+    <Low>0.5677</Low>
+    <Close>0.581316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-06</Date>
+    <Open>0.581316</Open>
+    <High>0.593807</High>
+    <Low>0.576575</Low>
+    <Close>0.580099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-07</Date>
+    <Open>0.580099</Open>
+    <High>0.641719</High>
+    <Low>0.572274</Low>
+    <Close>0.611086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-08</Date>
+    <Open>0.610785</Open>
+    <High>0.625131</High>
+    <Low>0.594607</Low>
+    <Close>0.600256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-09</Date>
+    <Open>0.597155</Open>
+    <High>0.611861</High>
+    <Low>0.592877</Low>
+    <Close>0.60002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-10</Date>
+    <Open>0.59996</Open>
+    <High>0.618862</High>
+    <Low>0.580742</Low>
+    <Close>0.588141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-11</Date>
+    <Open>0.5888</Open>
+    <High>0.5902</High>
+    <Low>0.557905</Low>
+    <Close>0.562549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-12</Date>
+    <Open>0.562449</Open>
+    <High>0.573783</High>
+    <Low>0.558516</Low>
+    <Close>0.571317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-13</Date>
+    <Open>0.571317</Open>
+    <High>0.572706</High>
+    <Low>0.535289</Low>
+    <Close>0.564445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-14</Date>
+    <Open>0.566045</Open>
+    <High>0.578546</High>
+    <Low>0.554628</Low>
+    <Close>0.556417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-15</Date>
+    <Open>0.556422</Open>
+    <High>0.569151</High>
+    <Low>0.552617</Low>
+    <Close>0.564628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-16</Date>
+    <Open>0.5645</Open>
+    <High>0.572429</High>
+    <Low>0.558639</Low>
+    <Close>0.569223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-17</Date>
+    <Open>0.568828</Open>
+    <High>0.577006</High>
+    <Low>0.562289</Low>
+    <Close>0.574911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-18</Date>
+    <Open>0.5749</Open>
+    <High>0.582429</High>
+    <Low>0.561594</Low>
+    <Close>0.575034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-19</Date>
+    <Open>0.574957</Open>
+    <High>0.582517</High>
+    <Low>0.5576</Low>
+    <Close>0.5757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-20</Date>
+    <Open>0.5762</Open>
+    <High>0.580617</High>
+    <Low>0.55475</Low>
+    <Close>0.559661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-21</Date>
+    <Open>0.559661</Open>
+    <High>0.56864</High>
+    <Low>0.543384</Low>
+    <Close>0.566845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-22</Date>
+    <Open>0.56684</Open>
+    <High>0.573034</High>
+    <Low>0.558011</Low>
+    <Close>0.568151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-23</Date>
+    <Open>0.568151</Open>
+    <High>0.578964</High>
+    <Low>0.559256</Low>
+    <Close>0.575381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-24</Date>
+    <Open>0.575269</Open>
+    <High>0.580835</High>
+    <Low>0.560611</Low>
+    <Close>0.567723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-25</Date>
+    <Open>0.569223</Open>
+    <High>0.593202</High>
+    <Low>0.565123</Low>
+    <Close>0.580886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-26</Date>
+    <Open>0.581298</Open>
+    <High>0.617391</High>
+    <Low>0.579922</Low>
+    <Close>0.616673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-27</Date>
+    <Open>0.617179</Open>
+    <High>0.622424</High>
+    <Low>0.593042</Low>
+    <Close>0.599536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-28</Date>
+    <Open>0.599536</Open>
+    <High>0.621543</High>
+    <Low>0.584329</Low>
+    <Close>0.617824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-29</Date>
+    <Open>0.618017</Open>
+    <High>0.63638</High>
+    <Low>0.609777</Low>
+    <Close>0.627844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-30</Date>
+    <Open>0.627851</Open>
+    <High>0.633727</High>
+    <Low>0.60182</Low>
+    <Close>0.606721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-10-31</Date>
+    <Open>0.606721</Open>
+    <High>0.644213</High>
+    <Low>0.603733</Low>
+    <Close>0.619163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-01</Date>
+    <Open>0.619163</Open>
+    <High>0.62385</High>
+    <Low>0.605873</Low>
+    <Close>0.610739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-02</Date>
+    <Open>0.610239</Open>
+    <High>0.610333</High>
+    <Low>0.577277</Low>
+    <Close>0.586365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-03</Date>
+    <Open>0.586365</Open>
+    <High>0.615982</High>
+    <Low>0.584982</Low>
+    <Close>0.607594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-04</Date>
+    <Open>0.607394</Open>
+    <High>0.651959</High>
+    <Low>0.603188</Low>
+    <Close>0.648752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-05</Date>
+    <Open>0.648452</Open>
+    <High>0.664133</High>
+    <Low>0.641451</Low>
+    <Close>0.649232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-06</Date>
+    <Open>0.649526</Open>
+    <High>0.674313</High>
+    <Low>0.633232</Low>
+    <Close>0.646145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-07</Date>
+    <Open>0.645852</Open>
+    <High>0.660453</High>
+    <Low>0.622737</Low>
+    <Close>0.629982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-08</Date>
+    <Open>0.629889</Open>
+    <High>0.6393</High>
+    <Low>0.513066</Low>
+    <Close>0.546735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-09</Date>
+    <Open>0.546836</Open>
+    <High>0.565428</High>
+    <Low>0.518287</Low>
+    <Close>0.529007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-10</Date>
+    <Open>0.533462</Open>
+    <High>0.633682</High>
+    <Low>0.521063</Low>
+    <Close>0.571393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-11</Date>
+    <Open>0.571848</Open>
+    <High>0.662345</High>
+    <Low>0.540908</Low>
+    <Close>0.55511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-12</Date>
+    <Open>0.554988</Open>
+    <High>0.565701</High>
+    <Low>0.496904</Low>
+    <Close>0.508184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-13</Date>
+    <Open>0.505688</Open>
+    <High>0.528506</High>
+    <Low>0.490649</Low>
+    <Close>0.51358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-14</Date>
+    <Open>0.513683</Open>
+    <High>0.524517</High>
+    <Low>0.475134</Low>
+    <Close>0.511232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-15</Date>
+    <Open>0.510907</Open>
+    <High>0.542103</High>
+    <Low>0.507338</Low>
+    <Close>0.533566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-16</Date>
+    <Open>0.532749</Open>
+    <High>0.542956</High>
+    <Low>0.513645</Low>
+    <Close>0.523818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-17</Date>
+    <Open>0.523776</Open>
+    <High>0.525595</High>
+    <Low>0.503861</Low>
+    <Close>0.516897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-18</Date>
+    <Open>0.516797</Open>
+    <High>0.532888</High>
+    <Low>0.513479</Low>
+    <Close>0.526893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-19</Date>
+    <Open>0.526893</Open>
+    <High>0.541693</High>
+    <Low>0.518093</Low>
+    <Close>0.537036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-20</Date>
+    <Open>0.537915</Open>
+    <High>0.540556</High>
+    <Low>0.501248</Low>
+    <Close>0.50593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-21</Date>
+    <Open>0.505935</Open>
+    <High>0.5068</High>
+    <Low>0.488708</Low>
+    <Close>0.501692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-22</Date>
+    <Open>0.501897</Open>
+    <High>0.531367</High>
+    <Low>0.500194</Low>
+    <Close>0.530951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-23</Date>
+    <Open>0.533406</Open>
+    <High>0.541544</High>
+    <Low>0.528417</Low>
+    <Close>0.538612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-24</Date>
+    <Open>0.538607</Open>
+    <High>0.546493</High>
+    <Low>0.521377</Low>
+    <Close>0.522456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-25</Date>
+    <Open>0.522456</Open>
+    <High>0.527231</High>
+    <Low>0.511913</Low>
+    <Close>0.512008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-26</Date>
+    <Open>0.512641</Open>
+    <High>0.526395</High>
+    <Low>0.512198</Low>
+    <Close>0.518394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-27</Date>
+    <Open>0.518394</Open>
+    <High>0.552768</High>
+    <Low>0.514501</Low>
+    <Close>0.529966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-28</Date>
+    <Open>0.530088</Open>
+    <High>0.539225</High>
+    <Low>0.49983</Low>
+    <Close>0.515904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-29</Date>
+    <Open>0.515909</Open>
+    <High>0.524033</High>
+    <Low>0.510501</Low>
+    <Close>0.517508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-11-30</Date>
+    <Open>0.518908</Open>
+    <High>0.529925</High>
+    <Low>0.51169</Low>
+    <Close>0.523326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-01</Date>
+    <Open>0.523416</Open>
+    <High>0.527479</High>
+    <Low>0.505315</Low>
+    <Close>0.509131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-02</Date>
+    <Open>0.508931</Open>
+    <High>0.512246</High>
+    <Low>0.49585</Low>
+    <Close>0.50063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-03</Date>
+    <Open>0.50213</Open>
+    <High>0.505651</High>
+    <Low>0.488798</Low>
+    <Close>0.491949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-04</Date>
+    <Open>0.488949</Open>
+    <High>0.49895</High>
+    <Low>0.482196</Low>
+    <Close>0.49735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-05</Date>
+    <Open>0.49725</Open>
+    <High>0.50424</High>
+    <Low>0.480824</Low>
+    <Close>0.48261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-06</Date>
+    <Open>0.482748</Open>
+    <High>0.489705</High>
+    <Low>0.467891</Low>
+    <Close>0.471595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-07</Date>
+    <Open>0.471791</Open>
+    <High>0.4763</High>
+    <Low>0.429717</Low>
+    <Close>0.4411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-08</Date>
+    <Open>0.442618</Open>
+    <High>0.448531</High>
+    <Low>0.4308</Low>
+    <Close>0.447731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-09</Date>
+    <Open>0.447831</Open>
+    <High>0.450532</High>
+    <Low>0.438318</Low>
+    <Close>0.438613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-10</Date>
+    <Open>0.438613</Open>
+    <High>0.447604</High>
+    <Low>0.438418</Low>
+    <Close>0.444491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-11</Date>
+    <Open>0.4436</Open>
+    <High>0.451</High>
+    <Low>0.437844</Low>
+    <Close>0.439244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-12</Date>
+    <Open>0.439188</Open>
+    <High>0.439188</High>
+    <Low>0.412937</Low>
+    <Close>0.429539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-13</Date>
+    <Open>0.429439</Open>
+    <High>0.44388</High>
+    <Low>0.416804</Low>
+    <Close>0.441194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-14</Date>
+    <Open>0.441194</Open>
+    <High>0.444691</High>
+    <Low>0.428404</Low>
+    <Close>0.431326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-15</Date>
+    <Open>0.43123</Open>
+    <High>0.436187</High>
+    <Low>0.422642</Low>
+    <Close>0.424885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-16</Date>
+    <Open>0.424842</Open>
+    <High>0.430143</High>
+    <Low>0.364136</Low>
+    <Close>0.386339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-17</Date>
+    <Open>0.386739</Open>
+    <High>0.389862</High>
+    <Low>0.375141</Low>
+    <Close>0.38215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-18</Date>
+    <Open>0.382138</Open>
+    <High>0.39062</High>
+    <Low>0.382046</Low>
+    <Close>0.38565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-19</Date>
+    <Open>0.389755</Open>
+    <High>0.400332</High>
+    <Low>0.382769</Low>
+    <Close>0.3844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-20</Date>
+    <Open>0.384092</Open>
+    <High>0.404136</High>
+    <Low>0.378904</Low>
+    <Close>0.403816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-21</Date>
+    <Open>0.403816</Open>
+    <High>0.406316</High>
+    <Low>0.393912</Low>
+    <Close>0.39442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-22</Date>
+    <Open>0.39442</Open>
+    <High>0.401296</High>
+    <Low>0.389177</Low>
+    <Close>0.396533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-23</Date>
+    <Open>0.396533</Open>
+    <High>0.39812</High>
+    <Low>0.390377</Low>
+    <Close>0.39616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-24</Date>
+    <Open>0.396156</Open>
+    <High>0.402364</High>
+    <Low>0.39608</Low>
+    <Close>0.401376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-25</Date>
+    <Open>0.40144</Open>
+    <High>0.401892</High>
+    <Low>0.389445</Low>
+    <Close>0.397748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-26</Date>
+    <Open>0.397852</Open>
+    <High>0.406343</High>
+    <Low>0.396456</Low>
+    <Close>0.404819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-27</Date>
+    <Open>0.404719</Open>
+    <High>0.412376</High>
+    <Low>0.396053</Low>
+    <Close>0.397045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-28</Date>
+    <Open>0.397045</Open>
+    <High>0.401251</High>
+    <Low>0.379687</Low>
+    <Close>0.382693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-29</Date>
+    <Open>0.382697</Open>
+    <High>0.386679</High>
+    <Low>0.374047</Low>
+    <Close>0.375727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-30</Date>
+    <Open>0.375931</Open>
+    <High>0.386322</High>
+    <Low>0.371414</Low>
+    <Close>0.377507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2022-12-31</Date>
+    <Open>0.377507</Open>
+    <High>0.389397</High>
+    <Low>0.373117</Low>
+    <Close>0.387606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-01</Date>
+    <Open>0.387606</Open>
+    <High>0.387606</High>
+    <Low>0.379887</Low>
+    <Close>0.386418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-02</Date>
+    <Open>0.386368</Open>
+    <High>0.399672</High>
+    <Low>0.378845</Low>
+    <Close>0.397577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-03</Date>
+    <Open>0.397669</Open>
+    <High>0.399872</High>
+    <Low>0.382443</Low>
+    <Close>0.38435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-04</Date>
+    <Open>0.384454</Open>
+    <High>0.402743</High>
+    <Low>0.383754</Low>
+    <Close>0.39357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-05</Date>
+    <Open>0.39357</Open>
+    <High>0.39958</High>
+    <Low>0.386841</Low>
+    <Close>0.390563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-06</Date>
+    <Open>0.390783</Open>
+    <High>0.394642</High>
+    <Low>0.38084</Low>
+    <Close>0.393178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-07</Date>
+    <Open>0.393174</Open>
+    <High>0.400488</High>
+    <Low>0.392378</Low>
+    <Close>0.397005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-08</Date>
+    <Open>0.396981</Open>
+    <High>0.407851</High>
+    <Low>0.392937</Low>
+    <Close>0.407751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-09</Date>
+    <Open>0.407751</Open>
+    <High>0.433648</High>
+    <Low>0.406519</Low>
+    <Close>0.423596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-10</Date>
+    <Open>0.4236</Open>
+    <High>0.437087</High>
+    <Low>0.416088</Low>
+    <Close>0.43196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-11</Date>
+    <Open>0.431765</Open>
+    <High>0.433565</High>
+    <Low>0.41395</Low>
+    <Close>0.425891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-12</Date>
+    <Open>0.4259</Open>
+    <High>0.454923</High>
+    <Low>0.42587</Low>
+    <Close>0.44904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-13</Date>
+    <Open>0.44904</Open>
+    <High>0.467856</High>
+    <Low>0.443742</Low>
+    <Close>0.465842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-14</Date>
+    <Open>0.465442</Open>
+    <High>0.50197</High>
+    <Low>0.448908</Low>
+    <Close>0.475824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-15</Date>
+    <Open>0.475824</Open>
+    <High>0.504281</High>
+    <Low>0.470889</Low>
+    <Close>0.494543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-16</Date>
+    <Open>0.494598</Open>
+    <High>0.510958</High>
+    <Low>0.470809</Low>
+    <Close>0.488105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-17</Date>
+    <Open>0.48791</Open>
+    <High>0.49671</High>
+    <Low>0.475838</Low>
+    <Close>0.483448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-18</Date>
+    <Open>0.483453</Open>
+    <High>0.486563</High>
+    <Low>0.439896</Low>
+    <Close>0.445878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-19</Date>
+    <Open>0.446073</Open>
+    <High>0.471948</High>
+    <Low>0.443613</Low>
+    <Close>0.458882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-20</Date>
+    <Open>0.459182</Open>
+    <High>0.486692</High>
+    <Low>0.453505</Low>
+    <Close>0.483182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-21</Date>
+    <Open>0.482987</Open>
+    <High>0.516508</High>
+    <Low>0.482787</Low>
+    <Close>0.508802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-22</Date>
+    <Open>0.510197</Open>
+    <High>0.540486</High>
+    <Low>0.494494</Low>
+    <Close>0.510997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-23</Date>
+    <Open>0.511002</Open>
+    <High>0.551555</High>
+    <Low>0.509197</Low>
+    <Close>0.529285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-24</Date>
+    <Open>0.529479</Open>
+    <High>0.546988</High>
+    <Low>0.502365</Low>
+    <Close>0.511315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-25</Date>
+    <Open>0.511315</Open>
+    <High>0.566874</High>
+    <Low>0.498165</Low>
+    <Close>0.526784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-26</Date>
+    <Open>0.526784</Open>
+    <High>0.548677</High>
+    <Low>0.514651</Low>
+    <Close>0.526242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-27</Date>
+    <Open>0.526237</Open>
+    <High>0.53555</High>
+    <Low>0.506347</Low>
+    <Close>0.529159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-28</Date>
+    <Open>0.528185</Open>
+    <High>0.548932</High>
+    <Low>0.516414</Low>
+    <Close>0.525305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-29</Date>
+    <Open>0.525505</Open>
+    <High>0.540943</High>
+    <Low>0.521215</Low>
+    <Close>0.539827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-30</Date>
+    <Open>0.539227</Open>
+    <High>0.543733</High>
+    <Low>0.4914</Low>
+    <Close>0.502535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-01-31</Date>
+    <Open>0.502135</Open>
+    <High>0.51689</High>
+    <Low>0.500035</Low>
+    <Close>0.509846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-01</Date>
+    <Open>0.51391</Open>
+    <High>0.530127</High>
+    <Low>0.49402</Low>
+    <Close>0.528432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-02</Date>
+    <Open>0.528432</Open>
+    <High>0.575752</High>
+    <Low>0.525326</Low>
+    <Close>0.537307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-03</Date>
+    <Open>0.539581</Open>
+    <High>0.572492</High>
+    <Low>0.535475</Low>
+    <Close>0.561545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-04</Date>
+    <Open>0.561645</Open>
+    <High>0.603648</High>
+    <Low>0.552433</Low>
+    <Close>0.593353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-05</Date>
+    <Open>0.592547</Open>
+    <High>0.621218</High>
+    <Low>0.549043</Low>
+    <Close>0.555139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-06</Date>
+    <Open>0.555139</Open>
+    <High>0.596919</High>
+    <Low>0.555139</Low>
+    <Close>0.561022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-07</Date>
+    <Open>0.561122</Open>
+    <High>0.589606</High>
+    <Low>0.545016</Low>
+    <Close>0.584441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-08</Date>
+    <Open>0.584435</Open>
+    <High>0.597048</High>
+    <Low>0.552606</Low>
+    <Close>0.560545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-09</Date>
+    <Open>0.560539</Open>
+    <High>0.573211</High>
+    <Low>0.511828</Low>
+    <Close>0.517652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-10</Date>
+    <Open>0.516947</Open>
+    <High>0.540943</High>
+    <Low>0.516947</Low>
+    <Close>0.53098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-11</Date>
+    <Open>0.53098</Open>
+    <High>0.539354</High>
+    <Low>0.526153</Low>
+    <Close>0.538248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-12</Date>
+    <Open>0.538308</Open>
+    <High>0.545555</High>
+    <Low>0.521673</Low>
+    <Close>0.529853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-13</Date>
+    <Open>0.533153</Open>
+    <High>0.536236</High>
+    <Low>0.512681</Low>
+    <Close>0.519981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-14</Date>
+    <Open>0.519986</Open>
+    <High>0.542522</High>
+    <Low>0.519881</Low>
+    <Close>0.537515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-15</Date>
+    <Open>0.537526</Open>
+    <High>0.562873</High>
+    <Low>0.533849</Low>
+    <Close>0.562307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-16</Date>
+    <Open>0.562401</Open>
+    <High>0.572314</High>
+    <Low>0.541681</Low>
+    <Close>0.546186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-17</Date>
+    <Open>0.546186</Open>
+    <High>0.57228</High>
+    <Low>0.538254</Low>
+    <Close>0.563851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-18</Date>
+    <Open>0.563856</Open>
+    <High>0.582493</High>
+    <Low>0.562296</Low>
+    <Close>0.571591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-19</Date>
+    <Open>0.571791</Open>
+    <High>0.60159</High>
+    <Low>0.566196</Low>
+    <Close>0.576233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-20</Date>
+    <Open>0.579127</Open>
+    <High>0.616468</High>
+    <Low>0.563569</Low>
+    <Close>0.609324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-21</Date>
+    <Open>0.609624</Open>
+    <High>0.687931</High>
+    <Low>0.604603</Low>
+    <Close>0.670114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-22</Date>
+    <Open>0.679515</Open>
+    <High>0.693518</High>
+    <Low>0.629482</Low>
+    <Close>0.6369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-23</Date>
+    <Open>0.6372</Open>
+    <High>0.645526</High>
+    <Low>0.608703</Low>
+    <Close>0.61388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-24</Date>
+    <Open>0.613786</Open>
+    <High>0.626206</High>
+    <Low>0.583252</Low>
+    <Close>0.591394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-25</Date>
+    <Open>0.591194</Open>
+    <High>0.601954</High>
+    <Low>0.563856</Low>
+    <Close>0.579041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-26</Date>
+    <Open>0.579058</Open>
+    <High>0.597154</High>
+    <Low>0.569511</Low>
+    <Close>0.577335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-27</Date>
+    <Open>0.577029</Open>
+    <High>0.588153</High>
+    <Low>0.563123</Low>
+    <Close>0.573534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-02-28</Date>
+    <Open>0.573529</Open>
+    <High>0.586335</High>
+    <Low>0.565923</Low>
+    <Close>0.569597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-01</Date>
+    <Open>0.569614</Open>
+    <High>0.599348</High>
+    <Low>0.567351</Low>
+    <Close>0.586576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-02</Date>
+    <Open>0.586482</Open>
+    <High>0.589577</High>
+    <Low>0.551478</Low>
+    <Close>0.562751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-03</Date>
+    <Open>0.562745</Open>
+    <High>0.566223</High>
+    <Low>0.504535</Low>
+    <Close>0.522137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-04</Date>
+    <Open>0.522337</Open>
+    <High>0.532159</High>
+    <Low>0.499225</Low>
+    <Close>0.509636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-05</Date>
+    <Open>0.509641</Open>
+    <High>0.530027</High>
+    <Low>0.509636</Low>
+    <Close>0.517557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-06</Date>
+    <Open>0.517562</Open>
+    <High>0.530921</High>
+    <Low>0.510395</Low>
+    <Close>0.527168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-07</Date>
+    <Open>0.527147</Open>
+    <High>0.527952</High>
+    <Low>0.494631</Low>
+    <Close>0.498575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-08</Date>
+    <Open>0.498875</Open>
+    <High>0.509405</High>
+    <Low>0.468481</Low>
+    <Close>0.470572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-09</Date>
+    <Open>0.470553</Open>
+    <High>0.4817</High>
+    <Low>0.433213</Low>
+    <Close>0.434839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-10</Date>
+    <Open>0.434943</Open>
+    <High>0.447672</High>
+    <Low>0.410771</Low>
+    <Close>0.446406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-11</Date>
+    <Open>0.446174</Open>
+    <High>0.46285</High>
+    <Low>0.424859</Low>
+    <Close>0.438815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-12</Date>
+    <Open>0.43821</Open>
+    <High>0.471432</High>
+    <Low>0.432964</Low>
+    <Close>0.470946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-13</Date>
+    <Open>0.471047</Open>
+    <High>0.504907</High>
+    <Low>0.464273</Low>
+    <Close>0.503401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-14</Date>
+    <Open>0.503501</Open>
+    <High>0.540082</High>
+    <Low>0.492334</Low>
+    <Close>0.525255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-15</Date>
+    <Open>0.525054</Open>
+    <High>0.53898</High>
+    <Low>0.482885</Low>
+    <Close>0.488945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-16</Date>
+    <Open>0.488945</Open>
+    <High>0.50096</High>
+    <Low>0.484627</Low>
+    <Close>0.493836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-17</Date>
+    <Open>0.493812</Open>
+    <High>0.517563</High>
+    <Low>0.488367</Low>
+    <Close>0.513832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-18</Date>
+    <Open>0.526487</Open>
+    <High>0.544873</High>
+    <Low>0.521989</Low>
+    <Close>0.527573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-19</Date>
+    <Open>0.527678</Open>
+    <High>0.584561</High>
+    <Low>0.519487</Low>
+    <Close>0.549961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-20</Date>
+    <Open>0.549861</Open>
+    <High>0.559473</High>
+    <Low>0.517575</Low>
+    <Close>0.527719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-21</Date>
+    <Open>0.527724</Open>
+    <High>0.536499</High>
+    <Low>0.502979</Low>
+    <Close>0.533195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-22</Date>
+    <Open>0.533195</Open>
+    <High>0.538312</High>
+    <Low>0.492932</Low>
+    <Close>0.502674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-23</Date>
+    <Open>0.503476</Open>
+    <High>0.530016</High>
+    <Low>0.503476</Low>
+    <Close>0.518276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-24</Date>
+    <Open>0.518271</Open>
+    <High>0.523508</High>
+    <Low>0.497907</Low>
+    <Close>0.506821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-25</Date>
+    <Open>0.507162</Open>
+    <High>0.510789</High>
+    <Low>0.494594</Low>
+    <Close>0.497882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-26</Date>
+    <Open>0.497882</Open>
+    <High>0.515964</High>
+    <Low>0.49578</Low>
+    <Close>0.508174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-27</Date>
+    <Open>0.508158</Open>
+    <High>0.517219</High>
+    <Low>0.484324</Low>
+    <Close>0.487334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-28</Date>
+    <Open>0.485428</Open>
+    <High>0.504936</High>
+    <Low>0.485128</Low>
+    <Close>0.498694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-29</Date>
+    <Open>0.498694</Open>
+    <High>0.518535</High>
+    <Low>0.494734</Low>
+    <Close>0.515893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-30</Date>
+    <Open>0.516155</Open>
+    <High>0.600632</High>
+    <Low>0.510726</Low>
+    <Close>0.57096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-03-31</Date>
+    <Open>0.570354</Open>
+    <High>0.587012</High>
+    <Low>0.537356</Low>
+    <Close>0.556911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-01</Date>
+    <Open>0.557017</Open>
+    <High>0.562157</High>
+    <Low>0.533565</Low>
+    <Close>0.535993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-02</Date>
+    <Open>0.535898</Open>
+    <High>0.541227</High>
+    <Low>0.511717</Low>
+    <Close>0.521823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-03</Date>
+    <Open>0.521823</Open>
+    <High>0.524525</High>
+    <Low>0.499065</Low>
+    <Close>0.510599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-04</Date>
+    <Open>0.511805</Open>
+    <High>0.539551</High>
+    <Low>0.509148</Low>
+    <Close>0.534773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-05</Date>
+    <Open>0.536574</Open>
+    <High>0.558262</High>
+    <Low>0.52451</Low>
+    <Close>0.532492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-06</Date>
+    <Open>0.532292</Open>
+    <High>0.539662</High>
+    <Low>0.523857</Low>
+    <Close>0.533187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-07</Date>
+    <Open>0.532986</Open>
+    <High>0.538569</High>
+    <Low>0.520001</Low>
+    <Close>0.524688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-08</Date>
+    <Open>0.524288</Open>
+    <High>0.536</High>
+    <Low>0.52088</Low>
+    <Close>0.531607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-09</Date>
+    <Open>0.531613</Open>
+    <High>0.535337</High>
+    <Low>0.518085</Low>
+    <Close>0.533757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-10</Date>
+    <Open>0.532873</Open>
+    <High>0.544863</High>
+    <Low>0.519892</Low>
+    <Close>0.542044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-11</Date>
+    <Open>0.541939</Open>
+    <High>0.550756</High>
+    <Low>0.539853</Low>
+    <Close>0.544839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-12</Date>
+    <Open>0.544739</Open>
+    <High>0.546295</High>
+    <Low>0.523085</Low>
+    <Close>0.536818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-13</Date>
+    <Open>0.536618</Open>
+    <High>0.548686</High>
+    <Low>0.532842</Low>
+    <Close>0.545323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-14</Date>
+    <Open>0.545523</Open>
+    <High>0.566422</High>
+    <Low>0.545123</Low>
+    <Close>0.56176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-15</Date>
+    <Open>0.561766</Open>
+    <High>0.571031</High>
+    <Low>0.552113</Low>
+    <Close>0.561305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-16</Date>
+    <Open>0.561299</Open>
+    <High>0.5802</High>
+    <Low>0.557507</Low>
+    <Close>0.576392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-17</Date>
+    <Open>0.576392</Open>
+    <High>0.582589</High>
+    <Low>0.548674</Low>
+    <Close>0.557234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-18</Date>
+    <Open>0.557229</Open>
+    <High>0.579526</High>
+    <Low>0.54888</Low>
+    <Close>0.561195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-19</Date>
+    <Open>0.56099</Open>
+    <High>0.572157</High>
+    <Low>0.508664</Low>
+    <Close>0.50898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-20</Date>
+    <Open>0.508975</Open>
+    <High>0.518814</High>
+    <Low>0.493994</Low>
+    <Close>0.50044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-21</Date>
+    <Open>0.500435</Open>
+    <High>0.521336</High>
+    <Low>0.487807</Low>
+    <Close>0.488946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-22</Date>
+    <Open>0.488946</Open>
+    <High>0.50185</High>
+    <Low>0.487976</Low>
+    <Close>0.501545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-23</Date>
+    <Open>0.501545</Open>
+    <High>0.507536</High>
+    <Low>0.482554</Low>
+    <Close>0.487524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-24</Date>
+    <Open>0.487724</Open>
+    <High>0.50036</High>
+    <Low>0.482795</Low>
+    <Close>0.48981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-25</Date>
+    <Open>0.489815</Open>
+    <High>0.490415</High>
+    <Low>0.470781</Low>
+    <Close>0.488812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-26</Date>
+    <Open>0.488812</Open>
+    <High>0.509792</High>
+    <Low>0.455691</Low>
+    <Close>0.471251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-27</Date>
+    <Open>0.470851</Open>
+    <High>0.494745</High>
+    <Low>0.470483</Low>
+    <Close>0.489371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-28</Date>
+    <Open>0.489357</Open>
+    <High>0.491347</High>
+    <Low>0.475533</Low>
+    <Close>0.481871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-29</Date>
+    <Open>0.481871</Open>
+    <High>0.513439</High>
+    <Low>0.480989</Low>
+    <Close>0.495587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-04-30</Date>
+    <Open>0.495587</Open>
+    <High>0.497108</High>
+    <Low>0.468776</Low>
+    <Close>0.471168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-01</Date>
+    <Open>0.470763</Open>
+    <High>0.474632</High>
+    <Low>0.446865</Low>
+    <Close>0.449921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-02</Date>
+    <Open>0.449917</Open>
+    <High>0.461081</High>
+    <Low>0.448012</Low>
+    <Close>0.460381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-03</Date>
+    <Open>0.460385</Open>
+    <High>0.461086</High>
+    <Low>0.439371</Low>
+    <Close>0.449717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-04</Date>
+    <Open>0.450122</Open>
+    <High>0.458901</High>
+    <Low>0.44827</Low>
+    <Close>0.450162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-05</Date>
+    <Open>0.450167</Open>
+    <High>0.464622</High>
+    <Low>0.448366</Low>
+    <Close>0.46232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-06</Date>
+    <Open>0.462125</Open>
+    <High>0.465761</High>
+    <Low>0.436671</Low>
+    <Close>0.445774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-07</Date>
+    <Open>0.445756</Open>
+    <High>0.455073</High>
+    <Low>0.44364</Low>
+    <Close>0.450226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-08</Date>
+    <Open>0.45102</Open>
+    <High>0.452838</High>
+    <Low>0.390369</Low>
+    <Close>0.399503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-09</Date>
+    <Open>0.399503</Open>
+    <High>0.419419</High>
+    <Low>0.399179</Low>
+    <Close>0.417517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-10</Date>
+    <Open>0.417517</Open>
+    <High>0.42584</High>
+    <Low>0.403844</Low>
+    <Close>0.423823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-11</Date>
+    <Open>0.423623</Open>
+    <High>0.423623</High>
+    <Low>0.398999</Low>
+    <Close>0.402862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-12</Date>
+    <Open>0.402902</Open>
+    <High>0.412806</High>
+    <Low>0.396796</Low>
+    <Close>0.410628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-13</Date>
+    <Open>0.410628</Open>
+    <High>0.415549</High>
+    <Low>0.407504</Low>
+    <Close>0.411406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-14</Date>
+    <Open>0.411506</Open>
+    <High>0.41745</High>
+    <Low>0.405203</Low>
+    <Close>0.412047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-15</Date>
+    <Open>0.411046</Open>
+    <High>0.421353</High>
+    <Low>0.406744</Low>
+    <Close>0.416892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-16</Date>
+    <Open>0.416892</Open>
+    <High>0.420894</High>
+    <Low>0.409646</Low>
+    <Close>0.413307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-17</Date>
+    <Open>0.413265</Open>
+    <High>0.420268</High>
+    <Low>0.405762</Low>
+    <Close>0.415066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-18</Date>
+    <Open>0.414666</Open>
+    <High>0.416208</High>
+    <Low>0.395919</Low>
+    <Close>0.40006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-19</Date>
+    <Open>0.39996</Open>
+    <High>0.403912</High>
+    <Low>0.398244</Low>
+    <Close>0.400516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-20</Date>
+    <Open>0.4006</Open>
+    <High>0.403863</High>
+    <Low>0.398078</Low>
+    <Close>0.402562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-21</Date>
+    <Open>0.402462</Open>
+    <High>0.404402</High>
+    <Low>0.393536</Low>
+    <Close>0.396838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-22</Date>
+    <Open>0.395298</Open>
+    <High>0.399139</High>
+    <Low>0.389895</Low>
+    <Close>0.397199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-23</Date>
+    <Open>0.397199</Open>
+    <High>0.404373</High>
+    <Low>0.395663</Low>
+    <Close>0.399624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-24</Date>
+    <Open>0.399624</Open>
+    <High>0.402112</High>
+    <Low>0.382592</Low>
+    <Close>0.390677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-25</Date>
+    <Open>0.39068</Open>
+    <High>0.395039</High>
+    <Low>0.382673</Low>
+    <Close>0.394512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-26</Date>
+    <Open>0.394658</Open>
+    <High>0.396147</High>
+    <Low>0.386731</Low>
+    <Close>0.395979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-27</Date>
+    <Open>0.396019</Open>
+    <High>0.396195</High>
+    <Low>0.390921</Low>
+    <Close>0.395146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="1INCH">
+    <Date>2023-05-28</Date>
+    <Open>0.395158</Open>
+    <High>0.402913</High>
+    <Low>0.394558</Low>
+    <Close>0.402192</Close>
+  </Cryptocurrency>
+</Root>

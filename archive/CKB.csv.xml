@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-14</Date>
+    <Open>0.00450233</Open>
+    <High>0.0047928</High>
+    <Low>0.00416955</Low>
+    <Close>0.00474335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-15</Date>
+    <Open>0.00476284</Open>
+    <High>0.00548231</High>
+    <Low>0.00453319</Low>
+    <Close>0.00512333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-16</Date>
+    <Open>0.00512384</Open>
+    <High>0.0051638</High>
+    <Low>0.00469483</Low>
+    <Close>0.00487366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-17</Date>
+    <Open>0.00489363</Open>
+    <High>0.00538353</High>
+    <Low>0.00479328</Low>
+    <Close>0.00510336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-18</Date>
+    <Open>0.00512384</Open>
+    <High>0.0051638</High>
+    <Low>0.00478377</Low>
+    <Close>0.00480375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-19</Date>
+    <Open>0.00482324</Open>
+    <High>0.00501498</High>
+    <Low>0.00460401</Low>
+    <Close>0.00494505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-20</Date>
+    <Open>0.00492556</Open>
+    <High>0.00503395</High>
+    <Low>0.0047638</Low>
+    <Close>0.0048242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-21</Date>
+    <Open>0.00483419</Open>
+    <High>0.00503345</High>
+    <Low>0.00477379</Low>
+    <Close>0.00495355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-22</Date>
+    <Open>0.00493358</Open>
+    <High>0.0050734</High>
+    <Low>0.00490313</Low>
+    <Close>0.00502396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-23</Date>
+    <Open>0.00503395</Open>
+    <High>0.00515484</High>
+    <Low>0.00497452</Low>
+    <Close>0.00503395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-24</Date>
+    <Open>0.00503345</Open>
+    <High>0.00504444</High>
+    <Low>0.00477426</Low>
+    <Close>0.00494307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-25</Date>
+    <Open>0.00493358</Open>
+    <High>0.00504394</High>
+    <Low>0.00472432</Low>
+    <Close>0.00477426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-26</Date>
+    <Open>0.00477426</Open>
+    <High>0.00478473</High>
+    <Low>0.00428528</Low>
+    <Close>0.00438561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-27</Date>
+    <Open>0.00440559</Open>
+    <High>0.00442557</High>
+    <Low>0.00415584</Low>
+    <Close>0.00425574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-28</Date>
+    <Open>0.00421515</Open>
+    <High>0.00437553</High>
+    <Low>0.00417477</Low>
+    <Close>0.00433492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-29</Date>
+    <Open>0.00432485</Open>
+    <High>0.00454527</High>
+    <Low>0.00429514</Low>
+    <Close>0.0045153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-30</Date>
+    <Open>0.00452497</Open>
+    <High>0.00504596</High>
+    <Low>0.00451512</Low>
+    <Close>0.00483661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-05-31</Date>
+    <Open>0.00486659</Open>
+    <High>0.00489608</High>
+    <Low>0.00459632</Low>
+    <Close>0.00467579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-01</Date>
+    <Open>0.00467668</Open>
+    <High>0.00475619</High>
+    <Low>0.00443512</Low>
+    <Close>0.00451593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-02</Date>
+    <Open>0.00451548</Open>
+    <High>0.00456589</High>
+    <Low>0.00442601</Low>
+    <Close>0.00453591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-03</Date>
+    <Open>0.00454591</Open>
+    <High>0.0045965</High>
+    <Low>0.00433588</Low>
+    <Close>0.00441615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-04</Date>
+    <Open>0.00441615</Open>
+    <High>0.0044766</High>
+    <Low>0.00435542</Low>
+    <Close>0.0044766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-05</Date>
+    <Open>0.00447668</Open>
+    <High>0.00484549</High>
+    <Low>0.00439608</Low>
+    <Close>0.00474553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-06</Date>
+    <Open>0.00473554</Open>
+    <High>0.00475553</High>
+    <Low>0.00458596</Low>
+    <Close>0.00462611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-07</Date>
+    <Open>0.00462606</Open>
+    <High>0.0046362</High>
+    <Low>0.0043364</Low>
+    <Close>0.00458619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-08</Date>
+    <Open>0.00457634</Open>
+    <High>0.00458651</High>
+    <Low>0.00431706</Low>
+    <Close>0.00437715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-09</Date>
+    <Open>0.00436716</Open>
+    <High>0.0044964</High>
+    <Low>0.00427662</Low>
+    <Close>0.00433635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-10</Date>
+    <Open>0.00432632</Open>
+    <High>0.00433648</High>
+    <Low>0.00401542</Low>
+    <Close>0.00403487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-11</Date>
+    <Open>0.00404482</Open>
+    <High>0.00418531</High>
+    <Low>0.00380531</Low>
+    <Close>0.00395549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-12</Date>
+    <Open>0.00394554</Open>
+    <High>0.00398553</High>
+    <Low>0.00369475</Low>
+    <Close>0.00379533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-13</Date>
+    <Open>0.00377531</Open>
+    <High>0.00379533</High>
+    <Low>0.00328085</Low>
+    <Close>0.0034252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-14</Date>
+    <Open>0.00341525</Open>
+    <High>0.00349559</High>
+    <Low>0.00317533</Low>
+    <Close>0.00339592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-15</Date>
+    <Open>0.00341586</Open>
+    <High>0.00350614</High>
+    <Low>0.00308444</Low>
+    <Close>0.00349475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-16</Date>
+    <Open>0.0034951</Open>
+    <High>0.00351578</High>
+    <Low>0.003326</Low>
+    <Close>0.00335563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-17</Date>
+    <Open>0.00322451</Open>
+    <High>0.00330576</High>
+    <Low>0.00315489</Low>
+    <Close>0.00319616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-18</Date>
+    <Open>0.00320618</Open>
+    <High>0.00322587</High>
+    <Low>0.00279586</Low>
+    <Close>0.00288532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-19</Date>
+    <Open>0.0028953</Open>
+    <High>0.00309628</High>
+    <Low>0.00280581</Low>
+    <Close>0.00306601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-20</Date>
+    <Open>0.00306601</Open>
+    <High>0.00310689</High>
+    <Low>0.00297642</Low>
+    <Close>0.00302636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-21</Date>
+    <Open>0.00302636</Open>
+    <High>0.0045954</High>
+    <Low>0.00301638</Low>
+    <Close>0.00398561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-22</Date>
+    <Open>0.00396563</Open>
+    <High>0.0042957</High>
+    <Low>0.00333633</Low>
+    <Close>0.00343656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-23</Date>
+    <Open>0.00343656</Open>
+    <High>0.00355644</High>
+    <Low>0.00337662</Low>
+    <Close>0.00352647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-24</Date>
+    <Open>0.00355644</Open>
+    <High>0.00372705</High>
+    <Low>0.00348651</Low>
+    <Close>0.00370711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-25</Date>
+    <Open>0.00371628</Open>
+    <High>0.00377622</High>
+    <Low>0.00352774</Low>
+    <Close>0.00366743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-26</Date>
+    <Open>0.00366743</Open>
+    <High>0.00370748</High>
+    <Low>0.00358781</Low>
+    <Close>0.00361776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-27</Date>
+    <Open>0.00360787</Open>
+    <High>0.00375774</High>
+    <Low>0.0035478</Low>
+    <Close>0.0036667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-28</Date>
+    <Open>0.00365656</Open>
+    <High>0.00398637</High>
+    <Low>0.00361681</Low>
+    <Close>0.0036555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-29</Date>
+    <Open>0.00365546</Open>
+    <High>0.0036555</High>
+    <Low>0.00348452</Low>
+    <Close>0.0035457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-06-30</Date>
+    <Open>0.00355573</Open>
+    <High>0.00355573</High>
+    <Low>0.00327577</Low>
+    <Close>0.00334598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-01</Date>
+    <Open>0.00333599</Open>
+    <High>0.00351613</High>
+    <Low>0.003326</Low>
+    <Close>0.00341624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-02</Date>
+    <Open>0.00341624</Open>
+    <High>0.00348581</High>
+    <Low>0.00334598</Low>
+    <Close>0.00345585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-03</Date>
+    <Open>0.00345585</Open>
+    <High>0.00346584</High>
+    <Low>0.0033553</Low>
+    <Close>0.00344552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-04</Date>
+    <Open>0.00344552</Open>
+    <High>0.00355573</High>
+    <Low>0.00337527</Low>
+    <Close>0.00354574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-05</Date>
+    <Open>0.00353575</Open>
+    <High>0.00362601</High>
+    <Low>0.00344586</Low>
+    <Close>0.00361602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-06</Date>
+    <Open>0.00361602</Open>
+    <High>0.00361602</High>
+    <Low>0.00346618</Low>
+    <Close>0.00358605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-07</Date>
+    <Open>0.00357606</Open>
+    <High>0.00379734</High>
+    <Low>0.00351578</Low>
+    <Close>0.00372776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-08</Date>
+    <Open>0.00373776</Open>
+    <High>0.00381694</High>
+    <Low>0.00364781</Low>
+    <Close>0.00372776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-09</Date>
+    <Open>0.00372776</Open>
+    <High>0.00378773</High>
+    <Low>0.00366743</Low>
+    <Close>0.00374775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-10</Date>
+    <Open>0.00374737</Open>
+    <High>0.00375774</High>
+    <Low>0.00355751</Low>
+    <Close>0.00360783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-11</Date>
+    <Open>0.00360783</Open>
+    <High>0.00360783</High>
+    <Low>0.00344758</Low>
+    <Close>0.00345654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-12</Date>
+    <Open>0.00345689</Open>
+    <High>0.00498501</High>
+    <Low>0.00333666</Low>
+    <Close>0.00444555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-13</Date>
+    <Open>0.00444555</Open>
+    <High>0.00448569</High>
+    <Low>0.00361638</Low>
+    <Close>0.00375662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-14</Date>
+    <Open>0.00376661</Open>
+    <High>0.00390765</High>
+    <Low>0.00367706</Low>
+    <Close>0.00381771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-15</Date>
+    <Open>0.00381733</Open>
+    <High>0.00397881</High>
+    <Low>0.00379734</Low>
+    <Close>0.00397881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-16</Date>
+    <Open>0.00397881</Open>
+    <High>0.0046686</High>
+    <Low>0.00391882</Low>
+    <Close>0.00419874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-17</Date>
+    <Open>0.00419916</Open>
+    <High>0.00425898</High>
+    <Low>0.00403871</Low>
+    <Close>0.00409889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-18</Date>
+    <Open>0.00410893</Open>
+    <High>0.00461908</High>
+    <Low>0.00402991</Low>
+    <Close>0.00441898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-19</Date>
+    <Open>0.00442867</Open>
+    <High>0.00477</High>
+    <Low>0.00440899</Low>
+    <Close>0.00459073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-20</Date>
+    <Open>0.00459</Open>
+    <High>0.00460037</High>
+    <Low>0.00413992</Low>
+    <Close>0.00425021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-21</Date>
+    <Open>0.00425025</Open>
+    <High>0.00425025</High>
+    <Low>0.00411041</Low>
+    <Close>0.00423106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-22</Date>
+    <Open>0.00421601</Open>
+    <High>0.00431329</High>
+    <Low>0.00410762</Low>
+    <Close>0.00411762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-23</Date>
+    <Open>0.00412</Open>
+    <High>0.00422292</High>
+    <Low>0.00391692</Low>
+    <Close>0.00401752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-24</Date>
+    <Open>0.00400776</Open>
+    <High>0.00422283</High>
+    <Low>0.00398144</Low>
+    <Close>0.00415183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-25</Date>
+    <Open>0.00412182</Open>
+    <High>0.00480005</High>
+    <Low>0.00390131</Low>
+    <Close>0.00411037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-26</Date>
+    <Open>0.00411037</Open>
+    <High>0.00415037</High>
+    <Low>0.00390008</Low>
+    <Close>0.00396059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-27</Date>
+    <Open>0.00395659</Open>
+    <High>0.00428254</High>
+    <Low>0.00395555</Low>
+    <Close>0.00421901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-28</Date>
+    <Open>0.0042271</Open>
+    <High>0.00448027</High>
+    <Low>0.00417929</Low>
+    <Close>0.00445089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-29</Date>
+    <Open>0.00444111</Open>
+    <High>0.00457119</High>
+    <Low>0.00414132</Low>
+    <Close>0.00448179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-30</Date>
+    <Open>0.00448179</Open>
+    <High>0.00465172</High>
+    <Low>0.00443168</Low>
+    <Close>0.00448152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-07-31</Date>
+    <Open>0.00448166</Open>
+    <High>0.00465121</High>
+    <Low>0.00445125</Low>
+    <Close>0.00447103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-01</Date>
+    <Open>0.00448108</Open>
+    <High>0.00455114</High>
+    <Low>0.00417108</Low>
+    <Close>0.00439127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-02</Date>
+    <Open>0.00439132</Open>
+    <High>0.00449175</High>
+    <Low>0.00425102</Low>
+    <Close>0.00442075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-03</Date>
+    <Open>0.00443884</Open>
+    <High>0.00453045</High>
+    <Low>0.0042926</Low>
+    <Close>0.00448712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-04</Date>
+    <Open>0.00448334</Open>
+    <High>0.00453359</High>
+    <Low>0.0042993</Low>
+    <Close>0.00441113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-05</Date>
+    <Open>0.00440818</Open>
+    <High>0.00495005</High>
+    <Low>0.00433739</Low>
+    <Close>0.00481091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-06</Date>
+    <Open>0.00480091</Open>
+    <High>0.0049</High>
+    <Low>0.00469084</Low>
+    <Close>0.00474104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-07</Date>
+    <Open>0.00474104</Open>
+    <High>0.00492694</High>
+    <Low>0.00460015</Low>
+    <Close>0.00491093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-08</Date>
+    <Open>0.00491493</Open>
+    <High>0.00519104</High>
+    <Low>0.00480062</Low>
+    <Close>0.00481058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-09</Date>
+    <Open>0.00480058</Open>
+    <High>0.00520151</High>
+    <Low>0.00459087</Low>
+    <Close>0.00495099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-10</Date>
+    <Open>0.00494099</Open>
+    <High>0.00532314</High>
+    <Low>0.00474104</Low>
+    <Close>0.00513149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-11</Date>
+    <Open>0.00513154</Open>
+    <High>0.0053125</High>
+    <Low>0.00513149</Low>
+    <Close>0.00516243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-12</Date>
+    <Open>0.00516258</Open>
+    <High>0.00519259</High>
+    <Low>0.00497199</Low>
+    <Close>0.00507233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-13</Date>
+    <Open>0.00506428</Open>
+    <High>0.00531287</High>
+    <Low>0.00503922</Low>
+    <Close>0.00516301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-14</Date>
+    <Open>0.00515201</Open>
+    <High>0.00530902</High>
+    <Low>0.00478848</Low>
+    <Close>0.00496149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-15</Date>
+    <Open>0.00496254</Open>
+    <High>0.00511718</High>
+    <Low>0.0046553</Low>
+    <Close>0.00482416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-16</Date>
+    <Open>0.00481616</Open>
+    <High>0.00506786</High>
+    <Low>0.00470113</Low>
+    <Close>0.00483043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-17</Date>
+    <Open>0.00484044</Open>
+    <High>0.00489054</High>
+    <Low>0.00456991</Low>
+    <Close>0.00458032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-18</Date>
+    <Open>0.00458032</Open>
+    <High>0.0049393</High>
+    <Low>0.004522</Low>
+    <Close>0.00474705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-19</Date>
+    <Open>0.00475248</Open>
+    <High>0.00485749</High>
+    <Low>0.0041</Low>
+    <Close>0.00410041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-20</Date>
+    <Open>0.00411021</Open>
+    <High>0.00447089</High>
+    <Low>0.00399896</Low>
+    <Close>0.00409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-21</Date>
+    <Open>0.00409988</Open>
+    <High>0.00420392</High>
+    <Low>0.00403688</Low>
+    <Close>0.00418692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-22</Date>
+    <Open>0.00418687</Open>
+    <High>0.00418687</High>
+    <Low>0.0039008</Low>
+    <Close>0.00400928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-23</Date>
+    <Open>0.0040084</Open>
+    <High>0.00432496</High>
+    <Low>0.00392996</Low>
+    <Close>0.00419008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-24</Date>
+    <Open>0.00418996</Open>
+    <High>0.00421</High>
+    <Low>0.00407971</Low>
+    <Close>0.00416037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-25</Date>
+    <Open>0.00416637</Open>
+    <High>0.00429874</High>
+    <Low>0.00403324</Low>
+    <Close>0.00422413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-26</Date>
+    <Open>0.00422113</Open>
+    <High>0.0042966</High>
+    <Low>0.00399988</Low>
+    <Close>0.0040034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-27</Date>
+    <Open>0.0040034</Open>
+    <High>0.00401828</High>
+    <Low>0.00381715</Low>
+    <Close>0.00387412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-28</Date>
+    <Open>0.00386604</Open>
+    <High>0.004027</High>
+    <Low>0.00383008</Low>
+    <Close>0.003974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-29</Date>
+    <Open>0.003964</Open>
+    <High>0.00405349</High>
+    <Low>0.00381215</Low>
+    <Close>0.00400824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-30</Date>
+    <Open>0.00401828</Open>
+    <High>0.00409429</High>
+    <Low>0.00379727</Low>
+    <Close>0.00393235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-08-31</Date>
+    <Open>0.00391231</Open>
+    <High>0.00407504</High>
+    <Low>0.00382008</Low>
+    <Close>0.0039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-01</Date>
+    <Open>0.00390592</Open>
+    <High>0.004002</High>
+    <Low>0.00372078</Low>
+    <Close>0.00389177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-02</Date>
+    <Open>0.00389277</Open>
+    <High>0.00397776</High>
+    <Low>0.00380919</Low>
+    <Close>0.00389762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-03</Date>
+    <Open>0.00387462</Open>
+    <High>0.00393063</High>
+    <Low>0.003768</Low>
+    <Close>0.003844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-04</Date>
+    <Open>0.00384</Open>
+    <High>0.00391139</High>
+    <Low>0.003765</Low>
+    <Close>0.003846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-05</Date>
+    <Open>0.003843</Open>
+    <High>0.00390239</High>
+    <Low>0.003677</Low>
+    <Close>0.00375338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-06</Date>
+    <Open>0.00376038</Open>
+    <High>0.00383338</High>
+    <Low>0.00355064</Low>
+    <Close>0.003559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-07</Date>
+    <Open>0.00355921</Open>
+    <High>0.00365489</High>
+    <Low>0.00345886</Low>
+    <Close>0.00356521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-08</Date>
+    <Open>0.00354525</Open>
+    <High>0.00364804</High>
+    <Low>0.0034781</Low>
+    <Close>0.00360058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-09</Date>
+    <Open>0.00360254</Open>
+    <High>0.00382276</High>
+    <Low>0.00354139</Low>
+    <Close>0.00380029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-10</Date>
+    <Open>0.00380141</Open>
+    <High>0.0038817</High>
+    <Low>0.00368536</Low>
+    <Close>0.00384477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-11</Date>
+    <Open>0.00383773</Open>
+    <High>0.00414137</High>
+    <Low>0.00377136</Low>
+    <Close>0.00386093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-12</Date>
+    <Open>0.00384096</Open>
+    <High>0.00397103</High>
+    <Low>0.00379049</Low>
+    <Close>0.00390078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-13</Date>
+    <Open>0.00391066</Open>
+    <High>0.00592006</High>
+    <Low>0.00365</Low>
+    <Close>0.00448009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-14</Date>
+    <Open>0.00452009</Open>
+    <High>0.00547038</High>
+    <Low>0.00411016</Low>
+    <Close>0.00425106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-15</Date>
+    <Open>0.0042411</Open>
+    <High>0.0043303</High>
+    <Low>0.00393965</Low>
+    <Close>0.00394964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-16</Date>
+    <Open>0.00394992</Open>
+    <High>0.00394992</High>
+    <Low>0.00383962</Low>
+    <Close>0.00392961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-17</Date>
+    <Open>0.00393</Open>
+    <High>0.00418042</High>
+    <Low>0.00390961</Low>
+    <Close>0.00406041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-18</Date>
+    <Open>0.00405</Open>
+    <High>0.00409041</High>
+    <Low>0.00371</Low>
+    <Close>0.00373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-19</Date>
+    <Open>0.00371963</Open>
+    <High>0.00436</High>
+    <Low>0.00366037</Low>
+    <Close>0.0039908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-20</Date>
+    <Open>0.0040008</Open>
+    <High>0.00473047</High>
+    <Low>0.00394039</Low>
+    <Close>0.00397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-21</Date>
+    <Open>0.0039604</Open>
+    <High>0.0041</High>
+    <Low>0.00367</Low>
+    <Close>0.00371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-22</Date>
+    <Open>0.00370037</Open>
+    <High>0.00391</High>
+    <Low>0.00359036</Low>
+    <Close>0.00384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-23</Date>
+    <Open>0.00383962</Open>
+    <High>0.00395</High>
+    <Low>0.00366963</Low>
+    <Close>0.00376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-24</Date>
+    <Open>0.00374977</Open>
+    <High>0.00410116</High>
+    <Low>0.00368682</Low>
+    <Close>0.0037373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-25</Date>
+    <Open>0.003767</Open>
+    <High>0.00392916</High>
+    <Low>0.00364936</Low>
+    <Close>0.00382889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-26</Date>
+    <Open>0.00382508</Open>
+    <High>0.00411959</High>
+    <Low>0.00372</Low>
+    <Close>0.0039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-27</Date>
+    <Open>0.00389</Open>
+    <High>0.0039604</High>
+    <Low>0.00374962</Low>
+    <Close>0.00377962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-28</Date>
+    <Open>0.00377</Open>
+    <High>0.00387861</High>
+    <Low>0.00358564</Low>
+    <Close>0.003771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-29</Date>
+    <Open>0.003772</Open>
+    <High>0.00386</High>
+    <Low>0.00363</Low>
+    <Close>0.003732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-09-30</Date>
+    <Open>0.00372137</Open>
+    <High>0.00386839</High>
+    <Low>0.00364836</Low>
+    <Close>0.003741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-01</Date>
+    <Open>0.003704</Open>
+    <High>0.003814</High>
+    <Low>0.003667</Low>
+    <Close>0.003729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-02</Date>
+    <Open>0.003716</Open>
+    <High>0.003848</High>
+    <Low>0.003647</Low>
+    <Close>0.003732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-03</Date>
+    <Open>0.003716</Open>
+    <High>0.00378438</High>
+    <Low>0.003636</Low>
+    <Close>0.00370837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-04</Date>
+    <Open>0.00371037</Open>
+    <High>0.00388078</High>
+    <Low>0.00366873</Low>
+    <Close>0.00383815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-05</Date>
+    <Open>0.00383415</Open>
+    <High>0.00387516</High>
+    <Low>0.003656</Low>
+    <Close>0.00373675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-06</Date>
+    <Open>0.00374067</Open>
+    <High>0.00387962</High>
+    <Low>0.00372052</Low>
+    <Close>0.00377764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-07</Date>
+    <Open>0.00380865</Open>
+    <High>0.0038665</High>
+    <Low>0.00367507</Low>
+    <Close>0.00376053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-08</Date>
+    <Open>0.00376038</Open>
+    <High>0.00382242</High>
+    <Low>0.0037083</Low>
+    <Close>0.00374597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-09</Date>
+    <Open>0.00374697</Open>
+    <High>0.00387978</High>
+    <Low>0.003676</Low>
+    <Close>0.00384877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-10</Date>
+    <Open>0.00383538</Open>
+    <High>0.00421542</High>
+    <Low>0.00376375</Low>
+    <Close>0.00391361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-11</Date>
+    <Open>0.00392</Open>
+    <High>0.00393</High>
+    <Low>0.00366474</Low>
+    <Close>0.00371567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-12</Date>
+    <Open>0.00372255</Open>
+    <High>0.00383869</High>
+    <Low>0.00365271</Low>
+    <Close>0.00373911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-13</Date>
+    <Open>0.00373411</Open>
+    <High>0.003819</High>
+    <Low>0.00350986</Low>
+    <Close>0.0037223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-14</Date>
+    <Open>0.00373534</Open>
+    <High>0.00382027</High>
+    <Low>0.00362829</Low>
+    <Close>0.00369811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-15</Date>
+    <Open>0.00369311</Open>
+    <High>0.00379434</High>
+    <Low>0.00361529</Low>
+    <Close>0.00371619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-16</Date>
+    <Open>0.003759</Open>
+    <High>0.00389831</High>
+    <Low>0.00367122</Low>
+    <Close>0.00379219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-17</Date>
+    <Open>0.00378715</Open>
+    <High>0.00421029</High>
+    <Low>0.00371326</Low>
+    <Close>0.00396008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-18</Date>
+    <Open>0.00396008</Open>
+    <High>0.00450018</High>
+    <Low>0.00393016</Low>
+    <Close>0.00422021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-19</Date>
+    <Open>0.00421025</Open>
+    <High>0.0043303</High>
+    <Low>0.00390004</Low>
+    <Close>0.004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-20</Date>
+    <Open>0.00399996</Open>
+    <High>0.00403004</High>
+    <Low>0.00377962</Low>
+    <Close>0.00380958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-21</Date>
+    <Open>0.00386761</Open>
+    <High>0.00389369</High>
+    <Low>0.00353975</Low>
+    <Close>0.00367422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-22</Date>
+    <Open>0.00367426</Open>
+    <High>0.0037633</High>
+    <Low>0.00349231</Low>
+    <Close>0.00351828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-23</Date>
+    <Open>0.00351928</Open>
+    <High>0.00379027</High>
+    <Low>0.0033502</Low>
+    <Close>0.00366048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-24</Date>
+    <Open>0.0036804</Open>
+    <High>0.00383011</High>
+    <Low>0.00317022</Low>
+    <Close>0.00341017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-25</Date>
+    <Open>0.00340014</Open>
+    <High>0.00365058</High>
+    <Low>0.0033397</Low>
+    <Close>0.00353127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-26</Date>
+    <Open>0.00353717</Open>
+    <High>0.00367292</High>
+    <Low>0.00346197</Low>
+    <Close>0.00358297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-27</Date>
+    <Open>0.00359701</Open>
+    <High>0.00366992</High>
+    <Low>0.00343858</Low>
+    <Close>0.00350921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-28</Date>
+    <Open>0.00354025</Open>
+    <High>0.00354407</High>
+    <Low>0.00318129</Low>
+    <Close>0.00349177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-29</Date>
+    <Open>0.00360068</Open>
+    <High>0.0038208</High>
+    <Low>0.00325091</Low>
+    <Close>0.00337078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-30</Date>
+    <Open>0.00336081</Open>
+    <High>0.00350088</High>
+    <Low>0.00335077</Low>
+    <Close>0.00343069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-10-31</Date>
+    <Open>0.00343072</Open>
+    <High>0.00352796</High>
+    <Low>0.00333893</Low>
+    <Close>0.00341473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-01</Date>
+    <Open>0.0034128</Open>
+    <High>0.00344779</High>
+    <Low>0.00334683</Low>
+    <Close>0.00337963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-02</Date>
+    <Open>0.00337959</Open>
+    <High>0.00344017</High>
+    <Low>0.0033097</Low>
+    <Close>0.00334977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-03</Date>
+    <Open>0.00332983</Open>
+    <High>0.00349958</High>
+    <Low>0.0033198</Low>
+    <Close>0.00343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-04</Date>
+    <Open>0.00342</Open>
+    <High>0.00359025</High>
+    <Low>0.00338969</Low>
+    <Close>0.00355025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-05</Date>
+    <Open>0.00355028</Open>
+    <High>0.00360007</High>
+    <Low>0.00352014</Low>
+    <Close>0.00356018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-06</Date>
+    <Open>0.00355014</Open>
+    <High>0.00361993</High>
+    <Low>0.0035001</Low>
+    <Close>0.00351021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-07</Date>
+    <Open>0.00350035</Open>
+    <High>0.00351042</High>
+    <Low>0.00333027</Low>
+    <Close>0.00340041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-08</Date>
+    <Open>0.00340102</Open>
+    <High>0.00342103</High>
+    <Low>0.00294794</Low>
+    <Close>0.00301903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-09</Date>
+    <Open>0.00301903</Open>
+    <High>0.00309201</High>
+    <Low>0.00266033</Low>
+    <Close>0.00271725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-10</Date>
+    <Open>0.00271539</Open>
+    <High>0.00311243</High>
+    <Low>0.00265893</Low>
+    <Close>0.00287201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-11</Date>
+    <Open>0.00288263</Open>
+    <High>0.00334214</High>
+    <Low>0.00262681</Low>
+    <Close>0.00270054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-12</Date>
+    <Open>0.00268107</Open>
+    <High>0.0027588</High>
+    <Low>0.00256537</Low>
+    <Close>0.00267518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-13</Date>
+    <Open>0.00267518</Open>
+    <High>0.00272536</High>
+    <Low>0.00252646</Low>
+    <Close>0.00254643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-14</Date>
+    <Open>0.00255693</Open>
+    <High>0.00259662</High>
+    <Low>0.0023964</Low>
+    <Close>0.0025664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-15</Date>
+    <Open>0.00254605</Open>
+    <High>0.00261738</High>
+    <Low>0.00252671</Low>
+    <Close>0.00259714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-16</Date>
+    <Open>0.00260682</Open>
+    <High>0.00263752</High>
+    <Low>0.00244733</Low>
+    <Close>0.00248768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-17</Date>
+    <Open>0.00248773</Open>
+    <High>0.00251808</High>
+    <Low>0.00242767</Low>
+    <Close>0.00248806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-18</Date>
+    <Open>0.00248808</Open>
+    <High>0.00277669</High>
+    <Low>0.00245803</Low>
+    <Close>0.00256704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-19</Date>
+    <Open>0.00256704</Open>
+    <High>0.00270696</High>
+    <Low>0.0025568</Low>
+    <Close>0.00264724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-20</Date>
+    <Open>0.00264724</Open>
+    <High>0.00265697</High>
+    <Low>0.00249622</Low>
+    <Close>0.00249622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-21</Date>
+    <Open>0.00251617</Open>
+    <High>0.00251619</High>
+    <Low>0.00235714</Low>
+    <Close>0.00239712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-22</Date>
+    <Open>0.00240708</Open>
+    <High>0.00247725</High>
+    <Low>0.00235707</Low>
+    <Close>0.00247697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-23</Date>
+    <Open>0.00248679</Open>
+    <High>0.00259724</High>
+    <Low>0.00247673</Low>
+    <Close>0.0025472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-24</Date>
+    <Open>0.00255721</Open>
+    <High>0.00260744</High>
+    <Low>0.0024978</Low>
+    <Close>0.00251788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-25</Date>
+    <Open>0.00250787</Open>
+    <High>0.00251849</High>
+    <Low>0.00246817</Low>
+    <Close>0.00247861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-26</Date>
+    <Open>0.00248858</Open>
+    <High>0.00266824</High>
+    <Low>0.00248853</Low>
+    <Close>0.00256846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-27</Date>
+    <Open>0.00256851</Open>
+    <High>0.00262842</High>
+    <Low>0.0024984</Low>
+    <Close>0.00251846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-28</Date>
+    <Open>0.00251839</Open>
+    <High>0.00251846</High>
+    <Low>0.00238864</Low>
+    <Close>0.00244907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-29</Date>
+    <Open>0.00244907</Open>
+    <High>0.00247874</High>
+    <Low>0.00238895</Low>
+    <Close>0.00243905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-11-30</Date>
+    <Open>0.00243905</Open>
+    <High>0.00248888</High>
+    <Low>0.00241983</Low>
+    <Close>0.00248012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-01</Date>
+    <Open>0.0024801</Open>
+    <High>0.00249045</High>
+    <Low>0.00238998</Low>
+    <Close>0.00241014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-02</Date>
+    <Open>0.00241014</Open>
+    <High>0.00246076</High>
+    <Low>0.00239017</Low>
+    <Close>0.00245012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-03</Date>
+    <Open>0.00245012</Open>
+    <High>0.00268027</High>
+    <Low>0.00242027</Low>
+    <Close>0.0025205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-04</Date>
+    <Open>0.0025105</Open>
+    <High>0.00265027</High>
+    <Low>0.0024905</Low>
+    <Close>0.00253051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-05</Date>
+    <Open>0.00254051</Open>
+    <High>0.00256077</High>
+    <Low>0.00245998</Low>
+    <Close>0.00246005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-06</Date>
+    <Open>0.00246005</Open>
+    <High>0.00253028</High>
+    <Low>0.00244</Low>
+    <Close>0.00246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-07</Date>
+    <Open>0.00247</Open>
+    <High>0.00249002</High>
+    <Low>0.00240007</Low>
+    <Close>0.00241998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-08</Date>
+    <Open>0.00242007</Open>
+    <High>0.00247052</High>
+    <Low>0.0024</Low>
+    <Close>0.00246017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-09</Date>
+    <Open>0.00246022</Open>
+    <High>0.00258008</High>
+    <Low>0.00243998</Low>
+    <Close>0.00248007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-10</Date>
+    <Open>0.00249012</Open>
+    <High>0.00288997</High>
+    <Low>0.00247995</Low>
+    <Close>0.00248995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-11</Date>
+    <Open>0.00248995</Open>
+    <High>0.0025201</High>
+    <Low>0.00245998</Low>
+    <Close>0.00248025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-12</Date>
+    <Open>0.00248025</Open>
+    <High>0.00248025</High>
+    <Low>0.00241966</Low>
+    <Close>0.00244022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-13</Date>
+    <Open>0.00244029</Open>
+    <High>0.00276028</High>
+    <Low>0.00240058</Low>
+    <Close>0.00246946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-14</Date>
+    <Open>0.00247928</Open>
+    <High>0.00251957</High>
+    <Low>0.00242949</Low>
+    <Close>0.00247017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-15</Date>
+    <Open>0.00246</Open>
+    <High>0.0024805</High>
+    <Low>0.00240048</Low>
+    <Close>0.00241048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-16</Date>
+    <Open>0.00242048</Open>
+    <High>0.00244024</High>
+    <Low>0.00218022</Low>
+    <Close>0.00219022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-17</Date>
+    <Open>0.00219022</Open>
+    <High>0.00221038</High>
+    <Low>0.00215022</Low>
+    <Close>0.00221029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-18</Date>
+    <Open>0.00221027</Open>
+    <High>0.00224009</High>
+    <Low>0.00218015</Low>
+    <Close>0.00220026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-19</Date>
+    <Open>0.00215028</Open>
+    <High>0.00216039</High>
+    <Low>0.00194992</Low>
+    <Close>0.00208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-20</Date>
+    <Open>0.00208</Open>
+    <High>0.00221013</High>
+    <Low>0.00207</Low>
+    <Close>0.00220009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-21</Date>
+    <Open>0.00221007</Open>
+    <High>0.00221009</High>
+    <Low>0.00213998</Low>
+    <Close>0.00215009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-22</Date>
+    <Open>0.00215006</Open>
+    <High>0.00236998</High>
+    <Low>0.00212996</Low>
+    <Close>0.00220969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-23</Date>
+    <Open>0.00219965</Open>
+    <High>0.00220982</High>
+    <Low>0.00217978</Low>
+    <Close>0.00218976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-24</Date>
+    <Open>0.00218985</Open>
+    <High>0.00239974</High>
+    <Low>0.00217976</Low>
+    <Close>0.00226986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-25</Date>
+    <Open>0.00227989</Open>
+    <High>0.00231993</High>
+    <Low>0.00225964</Low>
+    <Close>0.00227966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-26</Date>
+    <Open>0.00226973</Open>
+    <High>0.00230979</High>
+    <Low>0.00225977</Low>
+    <Close>0.00227954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-27</Date>
+    <Open>0.00226959</Open>
+    <High>0.00247933</High>
+    <Low>0.00226941</Low>
+    <Close>0.00238907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-28</Date>
+    <Open>0.00238904</Open>
+    <High>0.00243929</High>
+    <Low>0.00233899</Low>
+    <Close>0.00235873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-29</Date>
+    <Open>0.00236879</Open>
+    <High>0.00237883</High>
+    <Low>0.00228908</Low>
+    <Close>0.00230896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-30</Date>
+    <Open>0.00230889</Open>
+    <High>0.00237881</High>
+    <Low>0.00229883</Low>
+    <Close>0.00231884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2022-12-31</Date>
+    <Open>0.00231884</Open>
+    <High>0.00233892</High>
+    <Low>0.00230854</Low>
+    <Close>0.00231882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-01</Date>
+    <Open>0.00230882</Open>
+    <High>0.00231891</High>
+    <Low>0.00227877</Low>
+    <Close>0.00230894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-02</Date>
+    <Open>0.00230894</Open>
+    <High>0.00233909</High>
+    <Low>0.00226907</Low>
+    <Close>0.00232928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-03</Date>
+    <Open>0.00231926</Open>
+    <High>0.00232925</High>
+    <Low>0.00223908</Low>
+    <Close>0.00226914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-04</Date>
+    <Open>0.00226911</Open>
+    <High>0.00230908</High>
+    <Low>0.00224905</Low>
+    <Close>0.00227922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-05</Date>
+    <Open>0.00228924</Open>
+    <High>0.00284886</High>
+    <Low>0.00225903</Low>
+    <Close>0.00259909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-06</Date>
+    <Open>0.00261906</Open>
+    <High>0.00272904</High>
+    <Low>0.0024587</Low>
+    <Close>0.00251922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-07</Date>
+    <Open>0.00252919</Open>
+    <High>0.00257925</High>
+    <Low>0.00250922</Low>
+    <Close>0.00252939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-08</Date>
+    <Open>0.00254957</Open>
+    <High>0.00257961</High>
+    <Low>0.0025095</Low>
+    <Close>0.00254959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-09</Date>
+    <Open>0.00254954</Open>
+    <High>0.00357961</High>
+    <Low>0.00254954</Low>
+    <Close>0.00325997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-10</Date>
+    <Open>0.00322997</Open>
+    <High>0.0033</High>
+    <Low>0.0030396</Low>
+    <Close>0.00314041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-11</Date>
+    <Open>0.0031205</Open>
+    <High>0.00326997</High>
+    <Low>0.00304988</Low>
+    <Close>0.00318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-12</Date>
+    <Open>0.00318968</Open>
+    <High>0.00328987</High>
+    <Low>0.00307972</Low>
+    <Close>0.00320029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-13</Date>
+    <Open>0.00320032</Open>
+    <High>0.00331997</High>
+    <Low>0.00312003</Low>
+    <Close>0.00323032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-14</Date>
+    <Open>0.00325029</Open>
+    <High>0.00348052</High>
+    <Low>0.00317051</Low>
+    <Close>0.00326016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-15</Date>
+    <Open>0.00327023</Open>
+    <High>0.00331056</High>
+    <Low>0.00315025</Low>
+    <Close>0.00325094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-16</Date>
+    <Open>0.00326095</Open>
+    <High>0.00358</High>
+    <Low>0.00323094</Low>
+    <Close>0.00346007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-17</Date>
+    <Open>0.00346007</Open>
+    <High>0.00347014</High>
+    <Low>0.00331993</Low>
+    <Close>0.00333033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-18</Date>
+    <Open>0.00333033</Open>
+    <High>0.00333033</High>
+    <Low>0.00294976</Low>
+    <Close>0.00300985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-19</Date>
+    <Open>0.00301985</Open>
+    <High>0.00310991</High>
+    <Low>0.0029797</Low>
+    <Close>0.00310991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-20</Date>
+    <Open>0.00310019</Open>
+    <High>0.00322052</High>
+    <Low>0.00300994</Low>
+    <Close>0.00320058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-21</Date>
+    <Open>0.00319061</Open>
+    <High>0.00330099</High>
+    <Low>0.00315066</Low>
+    <Close>0.00325049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-22</Date>
+    <Open>0.00322048</Open>
+    <High>0.00323074</High>
+    <Low>0.00306049</Low>
+    <Close>0.00309062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-23</Date>
+    <Open>0.00309062</Open>
+    <High>0.00333043</High>
+    <Low>0.00308059</Low>
+    <Close>0.00325049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-24</Date>
+    <Open>0.00325045</Open>
+    <High>0.00508</High>
+    <Low>0.00322058</Low>
+    <Close>0.0034901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-25</Date>
+    <Open>0.0034801</Open>
+    <High>0.00450036</High>
+    <Low>0.00342034</Low>
+    <Close>0.00400064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-26</Date>
+    <Open>0.00400068</Open>
+    <High>0.00423021</High>
+    <Low>0.00377</Low>
+    <Close>0.00389027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-27</Date>
+    <Open>0.00390031</Open>
+    <High>0.00390031</High>
+    <Low>0.00367099</Low>
+    <Close>0.00377151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-28</Date>
+    <Open>0.00377128</Open>
+    <High>0.0039209</High>
+    <Low>0.00369081</Low>
+    <Close>0.00371078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-29</Date>
+    <Open>0.00370078</Open>
+    <High>0.00397016</High>
+    <Low>0.00369081</Low>
+    <Close>0.0039302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-30</Date>
+    <Open>0.0039302</Open>
+    <High>0.00394008</High>
+    <Low>0.00360004</Low>
+    <Close>0.00365026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-01-31</Date>
+    <Open>0.00364025</Open>
+    <High>0.00375974</High>
+    <Low>0.00360968</Low>
+    <Close>0.00372033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-01</Date>
+    <Open>0.00371026</Open>
+    <High>0.00380042</High>
+    <Low>0.00355014</Low>
+    <Close>0.00379023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-02</Date>
+    <Open>0.00379019</Open>
+    <High>0.0040006</High>
+    <Low>0.00370052</Low>
+    <Close>0.00382073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-03</Date>
+    <Open>0.00382088</Open>
+    <High>0.00386</High>
+    <Low>0.00367048</Low>
+    <Close>0.00380227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-04</Date>
+    <Open>0.0038073</Open>
+    <High>0.00384823</High>
+    <Low>0.00376038</Low>
+    <Close>0.00380234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-05</Date>
+    <Open>0.0038023</Open>
+    <High>0.00381734</High>
+    <Low>0.00360176</Low>
+    <Close>0.00366292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-06</Date>
+    <Open>0.00366195</Open>
+    <High>0.00379719</High>
+    <Low>0.00365473</Low>
+    <Close>0.00370515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-07</Date>
+    <Open>0.00370315</Open>
+    <High>0.00399216</High>
+    <Low>0.00365107</Low>
+    <Close>0.00393224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-08</Date>
+    <Open>0.00393224</Open>
+    <High>0.00394292</High>
+    <Low>0.00381415</Low>
+    <Close>0.00385927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-09</Date>
+    <Open>0.00384623</Open>
+    <High>0.00409116</High>
+    <Low>0.003292</Low>
+    <Close>0.00347931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-10</Date>
+    <Open>0.00347031</Open>
+    <High>0.00394539</High>
+    <Low>0.00344079</Low>
+    <Close>0.00368055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-11</Date>
+    <Open>0.00367955</Open>
+    <High>0.00372441</High>
+    <Low>0.00361636</Low>
+    <Close>0.00372233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-12</Date>
+    <Open>0.00372237</Open>
+    <High>0.00423785</High>
+    <Low>0.00368555</Low>
+    <Close>0.00380827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-13</Date>
+    <Open>0.00380538</Open>
+    <High>0.00381161</High>
+    <Low>0.00360265</Low>
+    <Close>0.00368399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-14</Date>
+    <Open>0.00368399</Open>
+    <High>0.0037914</High>
+    <Low>0.00365993</Low>
+    <Close>0.00375343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-15</Date>
+    <Open>0.00375354</Open>
+    <High>0.00395251</High>
+    <Low>0.00374561</Low>
+    <Close>0.00392371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-16</Date>
+    <Open>0.00392371</Open>
+    <High>0.00521057</High>
+    <Low>0.00390863</Low>
+    <Close>0.00422444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-17</Date>
+    <Open>0.00424055</Open>
+    <High>0.00466142</High>
+    <Low>0.00417146</Low>
+    <Close>0.00454145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-18</Date>
+    <Open>0.00454264</Open>
+    <High>0.00462606</High>
+    <Low>0.00427373</Low>
+    <Close>0.0043727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-19</Date>
+    <Open>0.0043727</Open>
+    <High>0.00477081</High>
+    <Low>0.00427456</Low>
+    <Close>0.00459101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-20</Date>
+    <Open>0.00459001</Open>
+    <High>0.00698012</High>
+    <Low>0.00459001</Low>
+    <Close>0.00666027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-21</Date>
+    <Open>0.00670027</Open>
+    <High>0.00685048</High>
+    <Low>0.00548038</Low>
+    <Close>0.00569097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-22</Date>
+    <Open>0.00571103</Open>
+    <High>0.00601072</High>
+    <Low>0.00519794</Low>
+    <Close>0.00583206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-23</Date>
+    <Open>0.00582429</Open>
+    <High>0.00689569</High>
+    <Low>0.00570146</Low>
+    <Close>0.00617786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-24</Date>
+    <Open>0.00616586</Open>
+    <High>0.00618299</High>
+    <Low>0.00437791</Low>
+    <Close>0.00471195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-25</Date>
+    <Open>0.00471195</Open>
+    <High>0.00564139</High>
+    <Low>0.00431513</Low>
+    <Close>0.00529737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-26</Date>
+    <Open>0.00528737</Open>
+    <High>0.0054816</High>
+    <Low>0.00479448</Low>
+    <Close>0.0050235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-27</Date>
+    <Open>0.0050233</Open>
+    <High>0.00572529</High>
+    <Low>0.00466861</Low>
+    <Close>0.00512726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-02-28</Date>
+    <Open>0.00512626</Open>
+    <High>0.00582887</High>
+    <Low>0.0050529</Low>
+    <Close>0.00563601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-01</Date>
+    <Open>0.00562118</Open>
+    <High>0.00574063</High>
+    <Low>0.00513097</Low>
+    <Close>0.00532064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-02</Date>
+    <Open>0.00529063</Open>
+    <High>0.00540076</High>
+    <Low>0.00491961</Low>
+    <Close>0.00510046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-03</Date>
+    <Open>0.00509046</Open>
+    <High>0.00512051</High>
+    <Low>0.00443035</Low>
+    <Close>0.00467028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-04</Date>
+    <Open>0.00468042</Open>
+    <High>0.0048201</High>
+    <Low>0.00440022</Low>
+    <Close>0.00448036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-05</Date>
+    <Open>0.00448031</Open>
+    <High>0.00463042</High>
+    <Low>0.00443018</Low>
+    <Close>0.0045205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-06</Date>
+    <Open>0.0045105</Open>
+    <High>0.0045205</High>
+    <Low>0.00430034</Low>
+    <Close>0.00444973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-07</Date>
+    <Open>0.00446942</Open>
+    <High>0.00465</High>
+    <Low>0.00409988</Low>
+    <Close>0.00415979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-08</Date>
+    <Open>0.00415979</Open>
+    <High>0.00424</High>
+    <Low>0.00381981</Low>
+    <Close>0.00382985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-09</Date>
+    <Open>0.0038295</Open>
+    <High>0.00415867</High>
+    <Low>0.00363924</Low>
+    <Close>0.00366033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-10</Date>
+    <Open>0.00366033</Open>
+    <High>0.00370122</High>
+    <Low>0.00332973</Low>
+    <Close>0.00369325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-11</Date>
+    <Open>0.00369299</Open>
+    <High>0.00381264</High>
+    <Low>0.00335847</Low>
+    <Close>0.0035153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-12</Date>
+    <Open>0.00350575</Open>
+    <High>0.00380804</High>
+    <Low>0.00344833</Low>
+    <Close>0.00376555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-13</Date>
+    <Open>0.00375545</Open>
+    <High>0.00424667</High>
+    <Low>0.00375545</Low>
+    <Close>0.00410836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-14</Date>
+    <Open>0.00411628</Open>
+    <High>0.0049022</High>
+    <Low>0.00404737</Low>
+    <Close>0.00475948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-15</Date>
+    <Open>0.00474949</Open>
+    <High>0.00492332</High>
+    <Low>0.00400876</Low>
+    <Close>0.00419777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-16</Date>
+    <Open>0.00418743</Open>
+    <High>0.00431342</High>
+    <Low>0.00405426</Low>
+    <Close>0.00418047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-17</Date>
+    <Open>0.00419037</Open>
+    <High>0.00448252</High>
+    <Low>0.00416911</Low>
+    <Close>0.00446331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-18</Date>
+    <Open>0.00447084</Open>
+    <High>0.00486305</High>
+    <Low>0.00437173</Low>
+    <Close>0.00439432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-19</Date>
+    <Open>0.0043931</Open>
+    <High>0.00490457</High>
+    <Low>0.00429216</Low>
+    <Close>0.004634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-20</Date>
+    <Open>0.00464394</Open>
+    <High>0.00568735</High>
+    <Low>0.00441496</Low>
+    <Close>0.0053896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-21</Date>
+    <Open>0.0053896</Open>
+    <High>0.00617786</High>
+    <Low>0.0048581</Low>
+    <Close>0.00575831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-22</Date>
+    <Open>0.00575831</Open>
+    <High>0.0061394</High>
+    <Low>0.00545452</Low>
+    <Close>0.00586591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-23</Date>
+    <Open>0.00588608</Open>
+    <High>0.00672322</High>
+    <Low>0.00562548</Low>
+    <Close>0.00649348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-24</Date>
+    <Open>0.00646342</Open>
+    <High>0.00675348</High>
+    <Low>0.00533581</Low>
+    <Close>0.00553559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-25</Date>
+    <Open>0.00551612</Open>
+    <High>0.00569688</High>
+    <Low>0.00528634</Low>
+    <Close>0.0053151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-26</Date>
+    <Open>0.00529508</Open>
+    <High>0.00534539</High>
+    <Low>0.00502427</Low>
+    <Close>0.00506577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-27</Date>
+    <Open>0.00507558</Open>
+    <High>0.0051746</High>
+    <Low>0.00469267</Low>
+    <Close>0.00477224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-28</Date>
+    <Open>0.00476224</Open>
+    <High>0.00497134</High>
+    <Low>0.00458105</Low>
+    <Close>0.0048619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-29</Date>
+    <Open>0.0048719</Open>
+    <High>0.00543141</High>
+    <Low>0.00486126</Low>
+    <Close>0.00533101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-30</Date>
+    <Open>0.00536161</Open>
+    <High>0.00546022</High>
+    <Low>0.00484068</Low>
+    <Close>0.00491137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-03-31</Date>
+    <Open>0.00491133</Open>
+    <High>0.00506081</High>
+    <Low>0.00476143</Low>
+    <Close>0.00499105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-01</Date>
+    <Open>0.004991</Open>
+    <High>0.00505182</High>
+    <Low>0.00474109</Low>
+    <Close>0.0048718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-02</Date>
+    <Open>0.00485179</Open>
+    <High>0.00489205</High>
+    <Low>0.00455309</Low>
+    <Close>0.00463287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-03</Date>
+    <Open>0.00464288</Open>
+    <High>0.00490098</High>
+    <Low>0.00451036</Low>
+    <Close>0.00481188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-04</Date>
+    <Open>0.00479192</Open>
+    <High>0.00490118</High>
+    <Low>0.00464246</Low>
+    <Close>0.00479244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-05</Date>
+    <Open>0.0048024</Open>
+    <High>0.00488117</High>
+    <Low>0.00456169</Low>
+    <Close>0.00468168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-06</Date>
+    <Open>0.00466168</Open>
+    <High>0.00469094</High>
+    <Low>0.00446201</Low>
+    <Close>0.00450157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-07</Date>
+    <Open>0.00450162</Open>
+    <High>0.00457233</High>
+    <Low>0.00435274</Low>
+    <Close>0.00438329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-08</Date>
+    <Open>0.00438324</Open>
+    <High>0.00459225</High>
+    <Low>0.00423165</Low>
+    <Close>0.00424165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-09</Date>
+    <Open>0.00424165</Open>
+    <High>0.00433281</High>
+    <Low>0.00409237</Low>
+    <Close>0.00425285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-10</Date>
+    <Open>0.00426298</Open>
+    <High>0.00443372</High>
+    <Low>0.00410148</Low>
+    <Close>0.00442358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-11</Date>
+    <Open>0.00442358</Open>
+    <High>0.00453376</High>
+    <Low>0.00432341</Low>
+    <Close>0.00438434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-12</Date>
+    <Open>0.00436432</Open>
+    <High>0.00440444</High>
+    <Low>0.00413368</Low>
+    <Close>0.00432337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-13</Date>
+    <Open>0.00432337</Open>
+    <High>0.0044553</High>
+    <Low>0.00426413</Low>
+    <Close>0.00441423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-14</Date>
+    <Open>0.00439417</Open>
+    <High>0.00468468</High>
+    <Low>0.00430335</Low>
+    <Close>0.00454372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-15</Date>
+    <Open>0.00454377</Open>
+    <High>0.00463407</High>
+    <Low>0.00445378</Low>
+    <Close>0.00448399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-16</Date>
+    <Open>0.004494</Open>
+    <High>0.00483415</High>
+    <Low>0.0044839</Low>
+    <Close>0.00479321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-17</Date>
+    <Open>0.00480326</Open>
+    <High>0.00488429</High>
+    <Low>0.00447246</Low>
+    <Close>0.00460276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-18</Date>
+    <Open>0.00461272</Open>
+    <High>0.00477196</High>
+    <Low>0.00455268</Low>
+    <Close>0.0047409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-19</Date>
+    <Open>0.0047409</Open>
+    <High>0.00478201</High>
+    <Low>0.00421156</Low>
+    <Close>0.00429227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-20</Date>
+    <Open>0.00429232</Open>
+    <High>0.0043219</High>
+    <Low>0.0040104</Low>
+    <Close>0.00403032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-21</Date>
+    <Open>0.00404024</Open>
+    <High>0.00411029</High>
+    <Low>0.00368959</Low>
+    <Close>0.00371959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-22</Date>
+    <Open>0.00370959</Open>
+    <High>0.00388016</High>
+    <Low>0.00370955</Low>
+    <Close>0.00384038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-23</Date>
+    <Open>0.00385035</Open>
+    <High>0.00390031</High>
+    <Low>0.00368081</Low>
+    <Close>0.00375015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-24</Date>
+    <Open>0.00375019</Open>
+    <High>0.00389996</High>
+    <Low>0.00368066</Low>
+    <Close>0.00381008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-25</Date>
+    <Open>0.00380011</Open>
+    <High>0.0039009</High>
+    <Low>0.00356996</Low>
+    <Close>0.0039009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-26</Date>
+    <Open>0.0039009</Open>
+    <High>0.00405057</High>
+    <Low>0.00361072</Low>
+    <Close>0.00381122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-27</Date>
+    <Open>0.00380122</Open>
+    <High>0.00436196</High>
+    <Low>0.0037309</Low>
+    <Close>0.00427141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-28</Date>
+    <Open>0.00426141</Open>
+    <High>0.00428124</High>
+    <Low>0.0039914</Low>
+    <Close>0.00407317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-29</Date>
+    <Open>0.00408306</Open>
+    <High>0.00424293</High>
+    <Low>0.00407285</Low>
+    <Close>0.00418242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-04-30</Date>
+    <Open>0.00419247</Open>
+    <High>0.00422253</High>
+    <Low>0.00401237</Low>
+    <Close>0.0040323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-01</Date>
+    <Open>0.00402225</Open>
+    <High>0.00407199</High>
+    <Low>0.00378026</Low>
+    <Close>0.00381107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-02</Date>
+    <Open>0.00382099</Open>
+    <High>0.00395269</High>
+    <Low>0.00379049</Low>
+    <Close>0.00394244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-03</Date>
+    <Open>0.0039324</Open>
+    <High>0.00399243</High>
+    <Low>0.00353116</Low>
+    <Close>0.00377102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-04</Date>
+    <Open>0.00379099</Open>
+    <High>0.00383126</High>
+    <Low>0.00361159</Low>
+    <Close>0.00364135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-05</Date>
+    <Open>0.00364131</Open>
+    <High>0.00375352</High>
+    <Low>0.00357146</Low>
+    <Close>0.0037434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-06</Date>
+    <Open>0.0037434</Open>
+    <High>0.00377407</High>
+    <Low>0.00346526</Low>
+    <Close>0.00357621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-07</Date>
+    <Open>0.00356619</Open>
+    <High>0.00362427</High>
+    <Low>0.00345476</Low>
+    <Close>0.00362424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-08</Date>
+    <Open>0.00358422</Open>
+    <High>0.00363483</High>
+    <Low>0.00299233</Low>
+    <Close>0.00304234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-09</Date>
+    <Open>0.00306233</Open>
+    <High>0.00332332</High>
+    <Low>0.00304246</Low>
+    <Close>0.00329329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-10</Date>
+    <Open>0.00326143</Open>
+    <High>0.00361397</High>
+    <Low>0.0032032</Low>
+    <Close>0.00341341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-11</Date>
+    <Open>0.00341341</Open>
+    <High>0.00344344</High>
+    <Low>0.00303984</Low>
+    <Close>0.0031091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-12</Date>
+    <Open>0.00310911</Open>
+    <High>0.00312941</High>
+    <Low>0.00298409</Low>
+    <Close>0.0031282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-13</Date>
+    <Open>0.0031303</Open>
+    <High>0.00317901</High>
+    <Low>0.00308844</Low>
+    <Close>0.00311867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-14</Date>
+    <Open>0.00312728</Open>
+    <High>0.00325595</High>
+    <Low>0.00307654</Low>
+    <Close>0.00322103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-15</Date>
+    <Open>0.00321273</Open>
+    <High>0.00342229</High>
+    <Low>0.00317989</Low>
+    <Close>0.00336005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-16</Date>
+    <Open>0.00336562</Open>
+    <High>0.00338857</High>
+    <Low>0.00326921</Low>
+    <Close>0.00335047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-17</Date>
+    <Open>0.00335234</Open>
+    <High>0.00346913</High>
+    <Low>0.00322931</Low>
+    <Close>0.00343612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-18</Date>
+    <Open>0.00344022</Open>
+    <High>0.00345098</High>
+    <Low>0.00327441</Low>
+    <Close>0.00336194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-19</Date>
+    <Open>0.00337101</Open>
+    <High>0.00342171</High>
+    <Low>0.00331023</Low>
+    <Close>0.00337101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-20</Date>
+    <Open>0.00337169</Open>
+    <High>0.0034017</High>
+    <Low>0.00332232</Low>
+    <Close>0.00338338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-21</Date>
+    <Open>0.00337337</Open>
+    <High>0.00340306</High>
+    <Low>0.00325162</Low>
+    <Close>0.00326196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-22</Date>
+    <Open>0.00327163</Open>
+    <High>0.00335201</High>
+    <Low>0.00319159</Low>
+    <Close>0.003342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-23</Date>
+    <Open>0.00335168</Open>
+    <High>0.00342041</High>
+    <Low>0.00330079</Low>
+    <Close>0.0033802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-24</Date>
+    <Open>0.0033803</Open>
+    <High>0.00376011</High>
+    <Low>0.00316959</Low>
+    <Close>0.00349979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-25</Date>
+    <Open>0.00350982</Open>
+    <High>0.00355</High>
+    <Low>0.00331973</Low>
+    <Close>0.0033801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-26</Date>
+    <Open>0.00337007</Open>
+    <High>0.00338041</High>
+    <Low>0.0032601</Low>
+    <Close>0.00332073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-27</Date>
+    <Open>0.00332066</Open>
+    <High>0.00335131</High>
+    <Low>0.00328095</Low>
+    <Close>0.00334134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CKB">
+    <Date>2023-05-28</Date>
+    <Open>0.00334134</Open>
+    <High>0.00354142</High>
+    <Low>0.003341</Low>
+    <Close>0.00351081</Close>
+  </Cryptocurrency>
+</Root>

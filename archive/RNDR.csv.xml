@@ -1,0 +1,3391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-01-29</Date>
+    <Open>3.16163</Open>
+    <High>3.20196</High>
+    <Low>3.02091</Low>
+    <Close>3.13894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-01-30</Date>
+    <Open>3.12863</Open>
+    <High>3.76913</High>
+    <Low>2.94788</Low>
+    <Close>3.10124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-01-31</Date>
+    <Open>3.09024</Open>
+    <High>3.66246</High>
+    <Low>2.85114</Low>
+    <Close>3.53977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-01</Date>
+    <Open>3.53877</Open>
+    <High>4.04902</High>
+    <Low>3.42806</Low>
+    <Close>3.83091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-02</Date>
+    <Open>3.8323</Open>
+    <High>4.23354</High>
+    <Low>3.28064</Low>
+    <Close>3.35969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-03</Date>
+    <Open>3.36202</Open>
+    <High>3.48874</High>
+    <Low>3.14357</Low>
+    <Close>3.32966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-04</Date>
+    <Open>3.32766</Open>
+    <High>3.66783</High>
+    <Low>3.25062</Low>
+    <Close>3.50981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-05</Date>
+    <Open>3.51381</Open>
+    <High>4.0048</High>
+    <Low>3.4968</Low>
+    <Close>3.71923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-06</Date>
+    <Open>3.71323</Open>
+    <High>3.85131</High>
+    <Low>3.42071</Low>
+    <Close>3.55742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-07</Date>
+    <Open>3.55542</Open>
+    <High>3.85169</High>
+    <Low>3.45707</Low>
+    <Close>3.7116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-08</Date>
+    <Open>3.7146</Open>
+    <High>3.75262</High>
+    <Low>3.20924</Low>
+    <Close>3.4441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-09</Date>
+    <Open>3.4471</Open>
+    <High>3.49379</High>
+    <Low>3.21125</Low>
+    <Close>3.33466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-10</Date>
+    <Open>3.33333</Open>
+    <High>3.48278</High>
+    <Low>3.02242</Low>
+    <Close>3.11518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-11</Date>
+    <Open>3.11918</Open>
+    <High>3.16153</High>
+    <Low>2.64679</Low>
+    <Close>2.64979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-12</Date>
+    <Open>2.64779</Open>
+    <High>2.78239</High>
+    <Low>2.53552</Low>
+    <Close>2.70635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-13</Date>
+    <Open>2.70262</Open>
+    <High>2.97148</High>
+    <Low>2.50125</Low>
+    <Close>2.6083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-14</Date>
+    <Open>2.60956</Open>
+    <High>2.89874</High>
+    <Low>2.53126</Low>
+    <Close>2.77767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-15</Date>
+    <Open>2.78167</Open>
+    <High>3.25795</High>
+    <Low>2.77867</Low>
+    <Close>3.14889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-16</Date>
+    <Open>3.15489</Open>
+    <High>3.82191</High>
+    <Low>2.9998</Low>
+    <Close>3.26396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-17</Date>
+    <Open>3.26063</Open>
+    <High>3.34767</High>
+    <Low>2.73164</Low>
+    <Close>2.84699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-18</Date>
+    <Open>2.84371</Open>
+    <High>2.98209</High>
+    <Low>2.67861</Low>
+    <Close>2.69662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-19</Date>
+    <Open>2.69662</Open>
+    <High>2.78567</High>
+    <Low>2.53227</Low>
+    <Close>2.6113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-20</Date>
+    <Open>2.60856</Open>
+    <High>2.62758</High>
+    <Low>2.34394</Low>
+    <Close>2.43722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-21</Date>
+    <Open>2.44422</Open>
+    <High>2.88044</High>
+    <Low>2.41196</Low>
+    <Close>2.45498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-22</Date>
+    <Open>2.45122</Open>
+    <High>2.494</High>
+    <Low>2.21789</Low>
+    <Close>2.36418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-23</Date>
+    <Open>2.36718</Open>
+    <High>2.64559</High>
+    <Low>2.36718</Low>
+    <Close>2.42946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-24</Date>
+    <Open>2.42746</Open>
+    <High>2.42746</High>
+    <Low>2.0012</Low>
+    <Close>2.33093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-25</Date>
+    <Open>2.33493</Open>
+    <High>2.55202</High>
+    <Low>2.32093</Low>
+    <Close>2.54902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-26</Date>
+    <Open>2.54927</Open>
+    <High>2.71909</High>
+    <Low>2.46098</Low>
+    <Close>2.46098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-27</Date>
+    <Open>2.46023</Open>
+    <High>2.54027</High>
+    <Low>2.33293</Low>
+    <Close>2.39796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-02-28</Date>
+    <Open>2.39596</Open>
+    <High>2.65106</High>
+    <Low>2.35894</Low>
+    <Close>2.64432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-01</Date>
+    <Open>2.64306</Open>
+    <High>2.9949</High>
+    <Low>2.53201</Low>
+    <Close>2.97989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-02</Date>
+    <Open>2.9859</Open>
+    <High>3.331</High>
+    <Low>2.86757</Low>
+    <Close>2.92058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-03</Date>
+    <Open>2.92088</Open>
+    <High>2.93688</High>
+    <Low>2.68754</Low>
+    <Close>2.78156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-04</Date>
+    <Open>2.77455</Open>
+    <High>2.80356</High>
+    <Low>2.48475</Low>
+    <Close>2.49075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-05</Date>
+    <Open>2.50175</Open>
+    <High>2.69381</High>
+    <Low>2.4755</Low>
+    <Close>2.60078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-06</Date>
+    <Open>2.60452</Open>
+    <High>2.64153</High>
+    <Low>2.4805</Low>
+    <Close>2.56977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-07</Date>
+    <Open>2.57277</Open>
+    <High>2.59678</High>
+    <Low>2.41248</Low>
+    <Close>2.4985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-08</Date>
+    <Open>2.50375</Open>
+    <High>2.55851</High>
+    <Low>2.43773</Low>
+    <Close>2.4855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-09</Date>
+    <Open>2.4775</Open>
+    <High>2.76055</High>
+    <Low>2.4775</Low>
+    <Close>2.64053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-10</Date>
+    <Open>2.63753</Open>
+    <High>2.65553</High>
+    <Low>2.4785</Low>
+    <Close>2.52101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-11</Date>
+    <Open>2.52301</Open>
+    <High>2.56002</High>
+    <Low>2.35471</Low>
+    <Close>2.39548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-12</Date>
+    <Open>2.39548</Open>
+    <High>2.41948</High>
+    <Low>2.359</Low>
+    <Close>2.36924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-13</Date>
+    <Open>2.37171</Open>
+    <High>2.40324</High>
+    <Low>2.24867</Low>
+    <Close>2.25168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-14</Date>
+    <Open>2.24845</Open>
+    <High>2.30946</High>
+    <Low>2.24622</Low>
+    <Close>2.30446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-15</Date>
+    <Open>2.30546</Open>
+    <High>2.35671</High>
+    <Low>2.24345</Low>
+    <Close>2.3377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-16</Date>
+    <Open>2.3397</Open>
+    <High>2.53276</High>
+    <Low>2.27145</Low>
+    <Close>2.49375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-17</Date>
+    <Open>2.49575</Open>
+    <High>2.58077</High>
+    <Low>2.41921</Low>
+    <Close>2.42121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-18</Date>
+    <Open>2.42097</Open>
+    <High>2.57354</High>
+    <Low>2.35418</Low>
+    <Close>2.51826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-19</Date>
+    <Open>2.51926</Open>
+    <High>3.09686</High>
+    <Low>2.51801</Low>
+    <Close>2.67607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-20</Date>
+    <Open>2.67607</Open>
+    <High>2.77811</High>
+    <Low>2.51526</Low>
+    <Close>2.61505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-21</Date>
+    <Open>2.61204</Open>
+    <High>2.77239</High>
+    <Low>2.54502</Low>
+    <Close>2.72509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-22</Date>
+    <Open>2.72309</Open>
+    <High>2.91146</High>
+    <Low>2.62531</Low>
+    <Close>2.87644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-23</Date>
+    <Open>2.87544</Open>
+    <High>2.87944</High>
+    <Low>2.71909</Low>
+    <Close>2.78511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-24</Date>
+    <Open>2.78511</Open>
+    <High>2.94918</High>
+    <Low>2.76911</Low>
+    <Close>2.83942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-25</Date>
+    <Open>2.84014</Open>
+    <High>2.91633</High>
+    <Low>2.75283</Low>
+    <Close>2.76338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-26</Date>
+    <Open>2.76238</Open>
+    <High>2.76411</High>
+    <Low>2.64006</Low>
+    <Close>2.70608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-27</Date>
+    <Open>2.70535</Open>
+    <High>2.79512</High>
+    <Low>2.53026</Low>
+    <Close>2.79084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-28</Date>
+    <Open>2.79112</Open>
+    <High>3.11425</High>
+    <Low>2.76283</Low>
+    <Close>2.9902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-29</Date>
+    <Open>2.9902</Open>
+    <High>3.13825</High>
+    <Low>2.86086</Low>
+    <Close>2.89044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-30</Date>
+    <Open>2.89545</Open>
+    <High>3.04291</High>
+    <Low>2.84714</Low>
+    <Close>3.0149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-03-31</Date>
+    <Open>3.0099</Open>
+    <High>3.25865</High>
+    <Low>2.89158</Low>
+    <Close>2.94888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-01</Date>
+    <Open>2.94788</Open>
+    <High>3.09655</High>
+    <Low>2.81284</Low>
+    <Close>2.9849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-02</Date>
+    <Open>2.9879</Open>
+    <High>3.2423</High>
+    <Low>2.93688</Low>
+    <Close>3.12025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-03</Date>
+    <Open>3.12425</Open>
+    <High>3.16627</High>
+    <Low>3.0112</Low>
+    <Close>3.06122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-04</Date>
+    <Open>3.06423</Open>
+    <High>3.09924</High>
+    <Low>2.73055</Low>
+    <Close>2.90558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-05</Date>
+    <Open>2.90458</Open>
+    <High>2.97989</High>
+    <Low>2.78083</Low>
+    <Close>2.83728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-06</Date>
+    <Open>2.83857</Open>
+    <High>2.84557</High>
+    <Low>2.496</Low>
+    <Close>2.579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-07</Date>
+    <Open>2.57926</Open>
+    <High>2.65327</High>
+    <Low>2.46925</Low>
+    <Close>2.563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-08</Date>
+    <Open>2.56426</Open>
+    <High>2.61152</High>
+    <Low>2.42773</Low>
+    <Close>2.493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-09</Date>
+    <Open>2.493</Open>
+    <High>2.5025</High>
+    <Low>2.40272</Low>
+    <Close>2.48875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-10</Date>
+    <Open>2.49175</Open>
+    <High>2.57977</High>
+    <Low>2.44873</Low>
+    <Close>2.5255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-11</Date>
+    <Open>2.5235</Open>
+    <High>2.5235</High>
+    <Low>2.0006</Low>
+    <Close>2.0146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-12</Date>
+    <Open>2.0154</Open>
+    <High>2.15743</High>
+    <Low>2.0004</Low>
+    <Close>2.02961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-13</Date>
+    <Open>2.03161</Open>
+    <High>2.11764</High>
+    <Low>2.0016</Low>
+    <Close>2.10563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-14</Date>
+    <Open>2.10342</Open>
+    <High>2.13064</High>
+    <Low>1.96359</Low>
+    <Close>2.0234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-15</Date>
+    <Open>2.0224</Open>
+    <High>2.06441</High>
+    <Low>2.0044</Low>
+    <Close>2.0222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-16</Date>
+    <Open>2.0224</Open>
+    <High>2.0482</High>
+    <Low>2.0094</Low>
+    <Close>2.0164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-17</Date>
+    <Open>2.0202</Open>
+    <High>2.04841</High>
+    <Low>1.9784</Low>
+    <Close>2.04641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-18</Date>
+    <Open>2.04741</Open>
+    <High>2.04741</High>
+    <Low>1.87938</Low>
+    <Close>1.9916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-19</Date>
+    <Open>1.9936</Open>
+    <High>2.17343</High>
+    <Low>1.98059</Low>
+    <Close>2.07141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-20</Date>
+    <Open>2.07141</Open>
+    <High>2.20222</High>
+    <Low>2.02941</Low>
+    <Close>2.06941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-21</Date>
+    <Open>2.06741</Open>
+    <High>2.12643</High>
+    <Low>1.94339</Low>
+    <Close>1.95639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-22</Date>
+    <Open>1.9582</Open>
+    <High>1.97039</High>
+    <Low>1.84818</Low>
+    <Close>1.92719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-23</Date>
+    <Open>1.92839</Open>
+    <High>1.93639</High>
+    <Low>1.85219</Low>
+    <Close>1.89719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-24</Date>
+    <Open>1.89438</Open>
+    <High>1.90138</High>
+    <Low>1.77335</Low>
+    <Close>1.79536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-25</Date>
+    <Open>1.79636</Open>
+    <High>1.80636</High>
+    <Low>1.56816</Low>
+    <Close>1.71217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-26</Date>
+    <Open>1.71334</Open>
+    <High>1.74935</High>
+    <Low>1.4903</Low>
+    <Close>1.54615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-27</Date>
+    <Open>1.545</Open>
+    <High>1.555</High>
+    <Low>1.44014</Low>
+    <Close>1.46515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-28</Date>
+    <Open>1.46415</Open>
+    <High>1.622</High>
+    <Low>1.46415</Low>
+    <Close>1.55416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-29</Date>
+    <Open>1.55516</Open>
+    <High>1.60116</High>
+    <Low>1.37014</Low>
+    <Close>1.38314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-04-30</Date>
+    <Open>1.38314</Open>
+    <High>1.42114</High>
+    <Low>1.261</Low>
+    <Close>1.26413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-01</Date>
+    <Open>1.261</Open>
+    <High>1.79618</High>
+    <Low>1.20112</Low>
+    <Close>1.52015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-02</Date>
+    <Open>1.52415</Open>
+    <High>1.91619</High>
+    <Low>1.47915</Low>
+    <Close>1.64616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-03</Date>
+    <Open>1.64616</Open>
+    <High>1.76818</High>
+    <Low>1.47985</Low>
+    <Close>1.49985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-04</Date>
+    <Open>1.5017</Open>
+    <High>1.808</High>
+    <Low>1.48785</Low>
+    <Close>1.761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-05</Date>
+    <Open>1.76147</Open>
+    <High>1.89162</High>
+    <Low>1.4807</Low>
+    <Close>1.57468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-06</Date>
+    <Open>1.57269</Open>
+    <High>1.61784</High>
+    <Low>1.46271</Low>
+    <Close>1.49985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-07</Date>
+    <Open>1.50285</Open>
+    <High>1.51985</High>
+    <Low>1.35686</Low>
+    <Close>1.35886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-08</Date>
+    <Open>1.35573</Open>
+    <High>1.36345</High>
+    <Low>1.28049</Low>
+    <Close>1.3236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-09</Date>
+    <Open>1.3236</Open>
+    <High>1.3236</High>
+    <Low>1.06657</Low>
+    <Close>1.16677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-10</Date>
+    <Open>1.16565</Open>
+    <High>1.26162</High>
+    <Low>1.06468</Low>
+    <Close>1.10656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-11</Date>
+    <Open>1.10456</Open>
+    <High>1.19152</High>
+    <Low>0.72018</Low>
+    <Close>0.77006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-12</Date>
+    <Open>0.77704</Open>
+    <High>0.856474</High>
+    <Low>0.587946</Low>
+    <Close>0.768918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-13</Date>
+    <Open>0.767844</Open>
+    <High>1.08229</High>
+    <Low>0.754956</Low>
+    <Close>0.83358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-14</Date>
+    <Open>0.838572</Open>
+    <High>0.903462</High>
+    <Low>0.747427</Low>
+    <Close>0.822846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-15</Date>
+    <Open>0.822846</Open>
+    <High>0.934877</High>
+    <Low>0.7988</Low>
+    <Close>0.915808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-16</Date>
+    <Open>0.916807</Open>
+    <High>1.08437</High>
+    <Low>0.831917</Low>
+    <Close>0.954757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-17</Date>
+    <Open>0.955756</Open>
+    <High>1.10656</High>
+    <Low>0.905821</Low>
+    <Close>0.99081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-18</Date>
+    <Open>0.99071</Open>
+    <High>0.997801</High>
+    <Low>0.82992</Low>
+    <Close>0.860793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-19</Date>
+    <Open>0.859795</Open>
+    <High>0.935064</High>
+    <Low>0.818934</Low>
+    <Close>0.908091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-20</Date>
+    <Open>0.913086</Open>
+    <High>0.94396</High>
+    <Low>0.851976</Low>
+    <Close>0.877945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-21</Date>
+    <Open>0.878944</Open>
+    <High>0.928791</High>
+    <Low>0.852975</Low>
+    <Close>0.893837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-22</Date>
+    <Open>0.888843</Open>
+    <High>0.938778</High>
+    <Low>0.86596</Low>
+    <Close>0.879943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-23</Date>
+    <Open>0.882939</Open>
+    <High>0.958041</High>
+    <Low>0.870954</Low>
+    <Close>0.882939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-24</Date>
+    <Open>0.879943</Open>
+    <High>0.900827</High>
+    <Low>0.826008</Low>
+    <Close>0.894835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-25</Date>
+    <Open>0.894746</Open>
+    <High>0.927885</High>
+    <Low>0.868044</Low>
+    <Close>0.882029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-26</Date>
+    <Open>0.882939</Open>
+    <High>0.884027</High>
+    <Low>0.754094</Low>
+    <Close>0.790209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-27</Date>
+    <Open>0.791129</Open>
+    <High>0.800199</High>
+    <Low>0.675256</Low>
+    <Close>0.704295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-28</Date>
+    <Open>0.702199</Open>
+    <High>0.728213</High>
+    <Low>0.685149</Low>
+    <Close>0.712166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-29</Date>
+    <Open>0.712152</Open>
+    <High>0.723269</High>
+    <Low>0.679313</Low>
+    <Close>0.700222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-30</Date>
+    <Open>0.702213</Open>
+    <High>0.866393</High>
+    <Low>0.701228</Low>
+    <Close>0.844324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-05-31</Date>
+    <Open>0.842326</Open>
+    <High>0.915359</High>
+    <Low>0.78637</Low>
+    <Close>0.847237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-01</Date>
+    <Open>0.848363</Open>
+    <High>0.858364</High>
+    <Low>0.724275</Low>
+    <Close>0.744329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-02</Date>
+    <Open>0.740333</Open>
+    <High>0.760315</High>
+    <Low>0.723276</Low>
+    <Close>0.757318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-03</Date>
+    <Open>0.758317</Open>
+    <High>0.774303</High>
+    <Low>0.704436</Low>
+    <Close>0.72337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-04</Date>
+    <Open>0.722371</Open>
+    <High>0.728358</High>
+    <Low>0.691419</Low>
+    <Close>0.721451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-05</Date>
+    <Open>0.722465</Open>
+    <High>0.731341</High>
+    <Low>0.679429</Low>
+    <Close>0.717332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-06</Date>
+    <Open>0.718324</Open>
+    <High>0.794324</High>
+    <Low>0.6814</Low>
+    <Close>0.712401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-07</Date>
+    <Open>0.718396</Open>
+    <High>0.746305</High>
+    <Low>0.653444</Low>
+    <Close>0.726404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-08</Date>
+    <Open>0.72841</Open>
+    <High>0.729423</High>
+    <Low>0.681536</Low>
+    <Close>0.688552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-09</Date>
+    <Open>0.688552</Open>
+    <High>0.716362</High>
+    <Low>0.668505</Low>
+    <Close>0.69042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-10</Date>
+    <Open>0.690413</Open>
+    <High>0.708397</High>
+    <Low>0.611364</Low>
+    <Close>0.63219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-11</Date>
+    <Open>0.633188</Open>
+    <High>0.641262</High>
+    <Low>0.546322</Low>
+    <Close>0.568357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-12</Date>
+    <Open>0.567358</Open>
+    <High>0.578195</High>
+    <Low>0.49231</Low>
+    <Close>0.535335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-13</Date>
+    <Open>0.534337</Open>
+    <High>0.548303</High>
+    <Low>0.358278</Low>
+    <Close>0.418418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-14</Date>
+    <Open>0.41942</Open>
+    <High>0.443352</High>
+    <Low>0.361548</Low>
+    <Close>0.363563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-15</Date>
+    <Open>0.364558</Open>
+    <High>0.419538</High>
+    <Low>0.324415</Low>
+    <Close>0.418372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-16</Date>
+    <Open>0.419412</Open>
+    <High>0.423449</High>
+    <Low>0.339626</Low>
+    <Close>0.365488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-17</Date>
+    <Open>0.339028</Open>
+    <High>0.37</High>
+    <Low>0.334235</Low>
+    <Close>0.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-18</Date>
+    <Open>0.35</Open>
+    <High>0.37</High>
+    <Low>0.273594</Low>
+    <Close>0.305504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-19</Date>
+    <Open>0.309495</Open>
+    <High>0.579304</High>
+    <Low>0.29558</Low>
+    <Close>0.452411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-20</Date>
+    <Open>0.45341</Open>
+    <High>0.537408</High>
+    <Low>0.421494</Low>
+    <Close>0.425531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-21</Date>
+    <Open>0.425531</Open>
+    <High>0.504444</High>
+    <Low>0.415542</Low>
+    <Close>0.443512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-22</Date>
+    <Open>0.444511</Open>
+    <High>0.554445</High>
+    <Low>0.412546</Low>
+    <Close>0.507492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-23</Date>
+    <Open>0.506493</Open>
+    <High>0.61938</High>
+    <Low>0.488462</Low>
+    <Close>0.554445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-24</Date>
+    <Open>0.554445</Open>
+    <High>0.620379</High>
+    <Low>0.537548</Low>
+    <Close>0.572553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-25</Date>
+    <Open>0.571428</Open>
+    <High>0.574592</High>
+    <Low>0.510653</Low>
+    <Close>0.550614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-26</Date>
+    <Open>0.551619</Open>
+    <High>0.553618</High>
+    <Low>0.509699</Low>
+    <Close>0.525674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-27</Date>
+    <Open>0.523686</Open>
+    <High>0.547677</High>
+    <Low>0.469563</Low>
+    <Close>0.485563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-28</Date>
+    <Open>0.485553</Open>
+    <High>0.703359</High>
+    <Low>0.47953</Low>
+    <Close>0.576313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-29</Date>
+    <Open>0.576285</Open>
+    <High>0.644329</High>
+    <Low>0.55232</Low>
+    <Close>0.588287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-06-30</Date>
+    <Open>0.587294</Open>
+    <High>0.60224</High>
+    <Low>0.485417</Low>
+    <Close>0.4994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-01</Date>
+    <Open>0.4985</Open>
+    <High>0.5475</High>
+    <Low>0.4785</Low>
+    <Close>0.4995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-02</Date>
+    <Open>0.499</Open>
+    <High>0.506</High>
+    <Low>0.479</Low>
+    <Close>0.4845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-05</Date>
+    <Open>0.502447</Open>
+    <High>0.510438</High>
+    <Low>0.479472</Low>
+    <Close>0.502447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-06</Date>
+    <Open>0.504444</Open>
+    <High>0.524423</High>
+    <Low>0.489412</Low>
+    <Close>0.512436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-07</Date>
+    <Open>0.513383</Open>
+    <High>0.579362</High>
+    <Low>0.505393</Low>
+    <Close>0.556666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-08</Date>
+    <Open>0.556666</Open>
+    <High>0.577538</High>
+    <Low>0.504697</Low>
+    <Close>0.518689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-09</Date>
+    <Open>0.517689</Open>
+    <High>0.537677</High>
+    <Low>0.510642</Low>
+    <Close>0.523686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-10</Date>
+    <Open>0.524685</Open>
+    <High>0.531681</High>
+    <Low>0.489657</Low>
+    <Close>0.505696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-11</Date>
+    <Open>0.502698</Open>
+    <High>0.529629</High>
+    <Low>0.482614</Low>
+    <Close>0.500549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-12</Date>
+    <Open>0.500549</Open>
+    <High>0.504495</High>
+    <Low>0.465487</Low>
+    <Close>0.473526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-13</Date>
+    <Open>0.472541</Open>
+    <High>0.486513</High>
+    <Low>0.433566</Low>
+    <Close>0.476571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-14</Date>
+    <Open>0.476571</Open>
+    <High>0.503698</High>
+    <Low>0.469671</Low>
+    <Close>0.490656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-15</Date>
+    <Open>0.489706</Open>
+    <High>0.54878</High>
+    <Low>0.488707</Low>
+    <Close>0.527842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-16</Date>
+    <Open>0.527842</Open>
+    <High>0.544837</High>
+    <Low>0.4988</Low>
+    <Close>0.524895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-17</Date>
+    <Open>0.523864</Open>
+    <High>0.549868</High>
+    <Low>0.507903</Low>
+    <Close>0.526858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-18</Date>
+    <Open>0.524864</Open>
+    <High>0.597</High>
+    <Low>0.513836</Low>
+    <Close>0.578867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-19</Date>
+    <Open>0.577827</Open>
+    <High>0.657993</High>
+    <Low>0.553945</Low>
+    <Close>0.637102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-20</Date>
+    <Open>0.639</Open>
+    <High>0.641</High>
+    <Low>0.555961</Low>
+    <Close>0.578029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-21</Date>
+    <Open>0.579058</Open>
+    <High>0.586105</High>
+    <Low>0.537021</Low>
+    <Close>0.566136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-22</Date>
+    <Open>0.565141</Open>
+    <High>0.603054</High>
+    <Low>0.545082</Low>
+    <Close>0.54612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-23</Date>
+    <Open>0.546126</Open>
+    <High>0.593119</High>
+    <Low>0.537059</Low>
+    <Close>0.55011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-24</Date>
+    <Open>0.550055</Open>
+    <High>0.654941</High>
+    <Low>0.549055</Low>
+    <Close>0.632126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-25</Date>
+    <Open>0.632126</Open>
+    <High>0.64813</High>
+    <Low>0.566062</Low>
+    <Close>0.581046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-26</Date>
+    <Open>0.580052</Open>
+    <High>0.580087</High>
+    <Low>0.510015</Low>
+    <Close>0.523078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-27</Date>
+    <Open>0.524073</Open>
+    <High>0.591154</High>
+    <Low>0.523073</Low>
+    <Close>0.58214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-28</Date>
+    <Open>0.584134</Open>
+    <High>0.626169</High>
+    <Low>0.567085</Low>
+    <Close>0.606121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-29</Date>
+    <Open>0.606152</Open>
+    <High>0.643064</High>
+    <Low>0.575195</Low>
+    <Close>0.602241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-30</Date>
+    <Open>0.604242</Open>
+    <High>0.644225</High>
+    <Low>0.599228</Low>
+    <Close>0.607206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-07-31</Date>
+    <Open>0.607212</Open>
+    <High>0.858266</High>
+    <Low>0.593172</Low>
+    <Close>0.774178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-01</Date>
+    <Open>0.77531</Open>
+    <High>0.77631</High>
+    <Low>0.655098</Low>
+    <Close>0.687206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-02</Date>
+    <Open>0.687206</Open>
+    <High>0.722188</High>
+    <Low>0.63219</Low>
+    <Close>0.700119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-03</Date>
+    <Open>0.701133</Open>
+    <High>0.754166</High>
+    <Low>0.661172</Low>
+    <Close>0.734184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-04</Date>
+    <Open>0.734169</Open>
+    <High>0.734169</High>
+    <Low>0.66602</Low>
+    <Close>0.67302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-05</Date>
+    <Open>0.67102</Open>
+    <High>0.814967</High>
+    <Low>0.67102</Low>
+    <Close>0.767146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-06</Date>
+    <Open>0.767146</Open>
+    <High>0.775155</High>
+    <Low>0.73211</Low>
+    <Close>0.739163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-07</Date>
+    <Open>0.73917</Open>
+    <High>0.765099</High>
+    <Low>0.71315</Low>
+    <Close>0.754136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-08</Date>
+    <Open>0.754136</Open>
+    <High>0.843169</High>
+    <Low>0.736132</Low>
+    <Close>0.761091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-09</Date>
+    <Open>0.761091</Open>
+    <High>0.770162</High>
+    <Low>0.694153</Low>
+    <Close>0.715143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-10</Date>
+    <Open>0.718144</Open>
+    <High>0.77455</High>
+    <Low>0.675155</Low>
+    <Close>0.726211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-11</Date>
+    <Open>0.726218</Open>
+    <High>0.759334</High>
+    <Low>0.696306</Low>
+    <Close>0.706332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-12</Date>
+    <Open>0.703351</Open>
+    <High>0.730365</High>
+    <Low>0.693277</Low>
+    <Close>0.721332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-13</Date>
+    <Open>0.720331</Open>
+    <High>0.795238</High>
+    <Low>0.709284</Low>
+    <Close>0.762297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-14</Date>
+    <Open>0.762297</Open>
+    <High>0.799272</High>
+    <Low>0.719151</Low>
+    <Close>0.732227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-15</Date>
+    <Open>0.732227</Open>
+    <High>0.742208</High>
+    <Low>0.68315</Low>
+    <Close>0.691166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-16</Date>
+    <Open>0.690166</Open>
+    <High>0.69814</High>
+    <Low>0.662033</Low>
+    <Close>0.66706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-17</Date>
+    <Open>0.66706</Open>
+    <High>0.7111</High>
+    <Low>0.625994</Low>
+    <Close>0.644045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-18</Date>
+    <Open>0.644052</Open>
+    <High>0.659007</High>
+    <Low>0.628019</Low>
+    <Close>0.642019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-19</Date>
+    <Open>0.643064</Open>
+    <High>0.643064</High>
+    <Low>0.551</Low>
+    <Close>0.557056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-20</Date>
+    <Open>0.554022</Open>
+    <High>0.572029</High>
+    <Low>0.527857</Low>
+    <Close>0.539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-21</Date>
+    <Open>0.54</Open>
+    <High>0.697063</High>
+    <Low>0.537973</Low>
+    <Close>0.602982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-22</Date>
+    <Open>0.601988</Open>
+    <High>0.645981</High>
+    <Low>0.587865</Low>
+    <Close>0.600892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-23</Date>
+    <Open>0.60091</Open>
+    <High>0.618062</High>
+    <Low>0.581</Low>
+    <Close>0.601006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-24</Date>
+    <Open>0.601</Open>
+    <High>0.616031</High>
+    <Low>0.569983</Low>
+    <Close>0.591053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-25</Date>
+    <Open>0.592047</Open>
+    <High>0.601018</High>
+    <Low>0.571051</Low>
+    <Close>0.577017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-26</Date>
+    <Open>0.577006</Open>
+    <High>0.580081</High>
+    <Low>0.514985</Low>
+    <Close>0.526047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-27</Date>
+    <Open>0.526047</Open>
+    <High>0.574029</High>
+    <Low>0.494015</Low>
+    <Close>0.513015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-28</Date>
+    <Open>0.51101</Open>
+    <High>0.578017</High>
+    <Low>0.509959</Low>
+    <Close>0.528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-29</Date>
+    <Open>0.528</Open>
+    <High>0.558011</High>
+    <Low>0.50195</Low>
+    <Close>0.544038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-30</Date>
+    <Open>0.542038</Open>
+    <High>0.548995</High>
+    <Low>0.506056</Low>
+    <Close>0.526042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-08-31</Date>
+    <Open>0.530048</Open>
+    <High>0.544011</High>
+    <Low>0.51501</Low>
+    <Close>0.522995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-01</Date>
+    <Open>0.522995</Open>
+    <High>0.526</High>
+    <Low>0.49897</Low>
+    <Close>0.520969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-02</Date>
+    <Open>0.521979</Open>
+    <High>0.540965</High>
+    <Low>0.508831</Low>
+    <Close>0.516077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-03</Date>
+    <Open>0.517083</Open>
+    <High>0.523258</High>
+    <Low>0.4997</Low>
+    <Close>0.510051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-04</Date>
+    <Open>0.51</Open>
+    <High>0.5207</High>
+    <Low>0.4953</Low>
+    <Close>0.5151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-05</Date>
+    <Open>0.515</Open>
+    <High>0.5242</High>
+    <Low>0.4747</Low>
+    <Close>0.492949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-06</Date>
+    <Open>0.495049</Open>
+    <High>0.509051</High>
+    <Low>0.466953</Low>
+    <Close>0.475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-07</Date>
+    <Open>0.475</Open>
+    <High>0.522151</High>
+    <Low>0.457982</Low>
+    <Close>0.513051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-08</Date>
+    <Open>0.511031</Open>
+    <High>0.697042</High>
+    <Low>0.490044</Low>
+    <Close>0.551083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-09</Date>
+    <Open>0.55</Open>
+    <High>0.572109</High>
+    <Low>0.534128</Low>
+    <Close>0.557189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-10</Date>
+    <Open>0.555222</Open>
+    <High>0.644245</High>
+    <Low>0.549159</Low>
+    <Close>0.579116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-11</Date>
+    <Open>0.578121</Open>
+    <High>0.604157</High>
+    <Low>0.55016</Low>
+    <Close>0.552132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-12</Date>
+    <Open>0.552138</Open>
+    <High>0.59915</High>
+    <Low>0.538075</Low>
+    <Close>0.574103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-13</Date>
+    <Open>0.574172</Open>
+    <High>0.574172</High>
+    <Low>0.50802</Low>
+    <Close>0.51601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-14</Date>
+    <Open>0.515005</Open>
+    <High>0.530021</High>
+    <Low>0.503005</Low>
+    <Close>0.516129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-15</Date>
+    <Open>0.515134</Open>
+    <High>0.522146</High>
+    <Low>0.489892</Low>
+    <Close>0.501955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-16</Date>
+    <Open>0.50197</Open>
+    <High>0.50598</High>
+    <Low>0.418</Low>
+    <Close>0.472953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-17</Date>
+    <Open>0.471953</Open>
+    <High>0.523</High>
+    <Low>0.456</Low>
+    <Close>0.476048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-18</Date>
+    <Open>0.478</Open>
+    <High>0.485</High>
+    <Low>0.434957</Low>
+    <Close>0.438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-19</Date>
+    <Open>0.434</Open>
+    <High>0.481048</High>
+    <Low>0.426957</Low>
+    <Close>0.454045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-20</Date>
+    <Open>0.45209</Open>
+    <High>0.50205</High>
+    <Low>0.444044</Low>
+    <Close>0.465047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-21</Date>
+    <Open>0.464</Open>
+    <High>0.488</High>
+    <Low>0.451</Low>
+    <Close>0.453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-22</Date>
+    <Open>0.452045</Open>
+    <High>0.477048</High>
+    <Low>0.449</Low>
+    <Close>0.466953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-23</Date>
+    <Open>0.47</Open>
+    <High>0.49725</High>
+    <Low>0.459554</Low>
+    <Close>0.482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-24</Date>
+    <Open>0.483966</Open>
+    <High>0.492859</High>
+    <Low>0.464842</Low>
+    <Close>0.467237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-25</Date>
+    <Open>0.4667</Open>
+    <High>0.487615</High>
+    <Low>0.4524</Low>
+    <Close>0.463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-26</Date>
+    <Open>0.462695</Open>
+    <High>0.498</High>
+    <Low>0.448545</Low>
+    <Close>0.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-27</Date>
+    <Open>0.480952</Open>
+    <High>0.502</High>
+    <Low>0.469953</Low>
+    <Close>0.473953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-28</Date>
+    <Open>0.473953</Open>
+    <High>0.48</High>
+    <Low>0.457954</Low>
+    <Close>0.476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-29</Date>
+    <Open>0.4767</Open>
+    <High>0.4872</High>
+    <Low>0.4587</Low>
+    <Close>0.467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-09-30</Date>
+    <Open>0.467547</Open>
+    <High>0.478</High>
+    <Low>0.45219</Low>
+    <Close>0.4607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-01</Date>
+    <Open>0.4608</Open>
+    <High>0.4689</High>
+    <Low>0.451445</Low>
+    <Close>0.4587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-02</Date>
+    <Open>0.4595</Open>
+    <High>0.470747</High>
+    <Low>0.448545</Low>
+    <Close>0.458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-03</Date>
+    <Open>0.457846</Open>
+    <High>0.4616</High>
+    <Low>0.441744</Low>
+    <Close>0.454945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-04</Date>
+    <Open>0.455346</Open>
+    <High>0.587117</High>
+    <Low>0.453945</Low>
+    <Close>0.50115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-05</Date>
+    <Open>0.50015</Open>
+    <High>0.539108</High>
+    <Low>0.484</Low>
+    <Close>0.491049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-06</Date>
+    <Open>0.495069</Open>
+    <High>0.503086</High>
+    <Low>0.476057</Low>
+    <Close>0.476086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-07</Date>
+    <Open>0.477081</Open>
+    <High>0.491488</High>
+    <Low>0.463119</Low>
+    <Close>0.471366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-08</Date>
+    <Open>0.470647</Open>
+    <High>0.479843</High>
+    <Low>0.44644</Low>
+    <Close>0.453322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-09</Date>
+    <Open>0.453518</Open>
+    <High>0.486149</High>
+    <Low>0.450045</Low>
+    <Close>0.470494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-10</Date>
+    <Open>0.470047</Open>
+    <High>0.4748</High>
+    <Low>0.446211</Low>
+    <Close>0.4557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-11</Date>
+    <Open>0.4562</Open>
+    <High>0.4568</High>
+    <Low>0.421645</Low>
+    <Close>0.426762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-12</Date>
+    <Open>0.426157</Open>
+    <High>0.440882</High>
+    <Low>0.406276</Low>
+    <Close>0.421713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-13</Date>
+    <Open>0.422108</Open>
+    <High>0.424842</High>
+    <Low>0.366778</Low>
+    <Close>0.412533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-14</Date>
+    <Open>0.412429</Open>
+    <High>0.434917</High>
+    <Low>0.392608</Low>
+    <Close>0.398412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-15</Date>
+    <Open>0.398116</Open>
+    <High>0.442904</High>
+    <Low>0.385631</Low>
+    <Close>0.411421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-16</Date>
+    <Open>0.412</Open>
+    <High>0.477024</High>
+    <Low>0.40702</Low>
+    <Close>0.436022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-17</Date>
+    <Open>0.435022</Open>
+    <High>0.442013</High>
+    <Low>0.422025</Low>
+    <Close>0.427009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-18</Date>
+    <Open>0.427804</Open>
+    <High>0.438331</High>
+    <Low>0.405616</Low>
+    <Close>0.424721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-19</Date>
+    <Open>0.425317</Open>
+    <High>0.460037</High>
+    <Low>0.409616</Low>
+    <Close>0.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-20</Date>
+    <Open>0.43</Open>
+    <High>0.459991</High>
+    <Low>0.417975</Low>
+    <Close>0.427957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-21</Date>
+    <Open>0.426957</Open>
+    <High>0.431</High>
+    <Low>0.402992</Low>
+    <Close>0.42703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-22</Date>
+    <Open>0.428734</Open>
+    <High>0.525037</High>
+    <Low>0.428134</Low>
+    <Close>0.457041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-23</Date>
+    <Open>0.458041</Open>
+    <High>0.50604</High>
+    <Low>0.449004</Low>
+    <Close>0.469061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-24</Date>
+    <Open>0.469056</Open>
+    <High>0.535064</High>
+    <Low>0.469005</Low>
+    <Close>0.515021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-25</Date>
+    <Open>0.515021</Open>
+    <High>0.542179</High>
+    <Low>0.502</Low>
+    <Close>0.528169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-26</Date>
+    <Open>0.527158</Open>
+    <High>0.557134</High>
+    <Low>0.520083</Low>
+    <Close>0.533149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-27</Date>
+    <Open>0.531149</Open>
+    <High>0.54286</High>
+    <Low>0.490015</Low>
+    <Close>0.50802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-28</Date>
+    <Open>0.509025</Open>
+    <High>0.561418</High>
+    <Low>0.49682</Low>
+    <Close>0.545114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-29</Date>
+    <Open>0.545104</Open>
+    <High>0.564186</High>
+    <Low>0.535155</Low>
+    <Close>0.554127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-30</Date>
+    <Open>0.555133</Open>
+    <High>0.572166</High>
+    <Low>0.537161</Low>
+    <Close>0.566113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-10-31</Date>
+    <Open>0.564113</Open>
+    <High>0.622137</High>
+    <Low>0.563113</Low>
+    <Close>0.594952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-01</Date>
+    <Open>0.59497</Open>
+    <High>0.679925</High>
+    <Low>0.587824</Low>
+    <Close>0.663927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-02</Date>
+    <Open>0.664934</Open>
+    <High>0.958799</High>
+    <Low>0.657921</Low>
+    <Close>0.738956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-03</Date>
+    <Open>0.738956</Open>
+    <High>0.885929</High>
+    <Low>0.736919</Low>
+    <Close>0.746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-04</Date>
+    <Open>0.743</Open>
+    <High>0.797056</High>
+    <Low>0.697923</Low>
+    <Close>0.770062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-05</Date>
+    <Open>0.770062</Open>
+    <High>0.955067</High>
+    <Low>0.734066</Low>
+    <Close>0.927046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-06</Date>
+    <Open>0.929046</Open>
+    <High>1.17305</High>
+    <Low>0.890053</Low>
+    <Close>0.931074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-07</Date>
+    <Open>0.930065</Open>
+    <High>0.984079</High>
+    <Low>0.765069</Low>
+    <Close>0.783102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-08</Date>
+    <Open>0.783235</Open>
+    <High>0.809</High>
+    <Low>0.525683</Low>
+    <Close>0.593776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-09</Date>
+    <Open>0.593776</Open>
+    <High>0.627687</High>
+    <Low>0.395184</Low>
+    <Close>0.429007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-10</Date>
+    <Open>0.428203</Open>
+    <High>0.728394</High>
+    <Low>0.413549</Low>
+    <Close>0.613139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-11</Date>
+    <Open>0.613627</Open>
+    <High>0.695825</High>
+    <Low>0.513024</Low>
+    <Close>0.548039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-12</Date>
+    <Open>0.546437</Open>
+    <High>0.550641</High>
+    <Low>0.481132</Low>
+    <Close>0.500098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-13</Date>
+    <Open>0.500098</Open>
+    <High>0.597163</High>
+    <Low>0.478425</Low>
+    <Close>0.482324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-14</Date>
+    <Open>0.480423</Open>
+    <High>0.527314</High>
+    <Low>0.460309</Low>
+    <Close>0.48627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-15</Date>
+    <Open>0.486245</Open>
+    <High>0.519272</High>
+    <Low>0.484515</Low>
+    <Close>0.491508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-16</Date>
+    <Open>0.492399</Open>
+    <High>0.513383</High>
+    <Low>0.469492</Low>
+    <Close>0.478559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-17</Date>
+    <Open>0.47952</Open>
+    <High>0.491641</High>
+    <Low>0.470581</Low>
+    <Close>0.47363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-18</Date>
+    <Open>0.474625</Open>
+    <High>0.492606</High>
+    <Low>0.469436</Low>
+    <Close>0.473455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-19</Date>
+    <Open>0.472456</Open>
+    <High>0.4834</High>
+    <Low>0.45647</Low>
+    <Close>0.464512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-20</Date>
+    <Open>0.464516</Open>
+    <High>0.493407</High>
+    <Low>0.43733</Low>
+    <Close>0.44033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-21</Date>
+    <Open>0.440325</Open>
+    <High>0.444439</High>
+    <Low>0.405562</Low>
+    <Close>0.420495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-22</Date>
+    <Open>0.420491</Open>
+    <High>0.433492</High>
+    <Low>0.39952</Low>
+    <Close>0.429475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-23</Date>
+    <Open>0.428447</Open>
+    <High>0.47044</High>
+    <Low>0.427435</Low>
+    <Close>0.453501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-24</Date>
+    <Open>0.455498</Open>
+    <High>0.477484</High>
+    <Low>0.4396</Low>
+    <Close>0.449618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-25</Date>
+    <Open>0.450621</Open>
+    <High>0.461626</High>
+    <Low>0.430647</Low>
+    <Close>0.447749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-26</Date>
+    <Open>0.44774</Open>
+    <High>0.516659</High>
+    <Low>0.443738</Low>
+    <Close>0.479717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-27</Date>
+    <Open>0.478722</Open>
+    <High>0.566665</High>
+    <Low>0.477718</Low>
+    <Close>0.513671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-28</Date>
+    <Open>0.512672</Open>
+    <High>0.512795</High>
+    <Low>0.464809</Low>
+    <Close>0.470821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-29</Date>
+    <Open>0.469817</Open>
+    <High>0.494733</High>
+    <Low>0.448798</Low>
+    <Close>0.474815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-11-30</Date>
+    <Open>0.475824</Open>
+    <High>0.49882</High>
+    <Low>0.468991</Low>
+    <Close>0.49503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-01</Date>
+    <Open>0.49302</Open>
+    <High>0.495059</High>
+    <Low>0.478019</Low>
+    <Close>0.481024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-02</Date>
+    <Open>0.482029</Open>
+    <High>0.491044</High>
+    <Low>0.473047</Low>
+    <Close>0.485029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-03</Date>
+    <Open>0.484019</Open>
+    <High>0.528053</High>
+    <Low>0.480024</Low>
+    <Close>0.4981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-04</Date>
+    <Open>0.49805</Open>
+    <High>0.548</High>
+    <Low>0.49805</Low>
+    <Close>0.509051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-05</Date>
+    <Open>0.510102</Open>
+    <High>0.537032</High>
+    <Low>0.478</Low>
+    <Close>0.494015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-06</Date>
+    <Open>0.494049</Open>
+    <High>0.50099</High>
+    <Low>0.479034</Low>
+    <Close>0.50099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-07</Date>
+    <Open>0.50099</Open>
+    <High>0.526989</High>
+    <Low>0.485034</Low>
+    <Close>0.497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-08</Date>
+    <Open>0.497</Open>
+    <High>0.531053</High>
+    <Low>0.48999</Low>
+    <Close>0.530037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-09</Date>
+    <Open>0.530037</Open>
+    <High>0.552055</High>
+    <Low>0.506</Low>
+    <Close>0.515015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-10</Date>
+    <Open>0.515021</Open>
+    <High>0.534</High>
+    <Low>0.503</Low>
+    <Close>0.51899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-11</Date>
+    <Open>0.51899</Open>
+    <High>0.52501</High>
+    <Low>0.49905</Low>
+    <Close>0.5001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-12</Date>
+    <Open>0.5011</Open>
+    <High>0.506051</High>
+    <Low>0.487034</Low>
+    <Close>0.498045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-13</Date>
+    <Open>0.500035</Open>
+    <High>0.53693</High>
+    <Low>0.488132</Low>
+    <Close>0.51887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-14</Date>
+    <Open>0.516835</Open>
+    <High>0.523906</High>
+    <Low>0.499035</Low>
+    <Close>0.501035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-15</Date>
+    <Open>0.501</Open>
+    <High>0.506101</High>
+    <Low>0.491049</Low>
+    <Close>0.497099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-16</Date>
+    <Open>0.497099</Open>
+    <High>0.51</High>
+    <Low>0.460046</Low>
+    <Close>0.460046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-17</Date>
+    <Open>0.460046</Open>
+    <High>0.461046</High>
+    <Low>0.429043</Low>
+    <Close>0.446058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-18</Date>
+    <Open>0.446058</Open>
+    <High>0.451018</High>
+    <Low>0.441035</Low>
+    <Close>0.449058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-19</Date>
+    <Open>0.450054</Open>
+    <High>0.452081</High>
+    <Low>0.421</Low>
+    <Close>0.421004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-20</Date>
+    <Open>0.421992</Open>
+    <High>0.440026</High>
+    <Low>0.409</Low>
+    <Close>0.433017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-21</Date>
+    <Open>0.433017</Open>
+    <High>0.434013</High>
+    <Low>0.409029</Low>
+    <Close>0.412021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-22</Date>
+    <Open>0.412021</Open>
+    <High>0.446996</High>
+    <Low>0.409992</Low>
+    <Close>0.427927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-23</Date>
+    <Open>0.426932</Open>
+    <High>0.449022</High>
+    <Low>0.425936</Low>
+    <Close>0.427953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-24</Date>
+    <Open>0.428957</Open>
+    <High>0.430961</High>
+    <Low>0.422983</Low>
+    <Close>0.423975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-25</Date>
+    <Open>0.422975</Open>
+    <High>0.427991</High>
+    <Low>0.412938</Low>
+    <Close>0.418937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-26</Date>
+    <Open>0.41895</Open>
+    <High>0.419958</High>
+    <Low>0.407959</Low>
+    <Close>0.416917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-27</Date>
+    <Open>0.416925</Open>
+    <High>0.422911</High>
+    <Low>0.408857</Low>
+    <Close>0.417833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-28</Date>
+    <Open>0.417837</Open>
+    <High>0.459779</High>
+    <Low>0.404874</Low>
+    <Close>0.422772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-29</Date>
+    <Open>0.423775</Open>
+    <High>0.436773</High>
+    <Low>0.408828</Low>
+    <Close>0.409815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-30</Date>
+    <Open>0.409815</Open>
+    <High>0.410807</High>
+    <Low>0.398197</Low>
+    <Close>0.406697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2022-12-31</Date>
+    <Open>0.407192</Open>
+    <High>0.414693</High>
+    <Low>0.400791</Low>
+    <Close>0.401499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-01</Date>
+    <Open>0.401599</Open>
+    <High>0.409516</High>
+    <Low>0.398884</Low>
+    <Close>0.403514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-02</Date>
+    <Open>0.40351</Open>
+    <High>0.417571</High>
+    <Low>0.402227</Low>
+    <Close>0.417466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-03</Date>
+    <Open>0.417462</Open>
+    <High>0.41837</High>
+    <Low>0.402635</Low>
+    <Close>0.40884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-04</Date>
+    <Open>0.408741</Open>
+    <High>0.423031</High>
+    <Low>0.400336</Low>
+    <Close>0.414063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-05</Date>
+    <Open>0.414063</Open>
+    <High>0.433822</High>
+    <Low>0.408628</Low>
+    <Close>0.421952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-06</Date>
+    <Open>0.421852</Open>
+    <High>0.421852</High>
+    <Low>0.403566</Low>
+    <Close>0.416971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-07</Date>
+    <Open>0.417266</Open>
+    <High>0.431266</High>
+    <Low>0.409873</Low>
+    <Close>0.412697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-08</Date>
+    <Open>0.412976</Open>
+    <High>0.427419</High>
+    <Low>0.408539</Low>
+    <Close>0.426636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-09</Date>
+    <Open>0.426815</Open>
+    <High>0.456573</High>
+    <Low>0.426815</Low>
+    <Close>0.440096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-10</Date>
+    <Open>0.4401</Open>
+    <High>0.466572</High>
+    <Low>0.435209</Low>
+    <Close>0.448263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-11</Date>
+    <Open>0.448267</Open>
+    <High>0.4597</High>
+    <Low>0.434848</Low>
+    <Close>0.446691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-12</Date>
+    <Open>0.447255</Open>
+    <High>0.472952</High>
+    <Low>0.437356</Low>
+    <Close>0.461046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-13</Date>
+    <Open>0.461037</Open>
+    <High>0.555961</High>
+    <Low>0.454527</Low>
+    <Close>0.529048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-14</Date>
+    <Open>0.529048</Open>
+    <High>0.608116</High>
+    <Low>0.518098</Low>
+    <Close>0.539027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-15</Date>
+    <Open>0.540027</Open>
+    <High>0.608182</High>
+    <Low>0.511056</Low>
+    <Close>0.565164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-16</Date>
+    <Open>0.565164</Open>
+    <High>0.629</High>
+    <Low>0.558039</Low>
+    <Close>0.612012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-17</Date>
+    <Open>0.612012</Open>
+    <High>0.617049</High>
+    <Low>0.573989</Low>
+    <Close>0.586059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-18</Date>
+    <Open>0.586064</Open>
+    <High>0.597054</High>
+    <Low>0.521953</Low>
+    <Close>0.535973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-19</Date>
+    <Open>0.536973</Open>
+    <High>0.566994</High>
+    <Low>0.526953</Low>
+    <Close>0.565977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-20</Date>
+    <Open>0.564977</Open>
+    <High>0.742111</High>
+    <Low>0.557994</Low>
+    <Close>0.700119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-21</Date>
+    <Open>0.700126</Open>
+    <High>0.741193</High>
+    <Low>0.680136</Low>
+    <Close>0.70214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-22</Date>
+    <Open>0.701105</Open>
+    <High>0.712135</High>
+    <Low>0.64609</Low>
+    <Close>0.674128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-23</Date>
+    <Open>0.674135</Open>
+    <High>0.869113</High>
+    <Low>0.674135</Low>
+    <Close>0.833133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-24</Date>
+    <Open>0.833125</Open>
+    <High>0.899117</High>
+    <Low>0.761114</Low>
+    <Close>0.797016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-25</Date>
+    <Open>0.799016</Open>
+    <High>0.94015</High>
+    <Low>0.766077</Low>
+    <Close>0.873148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-26</Date>
+    <Open>0.871148</Open>
+    <High>0.935178</High>
+    <Low>0.85217</Low>
+    <Close>0.87407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-27</Date>
+    <Open>0.874079</Open>
+    <High>0.900126</High>
+    <Low>0.808218</Low>
+    <Close>0.86933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-28</Date>
+    <Open>0.869304</Open>
+    <High>1.37729</High>
+    <Low>0.857223</Low>
+    <Close>1.23423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-29</Date>
+    <Open>1.23624</Open>
+    <High>1.43939</High>
+    <Low>1.14227</Low>
+    <Close>1.31605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-30</Date>
+    <Open>1.31605</Open>
+    <High>1.32609</High>
+    <Low>1.14402</Low>
+    <Close>1.18908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-01-31</Date>
+    <Open>1.19008</Open>
+    <High>1.49696</High>
+    <Low>1.16292</Low>
+    <Close>1.43513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-01</Date>
+    <Open>1.4361</Open>
+    <High>1.67825</High>
+    <Low>1.33501</Low>
+    <Close>1.55309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-02</Date>
+    <Open>1.55609</Open>
+    <High>1.78414</High>
+    <Low>1.50627</Low>
+    <Close>1.73335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-03</Date>
+    <Open>1.73335</Open>
+    <High>1.75026</High>
+    <Low>1.53325</Low>
+    <Close>1.70414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-04</Date>
+    <Open>1.70415</Open>
+    <High>1.76114</High>
+    <Low>1.62711</Low>
+    <Close>1.68914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-05</Date>
+    <Open>1.69014</Open>
+    <High>1.87041</High>
+    <Low>1.63224</Low>
+    <Close>1.76744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-06</Date>
+    <Open>1.76544</Open>
+    <High>2.003</High>
+    <Low>1.7324</Low>
+    <Close>1.88108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-07</Date>
+    <Open>1.88008</Open>
+    <High>2.19011</High>
+    <Low>1.80818</Low>
+    <Close>2.18615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-08</Date>
+    <Open>2.18713</Open>
+    <High>2.19013</High>
+    <Low>1.60121</Low>
+    <Close>1.73114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-09</Date>
+    <Open>1.73214</Open>
+    <High>1.79496</High>
+    <Low>1.27728</Low>
+    <Close>1.31912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-10</Date>
+    <Open>1.32013</Open>
+    <High>1.5243</High>
+    <Low>1.31816</Low>
+    <Close>1.48822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-11</Date>
+    <Open>1.48</Open>
+    <High>1.49321</High>
+    <Low>1.35112</Low>
+    <Close>1.42713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-12</Date>
+    <Open>1.42714</Open>
+    <High>1.68307</High>
+    <Low>1.39422</Low>
+    <Close>1.58613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-13</Date>
+    <Open>1.58916</Open>
+    <High>1.65646</High>
+    <Low>1.394</Low>
+    <Close>1.45579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-14</Date>
+    <Open>1.4558</Open>
+    <High>1.77768</High>
+    <Low>1.44572</Low>
+    <Close>1.72469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-15</Date>
+    <Open>1.72669</Open>
+    <High>2.08629</High>
+    <Low>1.69061</Low>
+    <Close>2.02136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-16</Date>
+    <Open>2.02238</Open>
+    <High>2.13738</High>
+    <Low>1.76918</Low>
+    <Close>1.79261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-17</Date>
+    <Open>1.79461</Open>
+    <High>1.99096</High>
+    <Low>1.68824</Low>
+    <Close>1.87719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-18</Date>
+    <Open>1.88019</Open>
+    <High>1.93639</High>
+    <Low>1.78432</Low>
+    <Close>1.8463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-19</Date>
+    <Open>1.8473</Open>
+    <High>1.86628</High>
+    <Low>1.70548</Low>
+    <Close>1.72538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-20</Date>
+    <Open>1.72738</Open>
+    <High>1.74917</High>
+    <Low>1.60948</Low>
+    <Close>1.69505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-21</Date>
+    <Open>1.69407</Open>
+    <High>1.88024</High>
+    <Low>1.64433</Low>
+    <Close>1.67929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-22</Date>
+    <Open>1.6793</Open>
+    <High>1.70724</High>
+    <Low>1.51406</Low>
+    <Close>1.628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-23</Date>
+    <Open>1.627</Open>
+    <High>1.70622</High>
+    <Low>1.54029</Low>
+    <Close>1.5682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-24</Date>
+    <Open>1.56722</Open>
+    <High>1.68032</High>
+    <Low>1.38711</Low>
+    <Close>1.40699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-25</Date>
+    <Open>1.40799</Open>
+    <High>1.47113</High>
+    <Low>1.31325</Low>
+    <Close>1.3991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-26</Date>
+    <Open>1.39414</Open>
+    <High>1.57111</High>
+    <Low>1.3821</Low>
+    <Close>1.54212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-27</Date>
+    <Open>1.54008</Open>
+    <High>1.56711</High>
+    <Low>1.4402</Low>
+    <Close>1.48907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-02-28</Date>
+    <Open>1.49107</Open>
+    <High>1.63397</High>
+    <Low>1.44335</Low>
+    <Close>1.46932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-01</Date>
+    <Open>1.46828</Open>
+    <High>1.54226</High>
+    <Low>1.43319</Low>
+    <Close>1.5252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-02</Date>
+    <Open>1.5252</Open>
+    <High>1.58222</High>
+    <Low>1.417</Low>
+    <Close>1.51714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-03</Date>
+    <Open>1.51812</Open>
+    <High>1.54414</High>
+    <Low>1.31811</Low>
+    <Close>1.33809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-04</Date>
+    <Open>1.33809</Open>
+    <High>1.37407</High>
+    <Low>1.17306</Low>
+    <Close>1.2101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-05</Date>
+    <Open>1.21308</Open>
+    <High>1.2851</High>
+    <Low>1.19814</Low>
+    <Close>1.20413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-06</Date>
+    <Open>1.20014</Open>
+    <High>1.23591</High>
+    <Low>1.16319</Low>
+    <Close>1.20693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-07</Date>
+    <Open>1.20688</Open>
+    <High>1.28599</High>
+    <Low>1.14197</Low>
+    <Close>1.16194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-08</Date>
+    <Open>1.166</Open>
+    <High>1.19282</High>
+    <Low>1.04696</Low>
+    <Close>1.05794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-09</Date>
+    <Open>1.05889</Open>
+    <High>1.16946</High>
+    <Low>1.00022</Low>
+    <Close>1.0051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-10</Date>
+    <Open>1.0041</Open>
+    <High>1.067</High>
+    <Low>0.89493</Low>
+    <Close>1.05279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-11</Date>
+    <Open>1.05376</Open>
+    <High>1.1052</High>
+    <Low>0.91884</Low>
+    <Close>0.96897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-12</Date>
+    <Open>0.97213</Open>
+    <High>1.18952</High>
+    <Low>0.964293</Low>
+    <Close>1.16601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-13</Date>
+    <Open>1.16803</Open>
+    <High>1.39549</High>
+    <Low>1.14992</Low>
+    <Close>1.30719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-14</Date>
+    <Open>1.3082</Open>
+    <High>1.47668</High>
+    <Low>1.23188</Low>
+    <Close>1.39269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-15</Date>
+    <Open>1.39393</Open>
+    <High>1.516</High>
+    <Low>1.17288</Low>
+    <Close>1.26234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-16</Date>
+    <Open>1.25624</Open>
+    <High>1.38103</High>
+    <Low>1.23429</Low>
+    <Close>1.32331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-17</Date>
+    <Open>1.32728</Open>
+    <High>1.46885</High>
+    <Low>1.31185</Low>
+    <Close>1.45333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-18</Date>
+    <Open>1.45435</Open>
+    <High>1.59873</High>
+    <Low>1.41379</Low>
+    <Close>1.46035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-19</Date>
+    <Open>1.46336</Open>
+    <High>1.58273</High>
+    <Low>1.40299</Low>
+    <Close>1.49752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-20</Date>
+    <Open>1.49752</Open>
+    <High>1.50561</High>
+    <Low>1.33687</Low>
+    <Close>1.35192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-21</Date>
+    <Open>1.34891</Open>
+    <High>1.3942</High>
+    <Low>1.27678</Low>
+    <Close>1.33526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-22</Date>
+    <Open>1.33525</Open>
+    <High>1.4917</High>
+    <Low>1.29814</Low>
+    <Close>1.40584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-23</Date>
+    <Open>1.40684</Open>
+    <High>1.42104</High>
+    <Low>1.3144</Low>
+    <Close>1.32976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-24</Date>
+    <Open>1.32876</Open>
+    <High>1.34663</High>
+    <Low>1.19083</Low>
+    <Close>1.21022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-25</Date>
+    <Open>1.20834</Open>
+    <High>1.23426</High>
+    <Low>1.12827</Low>
+    <Close>1.14811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-26</Date>
+    <Open>1.14511</Open>
+    <High>1.26113</High>
+    <Low>1.13709</Low>
+    <Close>1.20636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-27</Date>
+    <Open>1.21033</Open>
+    <High>1.23694</High>
+    <Low>1.10374</Low>
+    <Close>1.14854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-28</Date>
+    <Open>1.14754</Open>
+    <High>1.19205</High>
+    <Low>1.08935</Low>
+    <Close>1.16345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-29</Date>
+    <Open>1.16245</Open>
+    <High>1.31534</High>
+    <Low>1.1603</Low>
+    <Close>1.29823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-30</Date>
+    <Open>1.29625</Open>
+    <High>1.31225</High>
+    <Low>1.21722</Low>
+    <Close>1.25135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-03-31</Date>
+    <Open>1.25334</Open>
+    <High>1.35638</High>
+    <Low>1.20535</Low>
+    <Close>1.34127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-01</Date>
+    <Open>1.34127</Open>
+    <High>1.3904</High>
+    <Low>1.30455</Low>
+    <Close>1.33948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-02</Date>
+    <Open>1.3385</Open>
+    <High>1.36257</High>
+    <Low>1.25685</Low>
+    <Close>1.26678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-03</Date>
+    <Open>1.26879</Open>
+    <High>1.35155</High>
+    <Low>1.22728</Low>
+    <Close>1.2825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-04</Date>
+    <Open>1.28351</Open>
+    <High>1.37655</High>
+    <Low>1.27357</Low>
+    <Close>1.33468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-05</Date>
+    <Open>1.33467</Open>
+    <High>1.3924</High>
+    <Low>1.30814</Low>
+    <Close>1.33248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-06</Date>
+    <Open>1.33148</Open>
+    <High>1.34434</High>
+    <Low>1.27256</Low>
+    <Close>1.29545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-07</Date>
+    <Open>1.29745</Open>
+    <High>1.31971</High>
+    <Low>1.26576</Low>
+    <Close>1.27794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-08</Date>
+    <Open>1.27895</Open>
+    <High>1.31054</High>
+    <Low>1.26063</Low>
+    <Close>1.2715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-09</Date>
+    <Open>1.2725</Open>
+    <High>1.30977</High>
+    <Low>1.24682</Low>
+    <Close>1.30487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-10</Date>
+    <Open>1.30992</Open>
+    <High>1.44418</High>
+    <Low>1.29183</Low>
+    <Close>1.43516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-11</Date>
+    <Open>1.43518</Open>
+    <High>1.69856</High>
+    <Low>1.43418</Low>
+    <Close>1.58056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-12</Date>
+    <Open>1.58257</Open>
+    <High>1.68148</High>
+    <Low>1.53161</Low>
+    <Close>1.60425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-13</Date>
+    <Open>1.60325</Open>
+    <High>1.6857</High>
+    <Low>1.55545</Low>
+    <Close>1.58652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-14</Date>
+    <Open>1.58552</Open>
+    <High>1.78963</High>
+    <Low>1.5845</Low>
+    <Close>1.74545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-15</Date>
+    <Open>1.74445</Open>
+    <High>1.77063</High>
+    <Low>1.65844</Low>
+    <Close>1.67049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-16</Date>
+    <Open>1.6715</Open>
+    <High>1.78648</High>
+    <Low>1.65142</Low>
+    <Close>1.75019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-17</Date>
+    <Open>1.75317</Open>
+    <High>2.08704</High>
+    <Low>1.72445</Low>
+    <Close>1.9982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-18</Date>
+    <Open>2.00218</Open>
+    <High>2.1287</High>
+    <Low>1.94797</Low>
+    <Close>2.05537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-19</Date>
+    <Open>2.05435</Open>
+    <High>2.05435</High>
+    <Low>1.8105</Low>
+    <Close>1.92606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-20</Date>
+    <Open>1.92004</Open>
+    <High>2.19431</High>
+    <Low>1.85882</Low>
+    <Close>1.92115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-21</Date>
+    <Open>1.92213</Open>
+    <High>1.94288</High>
+    <Low>1.62266</Low>
+    <Close>1.64282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-22</Date>
+    <Open>1.64082</Open>
+    <High>1.84606</High>
+    <Low>1.62348</Low>
+    <Close>1.80816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-23</Date>
+    <Open>1.80516</Open>
+    <High>1.83216</High>
+    <Low>1.63336</Low>
+    <Close>1.66208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-24</Date>
+    <Open>1.65908</Open>
+    <High>1.83689</High>
+    <Low>1.648</Low>
+    <Close>1.76604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-25</Date>
+    <Open>1.76504</Open>
+    <High>1.98748</High>
+    <Low>1.74503</Low>
+    <Close>1.97445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-26</Date>
+    <Open>1.97645</Open>
+    <High>2.46737</High>
+    <Low>1.96443</Low>
+    <Close>2.37676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-27</Date>
+    <Open>2.37176</Open>
+    <High>2.40846</High>
+    <Low>2.21769</Low>
+    <Close>2.35985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-28</Date>
+    <Open>2.35478</Open>
+    <High>2.58904</High>
+    <Low>2.32588</Low>
+    <Close>2.38483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-29</Date>
+    <Open>2.39184</Open>
+    <High>2.49079</High>
+    <Low>2.34366</Low>
+    <Close>2.38341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-04-30</Date>
+    <Open>2.3814</Open>
+    <High>2.56526</High>
+    <Low>2.34226</Low>
+    <Close>2.42138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-01</Date>
+    <Open>2.41935</Open>
+    <High>2.4592</High>
+    <Low>2.18763</Low>
+    <Close>2.19459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-02</Date>
+    <Open>2.19757</Open>
+    <High>2.27348</High>
+    <Low>2.07812</Low>
+    <Close>2.10931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-03</Date>
+    <Open>2.10829</Open>
+    <High>2.29862</High>
+    <Low>2.02483</Low>
+    <Close>2.27659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-04</Date>
+    <Open>2.27661</Open>
+    <High>2.3257</High>
+    <Low>2.18281</Low>
+    <Close>2.25181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-05</Date>
+    <Open>2.25081</Open>
+    <High>2.25793</High>
+    <Low>2.12881</Low>
+    <Close>2.18399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-06</Date>
+    <Open>2.18601</Open>
+    <High>2.21121</High>
+    <Low>2.02511</Low>
+    <Close>2.09666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-07</Date>
+    <Open>2.09163</Open>
+    <High>2.23797</High>
+    <Low>2.03088</Low>
+    <Close>2.15552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-08</Date>
+    <Open>2.15344</Open>
+    <High>2.16287</High>
+    <Low>1.80039</Low>
+    <Close>1.85941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-09</Date>
+    <Open>1.85939</Open>
+    <High>1.87946</High>
+    <Low>1.7007</Low>
+    <Close>1.74674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-10</Date>
+    <Open>1.74875</Open>
+    <High>1.94814</High>
+    <Low>1.68286</Low>
+    <Close>1.83383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-11</Date>
+    <Open>1.83383</Open>
+    <High>1.86668</High>
+    <Low>1.63047</Low>
+    <Close>1.71354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-12</Date>
+    <Open>1.71571</Open>
+    <High>1.80108</High>
+    <Low>1.66166</Low>
+    <Close>1.78643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-13</Date>
+    <Open>1.78743</Open>
+    <High>1.88413</High>
+    <Low>1.77489</Low>
+    <Close>1.82609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-14</Date>
+    <Open>1.82891</Open>
+    <High>1.89514</High>
+    <Low>1.78107</Low>
+    <Close>1.8351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-15</Date>
+    <Open>1.83292</Open>
+    <High>1.90152</High>
+    <Low>1.7939</Low>
+    <Close>1.82227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-16</Date>
+    <Open>1.82227</Open>
+    <High>1.98699</High>
+    <Low>1.77524</Low>
+    <Close>1.94378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-17</Date>
+    <Open>1.94278</Open>
+    <High>2.34017</High>
+    <Low>1.91777</Low>
+    <Close>2.28214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-18</Date>
+    <Open>2.28791</Open>
+    <High>2.513</High>
+    <Low>2.2579</Low>
+    <Close>2.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-19</Date>
+    <Open>2.502</Open>
+    <High>2.507</High>
+    <Low>2.31325</Low>
+    <Close>2.3437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-20</Date>
+    <Open>2.34517</Open>
+    <High>2.42194</High>
+    <Low>2.26836</Low>
+    <Close>2.35612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-21</Date>
+    <Open>2.35612</Open>
+    <High>2.93876</High>
+    <Low>2.32733</Low>
+    <Close>2.47248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-22</Date>
+    <Open>2.47148</Open>
+    <High>2.51926</High>
+    <Low>2.3364</Low>
+    <Close>2.44747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-23</Date>
+    <Open>2.45022</Open>
+    <High>2.79825</High>
+    <Low>2.39865</Low>
+    <Close>2.71316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-24</Date>
+    <Open>2.70735</Open>
+    <High>2.76511</High>
+    <Low>2.40195</Low>
+    <Close>2.63984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-25</Date>
+    <Open>2.63687</Open>
+    <High>2.89962</High>
+    <Low>2.53495</Low>
+    <Close>2.70408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-26</Date>
+    <Open>2.71008</Open>
+    <High>2.87981</High>
+    <Low>2.65408</Low>
+    <Close>2.75955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-27</Date>
+    <Open>2.75855</Open>
+    <High>2.78892</High>
+    <Low>2.59478</Low>
+    <Close>2.62797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RNDR">
+    <Date>2023-05-28</Date>
+    <Open>2.62705</Open>
+    <High>2.73437</High>
+    <Low>2.59804</Low>
+    <Close>2.72263</Close>
+  </Cryptocurrency>
+</Root>

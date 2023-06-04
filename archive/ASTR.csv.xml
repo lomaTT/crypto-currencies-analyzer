@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-14</Date>
+    <Open>0.0713784</Open>
+    <High>0.0713784</High>
+    <Low>0.0712715</Low>
+    <Close>0.0712786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-15</Date>
+    <Open>0.0688035</Open>
+    <High>0.0734118</High>
+    <Low>0.0657013</Low>
+    <Close>0.0731048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-16</Date>
+    <Open>0.0734118</Open>
+    <High>0.0750174</High>
+    <Low>0.0645031</Low>
+    <Close>0.0673124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-17</Date>
+    <Open>0.0674123</Open>
+    <High>0.0711217</High>
+    <Low>0.0654149</Low>
+    <Close>0.069916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-18</Date>
+    <Open>0.0701087</Open>
+    <High>0.0735117</High>
+    <Low>0.0600219</Low>
+    <Close>0.0615199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-19</Date>
+    <Open>0.0611204</Open>
+    <High>0.0622439</High>
+    <Low>0.0576365</Low>
+    <Close>0.0617382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-20</Date>
+    <Open>0.0616445</Open>
+    <High>0.0636299</High>
+    <Low>0.0546344</Low>
+    <Close>0.0571314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-21</Date>
+    <Open>0.0571314</Open>
+    <High>0.0586237</High>
+    <Low>0.0546289</Low>
+    <Close>0.0562268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-22</Date>
+    <Open>0.0562268</Open>
+    <High>0.0596224</High>
+    <Low>0.0558273</Low>
+    <Close>0.0565321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-23</Date>
+    <Open>0.0565321</Open>
+    <High>0.0612326</High>
+    <Low>0.0565321</Low>
+    <Close>0.0579304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-24</Date>
+    <Open>0.0579304</Open>
+    <High>0.0885025</High>
+    <Low>0.0546344</Low>
+    <Close>0.068411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-25</Date>
+    <Open>0.0684041</Open>
+    <High>0.0869043</High>
+    <Low>0.0648221</Low>
+    <Close>0.0686244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-26</Date>
+    <Open>0.0687174</Open>
+    <High>0.069024</High>
+    <Low>0.0593287</Low>
+    <Close>0.060833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-27</Date>
+    <Open>0.0610328</Open>
+    <High>0.061938</High>
+    <Low>0.0516431</Low>
+    <Close>0.0536463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-28</Date>
+    <Open>0.0535389</Open>
+    <High>0.0609353</High>
+    <Low>0.0533268</Low>
+    <Close>0.0569333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-29</Date>
+    <Open>0.0569322</Open>
+    <High>0.0600369</High>
+    <Low>0.0552392</Low>
+    <Close>0.0575366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-30</Date>
+    <Open>0.0576354</Open>
+    <High>0.069044</High>
+    <Low>0.0569384</Low>
+    <Close>0.0664534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-05-31</Date>
+    <Open>0.0663469</Open>
+    <High>0.0764388</High>
+    <Low>0.0625562</Low>
+    <Close>0.0642421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-01</Date>
+    <Open>0.0641499</Open>
+    <High>0.0717426</High>
+    <Low>0.0588352</Low>
+    <Close>0.059946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-02</Date>
+    <Open>0.0601452</Open>
+    <High>0.0627435</High>
+    <Low>0.0584474</Low>
+    <Close>0.0627435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-03</Date>
+    <Open>0.0627435</Open>
+    <High>0.0644419</High>
+    <Low>0.0567546</Low>
+    <Close>0.0595481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-04</Date>
+    <Open>0.0596481</Open>
+    <High>0.0637502</High>
+    <Low>0.0579519</Low>
+    <Close>0.0621527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-05</Date>
+    <Open>0.0621533</Open>
+    <High>0.0627435</High>
+    <Low>0.0590498</Low>
+    <Close>0.060543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-06</Date>
+    <Open>0.060543</Open>
+    <High>0.0658453</High>
+    <Low>0.0601428</Low>
+    <Close>0.0639462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-07</Date>
+    <Open>0.064246</Open>
+    <High>0.0643465</High>
+    <Low>0.0585502</Low>
+    <Close>0.0625493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-08</Date>
+    <Open>0.0627498</Open>
+    <High>0.0655587</High>
+    <Low>0.0590569</Low>
+    <Close>0.0606605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-09</Date>
+    <Open>0.0606605</Open>
+    <High>0.0627504</High>
+    <Low>0.0589481</Low>
+    <Close>0.0599496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-10</Date>
+    <Open>0.0598491</Open>
+    <High>0.0605503</High>
+    <Low>0.0535378</Low>
+    <Close>0.0541312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-11</Date>
+    <Open>0.0541312</Open>
+    <High>0.0550394</High>
+    <Low>0.0497377</Low>
+    <Close>0.0506417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-12</Date>
+    <Open>0.0507421</Open>
+    <High>0.0529279</High>
+    <Low>0.0450423</Low>
+    <Close>0.0500379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-13</Date>
+    <Open>0.0500379</Open>
+    <High>0.0504359</High>
+    <Low>0.0428817</Low>
+    <Close>0.0478334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-14</Date>
+    <Open>0.0479338</Open>
+    <High>0.0487244</High>
+    <Low>0.043235</Low>
+    <Close>0.0451458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-15</Date>
+    <Open>0.0451467</Open>
+    <High>0.0487463</High>
+    <Low>0.0422239</Low>
+    <Close>0.0485271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-16</Date>
+    <Open>0.0488315</Open>
+    <High>0.0494357</High>
+    <Low>0.0427486</Low>
+    <Close>0.0440427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-17</Date>
+    <Open>0.0434335</Open>
+    <High>0.0491326</High>
+    <Low>0.0429009</Low>
+    <Close>0.0469436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-18</Date>
+    <Open>0.0469436</Open>
+    <High>0.0471438</High>
+    <Low>0.0415393</Low>
+    <Close>0.0439287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-19</Date>
+    <Open>0.0438289</Open>
+    <High>0.0477426</High>
+    <Low>0.0427388</Low>
+    <Close>0.0468437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-20</Date>
+    <Open>0.0469389</Open>
+    <High>0.0485465</High>
+    <Low>0.0443423</Low>
+    <Close>0.047443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-21</Date>
+    <Open>0.0474478</Open>
+    <High>0.0509592</High>
+    <Low>0.0470482</Low>
+    <Close>0.0478521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-22</Date>
+    <Open>0.0481518</Open>
+    <High>0.0482517</High>
+    <Low>0.0444555</Low>
+    <Close>0.0448551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-23</Date>
+    <Open>0.0448551</Open>
+    <High>0.0472527</High>
+    <Low>0.0444555</Low>
+    <Close>0.0466533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-24</Date>
+    <Open>0.0464535</Open>
+    <High>0.0494589</High>
+    <Low>0.0463536</Low>
+    <Close>0.0492611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-25</Date>
+    <Open>0.0492507</Open>
+    <High>0.0505666</High>
+    <Low>0.0472678</Low>
+    <Close>0.0490656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-26</Date>
+    <Open>0.0490656</Open>
+    <High>0.0584614</High>
+    <Low>0.04868</Low>
+    <Close>0.0503688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-27</Date>
+    <Open>0.0505701</Open>
+    <High>0.0592514</High>
+    <Low>0.0484699</Low>
+    <Close>0.0516545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-28</Date>
+    <Open>0.0519516</Open>
+    <High>0.054648</High>
+    <Low>0.0477436</Low>
+    <Close>0.0487419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-29</Date>
+    <Open>0.0485392</Open>
+    <High>0.0485397</High>
+    <Low>0.0446379</Low>
+    <Close>0.0463434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-06-30</Date>
+    <Open>0.0461446</Open>
+    <High>0.0463443</High>
+    <Low>0.0418455</Low>
+    <Close>0.043248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-01</Date>
+    <Open>0.043248</Open>
+    <High>0.0464535</High>
+    <Low>0.0408427</Low>
+    <Close>0.0421494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-02</Date>
+    <Open>0.0421536</Open>
+    <High>0.0446508</High>
+    <Low>0.0415542</Low>
+    <Close>0.0429484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-03</Date>
+    <Open>0.0429484</Open>
+    <High>0.0453455</High>
+    <Low>0.0421451</Low>
+    <Close>0.0425446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-04</Date>
+    <Open>0.0425446</Open>
+    <High>0.0443467</High>
+    <Low>0.042245</Low>
+    <Close>0.0438473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-05</Date>
+    <Open>0.0437474</Open>
+    <High>0.044946</High>
+    <Low>0.0419496</Low>
+    <Close>0.0428528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-06</Date>
+    <Open>0.0430526</Open>
+    <High>0.0447507</High>
+    <Low>0.0420495</Low>
+    <Close>0.0433523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-07</Date>
+    <Open>0.0433523</Open>
+    <High>0.0466486</High>
+    <Low>0.0433479</Low>
+    <Close>0.0451729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-08</Date>
+    <Open>0.0450729</Open>
+    <High>0.0474668</High>
+    <Low>0.0435738</Low>
+    <Close>0.0446732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-09</Date>
+    <Open>0.0446732</Open>
+    <High>0.0467719</High>
+    <Low>0.0443689</Low>
+    <Close>0.0455726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-10</Date>
+    <Open>0.0457725</Open>
+    <High>0.0458725</High>
+    <Low>0.0424703</Low>
+    <Close>0.043374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-11</Date>
+    <Open>0.043374</Open>
+    <High>0.043374</High>
+    <Low>0.0404716</Low>
+    <Close>0.0407633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-12</Date>
+    <Open>0.0406634</Open>
+    <High>0.0417582</High>
+    <Low>0.0395604</Low>
+    <Close>0.0405553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-13</Date>
+    <Open>0.0404607</Open>
+    <High>0.0420579</High>
+    <Low>0.0394565</Low>
+    <Close>0.0416625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-14</Date>
+    <Open>0.0417624</Open>
+    <High>0.042957</High>
+    <Low>0.0402637</Low>
+    <Close>0.0417749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-15</Date>
+    <Open>0.0417749</Open>
+    <High>0.0438737</High>
+    <Low>0.0408755</Low>
+    <Close>0.0412876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-16</Date>
+    <Open>0.0412876</Open>
+    <High>0.0425915</High>
+    <Low>0.0405838</Low>
+    <Close>0.0421873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-17</Date>
+    <Open>0.042189</Open>
+    <High>0.0443898</High>
+    <Low>0.0410918</Low>
+    <Close>0.0418887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-18</Date>
+    <Open>0.0418887</Open>
+    <High>0.0450955</High>
+    <Low>0.0411856</Low>
+    <Close>0.0428901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-19</Date>
+    <Open>0.0428897</Open>
+    <High>0.0476</High>
+    <Low>0.0424962</Low>
+    <Close>0.0465102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-20</Date>
+    <Open>0.0465074</Open>
+    <High>0.0518161</High>
+    <Low>0.0418966</Low>
+    <Close>0.0437022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-21</Date>
+    <Open>0.0437026</Open>
+    <High>0.0459092</High>
+    <Low>0.0419021</Low>
+    <Close>0.0447098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-22</Date>
+    <Open>0.0447107</Open>
+    <High>0.0475038</High>
+    <Low>0.0429086</Low>
+    <Close>0.0439097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-23</Date>
+    <Open>0.0437</Open>
+    <High>0.0442128</High>
+    <Low>0.0422021</Low>
+    <Close>0.0427085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-24</Date>
+    <Open>0.0427081</Open>
+    <High>0.0451964</High>
+    <Low>0.0427051</Low>
+    <Close>0.0439083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-25</Date>
+    <Open>0.0439088</Open>
+    <High>0.0444089</High>
+    <Low>0.0410045</Low>
+    <Close>0.0416033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-26</Date>
+    <Open>0.0416033</Open>
+    <High>0.0416046</High>
+    <Low>0.0396004</Low>
+    <Close>0.0405061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-27</Date>
+    <Open>0.0404</Open>
+    <High>0.0432112</High>
+    <Low>0.0398992</Low>
+    <Close>0.0428103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-28</Date>
+    <Open>0.0427111</Open>
+    <High>0.0455005</High>
+    <Low>0.0420046</Low>
+    <Close>0.0443084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-29</Date>
+    <Open>0.0443111</Open>
+    <High>0.046627</High>
+    <Low>0.0431103</Low>
+    <Close>0.0451185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-30</Date>
+    <Open>0.0449184</Open>
+    <High>0.048717</High>
+    <Low>0.0449184</Low>
+    <Close>0.0462152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-07-31</Date>
+    <Open>0.0461138</Open>
+    <High>0.0515103</High>
+    <Low>0.0450126</Low>
+    <Close>0.0486112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-01</Date>
+    <Open>0.0487195</Open>
+    <High>0.0540146</High>
+    <Low>0.0468089</Low>
+    <Close>0.0474142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-02</Date>
+    <Open>0.0474133</Open>
+    <High>0.0488185</High>
+    <Low>0.0443137</Low>
+    <Close>0.0465079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-03</Date>
+    <Open>0.0464093</Open>
+    <High>0.0481144</High>
+    <Low>0.0442097</Low>
+    <Close>0.0473118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-04</Date>
+    <Open>0.0471104</Open>
+    <High>0.0496045</High>
+    <Low>0.0454095</Low>
+    <Close>0.0476014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-05</Date>
+    <Open>0.0477014</Open>
+    <High>0.0513097</High>
+    <Low>0.0477014</Low>
+    <Close>0.0487093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-06</Date>
+    <Open>0.0488093</Open>
+    <High>0.0549104</High>
+    <Low>0.0485019</Low>
+    <Close>0.0517114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-07</Date>
+    <Open>0.0516114</Open>
+    <High>0.0519088</High>
+    <Low>0.0491118</Low>
+    <Close>0.0512092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-08</Date>
+    <Open>0.0513092</Open>
+    <High>0.0545109</High>
+    <Low>0.0510082</Low>
+    <Close>0.0514062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-09</Date>
+    <Open>0.0513056</Open>
+    <High>0.0524094</High>
+    <Low>0.0461092</Low>
+    <Close>0.0478096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-10</Date>
+    <Open>0.04761</Open>
+    <High>0.051714</High>
+    <Low>0.0460129</Low>
+    <Close>0.0506147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-11</Date>
+    <Open>0.0507147</Open>
+    <High>0.0512236</High>
+    <Low>0.0490211</Low>
+    <Close>0.050122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-12</Date>
+    <Open>0.0502251</Open>
+    <High>0.0507264</High>
+    <Low>0.0485242</Low>
+    <Close>0.050123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-13</Date>
+    <Open>0.0501225</Open>
+    <High>0.0507284</High>
+    <Low>0.0492177</Low>
+    <Close>0.0498194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-14</Date>
+    <Open>0.0497194</Open>
+    <High>0.0502201</High>
+    <Low>0.0461101</Low>
+    <Close>0.0472146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-15</Date>
+    <Open>0.0472146</Open>
+    <High>0.0479129</High>
+    <Low>0.0442106</Low>
+    <Close>0.0446112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-16</Date>
+    <Open>0.0447107</Open>
+    <High>0.0456046</High>
+    <Low>0.044308</Low>
+    <Close>0.044704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-17</Date>
+    <Open>0.044804</Open>
+    <High>0.0461065</High>
+    <Low>0.0420996</Low>
+    <Close>0.0428034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-18</Date>
+    <Open>0.042603</Open>
+    <High>0.0450054</High>
+    <Low>0.0422013</Low>
+    <Close>0.0435004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-19</Date>
+    <Open>0.0436044</Open>
+    <High>0.0446</High>
+    <Low>0.039804</Low>
+    <Close>0.0403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-20</Date>
+    <Open>0.0405012</Open>
+    <High>0.0416062</High>
+    <Low>0.0397067</Low>
+    <Close>0.0402996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-21</Date>
+    <Open>0.0403992</Open>
+    <High>0.0415996</High>
+    <Low>0.0399936</Low>
+    <Close>0.0410992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-22</Date>
+    <Open>0.0409992</Open>
+    <High>0.0413008</High>
+    <Low>0.0397948</Low>
+    <Close>0.0399928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-23</Date>
+    <Open>0.0400936</Open>
+    <High>0.040902</High>
+    <Low>0.0397992</Low>
+    <Close>0.0405008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-24</Date>
+    <Open>0.0405996</Open>
+    <High>0.0413017</High>
+    <Low>0.0398</Low>
+    <Close>0.0408033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-25</Date>
+    <Open>0.0407033</Open>
+    <High>0.0410041</High>
+    <Low>0.0400992</Low>
+    <Close>0.0408012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-26</Date>
+    <Open>0.0405992</Open>
+    <High>0.0409057</High>
+    <Low>0.039</Low>
+    <Close>0.0392039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-27</Date>
+    <Open>0.0393039</Open>
+    <High>0.0394039</High>
+    <Low>0.0367</Low>
+    <Close>0.0368011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-28</Date>
+    <Open>0.0366007</Open>
+    <High>0.0371007</High>
+    <Low>0.0357007</Low>
+    <Close>0.0362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-29</Date>
+    <Open>0.0360996</Open>
+    <High>0.0377008</High>
+    <Low>0.0347965</Low>
+    <Close>0.0371022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-30</Date>
+    <Open>0.037203</Open>
+    <High>0.0375989</High>
+    <Low>0.0353007</Low>
+    <Close>0.0358032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-08-31</Date>
+    <Open>0.0359032</Open>
+    <High>0.0372004</High>
+    <Low>0.0356986</Low>
+    <Close>0.0364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-01</Date>
+    <Open>0.0366004</Open>
+    <High>0.0368007</High>
+    <Low>0.0353958</Low>
+    <Close>0.0364978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-02</Date>
+    <Open>0.0364978</Open>
+    <High>0.0372048</High>
+    <Low>0.0358014</Low>
+    <Close>0.0361054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-03</Date>
+    <Open>0.0361058</Open>
+    <High>0.0365036</High>
+    <Low>0.0356</Low>
+    <Close>0.0356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-04</Date>
+    <Open>0.0357</Open>
+    <High>0.0368037</High>
+    <Low>0.0355035</Low>
+    <Close>0.0364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-05</Date>
+    <Open>0.0366</Open>
+    <High>0.0368</High>
+    <Low>0.0358</Low>
+    <Close>0.0363036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-06</Date>
+    <Open>0.0363036</Open>
+    <High>0.0376038</High>
+    <Low>0.0349965</Low>
+    <Close>0.0354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-07</Date>
+    <Open>0.0354025</Open>
+    <High>0.0358043</High>
+    <Low>0.0330983</Low>
+    <Close>0.0354025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-08</Date>
+    <Open>0.0353025</Open>
+    <High>0.0356039</High>
+    <Low>0.0341034</Low>
+    <Close>0.0352067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-09</Date>
+    <Open>0.0352046</Open>
+    <High>0.0374123</High>
+    <Low>0.0352039</Low>
+    <Close>0.0371126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-10</Date>
+    <Open>0.0370152</Open>
+    <High>0.0382126</High>
+    <Low>0.0370115</Low>
+    <Close>0.0376075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-11</Date>
+    <Open>0.0376079</Open>
+    <High>0.0389148</High>
+    <Low>0.0361123</Low>
+    <Close>0.0370089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-12</Date>
+    <Open>0.0370093</Open>
+    <High>0.045911</High>
+    <Low>0.0369081</Low>
+    <Close>0.0396079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-13</Date>
+    <Open>0.0396119</Open>
+    <High>0.0454059</High>
+    <Low>0.038103</Low>
+    <Close>0.0404008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-14</Date>
+    <Open>0.0404008</Open>
+    <High>0.0420996</High>
+    <Low>0.0378004</Low>
+    <Close>0.0388097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-15</Date>
+    <Open>0.0388105</Open>
+    <High>0.0407118</High>
+    <Low>0.0362924</Low>
+    <Close>0.0370967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-16</Date>
+    <Open>0.0369978</Open>
+    <High>0.038</High>
+    <Low>0.0357975</Low>
+    <Close>0.037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-17</Date>
+    <Open>0.0367963</Open>
+    <High>0.0383038</High>
+    <Low>0.0366</Low>
+    <Close>0.0378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-18</Date>
+    <Open>0.0378</Open>
+    <High>0.0392961</High>
+    <Low>0.0353965</Low>
+    <Close>0.0356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-19</Date>
+    <Open>0.0356</Open>
+    <High>0.0367037</High>
+    <Low>0.0344</Low>
+    <Close>0.0358036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-20</Date>
+    <Open>0.0358072</Open>
+    <High>0.0387077</High>
+    <Low>0.0350035</Low>
+    <Close>0.0352035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-21</Date>
+    <Open>0.0351035</Open>
+    <High>0.0371</High>
+    <Low>0.0346</Low>
+    <Close>0.0346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-22</Date>
+    <Open>0.0346</Open>
+    <High>0.0418958</High>
+    <Low>0.0342</Low>
+    <Close>0.0389961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-23</Date>
+    <Open>0.0390039</Open>
+    <High>0.0408</High>
+    <Low>0.0375962</Low>
+    <Close>0.0388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-24</Date>
+    <Open>0.0391973</Open>
+    <High>0.0431991</High>
+    <Low>0.0386981</Low>
+    <Close>0.0399036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-25</Date>
+    <Open>0.0398</Open>
+    <High>0.0438013</High>
+    <Low>0.0394</Low>
+    <Close>0.0406992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-26</Date>
+    <Open>0.0405008</Open>
+    <High>0.0456982</High>
+    <Low>0.0402</Low>
+    <Close>0.0430957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-27</Date>
+    <Open>0.0431</Open>
+    <High>0.0434</High>
+    <Low>0.040396</Low>
+    <Close>0.040496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-28</Date>
+    <Open>0.040396</Open>
+    <High>0.0415</High>
+    <Low>0.0385961</Low>
+    <Close>0.039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-29</Date>
+    <Open>0.039</Open>
+    <High>0.039504</High>
+    <Low>0.0385961</Low>
+    <Close>0.0388039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-09-30</Date>
+    <Open>0.0388</Open>
+    <High>0.039</High>
+    <Low>0.0379</Low>
+    <Close>0.0379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-01</Date>
+    <Open>0.0378038</Open>
+    <High>0.0383</High>
+    <Low>0.0367037</Low>
+    <Close>0.0371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-02</Date>
+    <Open>0.0371037</Open>
+    <High>0.0383038</High>
+    <Low>0.0365</Low>
+    <Close>0.037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-03</Date>
+    <Open>0.0369</Open>
+    <High>0.0378076</High>
+    <Low>0.0363</Low>
+    <Close>0.0376038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-04</Date>
+    <Open>0.0376038</Open>
+    <High>0.0383115</High>
+    <Low>0.0375037</Low>
+    <Close>0.0380114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-05</Date>
+    <Open>0.0381076</Open>
+    <High>0.0383115</High>
+    <Low>0.0368</Low>
+    <Close>0.0372074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-06</Date>
+    <Open>0.0373067</Open>
+    <High>0.0377079</High>
+    <Low>0.0365062</Low>
+    <Close>0.0365062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-07</Date>
+    <Open>0.0365066</Open>
+    <High>0.037503</High>
+    <Low>0.036504</Low>
+    <Close>0.0374041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-08</Date>
+    <Open>0.0374049</Open>
+    <High>0.0374056</High>
+    <Low>0.0366055</Low>
+    <Close>0.0368092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-09</Date>
+    <Open>0.0368074</Open>
+    <High>0.0372074</High>
+    <Low>0.0366</Low>
+    <Close>0.0370037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-10</Date>
+    <Open>0.0370074</Open>
+    <High>0.0374075</High>
+    <Low>0.0358928</Low>
+    <Close>0.0361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-11</Date>
+    <Open>0.036</Open>
+    <High>0.0361</High>
+    <Low>0.0350937</Low>
+    <Close>0.0351968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-12</Date>
+    <Open>0.0350947</Open>
+    <High>0.0358986</High>
+    <Low>0.0346003</Low>
+    <Close>0.0351611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-13</Date>
+    <Open>0.0350951</Open>
+    <High>0.0357946</High>
+    <Low>0.032499</Low>
+    <Close>0.0346018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-14</Date>
+    <Open>0.0346007</Open>
+    <High>0.0358016</High>
+    <Low>0.034005</Low>
+    <Close>0.0342854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-15</Date>
+    <Open>0.034285</Open>
+    <High>0.0391854</High>
+    <Low>0.034005</Low>
+    <Close>0.0368018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-16</Date>
+    <Open>0.0368022</Open>
+    <High>0.0407004</High>
+    <Low>0.0360004</Low>
+    <Close>0.0361014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-17</Date>
+    <Open>0.0360014</Open>
+    <High>0.0376038</High>
+    <Low>0.0358004</Low>
+    <Close>0.0365007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-18</Date>
+    <Open>0.0365004</Open>
+    <High>0.0376023</High>
+    <Low>0.0355004</Low>
+    <Close>0.0371022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-19</Date>
+    <Open>0.0369018</Open>
+    <High>0.0387012</High>
+    <Low>0.0359004</Low>
+    <Close>0.0373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-20</Date>
+    <Open>0.0372996</Open>
+    <High>0.0380015</High>
+    <Low>0.0357961</Low>
+    <Close>0.035996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-21</Date>
+    <Open>0.0357745</Open>
+    <High>0.0372607</High>
+    <Low>0.0349203</Low>
+    <Close>0.0365779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-22</Date>
+    <Open>0.0365776</Open>
+    <High>0.0373981</High>
+    <Low>0.0362642</Low>
+    <Close>0.0364713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-23</Date>
+    <Open>0.0364609</Open>
+    <High>0.0369413</High>
+    <Low>0.0347778</Low>
+    <Close>0.0364191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-24</Date>
+    <Open>0.0364177</Open>
+    <High>0.0374155</High>
+    <Low>0.0347822</Low>
+    <Close>0.0357684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-25</Date>
+    <Open>0.0356041</Open>
+    <High>0.0372738</High>
+    <Low>0.0348928</Low>
+    <Close>0.0366421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-26</Date>
+    <Open>0.0366425</Open>
+    <High>0.0379311</High>
+    <Low>0.0364239</Low>
+    <Close>0.0376275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-27</Date>
+    <Open>0.0375935</Open>
+    <High>0.0379084</High>
+    <Low>0.0354827</Low>
+    <Close>0.0362102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-28</Date>
+    <Open>0.0362092</Open>
+    <High>0.037405</High>
+    <Low>0.0350101</Low>
+    <Close>0.0372952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-29</Date>
+    <Open>0.0372941</Open>
+    <High>0.0374128</High>
+    <Low>0.0356766</Low>
+    <Close>0.0368341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-30</Date>
+    <Open>0.0366088</Open>
+    <High>0.0379121</High>
+    <Low>0.0362069</Low>
+    <Close>0.0365077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-10-31</Date>
+    <Open>0.0365073</Open>
+    <High>0.0428</High>
+    <Low>0.0358075</Low>
+    <Close>0.0387977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-01</Date>
+    <Open>0.0387977</Open>
+    <High>0.0426898</High>
+    <Low>0.0386981</Low>
+    <Close>0.0420954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-02</Date>
+    <Open>0.0416954</Open>
+    <High>0.0427914</High>
+    <Low>0.0389965</Low>
+    <Close>0.0393976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-03</Date>
+    <Open>0.039398</Open>
+    <High>0.0458995</High>
+    <Low>0.0392976</Low>
+    <Close>0.0442996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-04</Date>
+    <Open>0.0442996</Open>
+    <High>0.0528947</High>
+    <Low>0.0406967</Low>
+    <Close>0.0445036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-05</Date>
+    <Open>0.0446036</Open>
+    <High>0.0458027</High>
+    <Low>0.0438031</Low>
+    <Close>0.0442027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-06</Date>
+    <Open>0.0441022</Open>
+    <High>0.0476981</High>
+    <Low>0.0429</Low>
+    <Close>0.0450036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-07</Date>
+    <Open>0.0449036</Open>
+    <High>0.0487044</High>
+    <Low>0.0436026</Low>
+    <Close>0.0459055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-08</Date>
+    <Open>0.0459092</Open>
+    <High>0.0520624</High>
+    <Low>0.0411658</Low>
+    <Close>0.0423266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-09</Date>
+    <Open>0.0422263</Open>
+    <High>0.0435866</High>
+    <Low>0.035451</Low>
+    <Close>0.0364636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-10</Date>
+    <Open>0.0365354</Open>
+    <High>0.0453846</High>
+    <Low>0.035714</Low>
+    <Close>0.0415739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-11</Date>
+    <Open>0.0415739</Open>
+    <High>0.0462</High>
+    <Low>0.0368395</Low>
+    <Close>0.0385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-12</Date>
+    <Open>0.0386039</Open>
+    <High>0.0397507</High>
+    <Low>0.036035</Low>
+    <Close>0.0365341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-13</Date>
+    <Open>0.0366339</Open>
+    <High>0.0383424</High>
+    <Low>0.0360422</Low>
+    <Close>0.0366486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-14</Date>
+    <Open>0.0364489</Open>
+    <High>0.0378545</High>
+    <Low>0.0350509</Low>
+    <Close>0.0358497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-15</Date>
+    <Open>0.035946</Open>
+    <High>0.0375662</High>
+    <Low>0.035946</Low>
+    <Close>0.0366633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-16</Date>
+    <Open>0.037054</Open>
+    <High>0.0372657</High>
+    <Low>0.0354645</Low>
+    <Close>0.0356668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-17</Date>
+    <Open>0.0358673</Open>
+    <High>0.0364755</High>
+    <Low>0.0354684</Low>
+    <Close>0.0363709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-18</Date>
+    <Open>0.0361725</Open>
+    <High>0.0368668</High>
+    <Low>0.0355715</Low>
+    <Close>0.036458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-19</Date>
+    <Open>0.0366574</Open>
+    <High>0.0367577</High>
+    <Low>0.0358591</Low>
+    <Close>0.0362622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-20</Date>
+    <Open>0.0363621</Open>
+    <High>0.0369508</High>
+    <Low>0.035053</Low>
+    <Close>0.0355455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-21</Date>
+    <Open>0.0355455</Open>
+    <High>0.0411469</High>
+    <Low>0.0349468</Low>
+    <Close>0.0380539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-22</Date>
+    <Open>0.0380543</Open>
+    <High>0.0397558</High>
+    <Low>0.0366549</Low>
+    <Close>0.0387496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-23</Date>
+    <Open>0.0387527</Open>
+    <High>0.0420499</High>
+    <Low>0.0380516</Low>
+    <Close>0.0416541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-24</Date>
+    <Open>0.0418543</Open>
+    <High>0.0421544</High>
+    <Low>0.0394644</Low>
+    <Close>0.0398665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-25</Date>
+    <Open>0.0399656</Open>
+    <High>0.0401678</High>
+    <Low>0.0375722</Low>
+    <Close>0.0386779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-26</Date>
+    <Open>0.038578</Open>
+    <High>0.0472721</High>
+    <Low>0.0385745</Low>
+    <Close>0.0398761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-27</Date>
+    <Open>0.0397769</Open>
+    <High>0.0413735</High>
+    <Low>0.0392752</Low>
+    <Close>0.0400751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-28</Date>
+    <Open>0.0399756</Open>
+    <High>0.0404793</High>
+    <Low>0.0375789</Low>
+    <Close>0.037786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-29</Date>
+    <Open>0.0377853</Open>
+    <High>0.0404785</High>
+    <Low>0.0377845</Low>
+    <Close>0.0386853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-11-30</Date>
+    <Open>0.0386857</Open>
+    <High>0.0396869</High>
+    <Low>0.0379966</Low>
+    <Close>0.0394024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-01</Date>
+    <Open>0.0394016</Open>
+    <High>0.0402996</High>
+    <Low>0.0388957</Low>
+    <Close>0.039102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-02</Date>
+    <Open>0.039202</Open>
+    <High>0.0440053</High>
+    <Low>0.0388035</Low>
+    <Close>0.0417025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-03</Date>
+    <Open>0.0417025</Open>
+    <High>0.0438044</High>
+    <Low>0.0406041</Low>
+    <Close>0.0407041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-04</Date>
+    <Open>0.0408041</Open>
+    <High>0.0425085</High>
+    <Low>0.040504</Low>
+    <Close>0.0420084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-05</Date>
+    <Open>0.0419084</Open>
+    <High>0.0435052</High>
+    <Low>0.0417083</Low>
+    <Close>0.0419013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-06</Date>
+    <Open>0.0421004</Open>
+    <High>0.0455041</High>
+    <Low>0.0420008</Low>
+    <Close>0.0438996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-07</Date>
+    <Open>0.0438</Open>
+    <High>0.0442</High>
+    <Low>0.0418025</Low>
+    <Close>0.0431996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-08</Date>
+    <Open>0.0430004</Open>
+    <High>0.0448045</High>
+    <Low>0.0423</Low>
+    <Close>0.0437044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-09</Date>
+    <Open>0.0438035</Open>
+    <High>0.0442996</High>
+    <Low>0.0426017</Low>
+    <Close>0.0427013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-10</Date>
+    <Open>0.0426021</Open>
+    <High>0.0445004</High>
+    <Low>0.0424996</Low>
+    <Close>0.0438991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-11</Date>
+    <Open>0.0437991</Open>
+    <High>0.0442013</High>
+    <Low>0.0428043</Low>
+    <Close>0.0432043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-12</Date>
+    <Open>0.0434087</Open>
+    <High>0.0434087</High>
+    <Low>0.0411037</Low>
+    <Close>0.0416029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-13</Date>
+    <Open>0.0415037</Open>
+    <High>0.043497</High>
+    <Low>0.0411021</Low>
+    <Close>0.0423894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-14</Date>
+    <Open>0.0424894</Open>
+    <High>0.0425962</High>
+    <Low>0.040798</Low>
+    <Close>0.0414025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-15</Date>
+    <Open>0.0414029</Open>
+    <High>0.0420084</High>
+    <Low>0.040404</Low>
+    <Close>0.0405081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-16</Date>
+    <Open>0.040404</Open>
+    <High>0.0417042</High>
+    <Low>0.0379038</Low>
+    <Close>0.0381076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-17</Date>
+    <Open>0.0380038</Open>
+    <High>0.0396079</High>
+    <Low>0.0371037</Low>
+    <Close>0.0380049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-18</Date>
+    <Open>0.0380046</Open>
+    <High>0.039102</High>
+    <Low>0.0380034</Low>
+    <Close>0.0383046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-19</Date>
+    <Open>0.038305</Open>
+    <High>0.0392039</High>
+    <Low>0.0373</Low>
+    <Close>0.0373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-20</Date>
+    <Open>0.0374992</Open>
+    <High>0.0407037</High>
+    <Low>0.0373</Low>
+    <Close>0.039402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-21</Date>
+    <Open>0.0393016</Open>
+    <High>0.0410021</High>
+    <Low>0.0386996</Low>
+    <Close>0.0409016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-22</Date>
+    <Open>0.0409016</Open>
+    <High>0.040902</High>
+    <Low>0.0396012</Low>
+    <Close>0.0404939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-23</Date>
+    <Open>0.0405931</Open>
+    <High>0.040993</High>
+    <Low>0.0395968</Low>
+    <Close>0.0398956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-24</Date>
+    <Open>0.0398964</Open>
+    <High>0.040198</High>
+    <Low>0.0390957</Low>
+    <Close>0.0391976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-25</Date>
+    <Open>0.0391976</Open>
+    <High>0.0397988</High>
+    <Low>0.0380958</Low>
+    <Close>0.0387938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-26</Date>
+    <Open>0.0387957</Open>
+    <High>0.0391965</High>
+    <Low>0.0381924</Low>
+    <Close>0.0383919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-27</Date>
+    <Open>0.0383923</Open>
+    <High>0.0394929</High>
+    <Low>0.0378837</Low>
+    <Close>0.0384846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-28</Date>
+    <Open>0.038385</Open>
+    <High>0.0388879</High>
+    <Low>0.0372836</Low>
+    <Close>0.0375801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-29</Date>
+    <Open>0.0375804</Open>
+    <High>0.0411794</High>
+    <Low>0.0373813</Low>
+    <Close>0.0378826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-30</Date>
+    <Open>0.0378826</Open>
+    <High>0.0386011</High>
+    <Low>0.0373809</Low>
+    <Close>0.0381565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2022-12-31</Date>
+    <Open>0.0381505</Open>
+    <High>0.0388577</High>
+    <Low>0.0377271</Low>
+    <Close>0.0385597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-01</Date>
+    <Open>0.0385573</Open>
+    <High>0.0395956</High>
+    <Low>0.0382185</Low>
+    <Close>0.0395848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-02</Date>
+    <Open>0.0396142</Open>
+    <High>0.0405004</High>
+    <Low>0.0390456</Low>
+    <Close>0.0392148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-03</Date>
+    <Open>0.0392214</Open>
+    <High>0.039383</High>
+    <Low>0.0387805</Low>
+    <Close>0.0389042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-04</Date>
+    <Open>0.0389038</Open>
+    <High>0.0406653</High>
+    <Low>0.0388918</Low>
+    <Close>0.0390981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-05</Date>
+    <Open>0.0390851</Open>
+    <High>0.0405688</High>
+    <Low>0.0385192</Low>
+    <Close>0.0387321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-06</Date>
+    <Open>0.0387344</Open>
+    <High>0.0406196</High>
+    <Low>0.0387203</Low>
+    <Close>0.0402911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-07</Date>
+    <Open>0.0403861</Open>
+    <High>0.0411083</High>
+    <Low>0.0395715</Low>
+    <Close>0.0409422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-08</Date>
+    <Open>0.0408967</Open>
+    <High>0.0410858</High>
+    <Low>0.0398248</Low>
+    <Close>0.0404119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-09</Date>
+    <Open>0.0404309</Open>
+    <High>0.0435506</High>
+    <Low>0.0404013</Low>
+    <Close>0.0415166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-10</Date>
+    <Open>0.041502</Open>
+    <High>0.0426714</High>
+    <Low>0.040592</Low>
+    <Close>0.0424429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-11</Date>
+    <Open>0.0424696</Open>
+    <High>0.0424696</High>
+    <Low>0.0404485</Low>
+    <Close>0.0415768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-12</Date>
+    <Open>0.0415637</Open>
+    <High>0.0423598</High>
+    <Low>0.0401476</Low>
+    <Close>0.0417932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-13</Date>
+    <Open>0.0418112</Open>
+    <High>0.0434401</High>
+    <Low>0.041326</Low>
+    <Close>0.0428269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-14</Date>
+    <Open>0.0428364</Open>
+    <High>0.0460495</High>
+    <Low>0.0424871</Low>
+    <Close>0.0450148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-15</Date>
+    <Open>0.0451023</Open>
+    <High>0.0454944</High>
+    <Low>0.0430749</Low>
+    <Close>0.044789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-16</Date>
+    <Open>0.044798</Open>
+    <High>0.046104</High>
+    <Low>0.0430972</Low>
+    <Close>0.0441749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-17</Date>
+    <Open>0.0441713</Open>
+    <High>0.0446546</High>
+    <Low>0.0419591</Low>
+    <Close>0.0427573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-18</Date>
+    <Open>0.0427523</Open>
+    <High>0.0449031</High>
+    <Low>0.0409951</Low>
+    <Close>0.0419979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-19</Date>
+    <Open>0.0419979</Open>
+    <High>0.0426834</High>
+    <Low>0.0406939</Low>
+    <Close>0.0421193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-20</Date>
+    <Open>0.0421355</Open>
+    <High>0.0440786</High>
+    <Low>0.0413646</Low>
+    <Close>0.0440675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-21</Date>
+    <Open>0.0440725</Open>
+    <High>0.04981</High>
+    <Low>0.0438415</Low>
+    <Close>0.0481077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-22</Date>
+    <Open>0.0480072</Open>
+    <High>0.0596095</High>
+    <Low>0.0467079</Low>
+    <Close>0.0520099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-23</Date>
+    <Open>0.0518104</Open>
+    <High>0.0545076</High>
+    <Low>0.0497045</Low>
+    <Close>0.0512082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-24</Date>
+    <Open>0.0513072</Open>
+    <High>0.0520088</High>
+    <Low>0.0477076</Low>
+    <Close>0.047901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-25</Date>
+    <Open>0.047901</Open>
+    <High>0.0496094</High>
+    <Low>0.0466009</Low>
+    <Close>0.0480077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-26</Date>
+    <Open>0.0481082</Open>
+    <High>0.052001</High>
+    <Low>0.0480082</Low>
+    <Close>0.0501055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-27</Date>
+    <Open>0.050104</Open>
+    <High>0.0631151</High>
+    <Low>0.0488142</Low>
+    <Close>0.0548236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-28</Date>
+    <Open>0.0548208</Open>
+    <High>0.0575172</High>
+    <Low>0.0535139</Low>
+    <Close>0.0547109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-29</Date>
+    <Open>0.0546109</Open>
+    <High>0.0592124</High>
+    <Low>0.0536123</Low>
+    <Close>0.0574023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-30</Date>
+    <Open>0.0575029</Open>
+    <High>0.0581052</High>
+    <Low>0.0526995</Low>
+    <Close>0.0534032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-01-31</Date>
+    <Open>0.0534032</Open>
+    <High>0.0617</High>
+    <Low>0.0529021</Low>
+    <Close>0.0580052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-01</Date>
+    <Open>0.0580035</Open>
+    <High>0.0639</High>
+    <Low>0.0559006</Low>
+    <Close>0.0602036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-02</Date>
+    <Open>0.0603036</Open>
+    <High>0.0632101</High>
+    <Low>0.0579029</Low>
+    <Close>0.0590118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-03</Date>
+    <Open>0.0590118</Open>
+    <High>0.0603048</High>
+    <Low>0.0566</Low>
+    <Close>0.0597048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-04</Date>
+    <Open>0.0597048</Open>
+    <High>0.060403</High>
+    <Low>0.0563039</Low>
+    <Close>0.0566045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-05</Date>
+    <Open>0.0565051</Open>
+    <High>0.0569068</High>
+    <Low>0.0531106</Low>
+    <Close>0.0544136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-06</Date>
+    <Open>0.0543141</Open>
+    <High>0.0586035</High>
+    <Low>0.0522094</Low>
+    <Close>0.0563023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-07</Date>
+    <Open>0.0564023</Open>
+    <High>0.066698</High>
+    <Low>0.0548038</Low>
+    <Close>0.0646045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-08</Date>
+    <Open>0.0647039</Open>
+    <High>0.0679986</High>
+    <Low>0.0597072</Low>
+    <Close>0.0656052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-09</Date>
+    <Open>0.0655046</Open>
+    <High>0.0987</High>
+    <Low>0.0655046</Low>
+    <Close>0.0766069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-10</Date>
+    <Open>0.0764076</Open>
+    <High>0.0798088</High>
+    <Low>0.0705085</Low>
+    <Close>0.0743111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-11</Date>
+    <Open>0.0745112</Open>
+    <High>0.0822099</High>
+    <Low>0.0719079</Low>
+    <Close>0.080408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-12</Date>
+    <Open>0.0803072</Open>
+    <High>0.0850136</High>
+    <Low>0.0738111</Low>
+    <Close>0.0761061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-13</Date>
+    <Open>0.0759076</Open>
+    <High>0.0893947</High>
+    <Low>0.0724355</Low>
+    <Close>0.0757416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-14</Date>
+    <Open>0.0756416</Open>
+    <High>0.0848602</High>
+    <Low>0.0753377</Low>
+    <Close>0.0785298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-15</Date>
+    <Open>0.0785361</Open>
+    <High>0.101417</High>
+    <Low>0.0783243</Low>
+    <Close>0.0939178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-16</Date>
+    <Open>0.0939169</Open>
+    <High>0.106116</High>
+    <Low>0.0898135</Low>
+    <Close>0.0899306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-17</Date>
+    <Open>0.0887115</Open>
+    <High>0.11652</High>
+    <Low>0.0870104</Low>
+    <Close>0.10321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-18</Date>
+    <Open>0.10341</Open>
+    <High>0.110716</High>
+    <Low>0.101618</Low>
+    <Close>0.105218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-19</Date>
+    <Open>0.105417</Open>
+    <High>0.115216</High>
+    <Low>0.100527</Low>
+    <Close>0.105124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-20</Date>
+    <Open>0.105123</Open>
+    <High>0.105427</High>
+    <Low>0.094517</Low>
+    <Close>0.0983039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-21</Date>
+    <Open>0.0983039</Open>
+    <High>0.100219</High>
+    <Low>0.0885204</Low>
+    <Close>0.0908154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-22</Date>
+    <Open>0.0909155</Open>
+    <High>0.0955105</High>
+    <Low>0.0840092</Low>
+    <Close>0.0891071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-23</Date>
+    <Open>0.0890455</Open>
+    <High>0.0920147</High>
+    <Low>0.0853162</Low>
+    <Close>0.0874114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-24</Date>
+    <Open>0.0874122</Open>
+    <High>0.0901171</High>
+    <Low>0.0783008</Low>
+    <Close>0.0791992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-25</Date>
+    <Open>0.0794992</Open>
+    <High>0.0814073</High>
+    <Low>0.073111</Low>
+    <Close>0.0773054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-26</Date>
+    <Open>0.0773046</Open>
+    <High>0.0832033</High>
+    <Low>0.0771046</Low>
+    <Close>0.0815049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-27</Date>
+    <Open>0.0815041</Open>
+    <High>0.0820041</High>
+    <Low>0.0776093</Low>
+    <Close>0.0795048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-02-28</Date>
+    <Open>0.079504</Open>
+    <High>0.0827</High>
+    <Low>0.0755068</Low>
+    <Close>0.0765168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-01</Date>
+    <Open>0.0764153</Open>
+    <High>0.0818074</High>
+    <Low>0.0742089</Low>
+    <Close>0.0805105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-02</Date>
+    <Open>0.0806105</Open>
+    <High>0.0819106</High>
+    <Low>0.0735978</Low>
+    <Close>0.0764038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-03</Date>
+    <Open>0.0762061</Open>
+    <High>0.0770054</High>
+    <Low>0.0665093</Low>
+    <Close>0.0691048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-04</Date>
+    <Open>0.0692055</Open>
+    <High>0.0706042</High>
+    <Low>0.0641032</Low>
+    <Close>0.0657053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-05</Date>
+    <Open>0.0658096</Open>
+    <High>0.0693098</High>
+    <Low>0.0657506</Low>
+    <Close>0.0669464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-06</Date>
+    <Open>0.0668824</Open>
+    <High>0.0682</High>
+    <Low>0.0637911</Low>
+    <Close>0.0678959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-07</Date>
+    <Open>0.0674933</Open>
+    <High>0.0702923</High>
+    <Low>0.0620907</Low>
+    <Close>0.0642026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-08</Date>
+    <Open>0.0641968</Open>
+    <High>0.0683959</High>
+    <Low>0.0599964</Low>
+    <Close>0.0605976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-09</Date>
+    <Open>0.0605921</Open>
+    <High>0.0637802</High>
+    <Low>0.054889</Low>
+    <Close>0.0562051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-10</Date>
+    <Open>0.0562051</Open>
+    <High>0.0581006</High>
+    <Low>0.0528958</Low>
+    <Close>0.0577093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-11</Date>
+    <Open>0.0578051</Open>
+    <High>0.0604737</High>
+    <Low>0.0519834</Low>
+    <Close>0.0547944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-12</Date>
+    <Open>0.0549022</Open>
+    <High>0.0600972</High>
+    <Low>0.054235</Low>
+    <Close>0.0596632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-13</Date>
+    <Open>0.0596673</Open>
+    <High>0.066678</High>
+    <Low>0.0587473</Low>
+    <Close>0.066678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-14</Date>
+    <Open>0.0664641</Open>
+    <High>0.0701293</High>
+    <Low>0.0630862</Low>
+    <Close>0.0678765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-15</Date>
+    <Open>0.0679359</Open>
+    <High>0.069711</High>
+    <Low>0.0595295</Low>
+    <Close>0.0616579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-16</Date>
+    <Open>0.0617565</Open>
+    <High>0.0656782</High>
+    <Low>0.0607287</Low>
+    <Close>0.0645584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-17</Date>
+    <Open>0.06466</Open>
+    <High>0.0689816</High>
+    <Low>0.0636391</Low>
+    <Close>0.0683036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-18</Date>
+    <Open>0.0688827</Open>
+    <High>0.075857</High>
+    <Low>0.067481</Low>
+    <Close>0.0704099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-19</Date>
+    <Open>0.0706105</Open>
+    <High>0.0748111</High>
+    <Low>0.0695971</Low>
+    <Close>0.07091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-20</Date>
+    <Open>0.0710145</Open>
+    <High>0.0720161</High>
+    <Low>0.0651304</Low>
+    <Close>0.0663413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-21</Date>
+    <Open>0.0663242</Open>
+    <High>0.071279</High>
+    <Low>0.0639242</Low>
+    <Close>0.0687854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-22</Date>
+    <Open>0.0688767</Open>
+    <High>0.0709793</High>
+    <Low>0.062989</Low>
+    <Close>0.0640751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-23</Date>
+    <Open>0.0641754</Open>
+    <High>0.065726</High>
+    <Low>0.0624695</Low>
+    <Close>0.0649361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-24</Date>
+    <Open>0.0650183</Open>
+    <High>0.0665642</High>
+    <Low>0.0602196</Low>
+    <Close>0.0621039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-25</Date>
+    <Open>0.0619699</Open>
+    <High>0.063084</High>
+    <Low>0.059677</Low>
+    <Close>0.0610235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-26</Date>
+    <Open>0.0609591</Open>
+    <High>0.0623654</High>
+    <Low>0.060503</Low>
+    <Close>0.0612221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-27</Date>
+    <Open>0.0613754</Open>
+    <High>0.0624897</High>
+    <Low>0.0577216</Low>
+    <Close>0.0604034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-28</Date>
+    <Open>0.0601282</Open>
+    <High>0.0609268</High>
+    <Low>0.0579162</Low>
+    <Close>0.0605236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-29</Date>
+    <Open>0.0604236</Open>
+    <High>0.065417</High>
+    <Low>0.0601234</Low>
+    <Close>0.0645123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-30</Date>
+    <Open>0.0645194</Open>
+    <High>0.0660139</High>
+    <Low>0.0615068</Low>
+    <Close>0.0628176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-03-31</Date>
+    <Open>0.0629176</Open>
+    <High>0.0635044</High>
+    <Low>0.0615178</Low>
+    <Close>0.0630126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-01</Date>
+    <Open>0.0631123</Open>
+    <High>0.0646501</High>
+    <Low>0.0627194</Low>
+    <Close>0.063823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-02</Date>
+    <Open>0.0638262</Open>
+    <High>0.0647265</High>
+    <Low>0.0602409</Low>
+    <Close>0.0606376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-03</Date>
+    <Open>0.0606602</Open>
+    <High>0.0634266</High>
+    <Low>0.0593302</Low>
+    <Close>0.0617241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-04</Date>
+    <Open>0.0617241</Open>
+    <High>0.0660271</High>
+    <Low>0.061624</Low>
+    <Close>0.0649331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-05</Date>
+    <Open>0.0650331</Open>
+    <High>0.0668194</High>
+    <Low>0.0630265</Low>
+    <Close>0.0650234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-06</Date>
+    <Open>0.0649234</Open>
+    <High>0.0657131</High>
+    <Low>0.0631246</Low>
+    <Close>0.0633222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-07</Date>
+    <Open>0.0633228</Open>
+    <High>0.0645329</High>
+    <Low>0.0605393</Low>
+    <Close>0.0611452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-08</Date>
+    <Open>0.0610451</Open>
+    <High>0.0630397</High>
+    <Low>0.0606455</Low>
+    <Close>0.0618241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-09</Date>
+    <Open>0.0620558</Open>
+    <High>0.0633418</High>
+    <Low>0.0610306</Low>
+    <Close>0.063338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-10</Date>
+    <Open>0.0633443</Open>
+    <High>0.0680313</High>
+    <Low>0.0622398</Low>
+    <Close>0.0663537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-11</Date>
+    <Open>0.0663544</Open>
+    <High>0.070457</High>
+    <Low>0.0659514</Low>
+    <Close>0.0680666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-12</Date>
+    <Open>0.0679665</Open>
+    <High>0.0688688</High>
+    <Low>0.0649649</Low>
+    <Close>0.0675527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-13</Date>
+    <Open>0.0674526</Open>
+    <High>0.07077</High>
+    <Low>0.0659534</Low>
+    <Close>0.0691663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-14</Date>
+    <Open>0.0690662</Open>
+    <High>0.0740807</High>
+    <Low>0.0690662</Low>
+    <Close>0.0721598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-15</Date>
+    <Open>0.0721598</Open>
+    <High>0.0746731</High>
+    <Low>0.0711633</Low>
+    <Close>0.0728655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-16</Date>
+    <Open>0.0728648</Open>
+    <High>0.0749637</High>
+    <Low>0.07146</Low>
+    <Close>0.0740518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-17</Date>
+    <Open>0.0740496</Open>
+    <High>0.0746589</High>
+    <Low>0.0701477</Low>
+    <Close>0.07274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-18</Date>
+    <Open>0.072843</Open>
+    <High>0.0740192</High>
+    <Low>0.0710305</Low>
+    <Close>0.0734125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-19</Date>
+    <Open>0.073511</Open>
+    <High>0.0738125</High>
+    <Low>0.0639588</Low>
+    <Close>0.0653359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-20</Date>
+    <Open>0.0653359</Open>
+    <High>0.0662232</High>
+    <Low>0.0617895</Low>
+    <Close>0.062305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-21</Date>
+    <Open>0.0623037</Open>
+    <High>0.0633038</High>
+    <Low>0.0583877</Low>
+    <Close>0.0592941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-22</Date>
+    <Open>0.0592935</Open>
+    <High>0.0606061</High>
+    <Low>0.0589</Low>
+    <Close>0.0606055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-23</Date>
+    <Open>0.060497</Open>
+    <High>0.0615937</High>
+    <Low>0.0587469</Low>
+    <Close>0.059498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-24</Date>
+    <Open>0.0594764</Open>
+    <High>0.0609954</High>
+    <Low>0.0582797</Low>
+    <Close>0.0599442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-25</Date>
+    <Open>0.0599558</Open>
+    <High>0.0613161</High>
+    <Low>0.0582709</Low>
+    <Close>0.0612837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-26</Date>
+    <Open>0.0613191</Open>
+    <High>0.0647491</High>
+    <Low>0.0585417</Low>
+    <Close>0.0620198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-27</Date>
+    <Open>0.0619198</Open>
+    <High>0.0652124</High>
+    <Low>0.0604163</Low>
+    <Close>0.0645226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-28</Date>
+    <Open>0.06462</Open>
+    <High>0.0648246</High>
+    <Low>0.0623243</Low>
+    <Close>0.0639498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-29</Date>
+    <Open>0.0638952</Open>
+    <High>0.0662543</High>
+    <Low>0.0636336</Low>
+    <Close>0.0650607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-04-30</Date>
+    <Open>0.0651334</Open>
+    <High>0.0660514</High>
+    <Low>0.0638273</Low>
+    <Close>0.0644017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-01</Date>
+    <Open>0.064378</Open>
+    <High>0.0644891</High>
+    <Low>0.0601304</Low>
+    <Close>0.0610825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-02</Date>
+    <Open>0.0609164</Open>
+    <High>0.0626302</High>
+    <Low>0.0603366</Low>
+    <Close>0.0624681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-03</Date>
+    <Open>0.0624571</Open>
+    <High>0.063039</High>
+    <Low>0.0600358</Low>
+    <Close>0.063039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-04</Date>
+    <Open>0.062917</Open>
+    <High>0.0636121</High>
+    <Low>0.0607671</Low>
+    <Close>0.0611886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-05</Date>
+    <Open>0.0610826</Open>
+    <High>0.0632146</High>
+    <Low>0.0607535</Low>
+    <Close>0.0623807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-06</Date>
+    <Open>0.0623853</Open>
+    <High>0.0633146</High>
+    <Low>0.0555245</Low>
+    <Close>0.056089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-07</Date>
+    <Open>0.0560952</Open>
+    <High>0.0575765</High>
+    <Low>0.0557975</Low>
+    <Close>0.0567493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-08</Date>
+    <Open>0.0567236</Open>
+    <High>0.057171</High>
+    <Low>0.0497323</Low>
+    <Close>0.0508116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-09</Date>
+    <Open>0.0508176</Open>
+    <High>0.0517412</High>
+    <Low>0.0502502</Low>
+    <Close>0.051002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-10</Date>
+    <Open>0.0508419</Open>
+    <High>0.0549999</High>
+    <Low>0.0506376</Low>
+    <Close>0.0527845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-11</Date>
+    <Open>0.053037</Open>
+    <High>0.053392</High>
+    <Low>0.0495145</Low>
+    <Close>0.0501841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-12</Date>
+    <Open>0.0501651</Open>
+    <High>0.0514308</High>
+    <Low>0.0488724</Low>
+    <Close>0.0513801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-13</Date>
+    <Open>0.0514792</Open>
+    <High>0.0522413</High>
+    <Low>0.0506173</Low>
+    <Close>0.0512126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-14</Date>
+    <Open>0.0511367</Open>
+    <High>0.051941</High>
+    <Low>0.0502151</Low>
+    <Close>0.0511767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-15</Date>
+    <Open>0.0512807</Open>
+    <High>0.0528102</High>
+    <Low>0.0507895</Low>
+    <Close>0.0525057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-16</Date>
+    <Open>0.0523987</Open>
+    <High>0.0530548</High>
+    <Low>0.051508</Low>
+    <Close>0.0524642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-17</Date>
+    <Open>0.0524472</Open>
+    <High>0.0546553</High>
+    <Low>0.051956</Low>
+    <Close>0.0546468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-18</Date>
+    <Open>0.0543622</Open>
+    <High>0.0545523</High>
+    <Low>0.0520908</Low>
+    <Close>0.0540256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-19</Date>
+    <Open>0.0539042</Open>
+    <High>0.05497</High>
+    <Low>0.0531708</Low>
+    <Close>0.0542823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-20</Date>
+    <Open>0.0543021</Open>
+    <High>0.0544942</High>
+    <Low>0.0535828</Low>
+    <Close>0.0536623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-21</Date>
+    <Open>0.0537153</Open>
+    <High>0.0539695</High>
+    <Low>0.0513457</Low>
+    <Close>0.0515739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-22</Date>
+    <Open>0.0515728</Open>
+    <High>0.0524795</High>
+    <Low>0.0509616</Low>
+    <Close>0.0522641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-23</Date>
+    <Open>0.0522438</Open>
+    <High>0.0536577</High>
+    <Low>0.0517965</Low>
+    <Close>0.0527662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-24</Date>
+    <Open>0.0527752</Open>
+    <High>0.0530463</High>
+    <Low>0.0499685</Low>
+    <Close>0.0508909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-25</Date>
+    <Open>0.0508725</Open>
+    <High>0.0510039</High>
+    <Low>0.049463</Low>
+    <Close>0.050251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-26</Date>
+    <Open>0.050191</Open>
+    <High>0.0516441</High>
+    <Low>0.0494265</Low>
+    <Close>0.0498485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-27</Date>
+    <Open>0.049883</Open>
+    <High>0.049957</High>
+    <Low>0.0490712</Low>
+    <Close>0.0497114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ASTR">
+    <Date>2023-05-28</Date>
+    <Open>0.0497699</Open>
+    <High>0.0506496</High>
+    <Low>0.0495998</Low>
+    <Close>0.0506496</Close>
+  </Cryptocurrency>
+</Root>

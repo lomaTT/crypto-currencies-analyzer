@@ -1,0 +1,6898 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-17</Date>
+    <Open>3.056</Open>
+    <High>3.961</High>
+    <Low>2.452</Low>
+    <Close>3.473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-18</Date>
+    <Open>3.473</Open>
+    <High>8.579</High>
+    <Low>3.232</Low>
+    <Close>6.908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-19</Date>
+    <Open>6.908</Open>
+    <High>7.5</High>
+    <Low>5.232</Low>
+    <Close>5.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-20</Date>
+    <Open>5.73</Open>
+    <High>6.092</High>
+    <Low>4.656</Low>
+    <Close>5.227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-21</Date>
+    <Open>5.227</Open>
+    <High>5.652</High>
+    <Low>4.084</Low>
+    <Close>4.254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-22</Date>
+    <Open>4.254</Open>
+    <High>4.559</High>
+    <Low>3.687</Low>
+    <Close>3.909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-23</Date>
+    <Open>3.909</Open>
+    <High>5.352</High>
+    <Low>3.905</Low>
+    <Close>4.346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-24</Date>
+    <Open>4.346</Open>
+    <High>5.293</High>
+    <Low>4.264</Low>
+    <Close>5.145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-25</Date>
+    <Open>5.145</Open>
+    <High>5.558</High>
+    <Low>4.766</Low>
+    <Close>4.919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-26</Date>
+    <Open>4.919</Open>
+    <High>4.999</High>
+    <Low>4.684</Low>
+    <Close>4.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-27</Date>
+    <Open>4.88</Open>
+    <High>5.223</High>
+    <Low>4.709</Low>
+    <Close>4.856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-28</Date>
+    <Open>4.856</Open>
+    <High>4.955</High>
+    <Low>4.184</Low>
+    <Close>4.254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-29</Date>
+    <Open>4.254</Open>
+    <High>4.417</High>
+    <Low>4.124</Low>
+    <Close>4.391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-09-30</Date>
+    <Open>4.391</Open>
+    <High>4.391</High>
+    <Low>3.954</Low>
+    <Close>4.159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-01</Date>
+    <Open>4.159</Open>
+    <High>4.519</High>
+    <Low>3.908</Low>
+    <Close>4.254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-02</Date>
+    <Open>4.254</Open>
+    <High>4.254</High>
+    <Low>3.573</Low>
+    <Close>3.894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-03</Date>
+    <Open>3.894</Open>
+    <High>4.123</High>
+    <Low>3.834</Low>
+    <Close>3.909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-04</Date>
+    <Open>3.909</Open>
+    <High>3.949</High>
+    <Low>3.614</Low>
+    <Close>3.728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-05</Date>
+    <Open>3.728</Open>
+    <High>3.804</High>
+    <Low>3.185</Low>
+    <Close>3.321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-06</Date>
+    <Open>3.321</Open>
+    <High>3.344</High>
+    <Low>2.633</Low>
+    <Close>2.716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-07</Date>
+    <Open>2.716</Open>
+    <High>3.003</High>
+    <Low>2.482</Low>
+    <Close>2.966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-08</Date>
+    <Open>2.966</Open>
+    <High>3.468</High>
+    <Low>2.646</Low>
+    <Close>3.353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-09</Date>
+    <Open>3.353</Open>
+    <High>3.604</High>
+    <Low>3.178</Low>
+    <Close>3.386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-10</Date>
+    <Open>3.386</Open>
+    <High>3.662</High>
+    <Low>3.269</Low>
+    <Close>3.302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-11</Date>
+    <Open>3.302</Open>
+    <High>3.454</High>
+    <Low>3.181</Low>
+    <Close>3.366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-12</Date>
+    <Open>3.366</Open>
+    <High>3.603</High>
+    <Low>3.285</Low>
+    <Close>3.463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-13</Date>
+    <Open>3.463</Open>
+    <High>3.503</High>
+    <Low>3.296</Low>
+    <Close>3.356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-14</Date>
+    <Open>3.356</Open>
+    <High>3.443</High>
+    <Low>2.973</Low>
+    <Close>3.115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-15</Date>
+    <Open>3.115</Open>
+    <High>3.163</High>
+    <Low>2.918</Low>
+    <Close>3.082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-16</Date>
+    <Open>3.082</Open>
+    <High>3.383</High>
+    <Low>2.89</Low>
+    <Close>3.044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-17</Date>
+    <Open>3.044</Open>
+    <High>3.124</High>
+    <Low>2.973</Low>
+    <Close>3.063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-18</Date>
+    <Open>3.063</Open>
+    <High>3.294</High>
+    <Low>3.05</Low>
+    <Close>3.284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-19</Date>
+    <Open>3.284</Open>
+    <High>3.291</High>
+    <Low>3.113</Low>
+    <Close>3.173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-20</Date>
+    <Open>3.173</Open>
+    <High>3.194</High>
+    <Low>2.814</Low>
+    <Close>2.861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-21</Date>
+    <Open>2.861</Open>
+    <High>3.08</High>
+    <Low>2.85</Low>
+    <Close>2.941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-22</Date>
+    <Open>2.941</Open>
+    <High>3.141</High>
+    <Low>2.926</Low>
+    <Close>3.042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-23</Date>
+    <Open>3.042</Open>
+    <High>3.121</High>
+    <Low>2.966</Low>
+    <Close>3.015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-24</Date>
+    <Open>3.015</Open>
+    <High>3.081</High>
+    <Low>2.934</Low>
+    <Close>2.942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-25</Date>
+    <Open>2.942</Open>
+    <High>2.965</High>
+    <Low>2.723</Low>
+    <Close>2.774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-26</Date>
+    <Open>2.774</Open>
+    <High>2.877</High>
+    <Low>2.526</Low>
+    <Close>2.714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-27</Date>
+    <Open>2.714</Open>
+    <High>2.905</High>
+    <Low>2.701</Low>
+    <Close>2.809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-28</Date>
+    <Open>2.809</Open>
+    <High>2.854</High>
+    <Low>2.595</Low>
+    <Close>2.665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-29</Date>
+    <Open>2.665</Open>
+    <High>2.74</High>
+    <Low>2.486</Low>
+    <Close>2.544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-30</Date>
+    <Open>2.544</Open>
+    <High>2.567</High>
+    <Low>2.256</Low>
+    <Close>2.418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-10-31</Date>
+    <Open>2.418</Open>
+    <High>2.418</High>
+    <Low>2.239</Low>
+    <Close>2.265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-01</Date>
+    <Open>2.265</Open>
+    <High>2.448</High>
+    <Low>2.219</Low>
+    <Close>2.377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-02</Date>
+    <Open>2.377</Open>
+    <High>2.457</High>
+    <Low>2.228</Low>
+    <Close>2.254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-03</Date>
+    <Open>2.254</Open>
+    <High>2.282</High>
+    <Low>2.061</Low>
+    <Close>2.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-04</Date>
+    <Open>2.15</Open>
+    <High>2.177</High>
+    <Low>1.887</Low>
+    <Close>1.946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-05</Date>
+    <Open>1.946</Open>
+    <High>2.405</High>
+    <Low>1.768</Low>
+    <Close>2.189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-06</Date>
+    <Open>2.189</Open>
+    <High>2.686</High>
+    <Low>2.175</Low>
+    <Close>2.571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-07</Date>
+    <Open>2.571</Open>
+    <High>3.019</High>
+    <Low>2.448</Low>
+    <Close>2.486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-08</Date>
+    <Open>2.486</Open>
+    <High>2.919</High>
+    <Low>2.44</Low>
+    <Close>2.869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-09</Date>
+    <Open>2.869</Open>
+    <High>2.879</High>
+    <Low>2.58</Low>
+    <Close>2.678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-10</Date>
+    <Open>2.678</Open>
+    <High>3.172</High>
+    <Low>2.629</Low>
+    <Close>3.075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-11</Date>
+    <Open>3.075</Open>
+    <High>3.219</High>
+    <Low>2.891</Low>
+    <Close>2.936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-12</Date>
+    <Open>2.936</Open>
+    <High>3.138</High>
+    <Low>2.84</Low>
+    <Close>2.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-13</Date>
+    <Open>2.96</Open>
+    <High>3.969</High>
+    <Low>2.937</Low>
+    <Close>3.853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-14</Date>
+    <Open>3.853</Open>
+    <High>3.96</High>
+    <Low>3.516</Low>
+    <Close>3.808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-15</Date>
+    <Open>3.808</Open>
+    <High>4.255</High>
+    <Low>3.615</Low>
+    <Close>3.851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-16</Date>
+    <Open>3.851</Open>
+    <High>3.937</High>
+    <Low>3.447</Low>
+    <Close>3.566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-17</Date>
+    <Open>3.566</Open>
+    <High>3.858</High>
+    <Low>3.488</Low>
+    <Close>3.816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-18</Date>
+    <Open>3.816</Open>
+    <High>3.849</High>
+    <Low>3.275</Low>
+    <Close>3.463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-19</Date>
+    <Open>3.463</Open>
+    <High>3.896</High>
+    <Low>3.233</Low>
+    <Close>3.753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-20</Date>
+    <Open>3.753</Open>
+    <High>4.087</High>
+    <Low>3.677</Low>
+    <Close>3.854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-21</Date>
+    <Open>3.854</Open>
+    <High>3.932</High>
+    <Low>3.593</Low>
+    <Close>3.833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-22</Date>
+    <Open>3.833</Open>
+    <High>3.944</High>
+    <Low>3.439</Low>
+    <Close>3.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-23</Date>
+    <Open>3.68</Open>
+    <High>4.223</High>
+    <Low>3.633</Low>
+    <Close>4.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-24</Date>
+    <Open>4.19</Open>
+    <High>4.491</High>
+    <Low>3.951</Low>
+    <Close>4.081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-25</Date>
+    <Open>4.081</Open>
+    <High>4.214</High>
+    <Low>3.543</Low>
+    <Close>3.678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-26</Date>
+    <Open>3.678</Open>
+    <High>3.78</High>
+    <Low>3.113</Low>
+    <Close>3.437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-27</Date>
+    <Open>3.437</Open>
+    <High>3.54</High>
+    <Low>3.168</Low>
+    <Close>3.311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-28</Date>
+    <Open>3.311</Open>
+    <High>3.536</High>
+    <Low>3.258</Low>
+    <Close>3.465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-29</Date>
+    <Open>3.465</Open>
+    <High>3.578</High>
+    <Low>3.362</Low>
+    <Close>3.555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-11-30</Date>
+    <Open>3.555</Open>
+    <High>3.809</High>
+    <Low>3.523</Low>
+    <Close>3.778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-01</Date>
+    <Open>3.778</Open>
+    <High>3.985</High>
+    <Low>3.461</Low>
+    <Close>3.553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-02</Date>
+    <Open>3.553</Open>
+    <High>4.173</High>
+    <Low>3.503</Low>
+    <Close>3.948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-03</Date>
+    <Open>3.948</Open>
+    <High>4.025</High>
+    <Low>3.804</Low>
+    <Close>3.886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-04</Date>
+    <Open>3.886</Open>
+    <High>3.92</High>
+    <Low>3.499</Low>
+    <Close>3.518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-05</Date>
+    <Open>3.518</Open>
+    <High>3.701</High>
+    <Low>3.451</Low>
+    <Close>3.685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-06</Date>
+    <Open>3.685</Open>
+    <High>3.793</High>
+    <Low>3.511</Low>
+    <Close>3.652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-07</Date>
+    <Open>3.652</Open>
+    <High>3.881</High>
+    <Low>3.567</Low>
+    <Close>3.761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-08</Date>
+    <Open>3.761</Open>
+    <High>3.762</High>
+    <Low>3.28</Low>
+    <Close>3.298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-09</Date>
+    <Open>3.298</Open>
+    <High>3.392</High>
+    <Low>3.118</Low>
+    <Close>3.354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-10</Date>
+    <Open>3.354</Open>
+    <High>3.371</High>
+    <Low>3.191</Low>
+    <Close>3.238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-11</Date>
+    <Open>3.238</Open>
+    <High>3.247</High>
+    <Low>2.915</Low>
+    <Close>2.962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-12</Date>
+    <Open>2.962</Open>
+    <High>3.18</High>
+    <Low>2.962</Low>
+    <Close>3.127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-13</Date>
+    <Open>3.127</Open>
+    <High>3.364</High>
+    <Low>3.072</Low>
+    <Close>3.342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-14</Date>
+    <Open>3.342</Open>
+    <High>3.536</High>
+    <Low>3.24</Low>
+    <Close>3.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-15</Date>
+    <Open>3.48</Open>
+    <High>3.521</High>
+    <Low>3.312</Low>
+    <Close>3.331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-16</Date>
+    <Open>3.331</Open>
+    <High>3.541</High>
+    <Low>3.244</Low>
+    <Close>3.535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-17</Date>
+    <Open>3.535</Open>
+    <High>3.996</High>
+    <Low>3.437</Low>
+    <Close>3.694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-18</Date>
+    <Open>3.694</Open>
+    <High>3.858</High>
+    <Low>3.553</Low>
+    <Close>3.768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-19</Date>
+    <Open>3.768</Open>
+    <High>4.237</High>
+    <Low>3.706</Low>
+    <Close>3.963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-20</Date>
+    <Open>3.963</Open>
+    <High>4.021</High>
+    <Low>3.707</Low>
+    <Close>3.761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-21</Date>
+    <Open>3.761</Open>
+    <High>3.921</High>
+    <Low>3.418</Low>
+    <Close>3.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-22</Date>
+    <Open>3.51</Open>
+    <High>3.777</High>
+    <Low>3.285</Low>
+    <Close>3.732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-23</Date>
+    <Open>3.732</Open>
+    <High>3.778</High>
+    <Low>3.045</Low>
+    <Close>3.308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-24</Date>
+    <Open>3.308</Open>
+    <High>3.531</High>
+    <Low>3.157</Low>
+    <Close>3.523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-25</Date>
+    <Open>3.523</Open>
+    <High>3.646</High>
+    <Low>3.371</Low>
+    <Close>3.503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-26</Date>
+    <Open>3.503</Open>
+    <High>3.601</High>
+    <Low>3.363</Low>
+    <Close>3.412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-27</Date>
+    <Open>3.412</Open>
+    <High>3.799</High>
+    <Low>3.361</Low>
+    <Close>3.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-28</Date>
+    <Open>3.6</Open>
+    <High>3.949</High>
+    <Low>3.565</Low>
+    <Close>3.726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-29</Date>
+    <Open>3.726</Open>
+    <High>3.841</High>
+    <Low>3.502</Low>
+    <Close>3.667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-30</Date>
+    <Open>3.667</Open>
+    <High>4.377</High>
+    <Low>3.635</Low>
+    <Close>4.151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2020-12-31</Date>
+    <Open>4.151</Open>
+    <High>5.293</High>
+    <Low>3.945</Low>
+    <Close>5.159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-01</Date>
+    <Open>5.159</Open>
+    <High>5.276</High>
+    <Low>4.623</Low>
+    <Close>4.744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-02</Date>
+    <Open>4.744</Open>
+    <High>5.178</High>
+    <Low>4.489</Low>
+    <Close>4.861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-03</Date>
+    <Open>4.861</Open>
+    <High>5.631</High>
+    <Low>4.678</Low>
+    <Close>5.489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-04</Date>
+    <Open>5.489</Open>
+    <High>6.184</High>
+    <Low>4.97</Low>
+    <Close>5.423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-05</Date>
+    <Open>5.423</Open>
+    <High>6.563</High>
+    <Low>5.209</Low>
+    <Close>6.263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-06</Date>
+    <Open>6.263</Open>
+    <High>6.593</High>
+    <Low>6.022</Low>
+    <Close>6.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-07</Date>
+    <Open>6.42</Open>
+    <High>6.806</High>
+    <Low>6.056</Low>
+    <Close>6.257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-08</Date>
+    <Open>6.257</Open>
+    <High>6.365</High>
+    <Low>5.518</Low>
+    <Close>5.879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-09</Date>
+    <Open>5.879</Open>
+    <High>6.362</High>
+    <Low>5.687</Low>
+    <Close>6.239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-10</Date>
+    <Open>6.239</Open>
+    <High>6.576</High>
+    <Low>5.571</Low>
+    <Close>5.984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-11</Date>
+    <Open>5.984</Open>
+    <High>6.003</High>
+    <Low>4.457</Low>
+    <Close>5.245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-12</Date>
+    <Open>5.245</Open>
+    <High>5.82</High>
+    <Low>4.978</Low>
+    <Close>5.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-13</Date>
+    <Open>5.59</Open>
+    <High>6.379</High>
+    <Low>5.267</Low>
+    <Close>6.338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-14</Date>
+    <Open>6.338</Open>
+    <High>7.122</High>
+    <Low>6.177</Low>
+    <Close>6.951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-15</Date>
+    <Open>6.951</Open>
+    <High>7.478</High>
+    <Low>6.424</Low>
+    <Close>7.375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-16</Date>
+    <Open>7.375</Open>
+    <High>9.371</High>
+    <Low>7.197</Low>
+    <Close>8.412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-17</Date>
+    <Open>8.412</Open>
+    <High>9.174</High>
+    <Low>8.08</Low>
+    <Close>8.684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-18</Date>
+    <Open>8.684</Open>
+    <High>9.871</High>
+    <Low>8.318</Low>
+    <Close>9.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-19</Date>
+    <Open>9.2</Open>
+    <High>9.659</High>
+    <Low>8.483</Low>
+    <Close>8.596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-20</Date>
+    <Open>8.596</Open>
+    <High>9.049</High>
+    <Low>7.666</Low>
+    <Close>8.982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-21</Date>
+    <Open>8.982</Open>
+    <High>9.028</High>
+    <Low>7.336</Low>
+    <Close>7.588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-22</Date>
+    <Open>7.588</Open>
+    <High>9.025</High>
+    <Low>7.084</Low>
+    <Close>8.705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-23</Date>
+    <Open>8.705</Open>
+    <High>9.536</High>
+    <Low>8.506</Low>
+    <Close>9.345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-24</Date>
+    <Open>9.345</Open>
+    <High>12.29</High>
+    <Low>9.182</Low>
+    <Close>12.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-25</Date>
+    <Open>12.04</Open>
+    <High>12.89</High>
+    <Low>10.89</Low>
+    <Close>11.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-26</Date>
+    <Open>11.31</Open>
+    <High>14.24</High>
+    <Low>11.2</Low>
+    <Close>13.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-27</Date>
+    <Open>13.91</Open>
+    <High>15.52</High>
+    <Low>13.1</Low>
+    <Close>14.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-28</Date>
+    <Open>14.79</Open>
+    <High>15.41</High>
+    <Low>13.57</Low>
+    <Close>14.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-29</Date>
+    <Open>14.13</Open>
+    <High>15.76</High>
+    <Low>14.09</Low>
+    <Close>15.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-30</Date>
+    <Open>15.68</Open>
+    <High>19.63</High>
+    <Low>15.11</Low>
+    <Close>19.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-01-31</Date>
+    <Open>19.56</Open>
+    <High>20.52</High>
+    <Low>17.45</Low>
+    <Close>17.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-01</Date>
+    <Open>17.74</Open>
+    <High>20.76</High>
+    <Low>16.7</Low>
+    <Close>20.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-02</Date>
+    <Open>20.49</Open>
+    <High>20.6</High>
+    <Low>18.09</Low>
+    <Close>19.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-03</Date>
+    <Open>19.01</Open>
+    <High>20.51</High>
+    <Low>18.74</Low>
+    <Close>19.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-04</Date>
+    <Open>19.71</Open>
+    <High>21.57</High>
+    <Low>19.45</Low>
+    <Close>20.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-05</Date>
+    <Open>20.14</Open>
+    <High>22.34</High>
+    <Low>19.74</Low>
+    <Close>21.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-06</Date>
+    <Open>21.16</Open>
+    <High>21.67</High>
+    <Low>19.25</Low>
+    <Close>19.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-07</Date>
+    <Open>19.26</Open>
+    <High>19.68</High>
+    <Low>17.18</Low>
+    <Close>18.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-08</Date>
+    <Open>18.68</Open>
+    <High>20.16</High>
+    <Low>18.15</Low>
+    <Close>19.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-09</Date>
+    <Open>19.34</Open>
+    <High>19.91</High>
+    <Low>18.9</Low>
+    <Close>19.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-10</Date>
+    <Open>19.52</Open>
+    <High>22.41</High>
+    <Low>19.52</Low>
+    <Close>20.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-11</Date>
+    <Open>20.72</Open>
+    <High>22.0</High>
+    <Low>20.15</Low>
+    <Close>21.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-12</Date>
+    <Open>21.46</Open>
+    <High>23.82</High>
+    <Low>21.28</Low>
+    <Close>22.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-13</Date>
+    <Open>22.7</Open>
+    <High>23.54</High>
+    <Low>21.33</Low>
+    <Close>21.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-14</Date>
+    <Open>21.79</Open>
+    <High>22.61</High>
+    <Low>20.73</Low>
+    <Close>20.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-15</Date>
+    <Open>20.87</Open>
+    <High>21.53</High>
+    <Low>17.59</Low>
+    <Close>20.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-16</Date>
+    <Open>20.08</Open>
+    <High>21.31</High>
+    <Low>19.39</Low>
+    <Close>20.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-17</Date>
+    <Open>20.48</Open>
+    <High>21.78</High>
+    <Low>19.19</Low>
+    <Close>21.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-18</Date>
+    <Open>21.5</Open>
+    <High>22.24</High>
+    <Low>20.62</Low>
+    <Close>21.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-19</Date>
+    <Open>21.15</Open>
+    <High>21.53</High>
+    <Low>19.36</Low>
+    <Close>20.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-20</Date>
+    <Open>20.07</Open>
+    <High>32.87</High>
+    <Low>19.51</Low>
+    <Close>28.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-21</Date>
+    <Open>28.78</Open>
+    <High>32.08</High>
+    <Low>27.82</Low>
+    <Close>28.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-22</Date>
+    <Open>28.8</Open>
+    <High>29.13</High>
+    <Low>22.45</Low>
+    <Close>27.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-23</Date>
+    <Open>27.71</Open>
+    <High>27.77</High>
+    <Low>18.66</Low>
+    <Close>24.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-24</Date>
+    <Open>24.61</Open>
+    <High>27.36</High>
+    <Low>23.05</Low>
+    <Close>25.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-25</Date>
+    <Open>25.28</Open>
+    <High>26.98</High>
+    <Low>23.14</Low>
+    <Close>23.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-26</Date>
+    <Open>23.48</Open>
+    <High>25.17</High>
+    <Low>21.05</Low>
+    <Close>23.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-27</Date>
+    <Open>23.1</Open>
+    <High>24.82</High>
+    <Low>22.36</Low>
+    <Close>23.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-02-28</Date>
+    <Open>23.56</Open>
+    <High>24.15</High>
+    <Low>20.56</Low>
+    <Close>22.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-01</Date>
+    <Open>22.24</Open>
+    <High>25.72</High>
+    <Low>22.06</Low>
+    <Close>25.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-02</Date>
+    <Open>25.71</Open>
+    <High>27.43</High>
+    <Low>24.56</Low>
+    <Close>25.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-03</Date>
+    <Open>25.58</Open>
+    <High>27.58</High>
+    <Low>25.28</Low>
+    <Close>25.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-04</Date>
+    <Open>25.36</Open>
+    <High>29.73</High>
+    <Low>24.73</Low>
+    <Close>28.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-05</Date>
+    <Open>28.26</Open>
+    <High>28.78</High>
+    <Low>25.88</Low>
+    <Close>28.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-06</Date>
+    <Open>28.32</Open>
+    <High>29.02</High>
+    <Low>27.18</Low>
+    <Close>28.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-07</Date>
+    <Open>28.51</Open>
+    <High>34.83</High>
+    <Low>28.47</Low>
+    <Close>34.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-08</Date>
+    <Open>34.27</Open>
+    <High>34.91</High>
+    <Low>32.1</Low>
+    <Close>33.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-09</Date>
+    <Open>33.21</Open>
+    <High>34.79</High>
+    <Low>32.39</Low>
+    <Close>32.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-10</Date>
+    <Open>32.91</Open>
+    <High>33.54</High>
+    <Low>30.38</Low>
+    <Close>30.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-11</Date>
+    <Open>30.93</Open>
+    <High>31.81</High>
+    <Low>29.59</Low>
+    <Close>31.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-12</Date>
+    <Open>31.03</Open>
+    <High>31.95</High>
+    <Low>29.42</Low>
+    <Close>30.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-13</Date>
+    <Open>30.92</Open>
+    <High>33.29</High>
+    <Low>30.2</Low>
+    <Close>32.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-14</Date>
+    <Open>32.46</Open>
+    <High>33.77</High>
+    <Low>30.66</Low>
+    <Close>30.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-15</Date>
+    <Open>30.67</Open>
+    <High>31.53</High>
+    <Low>29.58</Low>
+    <Close>29.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-16</Date>
+    <Open>29.78</Open>
+    <High>30.02</High>
+    <Low>28.05</Low>
+    <Close>30.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-17</Date>
+    <Open>30.02</Open>
+    <High>31.63</High>
+    <Low>29.47</Low>
+    <Close>31.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-18</Date>
+    <Open>31.28</Open>
+    <High>31.58</High>
+    <Low>29.73</Low>
+    <Close>29.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-19</Date>
+    <Open>29.98</Open>
+    <High>34.19</High>
+    <Low>29.47</Low>
+    <Close>33.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-20</Date>
+    <Open>33.27</Open>
+    <High>35.14</High>
+    <Low>31.86</Low>
+    <Close>32.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-21</Date>
+    <Open>32.04</Open>
+    <High>33.3</High>
+    <Low>31.46</Low>
+    <Close>32.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-22</Date>
+    <Open>32.91</Open>
+    <High>35.82</High>
+    <Low>31.77</Low>
+    <Close>32.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-23</Date>
+    <Open>32.82</Open>
+    <High>36.13</High>
+    <Low>30.3</Low>
+    <Close>31.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-24</Date>
+    <Open>31.02</Open>
+    <High>31.87</High>
+    <Low>26.23</Low>
+    <Close>27.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-25</Date>
+    <Open>27.37</Open>
+    <High>28.05</High>
+    <Low>25.7</Low>
+    <Close>26.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-26</Date>
+    <Open>26.51</Open>
+    <High>29.02</High>
+    <Low>26.48</Low>
+    <Close>28.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-27</Date>
+    <Open>28.92</Open>
+    <High>29.45</High>
+    <Low>27.83</Low>
+    <Close>28.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-28</Date>
+    <Open>28.17</Open>
+    <High>28.85</High>
+    <Low>27.37</Low>
+    <Close>27.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-29</Date>
+    <Open>27.85</Open>
+    <High>29.47</High>
+    <Low>27.52</Low>
+    <Close>29.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-30</Date>
+    <Open>29.02</Open>
+    <High>29.28</High>
+    <Low>28.33</Low>
+    <Close>28.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-03-31</Date>
+    <Open>28.58</Open>
+    <High>29.01</High>
+    <Low>27.14</Low>
+    <Close>28.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-01</Date>
+    <Open>28.05</Open>
+    <High>30.25</High>
+    <Low>28.04</Low>
+    <Close>28.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-02</Date>
+    <Open>28.67</Open>
+    <High>30.25</High>
+    <Low>28.66</Low>
+    <Close>30.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-03</Date>
+    <Open>30.2</Open>
+    <High>32.45</High>
+    <Low>29.35</Low>
+    <Close>29.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-04</Date>
+    <Open>29.38</Open>
+    <High>31.5</High>
+    <Low>28.98</Low>
+    <Close>30.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-05</Date>
+    <Open>30.93</Open>
+    <High>31.2</High>
+    <Low>29.67</Low>
+    <Close>30.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-06</Date>
+    <Open>30.83</Open>
+    <High>32.42</High>
+    <Low>30.29</Low>
+    <Close>31.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-07</Date>
+    <Open>31.23</Open>
+    <High>31.38</High>
+    <Low>27.83</Low>
+    <Close>28.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-08</Date>
+    <Open>28.55</Open>
+    <High>30.29</High>
+    <Low>28.36</Low>
+    <Close>30.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-09</Date>
+    <Open>30.2</Open>
+    <High>30.57</High>
+    <Low>29.31</Low>
+    <Close>29.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-10</Date>
+    <Open>29.51</Open>
+    <High>30.81</High>
+    <Low>29.18</Low>
+    <Close>29.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-11</Date>
+    <Open>29.77</Open>
+    <High>30.65</High>
+    <Low>29.24</Low>
+    <Close>29.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-12</Date>
+    <Open>29.91</Open>
+    <High>38.1</High>
+    <Low>29.57</Low>
+    <Close>36.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-13</Date>
+    <Open>36.68</Open>
+    <High>37.11</High>
+    <Low>34.22</Low>
+    <Close>35.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-14</Date>
+    <Open>35.41</Open>
+    <High>36.83</High>
+    <Low>33.51</Low>
+    <Close>36.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-15</Date>
+    <Open>36.05</Open>
+    <High>39.47</High>
+    <Low>35.66</Low>
+    <Close>37.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-16</Date>
+    <Open>37.77</Open>
+    <High>38.16</High>
+    <Low>34.36</Low>
+    <Close>36.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-17</Date>
+    <Open>36.19</Open>
+    <High>37.52</High>
+    <Low>34.65</Low>
+    <Close>34.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-18</Date>
+    <Open>34.75</Open>
+    <High>35.13</High>
+    <Low>27.94</Low>
+    <Close>31.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-19</Date>
+    <Open>31.67</Open>
+    <High>32.7</High>
+    <Low>29.66</Low>
+    <Close>31.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-20</Date>
+    <Open>31.42</Open>
+    <High>32.22</High>
+    <Low>28.32</Low>
+    <Close>31.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-21</Date>
+    <Open>31.95</Open>
+    <High>36.26</High>
+    <Low>30.55</Low>
+    <Close>33.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-22</Date>
+    <Open>33.42</Open>
+    <High>38.39</High>
+    <Low>32.72</Low>
+    <Close>33.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-23</Date>
+    <Open>33.99</Open>
+    <High>34.93</High>
+    <Low>29.7</Low>
+    <Close>32.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-24</Date>
+    <Open>32.98</Open>
+    <High>33.01</High>
+    <Low>29.99</Low>
+    <Close>30.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-25</Date>
+    <Open>30.2</Open>
+    <High>34.87</High>
+    <Low>30.06</Low>
+    <Close>34.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-26</Date>
+    <Open>34.33</Open>
+    <High>38.51</High>
+    <Low>34.17</Low>
+    <Close>38.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-27</Date>
+    <Open>38.2</Open>
+    <High>40.61</High>
+    <Low>37.38</Low>
+    <Close>39.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-28</Date>
+    <Open>39.68</Open>
+    <High>42.97</High>
+    <Low>37.96</Low>
+    <Close>42.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-29</Date>
+    <Open>42.9</Open>
+    <High>43.93</High>
+    <Low>39.7</Low>
+    <Close>41.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-04-30</Date>
+    <Open>41.06</Open>
+    <High>41.35</High>
+    <Low>39.14</Low>
+    <Close>40.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-01</Date>
+    <Open>40.64</Open>
+    <High>41.27</High>
+    <Low>39.21</Low>
+    <Close>40.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-02</Date>
+    <Open>40.32</Open>
+    <High>43.28</High>
+    <Low>39.36</Low>
+    <Close>42.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-03</Date>
+    <Open>42.57</Open>
+    <High>44.98</High>
+    <Low>41.25</Low>
+    <Close>42.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-04</Date>
+    <Open>42.28</Open>
+    <High>44.63</High>
+    <Low>40.07</Low>
+    <Close>43.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-05</Date>
+    <Open>43.11</Open>
+    <High>44.81</High>
+    <Low>41.59</Low>
+    <Close>42.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-06</Date>
+    <Open>42.47</Open>
+    <High>42.57</High>
+    <Low>39.84</Low>
+    <Close>40.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-07</Date>
+    <Open>40.26</Open>
+    <High>41.31</High>
+    <Low>38.35</Low>
+    <Close>39.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-08</Date>
+    <Open>39.77</Open>
+    <High>41.29</High>
+    <Low>39.22</Low>
+    <Close>40.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-09</Date>
+    <Open>40.5</Open>
+    <High>40.75</High>
+    <Low>38.18</Low>
+    <Close>39.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-10</Date>
+    <Open>39.46</Open>
+    <High>41.19</High>
+    <Low>34.49</Low>
+    <Close>36.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-11</Date>
+    <Open>36.42</Open>
+    <High>38.57</High>
+    <Low>35.52</Low>
+    <Close>38.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-12</Date>
+    <Open>38.56</Open>
+    <High>43.94</High>
+    <Low>36.6</Low>
+    <Close>36.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-13</Date>
+    <Open>36.77</Open>
+    <High>40.3</High>
+    <Low>35.12</Low>
+    <Close>37.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-14</Date>
+    <Open>37.35</Open>
+    <High>40.9</High>
+    <Low>37.18</Low>
+    <Close>40.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-15</Date>
+    <Open>40.44</Open>
+    <High>42.42</High>
+    <Low>36.59</Low>
+    <Close>36.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-16</Date>
+    <Open>36.63</Open>
+    <High>39.48</High>
+    <Low>34.61</Low>
+    <Close>36.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-17</Date>
+    <Open>36.6</Open>
+    <High>36.6</High>
+    <Low>31.91</Low>
+    <Close>33.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-18</Date>
+    <Open>33.25</Open>
+    <High>36.57</High>
+    <Low>33.04</Low>
+    <Close>35.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-19</Date>
+    <Open>35.06</Open>
+    <High>35.55</High>
+    <Low>18.08</Low>
+    <Close>23.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-20</Date>
+    <Open>23.22</Open>
+    <High>28.45</High>
+    <Low>20.11</Low>
+    <Close>26.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-21</Date>
+    <Open>26.34</Open>
+    <High>27.95</High>
+    <Low>18.96</Low>
+    <Close>21.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-22</Date>
+    <Open>21.96</Open>
+    <High>22.41</High>
+    <Low>18.55</Low>
+    <Close>20.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-23</Date>
+    <Open>20.39</Open>
+    <High>21.33</High>
+    <Low>13.08</Low>
+    <Close>16.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-24</Date>
+    <Open>16.74</Open>
+    <High>25.17</High>
+    <Low>16.54</Low>
+    <Close>24.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-25</Date>
+    <Open>24.64</Open>
+    <High>26.7</High>
+    <Low>21.65</Low>
+    <Close>25.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-26</Date>
+    <Open>25.14</Open>
+    <High>29.42</High>
+    <Low>24.61</Low>
+    <Close>29.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-27</Date>
+    <Open>29.42</Open>
+    <High>30.0</High>
+    <Low>26.18</Low>
+    <Close>28.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-28</Date>
+    <Open>28.51</Open>
+    <High>29.37</High>
+    <Low>24.99</Low>
+    <Close>25.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-29</Date>
+    <Open>25.87</Open>
+    <High>27.52</High>
+    <Low>21.82</Low>
+    <Close>23.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-30</Date>
+    <Open>23.16</Open>
+    <High>26.56</High>
+    <Low>21.69</Low>
+    <Close>25.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-05-31</Date>
+    <Open>25.7</Open>
+    <High>28.37</High>
+    <Low>23.47</Low>
+    <Close>28.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-01</Date>
+    <Open>28.26</Open>
+    <High>28.73</High>
+    <Low>25.97</Low>
+    <Close>27.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-02</Date>
+    <Open>27.42</Open>
+    <High>28.77</High>
+    <Low>26.37</Low>
+    <Close>27.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-03</Date>
+    <Open>27.62</Open>
+    <High>29.37</High>
+    <Low>26.91</Low>
+    <Close>28.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-04</Date>
+    <Open>28.68</Open>
+    <High>28.72</High>
+    <Low>25.14</Low>
+    <Close>26.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-05</Date>
+    <Open>26.44</Open>
+    <High>27.69</High>
+    <Low>25.18</Low>
+    <Close>25.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-06</Date>
+    <Open>25.64</Open>
+    <High>26.44</High>
+    <Low>25.35</Low>
+    <Close>25.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-07</Date>
+    <Open>25.86</Open>
+    <High>27.33</High>
+    <Low>23.97</Low>
+    <Close>24.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-08</Date>
+    <Open>24.27</Open>
+    <High>24.65</High>
+    <Low>20.8</Low>
+    <Close>23.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-09</Date>
+    <Open>23.44</Open>
+    <High>25.24</High>
+    <Low>22.2</Low>
+    <Close>25.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-10</Date>
+    <Open>25.1</Open>
+    <High>25.25</High>
+    <Low>23.11</Low>
+    <Close>23.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-11</Date>
+    <Open>23.58</Open>
+    <High>23.84</High>
+    <Low>21.37</Low>
+    <Close>21.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-12</Date>
+    <Open>21.84</Open>
+    <High>21.89</High>
+    <Low>20.25</Low>
+    <Close>21.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-13</Date>
+    <Open>21.29</Open>
+    <High>23.61</High>
+    <Low>20.45</Low>
+    <Close>23.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-14</Date>
+    <Open>23.25</Open>
+    <High>24.2</High>
+    <Low>22.51</Low>
+    <Close>24.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-15</Date>
+    <Open>24.16</Open>
+    <High>24.67</High>
+    <Low>23.14</Low>
+    <Close>23.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-16</Date>
+    <Open>23.41</Open>
+    <High>23.54</High>
+    <Low>21.66</Low>
+    <Close>21.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-17</Date>
+    <Open>21.82</Open>
+    <High>22.94</High>
+    <Low>21.41</Low>
+    <Close>22.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-18</Date>
+    <Open>22.17</Open>
+    <High>22.28</High>
+    <Low>19.59</Low>
+    <Close>20.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-19</Date>
+    <Open>20.42</Open>
+    <High>20.97</High>
+    <Low>19.8</Low>
+    <Close>19.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-20</Date>
+    <Open>19.8</Open>
+    <High>21.04</High>
+    <Low>18.66</Low>
+    <Close>20.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-21</Date>
+    <Open>20.73</Open>
+    <High>20.88</High>
+    <Low>15.78</Low>
+    <Close>15.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-22</Date>
+    <Open>15.8</Open>
+    <High>17.13</High>
+    <Low>13.99</Low>
+    <Close>16.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-23</Date>
+    <Open>16.42</Open>
+    <High>18.48</High>
+    <Low>15.79</Low>
+    <Close>17.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-24</Date>
+    <Open>17.8</Open>
+    <High>18.54</High>
+    <Low>16.62</Low>
+    <Close>18.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-25</Date>
+    <Open>18.04</Open>
+    <High>18.35</High>
+    <Low>15.72</Low>
+    <Close>15.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-26</Date>
+    <Open>15.83</Open>
+    <High>16.47</High>
+    <Low>15.13</Low>
+    <Close>16.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-27</Date>
+    <Open>16.14</Open>
+    <High>17.11</High>
+    <Low>15.65</Low>
+    <Close>17.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-28</Date>
+    <Open>17.11</Open>
+    <High>18.14</High>
+    <Low>16.87</Low>
+    <Close>17.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-29</Date>
+    <Open>17.72</Open>
+    <High>19.18</High>
+    <Low>17.67</Low>
+    <Close>18.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-06-30</Date>
+    <Open>18.63</Open>
+    <High>19.3</High>
+    <Low>17.17</Low>
+    <Close>19.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-01</Date>
+    <Open>19.27</Open>
+    <High>19.28</High>
+    <Low>17.57</Low>
+    <Close>17.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-02</Date>
+    <Open>17.79</Open>
+    <High>18.24</High>
+    <Low>16.94</Low>
+    <Close>18.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-03</Date>
+    <Open>18.21</Open>
+    <High>19.54</High>
+    <Low>17.8</Low>
+    <Close>19.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-04</Date>
+    <Open>19.47</Open>
+    <High>21.49</High>
+    <Low>18.93</Low>
+    <Close>20.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-05</Date>
+    <Open>20.77</Open>
+    <High>20.89</High>
+    <Low>19.15</Low>
+    <Close>20.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-06</Date>
+    <Open>20.06</Open>
+    <High>23.19</High>
+    <Low>20.04</Low>
+    <Close>22.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-07</Date>
+    <Open>22.38</Open>
+    <High>23.44</High>
+    <Low>21.68</Low>
+    <Close>22.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-08</Date>
+    <Open>22.25</Open>
+    <High>22.3</High>
+    <Low>19.94</Low>
+    <Close>20.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-09</Date>
+    <Open>20.34</Open>
+    <High>21.57</High>
+    <Low>19.77</Low>
+    <Close>20.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-10</Date>
+    <Open>20.97</Open>
+    <High>21.51</High>
+    <Low>19.94</Low>
+    <Close>20.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-11</Date>
+    <Open>20.25</Open>
+    <High>20.93</High>
+    <Low>19.99</Low>
+    <Close>20.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-12</Date>
+    <Open>20.7</Open>
+    <High>21.4</High>
+    <Low>19.22</Low>
+    <Close>19.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-13</Date>
+    <Open>19.55</Open>
+    <High>19.72</High>
+    <Low>18.18</Low>
+    <Close>18.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-14</Date>
+    <Open>18.46</Open>
+    <High>18.53</High>
+    <Low>16.74</Low>
+    <Close>17.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-15</Date>
+    <Open>17.89</Open>
+    <High>18.38</High>
+    <Low>16.81</Low>
+    <Close>17.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-16</Date>
+    <Open>17.05</Open>
+    <High>17.61</High>
+    <Low>15.95</Low>
+    <Close>16.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-17</Date>
+    <Open>16.37</Open>
+    <High>16.76</High>
+    <Low>15.96</Low>
+    <Close>16.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-18</Date>
+    <Open>16.12</Open>
+    <High>17.18</High>
+    <Low>16.05</Low>
+    <Close>16.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-19</Date>
+    <Open>16.33</Open>
+    <High>16.78</High>
+    <Low>15.41</Low>
+    <Close>15.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-20</Date>
+    <Open>15.73</Open>
+    <High>15.96</High>
+    <Low>14.43</Low>
+    <Close>14.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-21</Date>
+    <Open>14.56</Open>
+    <High>16.86</High>
+    <Low>14.02</Low>
+    <Close>16.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-22</Date>
+    <Open>16.71</Open>
+    <High>17.61</High>
+    <Low>16.09</Low>
+    <Close>17.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-23</Date>
+    <Open>17.58</Open>
+    <High>18.69</High>
+    <Low>16.94</Low>
+    <Close>18.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-24</Date>
+    <Open>18.59</Open>
+    <High>18.95</High>
+    <Low>18.06</Low>
+    <Close>18.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-25</Date>
+    <Open>18.26</Open>
+    <High>18.46</High>
+    <Low>17.28</Low>
+    <Close>18.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-26</Date>
+    <Open>18.3</Open>
+    <High>20.29</High>
+    <Low>18.18</Low>
+    <Close>18.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-27</Date>
+    <Open>18.53</Open>
+    <High>19.24</High>
+    <Low>17.71</Low>
+    <Close>18.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-28</Date>
+    <Open>18.89</Open>
+    <High>19.45</High>
+    <Low>18.53</Low>
+    <Close>19.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-29</Date>
+    <Open>19.06</Open>
+    <High>19.79</High>
+    <Low>18.61</Low>
+    <Close>19.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-30</Date>
+    <Open>19.58</Open>
+    <High>21.04</High>
+    <Low>19.38</Low>
+    <Close>20.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-07-31</Date>
+    <Open>20.93</Open>
+    <High>21.95</High>
+    <Low>20.7</Low>
+    <Close>21.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-01</Date>
+    <Open>21.73</Open>
+    <High>23.23</High>
+    <Low>21.58</Low>
+    <Close>22.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-02</Date>
+    <Open>22.0</Open>
+    <High>23.09</High>
+    <Low>21.4</Low>
+    <Close>22.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-03</Date>
+    <Open>22.38</Open>
+    <High>22.73</High>
+    <Low>20.69</Low>
+    <Close>21.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-04</Date>
+    <Open>21.32</Open>
+    <High>23.72</High>
+    <Low>20.78</Low>
+    <Close>23.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-05</Date>
+    <Open>23.53</Open>
+    <High>25.55</High>
+    <Low>22.12</Low>
+    <Close>25.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-06</Date>
+    <Open>25.44</Open>
+    <High>26.94</High>
+    <Low>24.54</Low>
+    <Close>26.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-07</Date>
+    <Open>26.17</Open>
+    <High>28.99</High>
+    <Low>25.82</Low>
+    <Close>28.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-08</Date>
+    <Open>28.31</Open>
+    <High>28.68</High>
+    <Low>25.97</Low>
+    <Close>26.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-09</Date>
+    <Open>26.71</Open>
+    <High>28.75</High>
+    <Low>25.39</Low>
+    <Close>28.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-10</Date>
+    <Open>28.36</Open>
+    <High>30.2</High>
+    <Low>28.18</Low>
+    <Close>28.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-11</Date>
+    <Open>28.76</Open>
+    <High>30.4</High>
+    <Low>28.73</Low>
+    <Close>28.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-12</Date>
+    <Open>29.02</Open>
+    <High>29.02</High>
+    <Low>26.88</Low>
+    <Close>28.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-13</Date>
+    <Open>28.08</Open>
+    <High>30.6</High>
+    <Low>27.86</Low>
+    <Close>30.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-14</Date>
+    <Open>30.5</Open>
+    <High>30.66</High>
+    <Low>28.77</Low>
+    <Close>30.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-15</Date>
+    <Open>30.14</Open>
+    <High>30.47</High>
+    <Low>28.31</Low>
+    <Close>30.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-16</Date>
+    <Open>30.28</Open>
+    <High>31.25</High>
+    <Low>29.01</Low>
+    <Close>29.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-17</Date>
+    <Open>29.07</Open>
+    <High>30.8</High>
+    <Low>25.91</Low>
+    <Close>26.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-18</Date>
+    <Open>26.41</Open>
+    <High>27.35</High>
+    <Low>25.51</Low>
+    <Close>26.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-19</Date>
+    <Open>26.27</Open>
+    <High>27.98</High>
+    <Low>25.31</Low>
+    <Close>27.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-20</Date>
+    <Open>27.96</Open>
+    <High>29.2</High>
+    <Low>27.55</Low>
+    <Close>28.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-21</Date>
+    <Open>28.88</Open>
+    <High>29.75</High>
+    <Low>28.22</Low>
+    <Close>28.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-22</Date>
+    <Open>28.27</Open>
+    <High>29.2</High>
+    <Low>27.22</Low>
+    <Close>28.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-23</Date>
+    <Open>28.43</Open>
+    <High>29.62</High>
+    <Low>28.37</Low>
+    <Close>28.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-24</Date>
+    <Open>28.8</Open>
+    <High>29.23</High>
+    <Low>26.56</Low>
+    <Close>26.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-25</Date>
+    <Open>26.62</Open>
+    <High>27.44</High>
+    <Low>25.71</Low>
+    <Close>27.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-26</Date>
+    <Open>27.06</Open>
+    <High>27.65</High>
+    <Low>25.11</Low>
+    <Close>25.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-27</Date>
+    <Open>25.52</Open>
+    <High>27.5</High>
+    <Low>25.06</Low>
+    <Close>27.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-28</Date>
+    <Open>27.44</Open>
+    <High>27.62</High>
+    <Low>26.66</Low>
+    <Close>26.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-29</Date>
+    <Open>26.85</Open>
+    <High>27.69</High>
+    <Low>26.2</Low>
+    <Close>26.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-30</Date>
+    <Open>26.82</Open>
+    <High>28.21</High>
+    <Low>25.58</Low>
+    <Close>26.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-08-31</Date>
+    <Open>26.83</Open>
+    <High>29.73</High>
+    <Low>26.2</Low>
+    <Close>29.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-01</Date>
+    <Open>29.38</Open>
+    <High>31.37</High>
+    <Low>28.71</Low>
+    <Close>31.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-02</Date>
+    <Open>31.34</Open>
+    <High>31.41</High>
+    <Low>29.54</Low>
+    <Close>29.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-03</Date>
+    <Open>29.92</Open>
+    <High>31.19</High>
+    <Low>28.33</Low>
+    <Close>28.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-04</Date>
+    <Open>28.65</Open>
+    <High>29.44</High>
+    <Low>28.23</Low>
+    <Close>28.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-05</Date>
+    <Open>28.56</Open>
+    <High>29.49</High>
+    <Low>28.34</Low>
+    <Close>29.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-06</Date>
+    <Open>29.36</Open>
+    <High>30.28</High>
+    <Low>28.7</Low>
+    <Close>28.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-07</Date>
+    <Open>28.84</Open>
+    <High>29.32</High>
+    <Low>21.22</Low>
+    <Close>24.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-08</Date>
+    <Open>24.27</Open>
+    <High>24.96</High>
+    <Low>21.41</Low>
+    <Close>23.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-09</Date>
+    <Open>23.14</Open>
+    <High>24.71</High>
+    <Low>22.74</Low>
+    <Close>23.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-10</Date>
+    <Open>23.32</Open>
+    <High>24.25</High>
+    <Low>21.44</Low>
+    <Close>22.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-11</Date>
+    <Open>22.3</Open>
+    <High>23.87</High>
+    <Low>22.25</Low>
+    <Close>22.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-12</Date>
+    <Open>22.72</Open>
+    <High>24.26</High>
+    <Low>22.16</Low>
+    <Close>23.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-13</Date>
+    <Open>23.73</Open>
+    <High>24.04</High>
+    <Low>21.43</Low>
+    <Close>22.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-14</Date>
+    <Open>22.66</Open>
+    <High>25.9</High>
+    <Low>22.49</Low>
+    <Close>25.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-15</Date>
+    <Open>25.66</Open>
+    <High>27.47</High>
+    <Low>24.7</Low>
+    <Close>27.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-16</Date>
+    <Open>27.47</Open>
+    <High>27.59</High>
+    <Low>25.43</Low>
+    <Close>26.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-17</Date>
+    <Open>26.24</Open>
+    <High>26.37</High>
+    <Low>24.02</Low>
+    <Close>24.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-18</Date>
+    <Open>24.3</Open>
+    <High>25.18</High>
+    <Low>23.95</Low>
+    <Close>24.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-19</Date>
+    <Open>24.53</Open>
+    <High>24.63</High>
+    <Low>23.52</Low>
+    <Close>23.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-20</Date>
+    <Open>23.88</Open>
+    <High>23.97</High>
+    <Low>20.56</Low>
+    <Close>20.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-21</Date>
+    <Open>20.89</Open>
+    <High>21.62</High>
+    <Low>18.49</Low>
+    <Close>19.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-22</Date>
+    <Open>19.05</Open>
+    <High>21.65</High>
+    <Low>18.86</Low>
+    <Close>21.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-23</Date>
+    <Open>21.62</Open>
+    <High>21.84</High>
+    <Low>20.91</Low>
+    <Close>21.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-24</Date>
+    <Open>21.52</Open>
+    <High>21.64</High>
+    <Low>18.23</Low>
+    <Close>19.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-25</Date>
+    <Open>19.66</Open>
+    <High>20.11</High>
+    <Low>18.98</Low>
+    <Close>19.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-26</Date>
+    <Open>19.49</Open>
+    <High>24.71</High>
+    <Low>17.78</Low>
+    <Close>24.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-27</Date>
+    <Open>24.09</Open>
+    <High>26.0</High>
+    <Low>22.27</Low>
+    <Close>22.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-28</Date>
+    <Open>22.39</Open>
+    <High>24.97</High>
+    <Low>22.21</Low>
+    <Close>23.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-29</Date>
+    <Open>23.07</Open>
+    <High>24.27</High>
+    <Low>22.36</Low>
+    <Close>23.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-09-30</Date>
+    <Open>23.01</Open>
+    <High>23.94</High>
+    <Low>22.63</Low>
+    <Close>23.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-01</Date>
+    <Open>23.52</Open>
+    <High>25.76</High>
+    <Low>23.49</Low>
+    <Close>25.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-02</Date>
+    <Open>25.63</Open>
+    <High>27.21</High>
+    <Low>25.37</Low>
+    <Close>26.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-03</Date>
+    <Open>26.13</Open>
+    <High>26.63</High>
+    <Low>25.71</Low>
+    <Close>26.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-04</Date>
+    <Open>26.03</Open>
+    <High>26.03</High>
+    <Low>24.38</Low>
+    <Close>25.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-05</Date>
+    <Open>25.33</Open>
+    <High>25.9</High>
+    <Low>24.64</Low>
+    <Close>25.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-06</Date>
+    <Open>25.66</Open>
+    <High>26.01</High>
+    <Low>23.84</Low>
+    <Close>25.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-07</Date>
+    <Open>25.25</Open>
+    <High>26.29</High>
+    <Low>24.52</Low>
+    <Close>25.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-08</Date>
+    <Open>25.52</Open>
+    <High>26.09</High>
+    <Low>24.64</Low>
+    <Close>24.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-09</Date>
+    <Open>24.76</Open>
+    <High>25.66</High>
+    <Low>24.55</Low>
+    <Close>25.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-10</Date>
+    <Open>25.13</Open>
+    <High>25.99</High>
+    <Low>24.11</Low>
+    <Close>24.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-11</Date>
+    <Open>24.17</Open>
+    <High>25.06</High>
+    <Low>23.56</Low>
+    <Close>24.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-12</Date>
+    <Open>24.16</Open>
+    <High>24.16</High>
+    <Low>22.31</Low>
+    <Close>23.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-13</Date>
+    <Open>23.46</Open>
+    <High>25.53</High>
+    <Low>23.25</Low>
+    <Close>24.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-14</Date>
+    <Open>24.68</Open>
+    <High>26.55</High>
+    <Low>24.53</Low>
+    <Close>26.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-15</Date>
+    <Open>26.43</Open>
+    <High>26.84</High>
+    <Low>25.48</Low>
+    <Close>25.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-16</Date>
+    <Open>25.89</Open>
+    <High>27.93</High>
+    <Low>25.75</Low>
+    <Close>27.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-17</Date>
+    <Open>27.06</Open>
+    <High>27.13</High>
+    <Low>25.25</Low>
+    <Close>25.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-18</Date>
+    <Open>25.91</Open>
+    <High>26.24</High>
+    <Low>24.93</Low>
+    <Close>25.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-19</Date>
+    <Open>25.65</Open>
+    <High>26.3</High>
+    <Low>25.29</Low>
+    <Close>26.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-20</Date>
+    <Open>26.02</Open>
+    <High>27.13</High>
+    <Low>25.55</Low>
+    <Close>27.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-21</Date>
+    <Open>27.13</Open>
+    <High>27.74</High>
+    <Low>25.85</Low>
+    <Close>26.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-22</Date>
+    <Open>26.1</Open>
+    <High>26.85</High>
+    <Low>25.34</Low>
+    <Close>25.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-23</Date>
+    <Open>25.64</Open>
+    <High>26.88</High>
+    <Low>25.31</Low>
+    <Close>26.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-24</Date>
+    <Open>26.84</Open>
+    <High>27.23</High>
+    <Low>25.38</Low>
+    <Close>25.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-25</Date>
+    <Open>25.79</Open>
+    <High>26.75</High>
+    <Low>25.7</Low>
+    <Close>26.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-26</Date>
+    <Open>26.75</Open>
+    <High>28.27</High>
+    <Low>26.14</Low>
+    <Close>26.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-27</Date>
+    <Open>26.55</Open>
+    <High>28.28</High>
+    <Low>24.13</Low>
+    <Close>24.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-28</Date>
+    <Open>24.16</Open>
+    <High>25.34</High>
+    <Low>23.95</Low>
+    <Close>24.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-29</Date>
+    <Open>24.89</Open>
+    <High>25.8</High>
+    <Low>24.68</Low>
+    <Close>25.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-30</Date>
+    <Open>25.44</Open>
+    <High>25.56</High>
+    <Low>24.47</Low>
+    <Close>24.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-10-31</Date>
+    <Open>24.9</Open>
+    <High>25.3</High>
+    <Low>24.05</Low>
+    <Close>25.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-01</Date>
+    <Open>25.0</Open>
+    <High>26.49</High>
+    <Low>24.18</Low>
+    <Close>25.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-02</Date>
+    <Open>25.65</Open>
+    <High>26.33</High>
+    <Low>25.18</Low>
+    <Close>26.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-03</Date>
+    <Open>26.2</Open>
+    <High>27.05</High>
+    <Low>25.4</Low>
+    <Close>26.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-04</Date>
+    <Open>26.83</Open>
+    <High>27.47</High>
+    <Low>25.28</Low>
+    <Close>25.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-05</Date>
+    <Open>25.77</Open>
+    <High>26.11</High>
+    <Low>25.3</Low>
+    <Close>25.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-06</Date>
+    <Open>25.61</Open>
+    <High>25.81</High>
+    <Low>24.49</Low>
+    <Close>25.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-07</Date>
+    <Open>25.18</Open>
+    <High>25.52</High>
+    <Low>24.99</Low>
+    <Close>25.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-08</Date>
+    <Open>25.34</Open>
+    <High>26.36</High>
+    <Low>25.21</Low>
+    <Close>26.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-09</Date>
+    <Open>26.25</Open>
+    <High>27.73</High>
+    <Low>26.13</Low>
+    <Close>26.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-10</Date>
+    <Open>26.36</Open>
+    <High>28.47</High>
+    <Low>24.24</Low>
+    <Close>25.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-11</Date>
+    <Open>25.28</Open>
+    <High>26.11</High>
+    <Low>24.92</Low>
+    <Close>25.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-12</Date>
+    <Open>25.39</Open>
+    <High>25.69</High>
+    <Low>23.92</Low>
+    <Close>24.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-13</Date>
+    <Open>24.57</Open>
+    <High>24.81</High>
+    <Low>24.17</Low>
+    <Close>24.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-14</Date>
+    <Open>24.65</Open>
+    <High>24.98</High>
+    <Low>24.02</Low>
+    <Close>24.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-15</Date>
+    <Open>24.56</Open>
+    <High>25.19</High>
+    <Low>23.83</Low>
+    <Close>23.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-16</Date>
+    <Open>23.99</Open>
+    <High>24.0</High>
+    <Low>20.62</Low>
+    <Close>21.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-17</Date>
+    <Open>21.69</Open>
+    <High>21.95</High>
+    <Low>21.09</Low>
+    <Close>21.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-18</Date>
+    <Open>21.9</Open>
+    <High>22.24</High>
+    <Low>19.66</Low>
+    <Close>20.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-19</Date>
+    <Open>20.12</Open>
+    <High>21.33</High>
+    <Low>19.8</Low>
+    <Close>21.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-20</Date>
+    <Open>21.22</Open>
+    <High>22.04</High>
+    <Low>20.95</Low>
+    <Close>22.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-21</Date>
+    <Open>22.04</Open>
+    <High>22.18</High>
+    <Low>21.41</Low>
+    <Close>21.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-22</Date>
+    <Open>21.66</Open>
+    <High>22.24</High>
+    <Low>20.76</Low>
+    <Close>20.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-23</Date>
+    <Open>20.98</Open>
+    <High>22.32</High>
+    <Low>20.77</Low>
+    <Close>22.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-24</Date>
+    <Open>22.23</Open>
+    <High>22.3</High>
+    <Low>20.5512</Low>
+    <Close>20.732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-25</Date>
+    <Open>20.7262</Open>
+    <High>21.6559</High>
+    <Low>20.59</Low>
+    <Close>21.3186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-26</Date>
+    <Open>21.3193</Open>
+    <High>21.4597</High>
+    <Low>18.7641</Low>
+    <Close>19.419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-27</Date>
+    <Open>19.4363</Open>
+    <High>20.152</High>
+    <Low>19.1745</Low>
+    <Close>19.6185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-28</Date>
+    <Open>19.6185</Open>
+    <High>20.1322</High>
+    <Low>18.6315</Low>
+    <Close>19.8833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-29</Date>
+    <Open>19.8815</Open>
+    <High>20.489</High>
+    <Low>19.66</Low>
+    <Close>20.297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-11-30</Date>
+    <Open>20.305</Open>
+    <High>21.476</High>
+    <Low>19.6659</Low>
+    <Close>21.142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-01</Date>
+    <Open>21.217</Open>
+    <High>22.6</High>
+    <Low>20.79</Low>
+    <Close>20.982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-02</Date>
+    <Open>20.9946</Open>
+    <High>23.0449</High>
+    <Low>20.563</Low>
+    <Close>22.6133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-03</Date>
+    <Open>22.625</Open>
+    <High>23.0349</High>
+    <Low>19.4332</Low>
+    <Close>19.9086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-04</Date>
+    <Open>19.9179</Open>
+    <High>20.1263</High>
+    <Low>14.0507</Low>
+    <Close>17.2596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-05</Date>
+    <Open>17.2628</Open>
+    <High>17.4983</High>
+    <Low>15.9061</Low>
+    <Close>16.5112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-06</Date>
+    <Open>16.493</Open>
+    <High>17.3534</High>
+    <Low>15.1942</Low>
+    <Close>17.2683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-07</Date>
+    <Open>17.2819</Open>
+    <High>17.675</High>
+    <Low>16.9622</Low>
+    <Close>17.0772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-08</Date>
+    <Open>17.0014</Open>
+    <High>18.4763</High>
+    <Low>16.969</Low>
+    <Close>18.2641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-09</Date>
+    <Open>18.2691</Open>
+    <High>18.7758</High>
+    <Low>16.1287</Low>
+    <Close>16.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-10</Date>
+    <Open>16.39</Open>
+    <High>16.53</High>
+    <Low>15.23</Low>
+    <Close>15.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-11</Date>
+    <Open>15.45</Open>
+    <High>16.75</High>
+    <Low>14.97</Low>
+    <Close>15.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-12</Date>
+    <Open>15.75</Open>
+    <High>16.2</High>
+    <Low>15.28</Low>
+    <Close>16.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-13</Date>
+    <Open>16.14</Open>
+    <High>16.2</High>
+    <Low>13.766</Low>
+    <Close>14.314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-14</Date>
+    <Open>14.296</Open>
+    <High>15.072</High>
+    <Low>13.933</Low>
+    <Close>14.906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-15</Date>
+    <Open>14.906</Open>
+    <High>15.5177</High>
+    <Low>14.1671</Low>
+    <Close>15.2291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-16</Date>
+    <Open>15.2291</Open>
+    <High>15.3792</High>
+    <Low>14.3929</Low>
+    <Close>14.5944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-17</Date>
+    <Open>14.5944</Open>
+    <High>14.7859</High>
+    <Low>13.6755</Low>
+    <Close>14.7859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-18</Date>
+    <Open>14.7759</Open>
+    <High>16.1064</High>
+    <Low>14.6844</Low>
+    <Close>15.9864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-19</Date>
+    <Open>15.9864</Open>
+    <High>15.9864</High>
+    <Low>14.8359</Low>
+    <Close>15.1861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-20</Date>
+    <Open>15.1876</Open>
+    <High>15.2346</High>
+    <Low>13.9728</Low>
+    <Close>14.4543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-21</Date>
+    <Open>14.4558</Open>
+    <High>15.046</High>
+    <Low>14.3143</Low>
+    <Close>15.016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-22</Date>
+    <Open>15.016</Open>
+    <High>15.9364</High>
+    <Low>14.9445</Low>
+    <Close>15.8979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-23</Date>
+    <Open>15.8964</Open>
+    <High>18.1591</High>
+    <Low>15.7947</Low>
+    <Close>17.9672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-24</Date>
+    <Open>17.9672</Open>
+    <High>18.291</High>
+    <Low>17.4187</Low>
+    <Close>17.6506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-25</Date>
+    <Open>17.6406</Open>
+    <High>17.8507</High>
+    <Low>17.0885</Low>
+    <Close>17.3769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-26</Date>
+    <Open>17.3769</Open>
+    <High>18.7994</High>
+    <Low>16.73</Low>
+    <Close>18.6575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-27</Date>
+    <Open>18.6493</Open>
+    <High>20.08</High>
+    <Low>18.5493</Low>
+    <Close>19.3358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-28</Date>
+    <Open>19.3358</Open>
+    <High>19.926</High>
+    <Low>17.7836</Low>
+    <Close>18.4537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-29</Date>
+    <Open>18.4437</Open>
+    <High>19.4839</High>
+    <Low>17.4835</Low>
+    <Close>17.5235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-30</Date>
+    <Open>17.5217</Open>
+    <High>17.9136</High>
+    <Low>16.7117</Low>
+    <Close>17.6835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2021-12-31</Date>
+    <Open>17.6835</Open>
+    <High>18.6537</High>
+    <Low>16.7717</Low>
+    <Close>17.0317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-01</Date>
+    <Open>17.0317</Open>
+    <High>17.5582</High>
+    <Low>16.8383</Low>
+    <Close>17.2735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-02</Date>
+    <Open>17.2835</Open>
+    <High>18.2618</High>
+    <Low>17.0434</Low>
+    <Close>18.2537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-03</Date>
+    <Open>18.2637</Open>
+    <High>19.18</High>
+    <Low>17.8518</Low>
+    <Close>18.1818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-04</Date>
+    <Open>18.1818</Open>
+    <High>19.15</High>
+    <Low>17.6918</Low>
+    <Close>18.4582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-05</Date>
+    <Open>18.4563</Open>
+    <High>19.86</High>
+    <Low>16.3184</Low>
+    <Close>17.2583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-06</Date>
+    <Open>17.2483</Open>
+    <High>17.38</High>
+    <Low>16.0984</Low>
+    <Close>17.1083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-07</Date>
+    <Open>17.1168</Open>
+    <High>17.2583</High>
+    <Low>15.2669</Low>
+    <Close>15.7584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-08</Date>
+    <Open>15.7384</Open>
+    <High>16.1884</High>
+    <Low>14.5485</Low>
+    <Close>15.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-09</Date>
+    <Open>15.13</Open>
+    <High>16.3</High>
+    <Low>14.8085</Low>
+    <Close>15.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-10</Date>
+    <Open>15.85</Open>
+    <High>16.4516</High>
+    <Low>14.7085</Low>
+    <Close>15.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-11</Date>
+    <Open>15.09</Open>
+    <High>16.3216</High>
+    <Low>14.98</Low>
+    <Close>15.9116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-12</Date>
+    <Open>15.9016</Open>
+    <High>16.6166</High>
+    <Low>15.8916</Low>
+    <Close>16.1865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-13</Date>
+    <Open>16.1865</Open>
+    <High>16.5983</High>
+    <Low>15.4262</Low>
+    <Close>15.5162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-14</Date>
+    <Open>15.5162</Open>
+    <High>15.968</High>
+    <Low>15.1361</Low>
+    <Close>15.8448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-15</Date>
+    <Open>15.8563</Open>
+    <High>16.7284</High>
+    <Low>15.7163</Low>
+    <Close>16.5683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-16</Date>
+    <Open>16.5583</Open>
+    <High>18.1773</High>
+    <Low>16.2965</Low>
+    <Close>17.8571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-17</Date>
+    <Open>17.8571</Open>
+    <High>17.9672</High>
+    <Low>16.2365</Low>
+    <Close>16.5066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-18</Date>
+    <Open>16.5066</Open>
+    <High>17.7071</High>
+    <Low>15.6263</Low>
+    <Close>16.1849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-19</Date>
+    <Open>16.1649</Open>
+    <High>16.2365</High>
+    <Low>15.213</Low>
+    <Close>15.3946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-20</Date>
+    <Open>15.3946</Open>
+    <High>16.1849</High>
+    <Low>14.6715</Low>
+    <Close>14.863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-21</Date>
+    <Open>14.863</Open>
+    <High>14.863</High>
+    <Low>12.3225</Low>
+    <Close>12.6138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-22</Date>
+    <Open>12.6625</Open>
+    <High>13.0139</High>
+    <Low>10.4021</Low>
+    <Close>11.0133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-23</Date>
+    <Open>11.0122</Open>
+    <High>11.9336</High>
+    <Low>10.8222</Low>
+    <Close>11.1522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-24</Date>
+    <Open>11.1722</Open>
+    <High>11.7724</High>
+    <Low>9.53286</Low>
+    <Close>10.6032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-25</Date>
+    <Open>10.5932</Open>
+    <High>10.9455</High>
+    <Low>10.3321</Low>
+    <Close>10.5153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-26</Date>
+    <Open>10.5153</Open>
+    <High>11.7359</High>
+    <Low>10.3652</Low>
+    <Close>10.4963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-27</Date>
+    <Open>10.5063</Open>
+    <High>10.9155</High>
+    <Low>9.89593</Low>
+    <Close>10.1451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-28</Date>
+    <Open>10.1441</Open>
+    <High>10.7422</High>
+    <Low>9.85295</Low>
+    <Close>10.5121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-29</Date>
+    <Open>10.5021</Open>
+    <High>11.2434</High>
+    <Low>10.5021</Low>
+    <Close>11.1634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-30</Date>
+    <Open>11.1533</Open>
+    <High>11.4434</High>
+    <Low>10.6532</Low>
+    <Close>10.7243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-01-31</Date>
+    <Open>10.7343</Open>
+    <High>11.9059</High>
+    <Low>10.3041</Low>
+    <Close>11.7058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-01</Date>
+    <Open>11.7058</Open>
+    <High>11.8771</High>
+    <Low>11.0266</Low>
+    <Close>11.1556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-02</Date>
+    <Open>11.1456</Open>
+    <High>11.3668</High>
+    <Low>10.3952</Low>
+    <Close>10.5495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-03</Date>
+    <Open>10.5595</Open>
+    <High>10.6074</High>
+    <Low>9.98399</Low>
+    <Close>10.3052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-04</Date>
+    <Open>10.2851</Open>
+    <High>11.1556</High>
+    <Low>10.2741</Low>
+    <Close>10.9487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-05</Date>
+    <Open>10.9487</Open>
+    <High>12.0284</High>
+    <Low>10.9287</Low>
+    <Close>11.3568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-06</Date>
+    <Open>11.3568</Open>
+    <High>11.617</High>
+    <Low>11.0155</Low>
+    <Close>11.2445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-07</Date>
+    <Open>11.2445</Open>
+    <High>12.6101</High>
+    <Low>11.2445</Low>
+    <Close>12.3687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-08</Date>
+    <Open>12.3687</Open>
+    <High>12.939</High>
+    <Low>11.5192</Low>
+    <Close>11.8507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-09</Date>
+    <Open>11.8507</Open>
+    <High>12.6614</High>
+    <Low>11.6181</Low>
+    <Close>12.3523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-10</Date>
+    <Open>12.3423</Open>
+    <High>12.3711</High>
+    <Low>11.3902</Low>
+    <Close>11.6682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-11</Date>
+    <Open>11.6682</Open>
+    <High>11.6782</High>
+    <Low>10.4131</Low>
+    <Close>10.4531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-12</Date>
+    <Open>10.4531</Open>
+    <High>10.9777</High>
+    <Low>10.3831</Low>
+    <Close>10.6553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-13</Date>
+    <Open>10.6553</Open>
+    <High>10.8565</High>
+    <Low>10.2562</Low>
+    <Close>10.4363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-14</Date>
+    <Open>10.4062</Open>
+    <High>10.7164</High>
+    <Low>10.1151</Low>
+    <Close>10.6353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-15</Date>
+    <Open>10.6353</Open>
+    <High>11.4169</High>
+    <Low>10.6053</Low>
+    <Close>11.3068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-16</Date>
+    <Open>11.3168</Open>
+    <High>11.5369</High>
+    <Low>10.7865</Low>
+    <Close>11.3457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-17</Date>
+    <Open>11.3457</Open>
+    <High>11.4357</High>
+    <Low>10.2551</Low>
+    <Close>10.4973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-18</Date>
+    <Open>10.4973</Open>
+    <High>10.7075</High>
+    <Low>10.046</Low>
+    <Close>10.0861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-19</Date>
+    <Open>10.0861</Open>
+    <High>10.4263</High>
+    <Low>9.76586</Low>
+    <Close>9.98499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-20</Date>
+    <Open>9.98399</Open>
+    <High>10.066</High>
+    <Low>9.18367</Low>
+    <Close>9.50475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-21</Date>
+    <Open>9.50475</Open>
+    <High>9.75488</High>
+    <Low>8.67347</Low>
+    <Close>8.84442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-22</Date>
+    <Open>8.84442</Open>
+    <High>8.97359</High>
+    <Low>8.14244</Low>
+    <Close>8.76438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-23</Date>
+    <Open>8.76438</Open>
+    <High>9.46473</High>
+    <Low>8.72436</Low>
+    <Close>9.04542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-24</Date>
+    <Open>9.04542</Open>
+    <High>9.04542</High>
+    <Low>7.51375</Low>
+    <Close>8.62345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-25</Date>
+    <Open>8.61344</Open>
+    <High>9.4047</High>
+    <Low>8.46254</Low>
+    <Close>9.3947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-26</Date>
+    <Open>9.4047</Open>
+    <High>9.54477</High>
+    <Low>8.96358</Low>
+    <Close>9.09364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-27</Date>
+    <Open>9.07363</Open>
+    <High>10.1551</High>
+    <Low>8.65346</Low>
+    <Close>9.8049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-02-28</Date>
+    <Open>9.79392</Open>
+    <High>10.5353</High>
+    <Low>9.39376</Low>
+    <Close>10.3641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-01</Date>
+    <Open>10.3742</Open>
+    <High>10.8243</High>
+    <Low>10.044</Low>
+    <Close>10.2931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-02</Date>
+    <Open>10.3031</Open>
+    <High>10.5832</High>
+    <Low>9.96299</Low>
+    <Close>10.102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-03</Date>
+    <Open>10.093</Open>
+    <High>10.143</High>
+    <Low>9.42188</Low>
+    <Close>9.57191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-04</Date>
+    <Open>9.58287</Open>
+    <High>9.63289</High>
+    <Low>8.65259</Low>
+    <Close>8.82265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-05</Date>
+    <Open>8.82265</Open>
+    <High>9.14274</High>
+    <Low>8.68174</Low>
+    <Close>9.02271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-06</Date>
+    <Open>9.03271</Open>
+    <High>9.08272</High>
+    <Low>8.45169</Low>
+    <Close>8.72262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-07</Date>
+    <Open>8.72262</Open>
+    <High>8.80176</High>
+    <Low>8.11162</Low>
+    <Close>8.3425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-08</Date>
+    <Open>8.3325</Open>
+    <High>8.86177</High>
+    <Low>8.25248</Low>
+    <Close>8.76175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-09</Date>
+    <Open>8.77175</Open>
+    <High>9.46189</High>
+    <Low>8.74175</Low>
+    <Close>9.11182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-10</Date>
+    <Open>9.09182</Open>
+    <High>9.30093</High>
+    <Low>8.5117</Low>
+    <Close>8.72349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-11</Date>
+    <Open>8.48339</Open>
+    <High>9.05362</High>
+    <Low>8.36334</Low>
+    <Close>8.59172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-12</Date>
+    <Open>8.60172</Open>
+    <High>8.87177</High>
+    <Low>8.45084</Low>
+    <Close>8.53085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-13</Date>
+    <Open>8.52085</Open>
+    <High>8.75088</High>
+    <Low>8.12162</Low>
+    <Close>8.18245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-14</Date>
+    <Open>8.17163</Open>
+    <High>8.58172</High>
+    <Low>8.10162</Low>
+    <Close>8.40168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-15</Date>
+    <Open>8.40084</Open>
+    <High>8.80176</High>
+    <Low>8.14081</Low>
+    <Close>8.6726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-16</Date>
+    <Open>8.6726</Open>
+    <High>9.22277</High>
+    <Low>8.50255</Low>
+    <Close>9.03271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-17</Date>
+    <Open>9.02271</Open>
+    <High>9.41282</High>
+    <Low>8.9918</Low>
+    <Close>9.18459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-18</Date>
+    <Open>9.17367</Open>
+    <High>9.76586</High>
+    <Low>9.0136</Low>
+    <Close>9.57479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-19</Date>
+    <Open>9.56478</Open>
+    <High>9.95597</High>
+    <Low>9.55477</Low>
+    <Close>9.62385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-20</Date>
+    <Open>9.62481</Open>
+    <High>9.78489</High>
+    <Low>9.13457</Low>
+    <Close>9.32373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-21</Date>
+    <Open>9.33466</Open>
+    <High>9.6148</High>
+    <Low>9.17458</Low>
+    <Close>9.29372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-22</Date>
+    <Open>9.28371</Open>
+    <High>10.1751</High>
+    <Low>9.2537</Low>
+    <Close>9.8149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-23</Date>
+    <Open>9.8149</Open>
+    <High>10.2551</High>
+    <Low>9.65483</Low>
+    <Close>9.87395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-24</Date>
+    <Open>9.88494</Open>
+    <High>10.7354</High>
+    <Low>9.87395</Low>
+    <Close>10.7143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-25</Date>
+    <Open>10.7043</Open>
+    <High>11.1556</High>
+    <Low>10.4242</Low>
+    <Close>10.5842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-26</Date>
+    <Open>10.5842</Open>
+    <High>10.7554</High>
+    <Low>10.3742</Low>
+    <Close>10.5242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-27</Date>
+    <Open>10.5253</Open>
+    <High>11.3745</High>
+    <Low>10.4652</Low>
+    <Close>11.3545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-28</Date>
+    <Open>11.3545</Open>
+    <High>11.5746</High>
+    <Low>11.1333</Low>
+    <Close>11.2445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-29</Date>
+    <Open>11.2456</Open>
+    <High>11.7247</High>
+    <Low>10.7632</Low>
+    <Close>11.0955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-30</Date>
+    <Open>11.0655</Open>
+    <High>11.8547</High>
+    <Low>10.8243</Low>
+    <Close>11.6135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-03-31</Date>
+    <Open>11.6135</Open>
+    <High>12.4925</High>
+    <Low>11.0433</Low>
+    <Close>11.3123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-01</Date>
+    <Open>11.3134</Open>
+    <High>12.096</High>
+    <Low>10.8833</Low>
+    <Close>11.8147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-02</Date>
+    <Open>11.8135</Open>
+    <High>12.0048</High>
+    <Low>11.4346</Low>
+    <Close>11.8647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-03</Date>
+    <Open>11.8748</Open>
+    <High>12.0448</High>
+    <Low>11.4634</Low>
+    <Close>11.8347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-04</Date>
+    <Open>11.8435</Open>
+    <High>12.1736</High>
+    <Low>11.0433</Low>
+    <Close>11.4823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-05</Date>
+    <Open>11.4923</Open>
+    <High>11.9036</High>
+    <Low>11.1311</Low>
+    <Close>11.2923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-06</Date>
+    <Open>11.3023</Open>
+    <High>11.3123</High>
+    <Low>10.07</Low>
+    <Close>10.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-07</Date>
+    <Open>10.301</Open>
+    <High>10.351</High>
+    <Low>9.81098</Low>
+    <Close>10.311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-08</Date>
+    <Open>10.311</Open>
+    <High>10.5521</High>
+    <Low>9.78293</Low>
+    <Close>9.80392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-09</Date>
+    <Open>9.80392</Open>
+    <High>10.063</High>
+    <Low>9.62289</Low>
+    <Close>10.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-10</Date>
+    <Open>10.023</Open>
+    <High>10.3231</High>
+    <Low>9.93298</Low>
+    <Close>10.122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-11</Date>
+    <Open>10.131</Open>
+    <High>10.162</High>
+    <Low>8.93179</Low>
+    <Close>8.96269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-12</Date>
+    <Open>8.96269</Open>
+    <High>9.4919</High>
+    <Low>8.90267</Low>
+    <Close>9.22277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-13</Date>
+    <Open>9.22277</Open>
+    <High>9.73292</High>
+    <Low>9.15274</Low>
+    <Close>9.6729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-14</Date>
+    <Open>9.6729</Open>
+    <High>9.75292</High>
+    <Low>9.3228</Low>
+    <Close>9.48095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-15</Date>
+    <Open>9.4819</Open>
+    <High>9.97199</High>
+    <Low>9.46095</Low>
+    <Close>9.73195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-16</Date>
+    <Open>9.73097</Open>
+    <High>9.83197</High>
+    <Low>9.4919</Low>
+    <Close>9.61602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-17</Date>
+    <Open>9.61622</Open>
+    <High>9.71294</High>
+    <Low>9.46685</Low>
+    <Close>9.5196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-18</Date>
+    <Open>9.51275</Open>
+    <High>9.54711</High>
+    <Low>8.86077</Low>
+    <Close>9.31279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-19</Date>
+    <Open>9.3228</Open>
+    <High>9.62192</High>
+    <Low>9.21184</Low>
+    <Close>9.4919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-20</Date>
+    <Open>9.4921</Open>
+    <High>9.69954</High>
+    <Low>9.10822</Low>
+    <Close>9.22534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-21</Date>
+    <Open>9.22795</Open>
+    <High>9.71334</High>
+    <Low>8.77748</Low>
+    <Close>8.92108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-22</Date>
+    <Open>8.97139</Open>
+    <High>9.13183</High>
+    <Low>8.74087</Low>
+    <Close>8.94089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-23</Date>
+    <Open>8.93179</Open>
+    <High>9.22184</High>
+    <Low>8.83088</Low>
+    <Close>9.03181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-24</Date>
+    <Open>9.0309</Open>
+    <High>9.16183</High>
+    <Low>8.70087</Low>
+    <Close>8.81176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-25</Date>
+    <Open>8.81176</Open>
+    <High>8.84177</High>
+    <Low>8.18</Low>
+    <Close>8.70894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-26</Date>
+    <Open>8.71344</Open>
+    <High>8.81588</High>
+    <Low>8.0039</Low>
+    <Close>8.12951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-27</Date>
+    <Open>8.13191</Open>
+    <High>8.4017</High>
+    <Low>7.9131</Low>
+    <Close>8.21852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-28</Date>
+    <Open>8.21082</Open>
+    <High>8.36084</High>
+    <Low>8.02</Low>
+    <Close>8.16082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-29</Date>
+    <Open>8.15462</Open>
+    <High>8.22772</High>
+    <Low>7.51</Low>
+    <Close>7.59536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-04-30</Date>
+    <Open>7.59636</Open>
+    <High>7.79128</High>
+    <Low>7.32073</Low>
+    <Close>7.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-01</Date>
+    <Open>7.52</Open>
+    <High>7.53075</High>
+    <Low>6.35</Low>
+    <Close>7.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-02</Date>
+    <Open>7.0207</Open>
+    <High>7.20072</High>
+    <Low>6.64</Low>
+    <Close>6.91069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-03</Date>
+    <Open>6.92569</Open>
+    <High>7.1296</High>
+    <Low>6.69386</Low>
+    <Close>6.80432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-04</Date>
+    <Open>6.80192</Open>
+    <High>7.8902</High>
+    <Low>6.78712</Low>
+    <Close>7.8821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-05</Date>
+    <Open>7.89</Open>
+    <High>8.09838</High>
+    <Low>6.95861</Low>
+    <Close>7.23285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-06</Date>
+    <Open>7.23345</Open>
+    <High>7.57924</High>
+    <Low>6.86931</Low>
+    <Close>7.47925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-07</Date>
+    <Open>7.47925</Open>
+    <High>7.69923</High>
+    <Low>7.18856</Low>
+    <Close>7.18856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-08</Date>
+    <Open>7.18856</Open>
+    <High>7.3378</High>
+    <Low>6.84657</Low>
+    <Close>7.24783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-09</Date>
+    <Open>7.24783</Open>
+    <High>7.27782</High>
+    <Low>6.04758</Low>
+    <Close>6.18876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-10</Date>
+    <Open>6.21086</Open>
+    <High>6.64801</High>
+    <Low>5.75677</Low>
+    <Close>5.85766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-11</Date>
+    <Open>5.83766</Open>
+    <High>6.20752</High>
+    <Low>4.63187</Low>
+    <Close>4.88187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-12</Date>
+    <Open>4.87749</Open>
+    <High>5.17607</High>
+    <Low>3.55379</Low>
+    <Close>4.6175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-13</Date>
+    <Open>4.6175</Open>
+    <High>5.46562</High>
+    <Low>4.53771</Low>
+    <Close>5.18118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-14</Date>
+    <Open>5.18118</Open>
+    <High>5.37085</High>
+    <Low>4.71009</Low>
+    <Close>5.09286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-15</Date>
+    <Open>5.09286</Open>
+    <High>5.38353</High>
+    <Low>4.97253</Low>
+    <Close>5.37301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-16</Date>
+    <Open>5.38299</Open>
+    <High>5.46344</High>
+    <Low>4.89363</Low>
+    <Close>5.10336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-17</Date>
+    <Open>5.11334</Open>
+    <High>5.44401</High>
+    <Low>5.02246</Low>
+    <Close>5.33306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-18</Date>
+    <Open>5.33306</Open>
+    <High>5.54334</High>
+    <Low>4.87366</Low>
+    <Close>5.00349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-19</Date>
+    <Open>5.01297</Open>
+    <High>5.17534</High>
+    <Low>4.73384</Low>
+    <Close>5.11488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-20</Date>
+    <Open>5.11488</Open>
+    <High>5.51614</High>
+    <Low>4.9141</Low>
+    <Close>5.02396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-21</Date>
+    <Open>5.02396</Open>
+    <High>5.36302</High>
+    <Low>4.97402</Low>
+    <Close>5.21321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-22</Date>
+    <Open>5.21321</Open>
+    <High>5.43347</High>
+    <Low>5.11334</Low>
+    <Close>5.40351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-23</Date>
+    <Open>5.40351</Open>
+    <High>5.97342</High>
+    <Low>5.36356</Low>
+    <Close>5.72312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-24</Date>
+    <Open>5.72255</Open>
+    <High>5.8136</High>
+    <Low>5.28365</Low>
+    <Close>5.54279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-25</Date>
+    <Open>5.55222</Open>
+    <High>5.79304</High>
+    <Low>5.37354</Low>
+    <Close>5.60646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-26</Date>
+    <Open>5.60567</Open>
+    <High>5.76585</High>
+    <Low>4.78413</Low>
+    <Close>5.05774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-27</Date>
+    <Open>5.04825</Open>
+    <High>5.0975</High>
+    <Low>4.58815</Low>
+    <Close>4.69031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-28</Date>
+    <Open>4.68461</Open>
+    <High>4.97917</High>
+    <Low>4.60244</Low>
+    <Close>4.93782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-29</Date>
+    <Open>4.93672</Open>
+    <High>5.02477</High>
+    <Low>4.76698</Low>
+    <Close>4.92523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-30</Date>
+    <Open>4.92618</Open>
+    <High>5.69091</High>
+    <Low>4.88552</Low>
+    <Close>5.6172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-05-31</Date>
+    <Open>5.62696</Open>
+    <High>5.8654</High>
+    <Low>5.53941</Low>
+    <Close>5.64478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-01</Date>
+    <Open>5.64195</Open>
+    <High>5.81055</High>
+    <Low>5.09439</Low>
+    <Close>5.17734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-02</Date>
+    <Open>5.17734</Open>
+    <High>5.28944</High>
+    <Low>5.04165</Low>
+    <Close>5.22519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-03</Date>
+    <Open>5.22849</Open>
+    <High>5.33103</High>
+    <Low>4.95743</Low>
+    <Close>5.14072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-04</Date>
+    <Open>5.14112</Open>
+    <High>5.15431</High>
+    <Low>4.93241</Low>
+    <Close>5.1289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-05</Date>
+    <Open>5.12615</Open>
+    <High>5.22545</High>
+    <Low>4.91572</Low>
+    <Close>5.13517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-06</Date>
+    <Open>5.14516</Open>
+    <High>5.41556</High>
+    <Low>5.05524</Low>
+    <Close>5.30549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-07</Date>
+    <Open>5.30554</Open>
+    <High>5.41523</High>
+    <Low>4.92591</Low>
+    <Close>5.39563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-08</Date>
+    <Open>5.37564</Open>
+    <High>5.39622</High>
+    <Low>5.02633</Low>
+    <Close>5.13666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-09</Date>
+    <Open>5.13666</Open>
+    <High>5.35539</High>
+    <Low>5.02623</Low>
+    <Close>5.21562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-10</Date>
+    <Open>5.20557</Open>
+    <High>5.22576</High>
+    <Low>4.77474</Low>
+    <Close>4.86377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-11</Date>
+    <Open>4.86377</Open>
+    <High>4.96468</High>
+    <Low>4.32459</Low>
+    <Close>4.42499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-12</Date>
+    <Open>4.43494</Open>
+    <High>4.47494</High>
+    <Low>4.08423</Low>
+    <Close>4.26475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-13</Date>
+    <Open>4.26475</Open>
+    <High>4.28477</High>
+    <Low>3.44055</Low>
+    <Close>3.63494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-14</Date>
+    <Open>3.63498</Open>
+    <High>3.80516</High>
+    <Low>3.34514</Low>
+    <Close>3.63563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-15</Date>
+    <Open>3.63563</Open>
+    <High>4.34521</High>
+    <Low>3.3839</Low>
+    <Close>4.31352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-16</Date>
+    <Open>4.33279</Open>
+    <High>4.40786</High>
+    <Low>3.87973</Low>
+    <Close>3.91351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-17</Date>
+    <Open>3.81269</Open>
+    <High>4.00143</High>
+    <Low>3.76979</Low>
+    <Close>3.94126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-18</Date>
+    <Open>3.942</Open>
+    <High>4.08318</High>
+    <Low>3.32507</Low>
+    <Close>3.53427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-19</Date>
+    <Open>3.53427</Open>
+    <High>4.23491</High>
+    <Low>3.48504</Low>
+    <Close>4.16458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-20</Date>
+    <Open>4.17948</Open>
+    <High>4.38631</High>
+    <Low>3.98112</Low>
+    <Close>4.16941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-21</Date>
+    <Open>4.16332</Open>
+    <High>5.18703</High>
+    <Low>4.11277</Low>
+    <Close>4.79822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-22</Date>
+    <Open>4.79702</Open>
+    <High>5.35124</High>
+    <Low>4.56537</Low>
+    <Close>5.06243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-23</Date>
+    <Open>5.05824</Open>
+    <High>5.65354</High>
+    <Low>4.95594</Low>
+    <Close>5.46403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-24</Date>
+    <Open>5.46358</Open>
+    <High>5.78791</High>
+    <Low>5.35434</Low>
+    <Close>5.49651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-25</Date>
+    <Open>5.49561</Open>
+    <High>5.74766</High>
+    <Low>5.24498</Low>
+    <Close>5.7158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-26</Date>
+    <Open>5.71604</Open>
+    <High>6.07591</High>
+    <Low>5.47127</Low>
+    <Close>5.86706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-27</Date>
+    <Open>5.86892</Open>
+    <High>5.92185</High>
+    <Low>5.27195</Low>
+    <Close>5.32056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-28</Date>
+    <Open>5.32211</Open>
+    <High>5.47801</High>
+    <Low>5.03831</Low>
+    <Close>5.116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-29</Date>
+    <Open>5.11165</Open>
+    <High>5.25723</High>
+    <Low>4.77694</Low>
+    <Close>5.16334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-06-30</Date>
+    <Open>5.1643</Open>
+    <High>5.22197</High>
+    <Low>4.59606</Low>
+    <Close>4.75838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-01</Date>
+    <Open>4.76108</Open>
+    <High>5.12466</High>
+    <Low>4.69828</Low>
+    <Close>4.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-02</Date>
+    <Open>4.882</Open>
+    <High>5.082</High>
+    <Low>4.719</Low>
+    <Close>4.94995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-03</Date>
+    <Open>4.96314</Open>
+    <High>4.9921</High>
+    <Low>4.73676</Low>
+    <Close>4.90791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-04</Date>
+    <Open>4.92139</Open>
+    <High>5.13643</High>
+    <Low>4.72595</Low>
+    <Close>5.09937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-05</Date>
+    <Open>5.09987</Open>
+    <High>5.43897</High>
+    <Low>5.00549</Low>
+    <Close>5.39826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-06</Date>
+    <Open>5.39826</Open>
+    <High>5.49125</High>
+    <Low>5.18497</Low>
+    <Close>5.29996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-07</Date>
+    <Open>5.29946</Open>
+    <High>5.81939</High>
+    <Low>5.28108</Low>
+    <Close>5.70937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-08</Date>
+    <Open>5.71127</Open>
+    <High>5.95163</High>
+    <Low>5.52483</Low>
+    <Close>5.78223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-09</Date>
+    <Open>5.77793</Open>
+    <High>6.61853</High>
+    <Low>5.76584</Low>
+    <Close>6.52388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-10</Date>
+    <Open>6.52099</Open>
+    <High>6.57525</High>
+    <Low>5.98291</Low>
+    <Close>6.31931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-11</Date>
+    <Open>6.31661</Open>
+    <High>6.37247</High>
+    <Low>5.61234</Low>
+    <Close>5.6607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-12</Date>
+    <Open>5.6566</Open>
+    <High>5.87413</High>
+    <Low>5.22986</Low>
+    <Close>5.5983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-13</Date>
+    <Open>5.59757</Open>
+    <High>5.79158</High>
+    <Low>5.24932</Low>
+    <Close>5.79158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-14</Date>
+    <Open>5.79158</Open>
+    <High>7.08455</High>
+    <Low>5.78539</Low>
+    <Close>6.78753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-15</Date>
+    <Open>6.79242</Open>
+    <High>7.23925</High>
+    <Low>6.73428</Low>
+    <Close>6.92652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-16</Date>
+    <Open>6.92562</Open>
+    <High>7.67127</High>
+    <Low>6.67083</Low>
+    <Close>7.3286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-17</Date>
+    <Open>7.32953</Open>
+    <High>7.42889</High>
+    <Low>6.90473</Low>
+    <Close>7.04697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-18</Date>
+    <Open>7.04697</Open>
+    <High>7.44876</High>
+    <Low>6.93097</Low>
+    <Close>7.06567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-19</Date>
+    <Open>7.06547</Open>
+    <High>7.65858</High>
+    <Low>7.0312</Low>
+    <Close>7.4873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-20</Date>
+    <Open>7.4822</Open>
+    <High>7.59918</High>
+    <Low>6.7959</Low>
+    <Close>6.93565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-21</Date>
+    <Open>7.03402</Open>
+    <High>7.28425</High>
+    <Low>6.67647</Low>
+    <Close>7.25531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-22</Date>
+    <Open>7.25534</Open>
+    <High>7.45359</High>
+    <Low>6.82609</Low>
+    <Close>6.96743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-23</Date>
+    <Open>6.96743</Open>
+    <High>7.20382</High>
+    <Low>6.64823</Low>
+    <Close>6.91291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-24</Date>
+    <Open>6.91319</Open>
+    <High>7.13194</High>
+    <Low>6.89188</Low>
+    <Close>7.12245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-25</Date>
+    <Open>7.12923</Open>
+    <High>7.51115</High>
+    <Low>6.82266</Low>
+    <Close>7.43489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-26</Date>
+    <Open>7.43489</Open>
+    <High>7.44694</High>
+    <Low>6.22557</Low>
+    <Close>6.34029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-27</Date>
+    <Open>6.34029</Open>
+    <High>7.88458</High>
+    <Low>6.31378</Low>
+    <Close>7.83108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-28</Date>
+    <Open>7.83148</Open>
+    <High>9.81055</High>
+    <Low>7.80335</Low>
+    <Close>9.46279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-29</Date>
+    <Open>9.46279</Open>
+    <High>9.50717</High>
+    <Low>8.62321</Low>
+    <Close>9.05271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-30</Date>
+    <Open>9.08002</Open>
+    <High>9.16872</High>
+    <Low>8.52736</Low>
+    <Close>8.68847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-07-31</Date>
+    <Open>8.68805</Open>
+    <High>9.14298</High>
+    <Low>8.54039</Low>
+    <Close>8.79122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-01</Date>
+    <Open>8.73402</Open>
+    <High>8.73489</High>
+    <Low>8.06325</Low>
+    <Close>8.22307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-02</Date>
+    <Open>8.22307</Open>
+    <High>8.66851</High>
+    <Low>7.82281</Low>
+    <Close>8.40273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-03</Date>
+    <Open>8.41068</Open>
+    <High>9.38448</High>
+    <Low>8.04089</Low>
+    <Close>8.99145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-04</Date>
+    <Open>9.04138</Open>
+    <High>9.1748</High>
+    <Low>8.55203</Low>
+    <Close>8.77446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-05</Date>
+    <Open>8.77446</Open>
+    <High>9.26035</High>
+    <Low>8.72354</Low>
+    <Close>8.9705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-06</Date>
+    <Open>8.97581</Open>
+    <High>9.13334</High>
+    <Low>8.73832</Low>
+    <Close>8.93967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-07</Date>
+    <Open>8.93786</Open>
+    <High>8.97761</High>
+    <Low>8.69937</Low>
+    <Close>8.94861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-08</Date>
+    <Open>8.9486</Open>
+    <High>9.23275</High>
+    <Low>8.75979</Low>
+    <Close>8.86386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-09</Date>
+    <Open>8.86596</Open>
+    <High>8.86778</High>
+    <Low>8.09744</Low>
+    <Close>8.41708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-10</Date>
+    <Open>8.41708</Open>
+    <High>9.42263</High>
+    <Low>8.21068</Low>
+    <Close>9.03852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-11</Date>
+    <Open>9.10274</Open>
+    <High>9.5977</High>
+    <Low>8.96354</Low>
+    <Close>8.98132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-12</Date>
+    <Open>8.98892</Open>
+    <High>9.25032</High>
+    <Low>8.75458</Low>
+    <Close>9.06397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-13</Date>
+    <Open>9.06547</Open>
+    <High>9.33882</High>
+    <Low>8.91947</Low>
+    <Close>9.06283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-14</Date>
+    <Open>9.05883</Open>
+    <High>9.61105</High>
+    <Low>8.81023</Low>
+    <Close>8.87665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-15</Date>
+    <Open>8.87536</Open>
+    <High>9.15827</High>
+    <Low>8.44052</Low>
+    <Close>8.48374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-16</Date>
+    <Open>8.48382</Open>
+    <High>8.56286</High>
+    <Low>8.19681</Low>
+    <Close>8.32385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-17</Date>
+    <Open>8.32985</Open>
+    <High>8.66443</High>
+    <Low>7.9649</Low>
+    <Close>7.98526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-18</Date>
+    <Open>7.96196</Open>
+    <High>8.19487</High>
+    <Low>7.7457</Low>
+    <Close>7.89948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-19</Date>
+    <Open>7.88269</Open>
+    <High>7.93159</High>
+    <Low>6.8508</Low>
+    <Close>6.85529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-20</Date>
+    <Open>6.87869</Open>
+    <High>7.19068</High>
+    <Low>6.7898</Low>
+    <Close>6.82273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-21</Date>
+    <Open>6.92076</Open>
+    <High>7.3167</High>
+    <Low>6.92076</Low>
+    <Close>7.24706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-22</Date>
+    <Open>7.24706</Open>
+    <High>7.32711</High>
+    <Low>6.62481</Low>
+    <Close>6.81977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-23</Date>
+    <Open>6.82177</Open>
+    <High>7.20307</High>
+    <Low>6.75463</Low>
+    <Close>7.07624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-24</Date>
+    <Open>7.07239</Open>
+    <High>7.28004</High>
+    <Low>6.87522</Low>
+    <Close>7.20545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-25</Date>
+    <Open>7.20005</Open>
+    <High>7.23397</High>
+    <Low>6.92741</Low>
+    <Close>7.06441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-26</Date>
+    <Open>7.07571</Open>
+    <High>7.08793</High>
+    <Low>6.29427</Low>
+    <Close>6.34833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-27</Date>
+    <Open>6.34833</Open>
+    <High>6.36487</High>
+    <Low>5.95484</Low>
+    <Close>6.04368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-28</Date>
+    <Open>6.03812</Open>
+    <High>6.10172</High>
+    <Low>5.85411</Low>
+    <Close>5.9202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-29</Date>
+    <Open>5.9202</Open>
+    <High>6.31455</High>
+    <Low>5.68096</Low>
+    <Close>6.29924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-30</Date>
+    <Open>6.2771</Open>
+    <High>6.45039</High>
+    <Low>5.94962</Low>
+    <Close>6.17056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-08-31</Date>
+    <Open>6.16779</Open>
+    <High>6.41381</High>
+    <Low>6.12522</Low>
+    <Close>6.21434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-01</Date>
+    <Open>6.21434</Open>
+    <High>6.3292</High>
+    <Low>5.97954</Low>
+    <Close>6.28062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-02</Date>
+    <Open>6.28062</Open>
+    <High>6.6873</High>
+    <Low>6.20539</Low>
+    <Close>6.33835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-03</Date>
+    <Open>6.33841</Open>
+    <High>6.41521</High>
+    <Low>6.2275</Low>
+    <Close>6.25563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-04</Date>
+    <Open>6.2548</Open>
+    <High>6.51485</High>
+    <Low>6.2302</Low>
+    <Close>6.4397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-05</Date>
+    <Open>6.4246</Open>
+    <High>6.55486</High>
+    <Low>6.2056</Low>
+    <Close>6.47275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-06</Date>
+    <Open>6.47275</Open>
+    <High>6.74487</High>
+    <Low>5.7914</Low>
+    <Close>5.8778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-07</Date>
+    <Open>5.8778</Open>
+    <High>6.18287</High>
+    <Low>5.77285</Low>
+    <Close>6.15653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-08</Date>
+    <Open>6.1561</Open>
+    <High>6.25693</High>
+    <Low>5.95574</Low>
+    <Close>6.19869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-09</Date>
+    <Open>6.1977</Open>
+    <High>6.70604</High>
+    <Low>6.14151</Low>
+    <Close>6.44609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-10</Date>
+    <Open>6.44459</Open>
+    <High>6.6685</High>
+    <Low>6.38835</Low>
+    <Close>6.55825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-11</Date>
+    <Open>6.60932</Open>
+    <High>6.72832</High>
+    <Low>6.37379</Low>
+    <Close>6.3917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-12</Date>
+    <Open>6.38953</Open>
+    <High>6.96461</High>
+    <Low>6.37453</Low>
+    <Close>6.6504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-13</Date>
+    <Open>6.65109</Open>
+    <High>6.76658</High>
+    <Low>6.01586</Low>
+    <Close>6.10852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-14</Date>
+    <Open>6.10792</Open>
+    <High>6.21463</High>
+    <Low>5.95626</Low>
+    <Close>6.14264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-15</Date>
+    <Open>6.14264</Open>
+    <High>6.23112</High>
+    <Low>5.79555</Low>
+    <Close>5.96006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-16</Date>
+    <Open>5.96046</Open>
+    <High>5.96754</High>
+    <Low>5.6671</Low>
+    <Close>5.83662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-17</Date>
+    <Open>5.8382</Open>
+    <High>6.0134</High>
+    <Low>5.78952</Low>
+    <Close>5.9879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-18</Date>
+    <Open>5.9879</Open>
+    <High>6.0461</High>
+    <Low>5.3647</Low>
+    <Close>5.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-19</Date>
+    <Open>5.52</Open>
+    <High>5.55294</High>
+    <Low>5.2178</Low>
+    <Close>5.48065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-20</Date>
+    <Open>5.48065</Open>
+    <High>5.55646</High>
+    <Low>5.3019</Low>
+    <Close>5.33713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-21</Date>
+    <Open>5.34821</Open>
+    <High>5.74427</High>
+    <Low>5.2449</Low>
+    <Close>5.2788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-22</Date>
+    <Open>5.2788</Open>
+    <High>5.85339</High>
+    <Low>5.146</Low>
+    <Close>5.707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-23</Date>
+    <Open>5.73277</Open>
+    <High>5.9869</High>
+    <Low>5.691</Low>
+    <Close>5.80872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-24</Date>
+    <Open>5.90829</Open>
+    <High>6.04976</High>
+    <Low>5.82338</Low>
+    <Close>5.85457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-25</Date>
+    <Open>5.8547</Open>
+    <High>5.9526</High>
+    <Low>5.67637</Low>
+    <Close>5.6949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-26</Date>
+    <Open>5.7052</Open>
+    <High>5.9839</High>
+    <Low>5.5571</Low>
+    <Close>5.8711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-27</Date>
+    <Open>5.8711</Open>
+    <High>6.69757</High>
+    <Low>5.84552</Low>
+    <Close>6.26597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-28</Date>
+    <Open>6.26817</Open>
+    <High>6.5854</High>
+    <Low>6.0078</Low>
+    <Close>6.5412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-29</Date>
+    <Open>6.5322</Open>
+    <High>6.6218</High>
+    <Low>6.129</Low>
+    <Close>6.36414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-09-30</Date>
+    <Open>6.36404</Open>
+    <High>6.69867</High>
+    <Low>6.27583</Low>
+    <Close>6.2969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-01</Date>
+    <Open>6.2969</Open>
+    <High>6.6608</High>
+    <Low>6.26993</Low>
+    <Close>6.4267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-02</Date>
+    <Open>6.4267</Open>
+    <High>6.4937</High>
+    <Low>6.17382</Low>
+    <Close>6.2989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-03</Date>
+    <Open>6.30743</Open>
+    <High>6.80038</High>
+    <Low>6.1928</Low>
+    <Close>6.70437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-04</Date>
+    <Open>6.70437</Open>
+    <High>6.84835</High>
+    <Low>6.56886</Low>
+    <Close>6.71101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-05</Date>
+    <Open>6.71101</Open>
+    <High>6.80066</High>
+    <Low>6.47685</Low>
+    <Close>6.77525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-06</Date>
+    <Open>6.77525</Open>
+    <High>6.99902</High>
+    <Low>6.72421</Low>
+    <Close>6.91224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-07</Date>
+    <Open>6.91007</Open>
+    <High>7.07326</High>
+    <Low>6.68897</Low>
+    <Close>6.77295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-08</Date>
+    <Open>6.77295</Open>
+    <High>6.84045</High>
+    <Low>6.52746</Low>
+    <Close>6.5515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-09</Date>
+    <Open>6.48849</Open>
+    <High>6.64553</High>
+    <Low>6.43512</Low>
+    <Close>6.62723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-10</Date>
+    <Open>6.62646</Open>
+    <High>6.72047</High>
+    <Low>6.28167</Low>
+    <Close>6.37186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-11</Date>
+    <Open>6.3481</Open>
+    <High>6.5078</High>
+    <Low>5.97612</Low>
+    <Close>6.01416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-12</Date>
+    <Open>6.01436</Open>
+    <High>6.17078</High>
+    <Low>5.94827</Low>
+    <Close>6.09958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-13</Date>
+    <Open>6.0989</Open>
+    <High>6.21277</High>
+    <Low>5.39589</Low>
+    <Close>6.16739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-14</Date>
+    <Open>6.16519</Open>
+    <High>6.52732</High>
+    <Low>6.08753</Low>
+    <Close>6.16535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-15</Date>
+    <Open>6.14555</Open>
+    <High>6.35602</High>
+    <Low>6.00528</Low>
+    <Close>6.0551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-16</Date>
+    <Open>6.05566</Open>
+    <High>6.16722</High>
+    <Low>5.97098</Low>
+    <Close>6.04334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-17</Date>
+    <Open>6.0365</Open>
+    <High>6.42909</High>
+    <Low>6.03214</Low>
+    <Close>6.40593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-18</Date>
+    <Open>6.40599</Open>
+    <High>6.65293</High>
+    <Low>6.21652</Low>
+    <Close>6.56729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-19</Date>
+    <Open>6.56756</Open>
+    <High>6.7369</High>
+    <Low>6.38733</Low>
+    <Close>6.6635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-20</Date>
+    <Open>6.66573</Open>
+    <High>6.69973</High>
+    <Low>6.01458</Low>
+    <Close>6.08387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-21</Date>
+    <Open>6.08407</Open>
+    <High>6.16578</High>
+    <Low>5.82508</Low>
+    <Close>5.99598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-22</Date>
+    <Open>5.99598</Open>
+    <High>6.15338</High>
+    <Low>5.98068</Low>
+    <Close>6.09145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-23</Date>
+    <Open>6.09145</Open>
+    <High>6.20554</High>
+    <Low>5.97598</Low>
+    <Close>6.16186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-24</Date>
+    <Open>6.16664</Open>
+    <High>6.33631</High>
+    <Low>6.06818</Low>
+    <Close>6.15305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-25</Date>
+    <Open>6.17045</Open>
+    <High>6.77507</High>
+    <Low>6.07442</Low>
+    <Close>6.5521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-26</Date>
+    <Open>6.54632</Open>
+    <High>6.89222</High>
+    <Low>6.52487</Low>
+    <Close>6.72268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-27</Date>
+    <Open>6.72268</Open>
+    <High>7.20641</High>
+    <Low>6.6828</Low>
+    <Close>6.87561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-28</Date>
+    <Open>6.87561</Open>
+    <High>6.97509</High>
+    <Low>6.52056</Low>
+    <Close>6.87414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-29</Date>
+    <Open>6.87401</Open>
+    <High>7.2234</High>
+    <Low>6.71461</Low>
+    <Close>7.06282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-30</Date>
+    <Open>7.06289</Open>
+    <High>7.36144</High>
+    <Low>6.79226</Low>
+    <Close>6.88418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-10-31</Date>
+    <Open>6.87834</Open>
+    <High>7.12346</High>
+    <Low>6.70367</Low>
+    <Close>6.92285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-01</Date>
+    <Open>6.92288</Open>
+    <High>7.35922</High>
+    <Low>6.91112</Low>
+    <Close>7.14299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-02</Date>
+    <Open>7.14519</Open>
+    <High>7.37282</High>
+    <Low>6.83705</Low>
+    <Close>7.01098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-03</Date>
+    <Open>7.01098</Open>
+    <High>7.40279</High>
+    <Low>6.98895</Low>
+    <Close>7.0483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-04</Date>
+    <Open>7.04633</Open>
+    <High>7.75732</High>
+    <Low>6.82729</Low>
+    <Close>7.5322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-05</Date>
+    <Open>7.53703</Open>
+    <High>7.78936</High>
+    <Low>7.48987</Low>
+    <Close>7.67788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-06</Date>
+    <Open>7.67796</Open>
+    <High>7.75402</High>
+    <Low>7.25275</Low>
+    <Close>7.28688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-07</Date>
+    <Open>7.28501</Open>
+    <High>7.70014</High>
+    <Low>6.89972</Low>
+    <Close>7.01824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-08</Date>
+    <Open>7.01951</Open>
+    <High>7.10025</High>
+    <Low>5.46344</Low>
+    <Close>5.9831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-09</Date>
+    <Open>5.98751</Open>
+    <High>6.22587</High>
+    <Low>4.77876</Low>
+    <Close>4.95558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-10</Date>
+    <Open>4.98874</Open>
+    <High>6.38769</High>
+    <Low>4.8235</Low>
+    <Close>5.80916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-11</Date>
+    <Open>5.81379</Open>
+    <High>6.69985</High>
+    <Low>5.46713</Low>
+    <Close>5.98275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-12</Date>
+    <Open>5.97598</Open>
+    <High>6.23235</High>
+    <Low>5.43131</Low>
+    <Close>5.50837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-13</Date>
+    <Open>5.53662</Open>
+    <High>6.15555</High>
+    <Low>5.51376</Low>
+    <Close>5.85097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-14</Date>
+    <Open>5.84907</Open>
+    <High>6.10556</High>
+    <Low>5.37618</Low>
+    <Close>5.97323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-15</Date>
+    <Open>5.97353</Open>
+    <High>6.48221</High>
+    <Low>5.96134</Low>
+    <Close>6.26663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-16</Date>
+    <Open>6.26954</Open>
+    <High>6.40098</High>
+    <Low>5.81963</Low>
+    <Close>5.89217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-17</Date>
+    <Open>5.90646</Open>
+    <High>6.04502</High>
+    <Low>5.66361</Low>
+    <Close>5.78508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-18</Date>
+    <Open>5.78503</Open>
+    <High>6.0439</High>
+    <Low>5.71836</Low>
+    <Close>5.8152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-19</Date>
+    <Open>5.8152</Open>
+    <High>5.87331</High>
+    <Low>5.65803</Low>
+    <Close>5.76374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-20</Date>
+    <Open>5.7638</Open>
+    <High>5.81123</High>
+    <Low>5.39045</Low>
+    <Close>5.41576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-21</Date>
+    <Open>5.41581</Open>
+    <High>5.46284</High>
+    <Low>5.0833</Low>
+    <Close>5.1575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-22</Date>
+    <Open>5.15581</Open>
+    <High>5.37834</High>
+    <Low>4.9507</Low>
+    <Close>5.27146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-23</Date>
+    <Open>5.27279</Open>
+    <High>5.51903</High>
+    <Low>5.25006</Low>
+    <Close>5.48322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-24</Date>
+    <Open>5.48306</Open>
+    <High>5.58486</High>
+    <Low>5.38568</Low>
+    <Close>5.41145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-25</Date>
+    <Open>5.41245</Open>
+    <High>5.50715</High>
+    <Low>5.29292</Low>
+    <Close>5.42591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-26</Date>
+    <Open>5.42591</Open>
+    <High>5.62189</High>
+    <Low>5.36073</Low>
+    <Close>5.37683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-27</Date>
+    <Open>5.37683</Open>
+    <High>5.58099</High>
+    <Low>5.37683</Low>
+    <Close>5.53446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-28</Date>
+    <Open>5.54288</Open>
+    <High>5.54556</High>
+    <Low>5.13948</Low>
+    <Close>5.29499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-29</Date>
+    <Open>5.29499</Open>
+    <High>5.52938</High>
+    <Low>5.2544</Low>
+    <Close>5.46698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-11-30</Date>
+    <Open>5.46698</Open>
+    <High>5.86116</High>
+    <Low>5.4499</Low>
+    <Close>5.84663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-01</Date>
+    <Open>5.84808</Open>
+    <High>5.97948</High>
+    <Low>5.70973</Low>
+    <Close>5.89745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-02</Date>
+    <Open>5.89745</Open>
+    <High>6.53952</High>
+    <Low>5.86337</Low>
+    <Close>6.37808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-03</Date>
+    <Open>6.37558</Open>
+    <High>6.43134</High>
+    <Low>6.07281</Low>
+    <Close>6.09951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-04</Date>
+    <Open>6.09951</Open>
+    <High>6.29679</High>
+    <Low>6.06531</Low>
+    <Close>6.26583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-05</Date>
+    <Open>6.26523</Open>
+    <High>6.41988</High>
+    <Low>6.12311</Low>
+    <Close>6.15478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-06</Date>
+    <Open>6.15492</Open>
+    <High>6.23632</High>
+    <Low>6.04248</Low>
+    <Close>6.07718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-07</Date>
+    <Open>6.0773</Open>
+    <High>6.2808</High>
+    <Low>5.87251</Low>
+    <Close>6.0054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-08</Date>
+    <Open>6.03284</Open>
+    <High>6.23096</High>
+    <Low>5.91856</Low>
+    <Close>6.15133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-09</Date>
+    <Open>6.15043</Open>
+    <High>6.28745</High>
+    <Low>6.0862</Low>
+    <Close>6.16228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-10</Date>
+    <Open>6.14688</Open>
+    <High>6.21776</High>
+    <Low>6.07644</Low>
+    <Close>6.07738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-11</Date>
+    <Open>6.0788</Open>
+    <High>6.10771</High>
+    <Low>5.88489</Low>
+    <Close>5.91999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-12</Date>
+    <Open>5.92058</Open>
+    <High>5.9727</High>
+    <Low>5.74542</Low>
+    <Close>5.90963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-13</Date>
+    <Open>5.91028</Open>
+    <High>6.25485</High>
+    <Low>5.84332</Low>
+    <Close>6.06964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-14</Date>
+    <Open>6.06964</Open>
+    <High>6.18098</High>
+    <Low>5.92045</Low>
+    <Close>5.94052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-15</Date>
+    <Open>5.94032</Open>
+    <High>6.0133</High>
+    <Low>5.76925</Low>
+    <Close>5.80586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-16</Date>
+    <Open>5.81016</Open>
+    <High>5.88128</High>
+    <Low>5.30463</Low>
+    <Close>5.37414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-17</Date>
+    <Open>5.37544</Open>
+    <High>5.44016</High>
+    <Low>5.21542</Low>
+    <Close>5.3766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-18</Date>
+    <Open>5.37964</Open>
+    <High>5.41117</High>
+    <Low>5.33121</Low>
+    <Close>5.34519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-19</Date>
+    <Open>5.35875</Open>
+    <High>5.37475</High>
+    <Low>5.0098</Low>
+    <Close>5.0451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-20</Date>
+    <Open>5.05365</Open>
+    <High>5.39189</High>
+    <Low>5.051</Low>
+    <Close>5.31891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-21</Date>
+    <Open>5.31891</Open>
+    <High>5.37316</High>
+    <Low>5.20295</Low>
+    <Close>5.25926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-22</Date>
+    <Open>5.25926</Open>
+    <High>5.38895</High>
+    <Low>5.13149</Low>
+    <Close>5.3152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-23</Date>
+    <Open>5.3151</Open>
+    <High>5.39614</High>
+    <Low>5.23348</Low>
+    <Close>5.25007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-24</Date>
+    <Open>5.24987</Open>
+    <High>5.26758</High>
+    <Low>5.18618</Low>
+    <Close>5.19454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-25</Date>
+    <Open>5.19454</Open>
+    <High>5.23894</High>
+    <Low>5.05439</Low>
+    <Close>5.13623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-26</Date>
+    <Open>5.13639</Open>
+    <High>5.2039</High>
+    <Low>5.13029</Low>
+    <Close>5.17207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-27</Date>
+    <Open>5.17187</Open>
+    <High>5.32062</High>
+    <Low>5.09586</Low>
+    <Close>5.14359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-28</Date>
+    <Open>5.14109</Open>
+    <High>5.20202</High>
+    <Low>4.94358</Low>
+    <Close>4.96787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-29</Date>
+    <Open>4.96787</Open>
+    <High>5.13174</High>
+    <Low>4.94538</Low>
+    <Close>5.02889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-30</Date>
+    <Open>5.02754</Open>
+    <High>5.1094</High>
+    <Low>4.94787</Low>
+    <Close>5.08636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2022-12-31</Date>
+    <Open>5.08151</Open>
+    <High>5.19865</High>
+    <Low>5.05237</Low>
+    <Close>5.15932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-01</Date>
+    <Open>5.15932</Open>
+    <High>5.26328</High>
+    <Low>5.09774</Low>
+    <Close>5.25703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-02</Date>
+    <Open>5.25703</Open>
+    <High>5.45987</High>
+    <Low>5.17962</Low>
+    <Close>5.35089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-03</Date>
+    <Open>5.35083</Open>
+    <High>5.41906</High>
+    <Low>5.27424</Low>
+    <Close>5.34891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-04</Date>
+    <Open>5.34402</Open>
+    <High>5.58976</High>
+    <Low>5.34392</Low>
+    <Close>5.48319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-05</Date>
+    <Open>5.48339</Open>
+    <High>5.56039</High>
+    <Low>5.36974</Low>
+    <Close>5.40111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-06</Date>
+    <Open>5.40138</Open>
+    <High>5.5074</High>
+    <Low>5.24432</Low>
+    <Close>5.4972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-07</Date>
+    <Open>5.51533</Open>
+    <High>5.5587</High>
+    <Low>5.39509</Low>
+    <Close>5.4077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-08</Date>
+    <Open>5.4077</Open>
+    <High>5.5229</High>
+    <Low>5.34804</Low>
+    <Close>5.49624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-09</Date>
+    <Open>5.49624</Open>
+    <High>5.96464</High>
+    <Low>5.49196</Low>
+    <Close>5.80204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-10</Date>
+    <Open>5.7991</Open>
+    <High>5.87663</High>
+    <Low>5.66504</Low>
+    <Close>5.76901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-11</Date>
+    <Open>5.76822</Open>
+    <High>5.89202</High>
+    <Low>5.60676</Low>
+    <Close>5.85807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-12</Date>
+    <Open>5.8582</Open>
+    <High>6.18935</High>
+    <Low>5.85643</Low>
+    <Close>6.14665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-13</Date>
+    <Open>6.14851</Open>
+    <High>6.35825</High>
+    <Low>6.01684</Low>
+    <Close>6.26376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-14</Date>
+    <Open>6.26106</Open>
+    <High>6.96533</High>
+    <Low>6.2577</Low>
+    <Close>6.57953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-15</Date>
+    <Open>6.57953</Open>
+    <High>6.6748</High>
+    <Low>6.39378</Low>
+    <Close>6.66213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-16</Date>
+    <Open>6.6622</Open>
+    <High>6.74215</High>
+    <Low>6.28668</Low>
+    <Close>6.60033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-17</Date>
+    <Open>6.60333</Open>
+    <High>6.64993</High>
+    <Low>6.37524</Low>
+    <Close>6.38584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-18</Date>
+    <Open>6.37994</Open>
+    <High>6.81672</High>
+    <Low>6.00514</Low>
+    <Close>6.0728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-19</Date>
+    <Open>6.07274</Open>
+    <High>6.19202</High>
+    <Low>5.98556</Low>
+    <Close>6.11936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-20</Date>
+    <Open>6.12046</Open>
+    <High>6.61099</High>
+    <Low>6.07298</Low>
+    <Close>6.59439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-21</Date>
+    <Open>6.59199</Open>
+    <High>6.82486</High>
+    <Low>6.54868</Low>
+    <Close>6.79296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-22</Date>
+    <Open>6.79229</Open>
+    <High>7.09535</High>
+    <Low>6.61506</Low>
+    <Close>6.82807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-23</Date>
+    <Open>6.82066</Open>
+    <High>6.98024</High>
+    <Low>6.6814</Low>
+    <Close>6.72228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-24</Date>
+    <Open>6.72184</Open>
+    <High>6.82952</High>
+    <Low>6.22903</Low>
+    <Close>6.33293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-25</Date>
+    <Open>6.33643</Open>
+    <High>6.69891</High>
+    <Low>6.10598</Low>
+    <Close>6.50231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-26</Date>
+    <Open>6.49024</Open>
+    <High>6.75574</High>
+    <Low>6.45529</Low>
+    <Close>6.73974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-27</Date>
+    <Open>6.73974</Open>
+    <High>6.87641</High>
+    <Low>6.5671</Low>
+    <Close>6.80989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-28</Date>
+    <Open>6.80961</Open>
+    <High>6.91183</High>
+    <Low>6.56781</Low>
+    <Close>6.57511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-29</Date>
+    <Open>6.57481</Open>
+    <High>6.98154</High>
+    <Low>6.55761</Low>
+    <Close>6.91358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-30</Date>
+    <Open>6.91375</Open>
+    <High>6.95745</High>
+    <Low>6.36114</Low>
+    <Close>6.42575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-01-31</Date>
+    <Open>6.42575</Open>
+    <High>6.64953</High>
+    <Low>6.42119</Low>
+    <Close>6.59179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-01</Date>
+    <Open>6.59179</Open>
+    <High>6.91388</High>
+    <Low>6.31893</Low>
+    <Close>6.82661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-02</Date>
+    <Open>6.83121</Open>
+    <High>7.52508</High>
+    <Low>6.79264</Low>
+    <Close>7.15613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-03</Date>
+    <Open>7.08583</Open>
+    <High>7.29387</High>
+    <Low>6.92399</Low>
+    <Close>7.05736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-04</Date>
+    <Open>7.05826</Open>
+    <High>7.34821</High>
+    <Low>7.01679</Low>
+    <Close>7.27005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-05</Date>
+    <Open>7.26698</Open>
+    <High>7.33856</High>
+    <Low>6.75519</Low>
+    <Close>6.90443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-06</Date>
+    <Open>6.90753</Open>
+    <High>6.97907</High>
+    <Low>6.72541</Low>
+    <Close>6.75497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-07</Date>
+    <Open>6.75597</Open>
+    <High>6.98419</High>
+    <Low>6.59373</Low>
+    <Close>6.97989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-08</Date>
+    <Open>6.97769</Open>
+    <High>7.06265</High>
+    <Low>6.67223</Low>
+    <Close>6.80084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-09</Date>
+    <Open>6.80318</Open>
+    <High>6.8647</High>
+    <Low>6.16164</Low>
+    <Close>6.24696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-10</Date>
+    <Open>6.23452</Open>
+    <High>6.47837</High>
+    <Low>6.23446</Low>
+    <Close>6.34945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-11</Date>
+    <Open>6.3491</Open>
+    <High>6.50145</High>
+    <Low>6.32087</Low>
+    <Close>6.48995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-12</Date>
+    <Open>6.4905</Open>
+    <High>6.55536</High>
+    <Low>6.29301</Low>
+    <Close>6.36584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-13</Date>
+    <Open>6.36594</Open>
+    <High>6.38165</High>
+    <Low>6.0913</Low>
+    <Close>6.20225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-14</Date>
+    <Open>6.20525</Open>
+    <High>6.56282</High>
+    <Low>6.20525</Low>
+    <Close>6.56282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-15</Date>
+    <Open>6.56442</Open>
+    <High>6.93954</High>
+    <Low>6.50033</Low>
+    <Close>6.92735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-16</Date>
+    <Open>6.92702</Open>
+    <High>7.01551</High>
+    <Low>6.56853</Low>
+    <Close>6.57053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-17</Date>
+    <Open>6.57844</Open>
+    <High>6.8249</High>
+    <Low>6.44341</Low>
+    <Close>6.70987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-18</Date>
+    <Open>6.70987</Open>
+    <High>7.14734</High>
+    <Low>6.70647</Low>
+    <Close>6.98689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-19</Date>
+    <Open>6.98802</Open>
+    <High>7.60654</High>
+    <Low>6.95874</Low>
+    <Close>7.23386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-20</Date>
+    <Open>7.23999</Open>
+    <High>7.37128</High>
+    <Low>7.05913</Low>
+    <Close>7.33089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-21</Date>
+    <Open>7.33369</Open>
+    <High>7.43898</High>
+    <Low>6.89271</Low>
+    <Close>6.99866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-22</Date>
+    <Open>6.99249</Open>
+    <High>7.05074</High>
+    <Low>6.71228</Low>
+    <Close>6.9124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-23</Date>
+    <Open>6.9122</Open>
+    <High>7.05201</High>
+    <Low>6.81745</Low>
+    <Close>6.91653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-24</Date>
+    <Open>6.91717</Open>
+    <High>7.05033</High>
+    <Low>6.46714</Low>
+    <Close>6.51383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-25</Date>
+    <Open>6.51453</Open>
+    <High>6.6228</High>
+    <Low>6.27914</Low>
+    <Close>6.44015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-26</Date>
+    <Open>6.44165</Open>
+    <High>6.64777</High>
+    <Low>6.42418</Low>
+    <Close>6.56419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-27</Date>
+    <Open>6.56753</Open>
+    <High>6.64647</High>
+    <Low>6.37505</Low>
+    <Close>6.42379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-02-28</Date>
+    <Open>6.42632</Open>
+    <High>6.62287</High>
+    <Low>6.40289</Low>
+    <Close>6.45993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-01</Date>
+    <Open>6.46009</Open>
+    <High>6.86651</High>
+    <Low>6.45449</Low>
+    <Close>6.82029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-02</Date>
+    <Open>6.81942</Open>
+    <High>6.8972</High>
+    <Low>6.55967</Low>
+    <Close>6.6374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-03</Date>
+    <Open>6.63733</Open>
+    <High>6.649</High>
+    <Low>6.10025</Low>
+    <Close>6.23967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-04</Date>
+    <Open>6.23834</Open>
+    <High>6.29658</High>
+    <Low>6.0073</Low>
+    <Close>6.11623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-05</Date>
+    <Open>6.11359</Open>
+    <High>6.37958</High>
+    <Low>6.10323</Low>
+    <Close>6.3649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-06</Date>
+    <Open>6.3649</Open>
+    <High>6.43717</High>
+    <Low>6.24665</Low>
+    <Close>6.34892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-07</Date>
+    <Open>6.34637</Open>
+    <High>6.48164</High>
+    <Low>6.26376</Low>
+    <Close>6.36148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-08</Date>
+    <Open>6.36088</Open>
+    <High>6.49723</High>
+    <Low>6.07042</Low>
+    <Close>6.11653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-09</Date>
+    <Open>6.12033</Open>
+    <High>6.18918</High>
+    <Low>5.60631</Low>
+    <Close>5.68351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-10</Date>
+    <Open>5.68357</Open>
+    <High>5.74783</High>
+    <Low>5.36257</Low>
+    <Close>5.654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-11</Date>
+    <Open>5.65224</Open>
+    <High>5.85744</High>
+    <Low>5.26344</Low>
+    <Close>5.45194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-12</Date>
+    <Open>5.45194</Open>
+    <High>5.91536</High>
+    <Low>5.41941</Low>
+    <Close>5.86456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-13</Date>
+    <Open>5.87052</Open>
+    <High>6.25051</High>
+    <Low>5.81272</Low>
+    <Close>6.13227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-14</Date>
+    <Open>6.13237</Open>
+    <High>6.62262</High>
+    <Low>6.01472</Low>
+    <Close>6.33017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-15</Date>
+    <Open>6.33369</Open>
+    <High>6.46098</High>
+    <Low>5.7486</Low>
+    <Close>5.90088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-16</Date>
+    <Open>5.89887</Open>
+    <High>6.00882</High>
+    <Low>5.80687</Low>
+    <Close>5.91261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-17</Date>
+    <Open>5.91361</Open>
+    <High>6.38742</High>
+    <Low>5.84478</Low>
+    <Close>6.35916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-18</Date>
+    <Open>6.35715</Open>
+    <High>6.63948</High>
+    <Low>6.35504</Low>
+    <Close>6.46176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-19</Date>
+    <Open>6.45852</Open>
+    <High>6.72652</High>
+    <Low>6.4274</Low>
+    <Close>6.56303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-20</Date>
+    <Open>6.56303</Open>
+    <High>6.61746</High>
+    <Low>6.19842</Low>
+    <Close>6.24581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-21</Date>
+    <Open>6.24521</Open>
+    <High>6.52955</High>
+    <Low>6.06339</Low>
+    <Close>6.40156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-22</Date>
+    <Open>6.40156</Open>
+    <High>6.4657</High>
+    <Low>5.92517</Low>
+    <Close>6.0747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-23</Date>
+    <Open>6.0745</Open>
+    <High>6.45664</High>
+    <Low>6.0308</Low>
+    <Close>6.2329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-24</Date>
+    <Open>6.23685</Open>
+    <High>6.29796</High>
+    <Low>5.81293</Low>
+    <Close>5.88851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-25</Date>
+    <Open>5.88773</Open>
+    <High>5.91553</High>
+    <Low>5.68209</Low>
+    <Close>5.70653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-26</Date>
+    <Open>5.70893</Open>
+    <High>5.87538</High>
+    <Low>5.68841</Low>
+    <Close>5.7545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-27</Date>
+    <Open>5.75542</Open>
+    <High>5.82477</High>
+    <Low>5.51199</Low>
+    <Close>5.59663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-28</Date>
+    <Open>5.58712</Open>
+    <High>5.88975</High>
+    <Low>5.57659</Low>
+    <Close>5.7923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-29</Date>
+    <Open>5.79236</Open>
+    <High>6.03071</High>
+    <Low>5.7855</Low>
+    <Close>5.96573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-30</Date>
+    <Open>5.96623</Open>
+    <High>6.06683</High>
+    <Low>5.83573</Low>
+    <Close>5.89365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-03-31</Date>
+    <Open>5.89569</Open>
+    <High>6.12994</High>
+    <Low>5.85556</Low>
+    <Close>6.07491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-01</Date>
+    <Open>6.07491</Open>
+    <High>6.19634</High>
+    <Low>6.02549</Low>
+    <Close>6.08429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-02</Date>
+    <Open>6.08335</Open>
+    <High>6.12157</High>
+    <Low>5.8929</Low>
+    <Close>5.93944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-03</Date>
+    <Open>5.93938</Open>
+    <High>6.08389</High>
+    <Low>5.81988</Low>
+    <Close>5.8972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-04</Date>
+    <Open>5.89836</Open>
+    <High>6.20744</High>
+    <Low>5.88285</Low>
+    <Close>6.17625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-05</Date>
+    <Open>6.17319</Open>
+    <High>6.34656</High>
+    <Low>6.1491</Low>
+    <Close>6.21134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-06</Date>
+    <Open>6.2132</Open>
+    <High>6.24206</High>
+    <Low>6.05566</Low>
+    <Close>6.09223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-07</Date>
+    <Open>6.08723</Open>
+    <High>6.10039</High>
+    <Low>5.95435</Low>
+    <Close>5.99313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-08</Date>
+    <Open>5.99313</Open>
+    <High>6.0535</High>
+    <Low>5.89672</Low>
+    <Close>5.92381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-09</Date>
+    <Open>5.92241</Open>
+    <High>5.9602</High>
+    <Low>5.82473</Low>
+    <Close>5.89335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-10</Date>
+    <Open>5.93461</Open>
+    <High>6.03014</High>
+    <Low>5.83548</Low>
+    <Close>5.99475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-11</Date>
+    <Open>5.99481</Open>
+    <High>6.09658</High>
+    <Low>5.92022</Low>
+    <Close>5.93977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-12</Date>
+    <Open>5.93957</Open>
+    <High>6.00598</High>
+    <Low>5.72699</Low>
+    <Close>5.94704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-13</Date>
+    <Open>5.94984</Open>
+    <High>6.24765</High>
+    <Low>5.90347</Low>
+    <Close>6.20005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-14</Date>
+    <Open>6.20055</Open>
+    <High>6.47291</High>
+    <Low>6.12516</Low>
+    <Close>6.29002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-15</Date>
+    <Open>6.29002</Open>
+    <High>6.37018</High>
+    <Low>6.22734</Low>
+    <Close>6.25673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-16</Date>
+    <Open>6.25673</Open>
+    <High>6.47601</High>
+    <Low>6.1463</Low>
+    <Close>6.34511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-17</Date>
+    <Open>6.34505</Open>
+    <High>6.36865</High>
+    <Low>6.0734</Low>
+    <Close>6.12457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-18</Date>
+    <Open>6.12451</Open>
+    <High>6.37338</High>
+    <Low>6.0423</Low>
+    <Close>6.31757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-19</Date>
+    <Open>6.31861</Open>
+    <High>6.49245</High>
+    <Low>5.77508</Low>
+    <Close>5.86642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-20</Date>
+    <Open>5.86993</Open>
+    <High>5.96166</High>
+    <Low>5.65848</Low>
+    <Close>5.76336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-21</Date>
+    <Open>5.7625</Open>
+    <High>5.83592</High>
+    <Low>5.41062</Low>
+    <Close>5.4308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-22</Date>
+    <Open>5.4317</Open>
+    <High>5.55132</High>
+    <Low>5.40541</Low>
+    <Close>5.48139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-23</Date>
+    <Open>5.48139</Open>
+    <High>5.54034</High>
+    <Low>5.31607</Low>
+    <Close>5.37877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-24</Date>
+    <Open>5.37817</Open>
+    <High>5.51611</High>
+    <Low>5.29801</Low>
+    <Close>5.34091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-25</Date>
+    <Open>5.34366</Open>
+    <High>5.44867</High>
+    <Low>5.23115</Low>
+    <Close>5.44485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-26</Date>
+    <Open>5.45315</Open>
+    <High>5.68014</High>
+    <Low>5.13573</Low>
+    <Close>5.3154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-27</Date>
+    <Open>5.323</Open>
+    <High>5.59168</High>
+    <Low>5.3038</Low>
+    <Close>5.56754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-28</Date>
+    <Open>5.56384</Open>
+    <High>5.58663</High>
+    <Low>5.45268</Low>
+    <Close>5.52225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-29</Date>
+    <Open>5.52225</Open>
+    <High>5.62781</High>
+    <Low>5.50085</Low>
+    <Close>5.61131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-04-30</Date>
+    <Open>5.61241</Open>
+    <High>5.67333</High>
+    <Low>5.43991</Low>
+    <Close>5.47362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-01</Date>
+    <Open>5.47416</Open>
+    <High>5.50432</High>
+    <Low>5.26542</Low>
+    <Close>5.30998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-02</Date>
+    <Open>5.31138</Open>
+    <High>5.36126</High>
+    <Low>5.24615</Low>
+    <Close>5.32885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-03</Date>
+    <Open>5.32825</Open>
+    <High>5.34922</High>
+    <Low>5.18291</Low>
+    <Close>5.33789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-04</Date>
+    <Open>5.33944</Open>
+    <High>5.39919</High>
+    <Low>5.21492</Low>
+    <Close>5.23168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-05</Date>
+    <Open>5.23598</Open>
+    <High>5.61676</High>
+    <Low>5.23198</Low>
+    <Close>5.54334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-06</Date>
+    <Open>5.5441</Open>
+    <High>5.60872</High>
+    <Low>5.26531</Low>
+    <Close>5.31052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-07</Date>
+    <Open>5.31101</Open>
+    <High>5.35649</High>
+    <Low>5.24639</Low>
+    <Close>5.30976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-08</Date>
+    <Open>5.33652</Open>
+    <High>5.33652</High>
+    <Low>4.80011</Low>
+    <Close>4.93965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-09</Date>
+    <Open>4.95486</Open>
+    <High>5.01261</High>
+    <Low>4.9376</Low>
+    <Close>4.95505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-10</Date>
+    <Open>4.95505</Open>
+    <High>5.14001</High>
+    <Low>4.86224</Low>
+    <Close>5.07197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-11</Date>
+    <Open>5.06776</Open>
+    <High>5.20158</High>
+    <Low>4.94545</Low>
+    <Close>5.05475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-12</Date>
+    <Open>5.05415</Open>
+    <High>5.18805</High>
+    <Low>4.90786</Low>
+    <Close>5.18605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-13</Date>
+    <Open>5.18545</Open>
+    <High>5.2115</High>
+    <Low>5.07995</Low>
+    <Close>5.10535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-14</Date>
+    <Open>5.10595</Open>
+    <High>5.18971</High>
+    <Low>5.07764</Low>
+    <Close>5.12217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-15</Date>
+    <Open>5.12017</Open>
+    <High>5.22235</High>
+    <Low>5.07564</Low>
+    <Close>5.15951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-16</Date>
+    <Open>5.15571</Open>
+    <High>5.16902</High>
+    <Low>5.04043</Low>
+    <Close>5.13847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-17</Date>
+    <Open>5.13715</Open>
+    <High>5.31442</High>
+    <Low>5.11274</Low>
+    <Close>5.26611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-18</Date>
+    <Open>5.26511</Open>
+    <High>5.42863</High>
+    <Low>5.21148</Low>
+    <Close>5.31913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-19</Date>
+    <Open>5.31693</Open>
+    <High>5.3747</High>
+    <Low>5.26299</Low>
+    <Close>5.31409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-20</Date>
+    <Open>5.31165</Open>
+    <High>5.33006</High>
+    <Low>5.24792</Low>
+    <Close>5.28816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-21</Date>
+    <Open>5.28876</Open>
+    <High>5.30024</High>
+    <Low>5.09415</Low>
+    <Close>5.09896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-22</Date>
+    <Open>5.09555</Open>
+    <High>5.14028</High>
+    <Low>5.05423</Low>
+    <Close>5.07614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-23</Date>
+    <Open>5.07614</Open>
+    <High>5.19973</High>
+    <Low>5.03025</Low>
+    <Close>5.07735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-24</Date>
+    <Open>5.0774</Open>
+    <High>5.08796</High>
+    <Low>4.873</Low>
+    <Close>4.9728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-25</Date>
+    <Open>4.97285</Open>
+    <High>4.98995</High>
+    <Low>4.87624</Low>
+    <Close>4.93605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-26</Date>
+    <Open>4.93687</Open>
+    <High>5.0183</High>
+    <Low>4.92875</Low>
+    <Close>4.9951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-27</Date>
+    <Open>4.9956</Open>
+    <High>5.02561</High>
+    <Low>4.96564</Low>
+    <Close>5.01806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="UNI">
+    <Date>2023-05-28</Date>
+    <Open>5.01806</Open>
+    <High>5.10405</High>
+    <Low>5.0141</Low>
+    <Close>5.08227</Close>
+  </Cryptocurrency>
+</Root>

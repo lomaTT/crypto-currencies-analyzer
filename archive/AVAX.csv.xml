@@ -1,0 +1,6856 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-09-22</Date>
+    <Open>5.014</Open>
+    <High>7.007</High>
+    <Low>4.031</Low>
+    <Close>5.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-09-23</Date>
+    <Open>5.25</Open>
+    <High>5.365</High>
+    <Low>3.403</Low>
+    <Close>3.525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-09-24</Date>
+    <Open>3.525</Open>
+    <High>4.892</High>
+    <Low>3.406</Low>
+    <Close>4.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-09-25</Date>
+    <Open>4.59</Open>
+    <High>5.028</High>
+    <Low>4.204</Low>
+    <Close>4.718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-09-26</Date>
+    <Open>4.718</Open>
+    <High>4.83</High>
+    <Low>4.338</Low>
+    <Close>4.529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-09-27</Date>
+    <Open>4.529</Open>
+    <High>4.722</High>
+    <Low>4.115</Low>
+    <Close>4.657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-09-28</Date>
+    <Open>4.657</Open>
+    <High>4.71</High>
+    <Low>4.172</Low>
+    <Close>4.206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-09-29</Date>
+    <Open>4.206</Open>
+    <High>4.294</High>
+    <Low>3.965</Low>
+    <Close>4.143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-09-30</Date>
+    <Open>4.143</Open>
+    <High>4.415</High>
+    <Low>4.0</Low>
+    <Close>4.333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-01</Date>
+    <Open>4.333</Open>
+    <High>4.535</High>
+    <Low>4.018</Low>
+    <Close>4.154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-02</Date>
+    <Open>4.154</Open>
+    <High>4.224</High>
+    <Low>3.652</Low>
+    <Close>3.916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-03</Date>
+    <Open>3.916</Open>
+    <High>4.194</High>
+    <Low>3.874</Low>
+    <Close>4.021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-04</Date>
+    <Open>4.021</Open>
+    <High>4.084</High>
+    <Low>3.837</Low>
+    <Close>3.968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-05</Date>
+    <Open>3.968</Open>
+    <High>4.05</High>
+    <Low>3.874</Low>
+    <Close>3.985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-06</Date>
+    <Open>3.985</Open>
+    <High>4.004</High>
+    <Low>3.503</Low>
+    <Close>3.546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-07</Date>
+    <Open>3.546</Open>
+    <High>3.55</High>
+    <Low>3.21</Low>
+    <Close>3.445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-08</Date>
+    <Open>3.445</Open>
+    <High>3.961</High>
+    <Low>3.326</Low>
+    <Close>3.919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-09</Date>
+    <Open>3.919</Open>
+    <High>4.329</High>
+    <Low>3.807</Low>
+    <Close>4.253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-10</Date>
+    <Open>4.253</Open>
+    <High>4.272</High>
+    <Low>4.004</Low>
+    <Close>4.027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-11</Date>
+    <Open>4.027</Open>
+    <High>4.18</High>
+    <Low>3.937</Low>
+    <Close>4.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-12</Date>
+    <Open>4.1</Open>
+    <High>4.715</High>
+    <Low>4.058</Low>
+    <Close>4.414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-13</Date>
+    <Open>4.414</Open>
+    <High>4.569</High>
+    <Low>4.324</Low>
+    <Close>4.485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-14</Date>
+    <Open>4.485</Open>
+    <High>4.489</High>
+    <Low>4.017</Low>
+    <Close>4.164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-15</Date>
+    <Open>4.164</Open>
+    <High>4.233</High>
+    <Low>4.002</Low>
+    <Close>4.131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-16</Date>
+    <Open>4.131</Open>
+    <High>4.162</High>
+    <Low>3.879</Low>
+    <Close>4.047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-17</Date>
+    <Open>4.047</Open>
+    <High>4.214</High>
+    <Low>3.971</Low>
+    <Close>4.199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-18</Date>
+    <Open>4.199</Open>
+    <High>4.25</High>
+    <Low>4.074</Low>
+    <Close>4.124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-19</Date>
+    <Open>4.124</Open>
+    <High>4.179</High>
+    <Low>3.997</Low>
+    <Close>4.054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-20</Date>
+    <Open>4.054</Open>
+    <High>4.095</High>
+    <Low>3.701</Low>
+    <Close>3.809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-21</Date>
+    <Open>3.809</Open>
+    <High>4.106</High>
+    <Low>3.798</Low>
+    <Close>3.969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-22</Date>
+    <Open>3.969</Open>
+    <High>4.488</High>
+    <Low>3.96</Low>
+    <Close>4.338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-23</Date>
+    <Open>4.338</Open>
+    <High>4.479</High>
+    <Low>4.145</Low>
+    <Close>4.258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-24</Date>
+    <Open>4.258</Open>
+    <High>4.359</High>
+    <Low>4.16</Low>
+    <Close>4.186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-25</Date>
+    <Open>4.186</Open>
+    <High>4.253</High>
+    <Low>4.105</Low>
+    <Close>4.149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-26</Date>
+    <Open>4.149</Open>
+    <High>4.486</High>
+    <Low>4.041</Low>
+    <Close>4.152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-27</Date>
+    <Open>4.152</Open>
+    <High>4.347</High>
+    <Low>4.037</Low>
+    <Close>4.122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-28</Date>
+    <Open>4.122</Open>
+    <High>4.175</High>
+    <Low>3.935</Low>
+    <Close>4.058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-29</Date>
+    <Open>4.058</Open>
+    <High>4.098</High>
+    <Low>3.73</Low>
+    <Close>3.775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-30</Date>
+    <Open>3.775</Open>
+    <High>3.827</High>
+    <Low>3.583</Low>
+    <Close>3.726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-10-31</Date>
+    <Open>3.726</Open>
+    <High>3.748</High>
+    <Low>3.588</Low>
+    <Close>3.635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-01</Date>
+    <Open>3.635</Open>
+    <High>3.713</High>
+    <Low>3.565</Low>
+    <Close>3.681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-02</Date>
+    <Open>3.681</Open>
+    <High>3.875</High>
+    <Low>3.616</Low>
+    <Close>3.622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-03</Date>
+    <Open>3.622</Open>
+    <High>3.651</High>
+    <Low>3.248</Low>
+    <Close>3.324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-04</Date>
+    <Open>3.324</Open>
+    <High>3.376</High>
+    <Low>3.006</Low>
+    <Close>3.176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-05</Date>
+    <Open>3.176</Open>
+    <High>3.378</High>
+    <Low>3.02</Low>
+    <Close>3.348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-06</Date>
+    <Open>3.348</Open>
+    <High>3.658</High>
+    <Low>3.324</Low>
+    <Close>3.589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-07</Date>
+    <Open>3.589</Open>
+    <High>3.913</High>
+    <Low>3.378</Low>
+    <Close>3.422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-08</Date>
+    <Open>3.422</Open>
+    <High>3.66</High>
+    <Low>3.362</Low>
+    <Close>3.468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-09</Date>
+    <Open>3.468</Open>
+    <High>3.533</High>
+    <Low>3.257</Low>
+    <Close>3.411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-10</Date>
+    <Open>3.411</Open>
+    <High>3.629</High>
+    <Low>3.38</Low>
+    <Close>3.576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-11</Date>
+    <Open>3.576</Open>
+    <High>3.804</High>
+    <Low>3.462</Low>
+    <Close>3.486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-12</Date>
+    <Open>3.486</Open>
+    <High>3.56</High>
+    <Low>3.323</Low>
+    <Close>3.424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-13</Date>
+    <Open>3.424</Open>
+    <High>3.696</High>
+    <Low>3.392</Low>
+    <Close>3.674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-14</Date>
+    <Open>3.674</Open>
+    <High>3.697</High>
+    <Low>3.4</Low>
+    <Close>3.487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-15</Date>
+    <Open>3.487</Open>
+    <High>3.642</High>
+    <Low>3.419</Low>
+    <Close>3.548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-16</Date>
+    <Open>3.548</Open>
+    <High>3.817</High>
+    <Low>3.458</Low>
+    <Close>3.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-17</Date>
+    <Open>3.7</Open>
+    <High>3.93</High>
+    <Low>3.692</Low>
+    <Close>3.839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-18</Date>
+    <Open>3.839</Open>
+    <High>3.867</High>
+    <Low>3.58</Low>
+    <Close>3.744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-19</Date>
+    <Open>3.744</Open>
+    <High>3.827</High>
+    <Low>3.567</Low>
+    <Close>3.642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-20</Date>
+    <Open>3.642</Open>
+    <High>4.002</High>
+    <Low>3.624</Low>
+    <Close>3.714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-21</Date>
+    <Open>3.714</Open>
+    <High>4.085</High>
+    <Low>3.665</Low>
+    <Close>4.015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-22</Date>
+    <Open>4.015</Open>
+    <High>4.051</High>
+    <Low>3.709</Low>
+    <Close>3.887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-23</Date>
+    <Open>3.887</Open>
+    <High>4.248</High>
+    <Low>3.854</Low>
+    <Close>4.071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-24</Date>
+    <Open>4.071</Open>
+    <High>4.33</High>
+    <Low>3.868</Low>
+    <Close>4.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-25</Date>
+    <Open>4.25</Open>
+    <High>4.398</High>
+    <Low>3.911</Low>
+    <Close>4.046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-26</Date>
+    <Open>4.046</Open>
+    <High>4.091</High>
+    <Low>3.309</Low>
+    <Close>3.537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-27</Date>
+    <Open>3.537</Open>
+    <High>3.761</High>
+    <Low>3.427</Low>
+    <Close>3.594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-28</Date>
+    <Open>3.594</Open>
+    <High>3.7</High>
+    <Low>3.478</Low>
+    <Close>3.631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-29</Date>
+    <Open>3.631</Open>
+    <High>3.766</High>
+    <Low>3.537</Low>
+    <Close>3.705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-11-30</Date>
+    <Open>3.705</Open>
+    <High>3.816</High>
+    <Low>3.648</Low>
+    <Close>3.702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-01</Date>
+    <Open>3.702</Open>
+    <High>3.814</High>
+    <Low>3.462</Low>
+    <Close>3.563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-02</Date>
+    <Open>3.563</Open>
+    <High>3.845</High>
+    <Low>3.513</Low>
+    <Close>3.742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-03</Date>
+    <Open>3.742</Open>
+    <High>3.897</High>
+    <Low>3.718</Low>
+    <Close>3.818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-04</Date>
+    <Open>3.818</Open>
+    <High>3.859</High>
+    <Low>3.513</Low>
+    <Close>3.537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-05</Date>
+    <Open>3.537</Open>
+    <High>3.72</High>
+    <Low>3.514</Low>
+    <Close>3.642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-06</Date>
+    <Open>3.642</Open>
+    <High>3.677</High>
+    <Low>3.513</Low>
+    <Close>3.608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-07</Date>
+    <Open>3.608</Open>
+    <High>3.612</High>
+    <Low>3.322</Low>
+    <Close>3.391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-08</Date>
+    <Open>3.391</Open>
+    <High>3.391</High>
+    <Low>3.091</Low>
+    <Close>3.116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-09</Date>
+    <Open>3.116</Open>
+    <High>3.414</High>
+    <Low>2.788</Low>
+    <Close>3.261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-10</Date>
+    <Open>3.261</Open>
+    <High>3.348</High>
+    <Low>3.065</Low>
+    <Close>3.148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-11</Date>
+    <Open>3.148</Open>
+    <High>3.303</High>
+    <Low>3.016</Low>
+    <Close>3.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-12</Date>
+    <Open>3.24</Open>
+    <High>3.454</High>
+    <Low>3.238</Low>
+    <Close>3.338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-13</Date>
+    <Open>3.338</Open>
+    <High>3.416</High>
+    <Low>3.283</Low>
+    <Close>3.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-14</Date>
+    <Open>3.34</Open>
+    <High>3.341</High>
+    <Low>3.137</Low>
+    <Close>3.142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-15</Date>
+    <Open>3.142</Open>
+    <High>3.461</High>
+    <Low>3.064</Low>
+    <Close>3.302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-16</Date>
+    <Open>3.302</Open>
+    <High>3.376</High>
+    <Low>3.147</Low>
+    <Close>3.342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-17</Date>
+    <Open>3.342</Open>
+    <High>3.375</High>
+    <Low>3.187</Low>
+    <Close>3.209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-18</Date>
+    <Open>3.209</Open>
+    <High>3.475</High>
+    <Low>3.148</Low>
+    <Close>3.411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-19</Date>
+    <Open>3.411</Open>
+    <High>3.607</High>
+    <Low>3.38</Low>
+    <Close>3.464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-20</Date>
+    <Open>3.464</Open>
+    <High>3.494</High>
+    <Low>3.28</Low>
+    <Close>3.305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-21</Date>
+    <Open>3.305</Open>
+    <High>3.352</High>
+    <Low>2.995</Low>
+    <Close>3.088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-22</Date>
+    <Open>3.088</Open>
+    <High>3.131</High>
+    <Low>2.924</Low>
+    <Close>3.078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-23</Date>
+    <Open>3.078</Open>
+    <High>3.666</High>
+    <Low>2.765</Low>
+    <Close>2.946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-24</Date>
+    <Open>2.946</Open>
+    <High>3.111</High>
+    <Low>2.787</Low>
+    <Close>3.103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-25</Date>
+    <Open>3.103</Open>
+    <High>3.126</High>
+    <Low>2.845</Low>
+    <Close>2.951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-26</Date>
+    <Open>2.951</Open>
+    <High>2.989</High>
+    <Low>2.846</Low>
+    <Close>2.913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-27</Date>
+    <Open>2.913</Open>
+    <High>3.069</High>
+    <Low>2.841</Low>
+    <Close>2.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-28</Date>
+    <Open>2.9</Open>
+    <High>3.045</High>
+    <Low>2.865</Low>
+    <Close>2.954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-29</Date>
+    <Open>2.954</Open>
+    <High>3.004</High>
+    <Low>2.832</Low>
+    <Close>2.923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-30</Date>
+    <Open>2.923</Open>
+    <High>2.941</High>
+    <Low>2.837</Low>
+    <Close>2.919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2020-12-31</Date>
+    <Open>2.919</Open>
+    <High>3.266</High>
+    <Low>2.793</Low>
+    <Close>3.205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-01</Date>
+    <Open>3.205</Open>
+    <High>3.934</High>
+    <Low>3.05</Low>
+    <Close>3.666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-02</Date>
+    <Open>3.666</Open>
+    <High>3.941</High>
+    <Low>3.291</Low>
+    <Close>3.496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-03</Date>
+    <Open>3.496</Open>
+    <High>3.827</High>
+    <Low>3.396</Low>
+    <Close>3.475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-04</Date>
+    <Open>3.475</Open>
+    <High>3.831</High>
+    <Low>3.259</Low>
+    <Close>3.602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-05</Date>
+    <Open>3.602</Open>
+    <High>4.363</High>
+    <Low>3.489</Low>
+    <Close>4.262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-06</Date>
+    <Open>4.262</Open>
+    <High>4.974</High>
+    <Low>4.143</Low>
+    <Close>4.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-07</Date>
+    <Open>4.58</Open>
+    <High>4.817</High>
+    <Low>4.197</Low>
+    <Close>4.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-08</Date>
+    <Open>4.47</Open>
+    <High>5.863</High>
+    <Low>4.036</Low>
+    <Close>5.735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-09</Date>
+    <Open>5.735</Open>
+    <High>7.491</High>
+    <Low>5.608</Low>
+    <Close>7.223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-10</Date>
+    <Open>7.223</Open>
+    <High>7.498</High>
+    <Low>6.156</Low>
+    <Close>6.551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-11</Date>
+    <Open>6.551</Open>
+    <High>7.003</High>
+    <Low>5.747</Low>
+    <Close>6.472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-12</Date>
+    <Open>6.472</Open>
+    <High>8.238</High>
+    <Low>6.43</Low>
+    <Close>7.737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-13</Date>
+    <Open>7.737</Open>
+    <High>8.497</High>
+    <Low>7.15</Low>
+    <Close>8.466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-14</Date>
+    <Open>8.466</Open>
+    <High>9.565</High>
+    <Low>8.208</Low>
+    <Close>9.319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-15</Date>
+    <Open>9.319</Open>
+    <High>9.881</High>
+    <Low>8.601</Low>
+    <Close>9.392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-16</Date>
+    <Open>9.392</Open>
+    <High>13.47</High>
+    <Low>9.165</Low>
+    <Close>12.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-17</Date>
+    <Open>12.83</Open>
+    <High>14.55</High>
+    <Low>12.34</Low>
+    <Close>13.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-18</Date>
+    <Open>13.18</Open>
+    <High>13.85</High>
+    <Low>12.6</Low>
+    <Close>12.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-19</Date>
+    <Open>12.7</Open>
+    <High>13.37</High>
+    <Low>11.59</Low>
+    <Close>11.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-20</Date>
+    <Open>11.76</Open>
+    <High>13.04</High>
+    <Low>11.04</Low>
+    <Close>12.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-21</Date>
+    <Open>12.38</Open>
+    <High>12.99</High>
+    <Low>11.09</Low>
+    <Close>11.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-22</Date>
+    <Open>11.33</Open>
+    <High>13.39</High>
+    <Low>10.7</Low>
+    <Close>12.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-23</Date>
+    <Open>12.73</Open>
+    <High>13.49</High>
+    <Low>12.53</Low>
+    <Close>12.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-24</Date>
+    <Open>12.89</Open>
+    <High>13.2</High>
+    <Low>12.23</Low>
+    <Close>12.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-25</Date>
+    <Open>12.49</Open>
+    <High>12.95</High>
+    <Low>12.07</Low>
+    <Close>12.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-26</Date>
+    <Open>12.18</Open>
+    <High>12.72</High>
+    <Low>11.41</Low>
+    <Close>12.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-27</Date>
+    <Open>12.19</Open>
+    <High>12.22</High>
+    <Low>10.81</Low>
+    <Close>11.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-28</Date>
+    <Open>11.17</Open>
+    <High>12.78</High>
+    <Low>10.84</Low>
+    <Close>11.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-29</Date>
+    <Open>11.98</Open>
+    <High>12.67</High>
+    <Low>11.37</Low>
+    <Close>11.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-30</Date>
+    <Open>11.62</Open>
+    <High>12.66</High>
+    <Low>11.31</Low>
+    <Close>12.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-01-31</Date>
+    <Open>12.06</Open>
+    <High>15.36</High>
+    <Low>11.85</Low>
+    <Close>13.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-01</Date>
+    <Open>13.49</Open>
+    <High>13.62</High>
+    <Low>12.59</Low>
+    <Close>13.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-02</Date>
+    <Open>13.23</Open>
+    <High>13.7</High>
+    <Low>12.81</Low>
+    <Close>13.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-03</Date>
+    <Open>13.5</Open>
+    <High>14.95</High>
+    <Low>13.22</Low>
+    <Close>14.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-04</Date>
+    <Open>14.85</Open>
+    <High>15.89</High>
+    <Low>13.92</Low>
+    <Close>15.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-05</Date>
+    <Open>15.32</Open>
+    <High>18.03</High>
+    <Low>15.13</Low>
+    <Close>17.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-06</Date>
+    <Open>17.89</Open>
+    <High>18.61</High>
+    <Low>15.92</Low>
+    <Close>18.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-07</Date>
+    <Open>18.07</Open>
+    <High>24.43</High>
+    <Low>17.95</Low>
+    <Close>23.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-08</Date>
+    <Open>23.79</Open>
+    <High>33.78</High>
+    <Low>23.64</Low>
+    <Close>30.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-09</Date>
+    <Open>30.15</Open>
+    <High>33.03</High>
+    <Low>27.52</Low>
+    <Close>31.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-10</Date>
+    <Open>31.7</Open>
+    <High>60.22</High>
+    <Low>31.4</Low>
+    <Close>54.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-11</Date>
+    <Open>54.97</Open>
+    <High>56.4</High>
+    <Low>41.76</Low>
+    <Close>46.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-12</Date>
+    <Open>46.99</Open>
+    <High>54.56</High>
+    <Low>43.64</Low>
+    <Close>48.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-13</Date>
+    <Open>48.44</Open>
+    <High>51.87</High>
+    <Low>43.01</Low>
+    <Close>43.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-14</Date>
+    <Open>43.14</Open>
+    <High>44.03</High>
+    <Low>38.01</Low>
+    <Close>38.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-15</Date>
+    <Open>38.45</Open>
+    <High>43.89</High>
+    <Low>33.56</Low>
+    <Close>38.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-16</Date>
+    <Open>38.09</Open>
+    <High>39.54</High>
+    <Low>34.95</Low>
+    <Close>36.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-17</Date>
+    <Open>36.34</Open>
+    <High>41.31</High>
+    <Low>34.06</Low>
+    <Close>36.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-18</Date>
+    <Open>36.92</Open>
+    <High>43.68</High>
+    <Low>35.82</Low>
+    <Close>41.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-19</Date>
+    <Open>41.0</Open>
+    <High>41.26</High>
+    <Low>37.59</Low>
+    <Close>38.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-20</Date>
+    <Open>38.77</Open>
+    <High>42.81</High>
+    <Low>32.62</Low>
+    <Close>36.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-21</Date>
+    <Open>36.03</Open>
+    <High>37.98</High>
+    <Low>34.89</Low>
+    <Close>36.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-22</Date>
+    <Open>36.17</Open>
+    <High>36.27</High>
+    <Low>26.63</Low>
+    <Close>32.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-23</Date>
+    <Open>32.26</Open>
+    <High>32.35</High>
+    <Low>23.56</Low>
+    <Close>27.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-24</Date>
+    <Open>27.59</Open>
+    <High>32.25</High>
+    <Low>25.33</Low>
+    <Close>29.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-25</Date>
+    <Open>29.82</Open>
+    <High>32.22</High>
+    <Low>26.53</Low>
+    <Close>26.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-26</Date>
+    <Open>26.78</Open>
+    <High>28.05</High>
+    <Low>24.93</Low>
+    <Close>25.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-27</Date>
+    <Open>25.97</Open>
+    <High>27.5</High>
+    <Low>25.09</Low>
+    <Close>25.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-02-28</Date>
+    <Open>25.81</Open>
+    <High>25.97</High>
+    <Low>22.21</Low>
+    <Close>23.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-01</Date>
+    <Open>23.99</Open>
+    <High>27.81</High>
+    <Low>23.62</Low>
+    <Close>27.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-02</Date>
+    <Open>27.46</Open>
+    <High>31.88</High>
+    <Low>25.93</Low>
+    <Close>27.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-03</Date>
+    <Open>27.14</Open>
+    <High>29.42</High>
+    <Low>26.55</Low>
+    <Close>27.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-04</Date>
+    <Open>27.23</Open>
+    <High>28.81</High>
+    <Low>24.25</Low>
+    <Close>25.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-05</Date>
+    <Open>25.76</Open>
+    <High>25.8</High>
+    <Low>23.57</Low>
+    <Close>24.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-06</Date>
+    <Open>24.33</Open>
+    <High>25.49</High>
+    <Low>23.85</Low>
+    <Close>24.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-07</Date>
+    <Open>24.9</Open>
+    <High>27.94</High>
+    <Low>24.9</Low>
+    <Close>26.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-08</Date>
+    <Open>26.66</Open>
+    <High>27.1</High>
+    <Low>25.04</Low>
+    <Close>25.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-09</Date>
+    <Open>25.61</Open>
+    <High>34.77</High>
+    <Low>23.62</Low>
+    <Close>34.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-10</Date>
+    <Open>34.38</Open>
+    <High>35.79</High>
+    <Low>28.78</Low>
+    <Close>29.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-11</Date>
+    <Open>29.63</Open>
+    <High>32.85</High>
+    <Low>28.45</Low>
+    <Close>30.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-12</Date>
+    <Open>30.81</Open>
+    <High>31.56</High>
+    <Low>26.88</Low>
+    <Close>27.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-13</Date>
+    <Open>27.96</Open>
+    <High>33.21</High>
+    <Low>26.94</Low>
+    <Close>30.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-14</Date>
+    <Open>30.89</Open>
+    <High>32.27</High>
+    <Low>28.94</Low>
+    <Close>28.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-15</Date>
+    <Open>28.96</Open>
+    <High>30.62</High>
+    <Low>27.09</Low>
+    <Close>28.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-16</Date>
+    <Open>28.93</Open>
+    <High>33.24</High>
+    <Low>27.57</Low>
+    <Close>33.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-17</Date>
+    <Open>33.03</Open>
+    <High>33.91</High>
+    <Low>30.72</Low>
+    <Close>32.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-18</Date>
+    <Open>32.66</Open>
+    <High>35.59</High>
+    <Low>31.86</Low>
+    <Close>33.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-19</Date>
+    <Open>33.21</Open>
+    <High>38.46</High>
+    <Low>31.41</Low>
+    <Close>37.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-20</Date>
+    <Open>37.36</Open>
+    <High>39.26</High>
+    <Low>34.16</Low>
+    <Close>34.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-21</Date>
+    <Open>34.18</Open>
+    <High>35.44</High>
+    <Low>32.03</Low>
+    <Close>32.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-22</Date>
+    <Open>32.81</Open>
+    <High>33.58</High>
+    <Low>28.7</Low>
+    <Close>29.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-23</Date>
+    <Open>29.2</Open>
+    <High>30.87</High>
+    <Low>28.14</Low>
+    <Close>28.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-24</Date>
+    <Open>28.48</Open>
+    <High>30.46</High>
+    <Low>24.99</Low>
+    <Close>25.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-25</Date>
+    <Open>25.88</Open>
+    <High>27.5</High>
+    <Low>24.37</Low>
+    <Close>25.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-26</Date>
+    <Open>25.82</Open>
+    <High>28.87</High>
+    <Low>25.79</Low>
+    <Close>28.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-27</Date>
+    <Open>28.27</Open>
+    <High>28.64</High>
+    <Low>26.82</Low>
+    <Close>27.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-28</Date>
+    <Open>27.63</Open>
+    <High>29.52</High>
+    <Low>27.21</Low>
+    <Close>28.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-29</Date>
+    <Open>28.72</Open>
+    <High>30.35</High>
+    <Low>28.21</Low>
+    <Close>29.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-30</Date>
+    <Open>29.54</Open>
+    <High>30.9</High>
+    <Low>28.82</Low>
+    <Close>29.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-03-31</Date>
+    <Open>29.64</Open>
+    <High>29.94</High>
+    <Low>26.63</Low>
+    <Close>28.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-01</Date>
+    <Open>28.73</Open>
+    <High>29.34</High>
+    <Low>27.73</Low>
+    <Close>28.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-02</Date>
+    <Open>28.26</Open>
+    <High>29.58</High>
+    <Low>27.96</Low>
+    <Close>29.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-03</Date>
+    <Open>29.03</Open>
+    <High>32.85</High>
+    <Low>27.92</Low>
+    <Close>28.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-04</Date>
+    <Open>28.17</Open>
+    <High>29.9</High>
+    <Low>27.59</Low>
+    <Close>29.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-05</Date>
+    <Open>29.17</Open>
+    <High>32.97</High>
+    <Low>28.57</Low>
+    <Close>31.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-06</Date>
+    <Open>31.26</Open>
+    <High>34.55</High>
+    <Low>30.51</Low>
+    <Close>31.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-07</Date>
+    <Open>31.49</Open>
+    <High>33.26</High>
+    <Low>28.63</Low>
+    <Close>29.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-08</Date>
+    <Open>29.5</Open>
+    <High>31.58</High>
+    <Low>29.24</Low>
+    <Close>30.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-09</Date>
+    <Open>30.74</Open>
+    <High>32.45</High>
+    <Low>30.31</Low>
+    <Close>31.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-10</Date>
+    <Open>31.5</Open>
+    <High>33.94</High>
+    <Low>30.89</Low>
+    <Close>31.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-11</Date>
+    <Open>31.8</Open>
+    <High>32.32</High>
+    <Low>30.93</Low>
+    <Close>31.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-12</Date>
+    <Open>31.58</Open>
+    <High>35.61</High>
+    <Low>31.29</Low>
+    <Close>33.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-13</Date>
+    <Open>33.81</Open>
+    <High>34.86</High>
+    <Low>31.7</Low>
+    <Close>33.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-14</Date>
+    <Open>33.65</Open>
+    <High>39.39</High>
+    <Low>32.93</Low>
+    <Close>38.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-15</Date>
+    <Open>38.33</Open>
+    <High>40.77</High>
+    <Low>36.28</Low>
+    <Close>37.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-16</Date>
+    <Open>37.03</Open>
+    <High>37.56</High>
+    <Low>33.3</Low>
+    <Close>35.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-17</Date>
+    <Open>35.48</Open>
+    <High>36.86</High>
+    <Low>33.51</Low>
+    <Close>33.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-18</Date>
+    <Open>33.96</Open>
+    <High>34.3</High>
+    <Low>23.31</Low>
+    <Close>29.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-19</Date>
+    <Open>29.36</Open>
+    <High>30.56</High>
+    <Low>25.76</Low>
+    <Close>26.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-20</Date>
+    <Open>26.19</Open>
+    <High>28.78</High>
+    <Low>23.9</Low>
+    <Close>27.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-21</Date>
+    <Open>27.46</Open>
+    <High>28.44</High>
+    <Low>25.78</Low>
+    <Close>25.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-22</Date>
+    <Open>25.81</Open>
+    <High>27.72</High>
+    <Low>23.27</Low>
+    <Close>24.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-23</Date>
+    <Open>24.01</Open>
+    <High>26.35</High>
+    <Low>19.87</Low>
+    <Close>23.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-24</Date>
+    <Open>23.56</Open>
+    <High>23.95</High>
+    <Low>21.5</Low>
+    <Close>21.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-25</Date>
+    <Open>21.86</Open>
+    <High>23.74</High>
+    <Low>20.47</Low>
+    <Close>21.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-26</Date>
+    <Open>21.64</Open>
+    <High>26.52</High>
+    <Low>21.42</Low>
+    <Close>26.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-27</Date>
+    <Open>26.48</Open>
+    <High>28.01</High>
+    <Low>25.77</Low>
+    <Close>27.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-28</Date>
+    <Open>27.97</Open>
+    <High>29.09</High>
+    <Low>25.9</Low>
+    <Close>28.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-29</Date>
+    <Open>28.27</Open>
+    <High>29.72</High>
+    <Low>26.64</Low>
+    <Close>27.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-04-30</Date>
+    <Open>27.91</Open>
+    <High>32.99</High>
+    <Low>27.52</Low>
+    <Close>32.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-01</Date>
+    <Open>32.81</Open>
+    <High>35.64</High>
+    <Low>31.75</Low>
+    <Close>31.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-02</Date>
+    <Open>31.81</Open>
+    <High>32.66</High>
+    <Low>30.5</Low>
+    <Close>31.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-03</Date>
+    <Open>31.29</Open>
+    <High>37.25</High>
+    <Low>31.17</Low>
+    <Close>35.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-04</Date>
+    <Open>35.86</Open>
+    <High>36.21</High>
+    <Low>29.61</Low>
+    <Close>30.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-05</Date>
+    <Open>30.42</Open>
+    <High>35.64</High>
+    <Low>29.91</Low>
+    <Close>35.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-06</Date>
+    <Open>35.32</Open>
+    <High>39.36</High>
+    <Low>34.75</Low>
+    <Close>38.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-07</Date>
+    <Open>38.05</Open>
+    <High>43.87</High>
+    <Low>36.04</Low>
+    <Close>37.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-08</Date>
+    <Open>37.92</Open>
+    <High>39.82</High>
+    <Low>37.24</Low>
+    <Close>38.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-09</Date>
+    <Open>38.39</Open>
+    <High>39.46</High>
+    <Low>35.11</Low>
+    <Close>38.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-10</Date>
+    <Open>38.98</Open>
+    <High>41.83</High>
+    <Low>30.64</Low>
+    <Close>34.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-11</Date>
+    <Open>34.71</Open>
+    <High>37.33</High>
+    <Low>32.61</Low>
+    <Close>36.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-12</Date>
+    <Open>36.81</Open>
+    <High>41.44</High>
+    <Low>32.88</Low>
+    <Close>32.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-13</Date>
+    <Open>32.97</Open>
+    <High>37.16</High>
+    <Low>31.05</Low>
+    <Close>35.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-14</Date>
+    <Open>35.06</Open>
+    <High>38.02</High>
+    <Low>33.32</Low>
+    <Close>37.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-15</Date>
+    <Open>37.02</Open>
+    <High>39.96</High>
+    <Low>34.19</Low>
+    <Close>34.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-16</Date>
+    <Open>34.49</Open>
+    <High>39.72</High>
+    <Low>32.72</Low>
+    <Close>36.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-17</Date>
+    <Open>36.19</Open>
+    <High>37.82</High>
+    <Low>32.6</Low>
+    <Close>33.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-18</Date>
+    <Open>33.65</Open>
+    <High>37.69</High>
+    <Low>33.32</Low>
+    <Close>36.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-19</Date>
+    <Open>36.96</Open>
+    <High>38.52</High>
+    <Low>18.5</Low>
+    <Close>23.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-20</Date>
+    <Open>23.2</Open>
+    <High>28.23</High>
+    <Low>20.93</Low>
+    <Close>25.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-21</Date>
+    <Open>25.11</Open>
+    <High>26.75</High>
+    <Low>18.43</Low>
+    <Close>21.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-22</Date>
+    <Open>21.86</Open>
+    <High>22.44</High>
+    <Low>18.35</Low>
+    <Close>18.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-23</Date>
+    <Open>18.85</Open>
+    <High>19.69</High>
+    <Low>12.14</Low>
+    <Close>15.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-24</Date>
+    <Open>15.63</Open>
+    <High>20.51</High>
+    <Low>15.07</Low>
+    <Close>19.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-25</Date>
+    <Open>19.4</Open>
+    <High>20.25</High>
+    <Low>17.12</Low>
+    <Close>19.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-26</Date>
+    <Open>19.48</Open>
+    <High>21.45</High>
+    <Low>18.99</Low>
+    <Close>20.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-27</Date>
+    <Open>20.81</Open>
+    <High>21.2</High>
+    <Low>18.79</Low>
+    <Close>19.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-28</Date>
+    <Open>19.08</Open>
+    <High>19.54</High>
+    <Low>16.02</Low>
+    <Close>16.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-29</Date>
+    <Open>16.72</Open>
+    <High>17.59</High>
+    <Low>15.18</Low>
+    <Close>16.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-30</Date>
+    <Open>16.17</Open>
+    <High>17.44</High>
+    <Low>15.16</Low>
+    <Close>16.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-05-31</Date>
+    <Open>16.53</Open>
+    <High>18.18</High>
+    <Low>15.7</Low>
+    <Close>18.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-01</Date>
+    <Open>18.15</Open>
+    <High>18.57</High>
+    <Low>17.09</Low>
+    <Close>17.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-02</Date>
+    <Open>17.76</Open>
+    <High>19.36</High>
+    <Low>17.16</Low>
+    <Close>18.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-03</Date>
+    <Open>18.69</Open>
+    <High>20.69</High>
+    <Low>18.23</Low>
+    <Close>20.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-04</Date>
+    <Open>20.27</Open>
+    <High>20.56</High>
+    <Low>17.45</Low>
+    <Close>18.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-05</Date>
+    <Open>18.26</Open>
+    <High>19.13</High>
+    <Low>16.89</Low>
+    <Close>17.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-06</Date>
+    <Open>17.22</Open>
+    <High>17.99</High>
+    <Low>17.09</Low>
+    <Close>17.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-07</Date>
+    <Open>17.38</Open>
+    <High>18.04</High>
+    <Low>15.32</Low>
+    <Close>15.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-08</Date>
+    <Open>15.55</Open>
+    <High>16.06</High>
+    <Low>13.68</Low>
+    <Close>14.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-09</Date>
+    <Open>14.81</Open>
+    <High>15.75</High>
+    <Low>13.66</Low>
+    <Close>15.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-10</Date>
+    <Open>15.39</Open>
+    <High>15.57</High>
+    <Low>13.75</Low>
+    <Close>14.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-11</Date>
+    <Open>14.19</Open>
+    <High>14.6</High>
+    <Low>13.15</Low>
+    <Close>13.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-12</Date>
+    <Open>13.41</Open>
+    <High>13.91</High>
+    <Low>12.65</Low>
+    <Close>13.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-13</Date>
+    <Open>13.54</Open>
+    <High>14.99</High>
+    <Low>13.25</Low>
+    <Close>14.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-14</Date>
+    <Open>14.75</Open>
+    <High>15.4</High>
+    <Low>14.38</Low>
+    <Close>15.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-15</Date>
+    <Open>15.11</Open>
+    <High>15.59</High>
+    <Low>14.61</Low>
+    <Close>14.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-16</Date>
+    <Open>14.72</Open>
+    <High>14.93</High>
+    <Low>13.92</Low>
+    <Close>14.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-17</Date>
+    <Open>14.07</Open>
+    <High>15.48</High>
+    <Low>14.03</Low>
+    <Close>14.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-18</Date>
+    <Open>14.85</Open>
+    <High>15.31</High>
+    <Low>13.12</Low>
+    <Close>13.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-19</Date>
+    <Open>13.63</Open>
+    <High>14.04</High>
+    <Low>13.22</Low>
+    <Close>13.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-20</Date>
+    <Open>13.39</Open>
+    <High>14.19</High>
+    <Low>12.81</Low>
+    <Close>13.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-21</Date>
+    <Open>13.93</Open>
+    <High>14.07</High>
+    <Low>11.1</Low>
+    <Close>11.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-22</Date>
+    <Open>11.21</Open>
+    <High>11.77</High>
+    <Low>9.354</Low>
+    <Close>10.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-23</Date>
+    <Open>10.58</Open>
+    <High>11.87</High>
+    <Low>10.15</Low>
+    <Close>11.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-24</Date>
+    <Open>11.46</Open>
+    <High>11.75</High>
+    <Low>10.83</Low>
+    <Close>11.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-25</Date>
+    <Open>11.49</Open>
+    <High>11.75</High>
+    <Low>10.2</Low>
+    <Close>10.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-26</Date>
+    <Open>10.24</Open>
+    <High>10.61</High>
+    <Low>9.802</Low>
+    <Close>10.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-27</Date>
+    <Open>10.32</Open>
+    <High>10.99</High>
+    <Low>10.1</Low>
+    <Close>10.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-28</Date>
+    <Open>10.95</Open>
+    <High>11.46</High>
+    <Low>10.72</Low>
+    <Close>11.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-29</Date>
+    <Open>11.33</Open>
+    <High>12.34</High>
+    <Low>11.09</Low>
+    <Close>11.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-06-30</Date>
+    <Open>11.92</Open>
+    <High>12.12</High>
+    <Low>11.04</Low>
+    <Close>11.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-01</Date>
+    <Open>11.95</Open>
+    <High>12.07</High>
+    <Low>11.0</Low>
+    <Close>11.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-02</Date>
+    <Open>11.19</Open>
+    <High>11.35</High>
+    <Low>10.57</Low>
+    <Close>11.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-03</Date>
+    <Open>11.12</Open>
+    <High>11.67</High>
+    <Low>10.88</Low>
+    <Close>11.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-04</Date>
+    <Open>11.5</Open>
+    <High>12.89</High>
+    <Low>11.21</Low>
+    <Close>12.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-05</Date>
+    <Open>12.35</Open>
+    <High>12.43</High>
+    <Low>11.56</Low>
+    <Close>12.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-06</Date>
+    <Open>12.04</Open>
+    <High>14.22</High>
+    <Low>12.03</Low>
+    <Close>13.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-07</Date>
+    <Open>13.37</Open>
+    <High>14.17</High>
+    <Low>13.04</Low>
+    <Close>13.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-08</Date>
+    <Open>13.1</Open>
+    <High>13.1</High>
+    <Low>11.84</Low>
+    <Close>12.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-09</Date>
+    <Open>12.1</Open>
+    <High>12.86</High>
+    <Low>11.63</Low>
+    <Close>12.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-10</Date>
+    <Open>12.55</Open>
+    <High>12.85</High>
+    <Low>11.84</Low>
+    <Close>12.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-11</Date>
+    <Open>12.02</Open>
+    <High>12.49</High>
+    <Low>11.92</Low>
+    <Close>12.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-12</Date>
+    <Open>12.43</Open>
+    <High>12.84</High>
+    <Low>11.71</Low>
+    <Close>12.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-13</Date>
+    <Open>12.16</Open>
+    <High>12.44</High>
+    <Low>11.75</Low>
+    <Close>11.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-14</Date>
+    <Open>11.91</Open>
+    <High>12.1</High>
+    <Low>11.12</Low>
+    <Close>11.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-15</Date>
+    <Open>11.79</Open>
+    <High>12.1</High>
+    <Low>11.13</Low>
+    <Close>11.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-16</Date>
+    <Open>11.38</Open>
+    <High>11.83</High>
+    <Low>10.81</Low>
+    <Close>10.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-17</Date>
+    <Open>10.83</Open>
+    <High>11.15</High>
+    <Low>10.73</Low>
+    <Close>10.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-18</Date>
+    <Open>10.96</Open>
+    <High>11.28</High>
+    <Low>10.69</Low>
+    <Close>10.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-19</Date>
+    <Open>10.7</Open>
+    <High>10.75</High>
+    <Low>10.03</Low>
+    <Close>10.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-20</Date>
+    <Open>10.18</Open>
+    <High>10.36</High>
+    <Low>9.331</Low>
+    <Close>9.635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-21</Date>
+    <Open>9.635</Open>
+    <High>10.74</High>
+    <Low>9.48</Low>
+    <Close>10.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-22</Date>
+    <Open>10.43</Open>
+    <High>10.96</High>
+    <Low>10.24</Low>
+    <Close>10.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-23</Date>
+    <Open>10.83</Open>
+    <High>11.17</High>
+    <Low>10.53</Low>
+    <Close>11.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-24</Date>
+    <Open>11.08</Open>
+    <High>11.45</High>
+    <Low>10.97</Low>
+    <Close>11.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-25</Date>
+    <Open>11.15</Open>
+    <High>11.34</High>
+    <Low>10.78</Low>
+    <Close>11.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-26</Date>
+    <Open>11.25</Open>
+    <High>12.69</High>
+    <Low>11.22</Low>
+    <Close>11.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-27</Date>
+    <Open>11.46</Open>
+    <High>12.34</High>
+    <Low>11.18</Low>
+    <Close>11.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-28</Date>
+    <Open>11.92</Open>
+    <High>12.48</High>
+    <Low>11.69</Low>
+    <Close>12.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-29</Date>
+    <Open>12.32</Open>
+    <High>12.64</High>
+    <Low>11.98</Low>
+    <Close>12.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-30</Date>
+    <Open>12.43</Open>
+    <High>13.0</High>
+    <Low>11.94</Low>
+    <Close>12.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-07-31</Date>
+    <Open>12.98</Open>
+    <High>13.63</High>
+    <Low>12.59</Low>
+    <Close>13.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-01</Date>
+    <Open>13.52</Open>
+    <High>14.09</High>
+    <Low>12.7</Low>
+    <Close>12.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-02</Date>
+    <Open>12.86</Open>
+    <High>13.37</High>
+    <Low>12.62</Low>
+    <Close>12.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-03</Date>
+    <Open>12.99</Open>
+    <High>13.51</High>
+    <Low>12.33</Low>
+    <Close>12.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-04</Date>
+    <Open>12.56</Open>
+    <High>13.78</High>
+    <Low>12.41</Low>
+    <Close>13.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-05</Date>
+    <Open>13.7</Open>
+    <High>13.98</High>
+    <Low>12.87</Low>
+    <Close>13.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-06</Date>
+    <Open>13.84</Open>
+    <High>14.97</High>
+    <Low>13.39</Low>
+    <Close>14.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-07</Date>
+    <Open>14.76</Open>
+    <High>15.94</High>
+    <Low>14.62</Low>
+    <Close>15.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-08</Date>
+    <Open>15.83</Open>
+    <High>16.09</High>
+    <Low>14.57</Low>
+    <Close>14.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-09</Date>
+    <Open>14.82</Open>
+    <High>16.73</High>
+    <Low>14.43</Low>
+    <Close>16.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-10</Date>
+    <Open>16.17</Open>
+    <High>17.18</High>
+    <Low>15.81</Low>
+    <Close>16.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-11</Date>
+    <Open>16.43</Open>
+    <High>17.54</High>
+    <Low>16.38</Low>
+    <Close>16.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-12</Date>
+    <Open>16.6</Open>
+    <High>16.62</High>
+    <Low>15.45</Low>
+    <Close>16.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-13</Date>
+    <Open>16.58</Open>
+    <High>18.28</High>
+    <Low>16.4</Low>
+    <Close>18.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-14</Date>
+    <Open>18.04</Open>
+    <High>18.44</High>
+    <Low>17.2</Low>
+    <Close>18.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-15</Date>
+    <Open>18.11</Open>
+    <High>18.86</High>
+    <Low>17.15</Low>
+    <Close>18.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-16</Date>
+    <Open>18.78</Open>
+    <High>21.12</High>
+    <Low>18.47</Low>
+    <Close>19.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-17</Date>
+    <Open>19.08</Open>
+    <High>25.44</High>
+    <Low>18.48</Low>
+    <Close>23.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-18</Date>
+    <Open>23.45</Open>
+    <High>30.83</High>
+    <Low>21.49</Low>
+    <Close>29.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-19</Date>
+    <Open>29.98</Open>
+    <High>33.74</High>
+    <Low>28.79</Low>
+    <Close>30.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-20</Date>
+    <Open>30.7</Open>
+    <High>39.22</High>
+    <Low>29.99</Low>
+    <Close>39.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-21</Date>
+    <Open>39.14</Open>
+    <High>50.29</High>
+    <Low>37.73</Low>
+    <Close>43.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-22</Date>
+    <Open>43.76</Open>
+    <High>45.06</High>
+    <Low>40.65</Low>
+    <Close>43.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-23</Date>
+    <Open>43.73</Open>
+    <High>52.98</High>
+    <Low>43.66</Low>
+    <Close>46.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-24</Date>
+    <Open>46.43</Open>
+    <High>58.96</High>
+    <Low>44.19</Low>
+    <Close>55.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-25</Date>
+    <Open>55.54</Open>
+    <High>57.46</High>
+    <Low>45.66</Low>
+    <Close>46.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-26</Date>
+    <Open>46.24</Open>
+    <High>48.45</High>
+    <Low>41.23</Low>
+    <Close>41.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-27</Date>
+    <Open>41.35</Open>
+    <High>50.48</High>
+    <Low>40.37</Low>
+    <Close>50.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-28</Date>
+    <Open>50.17</Open>
+    <High>51.83</High>
+    <Low>46.18</Low>
+    <Close>50.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-29</Date>
+    <Open>50.23</Open>
+    <High>52.46</High>
+    <Low>46.73</Low>
+    <Close>47.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-30</Date>
+    <Open>47.45</Open>
+    <High>48.31</High>
+    <Low>40.99</Low>
+    <Close>41.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-08-31</Date>
+    <Open>41.4</Open>
+    <High>44.19</High>
+    <Low>38.33</Low>
+    <Close>39.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-01</Date>
+    <Open>39.5</Open>
+    <High>45.65</High>
+    <Low>38.56</Low>
+    <Close>42.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-02</Date>
+    <Open>42.49</Open>
+    <High>47.94</High>
+    <Low>41.05</Low>
+    <Close>47.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-03</Date>
+    <Open>47.61</Open>
+    <High>51.61</High>
+    <Low>44.74</Low>
+    <Close>45.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-04</Date>
+    <Open>45.9</Open>
+    <High>49.82</High>
+    <Low>44.1</Low>
+    <Close>47.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-05</Date>
+    <Open>47.19</Open>
+    <High>49.38</High>
+    <Low>45.44</Low>
+    <Close>48.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-06</Date>
+    <Open>48.15</Open>
+    <High>51.33</High>
+    <Low>44.28</Low>
+    <Close>47.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-07</Date>
+    <Open>47.09</Open>
+    <High>47.18</High>
+    <Low>32.3</Low>
+    <Close>37.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-08</Date>
+    <Open>37.86</Open>
+    <High>39.48</High>
+    <Low>33.14</Low>
+    <Close>37.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-09</Date>
+    <Open>37.01</Open>
+    <High>44.59</High>
+    <Low>36.26</Low>
+    <Close>40.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-10</Date>
+    <Open>40.74</Open>
+    <High>49.67</High>
+    <Low>40.45</Low>
+    <Close>49.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-11</Date>
+    <Open>49.36</Open>
+    <High>59.11</High>
+    <Low>48.19</Low>
+    <Close>57.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-12</Date>
+    <Open>57.05</Open>
+    <High>64.97</High>
+    <Low>53.67</Low>
+    <Close>59.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-13</Date>
+    <Open>59.27</Open>
+    <High>60.87</High>
+    <Low>47.76</Low>
+    <Close>53.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-14</Date>
+    <Open>53.15</Open>
+    <High>57.5</High>
+    <Low>49.09</Low>
+    <Close>51.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-15</Date>
+    <Open>51.54</Open>
+    <High>58.14</High>
+    <Low>50.33</Low>
+    <Close>57.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-16</Date>
+    <Open>57.88</Open>
+    <High>68.28</High>
+    <Low>57.19</Low>
+    <Close>67.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-17</Date>
+    <Open>67.57</Open>
+    <High>70.84</High>
+    <Low>60.64</Low>
+    <Close>70.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-18</Date>
+    <Open>70.06</Open>
+    <High>75.5</High>
+    <Low>67.19</Low>
+    <Close>69.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-19</Date>
+    <Open>69.01</Open>
+    <High>76.22</High>
+    <Low>66.46</Low>
+    <Close>70.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-20</Date>
+    <Open>70.07</Open>
+    <High>70.41</High>
+    <Low>55.21</Low>
+    <Close>57.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-21</Date>
+    <Open>57.33</Open>
+    <High>66.19</High>
+    <Low>53.03</Low>
+    <Close>59.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-22</Date>
+    <Open>59.02</Open>
+    <High>74.61</High>
+    <Low>57.74</Low>
+    <Close>74.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-23</Date>
+    <Open>74.04</Open>
+    <High>79.78</High>
+    <Low>72.92</Low>
+    <Close>76.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-24</Date>
+    <Open>76.52</Open>
+    <High>78.78</High>
+    <Low>66.71</Low>
+    <Close>72.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-25</Date>
+    <Open>72.41</Open>
+    <High>72.66</High>
+    <Low>67.63</Low>
+    <Close>68.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-26</Date>
+    <Open>68.36</Open>
+    <High>71.47</High>
+    <Low>61.85</Low>
+    <Close>66.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-27</Date>
+    <Open>66.87</Open>
+    <High>72.59</High>
+    <Low>65.34</Low>
+    <Close>66.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-28</Date>
+    <Open>66.32</Open>
+    <High>69.4</High>
+    <Low>61.14</Low>
+    <Close>61.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-29</Date>
+    <Open>61.51</Open>
+    <High>68.9</High>
+    <Low>61.31</Low>
+    <Close>65.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-09-30</Date>
+    <Open>65.46</Open>
+    <High>68.73</High>
+    <Low>64.32</Low>
+    <Close>66.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-01</Date>
+    <Open>66.62</Open>
+    <High>69.55</High>
+    <Low>63.22</Low>
+    <Close>67.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-02</Date>
+    <Open>67.67</Open>
+    <High>73.4</High>
+    <Low>65.83</Low>
+    <Close>69.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-03</Date>
+    <Open>69.11</Open>
+    <High>71.67</High>
+    <Low>67.81</Low>
+    <Close>68.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-04</Date>
+    <Open>68.76</Open>
+    <High>68.76</High>
+    <Low>63.99</Low>
+    <Close>65.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-05</Date>
+    <Open>65.24</Open>
+    <High>66.84</High>
+    <Low>62.84</Low>
+    <Close>64.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-06</Date>
+    <Open>64.63</Open>
+    <High>65.73</High>
+    <Low>58.63</Low>
+    <Close>60.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-07</Date>
+    <Open>60.0</Open>
+    <High>62.25</High>
+    <Low>57.48</Low>
+    <Close>61.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-08</Date>
+    <Open>61.5</Open>
+    <High>64.92</High>
+    <Low>59.81</Low>
+    <Close>60.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-09</Date>
+    <Open>60.44</Open>
+    <High>62.01</High>
+    <Low>59.74</Low>
+    <Close>60.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-10</Date>
+    <Open>60.58</Open>
+    <High>60.97</High>
+    <Low>56.19</Low>
+    <Close>56.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-11</Date>
+    <Open>56.53</Open>
+    <High>59.22</High>
+    <Low>53.86</Low>
+    <Close>55.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-12</Date>
+    <Open>55.29</Open>
+    <High>55.3</High>
+    <Low>51.16</Low>
+    <Close>54.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-13</Date>
+    <Open>54.35</Open>
+    <High>57.08</High>
+    <Low>53.26</Low>
+    <Close>55.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-14</Date>
+    <Open>55.01</Open>
+    <High>58.44</High>
+    <Low>54.94</Low>
+    <Close>56.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-15</Date>
+    <Open>56.19</Open>
+    <High>57.19</High>
+    <Low>54.59</Low>
+    <Close>56.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-16</Date>
+    <Open>56.32</Open>
+    <High>61.84</High>
+    <Low>55.7</Low>
+    <Close>57.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-17</Date>
+    <Open>57.62</Open>
+    <High>58.54</High>
+    <Low>53.68</Low>
+    <Close>56.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-18</Date>
+    <Open>56.08</Open>
+    <High>56.46</High>
+    <Low>54.15</Low>
+    <Close>55.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-19</Date>
+    <Open>55.52</Open>
+    <High>58.03</High>
+    <Low>55.13</Low>
+    <Close>56.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-20</Date>
+    <Open>56.8</Open>
+    <High>61.61</High>
+    <Low>56.7</Low>
+    <Close>59.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-21</Date>
+    <Open>59.65</Open>
+    <High>64.35</High>
+    <Low>58.89</Low>
+    <Close>61.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-22</Date>
+    <Open>61.45</Open>
+    <High>68.7</High>
+    <Low>61.36</Low>
+    <Close>65.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-23</Date>
+    <Open>65.52</Open>
+    <High>69.15</High>
+    <Low>64.55</Low>
+    <Close>65.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-24</Date>
+    <Open>65.4</Open>
+    <High>67.56</High>
+    <Low>61.96</Low>
+    <Close>64.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-25</Date>
+    <Open>64.53</Open>
+    <High>69.82</High>
+    <Low>64.37</Low>
+    <Close>69.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-26</Date>
+    <Open>69.74</Open>
+    <High>72.96</High>
+    <Low>67.66</Low>
+    <Close>68.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-27</Date>
+    <Open>68.66</Open>
+    <High>69.83</High>
+    <Low>57.85</Low>
+    <Close>61.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-28</Date>
+    <Open>61.57</Open>
+    <High>64.92</High>
+    <Low>61.49</Low>
+    <Close>64.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-29</Date>
+    <Open>64.33</Open>
+    <High>66.15</High>
+    <Low>63.46</Low>
+    <Close>64.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-30</Date>
+    <Open>64.77</Open>
+    <High>64.93</High>
+    <Low>61.08</Low>
+    <Close>62.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-10-31</Date>
+    <Open>62.34</Open>
+    <High>64.54</High>
+    <Low>60.18</Low>
+    <Close>64.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-01</Date>
+    <Open>64.53</Open>
+    <High>66.76</High>
+    <Low>62.4</Low>
+    <Close>64.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-02</Date>
+    <Open>64.99</Open>
+    <High>68.1</High>
+    <Low>64.37</Low>
+    <Close>67.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-03</Date>
+    <Open>67.82</Open>
+    <High>75.56</High>
+    <Low>67.12</Low>
+    <Close>75.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-04</Date>
+    <Open>75.56</Open>
+    <High>81.02</High>
+    <Low>74.06</Low>
+    <Close>79.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-05</Date>
+    <Open>79.08</Open>
+    <High>81.1</High>
+    <Low>72.33</Low>
+    <Close>74.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-06</Date>
+    <Open>74.25</Open>
+    <High>78.78</High>
+    <Low>72.42</Low>
+    <Close>78.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-07</Date>
+    <Open>78.77</Open>
+    <High>88.96</High>
+    <Low>78.09</Low>
+    <Close>87.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-08</Date>
+    <Open>87.66</Open>
+    <High>96.92</High>
+    <Low>83.74</Low>
+    <Close>91.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-09</Date>
+    <Open>91.16</Open>
+    <High>91.48</High>
+    <Low>87.02</Low>
+    <Close>88.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-10</Date>
+    <Open>88.32</Open>
+    <High>94.02</High>
+    <Low>78.5</Low>
+    <Close>85.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-11</Date>
+    <Open>85.22</Open>
+    <High>89.53</High>
+    <Low>83.75</Low>
+    <Close>87.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-12</Date>
+    <Open>87.89</Open>
+    <High>89.88</High>
+    <Low>81.19</Low>
+    <Close>84.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-13</Date>
+    <Open>84.81</Open>
+    <High>98.54</High>
+    <Low>84.8</Low>
+    <Close>97.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-14</Date>
+    <Open>97.47</Open>
+    <High>99.88</High>
+    <Low>91.68</Low>
+    <Close>95.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-15</Date>
+    <Open>95.4</Open>
+    <High>101.66</High>
+    <Low>92.06</Low>
+    <Close>93.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-16</Date>
+    <Open>93.67</Open>
+    <High>101.89</High>
+    <Low>83.9</Low>
+    <Close>97.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-17</Date>
+    <Open>97.84</Open>
+    <High>110.08</High>
+    <Low>91.87</Low>
+    <Close>107.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-18</Date>
+    <Open>107.76</Open>
+    <High>110.35</High>
+    <Low>92.15</Low>
+    <Close>100.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-19</Date>
+    <Open>100.69</Open>
+    <High>112.43</High>
+    <Low>96.01</Low>
+    <Close>112.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-20</Date>
+    <Open>112.07</Open>
+    <High>130.05</High>
+    <Low>111.74</Low>
+    <Close>125.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-21</Date>
+    <Open>125.93</Open>
+    <High>146.73</High>
+    <Low>123.45</Low>
+    <Close>128.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-22</Date>
+    <Open>128.6</Open>
+    <High>145.11</High>
+    <Low>126.4</Low>
+    <Close>134.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-23</Date>
+    <Open>134.96</Open>
+    <High>136.47</High>
+    <Low>121.84</Low>
+    <Close>123.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-24</Date>
+    <Open>123.88</Open>
+    <High>124.83</High>
+    <Low>112.58</Low>
+    <Close>116.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-25</Date>
+    <Open>116.82</Open>
+    <High>130.26</High>
+    <Low>114.38</Low>
+    <Close>120.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-26</Date>
+    <Open>120.18</Open>
+    <High>120.18</High>
+    <Low>101.71</Low>
+    <Close>105.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-27</Date>
+    <Open>105.04</Open>
+    <High>118.88</High>
+    <Low>103.33</Low>
+    <Close>113.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-28</Date>
+    <Open>112.95</Open>
+    <High>113.99</High>
+    <Low>101.45</Low>
+    <Close>108.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-29</Date>
+    <Open>108.52</Open>
+    <High>118.36</High>
+    <Low>108.52</Low>
+    <Close>117.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-11-30</Date>
+    <Open>117.7</Open>
+    <High>124.92</High>
+    <Low>114.41</Low>
+    <Close>120.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-01</Date>
+    <Open>120.49</Open>
+    <High>127.57</High>
+    <Low>117.49</Low>
+    <Close>118.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-02</Date>
+    <Open>119.12</Open>
+    <High>119.83</High>
+    <Low>110.38</Low>
+    <Close>110.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-03</Date>
+    <Open>110.49</Open>
+    <High>113.25</High>
+    <Low>100.0</Low>
+    <Close>105.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-04</Date>
+    <Open>105.8</Open>
+    <High>108.82</High>
+    <Low>80.01</Low>
+    <Close>92.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-05</Date>
+    <Open>92.46</Open>
+    <High>95.49</High>
+    <Low>82.61</Low>
+    <Close>85.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-06</Date>
+    <Open>85.03</Open>
+    <High>95.0</High>
+    <Low>77.0</Low>
+    <Close>92.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-07</Date>
+    <Open>93.15</Open>
+    <High>96.72</High>
+    <Low>88.11</Low>
+    <Close>88.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-08</Date>
+    <Open>88.37</Open>
+    <High>93.11</High>
+    <Low>86.76</Low>
+    <Close>91.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-09</Date>
+    <Open>91.53</Open>
+    <High>94.64</High>
+    <Low>83.32</Low>
+    <Close>86.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-10</Date>
+    <Open>86.56</Open>
+    <High>91.73</High>
+    <Low>82.6</Low>
+    <Close>83.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-11</Date>
+    <Open>83.8</Open>
+    <High>87.14</High>
+    <Low>78.88</Low>
+    <Close>85.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-12</Date>
+    <Open>85.59</Open>
+    <High>88.93</High>
+    <Low>83.06</Low>
+    <Close>87.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-13</Date>
+    <Open>87.71</Open>
+    <High>89.98</High>
+    <Low>75.69</Low>
+    <Close>80.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-14</Date>
+    <Open>80.37</Open>
+    <High>86.55</High>
+    <Low>76.5</Low>
+    <Close>86.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-15</Date>
+    <Open>86.1</Open>
+    <High>105.713</High>
+    <Low>86.01</Low>
+    <Close>100.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-16</Date>
+    <Open>100.07</Open>
+    <High>110.066</High>
+    <Low>100.07</Low>
+    <Close>101.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-17</Date>
+    <Open>101.571</Open>
+    <High>115.628</High>
+    <Low>98.1494</Low>
+    <Close>113.165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-18</Date>
+    <Open>113.155</Open>
+    <High>117.387</High>
+    <Low>105.562</Low>
+    <Close>115.356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-19</Date>
+    <Open>115.326</Open>
+    <High>116.668</High>
+    <Low>106.763</Low>
+    <Close>109.735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-20</Date>
+    <Open>109.744</Open>
+    <High>116.175</High>
+    <Low>101.01</Low>
+    <Close>112.684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-21</Date>
+    <Open>112.545</Open>
+    <High>122.889</High>
+    <Low>110.693</Low>
+    <Close>122.889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-22</Date>
+    <Open>122.859</Open>
+    <High>127.321</High>
+    <Low>118.207</Low>
+    <Close>119.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-23</Date>
+    <Open>119.87</Open>
+    <High>125.077</High>
+    <Low>115.656</Low>
+    <Close>121.621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-24</Date>
+    <Open>121.631</Open>
+    <High>124.58</High>
+    <Low>114.279</Low>
+    <Close>115.859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-25</Date>
+    <Open>115.84</Open>
+    <High>116.95</High>
+    <Low>112.316</Low>
+    <Close>115.096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-26</Date>
+    <Open>115.096</Open>
+    <High>118.007</High>
+    <Low>109.434</Low>
+    <Close>116.166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-27</Date>
+    <Open>116.238</Open>
+    <High>121.021</High>
+    <Low>113.694</Low>
+    <Close>114.994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-28</Date>
+    <Open>114.984</Open>
+    <High>116.705</High>
+    <Low>104.37</Low>
+    <Close>109.312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-29</Date>
+    <Open>109.402</Open>
+    <High>110.562</High>
+    <Low>102.3</Low>
+    <Close>105.431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-30</Date>
+    <Open>105.431</Open>
+    <High>105.811</High>
+    <Low>98.3197</Low>
+    <Close>101.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2021-12-31</Date>
+    <Open>101.29</Open>
+    <High>111.991</High>
+    <Low>100.35</Low>
+    <Close>111.531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-01</Date>
+    <Open>111.541</Open>
+    <High>114.511</High>
+    <Low>108.549</Low>
+    <Close>113.473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-02</Date>
+    <Open>113.493</Open>
+    <High>117.512</High>
+    <Low>112.021</Low>
+    <Close>113.543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-03</Date>
+    <Open>113.543</Open>
+    <High>114.133</High>
+    <Low>106.02</Low>
+    <Close>108.391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-04</Date>
+    <Open>108.331</Open>
+    <High>109.25</High>
+    <Low>103.259</Low>
+    <Close>104.679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-05</Date>
+    <Open>104.589</Open>
+    <High>106.6</High>
+    <Low>90.47</Low>
+    <Close>96.2904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-06</Date>
+    <Open>95.8204</Open>
+    <High>98.46</High>
+    <Low>91.0409</Low>
+    <Close>95.7404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-07</Date>
+    <Open>95.7683</Open>
+    <High>95.8704</High>
+    <Low>85.0515</Low>
+    <Close>86.5913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-08</Date>
+    <Open>86.5813</Open>
+    <High>89.581</High>
+    <Low>79.3221</Low>
+    <Close>84.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-09</Date>
+    <Open>84.75</Open>
+    <High>91.88</High>
+    <Low>82.49</Low>
+    <Close>89.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-10</Date>
+    <Open>89.53</Open>
+    <High>91.05</High>
+    <Low>80.322</Low>
+    <Close>83.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-11</Date>
+    <Open>83.89</Open>
+    <High>90.9791</High>
+    <Low>83.21</Low>
+    <Close>89.0789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-12</Date>
+    <Open>89.0767</Open>
+    <High>96.9091</High>
+    <Low>88.8278</Low>
+    <Close>94.7579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-13</Date>
+    <Open>94.7279</Open>
+    <High>97.2886</High>
+    <Low>89.3357</Low>
+    <Close>89.976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-14</Date>
+    <Open>89.956</Open>
+    <High>91.8159</High>
+    <Low>87.3349</Low>
+    <Close>90.3071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-15</Date>
+    <Open>90.3061</Open>
+    <High>94.4472</High>
+    <Low>89.5548</Low>
+    <Close>93.5468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-16</Date>
+    <Open>93.5468</Open>
+    <High>94.908</High>
+    <Low>91.8559</Low>
+    <Close>92.637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-17</Date>
+    <Open>92.647</Open>
+    <High>92.9472</High>
+    <Low>85.3841</Low>
+    <Close>86.5046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-18</Date>
+    <Open>86.5246</Open>
+    <High>87.425</High>
+    <Low>83.7435</Low>
+    <Close>86.4159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-19</Date>
+    <Open>86.4059</Open>
+    <High>86.7747</High>
+    <Low>81.1543</Low>
+    <Close>83.7751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-20</Date>
+    <Open>83.7651</Open>
+    <High>87.8263</High>
+    <Low>80.158</Low>
+    <Close>81.2763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-21</Date>
+    <Open>81.2862</Open>
+    <High>81.3281</High>
+    <Low>64.0328</Low>
+    <Close>65.6497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-22</Date>
+    <Open>65.8432</Open>
+    <High>67.5303</High>
+    <Low>53.6461</Low>
+    <Close>59.1777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-23</Date>
+    <Open>59.1878</Open>
+    <High>66.8734</High>
+    <Low>58.9718</Low>
+    <Close>61.7523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-24</Date>
+    <Open>61.7623</Open>
+    <High>65.3031</High>
+    <Low>55.201</Low>
+    <Close>62.9089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-25</Date>
+    <Open>62.8588</Open>
+    <High>70.5582</High>
+    <Low>61.6985</Low>
+    <Close>67.0135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-26</Date>
+    <Open>66.9735</Open>
+    <High>73.3466</High>
+    <Low>64.4286</Low>
+    <Close>65.6093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-27</Date>
+    <Open>65.6293</Open>
+    <High>67.954</High>
+    <Low>61.1544</Low>
+    <Close>63.6618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-28</Date>
+    <Open>63.7155</Open>
+    <High>67.4502</High>
+    <Low>61.7585</Low>
+    <Close>66.2533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-29</Date>
+    <Open>66.2432</Open>
+    <High>73.502</High>
+    <Low>66.2432</Low>
+    <Close>71.6215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-30</Date>
+    <Open>71.6015</Open>
+    <High>72.4017</High>
+    <Low>66.9034</Low>
+    <Close>67.9604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-01-31</Date>
+    <Open>68.0072</Open>
+    <High>70.6724</High>
+    <Low>64.2921</Low>
+    <Close>69.7148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-01</Date>
+    <Open>69.7148</Open>
+    <High>73.0465</High>
+    <Low>68.5911</Low>
+    <Close>72.5135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-02</Date>
+    <Open>72.4935</Open>
+    <High>74.8974</High>
+    <Low>67.9172</Low>
+    <Close>68.8319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-03</Date>
+    <Open>68.8119</Open>
+    <High>69.3685</High>
+    <Low>64.956</Low>
+    <Close>67.8839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-04</Date>
+    <Open>67.8239</Open>
+    <High>76.9261</High>
+    <Low>67.4737</Low>
+    <Close>75.8707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-05</Date>
+    <Open>75.8606</Open>
+    <High>80.9686</High>
+    <Low>75.09</Low>
+    <Close>77.6466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-06</Date>
+    <Open>77.6366</Open>
+    <High>79.0074</High>
+    <Low>74.1945</Low>
+    <Close>75.8703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-07</Date>
+    <Open>75.8503</Open>
+    <High>85.4568</High>
+    <Low>75.6378</Low>
+    <Close>83.6385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-08</Date>
+    <Open>83.6285</Open>
+    <High>94.9259</High>
+    <Low>81.7072</Low>
+    <Close>85.9673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-09</Date>
+    <Open>85.9773</Open>
+    <High>92.1128</High>
+    <Low>84.4175</Low>
+    <Close>90.2191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-10</Date>
+    <Open>90.2291</Open>
+    <High>95.0855</High>
+    <Low>85.068</Low>
+    <Close>91.9743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-11</Date>
+    <Open>91.9243</Open>
+    <High>92.7056</High>
+    <Low>80.032</Low>
+    <Close>80.4741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-12</Date>
+    <Open>80.4541</Open>
+    <High>84.8109</High>
+    <Low>78.7393</Low>
+    <Close>81.6908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-13</Date>
+    <Open>81.7008</Open>
+    <High>83.33</High>
+    <Low>77.5665</Low>
+    <Close>78.8173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-14</Date>
+    <Open>78.7572</Open>
+    <High>82.6496</High>
+    <Low>76.2257</Low>
+    <Close>81.649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-15</Date>
+    <Open>81.6708</Open>
+    <High>91.3748</High>
+    <Low>81.4707</Low>
+    <Close>90.5543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-16</Date>
+    <Open>90.5943</Open>
+    <High>97.3884</High>
+    <Low>90.5943</Low>
+    <Close>96.118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-17</Date>
+    <Open>96.148</Open>
+    <High>98.7492</High>
+    <Low>86.4505</Low>
+    <Close>89.1724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-18</Date>
+    <Open>89.1924</Open>
+    <High>90.014</High>
+    <Low>82.6778</Low>
+    <Close>83.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-19</Date>
+    <Open>83.33</Open>
+    <High>86.3918</High>
+    <Low>80.8604</Low>
+    <Close>84.2021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-20</Date>
+    <Open>84.1921</Open>
+    <High>85.7814</High>
+    <Low>76.6183</Low>
+    <Close>78.5893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-21</Date>
+    <Open>78.5893</Open>
+    <High>82.7313</High>
+    <Low>71.0284</Low>
+    <Close>71.9059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-22</Date>
+    <Open>71.8959</Open>
+    <High>74.4498</High>
+    <Low>67.2402</Low>
+    <Close>72.6363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-23</Date>
+    <Open>72.6563</Open>
+    <High>82.5413</High>
+    <Low>72.5135</Low>
+    <Close>75.7954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-24</Date>
+    <Open>75.7954</Open>
+    <High>79.7699</High>
+    <Low>64.5222</Low>
+    <Close>74.4398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-25</Date>
+    <Open>74.4298</Open>
+    <High>80.9004</High>
+    <Low>72.7191</Low>
+    <Close>80.6203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-26</Date>
+    <Open>80.5803</Open>
+    <High>84.984</High>
+    <Low>78.0812</Low>
+    <Close>81.8927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-27</Date>
+    <Open>81.8727</Open>
+    <High>82.3812</High>
+    <Low>73.1092</Low>
+    <Close>75.2276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-02-28</Date>
+    <Open>75.1901</Open>
+    <High>85.7328</High>
+    <Low>71.946</Low>
+    <Close>83.2133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-01</Date>
+    <Open>83.1032</Open>
+    <High>90.8263</High>
+    <Low>83.0932</Low>
+    <Close>86.1558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-02</Date>
+    <Open>86.1458</Open>
+    <High>89.967</High>
+    <Low>82.3147</Low>
+    <Close>83.7067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-03</Date>
+    <Open>83.6951</Open>
+    <High>84.4953</High>
+    <Low>77.0654</Low>
+    <Close>79.3059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-04</Date>
+    <Open>79.3338</Open>
+    <High>82.2447</High>
+    <Low>74.9625</Low>
+    <Close>75.7927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-05</Date>
+    <Open>75.7827</Open>
+    <High>78.6936</High>
+    <Low>73.4147</Low>
+    <Close>77.5232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-06</Date>
+    <Open>77.4432</Open>
+    <High>77.4432</High>
+    <Low>72.6418</Low>
+    <Close>73.7421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-07</Date>
+    <Open>73.7421</Open>
+    <High>76.5353</High>
+    <Low>70.3911</Low>
+    <Close>71.9916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-08</Date>
+    <Open>72.0016</Open>
+    <High>76.6053</High>
+    <Low>71.2242</Low>
+    <Close>72.4845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-09</Date>
+    <Open>72.4845</Open>
+    <High>80.4161</High>
+    <Low>72.3545</Low>
+    <Close>76.8877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-10</Date>
+    <Open>76.9154</Open>
+    <High>79.0158</High>
+    <Low>71.8215</Low>
+    <Close>73.9696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-11</Date>
+    <Open>73.9696</Open>
+    <High>76.9408</High>
+    <Low>70.8142</Low>
+    <Close>71.8744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-12</Date>
+    <Open>71.8744</Open>
+    <High>73.6247</High>
+    <Low>70.9271</Low>
+    <Close>71.3571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-13</Date>
+    <Open>71.3371</Open>
+    <High>71.9944</High>
+    <Low>67.6603</Low>
+    <Close>67.6703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-14</Date>
+    <Open>67.6335</Open>
+    <High>71.5143</High>
+    <Low>65.5631</Low>
+    <Close>67.5935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-15</Date>
+    <Open>67.6135</Open>
+    <High>72.2544</High>
+    <Low>66.1032</Low>
+    <Close>70.2511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-16</Date>
+    <Open>70.2711</Open>
+    <High>74.7324</High>
+    <Low>68.0836</Low>
+    <Close>72.9519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-17</Date>
+    <Open>72.9419</Open>
+    <High>81.7345</High>
+    <Low>72.8919</Low>
+    <Close>79.8099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-18</Date>
+    <Open>79.7999</Open>
+    <High>86.8821</High>
+    <Low>76.5106</Low>
+    <Close>85.7429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-19</Date>
+    <Open>85.6828</Open>
+    <High>92.4154</High>
+    <Low>85.2997</Low>
+    <Close>89.956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-20</Date>
+    <Open>89.986</Open>
+    <High>90.2251</High>
+    <Low>84.5838</Low>
+    <Close>86.6146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-21</Date>
+    <Open>86.6546</Open>
+    <High>92.5362</High>
+    <Low>83.0732</Low>
+    <Close>86.8047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-22</Date>
+    <Open>86.7847</Open>
+    <High>89.9249</High>
+    <Low>84.7223</Low>
+    <Close>85.5628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-23</Date>
+    <Open>85.5127</Open>
+    <High>87.1348</High>
+    <Low>82.2611</Low>
+    <Close>85.5742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-24</Date>
+    <Open>85.6342</Open>
+    <High>88.3253</High>
+    <Low>83.7035</Low>
+    <Close>87.0848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-25</Date>
+    <Open>87.0648</Open>
+    <High>87.8339</High>
+    <Low>82.4129</Low>
+    <Close>83.1516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-26</Date>
+    <Open>83.1332</Open>
+    <High>86.7734</High>
+    <Low>82.5012</Low>
+    <Close>85.6242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-27</Date>
+    <Open>85.6242</Open>
+    <High>88.7655</High>
+    <Low>84.4422</Low>
+    <Close>88.2353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-28</Date>
+    <Open>88.2865</Open>
+    <High>96.2489</High>
+    <Low>87.5163</Low>
+    <Close>92.587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-29</Date>
+    <Open>92.6556</Open>
+    <High>96.4789</High>
+    <Low>88.7666</Low>
+    <Close>91.2656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-30</Date>
+    <Open>91.2365</Open>
+    <High>100.49</High>
+    <Low>89.5358</Low>
+    <Close>96.0988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-03-31</Date>
+    <Open>96.0988</Open>
+    <High>101.96</High>
+    <Low>93.7381</Low>
+    <Close>95.9292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-01</Date>
+    <Open>95.9388</Open>
+    <High>99.8099</High>
+    <Low>90.4271</Low>
+    <Close>97.7791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-02</Date>
+    <Open>97.7191</Open>
+    <High>103.641</High>
+    <Low>95.7291</Low>
+    <Close>98.1392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-03</Date>
+    <Open>98.0892</Open>
+    <High>100.13</High>
+    <Low>94.6584</Low>
+    <Close>98.1893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-04</Date>
+    <Open>98.3195</Open>
+    <High>99.8999</High>
+    <Low>90.9882</Low>
+    <Close>94.9285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-05</Date>
+    <Open>94.9285</Open>
+    <High>97.6993</High>
+    <Low>91.9192</Low>
+    <Close>92.5385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-06</Date>
+    <Open>92.5492</Open>
+    <High>92.6085</High>
+    <Low>83.07</Low>
+    <Close>85.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-07</Date>
+    <Open>85.28</Open>
+    <High>88.63</High>
+    <Low>81.35</Low>
+    <Close>87.1187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-08</Date>
+    <Open>87.0987</Open>
+    <High>90.5572</High>
+    <Low>84.8254</Low>
+    <Close>84.924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-09</Date>
+    <Open>84.8939</Open>
+    <High>85.5842</High>
+    <Low>81.9064</Low>
+    <Close>83.445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-10</Date>
+    <Open>83.445</Open>
+    <High>85.6757</High>
+    <Low>82.5848</Low>
+    <Close>83.5967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-11</Date>
+    <Open>83.5367</Open>
+    <High>83.9484</High>
+    <Low>72.9119</Low>
+    <Close>72.9419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-12</Date>
+    <Open>72.9719</Open>
+    <High>79.5159</High>
+    <Low>72.7618</Low>
+    <Close>75.6827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-13</Date>
+    <Open>75.6927</Open>
+    <High>80.6742</High>
+    <Low>74.855</Low>
+    <Close>79.864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-14</Date>
+    <Open>79.864</Open>
+    <High>81.8745</High>
+    <Low>76.1928</Low>
+    <Close>77.4778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-15</Date>
+    <Open>77.4577</Open>
+    <High>78.5378</High>
+    <Low>74.7749</Low>
+    <Close>77.1754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-16</Date>
+    <Open>77.1654</Open>
+    <High>78.2457</High>
+    <Low>76.5153</Low>
+    <Close>77.7355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-17</Date>
+    <Open>77.8156</Open>
+    <High>78.6957</High>
+    <Low>76.8377</Low>
+    <Close>77.3555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-18</Date>
+    <Open>77.3255</Open>
+    <High>77.9734</High>
+    <Low>71.7372</Low>
+    <Close>77.4832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-19</Date>
+    <Open>77.5032</Open>
+    <High>81.1062</High>
+    <Low>76.833</Low>
+    <Close>79.5359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-20</Date>
+    <Open>79.4959</Open>
+    <High>81.3181</High>
+    <Low>77.4977</Low>
+    <Close>78.6357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-21</Date>
+    <Open>78.6457</Open>
+    <High>80.176</High>
+    <Low>75.285</Low>
+    <Close>75.3875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-22</Date>
+    <Open>75.3575</Open>
+    <High>77.2354</High>
+    <Low>73.3547</Low>
+    <Close>74.2374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-23</Date>
+    <Open>74.2348</Open>
+    <High>74.5349</High>
+    <Low>73.0346</Low>
+    <Close>73.7147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-24</Date>
+    <Open>73.7147</Open>
+    <High>73.8248</High>
+    <Low>71.1742</Low>
+    <Close>72.3945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-25</Date>
+    <Open>72.3945</Open>
+    <High>72.6145</High>
+    <Low>67.3835</Low>
+    <Close>72.0544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-26</Date>
+    <Open>72.0544</Open>
+    <High>73.1873</High>
+    <Low>67.5935</Low>
+    <Close>69.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-27</Date>
+    <Open>69.487</Open>
+    <High>71.97</High>
+    <Low>68.0968</Low>
+    <Close>69.607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-28</Date>
+    <Open>69.647</Open>
+    <High>70.74</High>
+    <Low>67.2</Low>
+    <Close>67.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-29</Date>
+    <Open>67.39</Open>
+    <High>67.9868</High>
+    <Low>62.29</Low>
+    <Close>63.0863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-04-30</Date>
+    <Open>63.0963</Open>
+    <High>64.65</High>
+    <Low>57.91</Low>
+    <Close>57.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-01</Date>
+    <Open>57.91</Open>
+    <High>61.13</High>
+    <Low>55.05</Low>
+    <Close>58.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-02</Date>
+    <Open>58.69</Open>
+    <High>62.4663</High>
+    <Low>56.74</Low>
+    <Close>60.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-03</Date>
+    <Open>60.8361</Open>
+    <High>62.5262</High>
+    <Low>58.1342</Low>
+    <Close>59.2841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-04</Date>
+    <Open>59.2841</Open>
+    <High>67.59</High>
+    <Low>59.1782</Low>
+    <Close>66.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-05</Date>
+    <Open>66.87</Open>
+    <High>69.4761</High>
+    <Low>56.8143</Low>
+    <Close>59.2981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-06</Date>
+    <Open>59.3181</Open>
+    <High>59.3841</High>
+    <Low>54.9945</Low>
+    <Close>56.8043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-07</Date>
+    <Open>56.8043</Open>
+    <High>57.4943</High>
+    <Low>55.119</Low>
+    <Close>55.129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-08</Date>
+    <Open>55.0545</Open>
+    <High>55.8644</High>
+    <Low>50.6497</Low>
+    <Close>52.7142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-09</Date>
+    <Open>52.7142</Open>
+    <High>53.0394</High>
+    <Low>42.1873</Low>
+    <Close>44.3211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-10</Date>
+    <Open>44.4311</Open>
+    <High>50.3099</High>
+    <Low>40.064</Low>
+    <Close>42.503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-11</Date>
+    <Open>42.493</Open>
+    <High>46.1669</High>
+    <Low>26.9236</Low>
+    <Close>30.168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-12</Date>
+    <Open>29.9886</Open>
+    <High>33.7676</High>
+    <Low>22.3988</Low>
+    <Close>28.9387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-13</Date>
+    <Open>28.9317</Open>
+    <High>37.8659</High>
+    <Low>28.2036</Low>
+    <Close>33.5928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-14</Date>
+    <Open>33.5728</Open>
+    <High>34.641</High>
+    <Low>29.2214</Low>
+    <Close>32.7408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-15</Date>
+    <Open>32.7241</Open>
+    <High>36.3663</High>
+    <Low>31.8422</Low>
+    <Close>36.3427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-16</Date>
+    <Open>36.3327</Open>
+    <High>36.9256</High>
+    <Low>31.469</Low>
+    <Close>33.7461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-17</Date>
+    <Open>33.9059</Open>
+    <High>35.7107</High>
+    <Low>32.2081</Low>
+    <Close>34.0357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-18</Date>
+    <Open>34.0257</Open>
+    <High>35.1178</High>
+    <Low>30.0139</Low>
+    <Close>30.6201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-19</Date>
+    <Open>30.6501</Open>
+    <High>31.7614</High>
+    <Low>27.4897</Low>
+    <Close>29.6203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-20</Date>
+    <Open>29.6203</Open>
+    <High>31.8245</High>
+    <Low>27.8038</Low>
+    <Close>28.9923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-21</Date>
+    <Open>28.9952</Open>
+    <High>30.5602</High>
+    <Low>28.1662</Low>
+    <Close>29.182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-22</Date>
+    <Open>29.172</Open>
+    <High>32.6208</High>
+    <Low>28.9723</Low>
+    <Close>30.9328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-23</Date>
+    <Open>30.9528</Open>
+    <High>32.9737</High>
+    <Low>29.7542</Low>
+    <Close>29.964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-24</Date>
+    <Open>29.961</Open>
+    <High>29.961</High>
+    <Low>26.8804</Low>
+    <Close>28.9823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-25</Date>
+    <Open>29.0023</Open>
+    <High>29.6374</High>
+    <Low>27.1401</Low>
+    <Close>27.6768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-26</Date>
+    <Open>27.6768</Open>
+    <High>27.9692</High>
+    <Low>22.8848</Low>
+    <Close>24.4131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-27</Date>
+    <Open>24.4131</Open>
+    <High>24.5854</High>
+    <Low>21.3765</Low>
+    <Close>22.7272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-28</Date>
+    <Open>22.6973</Open>
+    <High>25.6625</High>
+    <Low>22.1425</Low>
+    <Close>24.8908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-29</Date>
+    <Open>24.9208</Open>
+    <High>26.9722</High>
+    <Low>23.6937</Low>
+    <Close>25.9115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-30</Date>
+    <Open>25.9214</Open>
+    <High>28.3502</High>
+    <Low>25.3121</Low>
+    <Close>27.7078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-05-31</Date>
+    <Open>27.7306</Open>
+    <High>29.0638</High>
+    <Low>25.5396</Low>
+    <Close>26.259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-01</Date>
+    <Open>26.2897</Open>
+    <High>27.01</High>
+    <Low>23.2744</Low>
+    <Close>23.6887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-02</Date>
+    <Open>23.6784</Open>
+    <High>24.6578</High>
+    <Low>22.5175</Low>
+    <Close>24.458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-03</Date>
+    <Open>24.468</Open>
+    <High>24.8776</High>
+    <Low>22.5011</Low>
+    <Close>23.2697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-04</Date>
+    <Open>23.2697</Open>
+    <High>24.4009</High>
+    <Low>22.117</Low>
+    <Close>24.1117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-05</Date>
+    <Open>24.1217</Open>
+    <High>25.1709</High>
+    <Low>23.9132</Low>
+    <Close>24.7967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-06</Date>
+    <Open>24.8366</Open>
+    <High>27.7542</High>
+    <Low>24.0271</Low>
+    <Close>26.2277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-07</Date>
+    <Open>26.219</Open>
+    <High>26.219</High>
+    <Low>23.1108</Low>
+    <Close>25.1993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-08</Date>
+    <Open>25.1896</Open>
+    <High>25.3955</High>
+    <Low>23.7548</Low>
+    <Close>24.4041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-09</Date>
+    <Open>24.4141</Open>
+    <High>25.3507</High>
+    <Low>23.7115</Low>
+    <Close>24.3995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-10</Date>
+    <Open>24.3795</Open>
+    <High>24.8499</High>
+    <Low>22.2455</Low>
+    <Close>22.5611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-11</Date>
+    <Open>22.5511</Open>
+    <High>22.9951</High>
+    <Low>19.6454</Low>
+    <Close>20.337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-12</Date>
+    <Open>20.327</Open>
+    <High>20.5567</High>
+    <Low>17.5153</Low>
+    <Close>18.2276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-13</Date>
+    <Open>18.2276</Open>
+    <High>18.2677</High>
+    <Low>14.5685</Low>
+    <Close>15.9977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-14</Date>
+    <Open>16.0077</Open>
+    <High>17.0437</High>
+    <Low>14.6581</Low>
+    <Close>15.6812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-15</Date>
+    <Open>15.6712</Open>
+    <High>17.8703</High>
+    <Low>14.5338</Low>
+    <Close>17.7034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-16</Date>
+    <Open>17.6834</Open>
+    <High>18.1064</High>
+    <Low>15.7711</Low>
+    <Close>16.427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-17</Date>
+    <Open>15.8679</Open>
+    <High>16.6973</High>
+    <Low>15.4883</Low>
+    <Close>16.1106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-18</Date>
+    <Open>16.1206</Open>
+    <High>16.2808</High>
+    <Low>13.7863</Low>
+    <Close>14.4965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-19</Date>
+    <Open>14.4864</Open>
+    <High>16.3304</High>
+    <Low>13.7204</Low>
+    <Close>16.149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-20</Date>
+    <Open>16.159</Open>
+    <High>17.8286</High>
+    <Low>15.3216</Low>
+    <Close>16.8015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-21</Date>
+    <Open>16.8215</Open>
+    <High>18.4652</High>
+    <Low>16.5102</Low>
+    <Close>17.0213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-22</Date>
+    <Open>17.0213</Open>
+    <High>17.3726</High>
+    <Low>15.954</Low>
+    <Close>16.3436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-23</Date>
+    <Open>16.3436</Open>
+    <High>18.3117</High>
+    <Low>16.014</Low>
+    <Close>17.8821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-24</Date>
+    <Open>17.8821</Open>
+    <High>20.734</High>
+    <Low>17.8821</Low>
+    <Close>20.5839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-25</Date>
+    <Open>20.5839</Open>
+    <High>21.6531</High>
+    <Low>19.8565</Low>
+    <Close>21.445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-26</Date>
+    <Open>21.465</Open>
+    <High>22.0359</High>
+    <Low>20.0877</Low>
+    <Close>20.6274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-27</Date>
+    <Open>20.6274</Open>
+    <High>21.3657</High>
+    <Low>19.1721</Low>
+    <Close>19.3328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-28</Date>
+    <Open>19.3428</Open>
+    <High>20.5015</High>
+    <Low>18.5209</Low>
+    <Close>18.7569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-29</Date>
+    <Open>18.7567</Open>
+    <High>18.7567</High>
+    <Low>17.1675</Low>
+    <Close>17.7685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-06-30</Date>
+    <Open>17.7687</Open>
+    <High>17.9285</High>
+    <Low>15.7896</Low>
+    <Close>16.2005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-01</Date>
+    <Open>16.2005</Open>
+    <High>17.6288</High>
+    <Low>15.7779</Low>
+    <Close>16.342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-02</Date>
+    <Open>16.332</Open>
+    <High>16.5801</High>
+    <Low>15.9508</Low>
+    <Close>16.5301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-04</Date>
+    <Open>17.1694</Open>
+    <High>17.7687</High>
+    <Low>17.0795</Low>
+    <Close>17.7087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-05</Date>
+    <Open>17.7087</Open>
+    <High>18.3398</High>
+    <Low>16.64</Low>
+    <Close>18.2999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-06</Date>
+    <Open>18.2999</Open>
+    <High>19.3487</High>
+    <Low>17.7704</Low>
+    <Close>18.8992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-07</Date>
+    <Open>18.8892</Open>
+    <High>20.5773</High>
+    <Low>18.8393</Low>
+    <Close>20.2778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-08</Date>
+    <Open>20.2778</Open>
+    <High>21.0831</High>
+    <Low>19.4183</Low>
+    <Close>19.8881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-09</Date>
+    <Open>19.8781</Open>
+    <High>20.2478</High>
+    <Low>19.5183</Low>
+    <Close>20.0879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-10</Date>
+    <Open>20.0759</Open>
+    <High>20.1579</High>
+    <Low>18.7487</Low>
+    <Close>19.2984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-11</Date>
+    <Open>19.2784</Open>
+    <High>19.2884</High>
+    <Low>17.8721</Low>
+    <Close>17.8939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-12</Date>
+    <Open>17.9039</Open>
+    <High>18.0519</High>
+    <Low>17.0113</Low>
+    <Close>17.0429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-13</Date>
+    <Open>17.0329</Open>
+    <High>18.2417</High>
+    <Low>16.352</Low>
+    <Close>18.1037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-14</Date>
+    <Open>18.1037</Open>
+    <High>19.966</High>
+    <Low>17.774</Low>
+    <Close>19.4683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-15</Date>
+    <Open>19.4583</Open>
+    <High>20.2678</High>
+    <Low>19.0786</Low>
+    <Close>19.7741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-16</Date>
+    <Open>19.8041</Open>
+    <High>21.3957</High>
+    <Low>18.6825</Low>
+    <Close>21.0137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-17</Date>
+    <Open>21.0358</Open>
+    <High>22.0951</High>
+    <Low>20.7361</Low>
+    <Close>21.0945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-18</Date>
+    <Open>21.1045</Open>
+    <High>24.3088</High>
+    <Low>20.5636</Low>
+    <Close>22.7348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-19</Date>
+    <Open>22.7248</Open>
+    <High>26.28</High>
+    <Low>22.5846</Low>
+    <Close>25.244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-20</Date>
+    <Open>25.244</Open>
+    <High>26.344</High>
+    <Low>23.4479</Low>
+    <Close>24.3912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-21</Date>
+    <Open>24.4012</Open>
+    <High>25.4541</High>
+    <Low>22.6429</Low>
+    <Close>25.0463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-22</Date>
+    <Open>25.0463</Open>
+    <High>25.5551</High>
+    <Low>23.6026</Low>
+    <Close>23.9353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-23</Date>
+    <Open>23.9453</Open>
+    <High>24.6522</High>
+    <Low>22.8398</Low>
+    <Close>23.1044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-24</Date>
+    <Open>23.1044</Open>
+    <High>24.261</High>
+    <Low>23.0923</Low>
+    <Close>24.1546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-25</Date>
+    <Open>24.1448</Open>
+    <High>24.4749</High>
+    <Low>21.2623</Low>
+    <Close>21.7817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-26</Date>
+    <Open>21.772</Open>
+    <High>21.8022</High>
+    <Low>19.5608</Low>
+    <Close>20.0228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-27</Date>
+    <Open>20.0128</Open>
+    <High>23.3691</High>
+    <Low>19.9928</Low>
+    <Close>23.0755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-28</Date>
+    <Open>23.0755</Open>
+    <High>24.6954</High>
+    <Low>22.4431</Low>
+    <Close>24.3849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-29</Date>
+    <Open>24.3749</Open>
+    <High>25.3819</High>
+    <Low>23.487</Low>
+    <Close>24.5401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-30</Date>
+    <Open>24.5198</Open>
+    <High>25.819</High>
+    <Low>23.9184</Low>
+    <Close>24.3583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-07-31</Date>
+    <Open>24.3183</Open>
+    <High>25.225</High>
+    <Low>23.9781</Low>
+    <Close>24.3256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-01</Date>
+    <Open>24.3273</Open>
+    <High>24.4159</High>
+    <Low>22.9702</Low>
+    <Close>23.337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-02</Date>
+    <Open>23.317</Open>
+    <High>23.9872</High>
+    <Low>22.2431</Low>
+    <Close>23.1839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-03</Date>
+    <Open>23.1944</Open>
+    <High>24.1646</High>
+    <Low>22.2956</Low>
+    <Close>23.7859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-04</Date>
+    <Open>23.7871</Open>
+    <High>23.9965</High>
+    <Low>22.9016</Low>
+    <Close>23.0707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-05</Date>
+    <Open>23.0607</Open>
+    <High>24.7747</High>
+    <Low>23.0407</Low>
+    <Close>24.4946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-06</Date>
+    <Open>24.4946</Open>
+    <High>26.9048</High>
+    <Low>24.4946</Low>
+    <Close>26.6659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-07</Date>
+    <Open>26.6759</Open>
+    <High>28.4454</High>
+    <Low>25.8241</Low>
+    <Close>28.2254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-08</Date>
+    <Open>28.2354</Open>
+    <High>30.8462</High>
+    <Low>27.5736</Low>
+    <Close>28.3834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-09</Date>
+    <Open>28.3634</Open>
+    <High>28.804</High>
+    <Low>26.9859</Low>
+    <Close>27.6755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-10</Date>
+    <Open>27.6755</Open>
+    <High>30.1035</High>
+    <Low>26.6177</Low>
+    <Close>29.0684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-11</Date>
+    <Open>29.0816</Open>
+    <High>30.0959</High>
+    <Low>28.5923</Low>
+    <Close>29.0637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-12</Date>
+    <Open>29.0637</Open>
+    <High>29.3435</High>
+    <Low>28.094</Low>
+    <Close>29.0333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-13</Date>
+    <Open>29.0434</Open>
+    <High>30.3558</High>
+    <Low>28.8895</Low>
+    <Close>29.2114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-14</Date>
+    <Open>29.2014</Open>
+    <High>29.8513</High>
+    <Low>27.8873</Low>
+    <Close>28.2788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-15</Date>
+    <Open>28.2785</Open>
+    <High>29.2985</High>
+    <Low>27.3568</Low>
+    <Close>27.6466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-16</Date>
+    <Open>27.6469</Open>
+    <High>28.4137</High>
+    <Low>26.9522</Low>
+    <Close>27.3625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-17</Date>
+    <Open>27.3725</Open>
+    <High>28.2334</High>
+    <Low>25.3418</Low>
+    <Close>25.7018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-18</Date>
+    <Open>25.6918</Open>
+    <High>26.2916</High>
+    <Low>25.0422</Low>
+    <Close>25.4002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-19</Date>
+    <Open>25.3925</Open>
+    <High>25.45</High>
+    <Low>21.56</Low>
+    <Close>22.2622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-20</Date>
+    <Open>22.3122</Open>
+    <High>23.0925</High>
+    <Low>21.6252</Low>
+    <Close>22.1396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-21</Date>
+    <Open>22.1496</Open>
+    <High>23.5293</High>
+    <Low>22.0</Low>
+    <Close>23.1995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-22</Date>
+    <Open>23.1995</Open>
+    <High>23.1995</High>
+    <Low>21.6387</Low>
+    <Close>22.016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-23</Date>
+    <Open>22.026</Open>
+    <High>23.7</High>
+    <Low>21.8298</Low>
+    <Close>23.3405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-24</Date>
+    <Open>23.3477</Open>
+    <High>23.6917</High>
+    <Low>22.8202</Low>
+    <Close>23.2221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-25</Date>
+    <Open>23.2221</Open>
+    <High>23.6488</High>
+    <Low>22.7027</Low>
+    <Close>23.0307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-26</Date>
+    <Open>23.0407</Open>
+    <High>23.2021</High>
+    <Low>21.2889</Low>
+    <Close>21.4121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-27</Date>
+    <Open>21.3921</Open>
+    <High>21.4221</High>
+    <Low>19.93</Low>
+    <Close>19.9606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-28</Date>
+    <Open>19.9604</Open>
+    <High>20.4712</High>
+    <Low>19.2598</Low>
+    <Close>19.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-29</Date>
+    <Open>19.3</Open>
+    <High>19.3533</High>
+    <Low>17.4781</Low>
+    <Close>19.1413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-30</Date>
+    <Open>19.1515</Open>
+    <High>20.6196</High>
+    <Low>18.8721</Low>
+    <Close>19.4217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-08-31</Date>
+    <Open>19.4417</Open>
+    <High>20.0602</High>
+    <Low>19.1606</Low>
+    <Close>19.4398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-01</Date>
+    <Open>19.4498</Open>
+    <High>19.4704</High>
+    <Low>18.3788</Low>
+    <Close>19.1588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-02</Date>
+    <Open>19.1689</Open>
+    <High>19.6621</High>
+    <Low>18.6814</Low>
+    <Close>18.9047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-03</Date>
+    <Open>18.9129</Open>
+    <High>19.0118</High>
+    <Low>18.6216</Low>
+    <Close>18.7899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-04</Date>
+    <Open>18.7899</Open>
+    <High>19.1499</High>
+    <Low>18.7301</Low>
+    <Close>18.9813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-05</Date>
+    <Open>18.84</Open>
+    <High>18.8819</High>
+    <Low>18.45</Low>
+    <Close>18.8719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-06</Date>
+    <Open>18.8719</Open>
+    <High>20.472</High>
+    <Low>18.19</Low>
+    <Close>18.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-07</Date>
+    <Open>18.4</Open>
+    <High>19.3119</High>
+    <Low>17.8495</Low>
+    <Close>19.0813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-08</Date>
+    <Open>19.0913</Open>
+    <High>19.1619</High>
+    <Low>18.4117</Low>
+    <Close>18.993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-09</Date>
+    <Open>19.013</Open>
+    <High>20.448</High>
+    <Low>18.9123</Low>
+    <Close>20.2269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-10</Date>
+    <Open>20.214</Open>
+    <High>21.1753</High>
+    <Low>20.0474</Low>
+    <Close>20.3739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-11</Date>
+    <Open>20.3839</Open>
+    <High>20.9559</High>
+    <Low>19.9678</Low>
+    <Close>20.3049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-12</Date>
+    <Open>20.3049</Open>
+    <High>21.9144</High>
+    <Low>20.0646</Low>
+    <Close>21.1838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-13</Date>
+    <Open>21.1738</Open>
+    <High>21.7959</High>
+    <Low>18.9415</Low>
+    <Close>19.1704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-14</Date>
+    <Open>19.1402</Open>
+    <High>19.3112</High>
+    <Low>18.4504</Low>
+    <Close>19.1548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-15</Date>
+    <Open>19.1448</Open>
+    <High>19.3629</High>
+    <Low>18.176</Low>
+    <Close>18.3683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-16</Date>
+    <Open>18.3683</Open>
+    <High>18.3791</High>
+    <Low>17.5565</Low>
+    <Close>18.0282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-17</Date>
+    <Open>18.0382</Open>
+    <High>18.5919</High>
+    <Low>17.9982</Low>
+    <Close>18.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-18</Date>
+    <Open>18.41</Open>
+    <High>18.7719</High>
+    <Low>16.2984</Low>
+    <Close>16.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-19</Date>
+    <Open>16.86</Open>
+    <High>17.3717</High>
+    <Low>16.3884</Low>
+    <Close>17.2717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-20</Date>
+    <Open>17.2617</Open>
+    <High>17.4217</High>
+    <Low>16.6317</Low>
+    <Close>16.7517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-21</Date>
+    <Open>16.7302</Open>
+    <High>17.92</High>
+    <Low>16.3</Low>
+    <Close>16.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-22</Date>
+    <Open>16.42</Open>
+    <High>17.85</High>
+    <Low>16.2016</Low>
+    <Close>17.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-23</Date>
+    <Open>17.54</Open>
+    <High>18.24</High>
+    <Low>17.1583</Low>
+    <Close>17.8582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-24</Date>
+    <Open>17.8682</Open>
+    <High>18.1894</High>
+    <Low>17.6519</Low>
+    <Close>17.6814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-25</Date>
+    <Open>17.6714</Open>
+    <High>17.8718</High>
+    <Low>17.2198</Low>
+    <Close>17.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-26</Date>
+    <Open>17.23</Open>
+    <High>17.59</High>
+    <Low>16.9717</Low>
+    <Close>17.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-27</Date>
+    <Open>17.34</Open>
+    <High>18.48</High>
+    <Low>17.0483</Low>
+    <Close>17.1483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-28</Date>
+    <Open>17.1383</Open>
+    <High>17.45</High>
+    <Low>16.7283</Low>
+    <Close>17.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-29</Date>
+    <Open>17.34</Open>
+    <High>17.39</High>
+    <Low>16.89</Low>
+    <Close>17.2017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-09-30</Date>
+    <Open>17.22</Open>
+    <High>17.74</High>
+    <Low>17.13</Low>
+    <Close>17.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-01</Date>
+    <Open>17.17</Open>
+    <High>17.3017</High>
+    <Low>16.89</Low>
+    <Close>16.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-02</Date>
+    <Open>16.9717</Open>
+    <High>17.15</High>
+    <Low>16.66</Low>
+    <Close>16.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-03</Date>
+    <Open>16.71</Open>
+    <High>17.1034</High>
+    <Low>16.34</Low>
+    <Close>17.0317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-04</Date>
+    <Open>17.0551</Open>
+    <High>17.5553</High>
+    <Low>16.9817</Low>
+    <Close>17.4252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-05</Date>
+    <Open>17.4235</Open>
+    <High>17.4953</High>
+    <Low>16.95</Low>
+    <Close>17.2617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-06</Date>
+    <Open>17.2435</Open>
+    <High>17.6728</High>
+    <Low>17.062</Low>
+    <Close>17.0631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-07</Date>
+    <Open>17.0329</Open>
+    <High>17.1628</High>
+    <Low>16.7202</Low>
+    <Close>16.9224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-08</Date>
+    <Open>16.9222</Open>
+    <High>16.9922</High>
+    <Low>16.6638</Low>
+    <Close>16.7043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-09</Date>
+    <Open>16.7344</Open>
+    <High>16.9934</High>
+    <Low>16.674</Low>
+    <Close>16.9834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-10</Date>
+    <Open>16.9617</Open>
+    <High>17.2134</High>
+    <Low>16.5284</Low>
+    <Close>16.5783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-11</Date>
+    <Open>16.59</Open>
+    <High>16.59</High>
+    <Low>15.6484</Low>
+    <Close>15.9484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-12</Date>
+    <Open>15.9584</Open>
+    <High>16.1689</High>
+    <Low>15.83</Low>
+    <Close>16.0005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-13</Date>
+    <Open>16.0105</Open>
+    <High>16.0602</High>
+    <Low>14.5188</Low>
+    <Close>15.7913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-14</Date>
+    <Open>15.7913</Open>
+    <High>16.4011</High>
+    <Low>15.5706</Low>
+    <Close>15.5906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-15</Date>
+    <Open>15.5906</Open>
+    <High>15.7708</High>
+    <Low>15.5014</Low>
+    <Close>15.5708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-16</Date>
+    <Open>15.5708</Open>
+    <High>15.87</High>
+    <Low>15.3711</Low>
+    <Close>15.6506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-17</Date>
+    <Open>15.6308</Open>
+    <High>16.2715</High>
+    <Low>15.6109</Low>
+    <Close>16.0703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-18</Date>
+    <Open>16.1003</Open>
+    <High>16.3513</High>
+    <Low>15.5603</Low>
+    <Close>15.851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-19</Date>
+    <Open>15.8209</Open>
+    <High>15.9213</High>
+    <Low>15.4201</Low>
+    <Close>15.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-20</Date>
+    <Open>15.51</Open>
+    <High>15.5605</High>
+    <Low>14.8695</Low>
+    <Close>15.3089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-21</Date>
+    <Open>15.2985</Open>
+    <High>15.59</High>
+    <Low>14.5897</Low>
+    <Close>15.5212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-22</Date>
+    <Open>15.5211</Open>
+    <High>15.9103</High>
+    <Low>15.4709</Low>
+    <Close>15.7214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-23</Date>
+    <Open>15.7313</Open>
+    <High>16.0814</High>
+    <Low>15.6003</Low>
+    <Close>15.9921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-24</Date>
+    <Open>16.1418</Open>
+    <High>16.4808</High>
+    <Low>15.6414</Low>
+    <Close>15.7506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-25</Date>
+    <Open>15.7606</Open>
+    <High>17.0515</High>
+    <Low>15.5986</Low>
+    <Close>16.6853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-26</Date>
+    <Open>16.6955</Open>
+    <High>17.3271</High>
+    <Low>16.5145</Low>
+    <Close>17.0348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-27</Date>
+    <Open>17.0348</Open>
+    <High>17.5133</High>
+    <Low>16.8324</Low>
+    <Close>17.121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-28</Date>
+    <Open>17.101</Open>
+    <High>18.3937</High>
+    <Low>16.7307</Low>
+    <Close>18.1836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-29</Date>
+    <Open>18.1736</Open>
+    <High>18.9057</High>
+    <Low>18.1736</Low>
+    <Close>18.4342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-30</Date>
+    <Open>18.4344</Open>
+    <High>18.8334</High>
+    <Low>17.9245</Low>
+    <Close>18.2236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-10-31</Date>
+    <Open>18.2337</Open>
+    <High>19.81</High>
+    <Low>18.144</Low>
+    <Close>19.2585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-01</Date>
+    <Open>19.2688</Open>
+    <High>19.4861</High>
+    <Low>18.5668</Low>
+    <Close>18.7081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-02</Date>
+    <Open>18.6979</Open>
+    <High>18.7702</High>
+    <Low>17.4293</Low>
+    <Close>17.7989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-03</Date>
+    <Open>17.7889</Open>
+    <High>18.8577</High>
+    <Low>17.7589</Low>
+    <Close>18.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-04</Date>
+    <Open>18.06</Open>
+    <High>19.6804</High>
+    <Low>17.8893</Low>
+    <Close>19.3515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-05</Date>
+    <Open>19.3414</Open>
+    <High>20.5802</High>
+    <Low>19.1817</Low>
+    <Close>19.821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-06</Date>
+    <Open>19.8212</Open>
+    <High>19.8312</High>
+    <Low>18.6519</Low>
+    <Close>18.7213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-07</Date>
+    <Open>18.6915</Open>
+    <High>18.8704</High>
+    <Low>17.7414</Low>
+    <Close>17.9622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-08</Date>
+    <Open>17.9454</Open>
+    <High>18.16</High>
+    <Low>15.0796</Low>
+    <Close>15.7772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-09</Date>
+    <Open>15.7571</Open>
+    <High>16.2797</High>
+    <Low>12.2974</Low>
+    <Close>13.0122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-10</Date>
+    <Open>12.9324</Open>
+    <High>17.2858</High>
+    <Low>12.7802</Low>
+    <Close>15.5241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-11</Date>
+    <Open>15.5365</Open>
+    <High>17.7269</High>
+    <Low>13.59</Low>
+    <Close>13.9854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-12</Date>
+    <Open>13.9856</Open>
+    <High>14.2019</High>
+    <Low>12.8868</Low>
+    <Close>13.2561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-13</Date>
+    <Open>13.2561</Open>
+    <High>13.3373</High>
+    <Low>12.6835</Low>
+    <Close>12.9718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-14</Date>
+    <Open>12.9319</Open>
+    <High>13.5923</High>
+    <Low>12.0407</Low>
+    <Close>12.9818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-15</Date>
+    <Open>12.9705</Open>
+    <High>13.986</High>
+    <Low>12.9699</Low>
+    <Close>13.4665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-16</Date>
+    <Open>13.4835</Open>
+    <High>13.7064</High>
+    <Low>12.8169</Low>
+    <Close>13.078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-17</Date>
+    <Open>13.078</Open>
+    <High>13.35</High>
+    <Low>12.6281</Low>
+    <Close>12.9999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-18</Date>
+    <Open>12.9897</Open>
+    <High>13.2792</High>
+    <Low>12.8397</Low>
+    <Close>12.9251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-19</Date>
+    <Open>12.9251</Open>
+    <High>12.9941</High>
+    <Low>12.4964</Low>
+    <Close>12.8864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-20</Date>
+    <Open>12.8966</Open>
+    <High>13.1228</High>
+    <Low>12.0665</Low>
+    <Close>12.2014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-21</Date>
+    <Open>12.2115</Open>
+    <High>12.2412</High>
+    <Low>11.558</Low>
+    <Close>11.7957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-22</Date>
+    <Open>11.7958</Open>
+    <High>12.3561</High>
+    <Low>11.4364</Low>
+    <Close>12.305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-23</Date>
+    <Open>12.305</Open>
+    <High>12.8749</High>
+    <Low>12.2838</Low>
+    <Close>12.826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-24</Date>
+    <Open>12.856</Open>
+    <High>13.3863</High>
+    <Low>12.75</Low>
+    <Close>12.929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-25</Date>
+    <Open>12.9191</Open>
+    <High>13.0318</High>
+    <Low>12.5202</Low>
+    <Close>12.8128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-26</Date>
+    <Open>12.8226</Open>
+    <High>13.2222</High>
+    <Low>12.6119</Low>
+    <Close>12.6825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-27</Date>
+    <Open>12.6725</Open>
+    <High>13.2519</High>
+    <Low>12.6725</Low>
+    <Close>13.1616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-28</Date>
+    <Open>13.1416</Open>
+    <High>13.1416</High>
+    <Low>11.9833</Low>
+    <Close>12.4853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-29</Date>
+    <Open>12.5051</Open>
+    <High>12.7135</High>
+    <Low>12.2834</Low>
+    <Close>12.5454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-11-30</Date>
+    <Open>12.5152</Open>
+    <High>13.1587</High>
+    <Low>12.4558</Low>
+    <Close>13.1105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-01</Date>
+    <Open>13.1004</Open>
+    <High>13.3213</High>
+    <Low>12.8404</Low>
+    <Close>12.8908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-02</Date>
+    <Open>12.9008</Open>
+    <High>13.6619</High>
+    <Low>12.7912</Low>
+    <Close>13.5708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-03</Date>
+    <Open>13.5808</Open>
+    <High>13.9</High>
+    <Low>13.2816</Low>
+    <Close>13.5213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-04</Date>
+    <Open>13.5113</Open>
+    <High>13.8428</High>
+    <Low>13.4013</Low>
+    <Close>13.8014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-05</Date>
+    <Open>13.8128</Open>
+    <High>14.3519</High>
+    <Low>13.44</Low>
+    <Close>13.5803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-06</Date>
+    <Open>13.5903</Open>
+    <High>13.6815</High>
+    <Low>13.4511</Low>
+    <Close>13.5097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-07</Date>
+    <Open>13.54</Open>
+    <High>13.69</High>
+    <Low>13.0005</Low>
+    <Close>13.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-08</Date>
+    <Open>13.21</Open>
+    <High>13.5228</High>
+    <Low>13.0613</Low>
+    <Close>13.4009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-09</Date>
+    <Open>13.4009</Open>
+    <High>13.6007</High>
+    <Low>13.3597</Low>
+    <Close>13.4204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-10</Date>
+    <Open>13.4107</Open>
+    <High>13.5801</High>
+    <Low>13.35</Low>
+    <Close>13.4697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-11</Date>
+    <Open>13.4699</Open>
+    <High>13.5001</High>
+    <Low>13.0513</Low>
+    <Close>13.1313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-12</Date>
+    <Open>13.1613</Open>
+    <High>13.1726</High>
+    <Low>12.5811</Low>
+    <Close>12.9912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-13</Date>
+    <Open>12.9912</Open>
+    <High>14.37</High>
+    <Low>12.5733</Low>
+    <Close>13.7267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-14</Date>
+    <Open>13.7367</Open>
+    <High>14.1899</High>
+    <Low>13.5801</Low>
+    <Close>13.7308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-15</Date>
+    <Open>13.7314</Open>
+    <High>13.8828</High>
+    <Low>13.0713</Low>
+    <Close>13.1226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-16</Date>
+    <Open>13.1326</Open>
+    <High>13.2913</High>
+    <Low>11.7835</Low>
+    <Close>12.0012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-17</Date>
+    <Open>12.0112</Open>
+    <High>12.0212</High>
+    <Low>11.5207</Low>
+    <Close>11.9115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-18</Date>
+    <Open>11.9316</Open>
+    <High>12.0304</High>
+    <Low>11.7913</Low>
+    <Close>11.9316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-19</Date>
+    <Open>11.95</Open>
+    <High>12.0919</High>
+    <Low>11.2</Low>
+    <Close>11.3298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-20</Date>
+    <Open>11.3398</Open>
+    <High>12.0398</High>
+    <Low>11.3</Low>
+    <Close>11.9505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-21</Date>
+    <Open>11.9705</Open>
+    <High>12.0004</High>
+    <Low>11.6405</Low>
+    <Close>11.6506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-22</Date>
+    <Open>11.6405</Open>
+    <High>11.8382</High>
+    <Low>11.4591</Low>
+    <Close>11.808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-23</Date>
+    <Open>11.818</Open>
+    <High>11.8786</High>
+    <Low>11.7186</Low>
+    <Close>11.7488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-24</Date>
+    <Open>11.7388</Open>
+    <High>11.8291</High>
+    <Low>11.6488</Low>
+    <Close>11.6692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-25</Date>
+    <Open>11.6712</Open>
+    <High>11.7394</High>
+    <Low>11.509</Low>
+    <Close>11.6582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-26</Date>
+    <Open>11.6586</Open>
+    <High>11.7789</High>
+    <Low>11.5674</Low>
+    <Close>11.6077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-27</Date>
+    <Open>11.5978</Open>
+    <High>11.7876</High>
+    <Low>11.5447</Low>
+    <Close>11.6155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-28</Date>
+    <Open>11.6355</Open>
+    <High>11.6652</High>
+    <Low>11.0952</Low>
+    <Close>11.164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-29</Date>
+    <Open>11.1541</Open>
+    <High>11.2145</High>
+    <Low>10.6256</Low>
+    <Close>10.895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-30</Date>
+    <Open>10.9052</Open>
+    <High>11.0149</High>
+    <Low>10.5656</Low>
+    <Close>10.8109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2022-12-31</Date>
+    <Open>10.8189</Open>
+    <High>11.0651</High>
+    <Low>10.8189</Low>
+    <Close>10.8818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-01</Date>
+    <Open>10.8769</Open>
+    <High>10.9278</High>
+    <Low>10.6458</Low>
+    <Close>10.8861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-02</Date>
+    <Open>10.8823</Open>
+    <High>11.2427</High>
+    <Low>10.7087</Low>
+    <Close>11.1233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-03</Date>
+    <Open>11.1339</Open>
+    <High>11.5535</High>
+    <Low>11.0644</Low>
+    <Close>11.3497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-04</Date>
+    <Open>11.3485</Open>
+    <High>12.2908</High>
+    <Low>11.3303</Low>
+    <Close>11.9997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-05</Date>
+    <Open>12.0044</Open>
+    <High>12.1655</High>
+    <Low>11.7088</Low>
+    <Close>11.7622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-06</Date>
+    <Open>11.7678</Open>
+    <High>11.8078</High>
+    <Low>11.3588</Low>
+    <Close>11.7607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-07</Date>
+    <Open>11.7683</Open>
+    <High>11.862</High>
+    <Low>11.6507</Low>
+    <Close>11.7039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-08</Date>
+    <Open>11.7</Open>
+    <High>12.0062</High>
+    <Low>11.5955</Low>
+    <Close>11.9926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-09</Date>
+    <Open>11.9961</Open>
+    <High>12.6474</High>
+    <Low>11.9814</Low>
+    <Close>12.2299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-10</Date>
+    <Open>12.23</Open>
+    <High>12.9487</High>
+    <Low>12.0294</Low>
+    <Close>12.7418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-11</Date>
+    <Open>12.7319</Open>
+    <High>15.6698</High>
+    <Low>12.2693</Low>
+    <Close>15.5586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-12</Date>
+    <Open>15.5786</Open>
+    <High>16.4783</High>
+    <Low>14.8082</Low>
+    <Close>15.2815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-13</Date>
+    <Open>15.2714</Open>
+    <High>16.5815</High>
+    <Low>14.9615</Low>
+    <Close>15.9014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-14</Date>
+    <Open>15.9114</Open>
+    <High>18.5428</High>
+    <Low>15.7216</Low>
+    <Close>16.8508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-15</Date>
+    <Open>16.8808</Open>
+    <High>17.0868</High>
+    <Low>16.0211</Low>
+    <Close>16.9351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-16</Date>
+    <Open>16.9368</Open>
+    <High>17.3354</High>
+    <Low>16.0611</Low>
+    <Close>16.7103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-17</Date>
+    <Open>16.7133</Open>
+    <High>18.2102</High>
+    <Low>16.6205</Low>
+    <Close>17.1219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-18</Date>
+    <Open>17.1317</Open>
+    <High>17.4116</High>
+    <Low>15.498</Low>
+    <Close>16.0792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-19</Date>
+    <Open>16.059</Open>
+    <High>16.29</High>
+    <Low>15.69</Low>
+    <Close>16.1094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-20</Date>
+    <Open>16.1194</Open>
+    <High>17.533</High>
+    <Low>15.8598</Low>
+    <Close>17.3331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-21</Date>
+    <Open>17.3331</Open>
+    <High>17.7652</High>
+    <Low>16.9454</Low>
+    <Close>17.1834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-22</Date>
+    <Open>17.1426</Open>
+    <High>18.4428</High>
+    <Low>16.793</Low>
+    <Close>17.3135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-23</Date>
+    <Open>17.2935</Open>
+    <High>18.3126</High>
+    <Low>17.2316</Low>
+    <Close>18.0529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-24</Date>
+    <Open>18.1027</Open>
+    <High>18.9625</High>
+    <Low>17.0527</Low>
+    <Close>17.1205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-25</Date>
+    <Open>17.1205</Open>
+    <High>18.2633</High>
+    <Low>16.5531</Low>
+    <Close>17.613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-26</Date>
+    <Open>17.613</Open>
+    <High>18.7717</High>
+    <Low>17.553</Low>
+    <Close>18.0914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-27</Date>
+    <Open>18.0916</Open>
+    <High>20.4259</High>
+    <Low>17.474</Low>
+    <Close>20.3177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-28</Date>
+    <Open>20.3169</Open>
+    <High>21.8116</High>
+    <Low>20.0646</Low>
+    <Close>20.5539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-29</Date>
+    <Open>20.5841</Open>
+    <High>21.1221</High>
+    <Low>20.1554</Low>
+    <Close>20.851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-30</Date>
+    <Open>20.8408</Open>
+    <High>21.2617</High>
+    <Low>19.301</Low>
+    <Close>19.6114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-01-31</Date>
+    <Open>19.6014</Open>
+    <High>20.1818</High>
+    <Low>19.319</Low>
+    <Close>19.9118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-01</Date>
+    <Open>19.9118</Open>
+    <High>21.0413</High>
+    <Low>18.7009</Low>
+    <Close>20.8013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-02</Date>
+    <Open>20.8013</Open>
+    <High>22.7836</High>
+    <Low>20.7712</Low>
+    <Close>21.4243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-03</Date>
+    <Open>21.4343</Open>
+    <High>21.9344</High>
+    <Low>20.7</Low>
+    <Close>21.3517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-04</Date>
+    <Open>21.3517</Open>
+    <High>21.6417</High>
+    <Low>20.9717</Low>
+    <Close>21.2917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-05</Date>
+    <Open>21.2917</Open>
+    <High>21.3219</High>
+    <Low>19.7153</Low>
+    <Close>20.195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-06</Date>
+    <Open>20.215</Open>
+    <High>20.43</High>
+    <Low>19.6035</Low>
+    <Close>19.9608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-07</Date>
+    <Open>19.9608</Open>
+    <High>20.7906</High>
+    <Low>19.4416</Low>
+    <Close>20.7115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-08</Date>
+    <Open>20.7112</Open>
+    <High>21.0117</High>
+    <Low>19.6712</Low>
+    <Close>20.0216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-09</Date>
+    <Open>19.9512</Open>
+    <High>20.239</High>
+    <Low>17.4535</Low>
+    <Close>17.7216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-10</Date>
+    <Open>17.7218</Open>
+    <High>18.2444</High>
+    <Low>17.4944</Low>
+    <Close>17.6826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-11</Date>
+    <Open>17.68</Open>
+    <High>18.1018</High>
+    <Low>17.6126</Low>
+    <Close>17.9818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-12</Date>
+    <Open>17.9916</Open>
+    <High>18.4818</High>
+    <Low>17.5925</Low>
+    <Close>17.8218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-13</Date>
+    <Open>17.8218</Open>
+    <High>17.8652</High>
+    <Low>16.8523</Low>
+    <Close>17.3894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-14</Date>
+    <Open>17.3896</Open>
+    <High>18.2975</High>
+    <Low>17.2184</Low>
+    <Close>18.0971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-15</Date>
+    <Open>18.1072</Open>
+    <High>19.8632</High>
+    <Low>17.9159</Low>
+    <Close>19.6637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-16</Date>
+    <Open>19.6435</Open>
+    <High>20.3825</High>
+    <Low>18.6722</Low>
+    <Close>18.6863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-17</Date>
+    <Open>18.6763</Open>
+    <High>19.651</High>
+    <Low>18.482</Low>
+    <Close>19.5119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-18</Date>
+    <Open>19.5119</Open>
+    <High>20.113</High>
+    <Low>19.2952</Low>
+    <Close>19.5833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-19</Date>
+    <Open>19.5831</Open>
+    <High>20.4137</High>
+    <Low>19.3054</Low>
+    <Close>19.9444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-20</Date>
+    <Open>19.9344</Open>
+    <High>21.3824</High>
+    <Low>19.0451</Low>
+    <Close>20.8008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-21</Date>
+    <Open>20.7908</Open>
+    <High>21.6522</High>
+    <Low>19.9618</Low>
+    <Close>20.8738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-22</Date>
+    <Open>20.8736</Open>
+    <High>21.5439</High>
+    <Low>19.5914</Low>
+    <Close>20.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-23</Date>
+    <Open>20.27</Open>
+    <High>20.7327</High>
+    <Low>19.5239</Low>
+    <Close>19.6325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-24</Date>
+    <Open>19.6129</Open>
+    <High>19.8222</High>
+    <Low>18.0413</Low>
+    <Close>18.2496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-25</Date>
+    <Open>18.2598</Open>
+    <High>18.6015</High>
+    <Low>17.4918</Low>
+    <Close>17.9212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-26</Date>
+    <Open>17.9118</Open>
+    <High>18.5715</High>
+    <Low>17.8298</Low>
+    <Close>18.3311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-27</Date>
+    <Open>18.3309</Open>
+    <High>18.6406</High>
+    <Low>17.7116</Low>
+    <Close>17.9409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-02-28</Date>
+    <Open>17.9509</Open>
+    <High>17.9711</High>
+    <Low>16.9415</Low>
+    <Close>17.1633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-01</Date>
+    <Open>17.1533</Open>
+    <High>17.8314</High>
+    <Low>16.9827</Low>
+    <Close>17.6523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-02</Date>
+    <Open>17.6523</Open>
+    <High>17.8621</High>
+    <Low>17.1286</Low>
+    <Close>17.4516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-03</Date>
+    <Open>17.4514</Open>
+    <High>17.4916</High>
+    <Low>15.8113</Low>
+    <Close>16.5812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-04</Date>
+    <Open>16.5912</Open>
+    <High>16.9009</High>
+    <Low>15.7408</Low>
+    <Close>16.0711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-05</Date>
+    <Open>16.0613</Open>
+    <High>16.5208</High>
+    <Low>16.0211</Low>
+    <Close>16.2518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-06</Date>
+    <Open>16.1918</Open>
+    <High>16.6383</High>
+    <Low>15.8227</Low>
+    <Close>16.509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-07</Date>
+    <Open>16.5079</Open>
+    <High>16.7298</High>
+    <Low>15.8594</Low>
+    <Close>16.0392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-08</Date>
+    <Open>16.0392</Open>
+    <High>16.2585</High>
+    <Low>14.9993</Low>
+    <Close>15.1291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-09</Date>
+    <Open>15.1385</Open>
+    <High>15.6825</High>
+    <Low>14.1972</Low>
+    <Close>14.2613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-10</Date>
+    <Open>14.2614</Open>
+    <High>15.1789</High>
+    <Low>13.8889</Low>
+    <Close>14.9128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-11</Date>
+    <Open>14.9134</Open>
+    <High>15.3564</High>
+    <Low>14.0404</Low>
+    <Close>14.4761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-12</Date>
+    <Open>14.466</Open>
+    <High>16.2631</High>
+    <Low>14.3339</Low>
+    <Close>16.1424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-13</Date>
+    <Open>16.1525</Open>
+    <High>16.8783</High>
+    <Low>15.5167</Low>
+    <Close>16.5759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-14</Date>
+    <Open>16.5759</Open>
+    <High>17.9832</High>
+    <Low>16.1773</Low>
+    <Close>17.1502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-15</Date>
+    <Open>17.1505</Open>
+    <High>17.5219</High>
+    <Low>15.3755</Low>
+    <Close>15.5852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-16</Date>
+    <Open>15.5651</Open>
+    <High>16.12</High>
+    <Low>15.2938</Low>
+    <Close>15.8393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-17</Date>
+    <Open>15.849</Open>
+    <High>17.382</High>
+    <Low>15.6658</Low>
+    <Close>17.3718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-18</Date>
+    <Open>17.3991</Open>
+    <High>18.2225</High>
+    <Low>16.9657</Low>
+    <Close>17.1812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-19</Date>
+    <Open>17.1714</Open>
+    <High>18.1342</High>
+    <Low>16.9283</Low>
+    <Close>17.7235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-20</Date>
+    <Open>17.7336</Open>
+    <High>17.8552</High>
+    <Low>16.7088</Low>
+    <Close>16.8513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-21</Date>
+    <Open>16.8412</Open>
+    <High>17.5991</High>
+    <Low>16.4011</Low>
+    <Close>17.4354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-22</Date>
+    <Open>17.4455</Open>
+    <High>17.9698</High>
+    <Low>16.3151</Low>
+    <Close>16.7959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-23</Date>
+    <Open>16.7959</Open>
+    <High>17.8962</High>
+    <Low>16.6266</Low>
+    <Close>17.5164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-24</Date>
+    <Open>17.5264</Open>
+    <High>17.6753</High>
+    <Low>16.688</Low>
+    <Close>17.0075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-25</Date>
+    <Open>16.9988</Open>
+    <High>17.1675</High>
+    <Low>16.3985</Low>
+    <Close>16.7362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-26</Date>
+    <Open>16.7262</Open>
+    <High>17.2955</High>
+    <Low>16.6862</Low>
+    <Close>17.0192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-27</Date>
+    <Open>17.0287</Open>
+    <High>17.1932</High>
+    <Low>16.1108</Low>
+    <Close>16.4677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-28</Date>
+    <Open>16.4377</Open>
+    <High>16.8147</High>
+    <Low>16.316</Low>
+    <Close>16.6565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-29</Date>
+    <Open>16.6365</Open>
+    <High>17.4144</High>
+    <Low>16.6263</Low>
+    <Close>17.3033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-30</Date>
+    <Open>17.3052</Open>
+    <High>17.5646</High>
+    <Low>16.9259</Low>
+    <Close>17.2548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-03-31</Date>
+    <Open>17.2848</Open>
+    <High>17.7714</High>
+    <Low>17.0863</Low>
+    <Close>17.7235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-01</Date>
+    <Open>17.7137</Open>
+    <High>17.8964</High>
+    <Low>17.5538</Low>
+    <Close>17.7559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-02</Date>
+    <Open>17.7586</Open>
+    <High>17.8521</High>
+    <Low>17.1048</Low>
+    <Close>17.2303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-03</Date>
+    <Open>17.2011</Open>
+    <High>17.4508</High>
+    <Low>16.794</Low>
+    <Close>16.9866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-04</Date>
+    <Open>16.9968</Open>
+    <High>17.6574</High>
+    <Low>16.9748</Low>
+    <Close>17.569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-05</Date>
+    <Open>17.5688</Open>
+    <High>18.3661</High>
+    <Low>17.5158</Low>
+    <Close>17.9465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-06</Date>
+    <Open>17.9466</Open>
+    <High>18.339</High>
+    <Low>17.6553</Low>
+    <Close>17.9863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-07</Date>
+    <Open>17.9765</Open>
+    <High>18.1493</High>
+    <Low>17.4399</Low>
+    <Close>17.583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-08</Date>
+    <Open>17.5842</Open>
+    <High>17.7417</High>
+    <Low>17.4474</Low>
+    <Close>17.517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-09</Date>
+    <Open>17.5041</Open>
+    <High>17.6241</High>
+    <Low>17.2622</Low>
+    <Close>17.6117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-10</Date>
+    <Open>17.6238</Open>
+    <High>17.8977</High>
+    <Low>17.3815</Low>
+    <Close>17.8095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-11</Date>
+    <Open>17.8044</Open>
+    <High>18.5569</High>
+    <Low>17.6148</Low>
+    <Close>18.2278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-12</Date>
+    <Open>18.218</Open>
+    <High>19.0182</High>
+    <Low>17.6996</Low>
+    <Close>18.2042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-13</Date>
+    <Open>18.2042</Open>
+    <High>19.04</High>
+    <Low>18.1341</Low>
+    <Close>18.8681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-14</Date>
+    <Open>18.8681</Open>
+    <High>19.3411</High>
+    <Low>18.4879</Low>
+    <Close>18.9958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-15</Date>
+    <Open>19.0058</Open>
+    <High>19.5295</High>
+    <Low>18.9553</Low>
+    <Close>19.0672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-16</Date>
+    <Open>19.0669</Open>
+    <High>20.5148</High>
+    <Low>18.8562</Low>
+    <Close>20.4939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-17</Date>
+    <Open>20.4837</Open>
+    <High>21.2634</High>
+    <Low>19.9778</Low>
+    <Close>20.5623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-18</Date>
+    <Open>20.5621</Open>
+    <High>21.5569</High>
+    <Low>20.2989</Low>
+    <Close>21.1536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-19</Date>
+    <Open>21.1634</Open>
+    <High>21.2391</High>
+    <Low>18.9571</Low>
+    <Close>19.2706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-20</Date>
+    <Open>19.2804</Open>
+    <High>19.4329</High>
+    <Low>18.2522</Low>
+    <Close>18.4218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-21</Date>
+    <Open>18.4213</Open>
+    <High>18.5613</High>
+    <Low>16.7482</Low>
+    <Close>16.7782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-22</Date>
+    <Open>16.7782</Open>
+    <High>17.3602</High>
+    <Low>16.7202</Low>
+    <Close>17.2115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-23</Date>
+    <Open>17.2215</Open>
+    <High>17.2907</High>
+    <Low>16.5728</Low>
+    <Close>16.6908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-24</Date>
+    <Open>16.6808</Open>
+    <High>17.2612</High>
+    <Low>16.551</Low>
+    <Close>16.9303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-25</Date>
+    <Open>16.9303</Open>
+    <High>17.7632</High>
+    <Low>16.75</Low>
+    <Close>17.6941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-26</Date>
+    <Open>17.6941</Open>
+    <High>18.2337</High>
+    <Low>16.4221</Low>
+    <Close>17.1855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-27</Date>
+    <Open>17.1855</Open>
+    <High>17.929</High>
+    <Low>17.0456</Low>
+    <Close>17.8159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-28</Date>
+    <Open>17.7959</Open>
+    <High>17.8361</High>
+    <Low>17.2764</Low>
+    <Close>17.5135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-29</Date>
+    <Open>17.5435</Open>
+    <High>17.7317</High>
+    <Low>17.352</Low>
+    <Close>17.4703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-04-30</Date>
+    <Open>17.5003</Open>
+    <High>17.8471</High>
+    <Low>17.1001</Low>
+    <Close>17.1998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-01</Date>
+    <Open>17.1996</Open>
+    <High>17.2685</High>
+    <Low>16.5097</Low>
+    <Close>16.6243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-02</Date>
+    <Open>16.6445</Open>
+    <High>16.9817</High>
+    <Low>16.5102</Low>
+    <Close>16.8703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-03</Date>
+    <Open>16.8905</Open>
+    <High>17.3568</High>
+    <Low>16.4254</Low>
+    <Close>17.2045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-04</Date>
+    <Open>17.2341</Open>
+    <High>17.3431</High>
+    <Low>16.7949</Low>
+    <Close>16.8661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-05</Date>
+    <Open>16.8661</Open>
+    <High>17.4264</High>
+    <Low>16.8261</Low>
+    <Close>17.3758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-06</Date>
+    <Open>17.366</Open>
+    <High>17.5075</High>
+    <Low>16.4658</Low>
+    <Close>16.699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-07</Date>
+    <Open>16.6182</Open>
+    <High>16.7422</High>
+    <Low>16.5075</Low>
+    <Close>16.5894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-08</Date>
+    <Open>16.6366</Open>
+    <High>16.6366</High>
+    <Low>14.9201</Low>
+    <Close>15.3116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-09</Date>
+    <Open>15.3417</Open>
+    <High>15.5987</High>
+    <Low>15.2452</Low>
+    <Close>15.2753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-10</Date>
+    <Open>15.3167</Open>
+    <High>15.7373</High>
+    <Low>14.7362</Low>
+    <Close>15.4955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-11</Date>
+    <Open>15.5255</Open>
+    <High>15.6056</High>
+    <Low>14.8233</Low>
+    <Close>14.995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-12</Date>
+    <Open>14.975</Open>
+    <High>15.1791</High>
+    <Low>14.6146</Low>
+    <Close>15.1621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-13</Date>
+    <Open>15.1521</Open>
+    <High>15.2206</High>
+    <Low>14.9174</Low>
+    <Close>14.9375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-14</Date>
+    <Open>14.9675</Open>
+    <High>15.1491</High>
+    <Low>14.8089</Low>
+    <Close>14.989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-15</Date>
+    <Open>14.9775</Open>
+    <High>15.3523</High>
+    <Low>14.8189</Low>
+    <Close>15.2206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-16</Date>
+    <Open>15.1806</Open>
+    <High>15.2306</High>
+    <Low>14.7459</Low>
+    <Close>14.9074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-17</Date>
+    <Open>14.896</Open>
+    <High>15.3061</High>
+    <Low>14.6559</Low>
+    <Close>15.2161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-18</Date>
+    <Open>15.2076</Open>
+    <High>15.2376</High>
+    <Low>14.4658</Low>
+    <Close>14.7659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-19</Date>
+    <Open>14.7659</Open>
+    <High>14.8319</High>
+    <Low>14.571</Low>
+    <Close>14.7143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-20</Date>
+    <Open>14.6973</Open>
+    <High>14.7232</High>
+    <Low>14.5402</Low>
+    <Close>14.6432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-21</Date>
+    <Open>14.6432</Open>
+    <High>14.7017</High>
+    <Low>14.2072</Low>
+    <Close>14.3185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-22</Date>
+    <Open>14.317</Open>
+    <High>14.7773</High>
+    <Low>14.0871</Low>
+    <Close>14.7172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-23</Date>
+    <Open>14.7074</Open>
+    <High>14.9626</High>
+    <Low>14.6004</Low>
+    <Close>14.6702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-24</Date>
+    <Open>14.6566</Open>
+    <High>14.7215</High>
+    <Low>14.0087</Low>
+    <Close>14.159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-25</Date>
+    <Open>14.1592</Open>
+    <High>14.2488</High>
+    <Low>13.7498</Low>
+    <Close>14.059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-26</Date>
+    <Open>14.0911</Open>
+    <High>14.3955</High>
+    <Low>13.9622</Low>
+    <Close>14.353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-27</Date>
+    <Open>14.3567</Open>
+    <High>14.5057</High>
+    <Low>14.2638</Low>
+    <Close>14.4853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AVAX">
+    <Date>2023-05-28</Date>
+    <Open>14.4744</Open>
+    <High>14.8239</High>
+    <Low>14.2637</Low>
+    <Close>14.7833</Close>
+  </Cryptocurrency>
+</Root>

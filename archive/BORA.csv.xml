@@ -1,0 +1,3566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-17</Date>
+    <Open>0.946357</Open>
+    <High>1.09999</High>
+    <Low>0.946357</Low>
+    <Close>1.08839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-18</Date>
+    <Open>1.05959</Open>
+    <High>1.05959</High>
+    <Low>1.05043</Low>
+    <Close>1.05043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-19</Date>
+    <Open>0.994002</Open>
+    <High>1.01899</High>
+    <Low>0.985921</Low>
+    <Close>0.985921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-20</Date>
+    <Open>0.923154</Open>
+    <High>0.923154</High>
+    <Low>0.923154</Low>
+    <Close>0.923154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-21</Date>
+    <Open>0.994995</Open>
+    <High>1.0527</High>
+    <Low>0.979459</Low>
+    <Close>1.0527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-22</Date>
+    <Open>1.02945</Open>
+    <High>1.04996</High>
+    <Low>1.0217</Low>
+    <Close>1.04996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-23</Date>
+    <Open>1.01836</Open>
+    <High>1.13039</High>
+    <Low>1.0148</Low>
+    <Close>1.13039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-24</Date>
+    <Open>1.12567</Open>
+    <High>1.12567</High>
+    <Low>1.08935</Low>
+    <Close>1.10068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-25</Date>
+    <Open>1.07561</Open>
+    <High>1.0918</High>
+    <Low>1.07253</Low>
+    <Close>1.0918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-27</Date>
+    <Open>1.05838</Open>
+    <High>1.05918</High>
+    <Low>1.05838</Low>
+    <Close>1.05918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-28</Date>
+    <Open>1.02329</Open>
+    <High>1.02329</High>
+    <Low>1.02329</Low>
+    <Close>1.02329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-29</Date>
+    <Open>0.968539</Open>
+    <High>0.968539</High>
+    <Low>0.930963</Low>
+    <Close>0.930963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-30</Date>
+    <Open>0.901314</Open>
+    <High>0.918396</High>
+    <Low>0.901314</Low>
+    <Close>0.918396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2021-12-31</Date>
+    <Open>1.01449</Open>
+    <High>1.03935</High>
+    <Low>0.97285</Low>
+    <Close>0.97285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-01</Date>
+    <Open>0.99246</Open>
+    <High>1.00401</High>
+    <Low>0.97912</Low>
+    <Close>0.980838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-02</Date>
+    <Open>0.989141</Open>
+    <High>1.05311</High>
+    <Low>0.986056</Low>
+    <Close>1.05311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-03</Date>
+    <Open>1.04732</Open>
+    <High>1.17454</High>
+    <Low>1.04732</Low>
+    <Close>1.10403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-04</Date>
+    <Open>1.22467</Open>
+    <High>1.22467</High>
+    <Low>1.09099</Low>
+    <Close>1.09865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-05</Date>
+    <Open>1.10163</Open>
+    <High>1.10163</High>
+    <Low>0.912759</Low>
+    <Close>0.912759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-06</Date>
+    <Open>0.96392</Open>
+    <High>0.96392</High>
+    <Low>0.930087</Low>
+    <Close>0.930087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-07</Date>
+    <Open>0.998707</Open>
+    <High>0.998707</High>
+    <Low>0.908272</Low>
+    <Close>0.946521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-08</Date>
+    <Open>0.932204</Open>
+    <High>0.938835</High>
+    <Low>0.932204</Low>
+    <Close>0.938835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-09</Date>
+    <Open>0.932134</Open>
+    <High>0.932134</High>
+    <Low>0.906328</Low>
+    <Close>0.906328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-10</Date>
+    <Open>0.923253</Open>
+    <High>0.926978</High>
+    <Low>0.881149</Low>
+    <Close>0.881149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-11</Date>
+    <Open>0.8592</Open>
+    <High>0.8592</High>
+    <Low>0.8592</Low>
+    <Close>0.8592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-12</Date>
+    <Open>0.91975</Open>
+    <High>0.98097</High>
+    <Low>0.913703</Low>
+    <Close>0.98097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-13</Date>
+    <Open>0.953349</Open>
+    <High>0.954194</High>
+    <Low>0.921202</Low>
+    <Close>0.921202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-14</Date>
+    <Open>0.895113</Open>
+    <High>0.895113</High>
+    <Low>0.895113</Low>
+    <Close>0.895113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-15</Date>
+    <Open>0.961195</Open>
+    <High>0.961195</High>
+    <Low>0.913303</Low>
+    <Close>0.913303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-16</Date>
+    <Open>0.907522</Open>
+    <High>0.923532</High>
+    <Low>0.898927</Low>
+    <Close>0.898927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-17</Date>
+    <Open>0.89247</Open>
+    <High>0.89247</High>
+    <Low>0.88106</Low>
+    <Close>0.88106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-18</Date>
+    <Open>0.864565</Open>
+    <High>0.864565</High>
+    <Low>0.864565</Low>
+    <Close>0.864565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-20</Date>
+    <Open>0.85199</Open>
+    <High>0.91555</High>
+    <Low>0.85199</Low>
+    <Close>0.871848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-21</Date>
+    <Open>0.844573</Open>
+    <High>0.844573</High>
+    <Low>0.795808</Low>
+    <Close>0.795808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-22</Date>
+    <Open>0.816801</Open>
+    <High>0.816801</High>
+    <Low>0.664309</Low>
+    <Close>0.71292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-23</Date>
+    <Open>0.789273</Open>
+    <High>0.79519</High>
+    <Low>0.789273</Low>
+    <Close>0.79519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-24</Date>
+    <Open>0.71491</Open>
+    <High>0.71491</High>
+    <Low>0.71491</Low>
+    <Close>0.71491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-25</Date>
+    <Open>0.781131</Open>
+    <High>0.859342</High>
+    <Low>0.781131</Low>
+    <Close>0.859342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-26</Date>
+    <Open>0.915094</Open>
+    <High>0.915094</High>
+    <Low>0.888727</Low>
+    <Close>0.888727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-27</Date>
+    <Open>0.917717</Open>
+    <High>0.942279</High>
+    <Low>0.917717</Low>
+    <Close>0.930718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-28</Date>
+    <Open>0.928018</Open>
+    <High>1.0143</High>
+    <Low>0.928018</Low>
+    <Close>0.988778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-29</Date>
+    <Open>1.02947</Open>
+    <High>1.04984</High>
+    <Low>1.02947</Low>
+    <Close>1.03744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-30</Date>
+    <Open>1.01761</Open>
+    <High>1.01761</High>
+    <Low>1.01761</Low>
+    <Close>1.01761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-01-31</Date>
+    <Open>0.979221</Open>
+    <High>0.979221</High>
+    <Low>0.979221</Low>
+    <Close>0.979221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-01</Date>
+    <Open>1.03218</Open>
+    <High>1.03218</High>
+    <Low>1.03218</Low>
+    <Close>1.03218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-02</Date>
+    <Open>1.05732</Open>
+    <High>1.05732</High>
+    <Low>1.03235</Low>
+    <Close>1.03235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-03</Date>
+    <Open>0.985733</Open>
+    <High>0.985733</High>
+    <Low>0.9696</Low>
+    <Close>0.9696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-04</Date>
+    <Open>1.01382</Open>
+    <High>1.16832</High>
+    <Low>1.01382</Low>
+    <Close>1.16832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-05</Date>
+    <Open>1.18117</Open>
+    <High>1.26524</High>
+    <Low>1.18117</Low>
+    <Close>1.26517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-06</Date>
+    <Open>1.28106</Open>
+    <High>1.31316</High>
+    <Low>1.24222</Low>
+    <Close>1.24415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-07</Date>
+    <Open>1.2947</Open>
+    <High>1.31689</High>
+    <Low>1.2947</Low>
+    <Close>1.3004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-08</Date>
+    <Open>1.31025</Open>
+    <High>1.4921</High>
+    <Low>1.15932</Low>
+    <Close>1.16134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-09</Date>
+    <Open>1.19976</Open>
+    <High>1.20818</High>
+    <Low>1.12247</Low>
+    <Close>1.13935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-10</Date>
+    <Open>1.11279</Open>
+    <High>1.11279</High>
+    <Low>1.08191</Low>
+    <Close>1.08191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-11</Date>
+    <Open>1.04398</Open>
+    <High>1.04398</High>
+    <Low>1.04398</Low>
+    <Close>1.04398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-12</Date>
+    <Open>1.03283</Open>
+    <High>1.03283</High>
+    <Low>0.99212</Low>
+    <Close>0.99212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-13</Date>
+    <Open>1.01316</Open>
+    <High>1.01316</High>
+    <Low>1.01316</Low>
+    <Close>1.01316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-14</Date>
+    <Open>0.97333</Open>
+    <High>0.97333</High>
+    <Low>0.93776</Low>
+    <Close>0.93776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-15</Date>
+    <Open>0.97873</Open>
+    <High>0.97873</High>
+    <Low>0.97873</Low>
+    <Close>0.97873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-16</Date>
+    <Open>1.02592</Open>
+    <High>1.04259</High>
+    <Low>1.02592</Low>
+    <Close>1.04259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-17</Date>
+    <Open>1.08419</Open>
+    <High>1.10299</High>
+    <Low>1.04086</Low>
+    <Close>1.05154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-18</Date>
+    <Open>0.99022</Open>
+    <High>1.01652</High>
+    <Low>0.99022</Low>
+    <Close>1.01652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-19</Date>
+    <Open>0.99147</Open>
+    <High>0.99147</High>
+    <Low>0.97837</Low>
+    <Close>0.97837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-21</Date>
+    <Open>0.9013</Open>
+    <High>0.9013</High>
+    <Low>0.9013</Low>
+    <Close>0.9013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-22</Date>
+    <Open>0.87978</Open>
+    <High>0.90587</High>
+    <Low>0.87978</Low>
+    <Close>0.90587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-23</Date>
+    <Open>0.95636</Open>
+    <High>0.95636</High>
+    <Low>0.92375</Low>
+    <Close>0.92375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-24</Date>
+    <Open>0.85108</Open>
+    <High>0.85108</High>
+    <Low>0.83214</Low>
+    <Close>0.83424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-25</Date>
+    <Open>0.91299</Open>
+    <High>0.91299</High>
+    <Low>0.91299</Low>
+    <Close>0.91299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-26</Date>
+    <Open>0.95728</Open>
+    <High>0.95728</High>
+    <Low>0.93544</Low>
+    <Close>0.95724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-02-28</Date>
+    <Open>0.920144</Open>
+    <High>0.965987</High>
+    <Low>0.920144</Low>
+    <Close>0.965987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-01</Date>
+    <Open>0.968288</Open>
+    <High>0.977008</High>
+    <Low>0.954171</Low>
+    <Close>0.977008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-02</Date>
+    <Open>0.958648</Open>
+    <High>0.958648</High>
+    <Low>0.958648</Low>
+    <Close>0.958648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-03</Date>
+    <Open>0.914714</Open>
+    <High>0.923335</High>
+    <Low>0.897841</Low>
+    <Close>0.923335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-04</Date>
+    <Open>0.871571</Open>
+    <High>0.871571</High>
+    <Low>0.852142</Low>
+    <Close>0.852142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-05</Date>
+    <Open>0.863405</Open>
+    <High>0.863405</High>
+    <Low>0.863405</Low>
+    <Close>0.863405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-07</Date>
+    <Open>0.812458</Open>
+    <High>0.83838</High>
+    <Low>0.812458</Low>
+    <Close>0.824514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-08</Date>
+    <Open>0.840467</Open>
+    <High>0.844144</High>
+    <Low>0.840467</Low>
+    <Close>0.844144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-09</Date>
+    <Open>0.878473</Open>
+    <High>0.878473</High>
+    <Low>0.878473</Low>
+    <Close>0.878473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-10</Date>
+    <Open>0.836154</Open>
+    <High>0.842013</High>
+    <Low>0.83182</Low>
+    <Close>0.842013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-13</Date>
+    <Open>0.823897</Open>
+    <High>0.823897</High>
+    <Low>0.823897</Low>
+    <Close>0.823897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-15</Date>
+    <Open>0.803921</Open>
+    <High>0.803921</High>
+    <Low>0.803921</Low>
+    <Close>0.803921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-17</Date>
+    <Open>0.831805</Open>
+    <High>0.836214</High>
+    <Low>0.830956</Low>
+    <Close>0.836214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-18</Date>
+    <Open>0.815718</Open>
+    <High>0.815718</High>
+    <Low>0.815718</Low>
+    <Close>0.815718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-19</Date>
+    <Open>0.845977</Open>
+    <High>0.850264</High>
+    <Low>0.838042</Low>
+    <Close>0.850264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-20</Date>
+    <Open>0.847969</Open>
+    <High>0.847969</High>
+    <Low>0.847969</Low>
+    <Close>0.847969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-21</Date>
+    <Open>0.839603</Open>
+    <High>0.839603</High>
+    <Low>0.839603</Low>
+    <Close>0.839603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-22</Date>
+    <Open>0.832434</Open>
+    <High>0.864261</High>
+    <Low>0.832434</Low>
+    <Close>0.864261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-23</Date>
+    <Open>0.92979</Open>
+    <High>0.92979</High>
+    <Low>0.921482</Low>
+    <Close>0.921482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-24</Date>
+    <Open>0.927718</Open>
+    <High>0.927718</High>
+    <Low>0.900164</Low>
+    <Close>0.900164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-25</Date>
+    <Open>0.923328</Open>
+    <High>0.923328</High>
+    <Low>0.910799</Low>
+    <Close>0.913666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-26</Date>
+    <Open>0.907934</Open>
+    <High>0.916762</High>
+    <Low>0.907934</Low>
+    <Close>0.916762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-28</Date>
+    <Open>0.938513</Open>
+    <High>0.97959</High>
+    <Low>0.926837</Low>
+    <Close>0.97959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-29</Date>
+    <Open>0.956385</Open>
+    <High>0.964037</High>
+    <Low>0.930264</Low>
+    <Close>0.930264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-30</Date>
+    <Open>0.942945</Open>
+    <High>0.970123</High>
+    <Low>0.942945</Low>
+    <Close>0.950748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-03-31</Date>
+    <Open>0.936198</Open>
+    <High>0.936198</High>
+    <Low>0.936198</Low>
+    <Close>0.936198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-01</Date>
+    <Open>0.915815</Open>
+    <High>0.915815</High>
+    <Low>0.915815</Low>
+    <Close>0.915815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-02</Date>
+    <Open>0.979637</Open>
+    <High>0.979637</High>
+    <Low>0.979637</Low>
+    <Close>0.979637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-03</Date>
+    <Open>0.94655</Open>
+    <High>0.991333</High>
+    <Low>0.94655</Low>
+    <Close>0.991333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-04</Date>
+    <Open>1.04173</Open>
+    <High>1.04173</High>
+    <Low>0.997032</Low>
+    <Close>1.0044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-05</Date>
+    <Open>1.01102</Open>
+    <High>1.01102</High>
+    <Low>0.994663</Low>
+    <Close>1.00437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-06</Date>
+    <Open>0.982997</Open>
+    <High>0.982997</High>
+    <Low>0.892189</Low>
+    <Close>0.892189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-07</Date>
+    <Open>0.859431</Open>
+    <High>0.900383</High>
+    <Low>0.859431</Low>
+    <Close>0.900383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-09</Date>
+    <Open>0.865657</Open>
+    <High>0.865894</High>
+    <Low>0.859615</Low>
+    <Close>0.859615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-10</Date>
+    <Open>0.865857</Open>
+    <High>0.865857</High>
+    <Low>0.865857</Low>
+    <Close>0.865857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-11</Date>
+    <Open>0.836823</Open>
+    <High>0.836896</High>
+    <Low>0.831576</Low>
+    <Close>0.831576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-12</Date>
+    <Open>0.824473</Open>
+    <High>0.824473</High>
+    <Low>0.798398</Low>
+    <Close>0.798398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-14</Date>
+    <Open>0.819313</Open>
+    <High>0.819313</High>
+    <Low>0.819313</Low>
+    <Close>0.819313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-15</Date>
+    <Open>0.813435</Open>
+    <High>0.813435</High>
+    <Low>0.813435</Low>
+    <Close>0.813435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-16</Date>
+    <Open>0.812256</Open>
+    <High>0.833803</High>
+    <Low>0.810464</Low>
+    <Close>0.823956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-17</Date>
+    <Open>0.825522</Open>
+    <High>0.825522</High>
+    <Low>0.825522</Low>
+    <Close>0.825522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-18</Date>
+    <Open>0.780383</Open>
+    <High>0.791028</High>
+    <Low>0.780383</Low>
+    <Close>0.791028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-19</Date>
+    <Open>0.794948</Open>
+    <High>0.795018</High>
+    <Low>0.794948</Low>
+    <Close>0.795018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-20</Date>
+    <Open>0.813257</Open>
+    <High>0.826602</High>
+    <Low>0.813257</Low>
+    <Close>0.826602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-21</Date>
+    <Open>0.810936</Open>
+    <High>0.810936</High>
+    <Low>0.810936</Low>
+    <Close>0.810936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-22</Date>
+    <Open>0.813667</Open>
+    <High>0.813667</High>
+    <Low>0.793326</Low>
+    <Close>0.793326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-26</Date>
+    <Open>0.73725</Open>
+    <High>0.73725</High>
+    <Low>0.73725</Low>
+    <Close>0.73725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-27</Date>
+    <Open>0.726478</Open>
+    <High>0.726538</High>
+    <Low>0.726478</Low>
+    <Close>0.726538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-04-28</Date>
+    <Open>0.724119</Open>
+    <High>0.724119</High>
+    <Low>0.724119</Low>
+    <Close>0.724119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-01</Date>
+    <Open>0.646401</Open>
+    <High>0.646401</High>
+    <Low>0.646401</Low>
+    <Close>0.646401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-02</Date>
+    <Open>0.63169</Open>
+    <High>0.649153</High>
+    <Low>0.623833</Low>
+    <Close>0.623833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-04</Date>
+    <Open>0.615285</Open>
+    <High>0.615285</High>
+    <Low>0.615285</Low>
+    <Close>0.615285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-05</Date>
+    <Open>0.673411</Open>
+    <High>0.673411</High>
+    <Low>0.673411</Low>
+    <Close>0.673411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-06</Date>
+    <Open>0.602227</Open>
+    <High>0.602227</High>
+    <Low>0.565017</Low>
+    <Close>0.565017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-07</Date>
+    <Open>0.560291</Open>
+    <High>0.560291</High>
+    <Low>0.560291</Low>
+    <Close>0.560291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-08</Date>
+    <Open>0.517337</Open>
+    <High>0.517337</High>
+    <Low>0.517337</Low>
+    <Close>0.517337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-09</Date>
+    <Open>0.499354</Open>
+    <High>0.499354</High>
+    <Low>0.443337</Low>
+    <Close>0.443337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-10</Date>
+    <Open>0.418861</Open>
+    <High>0.448848</High>
+    <Low>0.414286</Low>
+    <Close>0.448848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-11</Date>
+    <Open>0.401045</Open>
+    <High>0.401045</High>
+    <Low>0.334066</Low>
+    <Close>0.350409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-12</Date>
+    <Open>0.252</Open>
+    <High>0.292268</High>
+    <Low>0.252</Low>
+    <Close>0.289815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-13</Date>
+    <Open>0.309422</Open>
+    <High>0.378576</High>
+    <Low>0.309422</Low>
+    <Close>0.34851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-14</Date>
+    <Open>0.414507</Open>
+    <High>0.414507</High>
+    <Low>0.414507</Low>
+    <Close>0.414507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-15</Date>
+    <Open>0.385976</Open>
+    <High>0.385976</High>
+    <Low>0.385976</Low>
+    <Close>0.385976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-16</Date>
+    <Open>0.377242</Open>
+    <High>0.377242</High>
+    <Low>0.376227</Low>
+    <Close>0.376227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-17</Date>
+    <Open>0.392995</Open>
+    <High>0.392995</High>
+    <Low>0.392995</Low>
+    <Close>0.392995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-18</Date>
+    <Open>0.382817</Open>
+    <High>0.382864</High>
+    <Low>0.335146</Low>
+    <Close>0.335146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-19</Date>
+    <Open>0.353736</Open>
+    <High>0.358183</High>
+    <Low>0.336521</Low>
+    <Close>0.336521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-21</Date>
+    <Open>0.362893</Open>
+    <High>0.4088</High>
+    <Low>0.362893</Low>
+    <Close>0.396112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-22</Date>
+    <Open>0.418517</Open>
+    <High>0.453675</High>
+    <Low>0.418517</Low>
+    <Close>0.425944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-23</Date>
+    <Open>0.446637</Open>
+    <High>0.446637</High>
+    <Low>0.446637</Low>
+    <Close>0.446637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-24</Date>
+    <Open>0.391071</Open>
+    <High>0.391182</High>
+    <Low>0.391071</Low>
+    <Close>0.391182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-25</Date>
+    <Open>0.40443</Open>
+    <High>0.40443</High>
+    <Low>0.40443</Low>
+    <Close>0.40443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-26</Date>
+    <Open>0.454048</Open>
+    <High>0.469853</High>
+    <Low>0.417171</Low>
+    <Close>0.417171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-27</Date>
+    <Open>0.430032</Open>
+    <High>0.430032</High>
+    <Low>0.423692</Low>
+    <Close>0.423692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-28</Date>
+    <Open>0.420488</Open>
+    <High>0.426511</High>
+    <Low>0.419974</Low>
+    <Close>0.419974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-30</Date>
+    <Open>0.434386</Open>
+    <High>0.445597</High>
+    <Low>0.434386</Low>
+    <Close>0.445597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-05-31</Date>
+    <Open>0.464448</Open>
+    <High>0.464448</High>
+    <Low>0.441471</Low>
+    <Close>0.44908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-01</Date>
+    <Open>0.449216</Open>
+    <High>0.451422</High>
+    <Low>0.423568</Low>
+    <Close>0.425234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-02</Date>
+    <Open>0.424006</Open>
+    <High>0.446723</High>
+    <Low>0.418683</Low>
+    <Close>0.431661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-03</Date>
+    <Open>0.436457</Open>
+    <High>0.436457</High>
+    <Low>0.405449</Low>
+    <Close>0.410022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-04</Date>
+    <Open>0.414233</Open>
+    <High>0.415685</High>
+    <Low>0.40701</Low>
+    <Close>0.41265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-05</Date>
+    <Open>0.414976</Open>
+    <High>0.417268</High>
+    <Low>0.406574</Low>
+    <Close>0.412406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-06</Date>
+    <Open>0.411911</Open>
+    <High>0.425632</High>
+    <Low>0.411911</Low>
+    <Close>0.420077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-07</Date>
+    <Open>0.421202</Open>
+    <High>0.421202</High>
+    <Low>0.400689</Low>
+    <Close>0.413471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-08</Date>
+    <Open>0.413555</Open>
+    <High>0.413634</High>
+    <Low>0.40048</Low>
+    <Close>0.404049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-09</Date>
+    <Open>0.402798</Open>
+    <High>0.402948</High>
+    <Low>0.393008</Low>
+    <Close>0.393915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-10</Date>
+    <Open>0.393133</Open>
+    <High>0.393189</High>
+    <Low>0.368217</Low>
+    <Close>0.37248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-11</Date>
+    <Open>0.371358</Open>
+    <High>0.374072</High>
+    <Low>0.342392</Low>
+    <Close>0.34638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-12</Date>
+    <Open>0.353523</Open>
+    <High>0.353523</High>
+    <Low>0.315978</Low>
+    <Close>0.334894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-13</Date>
+    <Open>0.309713</Open>
+    <High>0.309713</High>
+    <Low>0.261058</Low>
+    <Close>0.275873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-14</Date>
+    <Open>0.258073</Open>
+    <High>0.268163</High>
+    <Low>0.234519</Low>
+    <Close>0.258178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-15</Date>
+    <Open>0.261094</Open>
+    <High>0.300838</High>
+    <Low>0.254609</Low>
+    <Close>0.29923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-16</Date>
+    <Open>0.303644</Open>
+    <High>0.305014</High>
+    <Low>0.278953</Low>
+    <Close>0.291729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-17</Date>
+    <Open>0.274248</Open>
+    <High>0.307272</High>
+    <Low>0.27285</Low>
+    <Close>0.289832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-18</Date>
+    <Open>0.288319</Open>
+    <High>0.295953</High>
+    <Low>0.261496</Low>
+    <Close>0.268085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-19</Date>
+    <Open>0.270159</Open>
+    <High>0.290801</High>
+    <Low>0.265878</Low>
+    <Close>0.286477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-20</Date>
+    <Open>0.290212</Open>
+    <High>0.292527</High>
+    <Low>0.277077</Low>
+    <Close>0.286005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-21</Date>
+    <Open>0.291059</Open>
+    <High>0.317084</High>
+    <Low>0.29104</Low>
+    <Close>0.317084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-22</Date>
+    <Open>0.301398</Open>
+    <High>0.302008</High>
+    <Low>0.29019</Low>
+    <Close>0.290829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-23</Date>
+    <Open>0.290709</Open>
+    <High>0.299001</High>
+    <Low>0.290709</Low>
+    <Close>0.296553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-24</Date>
+    <Open>0.300759</Open>
+    <High>0.31356</High>
+    <Low>0.300759</Low>
+    <Close>0.313196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-25</Date>
+    <Open>0.30969</Open>
+    <High>0.338476</High>
+    <Low>0.30969</Low>
+    <Close>0.338473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-26</Date>
+    <Open>0.337177</Open>
+    <High>0.340256</High>
+    <Low>0.327347</Low>
+    <Close>0.327347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-27</Date>
+    <Open>0.322508</Open>
+    <High>0.322849</High>
+    <Low>0.31802</Low>
+    <Close>0.32175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-28</Date>
+    <Open>0.325644</Open>
+    <High>0.325644</High>
+    <Low>0.311838</Low>
+    <Close>0.311838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-29</Date>
+    <Open>0.312109</Open>
+    <High>0.312109</High>
+    <Low>0.295009</Low>
+    <Close>0.303848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-06-30</Date>
+    <Open>0.293402</Open>
+    <High>0.297684</High>
+    <Low>0.272594</Low>
+    <Close>0.285137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-01</Date>
+    <Open>0.305603</Open>
+    <High>0.313483</High>
+    <Low>0.294806</Low>
+    <Close>0.298032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-02</Date>
+    <Open>0.300519</Open>
+    <High>0.302507</High>
+    <Low>0.294256</Low>
+    <Close>0.302507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-03</Date>
+    <Open>0.301598</Open>
+    <High>0.301598</High>
+    <Low>0.290223</Low>
+    <Close>0.295256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-04</Date>
+    <Open>0.295196</Open>
+    <High>0.299071</High>
+    <Low>0.295196</Low>
+    <Close>0.297772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-05</Date>
+    <Open>0.29955</Open>
+    <High>0.302367</High>
+    <Low>0.287703</Low>
+    <Close>0.297652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-06</Date>
+    <Open>0.292328</Open>
+    <High>0.293866</High>
+    <Low>0.292328</Low>
+    <Close>0.293866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-07</Date>
+    <Open>0.298811</Open>
+    <High>0.302368</High>
+    <Low>0.297402</Low>
+    <Close>0.302368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-08</Date>
+    <Open>0.302388</Open>
+    <High>0.304057</High>
+    <Low>0.29901</Low>
+    <Close>0.29921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-09</Date>
+    <Open>0.305267</Open>
+    <High>0.313492</High>
+    <Low>0.305157</Low>
+    <Close>0.311943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-10</Date>
+    <Open>0.311312</Open>
+    <High>0.311312</High>
+    <Low>0.30064</Low>
+    <Close>0.304027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-11</Date>
+    <Open>0.302998</Open>
+    <High>0.303388</High>
+    <Low>0.289477</Low>
+    <Close>0.291767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-12</Date>
+    <Open>0.28824</Open>
+    <High>0.295694</High>
+    <Low>0.275674</Low>
+    <Close>0.281598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-13</Date>
+    <Open>0.281533</Open>
+    <High>0.285155</High>
+    <Low>0.265594</Low>
+    <Close>0.28002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-14</Date>
+    <Open>0.284234</Open>
+    <High>0.287311</High>
+    <Low>0.273401</Low>
+    <Close>0.286258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-15</Date>
+    <Open>0.286418</Open>
+    <High>0.290695</High>
+    <Low>0.28348</Low>
+    <Close>0.288296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-16</Date>
+    <Open>0.289043</Open>
+    <High>0.294571</High>
+    <Low>0.284486</Low>
+    <Close>0.294341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-17</Date>
+    <Open>0.293024</Open>
+    <High>0.295609</High>
+    <Low>0.288448</Low>
+    <Close>0.290703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-18</Date>
+    <Open>0.291211</Open>
+    <High>0.30554</High>
+    <Low>0.286283</Low>
+    <Close>0.301318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-19</Date>
+    <Open>0.301298</Open>
+    <High>0.322913</High>
+    <Low>0.301116</Low>
+    <Close>0.321401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-20</Date>
+    <Open>0.32079</Open>
+    <High>0.32882</High>
+    <Low>0.310558</Low>
+    <Close>0.311647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-21</Date>
+    <Open>0.314948</Open>
+    <High>0.326897</High>
+    <Low>0.307149</Low>
+    <Close>0.320861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-22</Date>
+    <Open>0.32142</Open>
+    <High>0.326226</High>
+    <Low>0.314351</Low>
+    <Close>0.31499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-23</Date>
+    <Open>0.315333</Open>
+    <High>0.317675</High>
+    <Low>0.305153</Low>
+    <Close>0.308522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-24</Date>
+    <Open>0.308889</Open>
+    <High>0.314793</High>
+    <Low>0.308865</Low>
+    <Close>0.311037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-25</Date>
+    <Open>0.312639</Open>
+    <High>0.312903</High>
+    <Low>0.294607</Low>
+    <Close>0.297794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-26</Date>
+    <Open>0.29703</Open>
+    <High>0.29738</High>
+    <Low>0.285396</Low>
+    <Close>0.287003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-27</Date>
+    <Open>0.2888</Open>
+    <High>0.303925</High>
+    <Low>0.28502</Low>
+    <Close>0.30232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-28</Date>
+    <Open>0.302829</Open>
+    <High>0.317813</High>
+    <Low>0.30129</Low>
+    <Close>0.317083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-29</Date>
+    <Open>0.317439</Open>
+    <High>0.323089</High>
+    <Low>0.309599</Low>
+    <Close>0.31683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-30</Date>
+    <Open>0.316807</Open>
+    <High>0.329465</High>
+    <Low>0.315206</Low>
+    <Close>0.323944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-07-31</Date>
+    <Open>0.321179</Open>
+    <High>0.329192</High>
+    <Low>0.315471</Low>
+    <Close>0.325014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-01</Date>
+    <Open>0.325195</Open>
+    <High>0.350545</High>
+    <Low>0.319724</Low>
+    <Close>0.342139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-02</Date>
+    <Open>0.339972</Open>
+    <High>0.369672</High>
+    <Low>0.318949</Low>
+    <Close>0.33494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-03</Date>
+    <Open>0.337954</Open>
+    <High>0.360304</High>
+    <Low>0.332376</Low>
+    <Close>0.356359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-04</Date>
+    <Open>0.3488</Open>
+    <High>0.389412</High>
+    <Low>0.345149</Low>
+    <Close>0.358151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-05</Date>
+    <Open>0.359734</Open>
+    <High>0.365073</High>
+    <Low>0.359068</Low>
+    <Close>0.362112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-06</Date>
+    <Open>0.364109</Open>
+    <High>0.368107</High>
+    <Low>0.356862</Low>
+    <Close>0.360663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-07</Date>
+    <Open>0.361873</Open>
+    <High>0.361873</High>
+    <Low>0.353868</Low>
+    <Close>0.360448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-08</Date>
+    <Open>0.360188</Open>
+    <High>0.373413</High>
+    <Low>0.356143</Low>
+    <Close>0.366794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-09</Date>
+    <Open>0.367049</Open>
+    <High>0.374107</High>
+    <Low>0.3505</Low>
+    <Close>0.353841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-10</Date>
+    <Open>0.354955</Open>
+    <High>0.364729</High>
+    <Low>0.341803</Low>
+    <Close>0.364729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-11</Date>
+    <Open>0.366042</Open>
+    <High>0.371086</High>
+    <Low>0.364789</Low>
+    <Close>0.369503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-12</Date>
+    <Open>0.368934</Open>
+    <High>0.368934</High>
+    <Low>0.362721</Low>
+    <Close>0.368519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-13</Date>
+    <Open>0.368027</Open>
+    <High>0.373846</High>
+    <Low>0.368027</Low>
+    <Close>0.371005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-14</Date>
+    <Open>0.37073</Open>
+    <High>0.377747</High>
+    <Low>0.364514</Low>
+    <Close>0.367758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-15</Date>
+    <Open>0.366674</Open>
+    <High>0.373415</High>
+    <Low>0.355789</Low>
+    <Close>0.361842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-16</Date>
+    <Open>0.362343</Open>
+    <High>0.362468</High>
+    <Low>0.35262</Low>
+    <Close>0.356033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-17</Date>
+    <Open>0.355328</Open>
+    <High>0.360727</High>
+    <Low>0.342363</Low>
+    <Close>0.345821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-18</Date>
+    <Open>0.345508</Open>
+    <High>0.348381</High>
+    <Low>0.344306</Low>
+    <Close>0.346067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-19</Date>
+    <Open>0.345905</Open>
+    <High>0.346785</High>
+    <Low>0.29573</Low>
+    <Close>0.30091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-20</Date>
+    <Open>0.298815</Open>
+    <High>0.305032</High>
+    <Low>0.292229</Low>
+    <Close>0.293185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-21</Date>
+    <Open>0.29622</Open>
+    <High>0.304251</High>
+    <Low>0.294953</Low>
+    <Close>0.302964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-22</Date>
+    <Open>0.302258</Open>
+    <High>0.302258</High>
+    <Low>0.282713</Low>
+    <Close>0.288598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-23</Date>
+    <Open>0.289084</Open>
+    <High>0.298142</High>
+    <Low>0.287063</Low>
+    <Close>0.297436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-24</Date>
+    <Open>0.296687</Open>
+    <High>0.305027</High>
+    <Low>0.29238</Low>
+    <Close>0.300927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-25</Date>
+    <Open>0.300848</Open>
+    <High>0.305831</High>
+    <Low>0.297607</Low>
+    <Close>0.303231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-26</Date>
+    <Open>0.303691</Open>
+    <High>0.304081</High>
+    <Low>0.285324</Low>
+    <Close>0.28553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-27</Date>
+    <Open>0.285353</Open>
+    <High>0.285989</High>
+    <Low>0.279332</Low>
+    <Close>0.28197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-28</Date>
+    <Open>0.281476</Open>
+    <High>0.31118</High>
+    <Low>0.281476</Low>
+    <Close>0.297737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-29</Date>
+    <Open>0.297657</Open>
+    <High>0.30816</High>
+    <Low>0.288053</Low>
+    <Close>0.301105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-30</Date>
+    <Open>0.30076</Open>
+    <High>0.30753</High>
+    <Low>0.289086</Low>
+    <Close>0.292831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-08-31</Date>
+    <Open>0.291606</Open>
+    <High>0.316566</High>
+    <Low>0.291606</Low>
+    <Close>0.308627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-01</Date>
+    <Open>0.30911</Open>
+    <High>0.316365</High>
+    <Low>0.291981</Low>
+    <Close>0.301166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-02</Date>
+    <Open>0.302094</Open>
+    <High>0.302094</High>
+    <Low>0.29216</Low>
+    <Close>0.294826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-03</Date>
+    <Open>0.295257</Open>
+    <High>0.295503</High>
+    <Low>0.2842</Low>
+    <Close>0.2842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-04</Date>
+    <Open>0.29044</Open>
+    <High>0.29128</High>
+    <Low>0.285229</Low>
+    <Close>0.28717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-05</Date>
+    <Open>0.28933</Open>
+    <High>0.2895</High>
+    <Low>0.281128</Low>
+    <Close>0.283838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-06</Date>
+    <Open>0.284598</Open>
+    <High>0.289389</High>
+    <Low>0.27374</Low>
+    <Close>0.27484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-07</Date>
+    <Open>0.274412</Open>
+    <High>0.274412</High>
+    <Low>0.259472</Low>
+    <Close>0.273766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-08</Date>
+    <Open>0.2757</Open>
+    <High>0.280355</High>
+    <Low>0.270076</Low>
+    <Close>0.28025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-09</Date>
+    <Open>0.279271</Open>
+    <High>0.291126</High>
+    <Low>0.279051</Low>
+    <Close>0.287626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-10</Date>
+    <Open>0.288475</Open>
+    <High>0.291455</High>
+    <Low>0.284714</Low>
+    <Close>0.287795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-11</Date>
+    <Open>0.290061</Open>
+    <High>0.300093</High>
+    <Low>0.285799</Low>
+    <Close>0.291249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-12</Date>
+    <Open>0.29087</Open>
+    <High>0.300084</High>
+    <Low>0.289558</Low>
+    <Close>0.292369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-13</Date>
+    <Open>0.294118</Open>
+    <High>0.294118</High>
+    <Low>0.266575</Low>
+    <Close>0.267748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-14</Date>
+    <Open>0.266105</Open>
+    <High>0.271206</High>
+    <Low>0.26171</Low>
+    <Close>0.26611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-15</Date>
+    <Open>0.266148</Open>
+    <High>0.272821</High>
+    <Low>0.258295</Low>
+    <Close>0.262088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-16</Date>
+    <Open>0.260454</Open>
+    <High>0.262654</High>
+    <Low>0.256977</Low>
+    <Close>0.261738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-17</Date>
+    <Open>0.261484</Open>
+    <High>0.272063</High>
+    <Low>0.260154</Low>
+    <Close>0.26992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-18</Date>
+    <Open>0.26958</Open>
+    <High>0.26958</High>
+    <Low>0.253945</Low>
+    <Close>0.25421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-19</Date>
+    <Open>0.250345</Open>
+    <High>0.252295</High>
+    <Low>0.23873</Low>
+    <Close>0.251085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-20</Date>
+    <Open>0.25215</Open>
+    <High>0.253395</High>
+    <Low>0.242488</Low>
+    <Close>0.246495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-21</Date>
+    <Open>0.245625</Open>
+    <High>0.250025</High>
+    <Low>0.237094</Low>
+    <Close>0.237094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-22</Date>
+    <Open>0.23614</Open>
+    <High>0.247305</High>
+    <Low>0.23561</Low>
+    <Close>0.246045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-23</Date>
+    <Open>0.24672</Open>
+    <High>0.25154</High>
+    <Low>0.241886</Low>
+    <Close>0.24667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-24</Date>
+    <Open>0.247188</Open>
+    <High>0.248915</High>
+    <Low>0.244638</Low>
+    <Close>0.24654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-25</Date>
+    <Open>0.246645</Open>
+    <High>0.25</High>
+    <Low>0.242882</Low>
+    <Close>0.243443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-26</Date>
+    <Open>0.242033</Open>
+    <High>0.24639</High>
+    <Low>0.233543</Low>
+    <Close>0.2412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-27</Date>
+    <Open>0.24061</Open>
+    <High>0.2476</High>
+    <Low>0.23648</Low>
+    <Close>0.237516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-28</Date>
+    <Open>0.237666</Open>
+    <High>0.23926</High>
+    <Low>0.229867</Low>
+    <Close>0.23898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-29</Date>
+    <Open>0.23811</Open>
+    <High>0.242016</High>
+    <Low>0.23484</Low>
+    <Close>0.237654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-09-30</Date>
+    <Open>0.23782</Open>
+    <High>0.23921</High>
+    <Low>0.23499</Low>
+    <Close>0.236296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-01</Date>
+    <Open>0.23641</Open>
+    <High>0.23667</High>
+    <Low>0.234227</Low>
+    <Close>0.234243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-02</Date>
+    <Open>0.234163</Open>
+    <High>0.23933</High>
+    <Low>0.2301</Low>
+    <Close>0.23217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-03</Date>
+    <Open>0.23173</Open>
+    <High>0.233673</High>
+    <Low>0.2293</Low>
+    <Close>0.232977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-04</Date>
+    <Open>0.233733</Open>
+    <High>0.238722</High>
+    <Low>0.231853</Low>
+    <Close>0.238722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-05</Date>
+    <Open>0.238148</Open>
+    <High>0.238592</High>
+    <Low>0.233363</Low>
+    <Close>0.235194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-06</Date>
+    <Open>0.23588</Open>
+    <High>0.237481</High>
+    <Low>0.234838</Low>
+    <Close>0.234867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-07</Date>
+    <Open>0.234648</Open>
+    <High>0.25001</High>
+    <Low>0.231092</Low>
+    <Close>0.234473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-08</Date>
+    <Open>0.232893</Open>
+    <High>0.235291</High>
+    <Low>0.231875</Low>
+    <Close>0.234056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-09</Date>
+    <Open>0.2324</Open>
+    <High>0.234943</High>
+    <Low>0.231853</Low>
+    <Close>0.234717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-10</Date>
+    <Open>0.233583</Open>
+    <High>0.234707</High>
+    <Low>0.22791</Low>
+    <Close>0.228647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-11</Date>
+    <Open>0.22886</Open>
+    <High>0.22886</High>
+    <Low>0.214028</Low>
+    <Close>0.215008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-12</Date>
+    <Open>0.215012</Open>
+    <High>0.215715</High>
+    <Low>0.21391</Low>
+    <Close>0.214562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-13</Date>
+    <Open>0.21466</Open>
+    <High>0.21466</High>
+    <Low>0.19041</Low>
+    <Close>0.207117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-14</Date>
+    <Open>0.207387</Open>
+    <High>0.225058</High>
+    <Low>0.206672</Low>
+    <Close>0.211348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-15</Date>
+    <Open>0.210551</Open>
+    <High>0.240422</High>
+    <Low>0.210551</Low>
+    <Close>0.225774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-16</Date>
+    <Open>0.226251</Open>
+    <High>0.226559</High>
+    <Low>0.21678</Low>
+    <Close>0.218469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-17</Date>
+    <Open>0.218341</Open>
+    <High>0.223154</High>
+    <Low>0.215939</Low>
+    <Close>0.219943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-18</Date>
+    <Open>0.220067</Open>
+    <High>0.221564</High>
+    <Low>0.213744</Low>
+    <Close>0.215551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-19</Date>
+    <Open>0.215189</Open>
+    <High>0.217057</High>
+    <Low>0.205876</Low>
+    <Close>0.208022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-20</Date>
+    <Open>0.207214</Open>
+    <High>0.208004</High>
+    <Low>0.20166</Low>
+    <Close>0.20228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-21</Date>
+    <Open>0.201716</Open>
+    <High>0.20239</High>
+    <Low>0.194902</Low>
+    <Close>0.200446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-22</Date>
+    <Open>0.20142</Open>
+    <High>0.204948</High>
+    <Low>0.20025</Low>
+    <Close>0.202886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-23</Date>
+    <Open>0.202366</Open>
+    <High>0.204342</High>
+    <Low>0.200528</Low>
+    <Close>0.204071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-24</Date>
+    <Open>0.204803</Open>
+    <High>0.207367</High>
+    <Low>0.199904</Low>
+    <Close>0.20239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-25</Date>
+    <Open>0.20267</Open>
+    <High>0.213497</High>
+    <Low>0.20267</Low>
+    <Close>0.21335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-26</Date>
+    <Open>0.21301</Open>
+    <High>0.216356</High>
+    <Low>0.211099</Low>
+    <Close>0.216266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-27</Date>
+    <Open>0.214724</Open>
+    <High>0.217056</High>
+    <Low>0.209227</Low>
+    <Close>0.209227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-28</Date>
+    <Open>0.209116</Open>
+    <High>0.217127</High>
+    <Low>0.206138</Low>
+    <Close>0.215935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-29</Date>
+    <Open>0.215844</Open>
+    <High>0.217581</High>
+    <Low>0.214192</Low>
+    <Close>0.216582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-30</Date>
+    <Open>0.216168</Open>
+    <High>0.220069</High>
+    <Low>0.214882</Low>
+    <Close>0.216329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-10-31</Date>
+    <Open>0.21704</Open>
+    <High>0.218704</High>
+    <Low>0.212977</Low>
+    <Close>0.215981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-01</Date>
+    <Open>0.216379</Open>
+    <High>0.217539</High>
+    <Low>0.21213</Low>
+    <Close>0.213264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-02</Date>
+    <Open>0.215548</Open>
+    <High>0.227569</High>
+    <Low>0.211337</Low>
+    <Close>0.211849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-03</Date>
+    <Open>0.213267</Open>
+    <High>0.218366</High>
+    <Low>0.212581</Low>
+    <Close>0.215193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-04</Date>
+    <Open>0.214666</Open>
+    <High>0.222886</High>
+    <Low>0.213933</Low>
+    <Close>0.222886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-05</Date>
+    <Open>0.22245</Open>
+    <High>0.228731</High>
+    <Low>0.22245</Low>
+    <Close>0.225206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-06</Date>
+    <Open>0.225921</Open>
+    <High>0.231988</High>
+    <Low>0.22198</Low>
+    <Close>0.225025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-07</Date>
+    <Open>0.224018</Open>
+    <High>0.22402</High>
+    <Low>0.216013</Low>
+    <Close>0.217024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-08</Date>
+    <Open>0.215064</Open>
+    <High>0.219066</High>
+    <Low>0.178516</Low>
+    <Close>0.187561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-09</Date>
+    <Open>0.186558</Open>
+    <High>0.188714</High>
+    <Low>0.13336</Low>
+    <Close>0.136512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-10</Date>
+    <Open>0.139877</Open>
+    <High>0.177654</High>
+    <Low>0.139863</Low>
+    <Close>0.16571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-11</Date>
+    <Open>0.165726</Open>
+    <High>0.210813</High>
+    <Low>0.155077</Low>
+    <Close>0.165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-12</Date>
+    <Open>0.165115</Open>
+    <High>0.172533</High>
+    <Low>0.155719</Low>
+    <Close>0.16071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-13</Date>
+    <Open>0.16071</Open>
+    <High>0.160726</High>
+    <Low>0.139818</Low>
+    <Close>0.143827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-14</Date>
+    <Open>0.1428</Open>
+    <High>0.14982</High>
+    <Low>0.131802</Low>
+    <Close>0.145781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-15</Date>
+    <Open>0.14678</Open>
+    <High>0.150879</High>
+    <Low>0.144797</Low>
+    <Close>0.148851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-16</Date>
+    <Open>0.14882</Open>
+    <High>0.163836</High>
+    <Low>0.142851</Low>
+    <Close>0.145867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-17</Date>
+    <Open>0.14587</Open>
+    <High>0.153877</High>
+    <Low>0.142877</Low>
+    <Close>0.147882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-18</Date>
+    <Open>0.147885</Open>
+    <High>0.154876</High>
+    <Low>0.146832</Low>
+    <Close>0.148829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-19</Date>
+    <Open>0.150823</Open>
+    <High>0.157837</High>
+    <Low>0.147821</Low>
+    <Close>0.157836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-20</Date>
+    <Open>0.157836</Open>
+    <High>0.161444</High>
+    <Low>0.144971</Low>
+    <Close>0.146048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-21</Date>
+    <Open>0.146685</Open>
+    <High>0.149037</High>
+    <Low>0.136593</Low>
+    <Close>0.144817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-22</Date>
+    <Open>0.14005</Open>
+    <High>0.176153</High>
+    <Low>0.139979</Low>
+    <Close>0.165078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-23</Date>
+    <Open>0.166785</Open>
+    <High>0.175771</High>
+    <Low>0.162801</Low>
+    <Close>0.167817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-24</Date>
+    <Open>0.167815</Open>
+    <High>0.172825</High>
+    <Low>0.155861</Low>
+    <Close>0.160865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-25</Date>
+    <Open>0.160865</Open>
+    <High>0.162874</High>
+    <Low>0.148884</Low>
+    <Close>0.15791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-26</Date>
+    <Open>0.15791</Open>
+    <High>0.164889</High>
+    <Low>0.152897</Low>
+    <Close>0.156904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-27</Date>
+    <Open>0.156909</Open>
+    <High>0.162892</High>
+    <Low>0.149913</Low>
+    <Close>0.1589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-28</Date>
+    <Open>0.156937</Open>
+    <High>0.164911</High>
+    <Low>0.146922</Low>
+    <Close>0.147944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-29</Date>
+    <Open>0.150111</Open>
+    <High>0.159066</High>
+    <Low>0.147042</Low>
+    <Close>0.151944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-11-30</Date>
+    <Open>0.151951</Open>
+    <High>0.156027</High>
+    <Low>0.150983</Low>
+    <Close>0.156008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-01</Date>
+    <Open>0.156012</Open>
+    <High>0.15702</High>
+    <Low>0.154</Low>
+    <Close>0.154009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-02</Date>
+    <Open>0.154012</Open>
+    <High>0.15702</High>
+    <Low>0.149016</Low>
+    <Close>0.156009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-03</Date>
+    <Open>0.156009</Open>
+    <High>0.164007</High>
+    <Low>0.153005</Low>
+    <Close>0.153015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-04</Date>
+    <Open>0.153015</Open>
+    <High>0.157047</High>
+    <Low>0.152</Low>
+    <Close>0.156031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-05</Date>
+    <Open>0.155031</Open>
+    <High>0.158019</High>
+    <Low>0.153997</Low>
+    <Close>0.155005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-06</Date>
+    <Open>0.155003</Open>
+    <High>0.157017</High>
+    <Low>0.154006</Low>
+    <Close>0.156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-07</Date>
+    <Open>0.156</Open>
+    <High>0.156002</High>
+    <Low>0.141001</Low>
+    <Close>0.152997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-08</Date>
+    <Open>0.149004</Open>
+    <High>0.154046</High>
+    <Low>0.148994</Low>
+    <Close>0.151015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-09</Date>
+    <Open>0.152009</Open>
+    <High>0.154002</High>
+    <Low>0.151</Low>
+    <Close>0.151003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-10</Date>
+    <Open>0.150014</Open>
+    <High>0.152997</High>
+    <Low>0.144941</Low>
+    <Close>0.150548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-11</Date>
+    <Open>0.149849</Open>
+    <High>0.154508</High>
+    <Low>0.145829</Low>
+    <Close>0.152015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-12</Date>
+    <Open>0.149015</Open>
+    <High>0.151009</High>
+    <Low>0.144003</Low>
+    <Close>0.150015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-13</Date>
+    <Open>0.150013</Open>
+    <High>0.151008</High>
+    <Low>0.143026</Low>
+    <Close>0.147966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-14</Date>
+    <Open>0.147969</Open>
+    <High>0.149985</High>
+    <Low>0.144974</Low>
+    <Close>0.146009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-15</Date>
+    <Open>0.144704</Open>
+    <High>0.154205</High>
+    <Low>0.135977</Low>
+    <Close>0.141414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-16</Date>
+    <Open>0.142308</Open>
+    <High>0.165127</High>
+    <Low>0.133843</Low>
+    <Close>0.134447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-17</Date>
+    <Open>0.133663</Open>
+    <High>0.133663</High>
+    <Low>0.118383</Low>
+    <Close>0.123014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-18</Date>
+    <Open>0.124012</Open>
+    <High>0.126019</High>
+    <Low>0.122005</Low>
+    <Close>0.124014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-19</Date>
+    <Open>0.120976</Open>
+    <High>0.1296</High>
+    <Low>0.111333</Low>
+    <Close>0.115002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-20</Date>
+    <Open>0.114999</Open>
+    <High>0.119011</High>
+    <Low>0.109998</Low>
+    <Close>0.117005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-21</Date>
+    <Open>0.117005</Open>
+    <High>0.125999</High>
+    <Low>0.116003</Low>
+    <Close>0.122004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-22</Date>
+    <Open>0.120998</Open>
+    <High>0.121</High>
+    <Low>0.114986</Low>
+    <Close>0.117981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-23</Date>
+    <Open>0.117981</Open>
+    <High>0.121994</High>
+    <Low>0.11698</Low>
+    <Close>0.121988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-24</Date>
+    <Open>0.12199</Open>
+    <High>0.157987</High>
+    <Low>0.11399</Low>
+    <Close>0.119993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-25</Date>
+    <Open>0.118012</Open>
+    <High>0.123994</High>
+    <Low>0.113998</Low>
+    <Close>0.116985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-26</Date>
+    <Open>0.116986</Open>
+    <High>0.118988</High>
+    <Low>0.111973</Low>
+    <Close>0.11598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-27</Date>
+    <Open>0.113977</Open>
+    <High>0.11798</High>
+    <Low>0.112953</Low>
+    <Close>0.11296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-28</Date>
+    <Open>0.112958</Open>
+    <High>0.112958</High>
+    <Low>0.10494</Low>
+    <Close>0.104942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-29</Date>
+    <Open>0.106945</Open>
+    <High>0.112941</High>
+    <Low>0.104955</Low>
+    <Close>0.10795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-30</Date>
+    <Open>0.107949</Open>
+    <High>0.10795</High>
+    <Low>0.098951</Low>
+    <Close>0.104945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2022-12-31</Date>
+    <Open>0.103948</Open>
+    <High>0.107943</High>
+    <Low>0.102947</Low>
+    <Close>0.105946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-01</Date>
+    <Open>0.105946</Open>
+    <High>0.106945</High>
+    <Low>0.102941</Low>
+    <Close>0.105951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-02</Date>
+    <Open>0.104953</Open>
+    <High>0.108967</High>
+    <Low>0.103951</Low>
+    <Close>0.108964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-03</Date>
+    <Open>0.108965</Open>
+    <High>0.110962</High>
+    <Low>0.104956</Low>
+    <Close>0.108957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-04</Date>
+    <Open>0.109955</Open>
+    <High>0.111963</High>
+    <Low>0.108952</Low>
+    <Close>0.110964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-05</Date>
+    <Open>0.110968</Open>
+    <High>0.111955</High>
+    <Low>0.107957</Low>
+    <Close>0.11096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-06</Date>
+    <Open>0.110957</Open>
+    <High>0.110957</High>
+    <Low>0.10494</Low>
+    <Close>0.107968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-07</Date>
+    <Open>0.109966</Open>
+    <High>0.111968</High>
+    <Low>0.108975</Low>
+    <Close>0.109973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-08</Date>
+    <Open>0.109982</Open>
+    <High>0.11198</High>
+    <Low>0.106982</Low>
+    <Close>0.110983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-09</Date>
+    <Open>0.110033</Open>
+    <High>0.121001</High>
+    <Low>0.109069</Low>
+    <Close>0.118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-10</Date>
+    <Open>0.118999</Open>
+    <High>0.123017</High>
+    <Low>0.117986</Low>
+    <Close>0.123016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-11</Date>
+    <Open>0.12409</Open>
+    <High>0.135997</High>
+    <Low>0.12236</Low>
+    <Close>0.126999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-12</Date>
+    <Open>0.126989</Open>
+    <High>0.138985</High>
+    <Low>0.125989</Low>
+    <Close>0.133015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-13</Date>
+    <Open>0.133012</Open>
+    <High>0.139019</High>
+    <Low>0.127987</Low>
+    <Close>0.139014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-14</Date>
+    <Open>0.143965</Open>
+    <High>0.16703</High>
+    <Low>0.14202</Low>
+    <Close>0.157014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-15</Date>
+    <Open>0.159003</Open>
+    <High>0.163028</High>
+    <Low>0.151003</Low>
+    <Close>0.159048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-16</Date>
+    <Open>0.159048</Open>
+    <High>0.17705</High>
+    <Low>0.155043</Low>
+    <Close>0.165002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-17</Date>
+    <Open>0.165003</Open>
+    <High>0.173002</High>
+    <Low>0.15703</Low>
+    <Close>0.165018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-18</Date>
+    <Open>0.165018</Open>
+    <High>0.172019</High>
+    <Low>0.152972</Low>
+    <Close>0.15899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-19</Date>
+    <Open>0.156994</Open>
+    <High>0.18298</High>
+    <Low>0.152994</Low>
+    <Close>0.163995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-20</Date>
+    <Open>0.16401</Open>
+    <High>0.192996</High>
+    <Low>0.164</Low>
+    <Close>0.180032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-21</Date>
+    <Open>0.181033</Open>
+    <High>0.18505</High>
+    <Low>0.174035</Low>
+    <Close>0.17803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-22</Date>
+    <Open>0.178032</Open>
+    <High>0.183033</High>
+    <Low>0.175033</Low>
+    <Close>0.176035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-23</Date>
+    <Open>0.176044</Open>
+    <High>0.191021</High>
+    <Low>0.175014</Low>
+    <Close>0.178028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-24</Date>
+    <Open>0.178025</Open>
+    <High>0.23804</High>
+    <Low>0.176026</Low>
+    <Close>0.190027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-25</Date>
+    <Open>0.189011</Open>
+    <High>0.204031</High>
+    <Low>0.184011</Low>
+    <Close>0.193031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-26</Date>
+    <Open>0.193031</Open>
+    <High>0.198036</High>
+    <Low>0.188002</Low>
+    <Close>0.190017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-27</Date>
+    <Open>0.190015</Open>
+    <High>0.191057</High>
+    <Low>0.185043</Low>
+    <Close>0.190076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-28</Date>
+    <Open>0.190067</Open>
+    <High>0.203053</High>
+    <Low>0.190046</Low>
+    <Close>0.194037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-29</Date>
+    <Open>0.194041</Open>
+    <High>0.204035</High>
+    <Low>0.192042</Low>
+    <Close>0.20001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-30</Date>
+    <Open>0.200006</Open>
+    <High>0.205014</High>
+    <Low>0.180998</Low>
+    <Close>0.184011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-01-31</Date>
+    <Open>0.184013</Open>
+    <High>0.189992</High>
+    <Low>0.173988</Low>
+    <Close>0.182016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-01</Date>
+    <Open>0.182013</Open>
+    <High>0.192013</High>
+    <Low>0.172003</Low>
+    <Close>0.189009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-02</Date>
+    <Open>0.189009</Open>
+    <High>0.196033</High>
+    <Low>0.18603</Low>
+    <Close>0.192036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-03</Date>
+    <Open>0.192038</Open>
+    <High>0.195025</High>
+    <Low>0.188009</Low>
+    <Close>0.190015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-04</Date>
+    <Open>0.193017</Open>
+    <High>0.217015</High>
+    <Low>0.192017</Low>
+    <Close>0.208019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-05</Date>
+    <Open>0.209019</Open>
+    <High>0.210065</High>
+    <Low>0.189042</Low>
+    <Close>0.20005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-06</Date>
+    <Open>0.203053</Open>
+    <High>0.20701</High>
+    <Low>0.195037</Low>
+    <Close>0.206006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-07</Date>
+    <Open>0.204376</Open>
+    <High>0.216702</High>
+    <Low>0.202</Low>
+    <Close>0.213013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-08</Date>
+    <Open>0.215011</Open>
+    <High>0.224009</High>
+    <Low>0.205012</Low>
+    <Close>0.211015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-09</Date>
+    <Open>0.215004</Open>
+    <High>0.216</High>
+    <Low>0.198048</Low>
+    <Close>0.199018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-10</Date>
+    <Open>0.199024</Open>
+    <High>0.199048</High>
+    <Low>0.193017</Low>
+    <Close>0.196029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-11</Date>
+    <Open>0.196031</Open>
+    <High>0.19802</High>
+    <Low>0.193014</Low>
+    <Close>0.19802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-12</Date>
+    <Open>0.19703</Open>
+    <High>0.205023</High>
+    <Low>0.194017</Low>
+    <Close>0.195014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-13</Date>
+    <Open>0.195035</Open>
+    <High>0.195086</High>
+    <Low>0.180058</Low>
+    <Close>0.182098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-14</Date>
+    <Open>0.1821</Open>
+    <High>0.187133</High>
+    <Low>0.179072</Low>
+    <Close>0.187077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-15</Date>
+    <Open>0.18806</Open>
+    <High>0.201032</High>
+    <Low>0.186035</Low>
+    <Close>0.201032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-16</Date>
+    <Open>0.201028</Open>
+    <High>0.213019</High>
+    <Low>0.198022</Low>
+    <Close>0.198067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-17</Date>
+    <Open>0.198026</Open>
+    <High>0.210013</High>
+    <Low>0.194014</Low>
+    <Close>0.204018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-18</Date>
+    <Open>0.20501</Open>
+    <High>0.212034</High>
+    <Low>0.204027</Low>
+    <Close>0.205039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-19</Date>
+    <Open>0.205031</Open>
+    <High>0.211042</High>
+    <Low>0.20105</Low>
+    <Close>0.206051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-20</Date>
+    <Open>0.205049</Open>
+    <High>0.212042</High>
+    <Low>0.204035</Low>
+    <Close>0.212019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-21</Date>
+    <Open>0.210019</Open>
+    <High>0.225027</High>
+    <Low>0.201038</Low>
+    <Close>0.204047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-22</Date>
+    <Open>0.204037</Open>
+    <High>0.21103</High>
+    <Low>0.199026</Low>
+    <Close>0.206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-23</Date>
+    <Open>0.206002</Open>
+    <High>0.215022</High>
+    <Low>0.205008</Low>
+    <Close>0.210021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-24</Date>
+    <Open>0.210032</Open>
+    <High>0.228034</High>
+    <Low>0.210017</Low>
+    <Close>0.217996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-25</Date>
+    <Open>0.218</Open>
+    <High>0.411045</High>
+    <Low>0.20302</Low>
+    <Close>0.208017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-26</Date>
+    <Open>0.209013</Open>
+    <High>0.213023</High>
+    <Low>0.203026</Low>
+    <Close>0.213013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-27</Date>
+    <Open>0.213011</Open>
+    <High>0.24902</High>
+    <Low>0.211006</Low>
+    <Close>0.227011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-02-28</Date>
+    <Open>0.227014</Open>
+    <High>0.23</High>
+    <Low>0.208998</Low>
+    <Close>0.217048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-01</Date>
+    <Open>0.216035</Open>
+    <High>0.222036</High>
+    <Low>0.216022</Low>
+    <Close>0.218028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-02</Date>
+    <Open>0.218033</Open>
+    <High>0.218037</High>
+    <Low>0.202994</Low>
+    <Close>0.209015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-03</Date>
+    <Open>0.209017</Open>
+    <High>0.209027</High>
+    <Low>0.183059</Low>
+    <Close>0.19201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-04</Date>
+    <Open>0.193015</Open>
+    <High>0.19801</High>
+    <Low>0.189013</Low>
+    <Close>0.189013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-05</Date>
+    <Open>0.190013</Open>
+    <High>0.195023</High>
+    <Low>0.188015</Low>
+    <Close>0.195021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-06</Date>
+    <Open>0.193998</Open>
+    <High>0.201986</High>
+    <Low>0.182015</Low>
+    <Close>0.190987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-07</Date>
+    <Open>0.189996</Open>
+    <High>0.191</High>
+    <Low>0.179973</Low>
+    <Close>0.180991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-08</Date>
+    <Open>0.180995</Open>
+    <High>0.181014</High>
+    <Low>0.167997</Low>
+    <Close>0.169993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-09</Date>
+    <Open>0.168976</Open>
+    <High>0.176979</High>
+    <Low>0.156967</Low>
+    <Close>0.157017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-10</Date>
+    <Open>0.15899</Open>
+    <High>0.15899</High>
+    <Low>0.147988</Low>
+    <Close>0.156568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-11</Date>
+    <Open>0.158626</Open>
+    <High>0.165566</High>
+    <Low>0.151791</Low>
+    <Close>0.15522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-12</Date>
+    <Open>0.155628</Open>
+    <High>0.164632</High>
+    <Low>0.151758</Low>
+    <Close>0.1645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-13</Date>
+    <Open>0.164553</Open>
+    <High>0.180199</High>
+    <Low>0.163248</Low>
+    <Close>0.176792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-14</Date>
+    <Open>0.176723</Open>
+    <High>0.192793</High>
+    <Low>0.175077</Low>
+    <Close>0.186763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-15</Date>
+    <Open>0.185675</Open>
+    <High>0.186432</High>
+    <Low>0.170405</Low>
+    <Close>0.173754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-16</Date>
+    <Open>0.173704</Open>
+    <High>0.221442</High>
+    <Low>0.168519</Low>
+    <Close>0.176421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-17</Date>
+    <Open>0.176428</Open>
+    <High>0.185538</High>
+    <Low>0.173398</Low>
+    <Close>0.185538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-18</Date>
+    <Open>0.184469</Open>
+    <High>0.193612</High>
+    <Low>0.184408</Low>
+    <Close>0.189609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-19</Date>
+    <Open>0.187561</Open>
+    <High>0.197546</High>
+    <Low>0.185529</Low>
+    <Close>0.191581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-20</Date>
+    <Open>0.191569</Open>
+    <High>0.202747</High>
+    <Low>0.187617</Low>
+    <Close>0.18969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-21</Date>
+    <Open>0.18969</Open>
+    <High>0.199611</High>
+    <Low>0.174644</Low>
+    <Close>0.1876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-22</Date>
+    <Open>0.195597</Open>
+    <High>0.195597</High>
+    <Low>0.176472</Low>
+    <Close>0.177485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-23</Date>
+    <Open>0.177485</Open>
+    <High>0.197514</High>
+    <Low>0.176459</Low>
+    <Close>0.186389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-24</Date>
+    <Open>0.186385</Open>
+    <High>0.1864</High>
+    <Low>0.175215</Low>
+    <Close>0.178183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-25</Date>
+    <Open>0.178201</Open>
+    <High>0.180194</High>
+    <Low>0.176164</Low>
+    <Close>0.177172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-26</Date>
+    <Open>0.177172</Open>
+    <High>0.184178</High>
+    <Low>0.176158</Low>
+    <Close>0.180203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-27</Date>
+    <Open>0.180198</Open>
+    <High>0.181194</High>
+    <Low>0.167099</Low>
+    <Close>0.170085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-28</Date>
+    <Open>0.169083</Open>
+    <High>0.173062</High>
+    <Low>0.169</Low>
+    <Close>0.171067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-29</Date>
+    <Open>0.172027</Open>
+    <High>0.188021</High>
+    <Low>0.171765</Low>
+    <Close>0.176856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-30</Date>
+    <Open>0.177823</Open>
+    <High>0.190038</High>
+    <Low>0.173043</Low>
+    <Close>0.17805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-03-31</Date>
+    <Open>0.178048</Open>
+    <High>0.179052</High>
+    <Low>0.170068</Low>
+    <Close>0.176012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-01</Date>
+    <Open>0.177667</Open>
+    <High>0.199262</High>
+    <Low>0.173167</Low>
+    <Close>0.181955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-02</Date>
+    <Open>0.181594</Open>
+    <High>0.182665</High>
+    <Low>0.176313</Low>
+    <Close>0.179321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-03</Date>
+    <Open>0.17782</Open>
+    <High>0.229854</High>
+    <Low>0.174628</Low>
+    <Close>0.174677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-04</Date>
+    <Open>0.177051</Open>
+    <High>0.186039</High>
+    <Low>0.173031</Low>
+    <Close>0.183093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-05</Date>
+    <Open>0.182062</Open>
+    <High>0.230039</High>
+    <Low>0.181042</Low>
+    <Close>0.224081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-06</Date>
+    <Open>0.230051</Open>
+    <High>0.25005</High>
+    <Low>0.196071</Low>
+    <Close>0.2051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-07</Date>
+    <Open>0.205074</Open>
+    <High>0.208104</High>
+    <Low>0.18911</Low>
+    <Close>0.196145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-08</Date>
+    <Open>0.196145</Open>
+    <High>0.197164</High>
+    <Low>0.187107</Low>
+    <Close>0.190714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-09</Date>
+    <Open>0.189104</Open>
+    <High>0.19381</High>
+    <Low>0.184184</Low>
+    <Close>0.185808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-10</Date>
+    <Open>0.185853</Open>
+    <High>0.201679</High>
+    <Low>0.184751</Low>
+    <Close>0.191215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-11</Date>
+    <Open>0.193149</Open>
+    <High>0.195113</High>
+    <Low>0.184351</Low>
+    <Close>0.188825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-12</Date>
+    <Open>0.188409</Open>
+    <High>0.190775</High>
+    <Low>0.181864</Low>
+    <Close>0.189071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-13</Date>
+    <Open>0.189894</Open>
+    <High>0.190015</High>
+    <Low>0.187472</Low>
+    <Close>0.188375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-14</Date>
+    <Open>0.18814</Open>
+    <High>0.195925</High>
+    <Low>0.183979</Low>
+    <Close>0.193148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-15</Date>
+    <Open>0.193298</Open>
+    <High>0.195467</High>
+    <Low>0.187673</Low>
+    <Close>0.194415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-16</Date>
+    <Open>0.194725</Open>
+    <High>0.204265</High>
+    <Low>0.192844</Low>
+    <Close>0.203356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-17</Date>
+    <Open>0.203925</Open>
+    <High>0.206313</High>
+    <Low>0.185085</Low>
+    <Close>0.193106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-18</Date>
+    <Open>0.193108</Open>
+    <High>0.199119</High>
+    <Low>0.192077</Low>
+    <Close>0.195062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-19</Date>
+    <Open>0.193174</Open>
+    <High>0.201165</High>
+    <Low>0.183066</Low>
+    <Close>0.184094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-20</Date>
+    <Open>0.184059</Open>
+    <High>0.197061</High>
+    <Low>0.179068</Low>
+    <Close>0.184028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-21</Date>
+    <Open>0.181646</Open>
+    <High>0.189962</High>
+    <Low>0.176154</Low>
+    <Close>0.180566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-22</Date>
+    <Open>0.180151</Open>
+    <High>0.182141</High>
+    <Low>0.173842</Low>
+    <Close>0.180546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-23</Date>
+    <Open>0.181016</Open>
+    <High>0.186041</High>
+    <Low>0.178009</Low>
+    <Close>0.181009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-24</Date>
+    <Open>0.181002</Open>
+    <High>0.181022</High>
+    <Low>0.172981</Low>
+    <Close>0.177005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-25</Date>
+    <Open>0.177004</Open>
+    <High>0.179016</High>
+    <Low>0.169017</Low>
+    <Close>0.177042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-26</Date>
+    <Open>0.177041</Open>
+    <High>0.182998</High>
+    <Low>0.173054</Low>
+    <Close>0.175033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-27</Date>
+    <Open>0.175061</Open>
+    <High>0.180027</High>
+    <Low>0.173047</Low>
+    <Close>0.175967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-28</Date>
+    <Open>0.176198</Open>
+    <High>0.178401</High>
+    <Low>0.174294</Low>
+    <Close>0.175647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-29</Date>
+    <Open>0.176235</Open>
+    <High>0.180135</High>
+    <Low>0.173277</Low>
+    <Close>0.176812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-04-30</Date>
+    <Open>0.176795</Open>
+    <High>0.179102</High>
+    <Low>0.173104</Low>
+    <Close>0.176099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-01</Date>
+    <Open>0.176093</Open>
+    <High>0.176095</High>
+    <Low>0.16899</Low>
+    <Close>0.169049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-02</Date>
+    <Open>0.171153</Open>
+    <High>0.171973</High>
+    <Low>0.166025</Low>
+    <Close>0.169308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-03</Date>
+    <Open>0.168193</Open>
+    <High>0.17107</High>
+    <Low>0.165045</Low>
+    <Close>0.166763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-04</Date>
+    <Open>0.16605</Open>
+    <High>0.172587</High>
+    <Low>0.16605</Low>
+    <Close>0.16752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-05</Date>
+    <Open>0.16721</Open>
+    <High>0.171162</High>
+    <Low>0.16602</Low>
+    <Close>0.170885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-06</Date>
+    <Open>0.170877</Open>
+    <High>0.174643</High>
+    <Low>0.168666</Low>
+    <Close>0.170239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-07</Date>
+    <Open>0.169424</Open>
+    <High>0.172926</High>
+    <Low>0.168272</Low>
+    <Close>0.170499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-08</Date>
+    <Open>0.170381</Open>
+    <High>0.170381</High>
+    <Low>0.159623</Low>
+    <Close>0.160228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-09</Date>
+    <Open>0.160884</Open>
+    <High>0.164667</High>
+    <Low>0.156867</Low>
+    <Close>0.158248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-10</Date>
+    <Open>0.159145</Open>
+    <High>0.161438</High>
+    <Low>0.152347</Low>
+    <Close>0.154284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-11</Date>
+    <Open>0.154024</Open>
+    <High>0.164574</High>
+    <Low>0.152122</Low>
+    <Close>0.159059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-12</Date>
+    <Open>0.158809</Open>
+    <High>0.159579</High>
+    <Low>0.148544</Low>
+    <Close>0.153813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-13</Date>
+    <Open>0.153542</Open>
+    <High>0.160096</High>
+    <Low>0.153542</Low>
+    <Close>0.156028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-14</Date>
+    <Open>0.156044</Open>
+    <High>0.16034</High>
+    <Low>0.153602</Low>
+    <Close>0.154407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-15</Date>
+    <Open>0.155398</Open>
+    <High>0.159376</High>
+    <Low>0.154567</Low>
+    <Close>0.15781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-16</Date>
+    <Open>0.157594</Open>
+    <High>0.164155</High>
+    <Low>0.157594</Low>
+    <Close>0.16047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-17</Date>
+    <Open>0.160734</Open>
+    <High>0.163792</High>
+    <Low>0.158519</Low>
+    <Close>0.16031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-18</Date>
+    <Open>0.16032</Open>
+    <High>0.169585</High>
+    <Low>0.159828</Low>
+    <Close>0.160424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-19</Date>
+    <Open>0.161084</Open>
+    <High>0.164656</High>
+    <Low>0.159852</Low>
+    <Close>0.160737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-20</Date>
+    <Open>0.160964</Open>
+    <High>0.163514</High>
+    <Low>0.160164</Low>
+    <Close>0.160164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-21</Date>
+    <Open>0.161221</Open>
+    <High>0.167487</High>
+    <Low>0.160406</Low>
+    <Close>0.161147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-22</Date>
+    <Open>0.161357</Open>
+    <High>0.162327</High>
+    <Low>0.154477</Low>
+    <Close>0.158985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-23</Date>
+    <Open>0.158246</Open>
+    <High>0.162608</High>
+    <Low>0.15638</Low>
+    <Close>0.159256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-24</Date>
+    <Open>0.159874</Open>
+    <High>0.162002</High>
+    <Low>0.151557</Low>
+    <Close>0.153124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-25</Date>
+    <Open>0.151994</Open>
+    <High>0.16021</High>
+    <Low>0.150982</Low>
+    <Close>0.154043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-26</Date>
+    <Open>0.154612</Open>
+    <High>0.160046</High>
+    <Low>0.149322</Low>
+    <Close>0.154817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-27</Date>
+    <Open>0.155468</Open>
+    <High>0.160043</High>
+    <Low>0.153001</Low>
+    <Close>0.154182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="BORA">
+    <Date>2023-05-28</Date>
+    <Open>0.154072</Open>
+    <High>0.155985</High>
+    <Low>0.152665</Low>
+    <Close>0.154416</Close>
+  </Cryptocurrency>
+</Root>

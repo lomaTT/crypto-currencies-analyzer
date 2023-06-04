@@ -1,0 +1,2642 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-15</Date>
+    <Open>1.56335</Open>
+    <High>1.61276</High>
+    <Low>1.53619</Low>
+    <Close>1.61276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-16</Date>
+    <Open>1.87346</Open>
+    <High>1.87346</High>
+    <Low>1.62169</Low>
+    <Close>1.62169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-17</Date>
+    <Open>1.61364</Open>
+    <High>1.66297</High>
+    <Low>1.61364</Low>
+    <Close>1.64416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-18</Date>
+    <Open>1.64036</Open>
+    <High>1.64036</High>
+    <Low>1.49655</Low>
+    <Close>1.49655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-19</Date>
+    <Open>1.50254</Open>
+    <High>1.56539</High>
+    <Low>1.47752</Low>
+    <Close>1.56539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-20</Date>
+    <Open>1.60014</Open>
+    <High>1.7503</High>
+    <Low>1.5996</Low>
+    <Close>1.69301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-21</Date>
+    <Open>1.68717</Open>
+    <High>1.80805</High>
+    <Low>1.68717</Low>
+    <Close>1.78018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-22</Date>
+    <Open>1.72156</Open>
+    <High>1.84069</High>
+    <Low>1.72156</Low>
+    <Close>1.82551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-23</Date>
+    <Open>1.79636</Open>
+    <High>1.909</High>
+    <Low>1.79355</Low>
+    <Close>1.82221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-24</Date>
+    <Open>1.744</Open>
+    <High>1.80521</High>
+    <Low>1.69763</Low>
+    <Close>1.721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-25</Date>
+    <Open>1.74143</Open>
+    <High>1.74143</High>
+    <Low>1.61063</Low>
+    <Close>1.64962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-26</Date>
+    <Open>1.62481</Open>
+    <High>1.62481</High>
+    <Low>1.46019</Low>
+    <Close>1.47293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-27</Date>
+    <Open>1.43122</Open>
+    <High>1.43946</High>
+    <Low>1.41319</Low>
+    <Close>1.41319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-28</Date>
+    <Open>1.30555</Open>
+    <High>1.37858</High>
+    <Low>1.30555</Low>
+    <Close>1.31841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-29</Date>
+    <Open>1.3495</Open>
+    <High>1.37436</High>
+    <Low>1.31768</Low>
+    <Close>1.36703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-30</Date>
+    <Open>1.40674</Open>
+    <High>1.48181</High>
+    <Low>1.36364</Low>
+    <Close>1.42526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-05-31</Date>
+    <Open>1.4976</Open>
+    <High>1.4976</High>
+    <Low>1.39039</Low>
+    <Close>1.39039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-01</Date>
+    <Open>1.37895</Open>
+    <High>1.39888</High>
+    <Low>1.28998</Low>
+    <Close>1.28998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-02</Date>
+    <Open>1.26246</Open>
+    <High>1.31871</High>
+    <Low>1.26246</Low>
+    <Close>1.31871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-03</Date>
+    <Open>1.28984</Open>
+    <High>1.28984</High>
+    <Low>1.22003</Low>
+    <Close>1.24301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-04</Date>
+    <Open>1.23343</Open>
+    <High>1.23489</High>
+    <Low>1.09841</Low>
+    <Close>1.09841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-05</Date>
+    <Open>1.17515</Open>
+    <High>1.21986</High>
+    <Low>1.17515</Low>
+    <Close>1.21986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-06</Date>
+    <Open>1.26083</Open>
+    <High>1.27122</High>
+    <Low>1.22092</Low>
+    <Close>1.22477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-07</Date>
+    <Open>1.24054</Open>
+    <High>1.24054</High>
+    <Low>1.12104</Low>
+    <Close>1.14448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-08</Date>
+    <Open>1.15477</Open>
+    <High>1.22515</High>
+    <Low>1.13048</Low>
+    <Close>1.20201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-09</Date>
+    <Open>1.19452</Open>
+    <High>1.21412</High>
+    <Low>1.17675</Low>
+    <Close>1.18716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-10</Date>
+    <Open>1.18128</Open>
+    <High>1.25047</High>
+    <Low>1.1515</Low>
+    <Close>1.17874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-11</Date>
+    <Open>1.1803</Open>
+    <High>1.48949</High>
+    <Low>1.1803</Low>
+    <Close>1.29531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-12</Date>
+    <Open>1.28334</Open>
+    <High>1.41981</High>
+    <Low>1.23693</Low>
+    <Close>1.41981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-13</Date>
+    <Open>1.34359</Open>
+    <High>1.34359</High>
+    <Low>0.90243</Low>
+    <Close>0.90548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-14</Date>
+    <Open>0.92656</Open>
+    <High>0.9622</High>
+    <Low>0.92656</Low>
+    <Close>0.93348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-15</Date>
+    <Open>0.91092</Open>
+    <High>0.9454</High>
+    <Low>0.78366</Low>
+    <Close>0.87064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-16</Date>
+    <Open>0.874237</Open>
+    <High>0.921793</High>
+    <Low>0.830419</Low>
+    <Close>0.830419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-17</Date>
+    <Open>0.819959</Open>
+    <High>0.826216</High>
+    <Low>0.784285</Low>
+    <Close>0.826216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-18</Date>
+    <Open>0.858377</Open>
+    <High>0.947244</High>
+    <Low>0.845708</Low>
+    <Close>0.846637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-19</Date>
+    <Open>0.818986</Open>
+    <High>0.884637</High>
+    <Low>0.818986</Low>
+    <Close>0.828522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-20</Date>
+    <Open>0.846683</Open>
+    <High>0.855272</High>
+    <Low>0.753519</Low>
+    <Close>0.780441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-21</Date>
+    <Open>0.774747</Open>
+    <High>0.788411</High>
+    <Low>0.765257</Low>
+    <Close>0.77942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-22</Date>
+    <Open>0.789709</Open>
+    <High>0.789709</High>
+    <Low>0.746153</Low>
+    <Close>0.782517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-23</Date>
+    <Open>0.766932</Open>
+    <High>0.886013</High>
+    <Low>0.755568</Low>
+    <Close>0.854844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-24</Date>
+    <Open>0.845753</Open>
+    <High>0.906974</High>
+    <Low>0.845753</Low>
+    <Close>0.906974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-25</Date>
+    <Open>0.890908</Open>
+    <High>0.905502</High>
+    <Low>0.880345</Low>
+    <Close>0.880445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-26</Date>
+    <Open>0.923782</Open>
+    <High>0.923782</High>
+    <Low>0.879884</Low>
+    <Close>0.919385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-27</Date>
+    <Open>0.902758</Open>
+    <High>0.902758</High>
+    <Low>0.862808</Low>
+    <Close>0.865412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-28</Date>
+    <Open>0.850166</Open>
+    <High>0.850166</High>
+    <Low>0.803671</Low>
+    <Close>0.803671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-29</Date>
+    <Open>0.808736</Open>
+    <High>0.81498</High>
+    <Low>0.776013</Low>
+    <Close>0.776013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-06-30</Date>
+    <Open>0.766141</Open>
+    <High>0.785785</High>
+    <Low>0.745363</Low>
+    <Close>0.752396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-01</Date>
+    <Open>0.756191</Open>
+    <High>0.793646</High>
+    <Low>0.756191</Low>
+    <Close>0.767002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-02</Date>
+    <Open>0.808709</Open>
+    <High>0.810308</High>
+    <Low>0.798541</Low>
+    <Close>0.803854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-03</Date>
+    <Open>0.799839</Open>
+    <High>0.818017</High>
+    <Low>0.786897</Low>
+    <Close>0.789793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-04</Date>
+    <Open>0.799859</Open>
+    <High>0.82411</High>
+    <Low>0.796264</Low>
+    <Close>0.82411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-05</Date>
+    <Open>0.826707</Open>
+    <High>0.859967</High>
+    <Low>0.822394</Low>
+    <Close>0.822394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-06</Date>
+    <Open>0.856856</Open>
+    <High>0.867245</High>
+    <Low>0.853061</Low>
+    <Close>0.856071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-07</Date>
+    <Open>0.83568</Open>
+    <High>0.846368</High>
+    <Low>0.815003</Low>
+    <Close>0.845069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-08</Date>
+    <Open>0.890965</Open>
+    <High>0.891076</High>
+    <Low>0.837997</Low>
+    <Close>0.877373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-09</Date>
+    <Open>0.876174</Open>
+    <High>0.88267</High>
+    <Low>0.859584</Low>
+    <Close>0.864394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-10</Date>
+    <Open>0.861783</Open>
+    <High>0.880571</High>
+    <Low>0.829302</Low>
+    <Close>0.832001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-11</Date>
+    <Open>0.837297</Open>
+    <High>0.845423</High>
+    <Low>0.815429</Low>
+    <Close>0.845423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-12</Date>
+    <Open>0.81017</Open>
+    <High>0.81017</High>
+    <Low>0.746653</Low>
+    <Close>0.770928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-13</Date>
+    <Open>0.738161</Open>
+    <High>0.775124</High>
+    <Low>0.738161</Low>
+    <Close>0.757542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-14</Date>
+    <Open>0.770106</Open>
+    <High>0.830435</High>
+    <Low>0.770106</Low>
+    <Close>0.821307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-15</Date>
+    <Open>0.846692</Open>
+    <High>0.878161</High>
+    <Low>0.839796</Low>
+    <Close>0.871351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-16</Date>
+    <Open>0.845746</Open>
+    <High>0.872825</High>
+    <Low>0.845746</Low>
+    <Close>0.872825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-17</Date>
+    <Open>0.88726</Open>
+    <High>0.889249</High>
+    <Low>0.85327</Low>
+    <Close>0.85327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-18</Date>
+    <Open>0.887543</Open>
+    <High>0.921725</High>
+    <Low>0.876649</Low>
+    <Close>0.879662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-19</Date>
+    <Open>0.891359</Open>
+    <High>0.918372</High>
+    <Low>0.891359</Low>
+    <Close>0.918372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-20</Date>
+    <Open>0.968765</Open>
+    <High>0.977696</High>
+    <Low>0.943632</Low>
+    <Close>0.943632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-21</Date>
+    <Open>0.928521</Open>
+    <High>0.988848</High>
+    <Low>0.914109</Low>
+    <Close>0.988848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-22</Date>
+    <Open>0.988838</Open>
+    <High>1.02636</High>
+    <Low>0.951605</Low>
+    <Close>1.02636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-23</Date>
+    <Open>1.00119</Open>
+    <High>1.0212</High>
+    <Low>0.929019</Low>
+    <Close>0.947095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-24</Date>
+    <Open>0.963925</Open>
+    <High>0.982512</High>
+    <Low>0.949442</Low>
+    <Close>0.957882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-25</Date>
+    <Open>0.927009</Open>
+    <High>0.927009</High>
+    <Low>0.912073</Low>
+    <Close>0.9201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-26</Date>
+    <Open>0.894818</Open>
+    <High>0.913118</High>
+    <Low>0.847776</Low>
+    <Close>0.847776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-27</Date>
+    <Open>0.865195</Open>
+    <High>0.942326</High>
+    <Low>0.865195</Low>
+    <Close>0.942326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-28</Date>
+    <Open>0.974483</Open>
+    <High>1.06661</High>
+    <Low>0.974483</Low>
+    <Close>1.06661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-29</Date>
+    <Open>1.06767</Open>
+    <High>1.06767</High>
+    <Low>1.03083</Low>
+    <Close>1.03083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-30</Date>
+    <Open>1.04465</Open>
+    <High>1.07172</High>
+    <Low>1.04465</Low>
+    <Close>1.07172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-07-31</Date>
+    <Open>1.04106</Open>
+    <High>1.07982</High>
+    <Low>1.04106</Low>
+    <Close>1.06506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-01</Date>
+    <Open>1.05404</Open>
+    <High>1.05542</High>
+    <Low>1.03808</Low>
+    <Close>1.03808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-02</Date>
+    <Open>1.0157</Open>
+    <High>1.02344</High>
+    <Low>0.99523</Low>
+    <Close>1.01051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-03</Date>
+    <Open>1.006</Open>
+    <High>1.03701</High>
+    <Low>1.006</Low>
+    <Close>1.03538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-04</Date>
+    <Open>1.05216</Open>
+    <High>1.07928</High>
+    <Low>1.02877</Low>
+    <Close>1.07928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-05</Date>
+    <Open>1.01975</Open>
+    <High>1.07347</High>
+    <Low>1.01975</Low>
+    <Close>1.06635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-06</Date>
+    <Open>1.0635</Open>
+    <High>1.08627</High>
+    <Low>1.0635</Low>
+    <Close>1.07636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-07</Date>
+    <Open>1.09246</Open>
+    <High>1.14863</High>
+    <Low>1.0862</Low>
+    <Close>1.14021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-08</Date>
+    <Open>1.14331</Open>
+    <High>1.19948</High>
+    <Low>1.13779</Low>
+    <Close>1.17906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-09</Date>
+    <Open>1.15863</Open>
+    <High>1.15863</High>
+    <Low>1.11797</Low>
+    <Close>1.11797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-10</Date>
+    <Open>1.15505</Open>
+    <High>1.17276</High>
+    <Low>1.08865</Low>
+    <Close>1.1592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-11</Date>
+    <Open>1.19519</Open>
+    <High>1.20515</High>
+    <Low>1.18392</Low>
+    <Close>1.18881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-12</Date>
+    <Open>1.18009</Open>
+    <High>1.19049</High>
+    <Low>1.16231</Low>
+    <Close>1.16231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-13</Date>
+    <Open>1.1868</Open>
+    <High>1.26023</High>
+    <Low>1.1868</Low>
+    <Close>1.22429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-14</Date>
+    <Open>1.22618</Open>
+    <High>1.22618</High>
+    <Low>1.19503</Low>
+    <Close>1.19503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-15</Date>
+    <Open>1.17039</Open>
+    <High>1.18384</High>
+    <Low>1.1507</Low>
+    <Close>1.17183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-16</Date>
+    <Open>1.16738</Open>
+    <High>1.20908</High>
+    <Low>1.16738</Low>
+    <Close>1.20908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-17</Date>
+    <Open>1.20023</Open>
+    <High>1.21407</High>
+    <Low>1.20023</Low>
+    <Close>1.21407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-18</Date>
+    <Open>1.21562</Open>
+    <High>1.2322</High>
+    <Low>1.21562</Low>
+    <Close>1.2322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-19</Date>
+    <Open>1.23322</Open>
+    <High>1.23322</High>
+    <Low>1.1088</Low>
+    <Close>1.13791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-20</Date>
+    <Open>1.12961</Open>
+    <High>1.13553</High>
+    <Low>1.09082</Low>
+    <Close>1.09082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-21</Date>
+    <Open>1.08738</Open>
+    <High>1.14177</High>
+    <Low>1.08738</Low>
+    <Close>1.1398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-22</Date>
+    <Open>1.14392</Open>
+    <High>1.14392</High>
+    <Low>1.09132</Low>
+    <Close>1.09705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-23</Date>
+    <Open>1.11863</Open>
+    <High>1.18126</High>
+    <Low>1.11863</Low>
+    <Close>1.17492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-24</Date>
+    <Open>1.18646</Open>
+    <High>1.25753</High>
+    <Low>1.15485</Low>
+    <Close>1.25753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-25</Date>
+    <Open>1.22559</Open>
+    <High>1.28222</High>
+    <Low>1.19665</Low>
+    <Close>1.28222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-26</Date>
+    <Open>1.26734</Open>
+    <High>1.27327</High>
+    <Low>1.20762</Low>
+    <Close>1.20831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-27</Date>
+    <Open>1.15116</Open>
+    <High>1.16401</High>
+    <Low>1.13311</Low>
+    <Close>1.16401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-28</Date>
+    <Open>1.125</Open>
+    <High>1.15547</High>
+    <Low>1.125</Low>
+    <Close>1.14048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-29</Date>
+    <Open>1.09421</Open>
+    <High>1.17254</High>
+    <Low>1.09325</Low>
+    <Close>1.14253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-30</Date>
+    <Open>1.14379</Open>
+    <High>1.18947</High>
+    <Low>1.14151</Low>
+    <Close>1.14151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-08-31</Date>
+    <Open>1.17942</Open>
+    <High>1.1941</High>
+    <Low>1.15295</Low>
+    <Close>1.15295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-01</Date>
+    <Open>1.18864</Open>
+    <High>1.23788</High>
+    <Low>1.1786</Low>
+    <Close>1.19785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-02</Date>
+    <Open>1.25735</Open>
+    <High>1.25735</High>
+    <Low>1.21454</Low>
+    <Close>1.24692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-03</Date>
+    <Open>1.22542</Open>
+    <High>1.23735</High>
+    <Low>1.1829</Low>
+    <Close>1.2097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-04</Date>
+    <Open>1.213</Open>
+    <High>1.22712</High>
+    <Low>1.207</Low>
+    <Close>1.22712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-05</Date>
+    <Open>1.21152</Open>
+    <High>1.2442</High>
+    <Low>1.2014</Low>
+    <Close>1.21172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-06</Date>
+    <Open>1.21332</Open>
+    <High>1.21332</High>
+    <Low>1.1688</Low>
+    <Close>1.1688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-07</Date>
+    <Open>1.17917</Open>
+    <High>1.18968</High>
+    <Low>1.13898</Low>
+    <Close>1.18968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-08</Date>
+    <Open>1.20202</Open>
+    <High>1.28182</High>
+    <Low>1.20202</Low>
+    <Close>1.28182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-09</Date>
+    <Open>1.29219</Open>
+    <High>1.40441</High>
+    <Low>1.29219</Low>
+    <Close>1.40441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-10</Date>
+    <Open>1.38858</Open>
+    <High>1.41261</High>
+    <Low>1.38858</Low>
+    <Close>1.41261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-11</Date>
+    <Open>1.43013</Open>
+    <High>1.43013</High>
+    <Low>1.41878</Low>
+    <Close>1.41878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-12</Date>
+    <Open>1.40844</Open>
+    <High>1.40844</High>
+    <Low>1.40844</Low>
+    <Close>1.40844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-13</Date>
+    <Open>1.39626</Open>
+    <High>1.43037</High>
+    <Low>1.334</Low>
+    <Close>1.334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-14</Date>
+    <Open>1.29449</Open>
+    <High>1.32367</High>
+    <Low>1.29449</Low>
+    <Close>1.32367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-15</Date>
+    <Open>1.29907</Open>
+    <High>1.34275</High>
+    <Low>1.27353</Low>
+    <Close>1.34275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-16</Date>
+    <Open>1.35828</Open>
+    <High>1.38486</High>
+    <Low>1.35828</Low>
+    <Close>1.38486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-17</Date>
+    <Open>1.4249</Open>
+    <High>1.4249</High>
+    <Low>1.4249</Low>
+    <Close>1.4249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-18</Date>
+    <Open>1.4125</Open>
+    <High>1.4125</High>
+    <Low>1.4125</Low>
+    <Close>1.4125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-19</Date>
+    <Open>1.3438</Open>
+    <High>1.36924</High>
+    <Low>1.3438</Low>
+    <Close>1.36924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-20</Date>
+    <Open>1.35287</Open>
+    <High>1.35287</High>
+    <Low>1.33083</Low>
+    <Close>1.33083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-21</Date>
+    <Open>1.24852</Open>
+    <High>1.25643</High>
+    <Low>1.24852</Low>
+    <Close>1.25643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-22</Date>
+    <Open>1.1984</Open>
+    <High>1.2379</High>
+    <Low>1.1984</Low>
+    <Close>1.2379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-23</Date>
+    <Open>1.28137</Open>
+    <High>1.28137</High>
+    <Low>1.22148</Low>
+    <Close>1.22148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-24</Date>
+    <Open>1.22729</Open>
+    <High>1.22729</High>
+    <Low>1.22635</Low>
+    <Close>1.22635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-25</Date>
+    <Open>1.19345</Open>
+    <High>1.19345</High>
+    <Low>1.19345</Low>
+    <Close>1.19345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-26</Date>
+    <Open>1.1943</Open>
+    <High>1.1967</High>
+    <Low>1.1943</Low>
+    <Close>1.1967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-27</Date>
+    <Open>1.19698</Open>
+    <High>1.19698</High>
+    <Low>1.1616</Low>
+    <Close>1.1616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-28</Date>
+    <Open>1.16678</Open>
+    <High>1.17708</High>
+    <Low>1.1426</Low>
+    <Close>1.1426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-29</Date>
+    <Open>1.1262</Open>
+    <High>1.1262</High>
+    <Low>1.1262</Low>
+    <Close>1.1262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-09-30</Date>
+    <Open>1.1022</Open>
+    <High>1.10442</High>
+    <Low>1.1022</Low>
+    <Close>1.10442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-01</Date>
+    <Open>1.11071</Open>
+    <High>1.11071</High>
+    <Low>1.11071</Low>
+    <Close>1.11071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-02</Date>
+    <Open>1.0943</Open>
+    <High>1.0943</High>
+    <Low>1.0865</Low>
+    <Close>1.0865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-03</Date>
+    <Open>1.0459</Open>
+    <High>1.0459</High>
+    <Low>1.0459</Low>
+    <Close>1.0459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-04</Date>
+    <Open>1.10342</Open>
+    <High>1.10342</High>
+    <Low>1.10342</Low>
+    <Close>1.10342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-05</Date>
+    <Open>1.07652</Open>
+    <High>1.08412</High>
+    <Low>1.07652</Low>
+    <Close>1.08171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-06</Date>
+    <Open>1.08894</Open>
+    <High>1.08894</High>
+    <Low>1.08894</Low>
+    <Close>1.08894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-07</Date>
+    <Open>1.10042</Open>
+    <High>1.10042</High>
+    <Low>1.08786</Low>
+    <Close>1.08786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-08</Date>
+    <Open>1.12315</Open>
+    <High>1.12315</High>
+    <Low>1.12315</Low>
+    <Close>1.12315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-09</Date>
+    <Open>1.12811</Open>
+    <High>1.12811</High>
+    <Low>1.12352</Low>
+    <Close>1.12352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-10</Date>
+    <Open>1.12531</Open>
+    <High>1.12531</High>
+    <Low>1.09579</Low>
+    <Close>1.09579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-11</Date>
+    <Open>1.1245</Open>
+    <High>1.1245</High>
+    <Low>1.1245</Low>
+    <Close>1.1245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-13</Date>
+    <Open>1.08819</Open>
+    <High>1.08819</High>
+    <Low>1.06496</Low>
+    <Close>1.0687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-14</Date>
+    <Open>1.16008</Open>
+    <High>1.16009</High>
+    <Low>1.16008</Low>
+    <Close>1.16009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-16</Date>
+    <Open>1.1792</Open>
+    <High>1.1792</High>
+    <Low>1.1792</Low>
+    <Close>1.1792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-17</Date>
+    <Open>1.20913</Open>
+    <High>1.20913</High>
+    <Low>1.20913</Low>
+    <Close>1.20913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-19</Date>
+    <Open>1.19077</Open>
+    <High>1.19822</High>
+    <Low>1.19077</Low>
+    <Close>1.19596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-20</Date>
+    <Open>1.15472</Open>
+    <High>1.16562</High>
+    <Low>1.15009</Low>
+    <Close>1.15262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-21</Date>
+    <Open>1.15079</Open>
+    <High>1.15079</High>
+    <Low>1.15079</Low>
+    <Close>1.15079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-22</Date>
+    <Open>1.14809</Open>
+    <High>1.16125</High>
+    <Low>1.14809</Low>
+    <Close>1.16125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-23</Date>
+    <Open>1.17564</Open>
+    <High>1.17564</High>
+    <Low>1.16082</Low>
+    <Close>1.16082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-24</Date>
+    <Open>1.18845</Open>
+    <High>1.19901</High>
+    <Low>1.18683</Low>
+    <Close>1.18683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-25</Date>
+    <Open>1.17788</Open>
+    <High>1.21987</High>
+    <Low>1.16472</Low>
+    <Close>1.21987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-26</Date>
+    <Open>1.23642</Open>
+    <High>1.23642</High>
+    <Low>1.23642</Low>
+    <Close>1.23642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-27</Date>
+    <Open>1.3012</Open>
+    <High>1.3012</High>
+    <Low>1.27628</Low>
+    <Close>1.27628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-28</Date>
+    <Open>1.58926</Open>
+    <High>1.65026</High>
+    <Low>1.40731</Low>
+    <Close>1.58732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-29</Date>
+    <Open>1.58532</Open>
+    <High>1.76155</High>
+    <Low>1.51136</Low>
+    <Close>1.55637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-30</Date>
+    <Open>1.55537</Open>
+    <High>1.56137</High>
+    <Low>1.4934</Low>
+    <Close>1.5233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-10-31</Date>
+    <Open>1.52332</Open>
+    <High>1.69788</High>
+    <Low>1.51511</Low>
+    <Close>1.59087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-01</Date>
+    <Open>1.5879</Open>
+    <High>1.61979</High>
+    <Low>1.53577</Low>
+    <Close>1.55781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-02</Date>
+    <Open>1.56081</Open>
+    <High>1.56081</High>
+    <Low>1.44</Low>
+    <Close>1.46793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-03</Date>
+    <Open>1.46993</Open>
+    <High>1.54389</High>
+    <Low>1.46993</Low>
+    <Close>1.51997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-04</Date>
+    <Open>1.51898</Open>
+    <High>1.649</High>
+    <Low>1.50792</Low>
+    <Close>1.62311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-05</Date>
+    <Open>1.62411</Open>
+    <High>1.6792</High>
+    <Low>1.61813</Low>
+    <Close>1.64008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-06</Date>
+    <Open>1.64508</Open>
+    <High>1.64608</High>
+    <Low>1.57216</Low>
+    <Close>1.57805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-07</Date>
+    <Open>1.57114</Open>
+    <High>1.61305</High>
+    <Low>1.51414</Low>
+    <Close>1.52917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-08</Date>
+    <Open>1.533</Open>
+    <High>1.55078</High>
+    <Low>1.27003</Low>
+    <Close>1.35104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-09</Date>
+    <Open>1.33198</Open>
+    <High>1.36685</High>
+    <Low>1.08411</Low>
+    <Close>1.11208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-10</Date>
+    <Open>1.11249</Open>
+    <High>1.39202</High>
+    <Low>1.0958</Low>
+    <Close>1.29665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-11</Date>
+    <Open>1.30962</Open>
+    <High>1.483</High>
+    <Low>1.20036</Low>
+    <Close>1.23348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-12</Date>
+    <Open>1.23025</Open>
+    <High>1.24852</High>
+    <Low>1.17688</Low>
+    <Close>1.18985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-13</Date>
+    <Open>1.19285</Open>
+    <High>1.20395</High>
+    <Low>1.11977</Low>
+    <Close>1.12942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-14</Date>
+    <Open>1.12343</Open>
+    <High>1.17359</High>
+    <Low>1.07528</Low>
+    <Close>1.13042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-15</Date>
+    <Open>1.1303</Open>
+    <High>1.2008</High>
+    <Low>1.1303</Low>
+    <Close>1.1797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-16</Date>
+    <Open>1.17856</Open>
+    <High>1.18386</High>
+    <Low>1.11988</Low>
+    <Close>1.12694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-17</Date>
+    <Open>1.132</Open>
+    <High>1.14513</High>
+    <Low>1.10204</Low>
+    <Close>1.11114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-18</Date>
+    <Open>1.11312</Open>
+    <High>1.14708</High>
+    <Low>1.0992</Low>
+    <Close>1.11472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-19</Date>
+    <Open>1.11271</Open>
+    <High>1.12179</High>
+    <Low>1.09777</Low>
+    <Close>1.11982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-20</Date>
+    <Open>1.12183</Open>
+    <High>1.13366</High>
+    <Low>1.05382</Low>
+    <Close>1.05541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-21</Date>
+    <Open>1.05641</Open>
+    <High>1.05648</High>
+    <Low>1.00096</Low>
+    <Close>1.01677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-22</Date>
+    <Open>1.01678</Open>
+    <High>1.03975</High>
+    <Low>0.99071</Low>
+    <Close>1.02968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-23</Date>
+    <Open>1.02667</Open>
+    <High>1.06976</High>
+    <Low>1.01588</Low>
+    <Close>1.01788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-24</Date>
+    <Open>1.01788</Open>
+    <High>1.03917</High>
+    <Low>1.00908</Low>
+    <Close>1.02614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-25</Date>
+    <Open>1.02711</Open>
+    <High>1.03018</High>
+    <Low>0.99618</Low>
+    <Close>1.01242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-26</Date>
+    <Open>1.01142</Open>
+    <High>1.04136</High>
+    <Low>1.01142</Low>
+    <Close>1.02435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-27</Date>
+    <Open>1.02341</Open>
+    <High>1.07938</High>
+    <Low>1.02038</Low>
+    <Close>1.02637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-28</Date>
+    <Open>1.02338</Open>
+    <High>1.02338</High>
+    <Low>0.96548</Low>
+    <Close>0.97964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-29</Date>
+    <Open>0.98063</Open>
+    <High>1.00766</High>
+    <Low>0.97658</Low>
+    <Close>1.00261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-11-30</Date>
+    <Open>1.00063</Open>
+    <High>1.03054</High>
+    <Low>0.99694</Low>
+    <Close>1.01906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-01</Date>
+    <Open>1.0171</Open>
+    <High>1.0201</High>
+    <Low>0.983118</Low>
+    <Close>0.99306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-02</Date>
+    <Open>0.99406</Open>
+    <High>1.00412</High>
+    <Low>0.981088</Low>
+    <Close>1.00206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-03</Date>
+    <Open>1.00306</Open>
+    <High>1.00806</High>
+    <Low>0.981196</Low>
+    <Close>0.982196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-04</Date>
+    <Open>0.980098</Open>
+    <High>1.04521</High>
+    <Low>0.975097</Low>
+    <Close>0.989198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-05</Date>
+    <Open>0.986197</Open>
+    <High>1.00708</High>
+    <Low>0.971961</Low>
+    <Close>0.98102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-06</Date>
+    <Open>0.98002</Open>
+    <High>0.98301</High>
+    <Low>0.946981</Low>
+    <Close>0.946981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-07</Date>
+    <Open>0.949981</Open>
+    <High>0.953</High>
+    <Low>0.899982</Low>
+    <Close>0.908982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-08</Date>
+    <Open>0.910009</Open>
+    <High>0.918982</High>
+    <Low>0.894089</Low>
+    <Close>0.914101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-09</Date>
+    <Open>0.915064</Open>
+    <High>0.922101</High>
+    <Low>0.896009</Low>
+    <Close>0.900045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-10</Date>
+    <Open>0.900045</Open>
+    <High>4.58105</High>
+    <Low>0.886</Low>
+    <Close>1.04798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-11</Date>
+    <Open>1.04698</Open>
+    <High>1.05</High>
+    <Low>0.938094</Low>
+    <Close>0.938094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-12</Date>
+    <Open>0.943094</Open>
+    <High>0.944189</High>
+    <Low>0.894072</Low>
+    <Close>0.928065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-13</Date>
+    <Open>0.930065</Open>
+    <High>0.943141</High>
+    <Low>0.895269</Low>
+    <Close>0.916789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-14</Date>
+    <Open>0.916743</Open>
+    <High>0.920843</High>
+    <Low>0.885027</Low>
+    <Close>0.890062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-15</Date>
+    <Open>0.888</Open>
+    <High>0.894089</High>
+    <Low>0.858086</Low>
+    <Close>0.859086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-16</Date>
+    <Open>0.858172</Open>
+    <High>0.870087</High>
+    <Low>0.755076</Low>
+    <Close>0.775077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-17</Date>
+    <Open>0.773155</Open>
+    <High>0.781156</High>
+    <Low>0.747075</Low>
+    <Close>0.774101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-18</Date>
+    <Open>0.776093</Open>
+    <High>0.78307</High>
+    <Low>0.762069</Low>
+    <Close>0.7711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-19</Date>
+    <Open>0.7721</Open>
+    <High>0.772131</High>
+    <Low>0.738</Low>
+    <Close>0.743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-20</Date>
+    <Open>0.745007</Open>
+    <High>0.762069</High>
+    <Low>0.730993</Low>
+    <Close>0.741022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-21</Date>
+    <Open>0.74203</Open>
+    <High>0.74403</High>
+    <Low>0.711021</Low>
+    <Close>0.713029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-22</Date>
+    <Open>0.712028</Open>
+    <High>0.727971</High>
+    <Low>0.70293</Low>
+    <Close>0.724891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-23</Date>
+    <Open>0.725891</Open>
+    <High>0.75003</High>
+    <Low>0.721928</Low>
+    <Close>0.738933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-24</Date>
+    <Open>0.737963</Open>
+    <High>0.917908</High>
+    <Low>0.737963</Low>
+    <Close>0.74697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-25</Date>
+    <Open>0.746955</Open>
+    <High>0.750977</High>
+    <Low>0.733905</Low>
+    <Close>0.744888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-26</Date>
+    <Open>0.743933</Open>
+    <High>0.747933</High>
+    <Low>0.738926</Low>
+    <Close>0.743844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-27</Date>
+    <Open>0.744858</Open>
+    <High>0.760833</High>
+    <Low>0.735698</Low>
+    <Close>0.736742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-28</Date>
+    <Open>0.733714</Open>
+    <High>0.737771</High>
+    <Low>0.706597</Low>
+    <Close>0.708603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-29</Date>
+    <Open>0.707625</Open>
+    <High>0.707653</High>
+    <Low>0.694715</Low>
+    <Close>0.698678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-30</Date>
+    <Open>0.699678</Open>
+    <High>0.703641</High>
+    <Low>0.692716</Low>
+    <Close>0.693639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2022-12-31</Date>
+    <Open>0.695659</Open>
+    <High>0.696658</High>
+    <Low>0.683644</Low>
+    <Close>0.683644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-01</Date>
+    <Open>0.683658</Open>
+    <High>0.689689</High>
+    <Low>0.676621</Low>
+    <Close>0.686684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-02</Date>
+    <Open>0.686677</Open>
+    <High>0.724696</High>
+    <Low>0.68272</Low>
+    <Close>0.714764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-03</Date>
+    <Open>0.713779</Open>
+    <High>0.821663</High>
+    <Low>0.711786</Low>
+    <Close>0.722732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-04</Date>
+    <Open>0.726724</Open>
+    <High>0.741696</High>
+    <Low>0.72471</Low>
+    <Close>0.730759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-05</Date>
+    <Open>0.731758</Open>
+    <High>0.735779</High>
+    <Low>0.716742</Low>
+    <Close>0.719748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-06</Date>
+    <Open>0.716742</Open>
+    <High>0.724732</High>
+    <Low>0.691626</Low>
+    <Close>0.723797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-07</Date>
+    <Open>0.723776</Open>
+    <High>0.726796</High>
+    <Low>0.717777</Low>
+    <Close>0.71982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-08</Date>
+    <Open>0.71982</Open>
+    <High>0.733868</High>
+    <Low>0.714907</Low>
+    <Close>0.731861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-09</Date>
+    <Open>0.731861</Open>
+    <High>0.775969</High>
+    <Low>0.731861</Low>
+    <Close>0.75394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-10</Date>
+    <Open>0.751</Open>
+    <High>0.765977</High>
+    <Low>0.74597</Low>
+    <Close>0.762053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-11</Date>
+    <Open>0.766115</Open>
+    <High>0.800032</High>
+    <Low>0.756894</Low>
+    <Close>0.775984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-12</Date>
+    <Open>0.776</Open>
+    <High>0.818049</High>
+    <Low>0.776</Low>
+    <Close>0.816082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-13</Date>
+    <Open>0.816073</Open>
+    <High>0.83905</High>
+    <Low>0.808887</Low>
+    <Close>0.833083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-14</Date>
+    <Open>0.830066</Open>
+    <High>0.87907</High>
+    <Low>0.830066</Low>
+    <Close>0.860034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-15</Date>
+    <Open>0.861086</Open>
+    <High>0.866303</High>
+    <Low>0.840092</Low>
+    <Close>0.860249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-16</Date>
+    <Open>0.859249</Open>
+    <High>0.906353</High>
+    <Low>0.838008</Low>
+    <Close>0.838017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-17</Date>
+    <Open>0.836025</Open>
+    <High>0.844068</High>
+    <Low>0.82605</Low>
+    <Close>0.833092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-18</Date>
+    <Open>0.831083</Open>
+    <High>0.835067</High>
+    <Low>0.77993</Low>
+    <Close>0.790945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-19</Date>
+    <Open>0.79396</Open>
+    <High>0.798976</High>
+    <Low>0.782</Low>
+    <Close>0.783976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-20</Date>
+    <Open>0.784047</Open>
+    <High>0.853128</High>
+    <Low>0.783976</Low>
+    <Close>0.848144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-21</Date>
+    <Open>0.849161</Open>
+    <High>0.865164</High>
+    <Low>0.840235</Low>
+    <Close>0.851128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-22</Date>
+    <Open>0.848136</Open>
+    <High>1.18521</High>
+    <Low>0.833083</Low>
+    <Close>0.909182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-23</Date>
+    <Open>0.913173</Open>
+    <High>1.01414</High>
+    <Low>0.912182</Low>
+    <Close>0.948142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-24</Date>
+    <Open>0.950152</Open>
+    <High>0.9971</High>
+    <Low>0.918147</Low>
+    <Close>0.92512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-25</Date>
+    <Open>0.919074</Open>
+    <High>1.00214</High>
+    <Low>0.899117</Low>
+    <Close>0.977166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-26</Date>
+    <Open>0.974166</Open>
+    <High>0.993189</High>
+    <Low>0.945028</Low>
+    <Close>0.952067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-27</Date>
+    <Open>0.953076</Open>
+    <High>0.989455</High>
+    <Low>0.932214</Low>
+    <Close>0.96829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-28</Date>
+    <Open>0.978333</Open>
+    <High>1.00753</High>
+    <Low>0.960182</Low>
+    <Close>0.960192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-29</Date>
+    <Open>0.962212</Open>
+    <High>1.23021</High>
+    <Low>0.955229</Low>
+    <Close>1.04705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-30</Date>
+    <Open>1.04603</Open>
+    <High>1.08905</High>
+    <Low>0.950981</Low>
+    <Close>0.959048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-01-31</Date>
+    <Open>0.960058</Open>
+    <High>0.985049</High>
+    <Low>0.954933</Low>
+    <Close>0.978098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-01</Date>
+    <Open>0.974068</Open>
+    <High>1.174</High>
+    <Low>0.969029</Low>
+    <Close>1.05306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-02</Date>
+    <Open>1.05405</Open>
+    <High>1.11109</High>
+    <Low>1.04406</Low>
+    <Close>1.05921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-03</Date>
+    <Open>1.06121</Open>
+    <High>1.14906</High>
+    <Low>1.04821</Low>
+    <Close>1.09509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-04</Date>
+    <Open>1.09809</Open>
+    <High>1.11208</High>
+    <Low>1.03817</Low>
+    <Close>1.0631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-05</Date>
+    <Open>1.0661</Open>
+    <High>1.0661</High>
+    <Low>1.00431</Low>
+    <Close>1.01826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-06</Date>
+    <Open>1.01625</Open>
+    <High>1.04102</High>
+    <Low>0.99019</Low>
+    <Close>1.03204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-07</Date>
+    <Open>1.03003</Open>
+    <High>1.09407</High>
+    <Low>1.01507</Low>
+    <Close>1.09407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-08</Date>
+    <Open>1.09305</Open>
+    <High>1.10907</High>
+    <Low>1.05307</Low>
+    <Close>1.10307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-09</Date>
+    <Open>1.10609</Open>
+    <High>1.13397</High>
+    <Low>1.00115</Low>
+    <Close>1.0061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-10</Date>
+    <Open>1.00614</Open>
+    <High>1.03625</High>
+    <Low>1.00208</Low>
+    <Close>1.00813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-11</Date>
+    <Open>1.00816</Open>
+    <High>1.02309</High>
+    <Low>0.9961</Low>
+    <Close>1.02109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-12</Date>
+    <Open>1.0211</Open>
+    <High>1.03711</High>
+    <Low>1.00115</Low>
+    <Close>1.01107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-13</Date>
+    <Open>1.01409</Open>
+    <High>1.01409</High>
+    <Low>0.93568</Low>
+    <Close>0.95353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-14</Date>
+    <Open>0.95646</Open>
+    <High>0.992397</High>
+    <Low>0.95275</Low>
+    <Close>0.978381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-15</Date>
+    <Open>0.979411</Open>
+    <High>1.03014</High>
+    <Low>0.976264</Low>
+    <Close>1.02918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-16</Date>
+    <Open>1.02716</Open>
+    <High>1.05318</High>
+    <Low>0.9991</Low>
+    <Close>1.00032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-17</Date>
+    <Open>0.99928</Open>
+    <High>1.02999</High>
+    <Low>0.989119</Low>
+    <Close>1.01609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-18</Date>
+    <Open>1.01713</Open>
+    <High>1.07322</High>
+    <Low>1.00919</Low>
+    <Close>1.06417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-19</Date>
+    <Open>1.06518</Open>
+    <High>1.10817</High>
+    <Low>1.03528</Low>
+    <Close>1.04523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-20</Date>
+    <Open>1.04424</Open>
+    <High>1.08511</High>
+    <Low>0.988277</Low>
+    <Close>1.0721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-21</Date>
+    <Open>1.07107</Open>
+    <High>1.08817</High>
+    <Low>1.01415</Low>
+    <Close>1.02426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-22</Date>
+    <Open>1.02517</Open>
+    <High>1.0331</High>
+    <Low>0.98417</Low>
+    <Close>1.0081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-23</Date>
+    <Open>1.00905</Open>
+    <High>1.02509</High>
+    <Low>0.99911</Low>
+    <Close>1.01108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-24</Date>
+    <Open>1.01015</Open>
+    <High>1.01915</High>
+    <Low>0.97011</Low>
+    <Close>0.97199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-25</Date>
+    <Open>0.97302</Open>
+    <High>0.97705</High>
+    <Low>0.93117</Low>
+    <Close>0.94606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-26</Date>
+    <Open>0.9481</Open>
+    <High>0.979069</High>
+    <Low>0.9481</Low>
+    <Close>0.964096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-27</Date>
+    <Open>0.970107</Open>
+    <High>0.976029</High>
+    <Low>0.950048</Low>
+    <Close>0.959048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-02-28</Date>
+    <Open>0.959048</Open>
+    <High>0.968039</High>
+    <Low>0.935243</Low>
+    <Close>0.944198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-01</Date>
+    <Open>0.944198</Open>
+    <High>0.951019</High>
+    <Low>0.91511</Low>
+    <Close>0.940113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-02</Date>
+    <Open>0.942141</Open>
+    <High>0.949142</High>
+    <Low>0.891938</Low>
+    <Close>0.907073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-03</Date>
+    <Open>0.908082</Open>
+    <High>0.908082</High>
+    <Low>0.843034</Low>
+    <Close>0.848059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-04</Date>
+    <Open>0.848076</Open>
+    <High>0.856094</High>
+    <Low>0.832042</Low>
+    <Close>0.840059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-05</Date>
+    <Open>0.841059</Open>
+    <High>0.866087</High>
+    <Low>0.841059</Low>
+    <Close>0.851102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-06</Date>
+    <Open>0.850094</Open>
+    <High>0.866957</High>
+    <Low>0.83921</Low>
+    <Close>0.85794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-07</Date>
+    <Open>0.859914</Open>
+    <High>0.862</High>
+    <Low>0.832883</Low>
+    <Close>0.840042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-08</Date>
+    <Open>0.838992</Open>
+    <High>0.847949</High>
+    <Low>0.80196</Low>
+    <Close>0.80396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-09</Date>
+    <Open>0.80288</Open>
+    <High>0.910672</High>
+    <Low>0.777829</Low>
+    <Close>0.789126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-10</Date>
+    <Open>0.789071</Open>
+    <High>0.815008</High>
+    <Low>0.759939</Low>
+    <Close>0.800586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-11</Date>
+    <Open>0.801932</Open>
+    <High>0.863423</High>
+    <Low>0.759145</Low>
+    <Close>0.793249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-12</Date>
+    <Open>0.793831</Open>
+    <High>0.836288</High>
+    <Low>0.793831</Low>
+    <Close>0.832771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-13</Date>
+    <Open>0.833872</Open>
+    <High>0.881195</High>
+    <Low>0.82224</Low>
+    <Close>0.870494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-14</Date>
+    <Open>0.869438</Open>
+    <High>0.911124</High>
+    <Low>0.859261</Low>
+    <Close>0.900184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-15</Date>
+    <Open>0.905861</Open>
+    <High>0.911535</High>
+    <Low>0.815008</Low>
+    <Close>0.85563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-16</Date>
+    <Open>0.855544</Open>
+    <High>0.875958</High>
+    <Low>0.844947</Low>
+    <Close>0.870083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-17</Date>
+    <Open>0.872262</Open>
+    <High>0.904408</High>
+    <Low>0.865892</Low>
+    <Close>0.897685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-18</Date>
+    <Open>0.898679</Open>
+    <High>0.906296</High>
+    <Low>0.847281</Low>
+    <Close>0.854547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-19</Date>
+    <Open>0.85555</Open>
+    <High>0.884972</High>
+    <Low>0.84536</Low>
+    <Close>0.856596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-20</Date>
+    <Open>0.855576</Open>
+    <High>0.860548</High>
+    <Low>0.810876</Low>
+    <Close>0.815967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-21</Date>
+    <Open>0.817975</Open>
+    <High>0.843481</High>
+    <Low>0.797981</Low>
+    <Close>0.83065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-22</Date>
+    <Open>0.831645</Open>
+    <High>0.834612</High>
+    <Low>0.780093</Low>
+    <Close>0.795205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-23</Date>
+    <Open>0.796231</Open>
+    <High>0.827203</High>
+    <Low>0.79417</Low>
+    <Close>0.814764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-24</Date>
+    <Open>0.813681</Open>
+    <High>0.818503</High>
+    <Low>0.781914</Low>
+    <Close>0.786802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-25</Date>
+    <Open>0.786872</Open>
+    <High>0.79879</High>
+    <Low>0.77988</Low>
+    <Close>0.789757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-26</Date>
+    <Open>0.788764</Open>
+    <High>0.810721</High>
+    <Low>0.787779</Low>
+    <Close>0.800904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-27</Date>
+    <Open>0.801881</Open>
+    <High>0.808719</High>
+    <Low>0.762511</Low>
+    <Close>0.77538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-28</Date>
+    <Open>0.774364</Open>
+    <High>0.810219</High>
+    <Low>0.76833</Low>
+    <Close>0.802313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-29</Date>
+    <Open>0.801304</Open>
+    <High>0.823263</High>
+    <Low>0.800208</Low>
+    <Close>0.814138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-30</Date>
+    <Open>0.812244</Open>
+    <High>0.820221</High>
+    <Low>0.78711</Low>
+    <Close>0.800264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-03-31</Date>
+    <Open>0.799144</Open>
+    <High>0.807323</High>
+    <Low>0.791229</Low>
+    <Close>0.803169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-01</Date>
+    <Open>0.803249</Open>
+    <High>0.813341</High>
+    <Low>0.799256</Low>
+    <Close>0.807299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-02</Date>
+    <Open>0.808331</Open>
+    <High>0.811333</High>
+    <Low>0.778529</Low>
+    <Close>0.783384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-03</Date>
+    <Open>0.783485</Open>
+    <High>0.790324</High>
+    <Low>0.764321</Low>
+    <Close>0.771285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-04</Date>
+    <Open>0.772301</Open>
+    <High>0.796271</High>
+    <Low>0.772301</Low>
+    <Close>0.785322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-05</Date>
+    <Open>0.786401</Open>
+    <High>0.807371</High>
+    <Low>0.783243</Low>
+    <Close>0.796295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-06</Date>
+    <Open>0.797287</Open>
+    <High>0.803161</High>
+    <Low>0.78529</Low>
+    <Close>0.792269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-07</Date>
+    <Open>0.792285</Open>
+    <High>0.794389</High>
+    <Low>0.765459</Low>
+    <Close>0.778654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-08</Date>
+    <Open>0.777583</Open>
+    <High>0.782391</High>
+    <Low>0.766414</Low>
+    <Close>0.770308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-09</Date>
+    <Open>0.7703</Open>
+    <High>0.773495</High>
+    <Low>0.759433</Low>
+    <Close>0.771447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-10</Date>
+    <Open>0.77147</Open>
+    <High>0.782532</High>
+    <Low>0.764489</Low>
+    <Close>0.775636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-11</Date>
+    <Open>0.781594</Open>
+    <High>0.789663</High>
+    <Low>0.776745</Low>
+    <Close>0.785769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-12</Date>
+    <Open>0.784776</Open>
+    <High>0.784776</High>
+    <Low>0.764076</Low>
+    <Close>0.780608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-13</Date>
+    <Open>0.781648</Open>
+    <High>0.812853</High>
+    <Low>0.778607</Low>
+    <Close>0.806774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-14</Date>
+    <Open>0.807767</Open>
+    <High>0.842707</High>
+    <Low>0.806838</Low>
+    <Close>0.842707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-15</Date>
+    <Open>0.8437</Open>
+    <High>0.853682</High>
+    <Low>0.839738</Low>
+    <Close>0.842758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-16</Date>
+    <Open>0.841748</Open>
+    <High>0.874594</High>
+    <Low>0.841748</Low>
+    <Close>0.868608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-17</Date>
+    <Open>0.869591</Open>
+    <High>0.87563</High>
+    <Low>0.845389</Low>
+    <Close>0.847449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-18</Date>
+    <Open>0.849569</Open>
+    <High>0.881352</High>
+    <Low>0.841362</Low>
+    <Close>0.875149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-19</Date>
+    <Open>0.875166</Open>
+    <High>0.881529</High>
+    <Low>0.818384</Low>
+    <Close>0.825412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-20</Date>
+    <Open>0.826438</Open>
+    <High>0.828414</High>
+    <Low>0.78785</Low>
+    <Close>0.793111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-21</Date>
+    <Open>0.79604</Open>
+    <High>0.799032</High>
+    <Low>0.755871</Low>
+    <Close>0.757939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-22</Date>
+    <Open>0.755924</Open>
+    <High>0.771015</High>
+    <Low>0.754015</Low>
+    <Close>0.766077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-23</Date>
+    <Open>0.769069</Open>
+    <High>0.772062</High>
+    <Low>0.746179</Low>
+    <Close>0.757038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-24</Date>
+    <Open>0.755038</Open>
+    <High>0.763023</High>
+    <Low>0.74606</Low>
+    <Close>0.750015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-25</Date>
+    <Open>0.749022</Open>
+    <High>0.758288</High>
+    <Low>0.737029</Low>
+    <Close>0.758174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-26</Date>
+    <Open>0.760175</Open>
+    <High>0.796382</High>
+    <Low>0.723087</Low>
+    <Close>0.761259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-27</Date>
+    <Open>0.762244</Open>
+    <High>0.825223</High>
+    <Low>0.755294</Low>
+    <Close>0.809275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-28</Date>
+    <Open>0.810259</Open>
+    <High>0.810259</High>
+    <Low>0.782336</Low>
+    <Close>0.793626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-29</Date>
+    <Open>0.793595</Open>
+    <High>0.795628</High>
+    <Low>0.781531</Low>
+    <Close>0.786464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-04-30</Date>
+    <Open>0.78644</Open>
+    <High>0.798327</High>
+    <Low>0.770462</Low>
+    <Close>0.77545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-01</Date>
+    <Open>0.775426</Open>
+    <High>0.776357</High>
+    <Low>0.722993</Low>
+    <Close>0.730212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-02</Date>
+    <Open>0.731183</Open>
+    <High>0.755128</High>
+    <Low>0.724616</Low>
+    <Close>0.739151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-03</Date>
+    <Open>0.739251</Open>
+    <High>0.742075</High>
+    <Low>0.717094</Low>
+    <Close>0.735098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-04</Date>
+    <Open>0.734798</Open>
+    <High>0.746679</High>
+    <Low>0.726219</Low>
+    <Close>0.726261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-05</Date>
+    <Open>0.726662</Open>
+    <High>0.746815</High>
+    <Low>0.724961</Low>
+    <Close>0.737871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-06</Date>
+    <Open>0.73677</Open>
+    <High>0.740025</High>
+    <Low>0.699075</Low>
+    <Close>0.701418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-07</Date>
+    <Open>0.701491</Open>
+    <High>0.709736</High>
+    <Low>0.698423</Low>
+    <Close>0.700018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-08</Date>
+    <Open>0.700219</Open>
+    <High>0.701934</High>
+    <Low>0.656653</Low>
+    <Close>0.663711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-09</Date>
+    <Open>0.663404</Open>
+    <High>0.669969</High>
+    <Low>0.649449</Low>
+    <Close>0.651451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-10</Date>
+    <Open>0.650186</Open>
+    <High>0.670337</High>
+    <Low>0.64034</Low>
+    <Close>0.661661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-11</Date>
+    <Open>0.661761</Open>
+    <High>0.662762</High>
+    <Low>0.627064</Low>
+    <Close>0.639439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-12</Date>
+    <Open>0.639839</Open>
+    <High>0.655255</High>
+    <Low>0.629114</Low>
+    <Close>0.63851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-13</Date>
+    <Open>0.63831</Open>
+    <High>0.641785</High>
+    <Low>0.629277</Low>
+    <Close>0.632779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-14</Date>
+    <Open>0.631816</Open>
+    <High>0.639483</High>
+    <Low>0.627814</Low>
+    <Close>0.63338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-15</Date>
+    <Open>0.633216</Open>
+    <High>0.64345</High>
+    <Low>0.624374</Low>
+    <Close>0.634644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-16</Date>
+    <Open>0.634844</Open>
+    <High>0.634844</High>
+    <Low>0.623536</Low>
+    <Close>0.629815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-17</Date>
+    <Open>0.629852</Open>
+    <High>0.637519</High>
+    <Low>0.618909</Low>
+    <Close>0.630515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-18</Date>
+    <Open>0.630452</Open>
+    <High>0.636991</High>
+    <Low>0.613584</Low>
+    <Close>0.620948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-19</Date>
+    <Open>0.621148</Open>
+    <High>0.623206</High>
+    <Low>0.609904</Low>
+    <Close>0.612578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-20</Date>
+    <Open>0.612506</Open>
+    <High>0.615292</High>
+    <Low>0.609888</Low>
+    <Close>0.61175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-21</Date>
+    <Open>0.61205</Open>
+    <High>0.612512</High>
+    <Low>0.599259</Low>
+    <Close>0.601261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-22</Date>
+    <Open>0.6007</Open>
+    <High>0.622673</High>
+    <Low>0.594356</Low>
+    <Close>0.597058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-23</Date>
+    <Open>0.596684</Open>
+    <High>0.606803</High>
+    <Low>0.592748</Low>
+    <Close>0.596336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-24</Date>
+    <Open>0.59633</Open>
+    <High>0.677012</High>
+    <Low>0.579419</Low>
+    <Close>0.599164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-25</Date>
+    <Open>0.59927</Open>
+    <High>0.607021</High>
+    <Low>0.588635</Low>
+    <Close>0.597018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-26</Date>
+    <Open>0.597139</Open>
+    <High>0.601312</High>
+    <Low>0.591424</Low>
+    <Close>0.593019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-27</Date>
+    <Open>0.592978</Open>
+    <High>0.592978</High>
+    <Low>0.573689</Low>
+    <Close>0.574813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="OSMO">
+    <Date>2023-05-28</Date>
+    <Open>0.574872</Open>
+    <High>0.59133</High>
+    <Low>0.57423</Low>
+    <Close>0.59113</Close>
+  </Cryptocurrency>
+</Root>

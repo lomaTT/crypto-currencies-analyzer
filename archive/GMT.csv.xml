@@ -1,0 +1,2985 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-03-30</Date>
+    <Open>2.09566</Open>
+    <High>2.14799</High>
+    <Low>1.93957</Low>
+    <Close>2.05406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-03-31</Date>
+    <Open>2.05442</Open>
+    <High>2.58876</High>
+    <Low>1.78369</Low>
+    <Close>2.5699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-01</Date>
+    <Open>2.57077</Open>
+    <High>3.13084</High>
+    <Low>2.38048</Low>
+    <Close>3.04178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-02</Date>
+    <Open>3.04088</Open>
+    <High>3.05091</High>
+    <Low>2.40403</Low>
+    <Close>2.5058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-03</Date>
+    <Open>2.50643</Open>
+    <High>2.75082</High>
+    <Low>2.24639</Low>
+    <Close>2.36134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-04</Date>
+    <Open>2.35769</Open>
+    <High>2.55679</High>
+    <Low>2.05662</Low>
+    <Close>2.1706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-05</Date>
+    <Open>2.17042</Open>
+    <High>2.32367</High>
+    <Low>2.08942</Low>
+    <Close>2.12274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-06</Date>
+    <Open>2.12499</Open>
+    <High>2.70304</High>
+    <Low>2.10167</Low>
+    <Close>2.24768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-07</Date>
+    <Open>2.24793</Open>
+    <High>2.36729</High>
+    <Low>2.01291</Low>
+    <Close>2.10332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-08</Date>
+    <Open>2.10334</Open>
+    <High>2.4409</High>
+    <Low>2.09457</Low>
+    <Close>2.15998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-09</Date>
+    <Open>2.16028</Open>
+    <High>2.32664</High>
+    <Low>2.10435</Low>
+    <Close>2.21566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-10</Date>
+    <Open>2.2159</Open>
+    <High>2.39352</High>
+    <Low>2.20851</Low>
+    <Close>2.2789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-11</Date>
+    <Open>2.28546</Open>
+    <High>2.66838</High>
+    <Low>2.24345</Low>
+    <Close>2.59828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-12</Date>
+    <Open>2.60298</Open>
+    <High>2.61542</High>
+    <Low>2.12591</Low>
+    <Close>2.19094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-13</Date>
+    <Open>2.19121</Open>
+    <High>2.24961</High>
+    <Low>2.06357</Low>
+    <Close>2.16403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-14</Date>
+    <Open>2.1628</Open>
+    <High>2.35038</High>
+    <Low>2.14777</Low>
+    <Close>2.19886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-15</Date>
+    <Open>2.1998</Open>
+    <High>2.29192</High>
+    <Low>2.17529</Low>
+    <Close>2.26517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-16</Date>
+    <Open>2.26508</Open>
+    <High>2.43049</High>
+    <Low>2.24235</Low>
+    <Close>2.39578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-17</Date>
+    <Open>2.39819</Open>
+    <High>2.60009</High>
+    <Low>2.36032</Low>
+    <Close>2.56817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-18</Date>
+    <Open>2.5679</Open>
+    <High>3.25095</High>
+    <Low>2.2445</Low>
+    <Close>3.22551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-19</Date>
+    <Open>3.22428</Open>
+    <High>3.83077</High>
+    <Low>3.14048</Low>
+    <Close>3.70118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-20</Date>
+    <Open>3.70034</Open>
+    <High>3.85008</High>
+    <Low>3.31491</Low>
+    <Close>3.37092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-21</Date>
+    <Open>3.37119</Open>
+    <High>3.58846</High>
+    <Low>2.97303</Low>
+    <Close>3.09834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-22</Date>
+    <Open>3.09677</Open>
+    <High>3.28468</High>
+    <Low>3.01923</Low>
+    <Close>3.12448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-23</Date>
+    <Open>3.12664</Open>
+    <High>3.44865</High>
+    <Low>3.10418</Low>
+    <Close>3.14981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-24</Date>
+    <Open>3.14961</Open>
+    <High>3.38617</High>
+    <Low>3.12288</Low>
+    <Close>3.28133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-25</Date>
+    <Open>3.27853</Open>
+    <High>3.40068</High>
+    <Low>3.14031</Low>
+    <Close>3.24674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-26</Date>
+    <Open>3.24709</Open>
+    <High>3.48567</High>
+    <Low>3.17489</Low>
+    <Close>3.30365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-27</Date>
+    <Open>3.30352</Open>
+    <High>3.94945</High>
+    <Low>3.23833</Low>
+    <Close>3.79705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-28</Date>
+    <Open>3.79745</Open>
+    <High>4.17709</High>
+    <Low>3.56948</Low>
+    <Close>3.70044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-29</Date>
+    <Open>3.7018</Open>
+    <High>4.13976</High>
+    <Low>3.42102</Low>
+    <Close>3.76402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-04-30</Date>
+    <Open>3.76386</Open>
+    <High>4.06015</High>
+    <Low>3.50859</Low>
+    <Close>3.57147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-01</Date>
+    <Open>3.56902</Open>
+    <High>3.61018</High>
+    <Low>3.31047</Low>
+    <Close>3.39563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-02</Date>
+    <Open>3.39526</Open>
+    <High>3.54782</High>
+    <Low>3.13319</Low>
+    <Close>3.24403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-03</Date>
+    <Open>3.24399</Open>
+    <High>3.45057</High>
+    <Low>3.18641</Low>
+    <Close>3.20681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-04</Date>
+    <Open>3.20663</Open>
+    <High>3.44266</High>
+    <Low>3.16368</Low>
+    <Close>3.28517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-05</Date>
+    <Open>3.28614</Open>
+    <High>3.40254</High>
+    <Low>2.56169</Low>
+    <Close>2.73369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-06</Date>
+    <Open>2.73375</Open>
+    <High>2.75598</High>
+    <Low>2.34119</Low>
+    <Close>2.45268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-07</Date>
+    <Open>2.45228</Open>
+    <High>2.84078</High>
+    <Low>2.39011</Low>
+    <Close>2.52932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-08</Date>
+    <Open>2.53955</Open>
+    <High>2.77563</High>
+    <Low>2.45744</Low>
+    <Close>2.65851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-09</Date>
+    <Open>2.6592</Open>
+    <High>2.74845</High>
+    <Low>2.10206</Low>
+    <Close>2.18876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-10</Date>
+    <Open>2.19642</Open>
+    <High>2.24591</High>
+    <Low>1.61787</Low>
+    <Close>1.65223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-11</Date>
+    <Open>1.65104</Open>
+    <High>1.87615</High>
+    <Low>1.09749</Low>
+    <Close>1.26041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-12</Date>
+    <Open>1.26061</Open>
+    <High>1.49723</High>
+    <Low>0.77826</Low>
+    <Close>1.08442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-13</Date>
+    <Open>1.08193</Open>
+    <High>1.74742</High>
+    <Low>1.06257</Low>
+    <Close>1.59502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-14</Date>
+    <Open>1.59413</Open>
+    <High>1.61579</High>
+    <Low>1.251</Low>
+    <Close>1.38986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-15</Date>
+    <Open>1.39166</Open>
+    <High>1.65171</High>
+    <Low>1.37972</Low>
+    <Close>1.56908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-16</Date>
+    <Open>1.56843</Open>
+    <High>1.63661</High>
+    <Low>1.38216</Low>
+    <Close>1.47731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-17</Date>
+    <Open>1.47486</Open>
+    <High>1.69851</High>
+    <Low>1.42015</Low>
+    <Close>1.56318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-18</Date>
+    <Open>1.56319</Open>
+    <High>1.64697</High>
+    <Low>1.35702</Low>
+    <Close>1.4036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-19</Date>
+    <Open>1.40528</Open>
+    <High>1.4968</High>
+    <Low>1.27659</Low>
+    <Close>1.47083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-20</Date>
+    <Open>1.47091</Open>
+    <High>1.57775</High>
+    <Low>1.29646</Low>
+    <Close>1.34502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-21</Date>
+    <Open>1.34559</Open>
+    <High>1.43299</High>
+    <Low>1.30755</Low>
+    <Close>1.33387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-22</Date>
+    <Open>1.33364</Open>
+    <High>1.44425</High>
+    <Low>1.32712</Low>
+    <Close>1.40109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-23</Date>
+    <Open>1.40053</Open>
+    <High>1.5333</High>
+    <Low>1.37911</Low>
+    <Close>1.39876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-24</Date>
+    <Open>1.3969</Open>
+    <High>1.41489</High>
+    <Low>1.28208</Low>
+    <Close>1.38882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-25</Date>
+    <Open>1.38952</Open>
+    <High>1.43235</High>
+    <Low>1.3558</Low>
+    <Close>1.39136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-26</Date>
+    <Open>1.39139</Open>
+    <High>1.39711</High>
+    <Low>0.83018</Low>
+    <Close>0.94473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-27</Date>
+    <Open>0.94608</Open>
+    <High>1.15606</High>
+    <Low>0.80346</Low>
+    <Close>1.03119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-28</Date>
+    <Open>1.02999</Open>
+    <High>1.08667</High>
+    <Low>0.99136</Low>
+    <Close>1.04725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-29</Date>
+    <Open>1.04725</Open>
+    <High>1.19659</High>
+    <Low>0.8668</Low>
+    <Close>1.07293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-30</Date>
+    <Open>1.07435</Open>
+    <High>1.30766</High>
+    <Low>1.04587</Low>
+    <Close>1.27066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-05-31</Date>
+    <Open>1.27019</Open>
+    <High>1.29114</High>
+    <Low>1.11827</Low>
+    <Close>1.1763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-01</Date>
+    <Open>1.17933</Open>
+    <High>1.20479</High>
+    <Low>0.97462</Low>
+    <Close>1.00152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-02</Date>
+    <Open>1.00044</Open>
+    <High>1.08302</High>
+    <Low>0.9282</Low>
+    <Close>1.04405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-03</Date>
+    <Open>1.04428</Open>
+    <High>1.07364</High>
+    <Low>0.98123</Low>
+    <Close>1.03824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-04</Date>
+    <Open>1.03906</Open>
+    <High>1.03906</High>
+    <Low>0.98616</Low>
+    <Close>1.00189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-05</Date>
+    <Open>1.00274</Open>
+    <High>1.00889</High>
+    <Low>0.90214</Low>
+    <Close>0.94235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-06</Date>
+    <Open>0.94317</Open>
+    <High>1.05586</High>
+    <Low>0.92559</Low>
+    <Close>0.99508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-07</Date>
+    <Open>0.99509</Open>
+    <High>1.01422</High>
+    <Low>0.93329</Low>
+    <Close>0.983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-08</Date>
+    <Open>0.98311</Open>
+    <High>1.06318</High>
+    <Low>0.93562</Low>
+    <Close>0.98234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-09</Date>
+    <Open>0.98185</Open>
+    <High>1.04824</High>
+    <Low>0.95157</Low>
+    <Close>0.989718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-10</Date>
+    <Open>0.990457</Open>
+    <High>0.996822</High>
+    <Low>0.890275</Low>
+    <Close>0.916965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-11</Date>
+    <Open>0.917774</Open>
+    <High>0.932861</High>
+    <Low>0.772231</Low>
+    <Close>0.812501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-12</Date>
+    <Open>0.81289</Open>
+    <High>0.82202</High>
+    <Low>0.670184</Low>
+    <Close>0.69847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-13</Date>
+    <Open>0.69816</Open>
+    <High>0.698939</High>
+    <Low>0.533619</Low>
+    <Close>0.591187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-14</Date>
+    <Open>0.591547</Open>
+    <High>0.683745</High>
+    <Low>0.56302</Low>
+    <Close>0.6075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-15</Date>
+    <Open>0.60793</Open>
+    <High>0.676589</High>
+    <Low>0.564702</Low>
+    <Close>0.662425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-16</Date>
+    <Open>0.661666</Open>
+    <High>0.677014</High>
+    <Low>0.596104</Low>
+    <Close>0.612801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-17</Date>
+    <Open>0.596739</Open>
+    <High>0.638232</High>
+    <Low>0.584372</Low>
+    <Close>0.613942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-18</Date>
+    <Open>0.614562</Open>
+    <High>0.628068</High>
+    <Low>0.551128</Low>
+    <Close>0.580937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-19</Date>
+    <Open>0.580652</Open>
+    <High>0.788303</High>
+    <Low>0.577457</Low>
+    <Close>0.742563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-20</Date>
+    <Open>0.742843</Open>
+    <High>0.828245</High>
+    <Low>0.70675</Low>
+    <Close>0.755069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-21</Date>
+    <Open>0.755043</Open>
+    <High>0.857855</High>
+    <Low>0.740734</Low>
+    <Close>0.777823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-22</Date>
+    <Open>0.777664</Open>
+    <High>0.806552</High>
+    <Low>0.735684</Low>
+    <Close>0.755364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-23</Date>
+    <Open>0.755743</Open>
+    <High>0.810928</High>
+    <Low>0.726173</Low>
+    <Close>0.787392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-24</Date>
+    <Open>0.787602</Open>
+    <High>0.850149</High>
+    <Low>0.787602</Low>
+    <Close>0.831361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-25</Date>
+    <Open>0.831917</Open>
+    <High>0.958186</High>
+    <Low>0.814488</Low>
+    <Close>0.946167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-26</Date>
+    <Open>0.945538</Open>
+    <High>1.10923</High>
+    <Low>0.939162</Low>
+    <Close>0.98388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-27</Date>
+    <Open>0.98373</Open>
+    <High>0.995513</High>
+    <Low>0.920066</Low>
+    <Close>0.969536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-28</Date>
+    <Open>0.969906</Open>
+    <High>1.01652</High>
+    <Low>0.902919</Low>
+    <Close>0.925221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-29</Date>
+    <Open>0.922714</Open>
+    <High>0.923421</High>
+    <Low>0.851891</Low>
+    <Close>0.890261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-06-30</Date>
+    <Open>0.891799</Open>
+    <High>0.905862</High>
+    <Low>0.763515</Low>
+    <Close>0.794835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-01</Date>
+    <Open>0.794206</Open>
+    <High>0.885933</High>
+    <Low>0.788852</Low>
+    <Close>0.843231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-02</Date>
+    <Open>0.843891</Open>
+    <High>0.846847</High>
+    <Low>0.770155</Low>
+    <Close>0.822582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-03</Date>
+    <Open>0.82367</Open>
+    <High>0.833199</High>
+    <Low>0.788673</Low>
+    <Close>0.813641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-04</Date>
+    <Open>0.813341</Open>
+    <High>0.869555</High>
+    <Low>0.790671</Low>
+    <Close>0.866359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-05</Date>
+    <Open>0.86547</Open>
+    <High>0.985646</High>
+    <Low>0.862354</Low>
+    <Close>0.932953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-06</Date>
+    <Open>0.933812</Open>
+    <High>0.985155</High>
+    <Low>0.882039</Low>
+    <Close>0.95346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-07</Date>
+    <Open>0.952851</Open>
+    <High>1.05537</High>
+    <Low>0.942972</Low>
+    <Close>1.02326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-08</Date>
+    <Open>1.02448</Open>
+    <High>1.04602</High>
+    <Low>0.960427</Low>
+    <Close>1.00624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-09</Date>
+    <Open>1.0056</Open>
+    <High>1.04607</High>
+    <Low>0.987407</Low>
+    <Close>1.01519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-10</Date>
+    <Open>1.01429</Open>
+    <High>1.02059</High>
+    <Low>0.936338</Low>
+    <Close>0.954527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-11</Date>
+    <Open>0.954027</Open>
+    <High>0.957125</High>
+    <Low>0.84384</Low>
+    <Close>0.85493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-12</Date>
+    <Open>0.85453</Open>
+    <High>0.874537</High>
+    <Low>0.825756</Low>
+    <Close>0.835564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-13</Date>
+    <Open>0.835064</Open>
+    <High>0.888011</High>
+    <Low>0.803215</Low>
+    <Close>0.867219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-14</Date>
+    <Open>0.867119</Open>
+    <High>0.945832</High>
+    <Low>0.857428</Low>
+    <Close>0.919348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-15</Date>
+    <Open>0.921167</Open>
+    <High>0.955266</High>
+    <Low>0.912892</Low>
+    <Close>0.935109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-16</Date>
+    <Open>0.936319</Open>
+    <High>0.958612</High>
+    <Low>0.884235</Low>
+    <Close>0.916025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-17</Date>
+    <Open>0.916025</Open>
+    <High>0.945083</High>
+    <Low>0.901529</Low>
+    <Close>0.913762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-18</Date>
+    <Open>0.914062</Open>
+    <High>1.12592</High>
+    <Low>0.893132</Low>
+    <Close>1.0966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-19</Date>
+    <Open>1.09723</Open>
+    <High>1.1646</High>
+    <Low>1.02429</Low>
+    <Close>1.08134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-20</Date>
+    <Open>1.08</Open>
+    <High>1.09823</High>
+    <Low>0.96499</Low>
+    <Close>0.99675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-21</Date>
+    <Open>0.99545</Open>
+    <High>1.00899</High>
+    <Low>0.9425</Low>
+    <Close>0.99448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-22</Date>
+    <Open>0.99453</Open>
+    <High>1.03619</High>
+    <Low>0.92797</Low>
+    <Close>0.9493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-23</Date>
+    <Open>0.94908</Open>
+    <High>0.96604</High>
+    <Low>0.90429</Low>
+    <Close>0.94014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-24</Date>
+    <Open>0.93939</Open>
+    <High>1.00189</High>
+    <Low>0.93879</Low>
+    <Close>0.9871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-25</Date>
+    <Open>0.9867</Open>
+    <High>0.9992</High>
+    <Low>0.92301</Low>
+    <Close>0.96159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-26</Date>
+    <Open>0.96193</Open>
+    <High>0.96814</High>
+    <Low>0.84543</Low>
+    <Close>0.86002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-27</Date>
+    <Open>0.85981</Open>
+    <High>0.95203</High>
+    <Low>0.85951</Low>
+    <Close>0.94633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-28</Date>
+    <Open>0.94586</Open>
+    <High>1.04822</High>
+    <Low>0.94306</Low>
+    <Close>1.02157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-29</Date>
+    <Open>1.02136</Open>
+    <High>1.03377</High>
+    <Low>0.95739</Low>
+    <Close>0.98942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-30</Date>
+    <Open>0.98847</Open>
+    <High>1.05606</High>
+    <Low>0.96668</Low>
+    <Close>0.99708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-07-31</Date>
+    <Open>0.99614</Open>
+    <High>1.02261</High>
+    <Low>0.96811</Low>
+    <Close>0.98743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-01</Date>
+    <Open>0.98693</Open>
+    <High>1.00012</High>
+    <Low>0.92312</Low>
+    <Close>0.93928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-02</Date>
+    <Open>0.93758</Open>
+    <High>0.97038</High>
+    <Low>0.898378</Low>
+    <Close>0.931458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-03</Date>
+    <Open>0.931458</Open>
+    <High>0.948932</High>
+    <Low>0.882712</Low>
+    <Close>0.930633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-04</Date>
+    <Open>0.930179</Open>
+    <High>0.939741</High>
+    <Low>0.899499</Low>
+    <Close>0.902927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-05</Date>
+    <Open>0.902527</Open>
+    <High>0.94779</High>
+    <Low>0.89298</Low>
+    <Close>0.929577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-06</Date>
+    <Open>0.929877</Open>
+    <High>0.95061</High>
+    <Low>0.919238</Low>
+    <Close>0.936706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-07</Date>
+    <Open>0.938316</Open>
+    <High>0.949523</High>
+    <Low>0.910027</Low>
+    <Close>0.941069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-08</Date>
+    <Open>0.940979</Open>
+    <High>0.979767</High>
+    <Low>0.923257</Low>
+    <Close>0.943713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-09</Date>
+    <Open>0.942613</Open>
+    <High>1.05804</High>
+    <Low>0.927886</Low>
+    <Close>0.965093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-10</Date>
+    <Open>0.964793</Open>
+    <High>0.987944</High>
+    <Low>0.915201</Low>
+    <Close>0.979684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-11</Date>
+    <Open>0.979084</Open>
+    <High>1.01451</High>
+    <Low>0.959832</Low>
+    <Close>0.966354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-12</Date>
+    <Open>0.966254</Open>
+    <High>0.975487</High>
+    <Low>0.942271</Low>
+    <Close>0.966644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-13</Date>
+    <Open>0.967645</Open>
+    <High>1.00498</High>
+    <Low>0.965386</Low>
+    <Close>0.97499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-14</Date>
+    <Open>0.97598</Open>
+    <High>1.02285</High>
+    <Low>0.960478</Low>
+    <Close>0.980304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-15</Date>
+    <Open>0.980294</Open>
+    <High>1.12054</High>
+    <Low>0.968981</Low>
+    <Close>1.04335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-16</Date>
+    <Open>1.04346</Open>
+    <High>1.12783</High>
+    <Low>1.03148</Low>
+    <Close>1.0819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-17</Date>
+    <Open>1.0822</Open>
+    <High>1.10046</High>
+    <Low>0.96348</Low>
+    <Close>0.97477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-18</Date>
+    <Open>0.97378</Open>
+    <High>1.00203</High>
+    <Low>0.95542</Low>
+    <Close>0.97681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-19</Date>
+    <Open>0.977</Open>
+    <High>0.9789</High>
+    <Low>0.76898</Low>
+    <Close>0.779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-20</Date>
+    <Open>0.77952</Open>
+    <High>0.81611</High>
+    <Low>0.76307</Low>
+    <Close>0.79259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-21</Date>
+    <Open>0.79288</Open>
+    <High>0.82338</High>
+    <Low>0.78173</Low>
+    <Close>0.81478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-22</Date>
+    <Open>0.81358</Open>
+    <High>0.81428</High>
+    <Low>0.75424</Low>
+    <Close>0.76496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-23</Date>
+    <Open>0.76629</Open>
+    <High>0.79014</High>
+    <Low>0.73748</Low>
+    <Close>0.78492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-24</Date>
+    <Open>0.78452</Open>
+    <High>0.81689</High>
+    <Low>0.76937</Low>
+    <Close>0.79427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-25</Date>
+    <Open>0.79487</Open>
+    <High>0.80926</High>
+    <Low>0.77829</Low>
+    <Close>0.79112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-26</Date>
+    <Open>0.79252</Open>
+    <High>0.79421</High>
+    <Low>0.7166</Low>
+    <Close>0.72807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-27</Date>
+    <Open>0.72707</Open>
+    <High>0.73017</High>
+    <Low>0.67183</Low>
+    <Close>0.67752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-28</Date>
+    <Open>0.67641</Open>
+    <High>0.69633</High>
+    <Low>0.67421</Low>
+    <Close>0.6804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-29</Date>
+    <Open>0.6791</Open>
+    <High>0.6805</High>
+    <Low>0.63191</Low>
+    <Close>0.67475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-30</Date>
+    <Open>0.67477</Open>
+    <High>0.697393</High>
+    <Low>0.635732</Low>
+    <Close>0.657959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-08-31</Date>
+    <Open>0.658453</Open>
+    <High>0.698014</High>
+    <Low>0.652578</Low>
+    <Close>0.679693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-01</Date>
+    <Open>0.680407</Open>
+    <High>0.683207</High>
+    <Low>0.65588</Low>
+    <Close>0.680073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-02</Date>
+    <Open>0.681166</Open>
+    <High>0.700149</High>
+    <Low>0.664553</Low>
+    <Close>0.673788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-03</Date>
+    <Open>0.673808</Open>
+    <High>0.6805</High>
+    <Low>0.6601</Low>
+    <Close>0.674967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-04</Date>
+    <Open>0.674967</Open>
+    <High>0.7128</High>
+    <Low>0.674967</Low>
+    <Close>0.7015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-05</Date>
+    <Open>0.7012</Open>
+    <High>0.7131</High>
+    <Low>0.6766</Low>
+    <Close>0.685969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-06</Date>
+    <Open>0.685569</Open>
+    <High>0.706871</High>
+    <Low>0.6264</Low>
+    <Close>0.6361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-07</Date>
+    <Open>0.6354</Open>
+    <High>0.657385</High>
+    <Low>0.618781</Low>
+    <Close>0.653446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-08</Date>
+    <Open>0.653839</Open>
+    <High>0.65872</High>
+    <Low>0.635557</Low>
+    <Close>0.652798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-09</Date>
+    <Open>0.652591</Open>
+    <High>0.819513</High>
+    <Low>0.650285</Low>
+    <Close>0.791769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-10</Date>
+    <Open>0.791977</Open>
+    <High>0.797063</High>
+    <Low>0.731363</Low>
+    <Close>0.741141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-11</Date>
+    <Open>0.742348</Open>
+    <High>0.776595</High>
+    <Low>0.715079</Low>
+    <Close>0.724274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-12</Date>
+    <Open>0.724974</Open>
+    <High>0.762552</High>
+    <Low>0.715122</Low>
+    <Close>0.741533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-13</Date>
+    <Open>0.740722</Open>
+    <High>0.755106</High>
+    <Low>0.66692</Low>
+    <Close>0.676814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-14</Date>
+    <Open>0.675807</Open>
+    <High>0.677514</High>
+    <Low>0.640626</Low>
+    <Close>0.666367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-15</Date>
+    <Open>0.664873</Open>
+    <High>0.694853</High>
+    <Low>0.645248</Low>
+    <Close>0.670333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-16</Date>
+    <Open>0.67154</Open>
+    <High>0.674133</High>
+    <Low>0.636036</Low>
+    <Close>0.652135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-17</Date>
+    <Open>0.652435</Open>
+    <High>0.6823</High>
+    <Low>0.648235</Low>
+    <Close>0.6765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-18</Date>
+    <Open>0.6768</Open>
+    <High>0.6891</High>
+    <Low>0.5905</Low>
+    <Close>0.6124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-19</Date>
+    <Open>0.6111</Open>
+    <High>0.627563</High>
+    <Low>0.5895</Low>
+    <Close>0.621624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-20</Date>
+    <Open>0.621862</Open>
+    <High>0.641864</High>
+    <Low>0.609761</Low>
+    <Close>0.615562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-21</Date>
+    <Open>0.614606</Open>
+    <High>0.6489</High>
+    <Low>0.59676</Low>
+    <Close>0.6012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-22</Date>
+    <Open>0.6014</Open>
+    <High>0.6363</High>
+    <Low>0.5861</Low>
+    <Close>0.6254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-23</Date>
+    <Open>0.6257</Open>
+    <High>0.6476</High>
+    <Low>0.607739</Low>
+    <Close>0.637636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-24</Date>
+    <Open>0.637455</Open>
+    <High>0.657287</High>
+    <Low>0.628794</Low>
+    <Close>0.637051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-25</Date>
+    <Open>0.6369</Open>
+    <High>0.6499</High>
+    <Low>0.612006</Low>
+    <Close>0.6132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-26</Date>
+    <Open>0.6132</Open>
+    <High>0.6448</High>
+    <Low>0.6026</Low>
+    <Close>0.6314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-27</Date>
+    <Open>0.6314</Open>
+    <High>0.7346</High>
+    <Low>0.628337</Low>
+    <Close>0.688731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-28</Date>
+    <Open>0.6888</Open>
+    <High>0.7083</High>
+    <Low>0.650735</Low>
+    <Close>0.6718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-29</Date>
+    <Open>0.672</Open>
+    <High>0.6777</High>
+    <Low>0.631</Low>
+    <Close>0.643164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-09-30</Date>
+    <Open>0.6438</Open>
+    <High>0.65133</High>
+    <Low>0.6344</Low>
+    <Close>0.6391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-01</Date>
+    <Open>0.639064</Open>
+    <High>0.6469</High>
+    <Low>0.6328</Low>
+    <Close>0.6396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-02</Date>
+    <Open>0.6389</Open>
+    <High>0.6452</High>
+    <Low>0.6115</Low>
+    <Close>0.6204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-03</Date>
+    <Open>0.62</Open>
+    <High>0.628926</High>
+    <Low>0.5937</Low>
+    <Close>0.621862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-04</Date>
+    <Open>0.622062</Open>
+    <High>0.633627</High>
+    <Low>0.617485</Low>
+    <Close>0.628288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-05</Date>
+    <Open>0.627726</Open>
+    <High>0.630326</High>
+    <Low>0.609561</Low>
+    <Close>0.621462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-06</Date>
+    <Open>0.621224</Open>
+    <High>0.635289</High>
+    <Low>0.619981</Low>
+    <Close>0.625213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-07</Date>
+    <Open>0.624706</Open>
+    <High>0.65854</High>
+    <Low>0.621506</Low>
+    <Close>0.652691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-08</Date>
+    <Open>0.652078</Open>
+    <High>0.664453</High>
+    <Low>0.634414</Low>
+    <Close>0.634859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-09</Date>
+    <Open>0.634865</Open>
+    <High>0.649665</High>
+    <Low>0.633995</Low>
+    <Close>0.644629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-10</Date>
+    <Open>0.643729</Open>
+    <High>0.655834</High>
+    <Low>0.638528</Low>
+    <Close>0.6519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-11</Date>
+    <Open>0.651435</Open>
+    <High>0.6515</High>
+    <Low>0.6203</Low>
+    <Close>0.635743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-12</Date>
+    <Open>0.636143</Open>
+    <High>0.648196</High>
+    <Low>0.619594</Low>
+    <Close>0.627519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-13</Date>
+    <Open>0.6299</Open>
+    <High>0.631881</High>
+    <Low>0.540957</Low>
+    <Close>0.603148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-14</Date>
+    <Open>0.601754</Open>
+    <High>0.613055</High>
+    <Low>0.566706</Low>
+    <Close>0.568023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-15</Date>
+    <Open>0.568717</Open>
+    <High>0.578552</High>
+    <Low>0.563451</Low>
+    <Close>0.567328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-16</Date>
+    <Open>0.5673</Open>
+    <High>0.5854</High>
+    <Low>0.562845</Low>
+    <Close>0.573623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-17</Date>
+    <Open>0.573329</Open>
+    <High>0.593653</High>
+    <Low>0.571111</Low>
+    <Close>0.588112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-18</Date>
+    <Open>0.588018</Open>
+    <High>0.595212</High>
+    <Low>0.559211</Low>
+    <Close>0.568223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-19</Date>
+    <Open>0.567828</Open>
+    <High>0.571446</High>
+    <Low>0.548205</Low>
+    <Close>0.5529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-20</Date>
+    <Open>0.552494</Open>
+    <High>0.553417</High>
+    <Low>0.49739</Low>
+    <Close>0.50345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-21</Date>
+    <Open>0.503465</Open>
+    <High>0.504565</High>
+    <Low>0.455782</Low>
+    <Close>0.476538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-22</Date>
+    <Open>0.476333</Open>
+    <High>0.484239</High>
+    <Low>0.467037</Low>
+    <Close>0.473343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-23</Date>
+    <Open>0.472238</Open>
+    <High>0.484639</High>
+    <Low>0.467714</Low>
+    <Close>0.481967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-24</Date>
+    <Open>0.482553</Open>
+    <High>0.489634</High>
+    <Low>0.462074</Low>
+    <Close>0.466119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-25</Date>
+    <Open>0.466419</Open>
+    <High>0.488051</High>
+    <Low>0.457614</Low>
+    <Close>0.475752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-26</Date>
+    <Open>0.476162</Open>
+    <High>0.504031</High>
+    <Low>0.470613</Low>
+    <Close>0.492738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-27</Date>
+    <Open>0.490937</Open>
+    <High>0.551021</High>
+    <Low>0.487036</Low>
+    <Close>0.50643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-28</Date>
+    <Open>0.50673</Open>
+    <High>0.520025</High>
+    <Low>0.471838</Low>
+    <Close>0.515803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-29</Date>
+    <Open>0.515493</Open>
+    <High>0.545647</High>
+    <Low>0.504951</Low>
+    <Close>0.515124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-30</Date>
+    <Open>0.515124</Open>
+    <High>0.584805</High>
+    <Low>0.505236</Low>
+    <Close>0.535107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-10-31</Date>
+    <Open>0.534907</Open>
+    <High>0.556928</High>
+    <Low>0.519619</Low>
+    <Close>0.545856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-01</Date>
+    <Open>0.546267</Open>
+    <High>0.556455</High>
+    <Low>0.522606</Low>
+    <Close>0.525647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-02</Date>
+    <Open>0.525147</Open>
+    <High>0.527831</High>
+    <Low>0.476881</Low>
+    <Close>0.484871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-03</Date>
+    <Open>0.484571</Open>
+    <High>0.518464</High>
+    <Low>0.483576</Low>
+    <Close>0.500095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-04</Date>
+    <Open>0.5003</Open>
+    <High>0.537043</High>
+    <Low>0.4937</Low>
+    <Close>0.533443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-05</Date>
+    <Open>0.533543</Open>
+    <High>0.591959</High>
+    <Low>0.531343</Low>
+    <Close>0.572329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-06</Date>
+    <Open>0.571434</Open>
+    <High>0.594406</High>
+    <Low>0.548827</Low>
+    <Close>0.572346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-07</Date>
+    <Open>0.572346</Open>
+    <High>0.618425</High>
+    <Low>0.54576</Low>
+    <Close>0.588471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-08</Date>
+    <Open>0.588677</Open>
+    <High>0.637619</High>
+    <Low>0.477367</Low>
+    <Close>0.506013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-09</Date>
+    <Open>0.505211</Open>
+    <High>0.521433</High>
+    <Low>0.334979</Low>
+    <Close>0.347465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-10</Date>
+    <Open>0.346323</Open>
+    <High>0.469311</High>
+    <Low>0.338712</Low>
+    <Close>0.420467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-11</Date>
+    <Open>0.420534</Open>
+    <High>0.471032</High>
+    <Low>0.374262</Low>
+    <Close>0.394047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-12</Date>
+    <Open>0.394218</Open>
+    <High>0.407266</High>
+    <Low>0.361748</Low>
+    <Close>0.380614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-13</Date>
+    <Open>0.381013</Open>
+    <High>0.395365</High>
+    <Low>0.365634</Low>
+    <Close>0.389754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-14</Date>
+    <Open>0.389554</Open>
+    <High>0.39215</High>
+    <Low>0.346545</Low>
+    <Close>0.377371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-15</Date>
+    <Open>0.377414</Open>
+    <High>0.404295</High>
+    <Low>0.374874</Low>
+    <Close>0.391009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-16</Date>
+    <Open>0.39302</Open>
+    <High>0.400783</High>
+    <Low>0.379443</Low>
+    <Close>0.390536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-17</Date>
+    <Open>0.390909</Open>
+    <High>0.414647</High>
+    <Low>0.387851</Low>
+    <Close>0.395991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-18</Date>
+    <Open>0.395192</Open>
+    <High>0.407296</High>
+    <Low>0.392194</Low>
+    <Close>0.40433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-19</Date>
+    <Open>0.404131</Open>
+    <High>0.413753</High>
+    <Low>0.396524</Low>
+    <Close>0.411767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-20</Date>
+    <Open>0.413669</Open>
+    <High>0.415326</High>
+    <Low>0.373988</Low>
+    <Close>0.376926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-21</Date>
+    <Open>0.37693</Open>
+    <High>0.377825</High>
+    <Low>0.344738</Low>
+    <Close>0.357271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-22</Date>
+    <Open>0.357667</Open>
+    <High>0.372622</High>
+    <Low>0.350241</Low>
+    <Close>0.370947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-23</Date>
+    <Open>0.371021</Open>
+    <High>0.393623</High>
+    <Low>0.367954</Low>
+    <Close>0.388476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-24</Date>
+    <Open>0.391169</Open>
+    <High>0.398561</High>
+    <Low>0.38131</Low>
+    <Close>0.387175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-25</Date>
+    <Open>0.38747</Open>
+    <High>0.389188</High>
+    <Low>0.37181</Low>
+    <Close>0.379188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-26</Date>
+    <Open>0.379976</Open>
+    <High>0.38877</High>
+    <Low>0.373964</Low>
+    <Close>0.375678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-27</Date>
+    <Open>0.375678</Open>
+    <High>0.395962</High>
+    <Low>0.374752</Low>
+    <Close>0.392748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-28</Date>
+    <Open>0.392443</Open>
+    <High>0.394691</High>
+    <Low>0.359595</Low>
+    <Close>0.370559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-29</Date>
+    <Open>0.370356</Open>
+    <High>0.38199</High>
+    <Low>0.365743</Low>
+    <Close>0.375661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-11-30</Date>
+    <Open>0.376257</Open>
+    <High>0.392124</High>
+    <Low>0.373977</Low>
+    <Close>0.391716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-01</Date>
+    <Open>0.392416</Open>
+    <High>0.394243</High>
+    <Low>0.38033</Low>
+    <Close>0.381823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-02</Date>
+    <Open>0.382523</Open>
+    <High>0.393124</High>
+    <Low>0.376841</Low>
+    <Close>0.392624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-03</Date>
+    <Open>0.392224</Open>
+    <High>0.402328</High>
+    <Low>0.384677</Low>
+    <Close>0.386639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-04</Date>
+    <Open>0.386839</Open>
+    <High>0.39604</High>
+    <Low>0.385577</Low>
+    <Close>0.392139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-05</Date>
+    <Open>0.392278</Open>
+    <High>0.404981</High>
+    <Low>0.385304</Low>
+    <Close>0.392412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-06</Date>
+    <Open>0.393108</Open>
+    <High>0.409904</High>
+    <Low>0.391104</Low>
+    <Close>0.407696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-07</Date>
+    <Open>0.4076</Open>
+    <High>0.421604</High>
+    <Low>0.389623</Low>
+    <Close>0.4091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-08</Date>
+    <Open>0.4091</Open>
+    <High>0.411741</High>
+    <Low>0.39634</Low>
+    <Close>0.410029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-09</Date>
+    <Open>0.411329</Open>
+    <High>0.412241</High>
+    <Low>0.398124</Low>
+    <Close>0.400412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-10</Date>
+    <Open>0.39992</Open>
+    <High>0.405004</High>
+    <Low>0.3986</Low>
+    <Close>0.403792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-11</Date>
+    <Open>0.403996</Open>
+    <High>0.4042</High>
+    <Low>0.391239</Low>
+    <Close>0.393439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-12</Date>
+    <Open>0.393205</Open>
+    <High>0.406904</High>
+    <Low>0.3895</Low>
+    <Close>0.402636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-13</Date>
+    <Open>0.402332</Open>
+    <High>0.405365</High>
+    <Low>0.38373</Low>
+    <Close>0.397105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-14</Date>
+    <Open>0.397273</Open>
+    <High>0.402232</High>
+    <Low>0.380773</Low>
+    <Close>0.386327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-15</Date>
+    <Open>0.385439</Open>
+    <High>0.387239</High>
+    <Low>0.372237</Low>
+    <Close>0.373875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-16</Date>
+    <Open>0.373275</Open>
+    <High>0.378438</High>
+    <Low>0.307331</Low>
+    <Close>0.316032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-17</Date>
+    <Open>0.315363</Open>
+    <High>0.316132</High>
+    <Low>0.296515</Low>
+    <Close>0.30484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-18</Date>
+    <Open>0.30484</Open>
+    <High>0.307237</High>
+    <Low>0.289532</Low>
+    <Close>0.300139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-19</Date>
+    <Open>0.301539</Open>
+    <High>0.312225</High>
+    <Low>0.275606</Low>
+    <Close>0.281594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-20</Date>
+    <Open>0.281597</Open>
+    <High>0.302697</High>
+    <Low>0.279797</Low>
+    <Close>0.298812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-21</Date>
+    <Open>0.299412</Open>
+    <High>0.300112</High>
+    <Low>0.2843</Low>
+    <Close>0.287814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-22</Date>
+    <Open>0.288314</Open>
+    <High>0.293797</High>
+    <Low>0.280472</Low>
+    <Close>0.291051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-23</Date>
+    <Open>0.291456</Open>
+    <High>0.29405</High>
+    <Low>0.28756</Low>
+    <Close>0.290471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-24</Date>
+    <Open>0.289868</Open>
+    <High>0.292574</High>
+    <Low>0.28818</Low>
+    <Close>0.28818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-25</Date>
+    <Open>0.288583</Open>
+    <High>0.292194</High>
+    <Low>0.283355</Low>
+    <Close>0.286663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-26</Date>
+    <Open>0.286466</Open>
+    <High>0.290071</High>
+    <Low>0.284974</Low>
+    <Close>0.287742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-27</Date>
+    <Open>0.287445</Open>
+    <High>0.290345</High>
+    <Low>0.271375</Low>
+    <Close>0.274093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-28</Date>
+    <Open>0.273793</Open>
+    <High>0.275079</High>
+    <Low>0.24556</Low>
+    <Close>0.248166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-29</Date>
+    <Open>0.248568</Open>
+    <High>0.251774</High>
+    <Low>0.22601</Low>
+    <Close>0.234792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-30</Date>
+    <Open>0.232997</Open>
+    <High>0.240989</High>
+    <Low>0.222909</Low>
+    <Close>0.225887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2022-12-31</Date>
+    <Open>0.225985</Open>
+    <High>0.232679</High>
+    <Low>0.220787</Low>
+    <Close>0.229085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-01</Date>
+    <Open>0.228583</Open>
+    <High>0.2372</High>
+    <Low>0.227384</Low>
+    <Close>0.235889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-02</Date>
+    <Open>0.235891</Open>
+    <High>0.253299</High>
+    <Low>0.234704</Low>
+    <Close>0.246421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-03</Date>
+    <Open>0.247116</Open>
+    <High>0.250205</High>
+    <Low>0.241401</Low>
+    <Close>0.249303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-04</Date>
+    <Open>0.249303</Open>
+    <High>0.261793</High>
+    <Low>0.248803</Low>
+    <Close>0.254316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-05</Date>
+    <Open>0.254214</Open>
+    <High>0.261322</High>
+    <Low>0.252994</Low>
+    <Close>0.25701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-06</Date>
+    <Open>0.25801</Open>
+    <High>0.258399</High>
+    <Low>0.244166</Low>
+    <Close>0.25822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-07</Date>
+    <Open>0.256418</Open>
+    <High>0.269416</High>
+    <Low>0.256415</Low>
+    <Close>0.261937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-08</Date>
+    <Open>0.262321</Open>
+    <High>0.276056</High>
+    <Low>0.257064</Low>
+    <Close>0.274367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-09</Date>
+    <Open>0.276059</Open>
+    <High>0.345359</High>
+    <Low>0.273648</Low>
+    <Close>0.312097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-10</Date>
+    <Open>0.3121</Open>
+    <High>0.316675</High>
+    <Low>0.295385</Low>
+    <Close>0.307143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-11</Date>
+    <Open>0.307349</Open>
+    <High>0.30965</High>
+    <Low>0.286069</Low>
+    <Close>0.298894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-12</Date>
+    <Open>0.299176</Open>
+    <High>0.357529</High>
+    <Low>0.291697</Low>
+    <Close>0.349331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-13</Date>
+    <Open>0.349635</Open>
+    <High>0.379734</High>
+    <Low>0.334797</Low>
+    <Close>0.364033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-14</Date>
+    <Open>0.365133</Open>
+    <High>0.532548</High>
+    <Low>0.359236</Low>
+    <Close>0.513326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-15</Date>
+    <Open>0.513426</Open>
+    <High>0.564096</High>
+    <Low>0.463665</Low>
+    <Close>0.520051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-16</Date>
+    <Open>0.519851</Open>
+    <High>0.529759</High>
+    <Low>0.476833</Low>
+    <Close>0.49111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-17</Date>
+    <Open>0.490105</Open>
+    <High>0.521042</High>
+    <Low>0.469028</Low>
+    <Close>0.483453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-18</Date>
+    <Open>0.483153</Open>
+    <High>0.493949</High>
+    <Low>0.415096</Low>
+    <Close>0.427179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-19</Date>
+    <Open>0.425974</Open>
+    <High>0.442556</High>
+    <Low>0.416596</Low>
+    <Close>0.430183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-20</Date>
+    <Open>0.430526</Open>
+    <High>0.507891</High>
+    <Low>0.421496</Low>
+    <Close>0.503691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-21</Date>
+    <Open>0.50189</Open>
+    <High>0.53648</High>
+    <Low>0.483164</Low>
+    <Close>0.4991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-22</Date>
+    <Open>0.495774</Open>
+    <High>0.538091</High>
+    <Low>0.482106</Low>
+    <Close>0.4992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-23</Date>
+    <Open>0.499</Open>
+    <High>0.666373</High>
+    <Low>0.497995</Low>
+    <Close>0.599996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-24</Date>
+    <Open>0.600584</Open>
+    <High>0.60179</High>
+    <Low>0.520278</Low>
+    <Close>0.52371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-25</Date>
+    <Open>0.52351</Open>
+    <High>0.593607</High>
+    <Low>0.512667</Low>
+    <Close>0.568691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-26</Date>
+    <Open>0.568597</Open>
+    <High>0.686489</High>
+    <Low>0.565996</Low>
+    <Close>0.609049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-27</Date>
+    <Open>0.609549</Open>
+    <High>0.633791</High>
+    <Low>0.576715</Low>
+    <Close>0.600428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-28</Date>
+    <Open>0.600804</Open>
+    <High>0.629939</High>
+    <Low>0.581039</Low>
+    <Close>0.590518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-29</Date>
+    <Open>0.590318</Open>
+    <High>0.6252</High>
+    <Low>0.577333</Low>
+    <Close>0.60993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-30</Date>
+    <Open>0.610024</Open>
+    <High>0.617412</High>
+    <Low>0.529495</Low>
+    <Close>0.540438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-01-31</Date>
+    <Open>0.540238</Open>
+    <High>0.560717</High>
+    <Low>0.525568</Low>
+    <Close>0.55205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-01</Date>
+    <Open>0.55205</Open>
+    <High>0.584223</High>
+    <Low>0.516126</Low>
+    <Close>0.576735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-02</Date>
+    <Open>0.577529</Open>
+    <High>0.594549</High>
+    <Low>0.547633</Low>
+    <Close>0.5568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-03</Date>
+    <Open>0.556911</Open>
+    <High>0.565217</High>
+    <Low>0.537997</Low>
+    <Close>0.557545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-04</Date>
+    <Open>0.558245</Open>
+    <High>0.57394</High>
+    <Low>0.547138</Low>
+    <Close>0.566545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-05</Date>
+    <Open>0.566345</Open>
+    <High>0.572752</High>
+    <Low>0.503131</Low>
+    <Close>0.51883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-06</Date>
+    <Open>0.51833</Open>
+    <High>0.527384</High>
+    <Low>0.502896</Low>
+    <Close>0.51032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-07</Date>
+    <Open>0.51042</Open>
+    <High>0.543911</High>
+    <Low>0.498545</Low>
+    <Close>0.535637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-08</Date>
+    <Open>0.535632</Open>
+    <High>0.559628</High>
+    <Low>0.500455</Low>
+    <Close>0.512941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-09</Date>
+    <Open>0.514336</Open>
+    <High>0.52061</High>
+    <Low>0.417688</Low>
+    <Close>0.424842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-10</Date>
+    <Open>0.424742</Open>
+    <High>0.439944</High>
+    <Low>0.415904</Low>
+    <Close>0.428364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-11</Date>
+    <Open>0.4286</Open>
+    <High>0.438244</High>
+    <Low>0.422346</Low>
+    <Close>0.435544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-12</Date>
+    <Open>0.435439</Open>
+    <High>0.449754</High>
+    <Low>0.414558</Low>
+    <Close>0.423534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-13</Date>
+    <Open>0.422842</Open>
+    <High>0.427068</High>
+    <Low>0.388379</Low>
+    <Close>0.399916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-14</Date>
+    <Open>0.39962</Open>
+    <High>0.426028</High>
+    <Low>0.395458</Low>
+    <Close>0.425274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-15</Date>
+    <Open>0.425474</Open>
+    <High>0.486668</High>
+    <Low>0.420439</Low>
+    <Close>0.477186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-16</Date>
+    <Open>0.477486</Open>
+    <High>0.500085</High>
+    <Low>0.43684</Low>
+    <Close>0.436949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-17</Date>
+    <Open>0.436648</Open>
+    <High>0.468014</High>
+    <Low>0.429843</Low>
+    <Close>0.460946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-18</Date>
+    <Open>0.461146</Open>
+    <High>0.47028</High>
+    <Low>0.450368</Low>
+    <Close>0.459574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-19</Date>
+    <Open>0.460574</Open>
+    <High>0.479177</High>
+    <Low>0.430521</Low>
+    <Close>0.442897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-20</Date>
+    <Open>0.442697</Open>
+    <High>0.471157</High>
+    <Low>0.420222</Low>
+    <Close>0.453118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-21</Date>
+    <Open>0.452718</Open>
+    <High>0.461874</High>
+    <Low>0.427586</Low>
+    <Close>0.437574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-22</Date>
+    <Open>0.437674</Open>
+    <High>0.448576</High>
+    <Low>0.410345</Low>
+    <Close>0.428613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-23</Date>
+    <Open>0.428917</Open>
+    <High>0.439922</High>
+    <Low>0.411545</Low>
+    <Close>0.417058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-24</Date>
+    <Open>0.416958</Open>
+    <High>0.426485</High>
+    <Low>0.37063</Low>
+    <Close>0.380696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-25</Date>
+    <Open>0.380592</Open>
+    <High>0.385827</High>
+    <Low>0.352935</Low>
+    <Close>0.368526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-26</Date>
+    <Open>0.367726</Open>
+    <High>0.384519</High>
+    <Low>0.366826</Low>
+    <Close>0.37683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-27</Date>
+    <Open>0.376819</Open>
+    <High>0.398412</High>
+    <Low>0.3743</Low>
+    <Close>0.384519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-02-28</Date>
+    <Open>0.384619</Open>
+    <High>0.389219</High>
+    <Low>0.36308</Low>
+    <Close>0.366062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-01</Date>
+    <Open>0.365769</Open>
+    <High>0.390447</High>
+    <Low>0.364344</Low>
+    <Close>0.38725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-02</Date>
+    <Open>0.387954</Open>
+    <High>0.4283</High>
+    <Low>0.382065</Low>
+    <Close>0.424338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-03</Date>
+    <Open>0.424434</Open>
+    <High>0.425734</High>
+    <Low>0.38145</Low>
+    <Close>0.397128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-04</Date>
+    <Open>0.397724</Open>
+    <High>0.39962</High>
+    <Low>0.357718</Low>
+    <Close>0.367929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-05</Date>
+    <Open>0.368029</Open>
+    <High>0.376919</High>
+    <Low>0.364025</Low>
+    <Close>0.369541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-06</Date>
+    <Open>0.368944</Open>
+    <High>0.375404</High>
+    <Low>0.354767</Low>
+    <Close>0.373578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-07</Date>
+    <Open>0.373251</Open>
+    <High>0.383392</High>
+    <Low>0.342952</Low>
+    <Close>0.351807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-08</Date>
+    <Open>0.351382</Open>
+    <High>0.358604</High>
+    <Low>0.324984</Low>
+    <Close>0.327887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-09</Date>
+    <Open>0.327157</Open>
+    <High>0.34289</High>
+    <Low>0.300434</Low>
+    <Close>0.304327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-10</Date>
+    <Open>0.303527</Open>
+    <High>0.315241</High>
+    <Low>0.283277</Low>
+    <Close>0.308391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-11</Date>
+    <Open>0.308287</Open>
+    <High>0.320698</High>
+    <Low>0.2925</Low>
+    <Close>0.302718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-12</Date>
+    <Open>0.303118</Open>
+    <High>0.335074</High>
+    <Low>0.296328</Low>
+    <Close>0.331933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-13</Date>
+    <Open>0.333315</Open>
+    <High>0.369666</High>
+    <Low>0.332198</Low>
+    <Close>0.366958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-14</Date>
+    <Open>0.36713</Open>
+    <High>0.441754</High>
+    <Low>0.356038</Low>
+    <Close>0.414601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-15</Date>
+    <Open>0.414839</Open>
+    <High>0.424452</High>
+    <Low>0.356675</Low>
+    <Close>0.367236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-16</Date>
+    <Open>0.367236</Open>
+    <High>0.38076</High>
+    <Low>0.355841</Low>
+    <Close>0.37143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-17</Date>
+    <Open>0.371712</Open>
+    <High>0.411089</High>
+    <Low>0.365635</Low>
+    <Close>0.406913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-18</Date>
+    <Open>0.406817</Open>
+    <High>0.489719</High>
+    <Low>0.406817</Low>
+    <Close>0.460172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-19</Date>
+    <Open>0.461079</Open>
+    <High>0.499991</High>
+    <Low>0.437264</Low>
+    <Close>0.451965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-20</Date>
+    <Open>0.451956</Open>
+    <High>0.455175</High>
+    <Low>0.408437</Low>
+    <Close>0.421332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-21</Date>
+    <Open>0.420835</Open>
+    <High>0.424804</High>
+    <Low>0.387745</Low>
+    <Close>0.408302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-22</Date>
+    <Open>0.408298</Open>
+    <High>0.416118</High>
+    <Low>0.371693</Low>
+    <Close>0.385554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-23</Date>
+    <Open>0.385368</Open>
+    <High>0.416703</High>
+    <Low>0.381836</Low>
+    <Close>0.405341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-24</Date>
+    <Open>0.405041</Open>
+    <High>0.412574</High>
+    <Low>0.377811</Low>
+    <Close>0.387399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-25</Date>
+    <Open>0.387445</Open>
+    <High>0.391295</High>
+    <Low>0.37172</Low>
+    <Close>0.379768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-26</Date>
+    <Open>0.379167</Open>
+    <High>0.395652</High>
+    <Low>0.374359</Low>
+    <Close>0.387337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-27</Date>
+    <Open>0.388327</Open>
+    <High>0.393638</High>
+    <Low>0.352522</Low>
+    <Close>0.366072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-28</Date>
+    <Open>0.365976</Open>
+    <High>0.376902</High>
+    <Low>0.357125</Low>
+    <Close>0.374046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-29</Date>
+    <Open>0.373546</Open>
+    <High>0.397075</High>
+    <Low>0.373045</Low>
+    <Close>0.392875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-30</Date>
+    <Open>0.392618</Open>
+    <High>0.40859</High>
+    <Low>0.377979</Low>
+    <Close>0.383203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-03-31</Date>
+    <Open>0.383003</Open>
+    <High>0.393779</High>
+    <Low>0.375313</Low>
+    <Close>0.392682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-01</Date>
+    <Open>0.392582</Open>
+    <High>0.397383</High>
+    <Low>0.386974</Low>
+    <Close>0.395542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-02</Date>
+    <Open>0.395446</Open>
+    <High>0.400264</High>
+    <Low>0.375155</Low>
+    <Close>0.379939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-03</Date>
+    <Open>0.380936</Open>
+    <High>0.385346</High>
+    <Low>0.367848</Low>
+    <Close>0.374546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-04</Date>
+    <Open>0.375146</Open>
+    <High>0.381749</High>
+    <Low>0.371671</Low>
+    <Close>0.379093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-05</Date>
+    <Open>0.379089</Open>
+    <High>0.390513</High>
+    <Low>0.373053</Low>
+    <Close>0.381337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-06</Date>
+    <Open>0.381037</Open>
+    <High>0.389478</High>
+    <Low>0.374468</Low>
+    <Close>0.378229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-07</Date>
+    <Open>0.378132</Open>
+    <High>0.386085</High>
+    <Low>0.374343</Low>
+    <Close>0.379381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-08</Date>
+    <Open>0.379381</Open>
+    <High>0.382445</High>
+    <Low>0.374298</Low>
+    <Close>0.376447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-09</Date>
+    <Open>0.376947</Open>
+    <High>0.378916</High>
+    <Low>0.365112</Low>
+    <Close>0.37345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-10</Date>
+    <Open>0.374143</Open>
+    <High>0.379807</High>
+    <Low>0.364971</Low>
+    <Close>0.375504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-11</Date>
+    <Open>0.376208</Open>
+    <High>0.383899</High>
+    <Low>0.3753</Low>
+    <Close>0.380072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-12</Date>
+    <Open>0.379375</Open>
+    <High>0.380187</High>
+    <Low>0.360686</Low>
+    <Close>0.372791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-13</Date>
+    <Open>0.373391</Open>
+    <High>0.384303</High>
+    <Low>0.369514</Low>
+    <Close>0.380465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-14</Date>
+    <Open>0.381462</Open>
+    <High>0.406237</High>
+    <Low>0.381065</Low>
+    <Close>0.399631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-15</Date>
+    <Open>0.399728</Open>
+    <High>0.404844</High>
+    <Low>0.392437</Low>
+    <Close>0.396857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-16</Date>
+    <Open>0.395552</Open>
+    <High>0.403678</High>
+    <Low>0.388534</Low>
+    <Close>0.402874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-17</Date>
+    <Open>0.402674</Open>
+    <High>0.403374</High>
+    <Low>0.381663</Low>
+    <Close>0.386732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-18</Date>
+    <Open>0.387228</Open>
+    <High>0.401356</High>
+    <Low>0.382668</Low>
+    <Close>0.398072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-19</Date>
+    <Open>0.398076</Open>
+    <High>0.401104</High>
+    <Low>0.357429</Low>
+    <Close>0.3633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-20</Date>
+    <Open>0.3637</Open>
+    <High>0.364175</High>
+    <Low>0.340535</Low>
+    <Close>0.344228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-21</Date>
+    <Open>0.344621</Open>
+    <High>0.348507</High>
+    <Low>0.326835</Low>
+    <Close>0.330964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-22</Date>
+    <Open>0.331967</Open>
+    <High>0.334903</High>
+    <Low>0.326525</Low>
+    <Close>0.333933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-23</Date>
+    <Open>0.33383</Open>
+    <High>0.335834</High>
+    <Low>0.314769</Low>
+    <Close>0.318516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-24</Date>
+    <Open>0.318516</Open>
+    <High>0.330517</High>
+    <Low>0.3172</Low>
+    <Close>0.325006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-25</Date>
+    <Open>0.32521</Open>
+    <High>0.33228</High>
+    <Low>0.316228</Low>
+    <Close>0.332276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-26</Date>
+    <Open>0.330476</Open>
+    <High>0.343231</High>
+    <Low>0.307558</Low>
+    <Close>0.324104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-27</Date>
+    <Open>0.320002</Open>
+    <High>0.3335</High>
+    <Low>0.320002</Low>
+    <Close>0.329812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-28</Date>
+    <Open>0.330002</Open>
+    <High>0.339773</High>
+    <Low>0.326065</Low>
+    <Close>0.334257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-29</Date>
+    <Open>0.334654</Open>
+    <High>0.34795</High>
+    <Low>0.333947</Low>
+    <Close>0.3388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-04-30</Date>
+    <Open>0.3388</Open>
+    <High>0.339507</High>
+    <Low>0.325992</Low>
+    <Close>0.331089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-01</Date>
+    <Open>0.330385</Open>
+    <High>0.331175</High>
+    <Low>0.312322</Low>
+    <Close>0.315485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-02</Date>
+    <Open>0.315185</Open>
+    <High>0.320021</High>
+    <Low>0.310303</Low>
+    <Close>0.319095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-03</Date>
+    <Open>0.319095</Open>
+    <High>0.322506</High>
+    <Low>0.307871</Low>
+    <Close>0.321487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-04</Date>
+    <Open>0.321287</Open>
+    <High>0.324797</High>
+    <Low>0.314529</Low>
+    <Close>0.315914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-05</Date>
+    <Open>0.315914</Open>
+    <High>0.320227</High>
+    <Low>0.310018</Low>
+    <Close>0.314486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-06</Date>
+    <Open>0.314486</Open>
+    <High>0.316213</High>
+    <Low>0.289806</Low>
+    <Close>0.292007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-07</Date>
+    <Open>0.290894</Open>
+    <High>0.298096</High>
+    <Low>0.286377</Low>
+    <Close>0.296149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-08</Date>
+    <Open>0.297475</Open>
+    <High>0.297475</High>
+    <Low>0.249222</Low>
+    <Close>0.256495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-09</Date>
+    <Open>0.256695</Open>
+    <High>0.260885</High>
+    <Low>0.254179</Low>
+    <Close>0.255355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-10</Date>
+    <Open>0.255115</Open>
+    <High>0.282911</High>
+    <Low>0.252129</Low>
+    <Close>0.274574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-11</Date>
+    <Open>0.275075</Open>
+    <High>0.288259</High>
+    <Low>0.26714</Low>
+    <Close>0.273673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-12</Date>
+    <Open>0.274274</Open>
+    <High>0.275648</High>
+    <Low>0.258129</Low>
+    <Close>0.273919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-13</Date>
+    <Open>0.272891</Open>
+    <High>0.275293</High>
+    <Low>0.26686</Low>
+    <Close>0.269161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-14</Date>
+    <Open>0.269735</Open>
+    <High>0.274137</High>
+    <Low>0.264459</Low>
+    <Close>0.269362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-15</Date>
+    <Open>0.268934</Open>
+    <High>0.281925</High>
+    <Low>0.265859</Low>
+    <Close>0.277494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-16</Date>
+    <Open>0.277594</Open>
+    <High>0.278267</High>
+    <Low>0.269408</Low>
+    <Close>0.276538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-17</Date>
+    <Open>0.27551</Open>
+    <High>0.286515</High>
+    <Low>0.273937</Low>
+    <Close>0.283942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-18</Date>
+    <Open>0.284542</Open>
+    <High>0.289116</High>
+    <Low>0.27581</Low>
+    <Close>0.286815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-19</Date>
+    <Open>0.285514</Open>
+    <High>0.290316</High>
+    <Low>0.280328</Low>
+    <Close>0.286486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-20</Date>
+    <Open>0.286643</Open>
+    <High>0.28936</High>
+    <Low>0.282341</Low>
+    <Close>0.285156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-21</Date>
+    <Open>0.285857</Open>
+    <High>0.286529</High>
+    <Low>0.269662</Low>
+    <Close>0.272664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-22</Date>
+    <Open>0.272636</Open>
+    <High>0.306353</High>
+    <Low>0.264932</Low>
+    <Close>0.298949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-23</Date>
+    <Open>0.299149</Open>
+    <High>0.319635</High>
+    <Low>0.293679</Low>
+    <Close>0.297118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-24</Date>
+    <Open>0.297018</Open>
+    <High>0.298633</High>
+    <Low>0.2681</Low>
+    <Close>0.273384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-25</Date>
+    <Open>0.273386</Open>
+    <High>0.274286</High>
+    <Low>0.261769</Low>
+    <Close>0.265708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-26</Date>
+    <Open>0.265706</Open>
+    <High>0.267132</High>
+    <Low>0.258523</Low>
+    <Close>0.265153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-27</Date>
+    <Open>0.26518</Open>
+    <High>0.268386</High>
+    <Low>0.262479</Low>
+    <Close>0.265403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GMT">
+    <Date>2023-05-28</Date>
+    <Open>0.26538</Open>
+    <High>0.271279</High>
+    <Low>0.264206</Low>
+    <Close>0.270862</Close>
+  </Cryptocurrency>
+</Root>

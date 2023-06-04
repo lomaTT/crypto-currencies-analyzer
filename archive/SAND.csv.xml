@@ -1,0 +1,7094 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-20</Date>
+    <Open>0.05235</Open>
+    <High>0.05739</High>
+    <Low>0.05205</Low>
+    <Close>0.05353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-21</Date>
+    <Open>0.05353</Open>
+    <High>0.05387</High>
+    <Low>0.04401</Low>
+    <Close>0.04423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-22</Date>
+    <Open>0.04423</Open>
+    <High>0.04915</High>
+    <Low>0.04024</Low>
+    <Close>0.04602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-23</Date>
+    <Open>0.04602</Open>
+    <High>0.04837</High>
+    <Low>0.04183</Low>
+    <Close>0.04365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-24</Date>
+    <Open>0.04365</Open>
+    <High>0.0538</High>
+    <Low>0.0421</Low>
+    <Close>0.05079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-25</Date>
+    <Open>0.05079</Open>
+    <High>0.05681</High>
+    <Low>0.04504</Low>
+    <Close>0.04805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-26</Date>
+    <Open>0.04805</Open>
+    <High>0.05875</High>
+    <Low>0.04695</Low>
+    <Close>0.05863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-27</Date>
+    <Open>0.05863</Open>
+    <High>0.07561</High>
+    <Low>0.05423</Low>
+    <Close>0.07402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-28</Date>
+    <Open>0.07402</Open>
+    <High>0.08258</High>
+    <Low>0.06857</Low>
+    <Close>0.07005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-29</Date>
+    <Open>0.07005</Open>
+    <High>0.07457</High>
+    <Low>0.06518</Low>
+    <Close>0.07275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-30</Date>
+    <Open>0.07275</Open>
+    <High>0.07387</High>
+    <Low>0.06466</Low>
+    <Close>0.06672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-08-31</Date>
+    <Open>0.06672</Open>
+    <High>0.07855</High>
+    <Low>0.06672</Low>
+    <Close>0.07007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-01</Date>
+    <Open>0.07007</Open>
+    <High>0.07097</High>
+    <Low>0.05936</Low>
+    <Close>0.05986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-02</Date>
+    <Open>0.05986</Open>
+    <High>0.06086</High>
+    <Low>0.05096</Low>
+    <Close>0.05836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-03</Date>
+    <Open>0.05836</Open>
+    <High>0.05962</High>
+    <Low>0.04351</Low>
+    <Close>0.04408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-04</Date>
+    <Open>0.04408</Open>
+    <High>0.04757</High>
+    <Low>0.03812</Low>
+    <Close>0.04496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-05</Date>
+    <Open>0.04496</Open>
+    <High>0.04709</High>
+    <Low>0.03508</Low>
+    <Close>0.03761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-06</Date>
+    <Open>0.03761</Open>
+    <High>0.0427</High>
+    <Low>0.03329</Low>
+    <Close>0.04099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-07</Date>
+    <Open>0.04099</Open>
+    <High>0.04123</High>
+    <Low>0.03354</Low>
+    <Close>0.039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-08</Date>
+    <Open>0.039</Open>
+    <High>0.05851</High>
+    <Low>0.03694</Low>
+    <Close>0.04965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-09</Date>
+    <Open>0.04965</Open>
+    <High>0.05686</High>
+    <Low>0.04625</Low>
+    <Close>0.04826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-10</Date>
+    <Open>0.04826</Open>
+    <High>0.05358</High>
+    <Low>0.04705</Low>
+    <Close>0.04954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-11</Date>
+    <Open>0.04954</Open>
+    <High>0.05505</High>
+    <Low>0.04636</Low>
+    <Close>0.05156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-12</Date>
+    <Open>0.05156</Open>
+    <High>0.05156</High>
+    <Low>0.0473</Low>
+    <Close>0.04942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-13</Date>
+    <Open>0.04942</Open>
+    <High>0.0499</High>
+    <Low>0.0416</Low>
+    <Close>0.04352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-14</Date>
+    <Open>0.04352</Open>
+    <High>0.04775</High>
+    <Low>0.04118</Low>
+    <Close>0.04638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-15</Date>
+    <Open>0.04638</Open>
+    <High>0.05098</High>
+    <Low>0.04212</Low>
+    <Close>0.04222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-16</Date>
+    <Open>0.04222</Open>
+    <High>0.05076</High>
+    <Low>0.04046</Low>
+    <Close>0.04419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-17</Date>
+    <Open>0.04419</Open>
+    <High>0.04681</High>
+    <Low>0.04249</Low>
+    <Close>0.04387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-18</Date>
+    <Open>0.04387</Open>
+    <High>0.04725</High>
+    <Low>0.04299</Low>
+    <Close>0.04398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-19</Date>
+    <Open>0.04398</Open>
+    <High>0.04866</High>
+    <Low>0.04247</Low>
+    <Close>0.0471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-20</Date>
+    <Open>0.0471</Open>
+    <High>0.04817</High>
+    <Low>0.04228</Low>
+    <Close>0.04299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-21</Date>
+    <Open>0.04299</Open>
+    <High>0.04471</High>
+    <Low>0.03653</Low>
+    <Close>0.03846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-22</Date>
+    <Open>0.03846</Open>
+    <High>0.04479</High>
+    <Low>0.03638</Low>
+    <Close>0.04394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-23</Date>
+    <Open>0.04394</Open>
+    <High>0.04957</High>
+    <Low>0.0412</Low>
+    <Close>0.04276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-24</Date>
+    <Open>0.04276</Open>
+    <High>0.05103</High>
+    <Low>0.04242</Low>
+    <Close>0.04785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-25</Date>
+    <Open>0.04785</Open>
+    <High>0.05</High>
+    <Low>0.04565</Low>
+    <Close>0.04847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-26</Date>
+    <Open>0.04847</Open>
+    <High>0.04904</High>
+    <Low>0.04544</Low>
+    <Close>0.0466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-27</Date>
+    <Open>0.0466</Open>
+    <High>0.04661</High>
+    <Low>0.0412</Low>
+    <Close>0.04332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-28</Date>
+    <Open>0.04332</Open>
+    <High>0.04574</High>
+    <Low>0.04081</Low>
+    <Close>0.04167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-29</Date>
+    <Open>0.04167</Open>
+    <High>0.04399</High>
+    <Low>0.04136</Low>
+    <Close>0.04363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-09-30</Date>
+    <Open>0.04363</Open>
+    <High>0.04809</High>
+    <Low>0.04216</Low>
+    <Close>0.04618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-01</Date>
+    <Open>0.04618</Open>
+    <High>0.04685</High>
+    <Low>0.04127</Low>
+    <Close>0.04248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-02</Date>
+    <Open>0.04248</Open>
+    <High>0.04341</High>
+    <Low>0.03885</Low>
+    <Close>0.04097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-03</Date>
+    <Open>0.04097</Open>
+    <High>0.04726</High>
+    <Low>0.04089</Low>
+    <Close>0.04533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-04</Date>
+    <Open>0.04533</Open>
+    <High>0.0489</High>
+    <Low>0.04229</Low>
+    <Close>0.04862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-05</Date>
+    <Open>0.04862</Open>
+    <High>0.05456</High>
+    <Low>0.04717</Low>
+    <Close>0.05072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-06</Date>
+    <Open>0.05072</Open>
+    <High>0.05096</High>
+    <Low>0.04577</Low>
+    <Close>0.04639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-07</Date>
+    <Open>0.04639</Open>
+    <High>0.04683</High>
+    <Low>0.04257</Low>
+    <Close>0.04541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-08</Date>
+    <Open>0.04541</Open>
+    <High>0.04808</High>
+    <Low>0.04309</Low>
+    <Close>0.04779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-09</Date>
+    <Open>0.04779</Open>
+    <High>0.05046</High>
+    <Low>0.04596</Low>
+    <Close>0.04972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-10</Date>
+    <Open>0.04972</Open>
+    <High>0.05155</High>
+    <Low>0.0453</Low>
+    <Close>0.04584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-11</Date>
+    <Open>0.04584</Open>
+    <High>0.0497</High>
+    <Low>0.04525</Low>
+    <Close>0.04894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-12</Date>
+    <Open>0.04894</Open>
+    <High>0.05057</High>
+    <Low>0.04648</Low>
+    <Close>0.04738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-13</Date>
+    <Open>0.04738</Open>
+    <High>0.04929</High>
+    <Low>0.04547</Low>
+    <Close>0.04641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-14</Date>
+    <Open>0.04641</Open>
+    <High>0.04711</High>
+    <Low>0.04504</Low>
+    <Close>0.04602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-15</Date>
+    <Open>0.04602</Open>
+    <High>0.04625</High>
+    <Low>0.04411</Low>
+    <Close>0.04497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-16</Date>
+    <Open>0.04497</Open>
+    <High>0.04507</High>
+    <Low>0.04083</Low>
+    <Close>0.04357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-17</Date>
+    <Open>0.04357</Open>
+    <High>0.0443</High>
+    <Low>0.04264</Low>
+    <Close>0.04315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-18</Date>
+    <Open>0.04315</Open>
+    <High>0.04358</High>
+    <Low>0.04221</Low>
+    <Close>0.04252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-19</Date>
+    <Open>0.04252</Open>
+    <High>0.04391</High>
+    <Low>0.04055</Low>
+    <Close>0.04064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-20</Date>
+    <Open>0.04064</Open>
+    <High>0.04183</High>
+    <Low>0.03808</Low>
+    <Close>0.03892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-21</Date>
+    <Open>0.03892</Open>
+    <High>0.03965</High>
+    <Low>0.03659</Low>
+    <Close>0.03841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-22</Date>
+    <Open>0.03841</Open>
+    <High>0.04169</High>
+    <Low>0.0383</Low>
+    <Close>0.03997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-23</Date>
+    <Open>0.03997</Open>
+    <High>0.04303</High>
+    <Low>0.03879</Low>
+    <Close>0.03999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-24</Date>
+    <Open>0.03999</Open>
+    <High>0.04232</High>
+    <Low>0.0399</Low>
+    <Close>0.0406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-25</Date>
+    <Open>0.0406</Open>
+    <High>0.04097</High>
+    <Low>0.03838</Low>
+    <Close>0.03935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-26</Date>
+    <Open>0.03935</Open>
+    <High>0.0415</High>
+    <Low>0.03739</Low>
+    <Close>0.03788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-27</Date>
+    <Open>0.03788</Open>
+    <High>0.03905</High>
+    <Low>0.03758</Low>
+    <Close>0.03794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-28</Date>
+    <Open>0.03794</Open>
+    <High>0.03843</High>
+    <Low>0.03428</Low>
+    <Close>0.03531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-29</Date>
+    <Open>0.03531</Open>
+    <High>0.03926</High>
+    <Low>0.03311</Low>
+    <Close>0.03747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-30</Date>
+    <Open>0.03747</Open>
+    <High>0.03895</High>
+    <Low>0.03407</Low>
+    <Close>0.03574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-10-31</Date>
+    <Open>0.03574</Open>
+    <High>0.03685</High>
+    <Low>0.03465</Low>
+    <Close>0.03546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-01</Date>
+    <Open>0.03546</Open>
+    <High>0.03624</High>
+    <Low>0.03472</Low>
+    <Close>0.03554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-02</Date>
+    <Open>0.03554</Open>
+    <High>0.03624</High>
+    <Low>0.03398</Low>
+    <Close>0.03535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-03</Date>
+    <Open>0.03535</Open>
+    <High>0.03538</High>
+    <Low>0.03004</Low>
+    <Close>0.03084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-04</Date>
+    <Open>0.03084</Open>
+    <High>0.03186</High>
+    <Low>0.02888</Low>
+    <Close>0.03175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-05</Date>
+    <Open>0.03175</Open>
+    <High>0.0369</High>
+    <Low>0.03158</Low>
+    <Close>0.03403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-06</Date>
+    <Open>0.03403</Open>
+    <High>0.03832</High>
+    <Low>0.03377</Low>
+    <Close>0.03745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-07</Date>
+    <Open>0.03745</Open>
+    <High>0.04096</High>
+    <Low>0.03451</Low>
+    <Close>0.03644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-08</Date>
+    <Open>0.03644</Open>
+    <High>0.03872</High>
+    <Low>0.03523</Low>
+    <Close>0.03809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-09</Date>
+    <Open>0.03809</Open>
+    <High>0.03984</High>
+    <Low>0.03604</Low>
+    <Close>0.03796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-10</Date>
+    <Open>0.03796</Open>
+    <High>0.04247</High>
+    <Low>0.03793</Low>
+    <Close>0.04158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-11</Date>
+    <Open>0.04158</Open>
+    <High>0.04392</High>
+    <Low>0.04029</Low>
+    <Close>0.04269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-12</Date>
+    <Open>0.04269</Open>
+    <High>0.05511</High>
+    <Low>0.03813</Low>
+    <Close>0.03889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-13</Date>
+    <Open>0.03889</Open>
+    <High>0.04165</High>
+    <Low>0.03834</Low>
+    <Close>0.03902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-14</Date>
+    <Open>0.03902</Open>
+    <High>0.0398</High>
+    <Low>0.03696</Low>
+    <Close>0.03838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-15</Date>
+    <Open>0.03838</Open>
+    <High>0.04063</High>
+    <Low>0.03714</Low>
+    <Close>0.03762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-16</Date>
+    <Open>0.03762</Open>
+    <High>0.03924</High>
+    <Low>0.03726</Low>
+    <Close>0.03862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-17</Date>
+    <Open>0.03862</Open>
+    <High>0.03915</High>
+    <Low>0.03646</Low>
+    <Close>0.03726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-18</Date>
+    <Open>0.03726</Open>
+    <High>0.03753</High>
+    <Low>0.03401</Low>
+    <Close>0.03561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-19</Date>
+    <Open>0.03561</Open>
+    <High>0.03734</High>
+    <Low>0.03509</Low>
+    <Close>0.03571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-20</Date>
+    <Open>0.03571</Open>
+    <High>0.03767</High>
+    <Low>0.03565</Low>
+    <Close>0.03638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-21</Date>
+    <Open>0.03638</Open>
+    <High>0.04077</High>
+    <Low>0.03609</Low>
+    <Close>0.04015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-22</Date>
+    <Open>0.04015</Open>
+    <High>0.05096</High>
+    <Low>0.03564</Low>
+    <Close>0.04502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-23</Date>
+    <Open>0.04502</Open>
+    <High>0.0614</High>
+    <Low>0.04185</Low>
+    <Close>0.04776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-24</Date>
+    <Open>0.04776</Open>
+    <High>0.05049</High>
+    <Low>0.0453</Low>
+    <Close>0.04537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-25</Date>
+    <Open>0.04537</Open>
+    <High>0.05264</High>
+    <Low>0.04289</Low>
+    <Close>0.04519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-26</Date>
+    <Open>0.04519</Open>
+    <High>0.04706</High>
+    <Low>0.03714</Low>
+    <Close>0.0415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-27</Date>
+    <Open>0.0415</Open>
+    <High>0.04627</High>
+    <Low>0.03902</Low>
+    <Close>0.04569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-28</Date>
+    <Open>0.04569</Open>
+    <High>0.04661</High>
+    <Low>0.04296</Low>
+    <Close>0.04465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-29</Date>
+    <Open>0.04465</Open>
+    <High>0.046</High>
+    <Low>0.04316</Low>
+    <Close>0.0456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-11-30</Date>
+    <Open>0.0456</Open>
+    <High>0.04946</High>
+    <Low>0.04494</Low>
+    <Close>0.04845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-01</Date>
+    <Open>0.04845</Open>
+    <High>0.04859</High>
+    <Low>0.04325</Low>
+    <Close>0.04578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-02</Date>
+    <Open>0.04578</Open>
+    <High>0.049</High>
+    <Low>0.04395</Low>
+    <Close>0.04696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-03</Date>
+    <Open>0.04696</Open>
+    <High>0.04773</High>
+    <Low>0.04593</Low>
+    <Close>0.04681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-04</Date>
+    <Open>0.04681</Open>
+    <High>0.04688</High>
+    <Low>0.04193</Low>
+    <Close>0.04193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-05</Date>
+    <Open>0.04193</Open>
+    <High>0.04428</High>
+    <Low>0.04117</Low>
+    <Close>0.0436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-06</Date>
+    <Open>0.0436</Open>
+    <High>0.04519</High>
+    <Low>0.04258</Low>
+    <Close>0.04326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-07</Date>
+    <Open>0.04326</Open>
+    <High>0.04717</High>
+    <Low>0.0426</Low>
+    <Close>0.04541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-08</Date>
+    <Open>0.04541</Open>
+    <High>0.04897</High>
+    <Low>0.04374</Low>
+    <Close>0.04447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-09</Date>
+    <Open>0.04447</Open>
+    <High>0.05401</High>
+    <Low>0.04057</Low>
+    <Close>0.05245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-10</Date>
+    <Open>0.05245</Open>
+    <High>0.05615</High>
+    <Low>0.04883</Low>
+    <Close>0.05265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-11</Date>
+    <Open>0.05265</Open>
+    <High>0.05409</High>
+    <Low>0.04502</Low>
+    <Close>0.04533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-12</Date>
+    <Open>0.04533</Open>
+    <High>0.05052</High>
+    <Low>0.0452</Low>
+    <Close>0.04767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-13</Date>
+    <Open>0.04767</Open>
+    <High>0.04981</High>
+    <Low>0.046</Low>
+    <Close>0.0483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-14</Date>
+    <Open>0.0483</Open>
+    <High>0.0521</High>
+    <Low>0.04707</Low>
+    <Close>0.04973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-15</Date>
+    <Open>0.04973</Open>
+    <High>0.05339</High>
+    <Low>0.04789</Low>
+    <Close>0.05262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-16</Date>
+    <Open>0.05262</Open>
+    <High>0.05359</High>
+    <Low>0.04851</Low>
+    <Close>0.0519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-17</Date>
+    <Open>0.0519</Open>
+    <High>0.05257</High>
+    <Low>0.04857</Low>
+    <Close>0.04906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-18</Date>
+    <Open>0.04906</Open>
+    <High>0.05198</High>
+    <Low>0.0476</Low>
+    <Close>0.05138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-19</Date>
+    <Open>0.05138</Open>
+    <High>0.05296</High>
+    <Low>0.04911</Low>
+    <Close>0.0515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-20</Date>
+    <Open>0.0515</Open>
+    <High>0.05577</High>
+    <Low>0.04902</Low>
+    <Close>0.04967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-21</Date>
+    <Open>0.04967</Open>
+    <High>0.05112</High>
+    <Low>0.04526</Low>
+    <Close>0.04755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-22</Date>
+    <Open>0.04755</Open>
+    <High>0.04888</High>
+    <Low>0.04191</Low>
+    <Close>0.04644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-23</Date>
+    <Open>0.04644</Open>
+    <High>0.04674</High>
+    <Low>0.03578</Low>
+    <Close>0.03827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-24</Date>
+    <Open>0.03827</Open>
+    <High>0.04064</High>
+    <Low>0.03566</Low>
+    <Close>0.04041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-25</Date>
+    <Open>0.04041</Open>
+    <High>0.04197</High>
+    <Low>0.03804</Low>
+    <Close>0.03901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-26</Date>
+    <Open>0.03901</Open>
+    <High>0.04033</High>
+    <Low>0.03707</Low>
+    <Close>0.03782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-27</Date>
+    <Open>0.03782</Open>
+    <High>0.04192</High>
+    <Low>0.03575</Low>
+    <Close>0.03927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-28</Date>
+    <Open>0.03927</Open>
+    <High>0.0414</High>
+    <Low>0.03846</Low>
+    <Close>0.03889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-29</Date>
+    <Open>0.03889</Open>
+    <High>0.03996</High>
+    <Low>0.03494</Low>
+    <Close>0.0372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-30</Date>
+    <Open>0.0372</Open>
+    <High>0.03826</High>
+    <Low>0.03574</Low>
+    <Close>0.03619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2020-12-31</Date>
+    <Open>0.03619</Open>
+    <High>0.03637</High>
+    <Low>0.03419</Low>
+    <Close>0.03571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-01</Date>
+    <Open>0.03571</Open>
+    <High>0.03892</High>
+    <Low>0.03524</Low>
+    <Close>0.03703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-02</Date>
+    <Open>0.03703</Open>
+    <High>0.03951</High>
+    <Low>0.03642</Low>
+    <Close>0.03812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-03</Date>
+    <Open>0.03812</Open>
+    <High>0.04148</High>
+    <Low>0.03699</Low>
+    <Close>0.04095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-04</Date>
+    <Open>0.04095</Open>
+    <High>0.04289</High>
+    <Low>0.03626</Low>
+    <Close>0.04056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-05</Date>
+    <Open>0.04056</Open>
+    <High>0.04505</High>
+    <Low>0.03907</Low>
+    <Close>0.04177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-06</Date>
+    <Open>0.04177</Open>
+    <High>0.0477</High>
+    <Low>0.0409</Low>
+    <Close>0.0447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-07</Date>
+    <Open>0.0447</Open>
+    <High>0.04657</High>
+    <Low>0.04126</Low>
+    <Close>0.04354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-08</Date>
+    <Open>0.04354</Open>
+    <High>0.04712</High>
+    <Low>0.04081</Low>
+    <Close>0.04335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-09</Date>
+    <Open>0.04335</Open>
+    <High>0.04757</High>
+    <Low>0.04201</Low>
+    <Close>0.04606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-10</Date>
+    <Open>0.04606</Open>
+    <High>0.04661</High>
+    <Low>0.04082</Low>
+    <Close>0.04243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-11</Date>
+    <Open>0.04243</Open>
+    <High>0.04252</High>
+    <Low>0.03463</Low>
+    <Close>0.04064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-12</Date>
+    <Open>0.04064</Open>
+    <High>0.04097</High>
+    <Low>0.03658</Low>
+    <Close>0.03792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-13</Date>
+    <Open>0.03792</Open>
+    <High>0.04142</High>
+    <Low>0.03675</Low>
+    <Close>0.04068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-14</Date>
+    <Open>0.04068</Open>
+    <High>0.04214</High>
+    <Low>0.03944</Low>
+    <Close>0.04081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-15</Date>
+    <Open>0.04081</Open>
+    <High>0.04613</High>
+    <Low>0.03996</Low>
+    <Close>0.04399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-16</Date>
+    <Open>0.04399</Open>
+    <High>0.04682</High>
+    <Low>0.04262</Low>
+    <Close>0.04392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-17</Date>
+    <Open>0.04392</Open>
+    <High>0.05295</High>
+    <Low>0.04212</Low>
+    <Close>0.05111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-18</Date>
+    <Open>0.05111</Open>
+    <High>0.05454</High>
+    <Low>0.04858</Low>
+    <Close>0.05217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-19</Date>
+    <Open>0.05217</Open>
+    <High>0.05761</High>
+    <Low>0.04978</Low>
+    <Close>0.05374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-20</Date>
+    <Open>0.05374</Open>
+    <High>0.06058</High>
+    <Low>0.04823</Low>
+    <Close>0.05386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-21</Date>
+    <Open>0.05386</Open>
+    <High>0.1592</High>
+    <Low>0.05058</Low>
+    <Close>0.1084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-22</Date>
+    <Open>0.1084</Open>
+    <High>0.1193</High>
+    <Low>0.09354</Low>
+    <Close>0.1095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-23</Date>
+    <Open>0.1095</Open>
+    <High>0.1117</High>
+    <Low>0.09692</Low>
+    <Close>0.1012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-24</Date>
+    <Open>0.1012</Open>
+    <High>0.1028</High>
+    <Low>0.09213</Low>
+    <Close>0.09542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-25</Date>
+    <Open>0.09542</Open>
+    <High>0.104</High>
+    <Low>0.08943</Low>
+    <Close>0.0927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-26</Date>
+    <Open>0.0927</Open>
+    <High>0.09768</High>
+    <Low>0.08673</Low>
+    <Close>0.093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-27</Date>
+    <Open>0.093</Open>
+    <High>0.09565</High>
+    <Low>0.07579</Low>
+    <Close>0.08138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-28</Date>
+    <Open>0.08138</Open>
+    <High>0.09088</High>
+    <Low>0.0777</Low>
+    <Close>0.08874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-29</Date>
+    <Open>0.08874</Open>
+    <High>0.09857</High>
+    <Low>0.08255</Low>
+    <Close>0.08829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-30</Date>
+    <Open>0.08829</Open>
+    <High>0.09361</High>
+    <Low>0.08525</Low>
+    <Close>0.08815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-01-31</Date>
+    <Open>0.08815</Open>
+    <High>0.09109</High>
+    <Low>0.08124</Low>
+    <Close>0.08323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-01</Date>
+    <Open>0.08323</Open>
+    <High>0.08593</High>
+    <Low>0.07798</Low>
+    <Close>0.08305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-02</Date>
+    <Open>0.08305</Open>
+    <High>0.103</High>
+    <Low>0.08292</Low>
+    <Close>0.09655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-03</Date>
+    <Open>0.09655</Open>
+    <High>0.1018</High>
+    <Low>0.09298</Low>
+    <Close>0.09976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-04</Date>
+    <Open>0.09976</Open>
+    <High>0.1262</High>
+    <Low>0.09156</Low>
+    <Close>0.1006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-05</Date>
+    <Open>0.1006</Open>
+    <High>0.1493</High>
+    <Low>0.09921</Low>
+    <Close>0.1453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-06</Date>
+    <Open>0.1453</Open>
+    <High>0.148</High>
+    <Low>0.1199</Low>
+    <Close>0.1307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-07</Date>
+    <Open>0.1307</Open>
+    <High>0.1344</High>
+    <Low>0.1106</Low>
+    <Close>0.1268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-08</Date>
+    <Open>0.1268</Open>
+    <High>0.1479</High>
+    <Low>0.1229</Low>
+    <Close>0.1416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-09</Date>
+    <Open>0.1416</Open>
+    <High>0.1638</High>
+    <Low>0.1385</Low>
+    <Close>0.1532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-10</Date>
+    <Open>0.1532</Open>
+    <High>0.1596</High>
+    <Low>0.1346</Low>
+    <Close>0.1468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-11</Date>
+    <Open>0.1468</Open>
+    <High>0.1714</High>
+    <Low>0.1424</Low>
+    <Close>0.1601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-12</Date>
+    <Open>0.1601</Open>
+    <High>0.1699</High>
+    <Low>0.1518</Low>
+    <Close>0.1638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-13</Date>
+    <Open>0.1638</Open>
+    <High>0.2175</High>
+    <Low>0.1635</Low>
+    <Close>0.2059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-14</Date>
+    <Open>0.2059</Open>
+    <High>0.2929</High>
+    <Low>0.1945</Low>
+    <Close>0.2664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-15</Date>
+    <Open>0.2664</Open>
+    <High>0.2706</High>
+    <Low>0.1987</Low>
+    <Close>0.2405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-16</Date>
+    <Open>0.2405</Open>
+    <High>0.2491</High>
+    <Low>0.2169</Low>
+    <Close>0.2305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-17</Date>
+    <Open>0.2305</Open>
+    <High>0.2632</High>
+    <Low>0.2061</Low>
+    <Close>0.2421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-18</Date>
+    <Open>0.2421</Open>
+    <High>0.343</High>
+    <Low>0.2359</Low>
+    <Close>0.3265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-19</Date>
+    <Open>0.3265</Open>
+    <High>0.3281</High>
+    <Low>0.2732</Low>
+    <Close>0.306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-20</Date>
+    <Open>0.306</Open>
+    <High>0.3244</High>
+    <Low>0.2784</Low>
+    <Close>0.2951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-21</Date>
+    <Open>0.2951</Open>
+    <High>0.3466</High>
+    <Low>0.2892</Low>
+    <Close>0.3205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-22</Date>
+    <Open>0.3205</Open>
+    <High>0.3675</High>
+    <Low>0.2249</Low>
+    <Close>0.2945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-23</Date>
+    <Open>0.2945</Open>
+    <High>0.3294</High>
+    <Low>0.1736</Low>
+    <Close>0.2397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-24</Date>
+    <Open>0.2397</Open>
+    <High>0.2705</High>
+    <Low>0.2182</Low>
+    <Close>0.2478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-25</Date>
+    <Open>0.2478</Open>
+    <High>0.268</High>
+    <Low>0.2307</Low>
+    <Close>0.2342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-26</Date>
+    <Open>0.2342</Open>
+    <High>0.2478</High>
+    <Low>0.2199</Low>
+    <Close>0.2364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-27</Date>
+    <Open>0.2364</Open>
+    <High>0.2593</High>
+    <Low>0.2349</Low>
+    <Close>0.2453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-02-28</Date>
+    <Open>0.2453</Open>
+    <High>0.2646</High>
+    <Low>0.1999</Low>
+    <Close>0.2207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-01</Date>
+    <Open>0.2207</Open>
+    <High>0.2453</High>
+    <Low>0.2159</Low>
+    <Close>0.2399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-02</Date>
+    <Open>0.2399</Open>
+    <High>0.2649</High>
+    <Low>0.2289</Low>
+    <Close>0.2511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-03</Date>
+    <Open>0.2511</Open>
+    <High>0.3172</High>
+    <Low>0.2464</Low>
+    <Close>0.3082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-04</Date>
+    <Open>0.3082</Open>
+    <High>0.4315</High>
+    <Low>0.2932</Low>
+    <Close>0.3581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-05</Date>
+    <Open>0.3581</Open>
+    <High>0.4271</High>
+    <Low>0.3341</Low>
+    <Close>0.3503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-06</Date>
+    <Open>0.3503</Open>
+    <High>0.3684</High>
+    <Low>0.3168</Low>
+    <Close>0.3433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-07</Date>
+    <Open>0.3433</Open>
+    <High>0.3894</High>
+    <Low>0.3383</Low>
+    <Close>0.3793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-08</Date>
+    <Open>0.3793</Open>
+    <High>0.4825</High>
+    <Low>0.3774</Low>
+    <Close>0.4585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-09</Date>
+    <Open>0.4585</Open>
+    <High>0.5836</High>
+    <Low>0.4579</Low>
+    <Close>0.526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-10</Date>
+    <Open>0.526</Open>
+    <High>0.5267</High>
+    <Low>0.4528</Low>
+    <Close>0.4819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-11</Date>
+    <Open>0.4819</Open>
+    <High>0.5648</High>
+    <Low>0.4724</Low>
+    <Close>0.5287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-12</Date>
+    <Open>0.5287</Open>
+    <High>0.6271</High>
+    <Low>0.5168</Low>
+    <Close>0.6122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-13</Date>
+    <Open>0.6122</Open>
+    <High>0.7968</High>
+    <Low>0.55</Low>
+    <Close>0.6855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-14</Date>
+    <Open>0.6855</Open>
+    <High>0.7472</High>
+    <Low>0.6466</Low>
+    <Close>0.6859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-15</Date>
+    <Open>0.6859</Open>
+    <High>0.7179</High>
+    <Low>0.6101</Low>
+    <Close>0.6667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-16</Date>
+    <Open>0.6667</Open>
+    <High>0.6795</High>
+    <Low>0.5672</Low>
+    <Close>0.5903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-17</Date>
+    <Open>0.5903</Open>
+    <High>0.6171</High>
+    <Low>0.5038</Low>
+    <Close>0.5963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-18</Date>
+    <Open>0.5963</Open>
+    <High>0.673</High>
+    <Low>0.5661</Low>
+    <Close>0.6151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-19</Date>
+    <Open>0.6151</Open>
+    <High>0.6237</High>
+    <Low>0.5872</Low>
+    <Close>0.6043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-20</Date>
+    <Open>0.6043</Open>
+    <High>0.6046</High>
+    <Low>0.5358</Low>
+    <Close>0.5372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-21</Date>
+    <Open>0.5372</Open>
+    <High>0.5956</High>
+    <Low>0.5267</Low>
+    <Close>0.5621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-22</Date>
+    <Open>0.5621</Open>
+    <High>0.6154</High>
+    <Low>0.5215</Low>
+    <Close>0.5544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-23</Date>
+    <Open>0.5544</Open>
+    <High>0.5905</High>
+    <Low>0.5102</Low>
+    <Close>0.5682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-24</Date>
+    <Open>0.5682</Open>
+    <High>0.6596</High>
+    <Low>0.5485</Low>
+    <Close>0.5736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-25</Date>
+    <Open>0.5736</Open>
+    <High>0.6025</High>
+    <Low>0.5377</Low>
+    <Close>0.5841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-26</Date>
+    <Open>0.5841</Open>
+    <High>0.6246</High>
+    <Low>0.5692</Low>
+    <Close>0.6185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-27</Date>
+    <Open>0.6185</Open>
+    <High>0.7327</High>
+    <Low>0.6048</Low>
+    <Close>0.7131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-28</Date>
+    <Open>0.7131</Open>
+    <High>0.9044</High>
+    <Low>0.6779</Low>
+    <Close>0.8087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-29</Date>
+    <Open>0.8087</Open>
+    <High>0.8718</High>
+    <Low>0.7595</Low>
+    <Close>0.7891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-30</Date>
+    <Open>0.7891</Open>
+    <High>0.8561</High>
+    <Low>0.7748</Low>
+    <Close>0.8271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-03-31</Date>
+    <Open>0.8271</Open>
+    <High>0.8451</High>
+    <Low>0.7289</Low>
+    <Close>0.8008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-01</Date>
+    <Open>0.8008</Open>
+    <High>0.8044</High>
+    <Low>0.737</Low>
+    <Close>0.7508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-02</Date>
+    <Open>0.7508</Open>
+    <High>0.781</High>
+    <Low>0.7202</Low>
+    <Close>0.7641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-03</Date>
+    <Open>0.7641</Open>
+    <High>0.7654</High>
+    <Low>0.6768</Low>
+    <Close>0.6793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-04</Date>
+    <Open>0.6793</Open>
+    <High>0.7435</High>
+    <Low>0.6696</Low>
+    <Close>0.7186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-05</Date>
+    <Open>0.7186</Open>
+    <High>0.751</High>
+    <Low>0.6689</Low>
+    <Close>0.6722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-06</Date>
+    <Open>0.6722</Open>
+    <High>0.6815</High>
+    <Low>0.6023</Low>
+    <Close>0.6362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-07</Date>
+    <Open>0.6362</Open>
+    <High>0.652</High>
+    <Low>0.5323</Low>
+    <Close>0.6318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-08</Date>
+    <Open>0.6318</Open>
+    <High>0.705</High>
+    <Low>0.6012</Low>
+    <Close>0.6847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-09</Date>
+    <Open>0.6847</Open>
+    <High>0.7493</High>
+    <Low>0.6608</Low>
+    <Close>0.6984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-10</Date>
+    <Open>0.6984</Open>
+    <High>0.7003</High>
+    <Low>0.6383</Low>
+    <Close>0.664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-11</Date>
+    <Open>0.664</Open>
+    <High>0.6764</High>
+    <Low>0.616</Low>
+    <Close>0.641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-12</Date>
+    <Open>0.641</Open>
+    <High>0.7065</High>
+    <Low>0.6316</Low>
+    <Close>0.6869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-13</Date>
+    <Open>0.6869</Open>
+    <High>0.7075</High>
+    <Low>0.6456</Low>
+    <Close>0.669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-14</Date>
+    <Open>0.669</Open>
+    <High>0.6713</High>
+    <Low>0.6136</Low>
+    <Close>0.6453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-15</Date>
+    <Open>0.6453</Open>
+    <High>0.6993</High>
+    <Low>0.644</Low>
+    <Close>0.6825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-16</Date>
+    <Open>0.6825</Open>
+    <High>0.7103</High>
+    <Low>0.6226</Low>
+    <Close>0.7039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-17</Date>
+    <Open>0.7039</Open>
+    <High>0.7098</High>
+    <Low>0.6444</Low>
+    <Close>0.661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-18</Date>
+    <Open>0.661</Open>
+    <High>0.669</High>
+    <Low>0.472</Low>
+    <Close>0.5626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-19</Date>
+    <Open>0.5626</Open>
+    <High>0.579</High>
+    <Low>0.506</Low>
+    <Close>0.5151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-20</Date>
+    <Open>0.5151</Open>
+    <High>0.5328</High>
+    <Low>0.4497</Low>
+    <Close>0.5238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-21</Date>
+    <Open>0.5238</Open>
+    <High>0.5738</High>
+    <Low>0.5041</Low>
+    <Close>0.5105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-22</Date>
+    <Open>0.5105</Open>
+    <High>0.5282</High>
+    <Low>0.4335</Low>
+    <Close>0.4383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-23</Date>
+    <Open>0.4383</Open>
+    <High>0.4493</High>
+    <Low>0.3407</Low>
+    <Close>0.4261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-24</Date>
+    <Open>0.4261</Open>
+    <High>0.4365</High>
+    <Low>0.3924</Low>
+    <Close>0.4111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-25</Date>
+    <Open>0.4111</Open>
+    <High>0.4542</High>
+    <Low>0.3932</Low>
+    <Close>0.4179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-26</Date>
+    <Open>0.4179</Open>
+    <High>0.5008</High>
+    <Low>0.4139</Low>
+    <Close>0.5006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-27</Date>
+    <Open>0.5006</Open>
+    <High>0.5443</High>
+    <Low>0.4872</Low>
+    <Close>0.541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-28</Date>
+    <Open>0.541</Open>
+    <High>0.6146</High>
+    <Low>0.5164</Low>
+    <Close>0.5894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-29</Date>
+    <Open>0.5894</Open>
+    <High>0.6109</High>
+    <Low>0.5406</Low>
+    <Close>0.5651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-04-30</Date>
+    <Open>0.5651</Open>
+    <High>0.6314</High>
+    <Low>0.5507</Low>
+    <Close>0.6208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-01</Date>
+    <Open>0.6208</Open>
+    <High>0.629</High>
+    <Low>0.5921</Low>
+    <Close>0.603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-02</Date>
+    <Open>0.603</Open>
+    <High>0.6055</High>
+    <Low>0.5586</Low>
+    <Close>0.5822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-03</Date>
+    <Open>0.5822</Open>
+    <High>0.6776</High>
+    <Low>0.5769</Low>
+    <Close>0.6571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-04</Date>
+    <Open>0.6571</Open>
+    <High>0.7268</High>
+    <Low>0.5734</Low>
+    <Close>0.5743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-05</Date>
+    <Open>0.5743</Open>
+    <High>0.62</High>
+    <Low>0.5668</Low>
+    <Close>0.6049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-06</Date>
+    <Open>0.6049</Open>
+    <High>0.6067</High>
+    <Low>0.538</Low>
+    <Close>0.5621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-07</Date>
+    <Open>0.5621</Open>
+    <High>0.5804</High>
+    <Low>0.5227</Low>
+    <Close>0.5475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-08</Date>
+    <Open>0.5475</Open>
+    <High>0.5721</High>
+    <Low>0.535</Low>
+    <Close>0.5432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-09</Date>
+    <Open>0.5432</Open>
+    <High>0.5489</High>
+    <Low>0.5028</Low>
+    <Close>0.5429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-10</Date>
+    <Open>0.5429</Open>
+    <High>0.5493</High>
+    <Low>0.4361</Low>
+    <Close>0.4627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-11</Date>
+    <Open>0.4627</Open>
+    <High>0.5117</High>
+    <Low>0.4503</Low>
+    <Close>0.5038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-12</Date>
+    <Open>0.5038</Open>
+    <High>0.5328</High>
+    <Low>0.4101</Low>
+    <Close>0.4116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-13</Date>
+    <Open>0.4116</Open>
+    <High>0.4497</High>
+    <Low>0.3888</Low>
+    <Close>0.4229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-14</Date>
+    <Open>0.4229</Open>
+    <High>0.4594</High>
+    <Low>0.4113</Low>
+    <Close>0.4407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-15</Date>
+    <Open>0.4407</Open>
+    <High>0.5124</High>
+    <Low>0.4309</Low>
+    <Close>0.4333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-16</Date>
+    <Open>0.4333</Open>
+    <High>0.4681</High>
+    <Low>0.391</Low>
+    <Close>0.4161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-17</Date>
+    <Open>0.4161</Open>
+    <High>0.4161</High>
+    <Low>0.3577</Low>
+    <Close>0.3755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-18</Date>
+    <Open>0.3755</Open>
+    <High>0.4198</High>
+    <Low>0.3709</Low>
+    <Close>0.3927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-19</Date>
+    <Open>0.3927</Open>
+    <High>0.4022</High>
+    <Low>0.1894</Low>
+    <Close>0.2474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-20</Date>
+    <Open>0.2474</Open>
+    <High>0.3161</High>
+    <Low>0.2154</Low>
+    <Close>0.3119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-21</Date>
+    <Open>0.3119</Open>
+    <High>0.3532</High>
+    <Low>0.2394</Low>
+    <Close>0.2926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-22</Date>
+    <Open>0.2926</Open>
+    <High>0.4753</High>
+    <Low>0.275</Low>
+    <Close>0.441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-23</Date>
+    <Open>0.441</Open>
+    <High>0.4699</High>
+    <Low>0.2365</Low>
+    <Close>0.2942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-24</Date>
+    <Open>0.2942</Open>
+    <High>0.3198</High>
+    <Low>0.2579</Low>
+    <Close>0.3117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-25</Date>
+    <Open>0.3117</Open>
+    <High>0.3204</High>
+    <Low>0.2626</Low>
+    <Close>0.293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-26</Date>
+    <Open>0.293</Open>
+    <High>0.3869</High>
+    <Low>0.2836</Low>
+    <Close>0.3719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-27</Date>
+    <Open>0.3719</Open>
+    <High>0.3761</High>
+    <Low>0.3269</Low>
+    <Close>0.3365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-28</Date>
+    <Open>0.3365</Open>
+    <High>0.3798</High>
+    <Low>0.3042</Low>
+    <Close>0.3378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-29</Date>
+    <Open>0.3378</Open>
+    <High>0.3382</High>
+    <Low>0.2839</Low>
+    <Close>0.3054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-30</Date>
+    <Open>0.3054</Open>
+    <High>0.3344</High>
+    <Low>0.2807</Low>
+    <Close>0.3155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-05-31</Date>
+    <Open>0.3155</Open>
+    <High>0.3347</High>
+    <Low>0.2942</Low>
+    <Close>0.3342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-01</Date>
+    <Open>0.3342</Open>
+    <High>0.3342</High>
+    <Low>0.3106</Low>
+    <Close>0.3234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-02</Date>
+    <Open>0.3234</Open>
+    <High>0.338</High>
+    <Low>0.3126</Low>
+    <Close>0.3318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-03</Date>
+    <Open>0.3318</Open>
+    <High>0.369</High>
+    <Low>0.3216</Low>
+    <Close>0.3633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-04</Date>
+    <Open>0.3633</Open>
+    <High>0.3697</High>
+    <Low>0.3059</Low>
+    <Close>0.3338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-05</Date>
+    <Open>0.3338</Open>
+    <High>0.3452</High>
+    <Low>0.3097</Low>
+    <Close>0.3178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-06</Date>
+    <Open>0.3178</Open>
+    <High>0.3312</High>
+    <Low>0.3159</Low>
+    <Close>0.3249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-07</Date>
+    <Open>0.3249</Open>
+    <High>0.3312</High>
+    <Low>0.2915</Low>
+    <Close>0.2948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-08</Date>
+    <Open>0.2948</Open>
+    <High>0.3004</High>
+    <Low>0.2512</Low>
+    <Close>0.2816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-09</Date>
+    <Open>0.2816</Open>
+    <High>0.2913</High>
+    <Low>0.2628</Low>
+    <Close>0.2913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-10</Date>
+    <Open>0.2913</Open>
+    <High>0.3046</High>
+    <Low>0.2767</Low>
+    <Close>0.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-11</Date>
+    <Open>0.3</Open>
+    <High>0.342</High>
+    <Low>0.2831</Low>
+    <Close>0.3069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-12</Date>
+    <Open>0.3069</Open>
+    <High>0.3074</High>
+    <Low>0.2562</Low>
+    <Close>0.2626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-13</Date>
+    <Open>0.2626</Open>
+    <High>0.2777</High>
+    <Low>0.2538</Low>
+    <Close>0.2768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-14</Date>
+    <Open>0.2768</Open>
+    <High>0.2845</High>
+    <Low>0.2687</Low>
+    <Close>0.2845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-15</Date>
+    <Open>0.2845</Open>
+    <High>0.289</High>
+    <Low>0.273</Low>
+    <Close>0.2864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-16</Date>
+    <Open>0.2864</Open>
+    <High>0.3002</High>
+    <Low>0.2668</Low>
+    <Close>0.2704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-17</Date>
+    <Open>0.2704</Open>
+    <High>0.2846</High>
+    <Low>0.2656</Low>
+    <Close>0.2716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-18</Date>
+    <Open>0.2716</Open>
+    <High>0.2734</High>
+    <Low>0.2426</Low>
+    <Close>0.2569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-19</Date>
+    <Open>0.2569</Open>
+    <High>0.2581</High>
+    <Low>0.2455</Low>
+    <Close>0.246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-20</Date>
+    <Open>0.246</Open>
+    <High>0.2489</High>
+    <Low>0.2209</Low>
+    <Close>0.2383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-21</Date>
+    <Open>0.2383</Open>
+    <High>0.2395</High>
+    <Low>0.1782</Low>
+    <Close>0.1797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-22</Date>
+    <Open>0.1797</Open>
+    <High>0.193</High>
+    <Low>0.1474</Low>
+    <Close>0.1742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-23</Date>
+    <Open>0.1742</Open>
+    <High>0.2085</High>
+    <Low>0.1668</Low>
+    <Close>0.1925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-24</Date>
+    <Open>0.1925</Open>
+    <High>0.211</High>
+    <Low>0.1799</Low>
+    <Close>0.2031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-25</Date>
+    <Open>0.2031</Open>
+    <High>0.2113</High>
+    <Low>0.1815</Low>
+    <Close>0.1835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-26</Date>
+    <Open>0.1835</Open>
+    <High>0.1892</High>
+    <Low>0.1709</Low>
+    <Close>0.1845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-27</Date>
+    <Open>0.1845</Open>
+    <High>0.1904</High>
+    <Low>0.1766</Low>
+    <Close>0.1902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-28</Date>
+    <Open>0.1902</Open>
+    <High>0.2048</High>
+    <Low>0.1881</Low>
+    <Close>0.204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-29</Date>
+    <Open>0.204</Open>
+    <High>0.2291</High>
+    <Low>0.2028</Low>
+    <Close>0.2264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-06-30</Date>
+    <Open>0.2264</Open>
+    <High>0.2459</High>
+    <Low>0.2122</Low>
+    <Close>0.2448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-01</Date>
+    <Open>0.2448</Open>
+    <High>0.2713</High>
+    <Low>0.2395</Low>
+    <Close>0.2522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-02</Date>
+    <Open>0.2522</Open>
+    <High>0.2542</High>
+    <Low>0.2216</Low>
+    <Close>0.2439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-03</Date>
+    <Open>0.2439</Open>
+    <High>0.2745</High>
+    <Low>0.235</Low>
+    <Close>0.2646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-04</Date>
+    <Open>0.2646</Open>
+    <High>0.3007</High>
+    <Low>0.2551</Low>
+    <Close>0.2763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-05</Date>
+    <Open>0.2763</Open>
+    <High>0.2881</High>
+    <Low>0.2573</Low>
+    <Close>0.2668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-06</Date>
+    <Open>0.2668</Open>
+    <High>0.3391</High>
+    <Low>0.2664</Low>
+    <Close>0.3096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-07</Date>
+    <Open>0.3096</Open>
+    <High>0.4434</High>
+    <Low>0.3084</Low>
+    <Close>0.3999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-08</Date>
+    <Open>0.3999</Open>
+    <High>0.5356</High>
+    <Low>0.3844</Low>
+    <Close>0.4263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-09</Date>
+    <Open>0.4263</Open>
+    <High>0.5133</High>
+    <Low>0.3703</Low>
+    <Close>0.4936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-10</Date>
+    <Open>0.4936</Open>
+    <High>0.5442</High>
+    <Low>0.4617</Low>
+    <Close>0.4914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-11</Date>
+    <Open>0.4914</Open>
+    <High>0.5041</High>
+    <Low>0.4541</Low>
+    <Close>0.4886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-12</Date>
+    <Open>0.4886</Open>
+    <High>0.4906</High>
+    <Low>0.4168</Low>
+    <Close>0.4176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-13</Date>
+    <Open>0.4176</Open>
+    <High>0.4675</High>
+    <Low>0.4082</Low>
+    <Close>0.4343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-14</Date>
+    <Open>0.4343</Open>
+    <High>0.6187</High>
+    <Low>0.383</Low>
+    <Close>0.5907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-15</Date>
+    <Open>0.5907</Open>
+    <High>0.6917</High>
+    <Low>0.5145</Low>
+    <Close>0.5422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-16</Date>
+    <Open>0.5422</Open>
+    <High>0.6058</High>
+    <Low>0.4782</Low>
+    <Close>0.4893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-17</Date>
+    <Open>0.4893</Open>
+    <High>0.4912</High>
+    <Low>0.4238</Low>
+    <Close>0.4482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-18</Date>
+    <Open>0.4482</Open>
+    <High>0.5233</High>
+    <Low>0.4468</Low>
+    <Close>0.4842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-19</Date>
+    <Open>0.4842</Open>
+    <High>0.4874</High>
+    <Low>0.4176</Low>
+    <Close>0.4398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-20</Date>
+    <Open>0.4398</Open>
+    <High>0.4411</High>
+    <Low>0.3637</Low>
+    <Close>0.3849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-21</Date>
+    <Open>0.3849</Open>
+    <High>0.4831</High>
+    <Low>0.3751</Low>
+    <Close>0.472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-22</Date>
+    <Open>0.472</Open>
+    <High>0.5161</High>
+    <Low>0.4658</Low>
+    <Close>0.4986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-23</Date>
+    <Open>0.4986</Open>
+    <High>0.688</High>
+    <Low>0.4972</Low>
+    <Close>0.6576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-24</Date>
+    <Open>0.6576</Open>
+    <High>0.8451</High>
+    <Low>0.6306</Low>
+    <Close>0.731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-25</Date>
+    <Open>0.731</Open>
+    <High>0.7845</High>
+    <Low>0.6716</Low>
+    <Close>0.756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-26</Date>
+    <Open>0.756</Open>
+    <High>0.7657</High>
+    <Low>0.5965</Low>
+    <Close>0.6558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-27</Date>
+    <Open>0.6558</Open>
+    <High>0.7555</High>
+    <Low>0.5758</Low>
+    <Close>0.6767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-28</Date>
+    <Open>0.6767</Open>
+    <High>0.7554</High>
+    <Low>0.6529</Low>
+    <Close>0.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-29</Date>
+    <Open>0.68</Open>
+    <High>0.698</High>
+    <Low>0.6413</Low>
+    <Close>0.6637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-30</Date>
+    <Open>0.6637</Open>
+    <High>0.6718</High>
+    <Low>0.6201</Low>
+    <Close>0.6572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-07-31</Date>
+    <Open>0.6572</Open>
+    <High>0.6738</High>
+    <Low>0.6272</Low>
+    <Close>0.6392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-01</Date>
+    <Open>0.6392</Open>
+    <High>0.6434</High>
+    <Low>0.5783</Low>
+    <Close>0.5886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-02</Date>
+    <Open>0.5886</Open>
+    <High>0.6509</High>
+    <Low>0.5878</Low>
+    <Close>0.6121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-03</Date>
+    <Open>0.6121</Open>
+    <High>0.6129</High>
+    <Low>0.5767</Low>
+    <Close>0.5906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-04</Date>
+    <Open>0.5906</Open>
+    <High>0.6641</High>
+    <Low>0.5813</Low>
+    <Close>0.6514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-05</Date>
+    <Open>0.6514</Open>
+    <High>0.659</High>
+    <Low>0.6023</Low>
+    <Close>0.637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-06</Date>
+    <Open>0.637</Open>
+    <High>0.6473</High>
+    <Low>0.6173</Low>
+    <Close>0.6359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-07</Date>
+    <Open>0.6359</Open>
+    <High>0.655</High>
+    <Low>0.6148</Low>
+    <Close>0.6401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-08</Date>
+    <Open>0.6401</Open>
+    <High>0.6706</High>
+    <Low>0.6026</Low>
+    <Close>0.6155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-09</Date>
+    <Open>0.6155</Open>
+    <High>0.6333</High>
+    <Low>0.6</Low>
+    <Close>0.6263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-10</Date>
+    <Open>0.6263</Open>
+    <High>0.7087</High>
+    <Low>0.6153</Low>
+    <Close>0.6796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-11</Date>
+    <Open>0.6796</Open>
+    <High>0.7385</High>
+    <Low>0.6588</Low>
+    <Close>0.675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-12</Date>
+    <Open>0.663</Open>
+    <High>0.667</High>
+    <Low>0.6215</Low>
+    <Close>0.6363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-13</Date>
+    <Open>0.6363</Open>
+    <High>0.6645</High>
+    <Low>0.6307</Low>
+    <Close>0.6631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-14</Date>
+    <Open>0.6631</Open>
+    <High>0.6643</High>
+    <Low>0.6237</Low>
+    <Close>0.637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-15</Date>
+    <Open>0.637</Open>
+    <High>0.6688</High>
+    <Low>0.6111</Low>
+    <Close>0.6462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-16</Date>
+    <Open>0.6462</Open>
+    <High>0.6941</High>
+    <Low>0.6214</Low>
+    <Close>0.633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-17</Date>
+    <Open>0.633</Open>
+    <High>0.6866</High>
+    <Low>0.586</Low>
+    <Close>0.6092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-18</Date>
+    <Open>0.6092</Open>
+    <High>0.6173</High>
+    <Low>0.559</Low>
+    <Close>0.582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-19</Date>
+    <Open>0.582</Open>
+    <High>0.5997</High>
+    <Low>0.557</Low>
+    <Close>0.599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-20</Date>
+    <Open>0.599</Open>
+    <High>0.6194</High>
+    <Low>0.5865</Low>
+    <Close>0.6135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-21</Date>
+    <Open>0.6135</Open>
+    <High>0.7183</High>
+    <Low>0.6102</Low>
+    <Close>0.6615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-22</Date>
+    <Open>0.6615</Open>
+    <High>0.7095</High>
+    <Low>0.6252</Low>
+    <Close>0.6578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-23</Date>
+    <Open>0.6578</Open>
+    <High>0.6939</High>
+    <Low>0.6497</Low>
+    <Close>0.6771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-24</Date>
+    <Open>0.6771</Open>
+    <High>0.6845</High>
+    <Low>0.599</Low>
+    <Close>0.6147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-25</Date>
+    <Open>0.6147</Open>
+    <High>0.7496</High>
+    <Low>0.5903</Low>
+    <Close>0.7384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-26</Date>
+    <Open>0.7384</Open>
+    <High>0.865</High>
+    <Low>0.6744</Low>
+    <Close>0.6768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-27</Date>
+    <Open>0.6768</Open>
+    <High>0.7198</High>
+    <Low>0.6435</Low>
+    <Close>0.7099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-28</Date>
+    <Open>0.7099</Open>
+    <High>0.8143</High>
+    <Low>0.6944</Low>
+    <Close>0.7607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-29</Date>
+    <Open>0.7607</Open>
+    <High>1.047</High>
+    <Low>0.7407</Low>
+    <Close>1.004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-30</Date>
+    <Open>1.004</Open>
+    <High>1.2</High>
+    <Low>0.9534</Low>
+    <Close>0.9755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-08-31</Date>
+    <Open>0.9755</Open>
+    <High>0.9964</High>
+    <Low>0.8952</Low>
+    <Close>0.9534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-01</Date>
+    <Open>0.9534</Open>
+    <High>1.13</High>
+    <Low>0.9315</Low>
+    <Close>1.008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-02</Date>
+    <Open>1.008</Open>
+    <High>1.061</High>
+    <Low>0.9724</Low>
+    <Close>1.005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-03</Date>
+    <Open>1.005</Open>
+    <High>1.018</High>
+    <Low>0.9543</Low>
+    <Close>1.002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-04</Date>
+    <Open>1.002</Open>
+    <High>1.098</High>
+    <Low>0.972</Low>
+    <Close>0.9943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-05</Date>
+    <Open>0.9943</Open>
+    <High>1.014</High>
+    <Low>0.9506</Low>
+    <Close>0.977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-06</Date>
+    <Open>0.977</Open>
+    <High>1.002</High>
+    <Low>0.91</Low>
+    <Close>0.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-07</Date>
+    <Open>0.96</Open>
+    <High>0.9701</High>
+    <Low>0.6165</Low>
+    <Close>0.7511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-08</Date>
+    <Open>0.7511</Open>
+    <High>0.842</High>
+    <Low>0.6871</Low>
+    <Close>0.7895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-09</Date>
+    <Open>0.7895</Open>
+    <High>0.8819</High>
+    <Low>0.7686</Low>
+    <Close>0.8722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-10</Date>
+    <Open>0.8722</Open>
+    <High>0.8791</High>
+    <Low>0.7542</Low>
+    <Close>0.7825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-11</Date>
+    <Open>0.7825</Open>
+    <High>0.819</High>
+    <Low>0.7636</Low>
+    <Close>0.8019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-12</Date>
+    <Open>0.8019</Open>
+    <High>0.8487</High>
+    <Low>0.7776</Low>
+    <Close>0.8127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-13</Date>
+    <Open>0.8127</Open>
+    <High>0.8152</High>
+    <Low>0.7102</Low>
+    <Close>0.7456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-14</Date>
+    <Open>0.7456</Open>
+    <High>0.7945</High>
+    <Low>0.7393</Low>
+    <Close>0.791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-15</Date>
+    <Open>0.791</Open>
+    <High>0.8179</High>
+    <Low>0.7654</Low>
+    <Close>0.8072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-16</Date>
+    <Open>0.8072</Open>
+    <High>0.8388</High>
+    <Low>0.7773</Low>
+    <Close>0.8202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-17</Date>
+    <Open>0.8202</Open>
+    <High>0.8257</High>
+    <Low>0.7588</Low>
+    <Close>0.7709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-18</Date>
+    <Open>0.7709</Open>
+    <High>0.7846</High>
+    <Low>0.7592</Low>
+    <Close>0.7782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-19</Date>
+    <Open>0.7782</Open>
+    <High>0.7784</High>
+    <Low>0.7352</Low>
+    <Close>0.7425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-20</Date>
+    <Open>0.7425</Open>
+    <High>0.7438</High>
+    <Low>0.6155</Low>
+    <Close>0.6349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-21</Date>
+    <Open>0.6349</Open>
+    <High>0.6944</High>
+    <Low>0.5817</Low>
+    <Close>0.5979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-22</Date>
+    <Open>0.5979</Open>
+    <High>0.7021</High>
+    <Low>0.5824</Low>
+    <Close>0.6941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-23</Date>
+    <Open>0.6941</Open>
+    <High>0.7461</High>
+    <Low>0.6869</Low>
+    <Close>0.7343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-24</Date>
+    <Open>0.7343</Open>
+    <High>0.7502</High>
+    <Low>0.6238</Low>
+    <Close>0.6796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-25</Date>
+    <Open>0.6796</Open>
+    <High>0.6975</High>
+    <Low>0.6495</Low>
+    <Close>0.6677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-26</Date>
+    <Open>0.6677</Open>
+    <High>0.6872</High>
+    <Low>0.6217</Low>
+    <Close>0.6563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-27</Date>
+    <Open>0.6563</Open>
+    <High>0.6786</High>
+    <Low>0.6308</Low>
+    <Close>0.6308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-28</Date>
+    <Open>0.6308</Open>
+    <High>0.6367</High>
+    <Low>0.5918</Low>
+    <Close>0.5939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-29</Date>
+    <Open>0.5939</Open>
+    <High>0.6303</High>
+    <Low>0.5854</Low>
+    <Close>0.6026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-09-30</Date>
+    <Open>0.6026</Open>
+    <High>0.673</High>
+    <Low>0.6009</Low>
+    <Close>0.6706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-01</Date>
+    <Open>0.6706</Open>
+    <High>0.8227</High>
+    <Low>0.6582</Low>
+    <Close>0.8089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-02</Date>
+    <Open>0.8089</Open>
+    <High>0.8388</High>
+    <Low>0.77</Low>
+    <Close>0.7865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-03</Date>
+    <Open>0.7865</Open>
+    <High>0.8733</High>
+    <Low>0.7607</Low>
+    <Close>0.8681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-04</Date>
+    <Open>0.8681</Open>
+    <High>0.8728</High>
+    <Low>0.7914</Low>
+    <Close>0.8229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-05</Date>
+    <Open>0.8229</Open>
+    <High>0.8263</High>
+    <Low>0.7695</Low>
+    <Close>0.805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-06</Date>
+    <Open>0.805</Open>
+    <High>0.8422</High>
+    <Low>0.7442</Low>
+    <Close>0.8175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-07</Date>
+    <Open>0.8175</Open>
+    <High>0.8192</High>
+    <Low>0.772</Low>
+    <Close>0.8003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-08</Date>
+    <Open>0.8003</Open>
+    <High>0.8183</High>
+    <Low>0.7708</Low>
+    <Close>0.7818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-09</Date>
+    <Open>0.7818</Open>
+    <High>0.8088</High>
+    <Low>0.7719</Low>
+    <Close>0.8001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-10</Date>
+    <Open>0.8001</Open>
+    <High>0.8006</High>
+    <Low>0.7437</Low>
+    <Close>0.7482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-11</Date>
+    <Open>0.7482</Open>
+    <High>0.7722</High>
+    <Low>0.7224</Low>
+    <Close>0.7416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-12</Date>
+    <Open>0.7416</Open>
+    <High>0.7416</High>
+    <Low>0.6839</Low>
+    <Close>0.7218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-13</Date>
+    <Open>0.7218</Open>
+    <High>0.7455</High>
+    <Low>0.7063</Low>
+    <Close>0.7441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-14</Date>
+    <Open>0.7441</Open>
+    <High>0.7959</High>
+    <Low>0.7332</Low>
+    <Close>0.7824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-15</Date>
+    <Open>0.7824</Open>
+    <High>0.7914</High>
+    <Low>0.7228</Low>
+    <Close>0.7407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-16</Date>
+    <Open>0.7407</Open>
+    <High>0.7541</High>
+    <Low>0.7321</Low>
+    <Close>0.7494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-17</Date>
+    <Open>0.7494</Open>
+    <High>0.7619</High>
+    <Low>0.7069</Low>
+    <Close>0.7231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-18</Date>
+    <Open>0.7231</Open>
+    <High>0.7665</High>
+    <Low>0.7174</Low>
+    <Close>0.7339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-19</Date>
+    <Open>0.7339</Open>
+    <High>0.7411</High>
+    <Low>0.7225</Low>
+    <Close>0.7325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-20</Date>
+    <Open>0.7325</Open>
+    <High>0.7879</High>
+    <Low>0.726</Low>
+    <Close>0.7769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-21</Date>
+    <Open>0.7769</Open>
+    <High>0.8035</High>
+    <Low>0.7506</Low>
+    <Close>0.7553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-22</Date>
+    <Open>0.7553</Open>
+    <High>0.7792</High>
+    <Low>0.7413</Low>
+    <Close>0.7564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-23</Date>
+    <Open>0.7564</Open>
+    <High>0.7647</High>
+    <Low>0.7415</Low>
+    <Close>0.7643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-24</Date>
+    <Open>0.7643</Open>
+    <High>0.794</High>
+    <Low>0.7566</Low>
+    <Close>0.7931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-25</Date>
+    <Open>0.7931</Open>
+    <High>0.8193</High>
+    <Low>0.7693</Low>
+    <Close>0.8061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-26</Date>
+    <Open>0.8061</Open>
+    <High>0.8716</High>
+    <Low>0.7997</Low>
+    <Close>0.8301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-27</Date>
+    <Open>0.8301</Open>
+    <High>0.8882</High>
+    <Low>0.7257</Low>
+    <Close>0.765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-28</Date>
+    <Open>0.765</Open>
+    <High>0.9475</High>
+    <Low>0.7491</Low>
+    <Close>0.9403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-29</Date>
+    <Open>0.9403</Open>
+    <High>1.189</High>
+    <Low>0.9158</Low>
+    <Close>1.164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-30</Date>
+    <Open>1.164</Open>
+    <High>2.339</High>
+    <Low>1.06</Low>
+    <Close>1.805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-10-31</Date>
+    <Open>1.805</Open>
+    <High>2.441</High>
+    <Low>1.444</Low>
+    <Close>1.574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-01</Date>
+    <Open>1.574</Open>
+    <High>2.361</High>
+    <Low>1.533</Low>
+    <Close>2.129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-02</Date>
+    <Open>2.129</Open>
+    <High>3.34</High>
+    <Low>2.082</Low>
+    <Close>3.064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-03</Date>
+    <Open>3.064</Open>
+    <High>3.446</High>
+    <Low>2.701</Low>
+    <Close>3.204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-04</Date>
+    <Open>3.204</Open>
+    <High>3.292</High>
+    <Low>2.603</Low>
+    <Close>2.701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-05</Date>
+    <Open>2.701</Open>
+    <High>2.798</High>
+    <Low>2.447</Low>
+    <Close>2.552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-06</Date>
+    <Open>2.552</Open>
+    <High>2.86</High>
+    <Low>2.527</Low>
+    <Close>2.704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-07</Date>
+    <Open>2.704</Open>
+    <High>2.74</High>
+    <Low>2.604</Low>
+    <Close>2.689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-08</Date>
+    <Open>2.689</Open>
+    <High>2.758</High>
+    <Low>2.465</Low>
+    <Close>2.572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-09</Date>
+    <Open>2.572</Open>
+    <High>2.573</High>
+    <Low>2.36</Low>
+    <Close>2.382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-10</Date>
+    <Open>2.382</Open>
+    <High>2.713</High>
+    <Low>2.039</Low>
+    <Close>2.293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-11</Date>
+    <Open>2.293</Open>
+    <High>2.563</High>
+    <Low>2.249</Low>
+    <Close>2.425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-12</Date>
+    <Open>2.425</Open>
+    <High>2.833</High>
+    <Low>2.381</Low>
+    <Close>2.628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-13</Date>
+    <Open>2.628</Open>
+    <High>3.199</High>
+    <Low>2.58</Low>
+    <Close>2.799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-14</Date>
+    <Open>2.799</Open>
+    <High>2.974</High>
+    <Low>2.741</Low>
+    <Close>2.837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-15</Date>
+    <Open>2.837</Open>
+    <High>2.998</High>
+    <Low>2.71</Low>
+    <Close>2.794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-16</Date>
+    <Open>2.794</Open>
+    <High>3.398</High>
+    <Low>2.323</Low>
+    <Close>3.243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-17</Date>
+    <Open>3.243</Open>
+    <High>3.824</High>
+    <Low>3.115</Low>
+    <Close>3.771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-18</Date>
+    <Open>3.771</Open>
+    <High>4.695</High>
+    <Low>3.589</Low>
+    <Close>4.317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-19</Date>
+    <Open>4.317</Open>
+    <High>4.511</High>
+    <Low>3.962</Low>
+    <Close>4.419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-20</Date>
+    <Open>4.419</Open>
+    <High>4.453</High>
+    <Low>4.019</Low>
+    <Close>4.216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-21</Date>
+    <Open>4.216</Open>
+    <High>4.463</High>
+    <Low>3.852</Low>
+    <Close>4.013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-22</Date>
+    <Open>4.013</Open>
+    <High>4.983</High>
+    <Low>3.738</Low>
+    <Close>4.966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-23</Date>
+    <Open>4.966</Open>
+    <High>5.686</High>
+    <Low>4.861</Low>
+    <Close>5.353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-24</Date>
+    <Open>5.362</Open>
+    <High>7.99545</High>
+    <Low>5.254</Low>
+    <Close>7.7099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-25</Date>
+    <Open>7.70805</Open>
+    <High>8.47205</High>
+    <Low>6.6912</Low>
+    <Close>7.1465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-26</Date>
+    <Open>7.14655</Open>
+    <High>8.29</High>
+    <Low>6.35505</Low>
+    <Close>7.0011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-27</Date>
+    <Open>6.9896</Open>
+    <High>7.1112</High>
+    <Low>6.19965</Low>
+    <Close>6.52765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-28</Date>
+    <Open>6.52875</Open>
+    <High>7.48075</High>
+    <Low>5.765</Low>
+    <Close>7.29295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-29</Date>
+    <Open>7.31225</Open>
+    <High>7.94235</High>
+    <Low>6.93635</Low>
+    <Close>7.12175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-11-30</Date>
+    <Open>7.1195</Open>
+    <High>7.1857</High>
+    <Low>6.6497</Low>
+    <Close>6.7959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-01</Date>
+    <Open>6.78505</Open>
+    <High>7.0325</High>
+    <Low>6.32795</Low>
+    <Close>6.51255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-02</Date>
+    <Open>6.5196</Open>
+    <High>6.85175</High>
+    <Low>6.01465</Low>
+    <Close>6.5309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-03</Date>
+    <Open>6.5272</Open>
+    <High>6.95985</High>
+    <Low>5.72455</Low>
+    <Close>5.95475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-04</Date>
+    <Open>5.95475</Open>
+    <High>6.1973</High>
+    <Low>4.2398</Low>
+    <Close>6.1474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-05</Date>
+    <Open>6.1474</Open>
+    <High>6.1755</High>
+    <Low>5.20975</Low>
+    <Close>5.3724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-06</Date>
+    <Open>5.374</Open>
+    <High>5.69795</High>
+    <Low>4.7707</Low>
+    <Close>5.5802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-07</Date>
+    <Open>5.5802</Open>
+    <High>5.73685</High>
+    <Low>5.2365</Low>
+    <Close>5.25505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-08</Date>
+    <Open>5.2534</Open>
+    <High>5.49475</High>
+    <Low>5.0253</Low>
+    <Close>5.2122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-09</Date>
+    <Open>5.2154</Open>
+    <High>5.67865</High>
+    <Low>5.1041</Low>
+    <Close>5.2868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-10</Date>
+    <Open>5.28625</Open>
+    <High>5.37</High>
+    <Low>4.934</Low>
+    <Close>4.9414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-11</Date>
+    <Open>4.9486</Open>
+    <High>5.13495</High>
+    <Low>4.7302</Low>
+    <Close>4.9981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-12</Date>
+    <Open>4.9922</Open>
+    <High>5.4792</High>
+    <Low>4.9883</Low>
+    <Close>5.4444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-13</Date>
+    <Open>5.44945</Open>
+    <High>5.61585</High>
+    <Low>4.687</Low>
+    <Close>4.88495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-14</Date>
+    <Open>4.881</Open>
+    <High>4.90375</High>
+    <Low>4.55365</Low>
+    <Close>4.74585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-15</Date>
+    <Open>4.7426</Open>
+    <High>5.2025</High>
+    <Low>4.42601</Low>
+    <Close>5.05093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-16</Date>
+    <Open>5.05063</Open>
+    <High>5.35545</High>
+    <Low>4.94168</Low>
+    <Close>5.0061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-17</Date>
+    <Open>5.0062</Open>
+    <High>5.08344</High>
+    <Low>4.68477</Low>
+    <Close>4.94228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-18</Date>
+    <Open>4.94808</Open>
+    <High>5.28141</High>
+    <Low>4.82853</Low>
+    <Close>5.09734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-19</Date>
+    <Open>5.09464</Open>
+    <High>5.27188</High>
+    <Low>4.98189</Low>
+    <Close>5.07643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-20</Date>
+    <Open>5.07643</Open>
+    <High>5.08703</High>
+    <Low>4.72564</Low>
+    <Close>4.91828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-21</Date>
+    <Open>4.91707</Open>
+    <High>5.20318</High>
+    <Low>4.88125</Low>
+    <Close>5.16366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-22</Date>
+    <Open>5.16827</Open>
+    <High>5.26711</High>
+    <Low>5.07072</Low>
+    <Close>5.1948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-23</Date>
+    <Open>5.19199</Open>
+    <High>6.35534</High>
+    <Low>5.03651</Low>
+    <Close>6.22481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-24</Date>
+    <Open>6.22209</Open>
+    <High>6.45553</High>
+    <Low>5.86553</Low>
+    <Close>5.90044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-25</Date>
+    <Open>5.90074</Open>
+    <High>6.77584</High>
+    <Low>5.76388</Low>
+    <Close>6.66056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-26</Date>
+    <Open>6.66076</Open>
+    <High>6.96639</High>
+    <Low>6.54447</Low>
+    <Close>6.75778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-27</Date>
+    <Open>6.75658</Open>
+    <High>6.78049</High>
+    <Low>6.3192</Low>
+    <Close>6.46744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-28</Date>
+    <Open>6.46864</Open>
+    <High>6.48314</High>
+    <Low>5.73587</Low>
+    <Close>5.94089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-29</Date>
+    <Open>5.93699</Open>
+    <High>6.14613</High>
+    <Low>5.7162</Low>
+    <Close>5.87507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-30</Date>
+    <Open>5.87467</Open>
+    <High>6.0264</High>
+    <Low>5.57111</Low>
+    <Close>5.85517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2021-12-31</Date>
+    <Open>5.85607</Open>
+    <High>6.17912</High>
+    <Low>5.73815</Low>
+    <Close>5.85109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-01</Date>
+    <Open>5.85099</Open>
+    <High>6.0273</High>
+    <Low>5.82758</Low>
+    <Close>5.92568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-02</Date>
+    <Open>5.92488</Open>
+    <High>5.9946</High>
+    <Low>5.82778</Low>
+    <Close>5.89098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-03</Date>
+    <Open>5.89128</Open>
+    <High>5.9883</High>
+    <Low>5.57946</Low>
+    <Close>5.68887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-04</Date>
+    <Open>5.68897</Open>
+    <High>5.7169</High>
+    <Low>5.4172</Low>
+    <Close>5.51065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-05</Date>
+    <Open>5.5064</Open>
+    <High>5.6548</High>
+    <Low>4.70953</Low>
+    <Close>4.9668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-06</Date>
+    <Open>4.9726</Open>
+    <High>5.40168</High>
+    <Low>4.71023</Low>
+    <Close>5.17368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-07</Date>
+    <Open>5.17538</Open>
+    <High>5.27867</High>
+    <Low>4.74373</Low>
+    <Close>4.83802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-08</Date>
+    <Open>4.83822</Open>
+    <High>5.0397</High>
+    <Low>4.46775</Low>
+    <Close>4.6456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-09</Date>
+    <Open>4.6467</Open>
+    <High>4.907</High>
+    <Low>4.56694</Low>
+    <Close>4.7672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-10</Date>
+    <Open>4.7671</Open>
+    <High>4.7765</High>
+    <Low>4.21628</Low>
+    <Close>4.4141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-11</Date>
+    <Open>4.4143</Open>
+    <High>4.6775</High>
+    <Low>4.3585</Low>
+    <Close>4.65107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-12</Date>
+    <Open>4.6517</Open>
+    <High>5.21208</High>
+    <Low>4.63976</Low>
+    <Close>5.11124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-13</Date>
+    <Open>5.10944</Open>
+    <High>5.21531</High>
+    <Low>4.81923</Low>
+    <Close>4.82703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-14</Date>
+    <Open>4.82683</Open>
+    <High>4.97459</High>
+    <Low>4.67494</Low>
+    <Close>4.91918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-15</Date>
+    <Open>4.92177</Open>
+    <High>4.94188</High>
+    <Low>4.78019</Low>
+    <Close>4.86613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-16</Date>
+    <Open>4.86613</Open>
+    <High>5.06693</High>
+    <Low>4.74607</Low>
+    <Close>4.86184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-17</Date>
+    <Open>4.86254</Open>
+    <High>4.95868</High>
+    <Low>4.51711</Low>
+    <Close>4.58563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-18</Date>
+    <Open>4.58813</Open>
+    <High>4.64306</High>
+    <Low>4.36581</Low>
+    <Close>4.50225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-19</Date>
+    <Open>4.50195</Open>
+    <High>4.5044</High>
+    <Low>4.11965</Low>
+    <Close>4.28358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-20</Date>
+    <Open>4.28208</Open>
+    <High>4.45644</High>
+    <Low>4.0007</Low>
+    <Close>4.05391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-21</Date>
+    <Open>4.05651</Open>
+    <High>4.05711</High>
+    <Low>3.21907</Low>
+    <Close>3.31419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-22</Date>
+    <Open>3.32496</Open>
+    <High>3.40422</High>
+    <Low>2.55821</Low>
+    <Close>2.94098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-23</Date>
+    <Open>2.94008</Open>
+    <High>3.24517</High>
+    <Low>2.91397</Low>
+    <Close>2.9804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-24</Date>
+    <Open>2.9817</Open>
+    <High>3.13833</High>
+    <Low>2.62573</Low>
+    <Close>2.98149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-25</Date>
+    <Open>2.98029</Open>
+    <High>3.10275</High>
+    <Low>2.87256</Low>
+    <Close>3.03652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-26</Date>
+    <Open>3.03852</Open>
+    <High>3.41945</High>
+    <Low>2.96678</Low>
+    <Close>3.05753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-27</Date>
+    <Open>3.05943</Open>
+    <High>3.55177</High>
+    <Low>2.96688</Low>
+    <Close>3.35778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-28</Date>
+    <Open>3.35164</Open>
+    <High>3.56847</High>
+    <Low>3.25648</Low>
+    <Close>3.44329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-29</Date>
+    <Open>3.44329</Open>
+    <High>3.91117</High>
+    <Low>3.44329</Low>
+    <Close>3.81454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-30</Date>
+    <Open>3.81504</Open>
+    <High>4.07762</High>
+    <Low>3.68387</Low>
+    <Close>3.90666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-01-31</Date>
+    <Open>3.90706</Open>
+    <High>4.16648</High>
+    <Low>3.63705</Low>
+    <Close>4.06713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-01</Date>
+    <Open>4.06743</Open>
+    <High>4.11367</High>
+    <Low>3.87143</Low>
+    <Close>3.96108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-02</Date>
+    <Open>3.95947</Open>
+    <High>4.02502</High>
+    <Low>3.67063</Low>
+    <Close>3.71744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-03</Date>
+    <Open>3.71764</Open>
+    <High>3.73321</High>
+    <Low>3.4939</Low>
+    <Close>3.63672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-04</Date>
+    <Open>3.63572</Open>
+    <High>3.97978</High>
+    <Low>3.61074</Low>
+    <Close>3.94716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-05</Date>
+    <Open>3.94766</Open>
+    <High>4.50305</High>
+    <Low>3.94176</Low>
+    <Close>4.36162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-06</Date>
+    <Open>4.36592</Open>
+    <High>4.69585</High>
+    <Low>4.34214</Low>
+    <Close>4.5054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-07</Date>
+    <Open>4.5003</Open>
+    <High>4.86074</High>
+    <Low>4.48974</Low>
+    <Close>4.73639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-08</Date>
+    <Open>4.73861</Open>
+    <High>4.75355</High>
+    <Low>4.28936</Low>
+    <Close>4.69492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-09</Date>
+    <Open>4.69592</Open>
+    <High>4.86976</High>
+    <Low>4.52597</Low>
+    <Close>4.78696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-10</Date>
+    <Open>4.78608</Open>
+    <High>4.78778</High>
+    <Low>4.40997</Low>
+    <Close>4.50035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-11</Date>
+    <Open>4.50165</Open>
+    <High>4.54778</High>
+    <Low>4.04522</Low>
+    <Close>4.08162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-12</Date>
+    <Open>4.08122</Open>
+    <High>4.39223</High>
+    <Low>4.04781</Low>
+    <Close>4.24212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-13</Date>
+    <Open>4.24242</Open>
+    <High>4.33287</High>
+    <Low>3.95607</Low>
+    <Close>4.11237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-14</Date>
+    <Open>4.11107</Open>
+    <High>4.12237</High>
+    <Low>3.87192</Low>
+    <Close>3.9994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-15</Date>
+    <Open>4.0001</Open>
+    <High>4.3286</High>
+    <Low>3.98639</Low>
+    <Close>4.29097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-16</Date>
+    <Open>4.29217</Open>
+    <High>4.45747</High>
+    <Low>4.05783</Low>
+    <Close>4.22341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-17</Date>
+    <Open>4.22693</Open>
+    <High>4.25162</High>
+    <Low>3.70425</Low>
+    <Close>3.79896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-18</Date>
+    <Open>3.79756</Open>
+    <High>3.84269</High>
+    <Low>3.56254</Low>
+    <Close>3.59466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-19</Date>
+    <Open>3.59466</Open>
+    <High>3.65239</High>
+    <Low>3.4054</Low>
+    <Close>3.47184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-20</Date>
+    <Open>3.47163</Open>
+    <High>3.5074</High>
+    <Low>3.15428</Low>
+    <Close>3.27894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-21</Date>
+    <Open>3.27394</Open>
+    <High>3.41867</High>
+    <Low>2.95118</Low>
+    <Close>2.98309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-22</Date>
+    <Open>2.98259</Open>
+    <High>3.18809</High>
+    <Low>2.81993</Low>
+    <Close>3.08004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-23</Date>
+    <Open>3.08154</Open>
+    <High>3.29895</High>
+    <Low>3.0016</Low>
+    <Close>3.06304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-24</Date>
+    <Open>3.06274</Open>
+    <High>3.11696</High>
+    <Low>2.62991</Low>
+    <Close>2.94648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-25</Date>
+    <Open>2.94798</Open>
+    <High>3.18129</High>
+    <Low>2.90326</Low>
+    <Close>3.18119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-26</Date>
+    <Open>3.17789</Open>
+    <High>3.27434</High>
+    <Low>3.05612</Low>
+    <Close>3.10305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-27</Date>
+    <Open>3.10154</Open>
+    <High>3.14276</High>
+    <Low>2.85423</Low>
+    <Close>2.92076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-02-28</Date>
+    <Open>2.92057</Open>
+    <High>3.22291</High>
+    <Low>2.83003</Low>
+    <Close>3.14276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-01</Date>
+    <Open>3.15106</Open>
+    <High>3.38775</High>
+    <Low>3.09654</Low>
+    <Close>3.35211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-02</Date>
+    <Open>3.35151</Open>
+    <High>3.43093</High>
+    <Low>3.22447</Low>
+    <Close>3.29996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-03</Date>
+    <Open>3.30016</Open>
+    <High>3.30049</High>
+    <Low>3.05521</Low>
+    <Close>3.14363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-04</Date>
+    <Open>3.14454</Open>
+    <High>3.16283</High>
+    <Low>2.85957</Low>
+    <Close>2.90928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-05</Date>
+    <Open>2.90787</Open>
+    <High>3.04571</High>
+    <Low>2.85907</Low>
+    <Close>3.02421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-06</Date>
+    <Open>3.02491</Open>
+    <High>3.06001</High>
+    <Low>2.87526</Low>
+    <Close>2.91737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-07</Date>
+    <Open>2.91657</Open>
+    <High>2.94088</High>
+    <Low>2.70504</Low>
+    <Close>2.79784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-08</Date>
+    <Open>2.79814</Open>
+    <High>2.89878</High>
+    <Low>2.75513</Low>
+    <Close>2.80106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-09</Date>
+    <Open>2.79996</Open>
+    <High>3.016</High>
+    <Low>2.79876</Low>
+    <Close>2.94549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-10</Date>
+    <Open>2.94729</Open>
+    <High>2.9876</High>
+    <Low>2.76333</Low>
+    <Close>2.84384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-11</Date>
+    <Open>2.84294</Open>
+    <High>2.86505</High>
+    <Low>2.74545</Low>
+    <Close>2.79536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-12</Date>
+    <Open>2.79536</Open>
+    <High>2.82907</High>
+    <Low>2.7715</Low>
+    <Close>2.78928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-13</Date>
+    <Open>2.78928</Open>
+    <High>2.94029</High>
+    <Low>2.69454</Low>
+    <Close>2.71051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-14</Date>
+    <Open>2.70764</Open>
+    <High>2.78036</High>
+    <Low>2.66877</Low>
+    <Close>2.74425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-15</Date>
+    <Open>2.74485</Open>
+    <High>2.77063</High>
+    <Low>2.67053</Low>
+    <Close>2.74222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-16</Date>
+    <Open>2.74292</Open>
+    <High>3.18976</High>
+    <Low>2.69054</Low>
+    <Close>3.18486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-17</Date>
+    <Open>3.18135</Open>
+    <High>3.36257</High>
+    <Low>3.13893</Low>
+    <Close>3.25983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-18</Date>
+    <Open>3.26213</Open>
+    <High>3.27774</High>
+    <Low>3.01921</Low>
+    <Close>3.14376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-19</Date>
+    <Open>3.14467</Open>
+    <High>3.29995</High>
+    <Low>3.12657</Low>
+    <Close>3.21779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-20</Date>
+    <Open>3.21791</Open>
+    <High>3.2515</High>
+    <Low>3.05072</Low>
+    <Close>3.10565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-21</Date>
+    <Open>3.10585</Open>
+    <High>3.13307</High>
+    <Low>2.9991</Low>
+    <Close>3.09345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-22</Date>
+    <Open>3.09434</Open>
+    <High>3.2048</High>
+    <Low>3.05353</Low>
+    <Close>3.13767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-23</Date>
+    <Open>3.13555</Open>
+    <High>3.34154</High>
+    <Low>3.06763</Low>
+    <Close>3.259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-24</Date>
+    <Open>3.25923</Open>
+    <High>3.53141</High>
+    <Low>3.2469</Low>
+    <Close>3.43827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-25</Date>
+    <Open>3.43707</Open>
+    <High>3.59061</High>
+    <Low>3.341</Low>
+    <Close>3.37779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-26</Date>
+    <Open>3.37695</Open>
+    <High>3.41431</High>
+    <Low>3.31516</Low>
+    <Close>3.38415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-27</Date>
+    <Open>3.38345</Open>
+    <High>3.55082</High>
+    <Low>3.31556</Low>
+    <Close>3.52061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-28</Date>
+    <Open>3.52106</Open>
+    <High>3.68727</High>
+    <Low>3.5007</Low>
+    <Close>3.58253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-29</Date>
+    <Open>3.58569</Open>
+    <High>3.65056</High>
+    <Low>3.42873</Low>
+    <Close>3.48404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-30</Date>
+    <Open>3.48374</Open>
+    <High>3.60508</High>
+    <Low>3.36435</Low>
+    <Close>3.52896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-03-31</Date>
+    <Open>3.52986</Open>
+    <High>3.85969</High>
+    <Low>3.38071</Low>
+    <Close>3.41518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-01</Date>
+    <Open>3.41562</Open>
+    <High>3.55482</High>
+    <Low>3.23337</Low>
+    <Close>3.53316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-02</Date>
+    <Open>3.53371</Open>
+    <High>3.68307</High>
+    <Low>3.42813</Low>
+    <Close>3.5101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-03</Date>
+    <Open>3.5121</Open>
+    <High>3.56112</High>
+    <Low>3.38291</Low>
+    <Close>3.53831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-04</Date>
+    <Open>3.53996</Open>
+    <High>3.59754</High>
+    <Low>3.31359</Low>
+    <Close>3.44199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-05</Date>
+    <Open>3.44223</Open>
+    <High>3.49715</High>
+    <Low>3.35791</Low>
+    <Close>3.38434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-06</Date>
+    <Open>3.38494</Open>
+    <High>3.39388</High>
+    <Low>2.973</Low>
+    <Close>3.0595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-07</Date>
+    <Open>3.0582</Open>
+    <High>3.09931</High>
+    <Low>2.8955</Low>
+    <Close>3.0397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-08</Date>
+    <Open>3.0396</Open>
+    <High>3.11832</High>
+    <Low>2.92388</Low>
+    <Close>2.93347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-09</Date>
+    <Open>2.93287</Open>
+    <High>3.0046</High>
+    <Low>2.86636</Low>
+    <Close>2.97059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-10</Date>
+    <Open>2.97209</Open>
+    <High>3.02891</High>
+    <Low>2.93338</Low>
+    <Close>2.96429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-11</Date>
+    <Open>2.96479</Open>
+    <High>2.9694</High>
+    <Low>2.65303</Low>
+    <Close>2.6548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-12</Date>
+    <Open>2.6551</Open>
+    <High>2.82597</High>
+    <Low>2.64449</Low>
+    <Close>2.75032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-13</Date>
+    <Open>2.75042</Open>
+    <High>2.86465</High>
+    <Low>2.71932</Low>
+    <Close>2.84435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-14</Date>
+    <Open>2.84535</Open>
+    <High>2.91908</High>
+    <Low>2.70834</Low>
+    <Close>2.80998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-15</Date>
+    <Open>2.80978</Open>
+    <High>2.82426</High>
+    <Low>2.74757</Low>
+    <Close>2.79576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-16</Date>
+    <Open>2.79496</Open>
+    <High>2.91328</High>
+    <Low>2.76848</Low>
+    <Close>2.80876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-17</Date>
+    <Open>2.81206</Open>
+    <High>2.82807</High>
+    <Low>2.74907</Low>
+    <Close>2.77586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-18</Date>
+    <Open>2.77555</Open>
+    <High>2.78426</High>
+    <Low>2.55366</Low>
+    <Close>2.75973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-19</Date>
+    <Open>2.75973</Open>
+    <High>3.02891</High>
+    <Low>2.71711</Low>
+    <Close>2.87938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-20</Date>
+    <Open>2.87948</Open>
+    <High>3.09551</High>
+    <Low>2.80736</Low>
+    <Close>2.87027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-21</Date>
+    <Open>2.87127</Open>
+    <High>2.94859</High>
+    <Low>2.74907</Low>
+    <Close>2.76358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-22</Date>
+    <Open>2.76028</Open>
+    <High>2.81596</High>
+    <Low>2.69974</Low>
+    <Close>2.74167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-23</Date>
+    <Open>2.74165</Open>
+    <High>2.76585</High>
+    <Low>2.67023</Low>
+    <Close>2.73197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-24</Date>
+    <Open>2.73275</Open>
+    <High>2.77786</High>
+    <Low>2.66167</Low>
+    <Close>2.76305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-25</Date>
+    <Open>2.76105</Open>
+    <High>2.83757</High>
+    <Low>2.56681</Low>
+    <Close>2.73265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-26</Date>
+    <Open>2.73315</Open>
+    <High>2.74935</High>
+    <Low>2.48885</Low>
+    <Close>2.54465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-27</Date>
+    <Open>2.54625</Open>
+    <High>2.5755</High>
+    <Low>2.4368</Low>
+    <Close>2.52165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-28</Date>
+    <Open>2.52175</Open>
+    <High>2.57556</High>
+    <Low>2.45995</Low>
+    <Close>2.4943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-29</Date>
+    <Open>2.4958</Open>
+    <High>2.52105</High>
+    <Low>2.23002</Low>
+    <Close>2.27413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-04-30</Date>
+    <Open>2.27423</Open>
+    <High>2.34483</High>
+    <Low>2.1146</Low>
+    <Close>2.1257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-01</Date>
+    <Open>2.1253</Open>
+    <High>2.17892</High>
+    <Low>1.8366</Low>
+    <Close>2.0904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-02</Date>
+    <Open>2.0908</Open>
+    <High>2.19852</High>
+    <Low>2.013</Low>
+    <Close>2.11381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-03</Date>
+    <Open>2.1131</Open>
+    <High>2.3037</High>
+    <Low>2.08239</Low>
+    <Close>2.12639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-04</Date>
+    <Open>2.12589</Open>
+    <High>2.4132</High>
+    <Low>2.10879</Low>
+    <Close>2.3929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-05</Date>
+    <Open>2.39268</Open>
+    <High>2.45831</High>
+    <Low>2.05519</Low>
+    <Close>2.12907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-06</Date>
+    <Open>2.12977</Open>
+    <High>2.14479</High>
+    <Low>1.9831</Low>
+    <Close>2.05479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-07</Date>
+    <Open>2.05519</Open>
+    <High>2.07069</High>
+    <Low>1.92302</Low>
+    <Close>1.92402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-08</Date>
+    <Open>1.92541</Open>
+    <High>2.05238</High>
+    <Low>1.87223</Low>
+    <Close>2.0078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-09</Date>
+    <Open>2.0079</Open>
+    <High>2.03939</High>
+    <Low>1.70309</Low>
+    <Close>1.78314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-10</Date>
+    <Open>1.78674</Open>
+    <High>1.93113</High>
+    <Low>1.63731</Low>
+    <Close>1.65474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-11</Date>
+    <Open>1.65254</Open>
+    <High>1.7941</High>
+    <Low>1.07851</Low>
+    <Close>1.24876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-12</Date>
+    <Open>1.24936</Open>
+    <High>1.40422</High>
+    <Low>0.91522</Low>
+    <Close>1.06772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-13</Date>
+    <Open>1.06781</Open>
+    <High>1.52551</High>
+    <Low>1.04697</Low>
+    <Close>1.32774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-14</Date>
+    <Open>1.32884</Open>
+    <High>1.5295</High>
+    <Low>1.19409</Low>
+    <Close>1.3341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-15</Date>
+    <Open>1.33463</Open>
+    <High>1.45117</High>
+    <Low>1.30737</Low>
+    <Close>1.4128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-16</Date>
+    <Open>1.41276</Open>
+    <High>1.46199</High>
+    <Low>1.27796</Low>
+    <Close>1.34565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-17</Date>
+    <Open>1.34605</Open>
+    <High>1.40425</High>
+    <Low>1.28855</Low>
+    <Close>1.36482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-18</Date>
+    <Open>1.36522</Open>
+    <High>1.39209</High>
+    <Low>1.19684</Low>
+    <Close>1.2257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-19</Date>
+    <Open>1.2283</Open>
+    <High>1.33863</High>
+    <Low>1.13782</Low>
+    <Close>1.27023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-20</Date>
+    <Open>1.27033</Open>
+    <High>1.38339</High>
+    <Low>1.21544</Low>
+    <Close>1.2508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-21</Date>
+    <Open>1.2525</Open>
+    <High>1.34265</High>
+    <Low>1.24181</Low>
+    <Close>1.29941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-22</Date>
+    <Open>1.29961</Open>
+    <High>1.39548</High>
+    <Low>1.29491</Low>
+    <Close>1.35647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-23</Date>
+    <Open>1.35607</Open>
+    <High>1.45999</High>
+    <Low>1.32141</Low>
+    <Close>1.33556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-24</Date>
+    <Open>1.33546</Open>
+    <High>1.33546</High>
+    <Low>1.21766</Low>
+    <Close>1.29688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-25</Date>
+    <Open>1.29731</Open>
+    <High>1.38497</High>
+    <Low>1.23384</Low>
+    <Close>1.37465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-26</Date>
+    <Open>1.37475</Open>
+    <High>1.51603</High>
+    <Low>1.2493</Low>
+    <Close>1.38388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-27</Date>
+    <Open>1.38328</Open>
+    <High>1.41139</High>
+    <Low>1.25312</Low>
+    <Close>1.297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-28</Date>
+    <Open>1.2968</Open>
+    <High>1.32938</High>
+    <Low>1.26453</Low>
+    <Close>1.29468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-29</Date>
+    <Open>1.29488</Open>
+    <High>1.31183</High>
+    <Low>1.25436</Low>
+    <Close>1.29817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-30</Date>
+    <Open>1.29807</Open>
+    <High>1.46753</High>
+    <Low>1.28895</Low>
+    <Close>1.43635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-05-31</Date>
+    <Open>1.43879</Open>
+    <High>1.52288</High>
+    <Low>1.3767</Low>
+    <Close>1.43121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-01</Date>
+    <Open>1.43325</Open>
+    <High>1.46579</High>
+    <Low>1.28531</Low>
+    <Close>1.30952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-02</Date>
+    <Open>1.30902</Open>
+    <High>1.34819</High>
+    <Low>1.29563</Low>
+    <Close>1.34459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-03</Date>
+    <Open>1.34499</Open>
+    <High>1.37256</High>
+    <Low>1.26671</Low>
+    <Close>1.30826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-04</Date>
+    <Open>1.30906</Open>
+    <High>1.31166</High>
+    <Low>1.2515</Low>
+    <Close>1.29102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-05</Date>
+    <Open>1.29242</Open>
+    <High>1.31009</High>
+    <Low>1.26887</Low>
+    <Close>1.2935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-06</Date>
+    <Open>1.29388</Open>
+    <High>1.39882</High>
+    <Low>1.28449</Low>
+    <Close>1.34226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-07</Date>
+    <Open>1.34253</Open>
+    <High>1.35215</High>
+    <Low>1.25774</Low>
+    <Close>1.32992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-08</Date>
+    <Open>1.33092</Open>
+    <High>1.33868</High>
+    <Low>1.27708</Low>
+    <Close>1.30525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-09</Date>
+    <Open>1.30525</Open>
+    <High>1.32266</High>
+    <Low>1.2781</Low>
+    <Close>1.28982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-10</Date>
+    <Open>1.28982</Open>
+    <High>1.29856</High>
+    <Low>1.19009</Low>
+    <Close>1.21784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-11</Date>
+    <Open>1.21784</Open>
+    <High>1.22444</High>
+    <Low>1.0508</Low>
+    <Close>1.07967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-12</Date>
+    <Open>1.07968</Open>
+    <High>1.09256</High>
+    <Low>0.94997</Low>
+    <Close>0.99318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-13</Date>
+    <Open>0.99328</Open>
+    <High>0.99378</High>
+    <Low>0.78762</Low>
+    <Close>0.85691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-14</Date>
+    <Open>0.85722</Open>
+    <High>0.95135</High>
+    <Low>0.77734</Low>
+    <Close>0.84848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-15</Date>
+    <Open>0.84878</Open>
+    <High>0.93667</High>
+    <Low>0.7868</Low>
+    <Close>0.9292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-16</Date>
+    <Open>0.9297</Open>
+    <High>0.950453</High>
+    <Low>0.833099</Low>
+    <Close>0.857983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-17</Date>
+    <Open>0.834039</Open>
+    <High>0.890551</High>
+    <Low>0.816671</Low>
+    <Close>0.859567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-18</Date>
+    <Open>0.859176</Open>
+    <High>0.868973</High>
+    <Low>0.732529</Low>
+    <Close>0.780526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-19</Date>
+    <Open>0.780326</Open>
+    <High>0.862564</High>
+    <Low>0.759643</Low>
+    <Close>0.847497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-20</Date>
+    <Open>0.847597</Open>
+    <High>0.886413</High>
+    <Low>0.80675</Low>
+    <Close>0.848366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-21</Date>
+    <Open>0.848965</Open>
+    <High>0.96533</High>
+    <Low>0.838976</Low>
+    <Close>0.906202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-22</Date>
+    <Open>0.906102</Open>
+    <High>1.01498</High>
+    <Low>0.864035</Low>
+    <Close>0.944654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-23</Date>
+    <Open>0.944178</Open>
+    <High>1.02987</High>
+    <Low>0.932167</Low>
+    <Close>0.984914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-24</Date>
+    <Open>0.985014</Open>
+    <High>1.11201</High>
+    <Low>0.984415</Low>
+    <Close>1.09654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-25</Date>
+    <Open>1.09774</Open>
+    <High>1.32916</High>
+    <Low>1.07672</Low>
+    <Close>1.30389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-26</Date>
+    <Open>1.30509</Open>
+    <High>1.34857</High>
+    <Low>1.21827</Low>
+    <Close>1.23853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-27</Date>
+    <Open>1.23874</Open>
+    <High>1.26364</High>
+    <Low>1.14495</Low>
+    <Close>1.18974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-28</Date>
+    <Open>1.19064</Open>
+    <High>1.23059</High>
+    <Low>1.08828</Low>
+    <Close>1.11133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-29</Date>
+    <Open>1.11112</Open>
+    <High>1.11386</High>
+    <Low>1.02118</Low>
+    <Close>1.073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-06-30</Date>
+    <Open>1.07306</Open>
+    <High>1.08961</High>
+    <Low>0.95554</Low>
+    <Close>1.02303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-01</Date>
+    <Open>1.02407</Open>
+    <High>1.17169</High>
+    <Low>1.01858</Low>
+    <Close>1.07282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-02</Date>
+    <Open>1.07232</Open>
+    <High>1.07901</High>
+    <Low>1.00419</Low>
+    <Close>1.05194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-03</Date>
+    <Open>1.05137</Open>
+    <High>1.05377</High>
+    <Low>1.00707</Low>
+    <Close>1.04026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-04</Date>
+    <Open>1.04208</Open>
+    <High>1.22372</High>
+    <Low>1.03378</Low>
+    <Close>1.2113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-05</Date>
+    <Open>1.20835</Open>
+    <High>1.22912</High>
+    <Low>1.10548</Low>
+    <Close>1.19658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-06</Date>
+    <Open>1.19668</Open>
+    <High>1.28229</High>
+    <Low>1.15113</Low>
+    <Close>1.25372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-07</Date>
+    <Open>1.25442</Open>
+    <High>1.31702</High>
+    <Low>1.23654</Low>
+    <Close>1.28503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-08</Date>
+    <Open>1.2859</Open>
+    <High>1.31346</High>
+    <Low>1.20237</Low>
+    <Close>1.22692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-09</Date>
+    <Open>1.226</Open>
+    <High>1.24704</High>
+    <Low>1.21439</Low>
+    <Close>1.23052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-10</Date>
+    <Open>1.23043</Open>
+    <High>1.23697</High>
+    <Low>1.14714</Low>
+    <Close>1.16522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-11</Date>
+    <Open>1.16522</Open>
+    <High>1.16536</High>
+    <Low>1.09468</Low>
+    <Close>1.11569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-12</Date>
+    <Open>1.11543</Open>
+    <High>1.15267</High>
+    <Low>1.08336</Low>
+    <Close>1.102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-13</Date>
+    <Open>1.10182</Open>
+    <High>1.13981</High>
+    <Low>1.05214</Low>
+    <Close>1.13568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-14</Date>
+    <Open>1.13578</Open>
+    <High>1.2174</High>
+    <Low>1.11633</Low>
+    <Close>1.18298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-15</Date>
+    <Open>1.18296</Open>
+    <High>1.23101</High>
+    <Low>1.1694</Low>
+    <Close>1.20181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-16</Date>
+    <Open>1.20234</Open>
+    <High>1.27137</High>
+    <Low>1.19418</Low>
+    <Close>1.2443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-17</Date>
+    <Open>1.24418</Open>
+    <High>1.26571</High>
+    <Low>1.17454</Low>
+    <Close>1.19935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-18</Date>
+    <Open>1.19971</Open>
+    <High>1.36845</High>
+    <Low>1.17676</Low>
+    <Close>1.32317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-19</Date>
+    <Open>1.323</Open>
+    <High>1.47016</High>
+    <Low>1.3211</Low>
+    <Close>1.45683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-20</Date>
+    <Open>1.45673</Open>
+    <High>1.49376</High>
+    <Low>1.30487</Low>
+    <Close>1.35647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-21</Date>
+    <Open>1.35607</Open>
+    <High>1.39718</High>
+    <Low>1.27504</Low>
+    <Close>1.37994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-22</Date>
+    <Open>1.38085</Open>
+    <High>1.43506</High>
+    <Low>1.31855</Low>
+    <Close>1.33699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-23</Date>
+    <Open>1.33689</Open>
+    <High>1.37811</High>
+    <Low>1.29398</Low>
+    <Close>1.32435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-24</Date>
+    <Open>1.32411</Open>
+    <High>1.3825</High>
+    <Low>1.32292</Low>
+    <Close>1.3618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-25</Date>
+    <Open>1.362</Open>
+    <High>1.37568</High>
+    <Low>1.22412</Low>
+    <Close>1.2567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-26</Date>
+    <Open>1.25661</Open>
+    <High>1.25863</High>
+    <Low>1.12886</Low>
+    <Close>1.14826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-27</Date>
+    <Open>1.14766</Open>
+    <High>1.30298</High>
+    <Low>1.14706</Low>
+    <Close>1.29284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-28</Date>
+    <Open>1.29261</Open>
+    <High>1.39131</High>
+    <Low>1.2623</Low>
+    <Close>1.37197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-29</Date>
+    <Open>1.37187</Open>
+    <High>1.40887</High>
+    <Low>1.29059</Low>
+    <Close>1.33225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-30</Date>
+    <Open>1.33285</Open>
+    <High>1.4317</High>
+    <Low>1.30856</Low>
+    <Close>1.34674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-07-31</Date>
+    <Open>1.34596</Open>
+    <High>1.38919</High>
+    <Low>1.31797</Low>
+    <Close>1.34091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-01</Date>
+    <Open>1.34233</Open>
+    <High>1.3495</High>
+    <Low>1.27114</Low>
+    <Close>1.30369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-02</Date>
+    <Open>1.30239</Open>
+    <High>1.34811</High>
+    <Low>1.24239</Low>
+    <Close>1.28452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-03</Date>
+    <Open>1.28494</Open>
+    <High>1.31624</High>
+    <Low>1.22908</Low>
+    <Close>1.29242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-04</Date>
+    <Open>1.2926</Open>
+    <High>1.34501</High>
+    <Low>1.25396</Low>
+    <Close>1.28144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-05</Date>
+    <Open>1.28154</Open>
+    <High>1.35474</High>
+    <Low>1.27994</Low>
+    <Close>1.32092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-06</Date>
+    <Open>1.32091</Open>
+    <High>1.37385</High>
+    <Low>1.31787</Low>
+    <Close>1.33454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-07</Date>
+    <Open>1.33446</Open>
+    <High>1.34341</High>
+    <Low>1.29506</Low>
+    <Close>1.33334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-08</Date>
+    <Open>1.33332</Open>
+    <High>1.39177</High>
+    <Low>1.31504</Low>
+    <Close>1.35631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-09</Date>
+    <Open>1.3561</Open>
+    <High>1.3839</High>
+    <Low>1.26143</Low>
+    <Close>1.29615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-10</Date>
+    <Open>1.29621</Open>
+    <High>1.35068</High>
+    <Low>1.25818</Low>
+    <Close>1.33576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-11</Date>
+    <Open>1.3359</Open>
+    <High>1.37042</High>
+    <Low>1.31595</Low>
+    <Close>1.33335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-12</Date>
+    <Open>1.33314</Open>
+    <High>1.33376</High>
+    <Low>1.28753</Low>
+    <Close>1.31465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-13</Date>
+    <Open>1.31471</Open>
+    <High>1.38866</High>
+    <Low>1.31039</Low>
+    <Close>1.33463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-14</Date>
+    <Open>1.33459</Open>
+    <High>1.42685</High>
+    <Low>1.31216</Low>
+    <Close>1.33724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-15</Date>
+    <Open>1.3367</Open>
+    <High>1.39954</High>
+    <Low>1.29543</Low>
+    <Close>1.30763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-16</Date>
+    <Open>1.30767</Open>
+    <High>1.32458</High>
+    <Low>1.26085</Low>
+    <Close>1.2756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-17</Date>
+    <Open>1.27561</Open>
+    <High>1.31375</High>
+    <Low>1.20686</Low>
+    <Close>1.21812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-18</Date>
+    <Open>1.21814</Open>
+    <High>1.23987</High>
+    <Low>1.19765</Low>
+    <Close>1.20984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-19</Date>
+    <Open>1.21009</Open>
+    <High>1.21218</High>
+    <Low>1.03466</Low>
+    <Close>1.03974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-20</Date>
+    <Open>1.04104</Open>
+    <High>1.07904</High>
+    <Low>1.00562</Low>
+    <Close>1.0379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-21</Date>
+    <Open>1.03783</Open>
+    <High>1.08416</High>
+    <Low>1.0295</Low>
+    <Close>1.07392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-22</Date>
+    <Open>1.07321</Open>
+    <High>1.08063</High>
+    <Low>1.01038</Low>
+    <Close>1.02163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-23</Date>
+    <Open>1.02177</Open>
+    <High>1.06489</High>
+    <Low>1.01739</Low>
+    <Close>1.05362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-24</Date>
+    <Open>1.0542</Open>
+    <High>1.0769</High>
+    <Low>1.02787</Low>
+    <Close>1.0601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-25</Date>
+    <Open>1.06096</Open>
+    <High>1.07163</High>
+    <Low>1.03353</Low>
+    <Close>1.05419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-26</Date>
+    <Open>1.05478</Open>
+    <High>1.05946</High>
+    <Low>0.97568</Low>
+    <Close>0.9889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-27</Date>
+    <Open>0.98908</Open>
+    <High>0.99219</High>
+    <Low>0.93513</Low>
+    <Close>0.95478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-28</Date>
+    <Open>0.95424</Open>
+    <High>0.97986</High>
+    <Low>0.94986</Low>
+    <Close>0.95931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-29</Date>
+    <Open>0.95874</Open>
+    <High>0.98488</High>
+    <Low>0.91719</Low>
+    <Close>0.98072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-30</Date>
+    <Open>0.98047</Open>
+    <High>1.00074</High>
+    <Low>0.931915</Low>
+    <Close>0.953826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-08-31</Date>
+    <Open>0.954075</Open>
+    <High>0.981612</High>
+    <Low>0.938228</Low>
+    <Close>0.95779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-01</Date>
+    <Open>0.95769</Open>
+    <High>0.95999</High>
+    <Low>0.907108</Low>
+    <Close>0.936985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-02</Date>
+    <Open>0.936926</Open>
+    <High>0.957821</High>
+    <Low>0.916675</Low>
+    <Close>0.925558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-03</Date>
+    <Open>0.925636</Open>
+    <High>0.931689</High>
+    <Low>0.912444</Low>
+    <Close>0.924905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-04</Date>
+    <Open>0.924592</Open>
+    <High>0.975253</High>
+    <Low>0.920989</Low>
+    <Close>0.966576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-05</Date>
+    <Open>0.9636</Open>
+    <High>0.972397</High>
+    <Low>0.9369</Low>
+    <Close>0.950795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-06</Date>
+    <Open>0.950695</Open>
+    <High>0.977398</High>
+    <Low>0.8731</Low>
+    <Close>0.8856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-07</Date>
+    <Open>0.8855</Open>
+    <High>0.911191</High>
+    <Low>0.851666</Low>
+    <Close>0.907264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-08</Date>
+    <Open>0.909355</Open>
+    <High>0.913105</High>
+    <Low>0.888614</Low>
+    <Close>0.900863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-09</Date>
+    <Open>0.920069</Open>
+    <High>0.995455</High>
+    <Low>0.920069</Low>
+    <Close>0.978458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-10</Date>
+    <Open>0.978487</Open>
+    <High>1.02444</High>
+    <Low>0.964663</Low>
+    <Close>0.983983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-11</Date>
+    <Open>0.984642</Open>
+    <High>0.995677</High>
+    <Low>0.954594</Low>
+    <Close>0.959911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-12</Date>
+    <Open>0.959621</Open>
+    <High>0.99939</High>
+    <Low>0.949696</Low>
+    <Close>0.969081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-13</Date>
+    <Open>0.96878</Open>
+    <High>0.971976</High>
+    <Low>0.878278</Low>
+    <Close>0.893588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-14</Date>
+    <Open>0.887753</Open>
+    <High>0.898112</High>
+    <Low>0.867628</Low>
+    <Close>0.897259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-15</Date>
+    <Open>0.897654</Open>
+    <High>0.902871</High>
+    <Low>0.855278</Low>
+    <Close>0.864557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-16</Date>
+    <Open>0.863202</Open>
+    <High>0.879565</High>
+    <Low>0.844357</Low>
+    <Close>0.876934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-17</Date>
+    <Open>0.876927</Open>
+    <High>0.908338</High>
+    <Low>0.870985</Low>
+    <Close>0.90148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-18</Date>
+    <Open>0.901479</Open>
+    <High>0.917511</High>
+    <Low>0.812579</Low>
+    <Close>0.837465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-19</Date>
+    <Open>0.836866</Open>
+    <High>0.860015</High>
+    <Low>0.808135</Low>
+    <Close>0.856786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-20</Date>
+    <Open>0.856129</Open>
+    <High>0.865733</High>
+    <Low>0.833133</Low>
+    <Close>0.846916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-21</Date>
+    <Open>0.847073</Open>
+    <High>0.887458</High>
+    <Low>0.810962</Low>
+    <Close>0.817662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-22</Date>
+    <Open>0.817662</Open>
+    <High>0.898028</High>
+    <Low>0.801513</Low>
+    <Close>0.885801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-23</Date>
+    <Open>0.882614</Open>
+    <High>0.937792</High>
+    <Low>0.849084</Low>
+    <Close>0.921834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-24</Date>
+    <Open>0.921717</Open>
+    <High>0.946875</High>
+    <Low>0.89324</Low>
+    <Close>0.894894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-25</Date>
+    <Open>0.894732</Open>
+    <High>0.900321</High>
+    <Low>0.856167</Low>
+    <Close>0.861871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-26</Date>
+    <Open>0.861948</Open>
+    <High>0.869835</High>
+    <Low>0.835678</Low>
+    <Close>0.847794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-27</Date>
+    <Open>0.847771</Open>
+    <High>0.889831</High>
+    <Low>0.833084</Low>
+    <Close>0.844481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-28</Date>
+    <Open>0.844258</Open>
+    <High>0.85593</High>
+    <Low>0.814366</Low>
+    <Close>0.851097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-29</Date>
+    <Open>0.851037</Open>
+    <High>0.858479</High>
+    <Low>0.827054</Low>
+    <Close>0.848531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-09-30</Date>
+    <Open>0.848731</Open>
+    <High>0.866828</High>
+    <Low>0.833446</Low>
+    <Close>0.835863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-01</Date>
+    <Open>0.835841</Open>
+    <High>0.846901</High>
+    <Low>0.829429</Low>
+    <Close>0.836378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-02</Date>
+    <Open>0.836546</Open>
+    <High>0.839282</High>
+    <Low>0.820406</Low>
+    <Close>0.825104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-03</Date>
+    <Open>0.824073</Open>
+    <High>0.831134</High>
+    <Low>0.800641</Low>
+    <Close>0.828291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-04</Date>
+    <Open>0.828361</Open>
+    <High>0.854477</High>
+    <Low>0.827074</Low>
+    <Close>0.849453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-05</Date>
+    <Open>0.850309</Open>
+    <High>0.874809</High>
+    <Low>0.834193</Low>
+    <Close>0.865969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-06</Date>
+    <Open>0.857014</Open>
+    <High>0.872556</High>
+    <Low>0.844535</Low>
+    <Close>0.84933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-07</Date>
+    <Open>0.844766</Open>
+    <High>0.846504</High>
+    <Low>0.82458</Low>
+    <Close>0.832076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-08</Date>
+    <Open>0.833523</Open>
+    <High>0.841656</High>
+    <Low>0.821975</Low>
+    <Close>0.822417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-09</Date>
+    <Open>0.822011</Open>
+    <High>0.837801</High>
+    <Low>0.82131</Low>
+    <Close>0.832263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-10</Date>
+    <Open>0.832263</Open>
+    <High>0.842</High>
+    <Low>0.818899</Low>
+    <Close>0.821307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-11</Date>
+    <Open>0.821389</Open>
+    <High>0.822336</High>
+    <Low>0.77621</Low>
+    <Close>0.780211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-12</Date>
+    <Open>0.780226</Open>
+    <High>0.788427</High>
+    <Low>0.772169</Low>
+    <Close>0.782696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-13</Date>
+    <Open>0.782802</Open>
+    <High>0.782977</High>
+    <Low>0.695255</Low>
+    <Close>0.769932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-14</Date>
+    <Open>0.76992</Open>
+    <High>0.797407</High>
+    <Low>0.747639</Low>
+    <Close>0.748181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-15</Date>
+    <Open>0.74768</Open>
+    <High>0.777498</High>
+    <Low>0.744764</Low>
+    <Close>0.768285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-16</Date>
+    <Open>0.768254</Open>
+    <High>0.787043</High>
+    <Low>0.757103</Low>
+    <Close>0.784438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-17</Date>
+    <Open>0.772585</Open>
+    <High>0.794967</High>
+    <Low>0.771184</Low>
+    <Close>0.784743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-18</Date>
+    <Open>0.784737</Open>
+    <High>0.804563</High>
+    <Low>0.757646</Low>
+    <Close>0.77265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-19</Date>
+    <Open>0.772481</Open>
+    <High>0.775278</High>
+    <Low>0.746753</Low>
+    <Close>0.75526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-20</Date>
+    <Open>0.75182</Open>
+    <High>0.753642</High>
+    <Low>0.717217</Low>
+    <Close>0.725981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-21</Date>
+    <Open>0.725744</Open>
+    <High>0.744318</High>
+    <Low>0.698477</Low>
+    <Close>0.740359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-22</Date>
+    <Open>0.740305</Open>
+    <High>0.74693</High>
+    <Low>0.729197</Low>
+    <Close>0.743383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-23</Date>
+    <Open>0.743518</Open>
+    <High>0.755311</High>
+    <Low>0.726771</Low>
+    <Close>0.750748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-24</Date>
+    <Open>0.75114</Open>
+    <High>0.764903</High>
+    <Low>0.728896</Low>
+    <Close>0.739395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-25</Date>
+    <Open>0.736661</Open>
+    <High>0.777828</High>
+    <Low>0.732582</Low>
+    <Close>0.769633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-26</Date>
+    <Open>0.771316</Open>
+    <High>0.786999</High>
+    <Low>0.757397</Low>
+    <Close>0.783671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-27</Date>
+    <Open>0.784164</Open>
+    <High>0.822411</High>
+    <Low>0.765029</Low>
+    <Close>0.772586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-28</Date>
+    <Open>0.772299</Open>
+    <High>0.805401</High>
+    <Low>0.76168</Low>
+    <Close>0.799953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-29</Date>
+    <Open>0.7979</Open>
+    <High>0.834034</High>
+    <Low>0.796127</Low>
+    <Close>0.816945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-30</Date>
+    <Open>0.816961</Open>
+    <High>0.944316</High>
+    <Low>0.799386</Low>
+    <Close>0.855192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-10-31</Date>
+    <Open>0.8557</Open>
+    <High>0.912264</High>
+    <Low>0.847654</Low>
+    <Close>0.881198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-01</Date>
+    <Open>0.874833</Open>
+    <High>0.913535</High>
+    <Low>0.861368</Low>
+    <Close>0.863641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-02</Date>
+    <Open>0.863633</Open>
+    <High>0.86853</High>
+    <Low>0.791518</Low>
+    <Close>0.804468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-03</Date>
+    <Open>0.804163</Open>
+    <High>0.849077</High>
+    <Low>0.804163</Low>
+    <Close>0.80842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-04</Date>
+    <Open>0.808238</Open>
+    <High>0.886423</High>
+    <Low>0.802554</Low>
+    <Close>0.882204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-05</Date>
+    <Open>0.882111</Open>
+    <High>0.983594</High>
+    <Low>0.877143</Low>
+    <Close>0.92323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-06</Date>
+    <Open>0.922842</Open>
+    <High>0.923961</High>
+    <Low>0.861172</Low>
+    <Close>0.866797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-07</Date>
+    <Open>0.867088</Open>
+    <High>0.867157</High>
+    <Low>0.818219</Low>
+    <Close>0.832833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-08</Date>
+    <Open>0.833406</Open>
+    <High>0.862505</High>
+    <Low>0.670906</Low>
+    <Close>0.697814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-09</Date>
+    <Open>0.697849</Open>
+    <High>0.721373</High>
+    <Low>0.561071</Low>
+    <Close>0.571412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-10</Date>
+    <Open>0.574512</Open>
+    <High>0.728919</High>
+    <Low>0.564062</Low>
+    <Close>0.678745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-11</Date>
+    <Open>0.678869</Open>
+    <High>0.765448</High>
+    <Low>0.606792</Low>
+    <Close>0.627484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-12</Date>
+    <Open>0.627015</Open>
+    <High>0.639897</High>
+    <Low>0.586159</Low>
+    <Close>0.597131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-13</Date>
+    <Open>0.597305</Open>
+    <High>0.670671</High>
+    <Low>0.573987</Low>
+    <Close>0.588909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-14</Date>
+    <Open>0.592719</Open>
+    <High>0.608547</High>
+    <Low>0.547682</Low>
+    <Close>0.580554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-15</Date>
+    <Open>0.580484</Open>
+    <High>0.617004</High>
+    <Low>0.578126</Low>
+    <Close>0.597982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-16</Date>
+    <Open>0.599976</Open>
+    <High>0.607311</High>
+    <Low>0.568661</Low>
+    <Close>0.586671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-17</Date>
+    <Open>0.586651</Open>
+    <High>0.590456</High>
+    <Low>0.562934</Low>
+    <Close>0.580206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-18</Date>
+    <Open>0.580626</Open>
+    <High>0.58988</High>
+    <Low>0.569423</Low>
+    <Close>0.573707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-19</Date>
+    <Open>0.57366</Open>
+    <High>0.61916</High>
+    <Low>0.56508</Low>
+    <Close>0.595956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-20</Date>
+    <Open>0.595962</Open>
+    <High>0.599955</High>
+    <Low>0.546112</Low>
+    <Close>0.554749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-21</Date>
+    <Open>0.546631</Open>
+    <High>0.559666</High>
+    <Low>0.519507</Low>
+    <Close>0.532561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-22</Date>
+    <Open>0.532049</Open>
+    <High>0.555111</High>
+    <Low>0.517959</Low>
+    <Close>0.55122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-23</Date>
+    <Open>0.550432</Open>
+    <High>0.571311</High>
+    <Low>0.550182</Low>
+    <Close>0.566283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-24</Date>
+    <Open>0.566285</Open>
+    <High>0.590886</High>
+    <Low>0.552779</Low>
+    <Close>0.56277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-25</Date>
+    <Open>0.562125</Open>
+    <High>0.565602</High>
+    <Low>0.54549</Low>
+    <Close>0.562967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-26</Date>
+    <Open>0.565308</Open>
+    <High>0.58143</High>
+    <Low>0.556532</Low>
+    <Close>0.55756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-27</Date>
+    <Open>0.557581</Open>
+    <High>0.592725</High>
+    <Low>0.557278</Low>
+    <Close>0.58461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-28</Date>
+    <Open>0.58471</Open>
+    <High>0.586119</High>
+    <Low>0.535912</Low>
+    <Close>0.552336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-29</Date>
+    <Open>0.553294</Open>
+    <High>0.571683</High>
+    <Low>0.54678</Low>
+    <Close>0.563145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-11-30</Date>
+    <Open>0.563541</Open>
+    <High>0.588272</High>
+    <Low>0.56146</Low>
+    <Close>0.586932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-01</Date>
+    <Open>0.587166</Open>
+    <High>0.596704</High>
+    <Low>0.575241</Low>
+    <Close>0.57872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-02</Date>
+    <Open>0.578779</Open>
+    <High>0.607889</High>
+    <Low>0.573505</Low>
+    <Close>0.60385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-03</Date>
+    <Open>0.604303</Open>
+    <High>0.60605</High>
+    <Low>0.572566</Low>
+    <Close>0.576072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-04</Date>
+    <Open>0.575662</Open>
+    <High>0.590335</High>
+    <Low>0.5755</Low>
+    <Close>0.586448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-05</Date>
+    <Open>0.586482</Open>
+    <High>0.634267</High>
+    <Low>0.586111</Low>
+    <Close>0.614132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-06</Date>
+    <Open>0.614181</Open>
+    <High>0.619801</High>
+    <Low>0.60142</Low>
+    <Close>0.605228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-07</Date>
+    <Open>0.604282</Open>
+    <High>0.624892</High>
+    <Low>0.566834</Low>
+    <Close>0.581285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-08</Date>
+    <Open>0.581285</Open>
+    <High>0.599588</High>
+    <Low>0.571405</Low>
+    <Close>0.594351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-09</Date>
+    <Open>0.5944</Open>
+    <High>0.596336</High>
+    <Low>0.576684</Low>
+    <Close>0.578459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-10</Date>
+    <Open>0.57856</Open>
+    <High>0.586872</High>
+    <Low>0.57802</Low>
+    <Close>0.579769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-11</Date>
+    <Open>0.579769</Open>
+    <High>0.58554</High>
+    <Low>0.560568</Low>
+    <Close>0.563093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-12</Date>
+    <Open>0.562904</Open>
+    <High>0.566125</High>
+    <Low>0.547185</Low>
+    <Close>0.557839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-13</Date>
+    <Open>0.557665</Open>
+    <High>0.575047</High>
+    <Low>0.53345</Low>
+    <Close>0.563558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-14</Date>
+    <Open>0.563604</Open>
+    <High>0.581862</High>
+    <Low>0.549172</Low>
+    <Close>0.554768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-15</Date>
+    <Open>0.554797</Open>
+    <High>0.555271</High>
+    <Low>0.538115</Low>
+    <Close>0.539674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-16</Date>
+    <Open>0.539682</Open>
+    <High>0.543108</High>
+    <Low>0.456681</Low>
+    <Close>0.473353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-17</Date>
+    <Open>0.473353</Open>
+    <High>0.481767</High>
+    <Low>0.459818</Low>
+    <Close>0.479545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-18</Date>
+    <Open>0.479357</Open>
+    <High>0.481667</High>
+    <Low>0.472813</Low>
+    <Close>0.47425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-19</Date>
+    <Open>0.474972</Open>
+    <High>0.474982</High>
+    <Low>0.419686</Low>
+    <Close>0.428511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-20</Date>
+    <Open>0.428381</Open>
+    <High>0.453201</High>
+    <Low>0.427696</Low>
+    <Close>0.449729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-21</Date>
+    <Open>0.449729</Open>
+    <High>0.452724</High>
+    <Low>0.430653</Low>
+    <Close>0.436842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-22</Date>
+    <Open>0.436842</Open>
+    <High>0.450902</High>
+    <Low>0.423459</Low>
+    <Close>0.442913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-23</Date>
+    <Open>0.44261</Open>
+    <High>0.459781</High>
+    <Low>0.44201</Low>
+    <Close>0.455764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-24</Date>
+    <Open>0.456019</Open>
+    <High>0.456627</High>
+    <Low>0.445248</Low>
+    <Close>0.44631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-25</Date>
+    <Open>0.446341</Open>
+    <High>0.450494</High>
+    <Low>0.43417</Low>
+    <Close>0.441489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-26</Date>
+    <Open>0.441569</Open>
+    <High>0.446472</High>
+    <Low>0.436756</Low>
+    <Close>0.439199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-27</Date>
+    <Open>0.438799</Open>
+    <High>0.448536</High>
+    <Low>0.433477</Low>
+    <Close>0.436033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-28</Date>
+    <Open>0.436039</Open>
+    <High>0.439152</High>
+    <Low>0.407046</Low>
+    <Close>0.409856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-29</Date>
+    <Open>0.409664</Open>
+    <High>0.413223</High>
+    <Low>0.391059</Low>
+    <Close>0.397941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-30</Date>
+    <Open>0.397904</Open>
+    <High>0.402539</High>
+    <Low>0.380184</Low>
+    <Close>0.386361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2022-12-31</Date>
+    <Open>0.386626</Open>
+    <High>0.391561</High>
+    <Low>0.379277</Low>
+    <Close>0.380685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-01</Date>
+    <Open>0.380884</Open>
+    <High>0.389204</High>
+    <Low>0.375297</Low>
+    <Close>0.388168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-02</Date>
+    <Open>0.388244</Open>
+    <High>0.413356</High>
+    <Low>0.380392</Low>
+    <Close>0.409284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-03</Date>
+    <Open>0.409254</Open>
+    <High>0.413978</High>
+    <Low>0.401651</Low>
+    <Close>0.410413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-04</Date>
+    <Open>0.410325</Open>
+    <High>0.442202</High>
+    <Low>0.410244</Low>
+    <Close>0.430719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-05</Date>
+    <Open>0.430657</Open>
+    <High>0.443969</High>
+    <Low>0.42425</Low>
+    <Close>0.427784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-06</Date>
+    <Open>0.428073</Open>
+    <High>0.433471</High>
+    <Low>0.407076</Low>
+    <Close>0.431667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-07</Date>
+    <Open>0.432061</Open>
+    <High>0.473454</High>
+    <Low>0.428978</Low>
+    <Close>0.453433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-08</Date>
+    <Open>0.452214</Open>
+    <High>0.514349</High>
+    <Low>0.443003</Low>
+    <Close>0.497639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-09</Date>
+    <Open>0.497841</Open>
+    <High>0.542776</High>
+    <Low>0.488216</Low>
+    <Close>0.518894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-10</Date>
+    <Open>0.517685</Open>
+    <High>0.527379</High>
+    <Low>0.504423</Low>
+    <Close>0.515973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-11</Date>
+    <Open>0.51673</Open>
+    <High>0.520184</High>
+    <Low>0.487431</Low>
+    <Close>0.512454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-12</Date>
+    <Open>0.512901</Open>
+    <High>0.544689</High>
+    <Low>0.498077</Low>
+    <Close>0.532149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-13</Date>
+    <Open>0.531852</Open>
+    <High>0.630557</High>
+    <Low>0.524846</Low>
+    <Close>0.611155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-14</Date>
+    <Open>0.611445</Open>
+    <High>0.71197</High>
+    <Low>0.610085</Low>
+    <Close>0.656432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-15</Date>
+    <Open>0.656532</Open>
+    <High>0.753756</High>
+    <Low>0.617941</Low>
+    <Close>0.724046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-16</Date>
+    <Open>0.724189</Open>
+    <High>0.734234</High>
+    <Low>0.667332</Low>
+    <Close>0.704115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-17</Date>
+    <Open>0.704315</Open>
+    <High>0.759308</High>
+    <Low>0.680636</Low>
+    <Close>0.707072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-18</Date>
+    <Open>0.707677</Open>
+    <High>0.754208</High>
+    <Low>0.666058</Low>
+    <Close>0.710089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-19</Date>
+    <Open>0.711927</Open>
+    <High>0.719134</High>
+    <Low>0.676386</Low>
+    <Close>0.702767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-20</Date>
+    <Open>0.701572</Open>
+    <High>0.774425</High>
+    <Low>0.680686</Low>
+    <Close>0.758729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-21</Date>
+    <Open>0.759439</Open>
+    <High>0.836234</High>
+    <Low>0.759439</Low>
+    <Close>0.797625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-22</Date>
+    <Open>0.79645</Open>
+    <High>0.850079</High>
+    <Low>0.766369</Low>
+    <Close>0.79546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-23</Date>
+    <Open>0.795559</Open>
+    <High>0.825624</High>
+    <Low>0.77935</Low>
+    <Close>0.789918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-24</Date>
+    <Open>0.789917</Open>
+    <High>0.806388</High>
+    <Low>0.713491</Low>
+    <Close>0.729493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-25</Date>
+    <Open>0.728822</Open>
+    <High>0.777155</High>
+    <Low>0.705819</Low>
+    <Close>0.747827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-26</Date>
+    <Open>0.747929</Open>
+    <High>0.766833</High>
+    <Low>0.71715</Low>
+    <Close>0.73656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-27</Date>
+    <Open>0.736625</Open>
+    <High>0.758314</High>
+    <Low>0.711488</Low>
+    <Close>0.73895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-28</Date>
+    <Open>0.73865</Open>
+    <High>0.777145</High>
+    <Low>0.723546</Low>
+    <Close>0.732638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-29</Date>
+    <Open>0.732748</Open>
+    <High>0.80004</High>
+    <Low>0.725766</Low>
+    <Close>0.787438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-30</Date>
+    <Open>0.787968</Open>
+    <High>0.80664</High>
+    <Low>0.703616</Low>
+    <Close>0.716549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-01-31</Date>
+    <Open>0.721365</Open>
+    <High>0.738753</High>
+    <Low>0.710555</Low>
+    <Close>0.732265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-01</Date>
+    <Open>0.73246</Open>
+    <High>0.773792</High>
+    <Low>0.6853</Low>
+    <Close>0.761645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-02</Date>
+    <Open>0.761547</Open>
+    <High>0.79848</High>
+    <Low>0.734946</Low>
+    <Close>0.752459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-03</Date>
+    <Open>0.752251</Open>
+    <High>0.775033</High>
+    <Low>0.740718</Low>
+    <Close>0.763562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-04</Date>
+    <Open>0.764162</Open>
+    <High>0.807464</High>
+    <Low>0.747951</Low>
+    <Close>0.780269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-05</Date>
+    <Open>0.778754</Open>
+    <High>0.782569</High>
+    <Low>0.716415</Low>
+    <Close>0.733782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-06</Date>
+    <Open>0.733576</Open>
+    <High>0.744793</High>
+    <Low>0.710128</Low>
+    <Close>0.71703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-07</Date>
+    <Open>0.716943</Open>
+    <High>0.927229</High>
+    <Low>0.6997</Low>
+    <Close>0.892653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-08</Date>
+    <Open>0.892761</Open>
+    <High>0.941302</High>
+    <Low>0.812606</Low>
+    <Close>0.848269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-09</Date>
+    <Open>0.848569</Open>
+    <High>0.859244</High>
+    <Low>0.707983</Low>
+    <Close>0.718465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-10</Date>
+    <Open>0.719073</Open>
+    <High>0.755675</High>
+    <Low>0.712451</Low>
+    <Close>0.728908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-11</Date>
+    <Open>0.728756</Open>
+    <High>0.750829</High>
+    <Low>0.72314</Low>
+    <Close>0.744967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-12</Date>
+    <Open>0.744566</Open>
+    <High>0.749278</High>
+    <Low>0.684996</Low>
+    <Close>0.705069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-13</Date>
+    <Open>0.705572</Open>
+    <High>0.706464</High>
+    <Low>0.652285</Low>
+    <Close>0.673062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-14</Date>
+    <Open>0.67317</Open>
+    <High>0.722581</High>
+    <Low>0.662816</Low>
+    <Close>0.708868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-15</Date>
+    <Open>0.709085</Open>
+    <High>0.76885</High>
+    <Low>0.692978</Low>
+    <Close>0.751343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-16</Date>
+    <Open>0.750444</Open>
+    <High>0.808246</High>
+    <Low>0.720085</Low>
+    <Close>0.721946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-17</Date>
+    <Open>0.720246</Open>
+    <High>0.768131</High>
+    <Low>0.715879</Low>
+    <Close>0.763377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-18</Date>
+    <Open>0.764316</Open>
+    <High>0.788548</High>
+    <Low>0.753517</Low>
+    <Close>0.76473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-19</Date>
+    <Open>0.764721</Open>
+    <High>0.832563</High>
+    <Low>0.759813</Low>
+    <Close>0.792385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-20</Date>
+    <Open>0.792543</Open>
+    <High>0.891079</High>
+    <Low>0.750631</Low>
+    <Close>0.829965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-21</Date>
+    <Open>0.829683</Open>
+    <High>0.84743</High>
+    <Low>0.767878</Low>
+    <Close>0.777046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-22</Date>
+    <Open>0.777733</Open>
+    <High>0.787627</High>
+    <Low>0.732258</Low>
+    <Close>0.752701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-23</Date>
+    <Open>0.766147</Open>
+    <High>0.779448</High>
+    <Low>0.74304</Low>
+    <Close>0.754754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-24</Date>
+    <Open>0.754805</Open>
+    <High>0.766445</High>
+    <Low>0.705008</Low>
+    <Close>0.713394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-25</Date>
+    <Open>0.713592</Open>
+    <High>0.724357</High>
+    <Low>0.670901</Low>
+    <Close>0.702148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-26</Date>
+    <Open>0.702269</Open>
+    <High>0.723357</High>
+    <Low>0.700343</Low>
+    <Close>0.712116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-27</Date>
+    <Open>0.712135</Open>
+    <High>0.732545</High>
+    <Low>0.694969</Low>
+    <Close>0.711411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-02-28</Date>
+    <Open>0.711337</Open>
+    <High>0.718864</High>
+    <Low>0.677677</Low>
+    <Close>0.685789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-01</Date>
+    <Open>0.685531</Open>
+    <High>0.714156</High>
+    <Low>0.675902</Low>
+    <Close>0.70079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-02</Date>
+    <Open>0.700697</Open>
+    <High>0.709745</High>
+    <Low>0.673275</Low>
+    <Close>0.691163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-03</Date>
+    <Open>0.691156</Open>
+    <High>0.692461</High>
+    <Low>0.605641</Low>
+    <Close>0.638746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-04</Date>
+    <Open>0.640537</Open>
+    <High>0.657738</High>
+    <Low>0.604955</Low>
+    <Close>0.614742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-05</Date>
+    <Open>0.613949</Open>
+    <High>0.639919</High>
+    <Low>0.613744</Low>
+    <Close>0.617769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-06</Date>
+    <Open>0.617718</Open>
+    <High>0.639881</High>
+    <Low>0.59909</Low>
+    <Close>0.630055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-07</Date>
+    <Open>0.630863</Open>
+    <High>0.635688</High>
+    <Low>0.590616</Low>
+    <Close>0.601769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-08</Date>
+    <Open>0.601671</Open>
+    <High>0.612699</High>
+    <Low>0.561536</Low>
+    <Close>0.569465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-09</Date>
+    <Open>0.569844</Open>
+    <High>0.589612</High>
+    <Low>0.519885</Low>
+    <Close>0.528954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-10</Date>
+    <Open>0.528854</Open>
+    <High>0.541016</High>
+    <Low>0.505116</Low>
+    <Close>0.53932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-11</Date>
+    <Open>0.539604</Open>
+    <High>0.557152</High>
+    <Low>0.512377</Low>
+    <Close>0.526638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-12</Date>
+    <Open>0.526657</Open>
+    <High>0.586986</High>
+    <Low>0.518326</Low>
+    <Close>0.575027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-13</Date>
+    <Open>0.575405</Open>
+    <High>0.628289</High>
+    <Low>0.562655</Low>
+    <Close>0.62378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-14</Date>
+    <Open>0.623276</Open>
+    <High>0.670363</High>
+    <Low>0.600786</Low>
+    <Close>0.63992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-15</Date>
+    <Open>0.64476</Open>
+    <High>0.656198</High>
+    <Low>0.572492</Low>
+    <Close>0.587695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-16</Date>
+    <Open>0.587971</Open>
+    <High>0.603086</High>
+    <Low>0.577349</Low>
+    <Close>0.59546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-17</Date>
+    <Open>0.595554</Open>
+    <High>0.688377</High>
+    <Low>0.589902</Low>
+    <Close>0.678825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-18</Date>
+    <Open>0.678832</Open>
+    <High>0.725572</High>
+    <Low>0.666495</Low>
+    <Close>0.676261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-19</Date>
+    <Open>0.676261</Open>
+    <High>0.706498</High>
+    <Low>0.666199</Low>
+    <Close>0.693774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-20</Date>
+    <Open>0.692994</Open>
+    <High>0.716309</High>
+    <Low>0.645542</Low>
+    <Close>0.666044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-21</Date>
+    <Open>0.665746</Open>
+    <High>0.689333</High>
+    <Low>0.627645</Low>
+    <Close>0.672087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-22</Date>
+    <Open>0.672087</Open>
+    <High>0.677157</High>
+    <Low>0.622514</Low>
+    <Close>0.633597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-23</Date>
+    <Open>0.633632</Open>
+    <High>0.673892</High>
+    <Low>0.629302</Low>
+    <Close>0.657872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-24</Date>
+    <Open>0.657822</Open>
+    <High>0.664425</High>
+    <Low>0.617807</Low>
+    <Close>0.631651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-25</Date>
+    <Open>0.631771</Open>
+    <High>0.643939</High>
+    <Low>0.614379</Low>
+    <Close>0.621695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-26</Date>
+    <Open>0.621603</Open>
+    <High>0.640444</High>
+    <Low>0.618471</Low>
+    <Close>0.629349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-27</Date>
+    <Open>0.628491</Open>
+    <High>0.635316</High>
+    <Low>0.580546</Low>
+    <Close>0.590244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-28</Date>
+    <Open>0.590078</Open>
+    <High>0.617261</High>
+    <Low>0.587716</Low>
+    <Close>0.610037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-29</Date>
+    <Open>0.610139</Open>
+    <High>0.647651</High>
+    <Low>0.609864</Low>
+    <Close>0.641615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-30</Date>
+    <Open>0.641899</Open>
+    <High>0.641992</High>
+    <Low>0.606195</Low>
+    <Close>0.615273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-03-31</Date>
+    <Open>0.615371</Open>
+    <High>0.631937</High>
+    <Low>0.602714</Low>
+    <Close>0.629425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-01</Date>
+    <Open>0.629425</Open>
+    <High>0.632885</High>
+    <Low>0.618504</Low>
+    <Close>0.630526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-02</Date>
+    <Open>0.629234</Open>
+    <High>0.645284</High>
+    <Low>0.607513</Low>
+    <Close>0.61128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-03</Date>
+    <Open>0.61148</Open>
+    <High>0.63118</High>
+    <Low>0.596596</Low>
+    <Close>0.612069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-04</Date>
+    <Open>0.609644</Open>
+    <High>0.641176</High>
+    <Low>0.609539</Low>
+    <Close>0.635872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-05</Date>
+    <Open>0.635917</Open>
+    <High>0.650449</High>
+    <Low>0.626839</Low>
+    <Close>0.642832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-06</Date>
+    <Open>0.642909</Open>
+    <High>0.659525</High>
+    <Low>0.628524</Low>
+    <Close>0.633523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-07</Date>
+    <Open>0.633623</Open>
+    <High>0.661377</High>
+    <Low>0.629325</Low>
+    <Close>0.651206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-08</Date>
+    <Open>0.653854</Open>
+    <High>0.657828</High>
+    <Low>0.634456</Low>
+    <Close>0.636449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-09</Date>
+    <Open>0.636349</Open>
+    <High>0.641333</High>
+    <Low>0.622068</Low>
+    <Close>0.640328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-10</Date>
+    <Open>0.640328</Open>
+    <High>0.651097</High>
+    <Low>0.626033</Low>
+    <Close>0.650321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-11</Date>
+    <Open>0.650305</Open>
+    <High>0.659128</High>
+    <Low>0.646156</Low>
+    <Close>0.648466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-12</Date>
+    <Open>0.64854</Open>
+    <High>0.672564</High>
+    <Low>0.62114</Low>
+    <Close>0.645502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-13</Date>
+    <Open>0.645503</Open>
+    <High>0.668502</High>
+    <Low>0.641529</Low>
+    <Close>0.664638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-14</Date>
+    <Open>0.665039</Open>
+    <High>0.692006</High>
+    <Low>0.65355</Low>
+    <Close>0.682665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-15</Date>
+    <Open>0.682558</Open>
+    <High>0.703377</High>
+    <Low>0.678332</Low>
+    <Close>0.683315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-16</Date>
+    <Open>0.682813</Open>
+    <High>0.698022</High>
+    <Low>0.669981</Low>
+    <Close>0.695887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-17</Date>
+    <Open>0.695974</Open>
+    <High>0.698077</High>
+    <Low>0.671682</Low>
+    <Close>0.680587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-18</Date>
+    <Open>0.680526</Open>
+    <High>0.71573</High>
+    <Low>0.679655</Low>
+    <Close>0.69752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-19</Date>
+    <Open>0.697728</Open>
+    <High>0.705336</High>
+    <Low>0.625584</Low>
+    <Close>0.646548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-20</Date>
+    <Open>0.646556</Open>
+    <High>0.647612</High>
+    <Low>0.60584</Low>
+    <Close>0.613499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-21</Date>
+    <Open>0.613044</Open>
+    <High>0.620762</High>
+    <Low>0.579085</Low>
+    <Close>0.586534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-22</Date>
+    <Open>0.586336</Open>
+    <High>0.602571</High>
+    <Low>0.582067</Low>
+    <Close>0.595308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-23</Date>
+    <Open>0.596942</Open>
+    <High>0.602791</High>
+    <Low>0.572095</Low>
+    <Close>0.57793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-24</Date>
+    <Open>0.577802</Open>
+    <High>0.598642</High>
+    <Low>0.57421</Low>
+    <Close>0.585362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-25</Date>
+    <Open>0.582916</Open>
+    <High>0.588559</High>
+    <Low>0.565592</Low>
+    <Close>0.583735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-26</Date>
+    <Open>0.597211</Open>
+    <High>0.61702</High>
+    <Low>0.544144</Low>
+    <Close>0.573785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-27</Date>
+    <Open>0.575085</Open>
+    <High>0.595652</High>
+    <Low>0.570517</Low>
+    <Close>0.589105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-28</Date>
+    <Open>0.588994</Open>
+    <High>0.592344</High>
+    <Low>0.573947</Low>
+    <Close>0.584951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-29</Date>
+    <Open>0.584249</Open>
+    <High>0.59601</High>
+    <Low>0.583907</Low>
+    <Close>0.593051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-04-30</Date>
+    <Open>0.593051</Open>
+    <High>0.593937</High>
+    <Low>0.573305</Low>
+    <Close>0.578284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-01</Date>
+    <Open>0.578279</Open>
+    <High>0.582261</High>
+    <Low>0.551417</Low>
+    <Close>0.558498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-02</Date>
+    <Open>0.556844</Open>
+    <High>0.57229</High>
+    <Low>0.551712</Low>
+    <Close>0.568345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-03</Date>
+    <Open>0.568446</Open>
+    <High>0.584674</High>
+    <Low>0.547585</Low>
+    <Close>0.582686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-04</Date>
+    <Open>0.581656</Open>
+    <High>0.584713</High>
+    <Low>0.561145</Low>
+    <Close>0.56243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-05</Date>
+    <Open>0.562607</Open>
+    <High>0.5805</High>
+    <Low>0.560065</Low>
+    <Close>0.576225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-06</Date>
+    <Open>0.577069</Open>
+    <High>0.580936</High>
+    <Low>0.540552</Low>
+    <Close>0.54735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-07</Date>
+    <Open>0.547268</Open>
+    <High>0.553658</High>
+    <Low>0.543999</Low>
+    <Close>0.547732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-08</Date>
+    <Open>0.547961</Open>
+    <High>0.549553</High>
+    <Low>0.491873</Low>
+    <Close>0.504582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-09</Date>
+    <Open>0.504331</Open>
+    <High>0.514008</High>
+    <Low>0.502101</Low>
+    <Close>0.506723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-10</Date>
+    <Open>0.506917</Open>
+    <High>0.524018</High>
+    <Low>0.487658</Low>
+    <Close>0.516917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-11</Date>
+    <Open>0.515716</Open>
+    <High>0.518966</High>
+    <Low>0.483934</Low>
+    <Close>0.496797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-12</Date>
+    <Open>0.496797</Open>
+    <High>0.5062</High>
+    <Low>0.47894</Low>
+    <Close>0.505481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-13</Date>
+    <Open>0.505605</Open>
+    <High>0.508364</High>
+    <Low>0.498341</Low>
+    <Close>0.500852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-14</Date>
+    <Open>0.501652</Open>
+    <High>0.509099</High>
+    <Low>0.494348</Low>
+    <Close>0.501302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-15</Date>
+    <Open>0.501101</Open>
+    <High>0.513959</High>
+    <Low>0.495596</Low>
+    <Close>0.506525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-16</Date>
+    <Open>0.506477</Open>
+    <High>0.515107</High>
+    <Low>0.493844</Low>
+    <Close>0.513606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-17</Date>
+    <Open>0.513506</Open>
+    <High>0.540634</High>
+    <Low>0.511757</Low>
+    <Close>0.536916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-18</Date>
+    <Open>0.531313</Open>
+    <High>0.539178</High>
+    <Low>0.513243</Low>
+    <Close>0.528512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-19</Date>
+    <Open>0.528911</Open>
+    <High>0.542271</High>
+    <Low>0.524457</Low>
+    <Close>0.530958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-20</Date>
+    <Open>0.530866</Open>
+    <High>0.534613</High>
+    <Low>0.525424</Low>
+    <Close>0.528176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-21</Date>
+    <Open>0.528376</Open>
+    <High>0.530353</High>
+    <Low>0.511709</Low>
+    <Close>0.513509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-22</Date>
+    <Open>0.513509</Open>
+    <High>0.519526</High>
+    <Low>0.502402</Low>
+    <Close>0.515156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-23</Date>
+    <Open>0.515394</Open>
+    <High>0.527285</High>
+    <Low>0.507109</Low>
+    <Close>0.51143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-24</Date>
+    <Open>0.511657</Open>
+    <High>0.512057</High>
+    <Low>0.47959</Low>
+    <Close>0.497869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-25</Date>
+    <Open>0.497476</Open>
+    <High>0.524244</High>
+    <Low>0.479089</Low>
+    <Close>0.5068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-26</Date>
+    <Open>0.506802</Open>
+    <High>0.519702</High>
+    <Low>0.495625</Low>
+    <Close>0.516487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-27</Date>
+    <Open>0.516593</Open>
+    <High>0.524488</High>
+    <Low>0.510154</Low>
+    <Close>0.521594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SAND">
+    <Date>2023-05-28</Date>
+    <Open>0.521822</Open>
+    <High>0.573502</High>
+    <Low>0.521729</Low>
+    <Close>0.553528</Close>
+  </Cryptocurrency>
+</Root>

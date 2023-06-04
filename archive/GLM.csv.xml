@@ -1,0 +1,2677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-13</Date>
+    <Open>0.238594</Open>
+    <High>0.238594</High>
+    <Low>0.238546</Low>
+    <Close>0.23857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-14</Date>
+    <Open>0.229463</Open>
+    <High>0.24985</High>
+    <Low>0.229463</Low>
+    <Close>0.248152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-15</Date>
+    <Open>0.247253</Open>
+    <High>0.264482</High>
+    <Low>0.244757</Low>
+    <Close>0.264456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-16</Date>
+    <Open>0.26668</Open>
+    <High>0.274398</High>
+    <Low>0.247828</Low>
+    <Close>0.25644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-17</Date>
+    <Open>0.256966</Open>
+    <High>0.266979</High>
+    <Low>0.252246</Low>
+    <Close>0.266979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-18</Date>
+    <Open>0.268178</Open>
+    <High>0.333766</High>
+    <Low>0.265927</Low>
+    <Close>0.279636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-19</Date>
+    <Open>0.280934</Open>
+    <High>0.283831</High>
+    <Low>0.233995</Low>
+    <Close>0.258741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-20</Date>
+    <Open>0.259167</Open>
+    <High>0.267532</High>
+    <Low>0.241909</Low>
+    <Close>0.250299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-21</Date>
+    <Open>0.2496</Open>
+    <High>0.254594</High>
+    <Low>0.243483</Low>
+    <Close>0.25357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-22</Date>
+    <Open>0.252146</Open>
+    <High>0.273471</High>
+    <Low>0.250748</Low>
+    <Close>0.263284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-23</Date>
+    <Open>0.265381</Open>
+    <High>0.291679</High>
+    <Low>0.264782</Low>
+    <Close>0.26598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-24</Date>
+    <Open>0.264056</Open>
+    <High>0.264083</High>
+    <Low>0.240811</Low>
+    <Close>0.25377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-25</Date>
+    <Open>0.259436</Open>
+    <High>0.263157</High>
+    <Low>0.248601</Low>
+    <Close>0.257317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-26</Date>
+    <Open>0.257516</Open>
+    <High>0.270902</High>
+    <Low>0.235641</Low>
+    <Close>0.250524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-27</Date>
+    <Open>0.24935</Open>
+    <High>0.263536</High>
+    <Low>0.23654</Low>
+    <Close>0.246953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-28</Date>
+    <Open>0.245617</Open>
+    <High>0.249925</High>
+    <Low>0.242796</Low>
+    <Close>0.249508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-29</Date>
+    <Open>0.248324</Open>
+    <High>0.253244</High>
+    <Low>0.242823</Low>
+    <Close>0.249126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-30</Date>
+    <Open>0.252015</Open>
+    <High>0.277805</High>
+    <Low>0.251933</Low>
+    <Close>0.275707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-05-31</Date>
+    <Open>0.276179</Open>
+    <High>0.28737</High>
+    <Low>0.264388</Low>
+    <Close>0.271782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-01</Date>
+    <Open>0.271907</Open>
+    <High>0.342891</High>
+    <Low>0.262111</Low>
+    <Close>0.264635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-02</Date>
+    <Open>0.264861</Open>
+    <High>0.404036</High>
+    <Low>0.264835</Low>
+    <Close>0.360076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-03</Date>
+    <Open>0.360675</Open>
+    <High>0.365171</High>
+    <Low>0.306293</Low>
+    <Close>0.314326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-04</Date>
+    <Open>0.315026</Open>
+    <High>0.339843</High>
+    <Low>0.293935</Low>
+    <Close>0.300574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-05</Date>
+    <Open>0.302527</Open>
+    <High>0.315947</High>
+    <Low>0.28824</Low>
+    <Close>0.299818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-06</Date>
+    <Open>0.299824</Open>
+    <High>0.3155</High>
+    <Low>0.2946</Low>
+    <Close>0.3048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-07</Date>
+    <Open>0.3048</Open>
+    <High>0.3119</High>
+    <Low>0.2815</Low>
+    <Close>0.2978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-08</Date>
+    <Open>0.2988</Open>
+    <High>0.2994</High>
+    <Low>0.2831</Low>
+    <Close>0.288013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-09</Date>
+    <Open>0.286414</Open>
+    <High>0.304659</High>
+    <Low>0.286414</Low>
+    <Close>0.295052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-10</Date>
+    <Open>0.297553</Open>
+    <High>0.297556</High>
+    <Low>0.268234</Low>
+    <Close>0.274251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-11</Date>
+    <Open>0.272853</Open>
+    <High>0.2801</High>
+    <Low>0.243415</Low>
+    <Close>0.250015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-12</Date>
+    <Open>0.25172</Open>
+    <High>0.253913</High>
+    <Low>0.227277</Low>
+    <Close>0.240801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-13</Date>
+    <Open>0.238404</Open>
+    <High>0.241105</High>
+    <Low>0.1914</Low>
+    <Close>0.2013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-14</Date>
+    <Open>0.2027</Open>
+    <High>0.2084</High>
+    <Low>0.1736</Low>
+    <Close>0.1949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-15</Date>
+    <Open>0.1931</Open>
+    <High>0.2194</High>
+    <Low>0.1746</Low>
+    <Close>0.2144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-16</Date>
+    <Open>0.213401</Open>
+    <High>0.245729</High>
+    <Low>0.204854</Low>
+    <Close>0.211703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-17</Date>
+    <Open>0.201524</Open>
+    <High>0.2249</High>
+    <Low>0.201524</Low>
+    <Close>0.218637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-18</Date>
+    <Open>0.2192</Open>
+    <High>0.224335</High>
+    <Low>0.187385</Low>
+    <Close>0.198079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-19</Date>
+    <Open>0.197679</Open>
+    <High>0.219436</High>
+    <Low>0.187221</Low>
+    <Close>0.215941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-20</Date>
+    <Open>0.217339</Open>
+    <High>0.225674</High>
+    <Low>0.20743</Low>
+    <Close>0.220757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-21</Date>
+    <Open>0.220635</Open>
+    <High>0.250224</High>
+    <Low>0.219059</Low>
+    <Close>0.235964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-22</Date>
+    <Open>0.2326</Open>
+    <High>0.2362</High>
+    <Low>0.2242</Low>
+    <Close>0.2261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-23</Date>
+    <Open>0.2265</Open>
+    <High>0.240259</High>
+    <Low>0.2258</Low>
+    <Close>0.23946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-24</Date>
+    <Open>0.23956</Open>
+    <High>0.251009</High>
+    <Low>0.23956</Low>
+    <Close>0.250804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-25</Date>
+    <Open>0.24995</Open>
+    <High>0.254645</High>
+    <Low>0.241631</Low>
+    <Close>0.250924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-26</Date>
+    <Open>0.251331</Open>
+    <High>0.253328</High>
+    <Low>0.243256</Low>
+    <Close>0.24635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-27</Date>
+    <Open>0.245553</Open>
+    <High>0.263989</High>
+    <Low>0.237852</Low>
+    <Close>0.24468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-28</Date>
+    <Open>0.244965</Open>
+    <High>0.26356</High>
+    <Low>0.240864</Low>
+    <Close>0.24351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-29</Date>
+    <Open>0.243797</Open>
+    <High>0.245198</High>
+    <Low>0.225286</Low>
+    <Close>0.232918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-06-30</Date>
+    <Open>0.232521</Open>
+    <High>0.246004</High>
+    <Low>0.207815</Low>
+    <Close>0.217838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-01</Date>
+    <Open>0.218138</Open>
+    <High>0.252371</High>
+    <Low>0.217239</Low>
+    <Close>0.229547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-02</Date>
+    <Open>0.230047</Open>
+    <High>0.231345</High>
+    <Low>0.219936</Low>
+    <Close>0.226927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-03</Date>
+    <Open>0.226927</Open>
+    <High>0.237091</High>
+    <Low>0.218216</Low>
+    <Close>0.231798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-04</Date>
+    <Open>0.231199</Open>
+    <High>0.248177</High>
+    <Low>0.224508</Low>
+    <Close>0.240112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-05</Date>
+    <Open>0.239812</Open>
+    <High>0.2496</High>
+    <Low>0.232421</Low>
+    <Close>0.241934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-06</Date>
+    <Open>0.241634</Open>
+    <High>0.244031</High>
+    <Low>0.234342</Low>
+    <Close>0.238937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-07</Date>
+    <Open>0.24131</Open>
+    <High>0.248526</High>
+    <Low>0.237738</Low>
+    <Close>0.247751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-08</Date>
+    <Open>0.247177</Open>
+    <High>0.258045</High>
+    <Low>0.242454</Low>
+    <Close>0.250624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-09</Date>
+    <Open>0.24975</Open>
+    <High>0.254547</High>
+    <Low>0.242954</Low>
+    <Close>0.253848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-10</Date>
+    <Open>0.253722</Open>
+    <High>0.257545</High>
+    <Low>0.243654</Low>
+    <Close>0.251849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-11</Date>
+    <Open>0.250949</Open>
+    <High>0.257845</High>
+    <Low>0.240807</Low>
+    <Close>0.243481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-12</Date>
+    <Open>0.242581</Open>
+    <High>0.24945</High>
+    <Low>0.22937</Low>
+    <Close>0.230569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-13</Date>
+    <Open>0.232458</Open>
+    <High>0.234265</High>
+    <Low>0.219181</Low>
+    <Close>0.229793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-14</Date>
+    <Open>0.230462</Open>
+    <High>0.242035</High>
+    <Low>0.219714</Low>
+    <Close>0.235708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-15</Date>
+    <Open>0.235708</Open>
+    <High>0.245677</High>
+    <Low>0.228</Low>
+    <Close>0.239058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-16</Date>
+    <Open>0.239078</Open>
+    <High>0.247071</High>
+    <Low>0.230271</Low>
+    <Close>0.241442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-17</Date>
+    <Open>0.241437</Open>
+    <High>0.245963</High>
+    <Low>0.232633</Low>
+    <Close>0.238716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-18</Date>
+    <Open>0.234983</Open>
+    <High>0.254412</High>
+    <Low>0.231899</Low>
+    <Close>0.245873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-19</Date>
+    <Open>0.245821</Open>
+    <High>0.261473</High>
+    <Low>0.239966</Low>
+    <Close>0.257641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-20</Date>
+    <Open>0.25682</Open>
+    <High>0.267017</High>
+    <Low>0.247608</Low>
+    <Close>0.250873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-21</Date>
+    <Open>0.25088</Open>
+    <High>0.256924</High>
+    <Low>0.237482</Low>
+    <Close>0.252278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-22</Date>
+    <Open>0.25131</Open>
+    <High>0.260516</High>
+    <Low>0.24299</Low>
+    <Close>0.254736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-23</Date>
+    <Open>0.25467</Open>
+    <High>0.260847</High>
+    <Low>0.244007</Low>
+    <Close>0.25251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-24</Date>
+    <Open>0.252435</Open>
+    <High>0.259905</High>
+    <Low>0.246005</Low>
+    <Close>0.254831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-25</Date>
+    <Open>0.254878</Open>
+    <High>0.258153</High>
+    <Low>0.231933</Low>
+    <Close>0.238429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-26</Date>
+    <Open>0.237861</Open>
+    <High>0.246925</High>
+    <Low>0.223574</Low>
+    <Close>0.233025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-27</Date>
+    <Open>0.233125</Open>
+    <High>0.251178</High>
+    <Low>0.229711</Low>
+    <Close>0.245056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-28</Date>
+    <Open>0.245309</Open>
+    <High>0.259826</High>
+    <Low>0.23779</Low>
+    <Close>0.254661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-29</Date>
+    <Open>0.254663</Open>
+    <High>0.26048</High>
+    <Low>0.243224</Low>
+    <Close>0.250873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-30</Date>
+    <Open>0.250883</Open>
+    <High>0.267067</High>
+    <Low>0.247156</Low>
+    <Close>0.260066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-07-31</Date>
+    <Open>0.259998</Open>
+    <High>0.275296</High>
+    <Low>0.249957</Low>
+    <Close>0.264531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-01</Date>
+    <Open>0.264986</Open>
+    <High>0.281634</High>
+    <Low>0.253809</Low>
+    <Close>0.273747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-02</Date>
+    <Open>0.27503</Open>
+    <High>0.28109</High>
+    <Low>0.254539</Low>
+    <Close>0.263605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-03</Date>
+    <Open>0.263605</Open>
+    <High>0.269659</High>
+    <Low>0.24993</Low>
+    <Close>0.263586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-04</Date>
+    <Open>0.263591</Open>
+    <High>0.266506</High>
+    <Low>0.256164</Low>
+    <Close>0.259513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-05</Date>
+    <Open>0.259448</Open>
+    <High>0.272064</High>
+    <Low>0.258531</Low>
+    <Close>0.266921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-06</Date>
+    <Open>0.266923</Open>
+    <High>0.276659</High>
+    <Low>0.266417</Low>
+    <Close>0.271462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-07</Date>
+    <Open>0.27151</Open>
+    <High>0.27605</High>
+    <Low>0.262939</Low>
+    <Close>0.272779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-08</Date>
+    <Open>0.272189</Open>
+    <High>0.276056</High>
+    <Low>0.266765</Low>
+    <Close>0.273623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-09</Date>
+    <Open>0.272923</Open>
+    <High>0.27694</High>
+    <Low>0.25103</Low>
+    <Close>0.261282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-10</Date>
+    <Open>0.259845</Open>
+    <High>0.272474</High>
+    <Low>0.251298</Low>
+    <Close>0.272469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-11</Date>
+    <Open>0.270458</Open>
+    <High>0.415399</High>
+    <Low>0.269191</Low>
+    <Close>0.314848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-12</Date>
+    <Open>0.314057</Open>
+    <High>0.316558</High>
+    <Low>0.288715</Low>
+    <Close>0.296136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-13</Date>
+    <Open>0.296095</Open>
+    <High>0.297832</High>
+    <Low>0.287695</Low>
+    <Close>0.289233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-14</Date>
+    <Open>0.289393</Open>
+    <High>0.313751</High>
+    <Low>0.281336</Low>
+    <Close>0.287306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-15</Date>
+    <Open>0.287162</Open>
+    <High>0.318519</High>
+    <Low>0.277177</Low>
+    <Close>0.284958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-16</Date>
+    <Open>0.284941</Open>
+    <High>0.31469</High>
+    <Low>0.279019</Low>
+    <Close>0.297947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-17</Date>
+    <Open>0.297617</Open>
+    <High>0.315006</High>
+    <Low>0.281504</Low>
+    <Close>0.286833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-18</Date>
+    <Open>0.28681</Open>
+    <High>0.310022</High>
+    <Low>0.283541</Low>
+    <Close>0.293026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-19</Date>
+    <Open>0.293139</Open>
+    <High>0.29669</High>
+    <Low>0.25299</Low>
+    <Close>0.253725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-20</Date>
+    <Open>0.255073</Open>
+    <High>0.265069</High>
+    <Low>0.249868</Low>
+    <Close>0.252267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-21</Date>
+    <Open>0.252255</Open>
+    <High>0.268897</High>
+    <Low>0.251557</Low>
+    <Close>0.264322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-22</Date>
+    <Open>0.264255</Open>
+    <High>0.264946</High>
+    <Low>0.244488</Low>
+    <Close>0.251475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-23</Date>
+    <Open>0.25204</Open>
+    <High>0.258057</High>
+    <Low>0.246318</Low>
+    <Close>0.254435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-24</Date>
+    <Open>0.254697</Open>
+    <High>0.262153</High>
+    <Low>0.249873</Low>
+    <Close>0.259551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-25</Date>
+    <Open>0.259513</Open>
+    <High>0.269057</High>
+    <Low>0.25387</Low>
+    <Close>0.261708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-26</Date>
+    <Open>0.26166</Open>
+    <High>0.265414</High>
+    <Low>0.245602</Low>
+    <Close>0.248802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-27</Date>
+    <Open>0.248125</Open>
+    <High>0.265241</High>
+    <Low>0.234336</Low>
+    <Close>0.241127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-28</Date>
+    <Open>0.237317</Open>
+    <High>0.254083</High>
+    <Low>0.237317</Low>
+    <Close>0.244788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-29</Date>
+    <Open>0.24506</Open>
+    <High>0.258977</High>
+    <Low>0.232138</Low>
+    <Close>0.246347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-30</Date>
+    <Open>0.247295</Open>
+    <High>0.25258</High>
+    <Low>0.237827</Low>
+    <Close>0.242709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-08-31</Date>
+    <Open>0.242799</Open>
+    <High>0.250523</High>
+    <Low>0.241699</Low>
+    <Close>0.245288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-01</Date>
+    <Open>0.245505</Open>
+    <High>0.25462</High>
+    <Low>0.233893</Low>
+    <Close>0.240338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-02</Date>
+    <Open>0.24039</Open>
+    <High>0.253585</High>
+    <Low>0.235884</Low>
+    <Close>0.240746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-03</Date>
+    <Open>0.240799</Open>
+    <High>0.243014</High>
+    <Low>0.2342</Low>
+    <Close>0.239044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-04</Date>
+    <Open>0.23913</Open>
+    <High>0.24241</High>
+    <Low>0.2313</Low>
+    <Close>0.238174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-05</Date>
+    <Open>0.23815</Open>
+    <High>0.24231</High>
+    <Low>0.22989</Low>
+    <Close>0.235484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-06</Date>
+    <Open>0.235524</Open>
+    <High>0.245325</High>
+    <Low>0.21981</Low>
+    <Close>0.22473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-07</Date>
+    <Open>0.224776</Open>
+    <High>0.232468</High>
+    <Low>0.216161</Low>
+    <Close>0.230676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-08</Date>
+    <Open>0.23065</Open>
+    <High>0.438835</High>
+    <Low>0.226624</Low>
+    <Close>0.307546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-09</Date>
+    <Open>0.307243</Open>
+    <High>0.338658</High>
+    <Low>0.266561</Low>
+    <Close>0.271692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-10</Date>
+    <Open>0.270911</Open>
+    <High>0.30906</High>
+    <Low>0.269695</Low>
+    <Close>0.279556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-11</Date>
+    <Open>0.279753</Open>
+    <High>0.409567</High>
+    <Low>0.274602</Low>
+    <Close>0.323178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-12</Date>
+    <Open>0.324481</Open>
+    <High>0.54007</High>
+    <Low>0.305373</Low>
+    <Close>0.410282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-13</Date>
+    <Open>0.409782</Open>
+    <High>0.414791</High>
+    <Low>0.324948</Low>
+    <Close>0.350107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-14</Date>
+    <Open>0.346207</Open>
+    <High>0.34959</High>
+    <Low>0.3029</Low>
+    <Close>0.310201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-15</Date>
+    <Open>0.310562</Open>
+    <High>0.399124</High>
+    <Low>0.290806</Low>
+    <Close>0.343099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-16</Date>
+    <Open>0.336893</Open>
+    <High>0.355282</High>
+    <Low>0.291242</Low>
+    <Close>0.2974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-17</Date>
+    <Open>0.29757</Open>
+    <High>0.314269</High>
+    <Low>0.2962</Low>
+    <Close>0.30363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-18</Date>
+    <Open>0.30294</Open>
+    <High>0.30908</High>
+    <Low>0.270173</Low>
+    <Close>0.27329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-19</Date>
+    <Open>0.273193</Open>
+    <High>0.30311</High>
+    <Low>0.265743</Low>
+    <Close>0.283908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-20</Date>
+    <Open>0.284757</Open>
+    <High>0.292659</High>
+    <Low>0.272917</Low>
+    <Close>0.27597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-21</Date>
+    <Open>0.27663</Open>
+    <High>0.29871</High>
+    <Low>0.269427</Low>
+    <Close>0.27218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-22</Date>
+    <Open>0.27364</Open>
+    <High>0.28426</High>
+    <Low>0.2656</Low>
+    <Close>0.278092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-23</Date>
+    <Open>0.278118</Open>
+    <High>0.28998</High>
+    <Low>0.266343</Low>
+    <Close>0.274333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-24</Date>
+    <Open>0.273838</Open>
+    <High>0.285141</High>
+    <Low>0.26939</Low>
+    <Close>0.276512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-25</Date>
+    <Open>0.276548</Open>
+    <High>0.278946</High>
+    <Low>0.26763</Low>
+    <Close>0.26844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-26</Date>
+    <Open>0.268903</Open>
+    <High>0.277258</High>
+    <Low>0.254895</Low>
+    <Close>0.2688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-27</Date>
+    <Open>0.26881</Open>
+    <High>0.28003</High>
+    <Low>0.25792</Low>
+    <Close>0.262674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-28</Date>
+    <Open>0.26278</Open>
+    <High>0.266753</High>
+    <Low>0.254435</Low>
+    <Close>0.26363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-29</Date>
+    <Open>0.26361</Open>
+    <High>0.264914</High>
+    <Low>0.25492</Low>
+    <Close>0.261426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-09-30</Date>
+    <Open>0.261426</Open>
+    <High>0.267047</High>
+    <Low>0.256056</Low>
+    <Close>0.25994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-01</Date>
+    <Open>0.25962</Open>
+    <High>0.30418</High>
+    <Low>0.25684</Low>
+    <Close>0.2769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-02</Date>
+    <Open>0.2768</Open>
+    <High>0.27863</High>
+    <Low>0.25832</Low>
+    <Close>0.26212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-03</Date>
+    <Open>0.26188</Open>
+    <High>0.271647</High>
+    <Low>0.25361</Low>
+    <Close>0.262996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-04</Date>
+    <Open>0.263436</Open>
+    <High>0.267904</High>
+    <Low>0.257486</Low>
+    <Close>0.26601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-05</Date>
+    <Open>0.26603</Open>
+    <High>0.26789</High>
+    <Low>0.257556</Low>
+    <Close>0.263256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-06</Date>
+    <Open>0.263303</Open>
+    <High>0.271335</High>
+    <Low>0.261581</Low>
+    <Close>0.264435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-07</Date>
+    <Open>0.265195</Open>
+    <High>0.280263</High>
+    <Low>0.258865</Low>
+    <Close>0.26624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-08</Date>
+    <Open>0.266247</Open>
+    <High>0.293108</High>
+    <Low>0.263616</Low>
+    <Close>0.271381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-09</Date>
+    <Open>0.271441</Open>
+    <High>0.274687</High>
+    <Low>0.261716</Low>
+    <Close>0.268684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-10</Date>
+    <Open>0.268704</Open>
+    <High>0.28333</High>
+    <Low>0.263774</Low>
+    <Close>0.267103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-11</Date>
+    <Open>0.267133</Open>
+    <High>0.26719</High>
+    <Low>0.253587</Low>
+    <Close>0.256097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-12</Date>
+    <Open>0.256139</Open>
+    <High>0.258866</High>
+    <Low>0.250815</Low>
+    <Close>0.25645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-13</Date>
+    <Open>0.256458</Open>
+    <High>0.258217</High>
+    <Low>0.230505</Low>
+    <Close>0.24977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-14</Date>
+    <Open>0.25005</Open>
+    <High>0.258916</High>
+    <Low>0.248072</Low>
+    <Close>0.253678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-15</Date>
+    <Open>0.253708</Open>
+    <High>0.25925</High>
+    <Low>0.248552</Low>
+    <Close>0.252558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-16</Date>
+    <Open>0.25249</Open>
+    <High>0.254565</High>
+    <Low>0.247682</Low>
+    <Close>0.252583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-17</Date>
+    <Open>0.25227</Open>
+    <High>0.295973</High>
+    <Low>0.242333</Low>
+    <Close>0.263705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-18</Date>
+    <Open>0.263685</Open>
+    <High>0.283541</High>
+    <Low>0.256593</Low>
+    <Close>0.260503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-19</Date>
+    <Open>0.261743</Open>
+    <High>0.27719</High>
+    <Low>0.258183</Low>
+    <Close>0.26284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-20</Date>
+    <Open>0.263477</Open>
+    <High>0.263958</High>
+    <Low>0.250872</Low>
+    <Close>0.253252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-21</Date>
+    <Open>0.253522</Open>
+    <High>0.265509</High>
+    <Low>0.244413</Low>
+    <Close>0.25591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-22</Date>
+    <Open>0.257821</Open>
+    <High>0.259628</High>
+    <Low>0.25196</Low>
+    <Close>0.25434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-23</Date>
+    <Open>0.25504</Open>
+    <High>0.262894</High>
+    <Low>0.249662</Low>
+    <Close>0.257226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-24</Date>
+    <Open>0.256768</Open>
+    <High>0.261236</High>
+    <Low>0.251243</Low>
+    <Close>0.258203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-25</Date>
+    <Open>0.258148</Open>
+    <High>0.268274</High>
+    <Low>0.25487</Low>
+    <Close>0.266013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-26</Date>
+    <Open>0.265065</Open>
+    <High>0.28608</High>
+    <Low>0.262082</Low>
+    <Close>0.272856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-27</Date>
+    <Open>0.272684</Open>
+    <High>0.277165</High>
+    <Low>0.267534</Low>
+    <Close>0.269976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-28</Date>
+    <Open>0.269916</Open>
+    <High>0.273577</High>
+    <Low>0.260946</Low>
+    <Close>0.270224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-29</Date>
+    <Open>0.270154</Open>
+    <High>0.276705</High>
+    <Low>0.267141</Low>
+    <Close>0.272363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-30</Date>
+    <Open>0.272785</Open>
+    <High>0.274825</High>
+    <Low>0.266503</Low>
+    <Close>0.271047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-10-31</Date>
+    <Open>0.27106</Open>
+    <High>0.282486</High>
+    <Low>0.263678</Low>
+    <Close>0.274438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-01</Date>
+    <Open>0.274484</Open>
+    <High>0.280327</High>
+    <Low>0.273645</Low>
+    <Close>0.274913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-02</Date>
+    <Open>0.273645</Open>
+    <High>0.273745</High>
+    <Low>0.261984</Low>
+    <Close>0.264981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-03</Date>
+    <Open>0.265387</Open>
+    <High>0.285366</High>
+    <Low>0.264687</Low>
+    <Close>0.272397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-04</Date>
+    <Open>0.2719</Open>
+    <High>0.28772</High>
+    <Low>0.271173</Low>
+    <Close>0.287617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-05</Date>
+    <Open>0.289226</Open>
+    <High>0.291835</High>
+    <Low>0.284803</Low>
+    <Close>0.285714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-06</Date>
+    <Open>0.284617</Open>
+    <High>0.286114</High>
+    <Low>0.278317</Low>
+    <Close>0.278608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-07</Date>
+    <Open>0.278028</Open>
+    <High>0.279025</High>
+    <Low>0.270614</Low>
+    <Close>0.272333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-08</Date>
+    <Open>0.272682</Open>
+    <High>0.2762</High>
+    <Low>0.213577</Low>
+    <Close>0.231091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-09</Date>
+    <Open>0.23069</Open>
+    <High>0.239335</High>
+    <Low>0.179483</Low>
+    <Close>0.185877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-10</Date>
+    <Open>0.184077</Open>
+    <High>0.225802</High>
+    <Low>0.175611</Low>
+    <Close>0.215903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-11</Date>
+    <Open>0.215599</Open>
+    <High>0.243633</High>
+    <Low>0.192759</Low>
+    <Close>0.202422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-12</Date>
+    <Open>0.203181</Open>
+    <High>0.211885</High>
+    <Low>0.195647</Low>
+    <Close>0.200339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-13</Date>
+    <Open>0.203733</Open>
+    <High>0.209191</High>
+    <Low>0.186788</Low>
+    <Close>0.193029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-14</Date>
+    <Open>0.191931</Open>
+    <High>0.196405</High>
+    <Low>0.176053</Low>
+    <Close>0.191531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-15</Date>
+    <Open>0.19273</Open>
+    <High>0.222377</High>
+    <Low>0.192711</Low>
+    <Close>0.204295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-16</Date>
+    <Open>0.204552</Open>
+    <High>0.221922</High>
+    <Low>0.202381</Low>
+    <Close>0.205209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-17</Date>
+    <Open>0.208312</Open>
+    <High>0.20962</High>
+    <Low>0.196231</Low>
+    <Close>0.202238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-18</Date>
+    <Open>0.202935</Open>
+    <High>0.219917</High>
+    <Low>0.201932</Low>
+    <Close>0.20836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-19</Date>
+    <Open>0.208456</Open>
+    <High>0.219456</High>
+    <Low>0.20676</Low>
+    <Close>0.218273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-20</Date>
+    <Open>0.218168</Open>
+    <High>0.23263</High>
+    <Low>0.202538</Low>
+    <Close>0.203293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-21</Date>
+    <Open>0.202987</Open>
+    <High>0.205487</High>
+    <Low>0.193805</Low>
+    <Close>0.199061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-22</Date>
+    <Open>0.19966</Open>
+    <High>0.204556</High>
+    <Low>0.190969</Low>
+    <Close>0.204552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-23</Date>
+    <Open>0.206032</Open>
+    <High>0.217063</High>
+    <Low>0.206032</Low>
+    <Close>0.216761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-24</Date>
+    <Open>0.217267</Open>
+    <High>0.224253</High>
+    <Low>0.203125</Low>
+    <Close>0.218916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-25</Date>
+    <Open>0.218912</Open>
+    <High>0.227734</High>
+    <Low>0.214543</Low>
+    <Close>0.220876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-26</Date>
+    <Open>0.223768</Open>
+    <High>0.225067</High>
+    <Low>0.218766</Low>
+    <Close>0.218969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-27</Date>
+    <Open>0.221769</Open>
+    <High>0.221969</High>
+    <Low>0.217356</Low>
+    <Close>0.218864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-28</Date>
+    <Open>0.216789</Open>
+    <High>0.216802</High>
+    <Low>0.208281</Low>
+    <Close>0.210318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-29</Date>
+    <Open>0.211902</Open>
+    <High>0.218717</High>
+    <Low>0.211902</Low>
+    <Close>0.217917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-11-30</Date>
+    <Open>0.21773</Open>
+    <High>0.236436</High>
+    <Low>0.216928</Low>
+    <Close>0.227914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-01</Date>
+    <Open>0.227516</Open>
+    <High>0.229123</High>
+    <Low>0.221909</Low>
+    <Close>0.223813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-02</Date>
+    <Open>0.224716</Open>
+    <High>0.228223</High>
+    <Low>0.218522</Low>
+    <Close>0.227109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-03</Date>
+    <Open>0.227014</Open>
+    <High>0.228323</High>
+    <Low>0.223145</Low>
+    <Close>0.223522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-04</Date>
+    <Open>0.223045</Open>
+    <High>0.225045</High>
+    <Low>0.221422</Low>
+    <Close>0.224045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-05</Date>
+    <Open>0.223945</Open>
+    <High>0.226523</High>
+    <Low>0.220802</Low>
+    <Close>0.221807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-06</Date>
+    <Open>0.221807</Open>
+    <High>0.25002</High>
+    <Low>0.2191</Low>
+    <Close>0.228195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-07</Date>
+    <Open>0.224998</Open>
+    <High>0.226209</High>
+    <Low>0.210111</Low>
+    <Close>0.2173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-08</Date>
+    <Open>0.219004</Open>
+    <High>0.225105</High>
+    <Low>0.216996</Low>
+    <Close>0.221918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-09</Date>
+    <Open>0.222418</Open>
+    <High>0.228502</High>
+    <Low>0.219811</Low>
+    <Close>0.219907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-10</Date>
+    <Open>0.222485</Open>
+    <High>0.2463</High>
+    <Low>0.220296</Low>
+    <Close>0.229595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-11</Date>
+    <Open>0.2316</Open>
+    <High>0.233498</High>
+    <Low>0.226898</Low>
+    <Close>0.227323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-12</Date>
+    <Open>0.225445</Open>
+    <High>0.225945</High>
+    <Low>0.215619</Low>
+    <Close>0.21922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-13</Date>
+    <Open>0.221524</Open>
+    <High>0.230136</High>
+    <Low>0.215686</Low>
+    <Close>0.228645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-14</Date>
+    <Open>0.228247</Open>
+    <High>0.232953</High>
+    <Low>0.226818</Low>
+    <Close>0.227116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-15</Date>
+    <Open>0.227623</Open>
+    <High>0.228746</High>
+    <Low>0.219722</Low>
+    <Close>0.222122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-16</Date>
+    <Open>0.222022</Open>
+    <High>0.222622</High>
+    <Low>0.206841</Low>
+    <Close>0.208242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-17</Date>
+    <Open>0.204741</Open>
+    <High>0.210127</High>
+    <Low>0.185011</Low>
+    <Close>0.193625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-18</Date>
+    <Open>0.19611</Open>
+    <High>0.205016</High>
+    <Low>0.189813</Low>
+    <Close>0.193023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-19</Date>
+    <Open>0.196528</Open>
+    <High>0.200322</High>
+    <Low>0.185196</Low>
+    <Close>0.185206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-20</Date>
+    <Open>0.184994</Open>
+    <High>0.205812</High>
+    <Low>0.180796</Low>
+    <Close>0.195708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-21</Date>
+    <Open>0.193008</Open>
+    <High>0.2041</High>
+    <Low>0.1924</Low>
+    <Close>0.19511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-22</Date>
+    <Open>0.195304</Open>
+    <High>0.2045</High>
+    <Low>0.194075</Low>
+    <Close>0.19797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-23</Date>
+    <Open>0.196674</Open>
+    <High>0.20097</High>
+    <Low>0.196169</Low>
+    <Close>0.198978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-24</Date>
+    <Open>0.199584</Open>
+    <High>0.202482</High>
+    <Low>0.19658</Low>
+    <Close>0.197986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-25</Date>
+    <Open>0.196588</Open>
+    <High>0.199482</High>
+    <Low>0.194367</Low>
+    <Close>0.196171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-26</Date>
+    <Open>0.196282</Open>
+    <High>0.196582</High>
+    <Low>0.189877</Low>
+    <Close>0.192162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-27</Date>
+    <Open>0.193261</Open>
+    <High>0.193955</High>
+    <Low>0.188426</Low>
+    <Close>0.188628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-28</Date>
+    <Open>0.19052</Open>
+    <High>0.19052</High>
+    <Low>0.177804</Low>
+    <Close>0.177806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-29</Date>
+    <Open>0.178111</Open>
+    <High>0.179528</High>
+    <Low>0.173103</Low>
+    <Close>0.175021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-30</Date>
+    <Open>0.177017</Open>
+    <High>0.191322</High>
+    <Low>0.172714</Low>
+    <Close>0.182305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2022-12-31</Date>
+    <Open>0.179014</Open>
+    <High>0.179616</High>
+    <Low>0.174413</Low>
+    <Close>0.17911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-01</Date>
+    <Open>0.177809</Open>
+    <High>0.180428</High>
+    <Low>0.17361</Low>
+    <Close>0.179317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-02</Date>
+    <Open>0.180119</Open>
+    <High>0.183134</High>
+    <Low>0.176726</Low>
+    <Close>0.182442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-03</Date>
+    <Open>0.182044</Open>
+    <High>0.182044</High>
+    <Low>0.177627</Low>
+    <Close>0.178332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-04</Date>
+    <Open>0.17863</Open>
+    <High>0.185226</High>
+    <Low>0.178429</Low>
+    <Close>0.184039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-05</Date>
+    <Open>0.183541</Open>
+    <High>0.184846</High>
+    <Low>0.181942</Low>
+    <Close>0.184032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-06</Date>
+    <Open>0.182829</Open>
+    <High>0.185126</High>
+    <Low>0.180106</Low>
+    <Close>0.183643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-07</Date>
+    <Open>0.183051</Open>
+    <High>0.18675</High>
+    <Low>0.182866</Low>
+    <Close>0.184454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-08</Date>
+    <Open>0.185272</Open>
+    <High>0.186774</High>
+    <Low>0.182164</Low>
+    <Close>0.18607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-09</Date>
+    <Open>0.187466</Open>
+    <High>0.1956</High>
+    <Low>0.187466</Low>
+    <Close>0.192398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-10</Date>
+    <Open>0.1928</Open>
+    <High>0.206881</High>
+    <Low>0.1915</Low>
+    <Close>0.198728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-11</Date>
+    <Open>0.198428</Open>
+    <High>0.199306</High>
+    <Low>0.193688</Low>
+    <Close>0.199298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-12</Date>
+    <Open>0.199182</Open>
+    <High>0.207919</High>
+    <Low>0.19798</Low>
+    <Close>0.20182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-13</Date>
+    <Open>0.203414</Open>
+    <High>0.213423</High>
+    <Low>0.20112</Low>
+    <Close>0.212019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-14</Date>
+    <Open>0.213817</Open>
+    <High>0.225495</High>
+    <Low>0.210523</Low>
+    <Close>0.220209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-15</Date>
+    <Open>0.220122</Open>
+    <High>0.260139</High>
+    <Low>0.216522</Low>
+    <Close>0.225365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-16</Date>
+    <Open>0.225168</Open>
+    <High>0.237293</High>
+    <Low>0.219202</Low>
+    <Close>0.226705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-17</Date>
+    <Open>0.227307</Open>
+    <High>0.228611</High>
+    <Low>0.221802</Low>
+    <Close>0.226725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-18</Date>
+    <Open>0.225025</Open>
+    <High>0.268324</High>
+    <Low>0.211775</Low>
+    <Close>0.212289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-19</Date>
+    <Open>0.212589</Open>
+    <High>0.225993</High>
+    <Low>0.210394</Low>
+    <Close>0.218493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-20</Date>
+    <Open>0.218315</Open>
+    <High>0.229746</High>
+    <Low>0.214998</Low>
+    <Close>0.229539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-21</Date>
+    <Open>0.229741</Open>
+    <High>0.242265</High>
+    <Low>0.227768</Low>
+    <Close>0.234335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-22</Date>
+    <Open>0.233847</Open>
+    <High>0.234845</High>
+    <Low>0.227036</Low>
+    <Close>0.229144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-23</Date>
+    <Open>0.229344</Open>
+    <High>0.235614</High>
+    <Low>0.228721</Low>
+    <Close>0.23324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-24</Date>
+    <Open>0.232837</Open>
+    <High>0.248427</High>
+    <Low>0.232637</Low>
+    <Close>0.234312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-25</Date>
+    <Open>0.233819</Open>
+    <High>0.238343</High>
+    <Low>0.216524</Low>
+    <Close>0.23684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-26</Date>
+    <Open>0.23564</Open>
+    <High>0.238643</High>
+    <Low>0.232905</Low>
+    <Close>0.236919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-27</Date>
+    <Open>0.236321</Open>
+    <High>0.266953</High>
+    <Low>0.233668</Low>
+    <Close>0.246696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-28</Date>
+    <Open>0.247384</Open>
+    <High>0.259044</High>
+    <Low>0.239755</Low>
+    <Close>0.244349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-29</Date>
+    <Open>0.244651</Open>
+    <High>0.249207</High>
+    <Low>0.243168</Low>
+    <Close>0.248417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-30</Date>
+    <Open>0.248505</Open>
+    <High>0.249412</High>
+    <Low>0.228402</Low>
+    <Close>0.229516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-01-31</Date>
+    <Open>0.229214</Open>
+    <High>0.235102</High>
+    <Low>0.227786</Low>
+    <Close>0.232721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-01</Date>
+    <Open>0.232512</Open>
+    <High>0.240222</High>
+    <Low>0.225705</Low>
+    <Close>0.239612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-02</Date>
+    <Open>0.239412</Open>
+    <High>0.251225</High>
+    <Low>0.238436</Low>
+    <Close>0.242849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-03</Date>
+    <Open>0.242751</Open>
+    <High>0.257341</High>
+    <Low>0.241741</Low>
+    <Close>0.248017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-04</Date>
+    <Open>0.24802</Open>
+    <High>0.273919</High>
+    <Low>0.24762</Low>
+    <Close>0.267124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-05</Date>
+    <Open>0.267421</Open>
+    <High>0.304461</High>
+    <Low>0.249355</Low>
+    <Close>0.255364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-06</Date>
+    <Open>0.254266</Open>
+    <High>0.267654</High>
+    <Low>0.251697</Low>
+    <Close>0.255008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-07</Date>
+    <Open>0.255508</Open>
+    <High>0.263582</High>
+    <Low>0.243505</Low>
+    <Close>0.257015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-08</Date>
+    <Open>0.257013</Open>
+    <High>0.270122</High>
+    <Low>0.25701</Low>
+    <Close>0.262421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-09</Date>
+    <Open>0.262216</Open>
+    <High>0.266584</High>
+    <Low>0.246437</Low>
+    <Close>0.247325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-10</Date>
+    <Open>0.248117</Open>
+    <High>0.255549</High>
+    <Low>0.239448</Low>
+    <Close>0.243734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-11</Date>
+    <Open>0.244429</Open>
+    <High>0.247722</High>
+    <Low>0.244427</Low>
+    <Close>0.247622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-12</Date>
+    <Open>0.248125</Open>
+    <High>0.24873</High>
+    <Low>0.241734</Low>
+    <Close>0.242724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-13</Date>
+    <Open>0.241424</Open>
+    <High>0.2451</High>
+    <Low>0.228007</Low>
+    <Close>0.233424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-14</Date>
+    <Open>0.233829</Open>
+    <High>0.242697</High>
+    <Low>0.229987</Low>
+    <Close>0.240391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-15</Date>
+    <Open>0.241277</Open>
+    <High>0.259047</High>
+    <Low>0.239389</Low>
+    <Close>0.258947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-16</Date>
+    <Open>0.257741</Open>
+    <High>0.263824</High>
+    <Low>0.253941</Low>
+    <Close>0.255279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-17</Date>
+    <Open>0.255136</Open>
+    <High>0.267421</High>
+    <Low>0.252825</Low>
+    <Close>0.264324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-18</Date>
+    <Open>0.262734</Open>
+    <High>0.265772</High>
+    <Low>0.259936</Low>
+    <Close>0.264724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-19</Date>
+    <Open>0.265242</Open>
+    <High>0.266243</High>
+    <Low>0.257362</Low>
+    <Close>0.26206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-20</Date>
+    <Open>0.262476</Open>
+    <High>0.280736</High>
+    <Low>0.252976</Low>
+    <Close>0.271608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-21</Date>
+    <Open>0.271311</Open>
+    <High>0.291932</High>
+    <Low>0.26075</Low>
+    <Close>0.271546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-22</Date>
+    <Open>0.272038</Open>
+    <High>0.288249</High>
+    <Low>0.259021</Low>
+    <Close>0.270719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-23</Date>
+    <Open>0.271003</Open>
+    <High>0.276914</High>
+    <Low>0.26505</Low>
+    <Close>0.267938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-24</Date>
+    <Open>0.26774</Open>
+    <High>0.295156</High>
+    <Low>0.267729</Low>
+    <Close>0.276897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-25</Date>
+    <Open>0.2763</Open>
+    <High>0.291517</High>
+    <Low>0.266724</Low>
+    <Close>0.273019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-26</Date>
+    <Open>0.272919</Open>
+    <High>0.278622</High>
+    <Low>0.268951</Low>
+    <Close>0.276322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-27</Date>
+    <Open>0.276114</Open>
+    <High>0.278733</High>
+    <Low>0.263424</Low>
+    <Close>0.270222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-02-28</Date>
+    <Open>0.270116</Open>
+    <High>0.271505</High>
+    <Low>0.263353</Low>
+    <Close>0.264253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-01</Date>
+    <Open>0.264456</Open>
+    <High>0.274705</High>
+    <Low>0.26241</Low>
+    <Close>0.270532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-02</Date>
+    <Open>0.272138</Open>
+    <High>0.273933</High>
+    <Low>0.260797</Low>
+    <Close>0.267724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-03</Date>
+    <Open>0.267924</Open>
+    <High>0.268211</High>
+    <Low>0.24419</Low>
+    <Close>0.247015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-04</Date>
+    <Open>0.24702</Open>
+    <High>0.265313</High>
+    <Low>0.24571</Low>
+    <Close>0.251918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-05</Date>
+    <Open>0.252418</Open>
+    <High>0.252418</High>
+    <Low>0.246315</Low>
+    <Close>0.248527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-06</Date>
+    <Open>0.24853</Open>
+    <High>0.2526</High>
+    <Low>0.2407</Low>
+    <Close>0.244985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-07</Date>
+    <Open>0.244973</Open>
+    <High>0.24858</High>
+    <Low>0.231965</Low>
+    <Close>0.236812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-08</Date>
+    <Open>0.236598</Open>
+    <High>0.237409</High>
+    <Low>0.222289</Low>
+    <Close>0.222391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-09</Date>
+    <Open>0.222273</Open>
+    <High>0.222676</High>
+    <Low>0.204723</Low>
+    <Close>0.205221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-10</Date>
+    <Open>0.205118</Open>
+    <High>0.20606</High>
+    <Low>0.195398</Low>
+    <Close>0.206045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-11</Date>
+    <Open>0.205834</Open>
+    <High>0.215626</High>
+    <Low>0.196359</Low>
+    <Close>0.210359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-12</Date>
+    <Open>0.210039</Open>
+    <High>0.224038</High>
+    <Low>0.204803</Low>
+    <Close>0.219672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-13</Date>
+    <Open>0.219921</Open>
+    <High>0.237857</High>
+    <Low>0.21606</Low>
+    <Close>0.236062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-14</Date>
+    <Open>0.236038</Open>
+    <High>0.24922</High>
+    <Low>0.230097</Low>
+    <Close>0.242864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-15</Date>
+    <Open>0.244136</Open>
+    <High>0.249662</High>
+    <Low>0.225597</Low>
+    <Close>0.230277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-16</Date>
+    <Open>0.230149</Open>
+    <High>0.25659</High>
+    <Low>0.22961</Low>
+    <Close>0.253006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-17</Date>
+    <Open>0.252617</Open>
+    <High>0.26089</High>
+    <Low>0.245855</Low>
+    <Close>0.257871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-18</Date>
+    <Open>0.257668</Open>
+    <High>0.262167</High>
+    <Low>0.244605</Low>
+    <Close>0.25162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-19</Date>
+    <Open>0.250449</Open>
+    <High>0.255472</High>
+    <Low>0.245278</Low>
+    <Close>0.253566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-20</Date>
+    <Open>0.252866</Open>
+    <High>0.264692</High>
+    <Low>0.246716</Low>
+    <Close>0.249402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-21</Date>
+    <Open>0.248303</Open>
+    <High>0.250012</High>
+    <Low>0.235382</Low>
+    <Close>0.246484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-22</Date>
+    <Open>0.246684</Open>
+    <High>0.248891</High>
+    <Low>0.233949</Low>
+    <Close>0.234951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-23</Date>
+    <Open>0.235054</Open>
+    <High>0.244671</High>
+    <Low>0.235054</Low>
+    <Close>0.241623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-24</Date>
+    <Open>0.241499</Open>
+    <High>0.242907</High>
+    <Low>0.233273</Low>
+    <Close>0.234383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-25</Date>
+    <Open>0.234469</Open>
+    <High>0.238333</High>
+    <Low>0.232632</Low>
+    <Close>0.234525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-26</Date>
+    <Open>0.234634</Open>
+    <High>0.237614</High>
+    <Low>0.233326</Low>
+    <Close>0.236667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-27</Date>
+    <Open>0.23666</Open>
+    <High>0.238131</High>
+    <Low>0.22021</Low>
+    <Close>0.223605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-28</Date>
+    <Open>0.222891</Open>
+    <High>0.250498</High>
+    <Low>0.217981</Low>
+    <Close>0.225588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-29</Date>
+    <Open>0.224588</Open>
+    <High>0.241172</High>
+    <Low>0.224588</Low>
+    <Close>0.237343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-30</Date>
+    <Open>0.236447</Open>
+    <High>0.242468</High>
+    <Low>0.231114</Low>
+    <Close>0.242468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-03-31</Date>
+    <Open>0.241065</Open>
+    <High>0.248117</High>
+    <Low>0.230287</Low>
+    <Close>0.239445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-01</Date>
+    <Open>0.239248</Open>
+    <High>0.24449</High>
+    <Low>0.239248</Low>
+    <Close>0.24439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-02</Date>
+    <Open>0.24449</Open>
+    <High>0.255605</High>
+    <Low>0.23566</Low>
+    <Close>0.237147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-03</Date>
+    <Open>0.237247</Open>
+    <High>0.239015</High>
+    <Low>0.22968</Low>
+    <Close>0.230992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-04</Date>
+    <Open>0.23149</Open>
+    <High>0.243268</High>
+    <Low>0.231067</Low>
+    <Close>0.240723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-05</Date>
+    <Open>0.24102</Open>
+    <High>0.256595</High>
+    <Low>0.239289</Low>
+    <Close>0.25129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-06</Date>
+    <Open>0.251093</Open>
+    <High>0.276708</High>
+    <Low>0.249072</Low>
+    <Close>0.260891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-07</Date>
+    <Open>0.261592</Open>
+    <High>0.271035</High>
+    <Low>0.248749</Low>
+    <Close>0.250588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-08</Date>
+    <Open>0.250886</Open>
+    <High>0.253732</High>
+    <Low>0.248186</Low>
+    <Close>0.2513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-09</Date>
+    <Open>0.251098</Open>
+    <High>0.252129</High>
+    <Low>0.242353</Low>
+    <Close>0.248346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-10</Date>
+    <Open>0.248371</Open>
+    <High>0.27633</High>
+    <Low>0.243658</Low>
+    <Close>0.250598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-11</Date>
+    <Open>0.250593</Open>
+    <High>0.256931</High>
+    <Low>0.250593</Low>
+    <Close>0.254049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-12</Date>
+    <Open>0.253751</Open>
+    <High>0.254046</High>
+    <Low>0.244542</Low>
+    <Close>0.248994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-13</Date>
+    <Open>0.248394</Open>
+    <High>0.266837</High>
+    <Low>0.247791</Low>
+    <Close>0.256646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-14</Date>
+    <Open>0.256946</Open>
+    <High>0.260686</High>
+    <Low>0.254085</Low>
+    <Close>0.25813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-15</Date>
+    <Open>0.258309</Open>
+    <High>0.259151</High>
+    <Low>0.254924</Low>
+    <Close>0.256428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-16</Date>
+    <Open>0.25623</Open>
+    <High>0.261185</High>
+    <Low>0.254206</Low>
+    <Close>0.261175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-17</Date>
+    <Open>0.260775</Open>
+    <High>0.260898</High>
+    <Low>0.251143</Low>
+    <Close>0.254012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-18</Date>
+    <Open>0.253567</Open>
+    <High>0.261555</High>
+    <Low>0.250915</Low>
+    <Close>0.257764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-19</Date>
+    <Open>0.257744</Open>
+    <High>0.258949</High>
+    <Low>0.240149</Low>
+    <Close>0.241423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-20</Date>
+    <Open>0.241118</Open>
+    <High>0.259134</High>
+    <Low>0.234391</Low>
+    <Close>0.24692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-21</Date>
+    <Open>0.247817</Open>
+    <High>0.272948</High>
+    <Low>0.239074</Low>
+    <Close>0.239476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-22</Date>
+    <Open>0.239674</Open>
+    <High>0.25128</High>
+    <Low>0.232746</Low>
+    <Close>0.238221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-23</Date>
+    <Open>0.238521</Open>
+    <High>0.241919</High>
+    <Low>0.231772</Low>
+    <Close>0.235212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-24</Date>
+    <Open>0.235212</Open>
+    <High>0.237014</High>
+    <Low>0.226907</Low>
+    <Close>0.231805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-25</Date>
+    <Open>0.232207</Open>
+    <High>0.233726</High>
+    <Low>0.222713</Low>
+    <Close>0.232754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-26</Date>
+    <Open>0.233754</Open>
+    <High>0.240295</High>
+    <Low>0.22507</Low>
+    <Close>0.22938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-27</Date>
+    <Open>0.230474</Open>
+    <High>0.245579</High>
+    <Low>0.229776</Low>
+    <Close>0.236992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-28</Date>
+    <Open>0.236876</Open>
+    <High>0.240179</High>
+    <Low>0.233815</Low>
+    <Close>0.236982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-29</Date>
+    <Open>0.236477</Open>
+    <High>0.239179</High>
+    <Low>0.235693</Low>
+    <Close>0.23744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-04-30</Date>
+    <Open>0.237333</Open>
+    <High>0.237933</High>
+    <Low>0.233943</Low>
+    <Close>0.236335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-01</Date>
+    <Open>0.23663</Open>
+    <High>0.236632</High>
+    <Low>0.225011</Low>
+    <Close>0.227761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-02</Date>
+    <Open>0.228259</Open>
+    <High>0.230138</High>
+    <Low>0.225177</Low>
+    <Close>0.22994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-03</Date>
+    <Open>0.23044</Open>
+    <High>0.23445</High>
+    <Low>0.224458</Low>
+    <Close>0.229762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-04</Date>
+    <Open>0.230553</Open>
+    <High>0.237271</High>
+    <Low>0.229066</Low>
+    <Close>0.234187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-05</Date>
+    <Open>0.234484</Open>
+    <High>0.240603</High>
+    <Low>0.231695</Low>
+    <Close>0.238116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-06</Date>
+    <Open>0.238019</Open>
+    <High>0.240138</High>
+    <Low>0.227948</Low>
+    <Close>0.2301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-07</Date>
+    <Open>0.230601</Open>
+    <High>0.232381</High>
+    <Low>0.228938</Low>
+    <Close>0.23067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-08</Date>
+    <Open>0.230772</Open>
+    <High>0.231075</High>
+    <Low>0.214535</Low>
+    <Close>0.215666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-09</Date>
+    <Open>0.215562</Open>
+    <High>0.219363</High>
+    <Low>0.215337</Low>
+    <Close>0.218118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-10</Date>
+    <Open>0.217198</Open>
+    <High>0.224447</High>
+    <Low>0.216438</Low>
+    <Close>0.220799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-11</Date>
+    <Open>0.220821</Open>
+    <High>0.223423</High>
+    <Low>0.212212</Low>
+    <Close>0.213192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-12</Date>
+    <Open>0.212913</Open>
+    <High>0.214193</High>
+    <Low>0.207204</Low>
+    <Close>0.211269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-13</Date>
+    <Open>0.211169</Open>
+    <High>0.217731</High>
+    <Low>0.210948</Low>
+    <Close>0.215629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-14</Date>
+    <Open>0.215029</Open>
+    <High>0.215129</High>
+    <Low>0.211406</Low>
+    <Close>0.213128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-15</Date>
+    <Open>0.212427</Open>
+    <High>0.216652</High>
+    <Low>0.211406</Low>
+    <Close>0.21653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-16</Date>
+    <Open>0.216393</Open>
+    <High>0.21743</High>
+    <Low>0.213607</Low>
+    <Close>0.214486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-17</Date>
+    <Open>0.214686</Open>
+    <High>0.218409</High>
+    <Low>0.212406</Low>
+    <Close>0.218187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-18</Date>
+    <Open>0.217609</Open>
+    <High>0.218509</High>
+    <Low>0.212285</Low>
+    <Close>0.214886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-19</Date>
+    <Open>0.215286</Open>
+    <High>0.216808</High>
+    <Low>0.213432</Low>
+    <Close>0.214864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-20</Date>
+    <Open>0.214607</Open>
+    <High>0.216351</High>
+    <Low>0.214207</Low>
+    <Close>0.215594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-21</Date>
+    <Open>0.215515</Open>
+    <High>0.219275</High>
+    <Low>0.210926</Low>
+    <Close>0.211127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-22</Date>
+    <Open>0.211406</Open>
+    <High>0.213028</High>
+    <Low>0.207024</Low>
+    <Close>0.210826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-23</Date>
+    <Open>0.211023</Open>
+    <High>0.217915</High>
+    <Low>0.20995</Low>
+    <Close>0.214213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-24</Date>
+    <Open>0.214019</Open>
+    <High>0.214724</High>
+    <Low>0.203088</Low>
+    <Close>0.20469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-25</Date>
+    <Open>0.205484</Open>
+    <High>0.209267</High>
+    <Low>0.20118</Low>
+    <Close>0.205104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-26</Date>
+    <Open>0.205102</Open>
+    <High>0.207164</High>
+    <Low>0.203922</Low>
+    <Close>0.207052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-27</Date>
+    <Open>0.207466</Open>
+    <High>0.208167</High>
+    <Low>0.206066</Low>
+    <Close>0.206977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLM">
+    <Date>2023-05-28</Date>
+    <Open>0.206983</Open>
+    <High>0.211049</High>
+    <Low>0.206483</Low>
+    <Close>0.211046</Close>
+  </Cryptocurrency>
+</Root>

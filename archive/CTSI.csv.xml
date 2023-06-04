@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-14</Date>
+    <Open>0.192372</Open>
+    <High>0.19415</High>
+    <Low>0.165751</Low>
+    <Close>0.181645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-15</Date>
+    <Open>0.181745</Open>
+    <High>0.20691</High>
+    <Low>0.181228</Low>
+    <Close>0.194347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-16</Date>
+    <Open>0.194647</Open>
+    <High>0.202477</High>
+    <Low>0.177968</Low>
+    <Close>0.191151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-17</Date>
+    <Open>0.193548</Open>
+    <High>0.205374</High>
+    <Low>0.18612</Low>
+    <Close>0.203755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-18</Date>
+    <Open>0.203735</Open>
+    <High>0.211525</High>
+    <Low>0.183661</Low>
+    <Close>0.185758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-19</Date>
+    <Open>0.186457</Open>
+    <High>0.199021</High>
+    <Low>0.174925</Low>
+    <Close>0.190928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-20</Date>
+    <Open>0.18941</Open>
+    <High>0.197222</High>
+    <Low>0.177769</Low>
+    <Close>0.18278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-21</Date>
+    <Open>0.18308</Open>
+    <High>0.193348</High>
+    <Low>0.178785</Low>
+    <Close>0.182263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-22</Date>
+    <Open>0.182245</Open>
+    <High>0.196844</High>
+    <Low>0.180665</Low>
+    <Close>0.189972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-23</Date>
+    <Open>0.190571</Open>
+    <High>0.200399</High>
+    <Low>0.178086</Low>
+    <Close>0.180084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-24</Date>
+    <Open>0.179884</Open>
+    <High>0.191651</High>
+    <Low>0.170096</Low>
+    <Close>0.191451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-25</Date>
+    <Open>0.191651</Open>
+    <High>0.193767</High>
+    <Low>0.18288</Low>
+    <Close>0.189073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-26</Date>
+    <Open>0.189073</Open>
+    <High>0.19089</High>
+    <Low>0.171993</Low>
+    <Close>0.183416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-27</Date>
+    <Open>0.183616</Open>
+    <High>0.186214</High>
+    <Low>0.171428</Low>
+    <Close>0.176705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-28</Date>
+    <Open>0.176099</Open>
+    <High>0.18421</High>
+    <Low>0.173583</Low>
+    <Close>0.180389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-29</Date>
+    <Open>0.180185</Open>
+    <High>0.194797</High>
+    <Low>0.174823</Low>
+    <Close>0.192786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-30</Date>
+    <Open>0.193306</Open>
+    <High>0.205992</High>
+    <Low>0.190428</Low>
+    <Close>0.198561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-05-31</Date>
+    <Open>0.19976</Open>
+    <High>0.218247</High>
+    <Low>0.193526</Low>
+    <Close>0.209511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-01</Date>
+    <Open>0.210332</Open>
+    <High>0.216246</High>
+    <Low>0.179402</Low>
+    <Close>0.189329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-02</Date>
+    <Open>0.189329</Open>
+    <High>0.203517</High>
+    <Low>0.187013</Low>
+    <Close>0.20002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-03</Date>
+    <Open>0.19932</Open>
+    <High>0.2126</High>
+    <Low>0.184053</Low>
+    <Close>0.207919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-04</Date>
+    <Open>0.207919</Open>
+    <High>0.226062</High>
+    <Low>0.198733</Low>
+    <Close>0.201347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-05</Date>
+    <Open>0.201349</Open>
+    <High>0.224595</High>
+    <Low>0.196141</Low>
+    <Close>0.220792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-06</Date>
+    <Open>0.220992</Open>
+    <High>0.238699</High>
+    <Low>0.210323</Low>
+    <Close>0.215017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-07</Date>
+    <Open>0.215019</Open>
+    <High>0.267262</High>
+    <Low>0.199832</Low>
+    <Close>0.246997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-08</Date>
+    <Open>0.246702</Open>
+    <High>0.247926</High>
+    <Low>0.216051</Low>
+    <Close>0.235447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-09</Date>
+    <Open>0.235747</Open>
+    <High>0.246807</High>
+    <Low>0.222409</Low>
+    <Close>0.227409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-10</Date>
+    <Open>0.227906</Open>
+    <High>0.243305</High>
+    <Low>0.204475</Low>
+    <Close>0.236896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-11</Date>
+    <Open>0.236397</Open>
+    <High>0.256717</High>
+    <Low>0.215535</Low>
+    <Close>0.223347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-12</Date>
+    <Open>0.223547</Open>
+    <High>0.225645</High>
+    <Low>0.185041</Low>
+    <Close>0.20135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-13</Date>
+    <Open>0.201052</Open>
+    <High>0.201052</High>
+    <Low>0.144788</Low>
+    <Close>0.15778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-14</Date>
+    <Open>0.157682</Open>
+    <High>0.169782</High>
+    <Low>0.147081</Low>
+    <Close>0.151118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-15</Date>
+    <Open>0.150622</Open>
+    <High>0.164619</High>
+    <Low>0.141245</Low>
+    <Close>0.163355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-16</Date>
+    <Open>0.164569</Open>
+    <High>0.166483</High>
+    <Low>0.144127</Low>
+    <Close>0.150105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-17</Date>
+    <Open>0.143301</Open>
+    <High>0.154188</High>
+    <Low>0.142302</Low>
+    <Close>0.14992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-18</Date>
+    <Open>0.1498</Open>
+    <High>0.1515</High>
+    <Low>0.130115</Low>
+    <Close>0.138176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-19</Date>
+    <Open>0.138176</Open>
+    <High>0.154115</High>
+    <Low>0.137</Low>
+    <Close>0.150204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-20</Date>
+    <Open>0.150105</Open>
+    <High>0.160807</High>
+    <Low>0.144612</Low>
+    <Close>0.152432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-21</Date>
+    <Open>0.152417</Open>
+    <High>0.167166</High>
+    <Low>0.151318</Low>
+    <Close>0.158525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-22</Date>
+    <Open>0.158441</Open>
+    <High>0.161039</High>
+    <Low>0.147153</Low>
+    <Close>0.151149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-23</Date>
+    <Open>0.151948</Open>
+    <High>0.163636</High>
+    <Low>0.148152</Low>
+    <Close>0.15944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-24</Date>
+    <Open>0.15964</Open>
+    <High>0.174462</High>
+    <Low>0.158841</Low>
+    <Close>0.168169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-25</Date>
+    <Open>0.168631</Open>
+    <High>0.172584</High>
+    <Low>0.160188</Low>
+    <Close>0.168782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-26</Date>
+    <Open>0.168678</Open>
+    <High>0.178976</High>
+    <Low>0.161005</Low>
+    <Close>0.165098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-27</Date>
+    <Open>0.164701</Open>
+    <High>0.165692</High>
+    <Low>0.153156</Low>
+    <Close>0.155961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-28</Date>
+    <Open>0.156056</Open>
+    <High>0.160955</High>
+    <Low>0.150345</Low>
+    <Close>0.153711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-29</Date>
+    <Open>0.15341</Open>
+    <High>0.16657</High>
+    <Low>0.148417</Low>
+    <Close>0.162505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-06-30</Date>
+    <Open>0.162605</Open>
+    <High>0.1651</High>
+    <Low>0.148608</Low>
+    <Close>0.153216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-01</Date>
+    <Open>0.153316</Open>
+    <High>0.168198</High>
+    <Low>0.149106</Low>
+    <Close>0.149735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-02</Date>
+    <Open>0.14962</Open>
+    <High>0.151034</High>
+    <Low>0.143328</Low>
+    <Close>0.15012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-03</Date>
+    <Open>0.15002</Open>
+    <High>0.150319</High>
+    <Low>0.143713</Low>
+    <Close>0.147907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-04</Date>
+    <Open>0.147907</Open>
+    <High>0.151118</High>
+    <Low>0.143214</Low>
+    <Close>0.14972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-05</Date>
+    <Open>0.14942</Open>
+    <High>0.153915</High>
+    <Low>0.144041</Low>
+    <Close>0.149735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-06</Date>
+    <Open>0.150035</Open>
+    <High>0.156727</High>
+    <Low>0.145839</Low>
+    <Close>0.15463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-07</Date>
+    <Open>0.15483</Open>
+    <High>0.15769</High>
+    <Low>0.150634</Low>
+    <Close>0.156506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-08</Date>
+    <Open>0.156706</Open>
+    <High>0.160571</High>
+    <Low>0.150295</Low>
+    <Close>0.155806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-09</Date>
+    <Open>0.155906</Open>
+    <High>0.165701</High>
+    <Low>0.154492</Low>
+    <Close>0.160604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-10</Date>
+    <Open>0.161203</Open>
+    <High>0.161403</High>
+    <Low>0.150809</Low>
+    <Close>0.154107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-11</Date>
+    <Open>0.153608</Open>
+    <High>0.153608</High>
+    <Low>0.142871</Low>
+    <Close>0.143071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-12</Date>
+    <Open>0.142457</Open>
+    <High>0.143042</High>
+    <Low>0.135564</Low>
+    <Close>0.137462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-13</Date>
+    <Open>0.137568</Open>
+    <High>0.145554</High>
+    <Low>0.130556</Low>
+    <Close>0.143071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-14</Date>
+    <Open>0.143171</Open>
+    <High>0.152778</High>
+    <Low>0.140873</Low>
+    <Close>0.149695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-15</Date>
+    <Open>0.15021</Open>
+    <High>0.167599</High>
+    <Low>0.14951</Low>
+    <Close>0.156553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-16</Date>
+    <Open>0.156853</Open>
+    <High>0.163967</High>
+    <Low>0.155353</Low>
+    <Close>0.159252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-17</Date>
+    <Open>0.159459</Open>
+    <High>0.178448</High>
+    <Low>0.158773</Low>
+    <Close>0.168656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-18</Date>
+    <Open>0.168654</Open>
+    <High>0.174849</High>
+    <Low>0.163543</Low>
+    <Close>0.166962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-19</Date>
+    <Open>0.166962</Open>
+    <High>0.1771</High>
+    <Low>0.165285</Low>
+    <Close>0.175928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-20</Date>
+    <Open>0.1757</Open>
+    <High>0.18162</High>
+    <Low>0.160605</Low>
+    <Close>0.165508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-21</Date>
+    <Open>0.165515</Open>
+    <High>0.168227</High>
+    <Low>0.157806</Low>
+    <Close>0.166642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-22</Date>
+    <Open>0.16664</Open>
+    <High>0.171514</High>
+    <Low>0.15893</Low>
+    <Close>0.161135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-23</Date>
+    <Open>0.1609</Open>
+    <High>0.16583</High>
+    <Low>0.156802</Low>
+    <Close>0.159132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-24</Date>
+    <Open>0.159216</Open>
+    <High>0.163815</High>
+    <Low>0.159216</Low>
+    <Close>0.162431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-25</Date>
+    <Open>0.162381</Open>
+    <High>0.163283</High>
+    <Low>0.149412</Low>
+    <Close>0.151712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-26</Date>
+    <Open>0.151714</Open>
+    <High>0.151821</High>
+    <Low>0.141904</Low>
+    <Close>0.14492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-27</Date>
+    <Open>0.145042</Open>
+    <High>0.155637</High>
+    <Low>0.14459</Low>
+    <Close>0.155037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-28</Date>
+    <Open>0.155537</Open>
+    <High>0.166237</High>
+    <Low>0.152418</Low>
+    <Close>0.164533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-29</Date>
+    <Open>0.164635</Open>
+    <High>0.171691</High>
+    <Low>0.160146</Low>
+    <Close>0.165168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-30</Date>
+    <Open>0.164666</Open>
+    <High>0.179163</High>
+    <Low>0.163856</Low>
+    <Close>0.170558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-07-31</Date>
+    <Open>0.170351</Open>
+    <High>0.177936</High>
+    <Low>0.166048</Low>
+    <Close>0.171539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-01</Date>
+    <Open>0.171541</Open>
+    <High>0.174952</High>
+    <Low>0.165966</Low>
+    <Close>0.169351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-02</Date>
+    <Open>0.169551</Open>
+    <High>0.173266</High>
+    <Low>0.156145</Low>
+    <Close>0.161527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-03</Date>
+    <Open>0.161732</Open>
+    <High>0.164125</High>
+    <Low>0.154239</Low>
+    <Close>0.16134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-04</Date>
+    <Open>0.161337</Open>
+    <High>0.168629</High>
+    <Low>0.157117</Low>
+    <Close>0.16181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-05</Date>
+    <Open>0.161705</Open>
+    <High>0.183318</High>
+    <Low>0.16141</Low>
+    <Close>0.176135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-06</Date>
+    <Open>0.176233</Open>
+    <High>0.180432</High>
+    <Low>0.173326</Low>
+    <Close>0.176439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-07</Date>
+    <Open>0.176541</Open>
+    <High>0.179032</High>
+    <Low>0.168242</Low>
+    <Close>0.178232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-08</Date>
+    <Open>0.178132</Open>
+    <High>0.182629</High>
+    <Low>0.17473</Low>
+    <Close>0.177121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-09</Date>
+    <Open>0.176921</Open>
+    <High>0.192437</High>
+    <Low>0.168927</Low>
+    <Close>0.170734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-10</Date>
+    <Open>0.170834</Open>
+    <High>0.184244</High>
+    <Low>0.164546</Low>
+    <Close>0.182853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-11</Date>
+    <Open>0.183653</Open>
+    <High>0.205182</High>
+    <Low>0.182249</Low>
+    <Close>0.194591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-12</Date>
+    <Open>0.194697</Open>
+    <High>0.197899</High>
+    <Low>0.189395</Low>
+    <Close>0.192589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-13</Date>
+    <Open>0.192787</Open>
+    <High>0.196792</High>
+    <Low>0.185274</Low>
+    <Close>0.190574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-14</Date>
+    <Open>0.190774</Open>
+    <High>0.197465</High>
+    <Low>0.183349</Low>
+    <Close>0.184157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-15</Date>
+    <Open>0.184257</Open>
+    <High>0.189147</High>
+    <Low>0.178448</Low>
+    <Close>0.180943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-16</Date>
+    <Open>0.180742</Open>
+    <High>0.184024</High>
+    <Low>0.176941</Low>
+    <Close>0.179716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-17</Date>
+    <Open>0.179816</Open>
+    <High>0.189025</High>
+    <Low>0.167907</Low>
+    <Close>0.169212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-18</Date>
+    <Open>0.169012</Open>
+    <High>0.17191</High>
+    <Low>0.166305</Low>
+    <Close>0.1684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-19</Date>
+    <Open>0.168417</Open>
+    <High>0.168417</High>
+    <Low>0.1448</Low>
+    <Close>0.1486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-20</Date>
+    <Open>0.148815</Open>
+    <High>0.157816</High>
+    <Low>0.144417</Low>
+    <Close>0.148299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-21</Date>
+    <Open>0.148294</Open>
+    <High>0.157295</High>
+    <Low>0.147596</Low>
+    <Close>0.155397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-22</Date>
+    <Open>0.154797</Open>
+    <High>0.157102</High>
+    <Low>0.14498</Low>
+    <Close>0.146774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-23</Date>
+    <Open>0.147176</Open>
+    <High>0.158078</High>
+    <Low>0.146999</Low>
+    <Close>0.153703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-24</Date>
+    <Open>0.153998</Open>
+    <High>0.157806</High>
+    <Low>0.14959</Low>
+    <Close>0.154114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-25</Date>
+    <Open>0.154212</Open>
+    <High>0.169998</High>
+    <Low>0.150597</Low>
+    <Close>0.155005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-26</Date>
+    <Open>0.155105</Open>
+    <High>0.155794</High>
+    <Low>0.140701</Low>
+    <Close>0.143114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-27</Date>
+    <Open>0.143213</Open>
+    <High>0.143613</High>
+    <Low>0.136616</Low>
+    <Close>0.138704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-28</Date>
+    <Open>0.138823</Open>
+    <High>0.141596</High>
+    <Low>0.13611</Low>
+    <Close>0.13772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-29</Date>
+    <Open>0.137419</Open>
+    <High>0.143156</High>
+    <Low>0.131809</Low>
+    <Close>0.142599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-30</Date>
+    <Open>0.142611</Open>
+    <High>0.146699</High>
+    <Low>0.135415</Low>
+    <Close>0.138911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-08-31</Date>
+    <Open>0.138993</Open>
+    <High>0.14463</High>
+    <Low>0.138492</Low>
+    <Close>0.141879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-01</Date>
+    <Open>0.141889</Open>
+    <High>0.142079</High>
+    <Low>0.134479</Low>
+    <Close>0.140042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-02</Date>
+    <Open>0.140273</Open>
+    <High>0.146202</High>
+    <Low>0.138388</Low>
+    <Close>0.139834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-03</Date>
+    <Open>0.139722</Open>
+    <High>0.14019</High>
+    <Low>0.13594</Low>
+    <Close>0.13741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-04</Date>
+    <Open>0.13754</Open>
+    <High>0.151415</High>
+    <Low>0.13681</Low>
+    <Close>0.1462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-05</Date>
+    <Open>0.1462</Open>
+    <High>0.1471</High>
+    <Low>0.1377</Low>
+    <Close>0.139914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-06</Date>
+    <Open>0.139814</Open>
+    <High>0.1489</High>
+    <Low>0.130687</Low>
+    <Close>0.1316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-07</Date>
+    <Open>0.1315</Open>
+    <High>0.143599</High>
+    <Low>0.128796</Low>
+    <Close>0.141014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-08</Date>
+    <Open>0.14271</Open>
+    <High>0.151312</High>
+    <Low>0.141313</Low>
+    <Close>0.149724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-09</Date>
+    <Open>0.149518</Open>
+    <High>0.15374</High>
+    <Low>0.148319</Low>
+    <Close>0.153252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-10</Date>
+    <Open>0.152455</Open>
+    <High>0.158557</High>
+    <Low>0.151544</Low>
+    <Close>0.153429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-11</Date>
+    <Open>0.153529</Open>
+    <High>0.159441</High>
+    <Low>0.150357</Low>
+    <Close>0.151936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-12</Date>
+    <Open>0.151636</Open>
+    <High>0.161318</High>
+    <Low>0.148925</Low>
+    <Close>0.153328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-13</Date>
+    <Open>0.153328</Open>
+    <High>0.157428</High>
+    <Low>0.142511</Low>
+    <Close>0.145803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-14</Date>
+    <Open>0.145803</Open>
+    <High>0.155506</High>
+    <Low>0.143394</Low>
+    <Close>0.149239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-15</Date>
+    <Open>0.149239</Open>
+    <High>0.151202</High>
+    <Low>0.142746</Low>
+    <Close>0.150286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-16</Date>
+    <Open>0.150389</Open>
+    <High>0.1559</High>
+    <Low>0.146485</Low>
+    <Close>0.153885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-17</Date>
+    <Open>0.154085</Open>
+    <High>0.1609</High>
+    <Low>0.154085</Low>
+    <Close>0.157216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-18</Date>
+    <Open>0.1574</Open>
+    <High>0.1624</High>
+    <Low>0.134887</Low>
+    <Close>0.1387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-19</Date>
+    <Open>0.1388</Open>
+    <High>0.1409</High>
+    <Low>0.135386</Low>
+    <Close>0.139328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-20</Date>
+    <Open>0.139414</Open>
+    <High>0.140628</High>
+    <Low>0.133227</Low>
+    <Close>0.136014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-21</Date>
+    <Open>0.13532</Open>
+    <High>0.13879</High>
+    <Low>0.12874</Low>
+    <Close>0.12994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-22</Date>
+    <Open>0.129963</Open>
+    <High>0.13924</High>
+    <Low>0.12876</Low>
+    <Close>0.13833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-23</Date>
+    <Open>0.138434</Open>
+    <High>0.14449</High>
+    <Low>0.13501</Low>
+    <Close>0.140586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-24</Date>
+    <Open>0.14099</Open>
+    <High>0.144199</High>
+    <Low>0.1382</Low>
+    <Close>0.140133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-25</Date>
+    <Open>0.140084</Open>
+    <High>0.141163</High>
+    <Low>0.136133</Low>
+    <Close>0.136716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-26</Date>
+    <Open>0.13681</Open>
+    <High>0.14019</High>
+    <Low>0.13393</Low>
+    <Close>0.13818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-27</Date>
+    <Open>0.13809</Open>
+    <High>0.14662</High>
+    <Low>0.13708</Low>
+    <Close>0.138486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-28</Date>
+    <Open>0.1387</Open>
+    <High>0.14168</High>
+    <Low>0.133387</Low>
+    <Close>0.14085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-29</Date>
+    <Open>0.14086</Open>
+    <High>0.142134</High>
+    <Low>0.137284</Low>
+    <Close>0.14133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-09-30</Date>
+    <Open>0.14181</Open>
+    <High>0.14472</High>
+    <Low>0.14036</Low>
+    <Close>0.14173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-01</Date>
+    <Open>0.14174</Open>
+    <High>0.144324</High>
+    <Low>0.13972</Low>
+    <Close>0.14073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-02</Date>
+    <Open>0.14042</Open>
+    <High>0.14197</High>
+    <Low>0.1368</Low>
+    <Close>0.13825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-03</Date>
+    <Open>0.138234</Open>
+    <High>0.141588</High>
+    <Low>0.13436</Low>
+    <Close>0.140434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-04</Date>
+    <Open>0.140502</Open>
+    <High>0.14774</High>
+    <Low>0.140444</Low>
+    <Close>0.146784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-05</Date>
+    <Open>0.146784</Open>
+    <High>0.1492</High>
+    <Low>0.141954</Low>
+    <Close>0.143984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-06</Date>
+    <Open>0.144046</Open>
+    <High>0.148329</High>
+    <Low>0.141345</Low>
+    <Close>0.141645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-07</Date>
+    <Open>0.141225</Open>
+    <High>0.144057</High>
+    <Low>0.138363</Low>
+    <Close>0.14341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-08</Date>
+    <Open>0.143604</Open>
+    <High>0.146772</High>
+    <Low>0.142573</Low>
+    <Close>0.142666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-09</Date>
+    <Open>0.142627</Open>
+    <High>0.14646</High>
+    <Low>0.142561</Low>
+    <Close>0.145589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-10</Date>
+    <Open>0.145579</Open>
+    <High>0.148405</High>
+    <Low>0.142362</Low>
+    <Close>0.143136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-11</Date>
+    <Open>0.14315</Open>
+    <High>0.14315</High>
+    <Low>0.13434</Low>
+    <Close>0.135988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-12</Date>
+    <Open>0.135796</Open>
+    <High>0.137257</High>
+    <Low>0.13318</Low>
+    <Close>0.134724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-13</Date>
+    <Open>0.134974</Open>
+    <High>0.135621</High>
+    <Low>0.12218</Low>
+    <Close>0.135611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-14</Date>
+    <Open>0.135611</Open>
+    <High>0.13906</High>
+    <Low>0.129443</Low>
+    <Close>0.129823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-15</Date>
+    <Open>0.129524</Open>
+    <High>0.133767</High>
+    <Low>0.129315</Low>
+    <Close>0.132168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-16</Date>
+    <Open>0.132117</Open>
+    <High>0.137309</High>
+    <Low>0.131331</Low>
+    <Close>0.134695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-17</Date>
+    <Open>0.134545</Open>
+    <High>0.137378</High>
+    <Low>0.134273</Low>
+    <Close>0.135753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-18</Date>
+    <Open>0.136161</Open>
+    <High>0.138581</High>
+    <Low>0.132615</Low>
+    <Close>0.135007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-19</Date>
+    <Open>0.134807</Open>
+    <High>0.135634</High>
+    <Low>0.131293</Low>
+    <Close>0.13353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-20</Date>
+    <Open>0.133089</Open>
+    <High>0.134115</High>
+    <Low>0.128628</Low>
+    <Close>0.129771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-21</Date>
+    <Open>0.129781</Open>
+    <High>0.131237</High>
+    <Low>0.125146</Low>
+    <Close>0.13042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-22</Date>
+    <Open>0.130389</Open>
+    <High>0.133553</High>
+    <Low>0.129239</Low>
+    <Close>0.131542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-23</Date>
+    <Open>0.131481</Open>
+    <High>0.134292</High>
+    <Low>0.129673</Low>
+    <Close>0.133229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-24</Date>
+    <Open>0.133255</Open>
+    <High>0.135402</High>
+    <Low>0.129142</Low>
+    <Close>0.130695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-25</Date>
+    <Open>0.130804</Open>
+    <High>0.136096</High>
+    <Low>0.12954</Low>
+    <Close>0.133427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-26</Date>
+    <Open>0.133474</Open>
+    <High>0.136941</High>
+    <Low>0.13078</Low>
+    <Close>0.135838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-27</Date>
+    <Open>0.135808</Open>
+    <High>0.139599</High>
+    <Low>0.130739</Low>
+    <Close>0.133308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-28</Date>
+    <Open>0.133509</Open>
+    <High>0.138608</High>
+    <Low>0.13041</Low>
+    <Close>0.13672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-29</Date>
+    <Open>0.136747</Open>
+    <High>0.144855</High>
+    <Low>0.136114</Low>
+    <Close>0.142434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-30</Date>
+    <Open>0.142134</Open>
+    <High>0.148131</High>
+    <Low>0.138625</Low>
+    <Close>0.140528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-10-31</Date>
+    <Open>0.140628</Open>
+    <High>0.143329</High>
+    <Low>0.13681</Low>
+    <Close>0.140489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-01</Date>
+    <Open>0.140792</Open>
+    <High>0.142776</High>
+    <Low>0.136673</Low>
+    <Close>0.137386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-02</Date>
+    <Open>0.137685</Open>
+    <High>0.138172</High>
+    <Low>0.128495</Low>
+    <Close>0.129892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-03</Date>
+    <Open>0.129894</Open>
+    <High>0.143489</High>
+    <Low>0.129892</Low>
+    <Close>0.143199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-04</Date>
+    <Open>0.1425</Open>
+    <High>0.171886</High>
+    <Low>0.141401</Low>
+    <Close>0.154211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-05</Date>
+    <Open>0.154511</Open>
+    <High>0.159811</High>
+    <Low>0.150908</Low>
+    <Close>0.152409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-06</Date>
+    <Open>0.152708</Open>
+    <High>0.155003</High>
+    <Low>0.148006</Low>
+    <Close>0.148812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-07</Date>
+    <Open>0.148412</Open>
+    <High>0.158608</High>
+    <Low>0.143414</Low>
+    <Close>0.15122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-08</Date>
+    <Open>0.15193</Open>
+    <High>0.1537</High>
+    <Low>0.110544</Low>
+    <Close>0.120059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-09</Date>
+    <Open>0.119758</Open>
+    <High>0.123779</High>
+    <Low>0.094048</Low>
+    <Close>0.096805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-10</Date>
+    <Open>0.095903</Open>
+    <High>0.124358</High>
+    <Low>0.094116</Low>
+    <Close>0.116989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-11</Date>
+    <Open>0.116754</Open>
+    <High>0.133071</High>
+    <Low>0.106521</Low>
+    <Close>0.109821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-12</Date>
+    <Open>0.109522</Open>
+    <High>0.113767</High>
+    <Low>0.104412</Low>
+    <Close>0.10541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-13</Date>
+    <Open>0.10531</Open>
+    <High>0.107118</High>
+    <Low>0.09967</Low>
+    <Close>0.101158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-14</Date>
+    <Open>0.10016</Open>
+    <High>0.104474</High>
+    <Low>0.094149</Low>
+    <Close>0.102246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-15</Date>
+    <Open>0.102141</Open>
+    <High>0.108192</High>
+    <Low>0.101957</Low>
+    <Close>0.104695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-16</Date>
+    <Open>0.104672</Open>
+    <High>0.109901</High>
+    <Low>0.103902</Low>
+    <Close>0.106002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-17</Date>
+    <Open>0.106102</Open>
+    <High>0.107507</High>
+    <Low>0.10131</Low>
+    <Close>0.104418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-18</Date>
+    <Open>0.104318</Open>
+    <High>0.106316</High>
+    <Low>0.100191</Low>
+    <Close>0.101683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-19</Date>
+    <Open>0.101883</Open>
+    <High>0.105682</High>
+    <Low>0.101474</Low>
+    <Close>0.103992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-20</Date>
+    <Open>0.104106</Open>
+    <High>0.106282</High>
+    <Low>0.099387</Low>
+    <Close>0.100148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-21</Date>
+    <Open>0.100247</Open>
+    <High>0.100446</High>
+    <Low>0.093702</Low>
+    <Close>0.098182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-22</Date>
+    <Open>0.097881</Open>
+    <High>0.102577</High>
+    <Low>0.096284</Low>
+    <Close>0.102175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-23</Date>
+    <Open>0.102275</Open>
+    <High>0.111085</High>
+    <Low>0.101475</Low>
+    <Close>0.106383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-24</Date>
+    <Open>0.106982</Open>
+    <High>0.111004</High>
+    <Low>0.105499</Low>
+    <Close>0.10761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-25</Date>
+    <Open>0.107808</Open>
+    <High>0.108313</High>
+    <Low>0.104633</Low>
+    <Close>0.10764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-26</Date>
+    <Open>0.107936</Open>
+    <High>0.109831</High>
+    <Low>0.105936</Low>
+    <Close>0.106737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-27</Date>
+    <Open>0.106637</Open>
+    <High>0.110627</High>
+    <Low>0.106438</Low>
+    <Close>0.109932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-28</Date>
+    <Open>0.10983</Open>
+    <High>0.109831</High>
+    <Low>0.102944</Low>
+    <Close>0.105861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-29</Date>
+    <Open>0.105759</Open>
+    <High>0.108737</High>
+    <Low>0.104755</Low>
+    <Close>0.10786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-11-30</Date>
+    <Open>0.108259</Open>
+    <High>0.112603</High>
+    <Low>0.106599</Low>
+    <Close>0.111907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-01</Date>
+    <Open>0.112004</Open>
+    <High>0.112204</High>
+    <Low>0.107799</Low>
+    <Close>0.109107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-02</Date>
+    <Open>0.109107</Open>
+    <High>0.117014</High>
+    <Low>0.10721</Low>
+    <Close>0.114807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-03</Date>
+    <Open>0.115007</Open>
+    <High>0.116419</High>
+    <Low>0.109311</Low>
+    <Close>0.109811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-04</Date>
+    <Open>0.109911</Open>
+    <High>0.111811</High>
+    <Low>0.108944</Low>
+    <Close>0.110122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-05</Date>
+    <Open>0.110222</Open>
+    <High>0.113211</High>
+    <Low>0.110211</Low>
+    <Close>0.111503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-06</Date>
+    <Open>0.111502</Open>
+    <High>0.154911</High>
+    <Low>0.1111</Low>
+    <Close>0.127897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-07</Date>
+    <Open>0.127697</Open>
+    <High>0.1297</High>
+    <Low>0.116702</Low>
+    <Close>0.119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-08</Date>
+    <Open>0.119</Open>
+    <High>0.125525</High>
+    <Low>0.115112</Low>
+    <Close>0.118808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-09</Date>
+    <Open>0.118808</Open>
+    <High>0.149501</High>
+    <Low>0.118209</Low>
+    <Close>0.128604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-10</Date>
+    <Open>0.128704</Open>
+    <High>0.130305</High>
+    <Low>0.123098</Low>
+    <Close>0.123298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-11</Date>
+    <Open>0.123298</Open>
+    <High>0.1255</High>
+    <Low>0.118224</Low>
+    <Close>0.119524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-12</Date>
+    <Open>0.119424</Open>
+    <High>0.123804</High>
+    <Low>0.11501</Low>
+    <Close>0.117811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-13</Date>
+    <Open>0.117711</Open>
+    <High>0.12163</High>
+    <Low>0.115431</Low>
+    <Close>0.12017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-14</Date>
+    <Open>0.120171</Open>
+    <High>0.122072</High>
+    <Low>0.115102</Low>
+    <Close>0.118107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-15</Date>
+    <Open>0.1181</Open>
+    <High>0.119612</High>
+    <Low>0.115312</Low>
+    <Close>0.115523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-16</Date>
+    <Open>0.115512</Open>
+    <High>0.117612</High>
+    <Low>0.09761</Low>
+    <Close>0.10092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-17</Date>
+    <Open>0.10101</Open>
+    <High>0.104515</High>
+    <Low>0.09852</Low>
+    <Close>0.104114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-18</Date>
+    <Open>0.104214</Open>
+    <High>0.104909</High>
+    <Low>0.10141</Low>
+    <Close>0.103513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-19</Date>
+    <Open>0.103412</Open>
+    <High>0.106499</High>
+    <Low>0.097702</Low>
+    <Close>0.0983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-20</Date>
+    <Open>0.099</Open>
+    <High>0.105099</High>
+    <Low>0.098801</Low>
+    <Close>0.103804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-21</Date>
+    <Open>0.103804</Open>
+    <High>0.104205</High>
+    <Low>0.100699</Low>
+    <Close>0.100804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-22</Date>
+    <Open>0.100805</Open>
+    <High>0.102989</High>
+    <Low>0.099692</Low>
+    <Close>0.102583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-23</Date>
+    <Open>0.102884</Open>
+    <High>0.10479</High>
+    <Low>0.10259</Low>
+    <Close>0.10379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-24</Date>
+    <Open>0.10369</Open>
+    <High>0.104588</High>
+    <Low>0.103291</Low>
+    <Close>0.103694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-25</Date>
+    <Open>0.103693</Open>
+    <High>0.104595</High>
+    <Low>0.101484</Low>
+    <Close>0.102687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-26</Date>
+    <Open>0.102708</Open>
+    <High>0.103651</High>
+    <Low>0.10155</Low>
+    <Close>0.102589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-27</Date>
+    <Open>0.10268</Open>
+    <High>0.104073</High>
+    <Low>0.101364</Low>
+    <Close>0.10296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-28</Date>
+    <Open>0.103007</Open>
+    <High>0.103226</High>
+    <Low>0.09907</Low>
+    <Close>0.100546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-29</Date>
+    <Open>0.100747</Open>
+    <High>0.103359</High>
+    <Low>0.099649</Low>
+    <Close>0.101354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-30</Date>
+    <Open>0.101652</Open>
+    <High>0.102253</High>
+    <Low>0.099949</Low>
+    <Close>0.101549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2022-12-31</Date>
+    <Open>0.101549</Open>
+    <High>0.104847</High>
+    <Low>0.101549</Low>
+    <Close>0.102549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-01</Date>
+    <Open>0.102548</Open>
+    <High>0.105349</High>
+    <Low>0.102246</Low>
+    <Close>0.104951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-02</Date>
+    <Open>0.104891</Open>
+    <High>0.107457</High>
+    <Low>0.102998</Low>
+    <Close>0.105867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-03</Date>
+    <Open>0.105966</Open>
+    <High>0.108356</High>
+    <Low>0.104567</Low>
+    <Close>0.106259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-04</Date>
+    <Open>0.10626</Open>
+    <High>0.109256</High>
+    <Low>0.105765</Low>
+    <Close>0.106764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-05</Date>
+    <Open>0.106965</Open>
+    <High>0.108666</High>
+    <Low>0.105356</Low>
+    <Close>0.105963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-06</Date>
+    <Open>0.105962</Open>
+    <High>0.106162</High>
+    <Low>0.10245</Low>
+    <Close>0.105768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-07</Date>
+    <Open>0.105966</Open>
+    <High>0.106772</High>
+    <Low>0.10438</Low>
+    <Close>0.104575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-08</Date>
+    <Open>0.104605</Open>
+    <High>0.109484</High>
+    <Low>0.102846</Low>
+    <Close>0.109384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-09</Date>
+    <Open>0.109587</Open>
+    <High>0.116486</High>
+    <Low>0.109279</Low>
+    <Close>0.112499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-10</Date>
+    <Open>0.1125</Open>
+    <High>0.115706</High>
+    <Low>0.110594</Low>
+    <Close>0.114816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-11</Date>
+    <Open>0.114417</Open>
+    <High>0.11521</High>
+    <Low>0.109296</Low>
+    <Close>0.1127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-12</Date>
+    <Open>0.112791</Open>
+    <High>0.120893</High>
+    <Low>0.11279</Low>
+    <Close>0.120313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-13</Date>
+    <Open>0.11991</Open>
+    <High>0.125908</High>
+    <Low>0.117986</Low>
+    <Close>0.123211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-14</Date>
+    <Open>0.123911</Open>
+    <High>0.132711</High>
+    <Low>0.122722</Low>
+    <Close>0.129106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-15</Date>
+    <Open>0.129213</Open>
+    <High>0.131022</High>
+    <Low>0.123414</Low>
+    <Close>0.130439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-16</Date>
+    <Open>0.130239</Open>
+    <High>0.133951</High>
+    <Low>0.124507</Low>
+    <Close>0.129103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-17</Date>
+    <Open>0.129004</Open>
+    <High>0.1333</High>
+    <Low>0.126406</Low>
+    <Close>0.129513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-18</Date>
+    <Open>0.129913</Open>
+    <High>0.132813</High>
+    <Low>0.117298</Low>
+    <Close>0.118793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-19</Date>
+    <Open>0.118893</Open>
+    <High>0.119888</High>
+    <Low>0.114691</Low>
+    <Close>0.117996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-20</Date>
+    <Open>0.118107</Open>
+    <High>0.13332</High>
+    <Low>0.115997</Low>
+    <Close>0.132022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-21</Date>
+    <Open>0.132124</Open>
+    <High>0.13622</High>
+    <Low>0.130281</Low>
+    <Close>0.130325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-22</Date>
+    <Open>0.130221</Open>
+    <High>0.17443</High>
+    <Low>0.128922</Low>
+    <Close>0.143727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-23</Date>
+    <Open>0.144029</Open>
+    <High>0.15332</High>
+    <Low>0.141331</Low>
+    <Close>0.149124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-24</Date>
+    <Open>0.149524</Open>
+    <High>0.153926</High>
+    <Low>0.138821</Low>
+    <Close>0.142803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-25</Date>
+    <Open>0.142703</Open>
+    <High>0.158927</High>
+    <Low>0.137225</Low>
+    <Close>0.150426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-26</Date>
+    <Open>0.150526</Open>
+    <High>0.157708</High>
+    <Low>0.147809</Low>
+    <Close>0.155414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-27</Date>
+    <Open>0.155312</Open>
+    <High>0.158344</High>
+    <Low>0.149634</Low>
+    <Close>0.154559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-28</Date>
+    <Open>0.154553</Open>
+    <High>0.15994</High>
+    <Low>0.149027</Low>
+    <Close>0.15003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-29</Date>
+    <Open>0.14993</Open>
+    <High>0.156528</High>
+    <Low>0.149831</Low>
+    <Close>0.154409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-30</Date>
+    <Open>0.155108</Open>
+    <High>0.15891</High>
+    <Low>0.1399</Low>
+    <Close>0.14401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-01-31</Date>
+    <Open>0.143909</Open>
+    <High>0.153089</High>
+    <Low>0.143807</Low>
+    <Close>0.147613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-01</Date>
+    <Open>0.147009</Open>
+    <High>0.163218</High>
+    <Low>0.140701</Low>
+    <Close>0.15931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-02</Date>
+    <Open>0.159208</Open>
+    <High>0.163534</High>
+    <Low>0.154309</Low>
+    <Close>0.156131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-03</Date>
+    <Open>0.156133</Open>
+    <High>0.161824</High>
+    <Low>0.154223</Low>
+    <Close>0.161611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-04</Date>
+    <Open>0.161613</Open>
+    <High>0.165412</High>
+    <Low>0.157613</Low>
+    <Close>0.164715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-05</Date>
+    <Open>0.164013</Open>
+    <High>0.169534</High>
+    <Low>0.15544</Low>
+    <Close>0.15874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-06</Date>
+    <Open>0.158841</Open>
+    <High>0.166237</High>
+    <Low>0.152995</Low>
+    <Close>0.157505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-07</Date>
+    <Open>0.157506</Open>
+    <High>0.180696</High>
+    <Low>0.154114</Low>
+    <Close>0.176212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-08</Date>
+    <Open>0.176212</Open>
+    <High>0.181595</High>
+    <Low>0.168525</Low>
+    <Close>0.176212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-09</Date>
+    <Open>0.175411</Open>
+    <High>0.179105</High>
+    <Low>0.141534</Low>
+    <Close>0.143814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-10</Date>
+    <Open>0.143813</Open>
+    <High>0.161511</High>
+    <Low>0.143224</Low>
+    <Close>0.152823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-11</Date>
+    <Open>0.1525</Open>
+    <High>0.164613</High>
+    <Low>0.151921</Low>
+    <Close>0.162016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-12</Date>
+    <Open>0.162132</Open>
+    <High>0.163516</High>
+    <Low>0.152123</Low>
+    <Close>0.154215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-13</Date>
+    <Open>0.154215</Open>
+    <High>0.155228</High>
+    <Low>0.144605</Low>
+    <Close>0.149981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-14</Date>
+    <Open>0.150183</Open>
+    <High>0.15496</High>
+    <Low>0.147772</Low>
+    <Close>0.153246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-15</Date>
+    <Open>0.153683</Open>
+    <High>0.167722</High>
+    <Low>0.15316</Low>
+    <Close>0.166632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-16</Date>
+    <Open>0.16653</Open>
+    <High>0.173916</High>
+    <Low>0.161518</Low>
+    <Close>0.161655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-17</Date>
+    <Open>0.161423</Open>
+    <High>0.170607</High>
+    <Low>0.159718</Low>
+    <Close>0.168117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-18</Date>
+    <Open>0.168025</Open>
+    <High>0.171634</High>
+    <Low>0.166247</Low>
+    <Close>0.169529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-19</Date>
+    <Open>0.169627</Open>
+    <High>0.174526</High>
+    <Low>0.165728</Low>
+    <Close>0.17204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-20</Date>
+    <Open>0.171434</Open>
+    <High>0.186421</High>
+    <Low>0.166548</Low>
+    <Close>0.182607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-21</Date>
+    <Open>0.182707</Open>
+    <High>0.196316</High>
+    <Low>0.177518</Low>
+    <Close>0.188534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-22</Date>
+    <Open>0.189234</Open>
+    <High>0.20202</High>
+    <Low>0.179522</Low>
+    <Close>0.186315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-23</Date>
+    <Open>0.186198</Open>
+    <High>0.189019</High>
+    <Low>0.17713</Low>
+    <Close>0.178523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-24</Date>
+    <Open>0.178829</Open>
+    <High>0.188132</High>
+    <Low>0.166012</Low>
+    <Close>0.167798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-25</Date>
+    <Open>0.168098</Open>
+    <High>0.171517</High>
+    <Low>0.157116</Low>
+    <Close>0.161111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-26</Date>
+    <Open>0.16091</Open>
+    <High>0.170114</High>
+    <Low>0.16081</Low>
+    <Close>0.167013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-27</Date>
+    <Open>0.167417</Open>
+    <High>0.169405</High>
+    <Low>0.16282</Low>
+    <Close>0.166708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-02-28</Date>
+    <Open>0.16661</Open>
+    <High>0.168598</High>
+    <Low>0.156413</Low>
+    <Close>0.159235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-01</Date>
+    <Open>0.159332</Open>
+    <High>0.167113</High>
+    <Low>0.158814</Low>
+    <Close>0.167022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-02</Date>
+    <Open>0.167123</Open>
+    <High>0.167917</High>
+    <Low>0.158997</Low>
+    <Close>0.163115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-03</Date>
+    <Open>0.162913</Open>
+    <High>0.163211</High>
+    <Low>0.146119</Low>
+    <Close>0.148913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-04</Date>
+    <Open>0.149212</Open>
+    <High>0.152208</High>
+    <Low>0.141007</Low>
+    <Close>0.143511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-05</Date>
+    <Open>0.14371</Open>
+    <High>0.150215</High>
+    <Low>0.14361</Low>
+    <Close>0.144916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-06</Date>
+    <Open>0.144816</Open>
+    <High>0.146191</High>
+    <Low>0.14112</Low>
+    <Close>0.146191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-07</Date>
+    <Open>0.145884</Open>
+    <High>0.1468</High>
+    <Low>0.137481</Low>
+    <Close>0.138407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-08</Date>
+    <Open>0.138694</Open>
+    <High>0.141299</High>
+    <Low>0.127794</Low>
+    <Close>0.129095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-09</Date>
+    <Open>0.129085</Open>
+    <High>0.135365</High>
+    <Low>0.120576</Low>
+    <Close>0.121111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-10</Date>
+    <Open>0.120618</Open>
+    <High>0.12275</High>
+    <Low>0.112691</Low>
+    <Close>0.122641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-11</Date>
+    <Open>0.122737</Open>
+    <High>0.127054</High>
+    <Low>0.11315</Low>
+    <Close>0.117718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-12</Date>
+    <Open>0.117758</Open>
+    <High>0.129861</High>
+    <Low>0.117145</Low>
+    <Close>0.128614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-13</Date>
+    <Open>0.128715</Open>
+    <High>0.139748</High>
+    <Low>0.126401</Low>
+    <Close>0.139269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-14</Date>
+    <Open>0.139453</Open>
+    <High>0.153516</High>
+    <Low>0.134628</Low>
+    <Close>0.148062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-15</Date>
+    <Open>0.148217</Open>
+    <High>0.152131</High>
+    <Low>0.131586</Low>
+    <Close>0.140997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-16</Date>
+    <Open>0.140486</Open>
+    <High>0.147693</High>
+    <Low>0.139626</Low>
+    <Close>0.144847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-17</Date>
+    <Open>0.145159</Open>
+    <High>0.154709</High>
+    <Low>0.142226</Low>
+    <Close>0.152155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-18</Date>
+    <Open>0.152856</Open>
+    <High>0.159565</High>
+    <Low>0.149803</Low>
+    <Close>0.150992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-19</Date>
+    <Open>0.150751</Open>
+    <High>0.157275</High>
+    <Low>0.148423</Low>
+    <Close>0.15486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-20</Date>
+    <Open>0.154664</Open>
+    <High>0.182123</High>
+    <Low>0.151743</Low>
+    <Close>0.154358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-21</Date>
+    <Open>0.154664</Open>
+    <High>0.160235</High>
+    <Low>0.146143</Low>
+    <Close>0.154092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-22</Date>
+    <Open>0.15409</Open>
+    <High>0.156405</High>
+    <Low>0.141711</Low>
+    <Close>0.147214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-23</Date>
+    <Open>0.147002</Open>
+    <High>0.1543</High>
+    <Low>0.14621</Low>
+    <Close>0.151328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-24</Date>
+    <Open>0.151414</Open>
+    <High>0.154609</High>
+    <Low>0.144257</Low>
+    <Close>0.147852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-25</Date>
+    <Open>0.14787</Open>
+    <High>0.148687</High>
+    <Low>0.14114</Low>
+    <Close>0.145441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-26</Date>
+    <Open>0.145041</Open>
+    <High>0.149134</High>
+    <Low>0.143422</Low>
+    <Close>0.144263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-27</Date>
+    <Open>0.144459</Open>
+    <High>0.146436</High>
+    <Low>0.133291</Low>
+    <Close>0.135163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-28</Date>
+    <Open>0.135264</Open>
+    <High>0.139139</High>
+    <Low>0.132542</Low>
+    <Close>0.138154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-29</Date>
+    <Open>0.137752</Open>
+    <High>0.145444</High>
+    <Low>0.137037</Low>
+    <Close>0.144919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-30</Date>
+    <Open>0.144343</Open>
+    <High>0.147334</High>
+    <Low>0.137926</Low>
+    <Close>0.140439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-03-31</Date>
+    <Open>0.140538</Open>
+    <High>0.145104</High>
+    <Low>0.13874</Low>
+    <Close>0.143829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-01</Date>
+    <Open>0.14393</Open>
+    <High>0.147643</High>
+    <Low>0.142671</Low>
+    <Close>0.144453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-02</Date>
+    <Open>0.144459</Open>
+    <High>0.147162</High>
+    <Low>0.138186</Low>
+    <Close>0.138486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-03</Date>
+    <Open>0.138686</Open>
+    <High>0.143017</High>
+    <Low>0.135957</Low>
+    <Close>0.139753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-04</Date>
+    <Open>0.139754</Open>
+    <High>0.146054</High>
+    <Low>0.139428</Low>
+    <Close>0.144472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-05</Date>
+    <Open>0.144172</Open>
+    <High>0.149263</High>
+    <Low>0.142753</Low>
+    <Close>0.145552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-06</Date>
+    <Open>0.145246</Open>
+    <High>0.14746</High>
+    <Low>0.141559</Low>
+    <Close>0.144849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-07</Date>
+    <Open>0.145052</Open>
+    <High>0.146675</High>
+    <Low>0.140779</Low>
+    <Close>0.142307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-08</Date>
+    <Open>0.142505</Open>
+    <High>0.145175</High>
+    <Low>0.141706</Low>
+    <Close>0.144256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-09</Date>
+    <Open>0.144456</Open>
+    <High>0.152802</High>
+    <Low>0.143786</Low>
+    <Close>0.151791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-10</Date>
+    <Open>0.151602</Open>
+    <High>0.153905</High>
+    <Low>0.147496</Low>
+    <Close>0.153324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-11</Date>
+    <Open>0.153426</Open>
+    <High>0.155632</High>
+    <Low>0.152446</Low>
+    <Close>0.153952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-12</Date>
+    <Open>0.153652</Open>
+    <High>0.158636</High>
+    <Low>0.147263</Low>
+    <Close>0.157223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-13</Date>
+    <Open>0.156722</Open>
+    <High>0.159175</High>
+    <Low>0.152951</Low>
+    <Close>0.157551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-14</Date>
+    <Open>0.157449</Open>
+    <High>0.164646</High>
+    <Low>0.157352</Low>
+    <Close>0.159941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-15</Date>
+    <Open>0.160131</Open>
+    <High>0.186186</High>
+    <Low>0.156234</Low>
+    <Close>0.176057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-16</Date>
+    <Open>0.175858</Open>
+    <High>0.273438</High>
+    <Low>0.175858</Low>
+    <Close>0.256574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-17</Date>
+    <Open>0.257475</Open>
+    <High>0.332663</High>
+    <Low>0.22859</Low>
+    <Close>0.234441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-18</Date>
+    <Open>0.234638</Open>
+    <High>0.335101</High>
+    <Low>0.229458</Low>
+    <Close>0.323755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-19</Date>
+    <Open>0.325155</Open>
+    <High>0.361394</High>
+    <Low>0.275887</Low>
+    <Close>0.293461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-20</Date>
+    <Open>0.292958</Open>
+    <High>0.356082</High>
+    <Low>0.284336</Low>
+    <Close>0.301924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-21</Date>
+    <Open>0.301821</Open>
+    <High>0.304327</High>
+    <Low>0.243776</Low>
+    <Close>0.250272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-22</Date>
+    <Open>0.250672</Open>
+    <High>0.287403</High>
+    <Low>0.250672</Low>
+    <Close>0.265924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-23</Date>
+    <Open>0.266424</Open>
+    <High>0.268524</High>
+    <Low>0.230412</Low>
+    <Close>0.234512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-24</Date>
+    <Open>0.234812</Open>
+    <High>0.242195</High>
+    <Low>0.2255</Low>
+    <Close>0.238305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-25</Date>
+    <Open>0.237207</Open>
+    <High>0.247917</High>
+    <Low>0.226523</Low>
+    <Close>0.234354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-26</Date>
+    <Open>0.234754</Open>
+    <High>0.255454</High>
+    <Low>0.229428</Low>
+    <Close>0.237876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-27</Date>
+    <Open>0.237576</Open>
+    <High>0.251578</High>
+    <Low>0.232791</Low>
+    <Close>0.242385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-28</Date>
+    <Open>0.24278</Open>
+    <High>0.243788</High>
+    <Low>0.218716</Low>
+    <Close>0.223574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-29</Date>
+    <Open>0.223472</Open>
+    <High>0.224882</High>
+    <Low>0.215649</Low>
+    <Close>0.22113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-04-30</Date>
+    <Open>0.22103</Open>
+    <High>0.242704</High>
+    <Low>0.212815</Low>
+    <Close>0.226229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-01</Date>
+    <Open>0.225929</Open>
+    <High>0.247377</High>
+    <Low>0.222336</Low>
+    <Close>0.222962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-02</Date>
+    <Open>0.223358</Open>
+    <High>0.225559</High>
+    <Low>0.207014</Low>
+    <Close>0.208127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-03</Date>
+    <Open>0.208327</Open>
+    <High>0.22707</High>
+    <Low>0.204586</Low>
+    <Close>0.219059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-04</Date>
+    <Open>0.219457</Open>
+    <High>0.231342</High>
+    <Low>0.211893</Low>
+    <Close>0.212877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-05</Date>
+    <Open>0.212877</Open>
+    <High>0.217148</High>
+    <Low>0.208475</Low>
+    <Close>0.215396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-06</Date>
+    <Open>0.215596</Open>
+    <High>0.217833</High>
+    <Low>0.194039</Low>
+    <Close>0.196944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-07</Date>
+    <Open>0.197435</Open>
+    <High>0.206889</High>
+    <Low>0.192026</Low>
+    <Close>0.192625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-08</Date>
+    <Open>0.192625</Open>
+    <High>0.194988</High>
+    <Low>0.172319</Low>
+    <Close>0.173832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-09</Date>
+    <Open>0.174032</Open>
+    <High>0.176476</High>
+    <Low>0.166883</Low>
+    <Close>0.171371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-10</Date>
+    <Open>0.171577</Open>
+    <High>0.18332</High>
+    <Low>0.165682</Low>
+    <Close>0.177277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-11</Date>
+    <Open>0.177177</Open>
+    <High>0.180162</High>
+    <Low>0.162546</Low>
+    <Close>0.165849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-12</Date>
+    <Open>0.165866</Open>
+    <High>0.167917</High>
+    <Low>0.157279</Low>
+    <Close>0.167534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-13</Date>
+    <Open>0.168134</Open>
+    <High>0.169619</High>
+    <Low>0.162381</Low>
+    <Close>0.163282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-14</Date>
+    <Open>0.162798</Open>
+    <High>0.174487</High>
+    <Low>0.160696</Low>
+    <Close>0.168301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-15</Date>
+    <Open>0.168484</Open>
+    <High>0.175823</High>
+    <Low>0.164098</Low>
+    <Close>0.172821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-16</Date>
+    <Open>0.172621</Open>
+    <High>0.180208</High>
+    <Low>0.1675</Low>
+    <Close>0.172486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-17</Date>
+    <Open>0.172586</Open>
+    <High>0.220388</High>
+    <Low>0.165583</Low>
+    <Close>0.204902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-18</Date>
+    <Open>0.205082</Open>
+    <High>0.216587</High>
+    <Low>0.190876</Low>
+    <Close>0.193577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-19</Date>
+    <Open>0.193577</Open>
+    <High>0.208104</High>
+    <Low>0.185328</Low>
+    <Close>0.191157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-20</Date>
+    <Open>0.191396</Open>
+    <High>0.193197</High>
+    <Low>0.185911</Low>
+    <Close>0.187988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-21</Date>
+    <Open>0.18857</Open>
+    <High>0.189051</High>
+    <Low>0.181009</Low>
+    <Close>0.181809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-22</Date>
+    <Open>0.181691</Open>
+    <High>0.185693</High>
+    <Low>0.176988</Low>
+    <Close>0.181491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-23</Date>
+    <Open>0.181425</Open>
+    <High>0.188438</High>
+    <Low>0.179245</Low>
+    <Close>0.180911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-24</Date>
+    <Open>0.18099</Open>
+    <High>0.181516</High>
+    <Low>0.16749</Low>
+    <Close>0.171991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-25</Date>
+    <Open>0.171891</Open>
+    <High>0.176989</High>
+    <Low>0.167497</Low>
+    <Close>0.170403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-26</Date>
+    <Open>0.170905</Open>
+    <High>0.173345</High>
+    <Low>0.167812</Low>
+    <Close>0.172738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-27</Date>
+    <Open>0.172752</Open>
+    <High>0.173754</High>
+    <Low>0.169946</Low>
+    <Close>0.171465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CTSI">
+    <Date>2023-05-28</Date>
+    <Open>0.171669</Open>
+    <High>0.175988</High>
+    <Low>0.171086</Low>
+    <Close>0.174638</Close>
+  </Cryptocurrency>
+</Root>

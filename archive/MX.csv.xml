@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-14</Date>
+    <Open>1.63462</Open>
+    <High>1.66749</High>
+    <Low>1.44459</Low>
+    <Close>1.58961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-15</Date>
+    <Open>1.56351</Open>
+    <High>1.63561</High>
+    <Low>1.50783</Low>
+    <Close>1.58959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-16</Date>
+    <Open>1.5832</Open>
+    <High>1.62265</High>
+    <Low>1.52197</Low>
+    <Close>1.56476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-17</Date>
+    <Open>1.58534</Open>
+    <High>1.59552</High>
+    <Low>1.55238</Low>
+    <Close>1.56772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-18</Date>
+    <Open>1.57076</Open>
+    <High>1.57101</High>
+    <Low>1.45076</Low>
+    <Close>1.46275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-19</Date>
+    <Open>1.47258</Open>
+    <High>1.54491</High>
+    <Low>1.44811</Low>
+    <Close>1.51199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-20</Date>
+    <Open>1.50789</Open>
+    <High>1.57333</High>
+    <Low>1.46574</Low>
+    <Close>1.51348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-21</Date>
+    <Open>1.50554</Open>
+    <High>1.54773</High>
+    <Low>1.50065</Low>
+    <Close>1.53201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-22</Date>
+    <Open>1.54039</Open>
+    <High>1.59762</High>
+    <Low>1.5356</Low>
+    <Close>1.57401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-23</Date>
+    <Open>1.57101</Open>
+    <High>1.71249</High>
+    <Low>1.52327</Low>
+    <Close>1.54914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-24</Date>
+    <Open>1.55328</Open>
+    <High>1.56322</High>
+    <Low>1.49196</Low>
+    <Close>1.50904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-25</Date>
+    <Open>1.51967</Open>
+    <High>1.55433</High>
+    <Low>1.49845</Low>
+    <Close>1.52407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-26</Date>
+    <Open>1.52432</Open>
+    <High>1.55059</High>
+    <Low>1.4502</Low>
+    <Close>1.51568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-27</Date>
+    <Open>1.51818</Open>
+    <High>1.52118</High>
+    <Low>1.44731</Low>
+    <Close>1.45919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-28</Date>
+    <Open>1.46272</Open>
+    <High>1.54655</High>
+    <Low>1.46272</Low>
+    <Close>1.52573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-29</Date>
+    <Open>1.53497</Open>
+    <High>1.56357</High>
+    <Low>1.51289</Low>
+    <Close>1.55617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-30</Date>
+    <Open>1.55628</Open>
+    <High>1.64735</High>
+    <Low>1.55337</Low>
+    <Close>1.64735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-05-31</Date>
+    <Open>1.64425</Open>
+    <High>1.69271</High>
+    <Low>1.62486</Low>
+    <Close>1.63549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-01</Date>
+    <Open>1.63616</Open>
+    <High>1.63832</High>
+    <Low>1.47897</Low>
+    <Close>1.50594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-02</Date>
+    <Open>1.51164</Open>
+    <High>1.54271</High>
+    <Low>1.49375</Low>
+    <Close>1.52013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-03</Date>
+    <Open>1.52083</Open>
+    <High>1.52974</High>
+    <Low>1.49108</Low>
+    <Close>1.50859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-04</Date>
+    <Open>1.50999</Open>
+    <High>1.58602</High>
+    <Low>1.50999</Low>
+    <Close>1.54984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-05</Date>
+    <Open>1.55175</Open>
+    <High>1.57844</High>
+    <Low>1.54592</Low>
+    <Close>1.56145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-06</Date>
+    <Open>1.55565</Open>
+    <High>1.61111</High>
+    <Low>1.54856</Low>
+    <Close>1.60673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-07</Date>
+    <Open>1.60444</Open>
+    <High>1.61529</High>
+    <Low>1.51127</Low>
+    <Close>1.60774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-08</Date>
+    <Open>1.60861</Open>
+    <High>1.61388</High>
+    <Low>1.55181</Low>
+    <Close>1.58608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-09</Date>
+    <Open>1.58788</Open>
+    <High>1.61921</High>
+    <Low>1.55965</Low>
+    <Close>1.61253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-10</Date>
+    <Open>1.60923</Open>
+    <High>1.61524</High>
+    <Low>1.54651</Low>
+    <Close>1.58192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-11</Date>
+    <Open>1.58279</Open>
+    <High>1.59872</High>
+    <Low>1.48557</Low>
+    <Close>1.53154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-12</Date>
+    <Open>1.53535</Open>
+    <High>1.53747</High>
+    <Low>1.42288</Low>
+    <Close>1.44592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-13</Date>
+    <Open>1.4527</Open>
+    <High>1.46561</High>
+    <Low>1.30726</Low>
+    <Close>1.32918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-14</Date>
+    <Open>1.32875</Open>
+    <High>1.33593</High>
+    <Low>1.12594</Low>
+    <Close>1.23316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-15</Date>
+    <Open>1.23842</Open>
+    <High>1.34705</High>
+    <Low>1.18377</Low>
+    <Close>1.32847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-16</Date>
+    <Open>1.33393</Open>
+    <High>1.38028</High>
+    <Low>1.22295</Low>
+    <Close>1.22319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-17</Date>
+    <Open>1.19965</Open>
+    <High>1.26882</High>
+    <Low>1.19965</Low>
+    <Close>1.2466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-18</Date>
+    <Open>1.2464</Open>
+    <High>1.25173</High>
+    <Low>1.19758</Low>
+    <Close>1.22889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-19</Date>
+    <Open>1.2331</Open>
+    <High>1.31379</High>
+    <Low>1.1964</Low>
+    <Close>1.31079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-20</Date>
+    <Open>1.31192</Open>
+    <High>1.34565</High>
+    <Low>1.24348</Low>
+    <Close>1.33263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-21</Date>
+    <Open>1.32451</Open>
+    <High>1.4024</High>
+    <Low>1.32451</Low>
+    <Close>1.38411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-22</Date>
+    <Open>1.38771</Open>
+    <High>1.38861</High>
+    <Low>1.30959</Low>
+    <Close>1.31129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-23</Date>
+    <Open>1.32358</Open>
+    <High>1.38811</High>
+    <Low>1.3008</Low>
+    <Close>1.33586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-24</Date>
+    <Open>1.33177</Open>
+    <High>1.36525</High>
+    <Low>1.31608</Low>
+    <Close>1.35924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-25</Date>
+    <Open>1.36593</Open>
+    <High>1.40219</High>
+    <Low>1.33928</Low>
+    <Close>1.39813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-26</Date>
+    <Open>1.39975</Open>
+    <High>1.39975</High>
+    <Low>1.3468</Low>
+    <Close>1.36345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-27</Date>
+    <Open>1.35663</Open>
+    <High>1.37944</High>
+    <Low>1.33809</Low>
+    <Close>1.36056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-28</Date>
+    <Open>1.36278</Open>
+    <High>1.38354</High>
+    <Low>1.31212</Low>
+    <Close>1.34831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-29</Date>
+    <Open>1.3226</Open>
+    <High>1.35136</High>
+    <Low>1.29689</Low>
+    <Close>1.32254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-06-30</Date>
+    <Open>1.32869</Open>
+    <High>1.32869</High>
+    <Low>1.2407</Low>
+    <Close>1.27267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-01</Date>
+    <Open>1.25529</Open>
+    <High>1.34272</High>
+    <Low>1.2487</Low>
+    <Close>1.29045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-02</Date>
+    <Open>1.29597</Open>
+    <High>1.30953</High>
+    <Low>1.28239</Low>
+    <Close>1.30104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-03</Date>
+    <Open>1.30433</Open>
+    <High>1.3064</High>
+    <Low>1.28925</Low>
+    <Close>1.3064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-04</Date>
+    <Open>1.30131</Open>
+    <High>1.34488</High>
+    <Low>1.29648</Low>
+    <Close>1.34269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-05</Date>
+    <Open>1.33739</Open>
+    <High>1.37009</High>
+    <Low>1.29857</Low>
+    <Close>1.35341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-06</Date>
+    <Open>1.34782</Open>
+    <High>1.34782</High>
+    <Low>1.30856</Low>
+    <Close>1.33273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-07</Date>
+    <Open>1.33982</Open>
+    <High>1.35189</High>
+    <Low>1.30496</Low>
+    <Close>1.35129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-08</Date>
+    <Open>1.35039</Open>
+    <High>1.36978</High>
+    <Low>1.32207</Low>
+    <Close>1.3405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-09</Date>
+    <Open>1.34859</Open>
+    <High>1.35535</High>
+    <Low>1.3262</Low>
+    <Close>1.34929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-10</Date>
+    <Open>1.35289</Open>
+    <High>1.35409</High>
+    <Low>1.3392</Low>
+    <Close>1.34709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-11</Date>
+    <Open>1.34669</Open>
+    <High>1.35275</High>
+    <Low>1.33746</Low>
+    <Close>1.34499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-12</Date>
+    <Open>1.33889</Open>
+    <High>1.35934</High>
+    <Low>1.32108</Low>
+    <Close>1.32917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-13</Date>
+    <Open>1.33114</Open>
+    <High>1.36027</High>
+    <Low>1.28518</Low>
+    <Close>1.35814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-14</Date>
+    <Open>1.36277</Open>
+    <High>1.51629</High>
+    <Low>1.35222</Low>
+    <Close>1.45892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-15</Date>
+    <Open>1.45852</Open>
+    <High>1.51779</High>
+    <Low>1.43644</Low>
+    <Close>1.48421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-16</Date>
+    <Open>1.48201</Open>
+    <High>1.58073</High>
+    <Low>1.45066</Low>
+    <Close>1.4996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-17</Date>
+    <Open>1.50231</Open>
+    <High>1.5175</High>
+    <Low>1.45987</Low>
+    <Close>1.48866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-18</Date>
+    <Open>1.4844</Open>
+    <High>1.53899</High>
+    <Low>1.47128</Low>
+    <Close>1.48776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-19</Date>
+    <Open>1.48814</Open>
+    <High>1.54276</High>
+    <Low>1.43859</Low>
+    <Close>1.44012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-20</Date>
+    <Open>1.4398</Open>
+    <High>1.47324</High>
+    <Low>1.38198</Low>
+    <Close>1.39527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-21</Date>
+    <Open>1.39305</Open>
+    <High>1.45671</High>
+    <Low>1.38184</Low>
+    <Close>1.41654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-22</Date>
+    <Open>1.41455</Open>
+    <High>1.46721</High>
+    <Low>1.39029</Low>
+    <Close>1.40851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-23</Date>
+    <Open>1.4041</Open>
+    <High>1.42398</High>
+    <Low>1.38228</Low>
+    <Close>1.40278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-24</Date>
+    <Open>1.40788</Open>
+    <High>1.41851</High>
+    <Low>1.39661</Low>
+    <Close>1.40887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-25</Date>
+    <Open>1.40827</Open>
+    <High>1.41537</High>
+    <Low>1.36727</Low>
+    <Close>1.39173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-26</Date>
+    <Open>1.39143</Open>
+    <High>1.39143</High>
+    <Low>1.3014</Low>
+    <Close>1.3046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-27</Date>
+    <Open>1.3052</Open>
+    <High>1.35937</High>
+    <Low>1.28566</Low>
+    <Close>1.33802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-28</Date>
+    <Open>1.34091</Open>
+    <High>1.45909</High>
+    <Low>1.27121</Low>
+    <Close>1.42607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-29</Date>
+    <Open>1.42677</Open>
+    <High>1.44019</High>
+    <Low>1.39054</Low>
+    <Close>1.40949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-30</Date>
+    <Open>1.41517</Open>
+    <High>1.4368</High>
+    <Low>1.39978</Low>
+    <Close>1.40116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-07-31</Date>
+    <Open>1.39893</Open>
+    <High>1.41181</High>
+    <Low>1.368</Low>
+    <Close>1.37143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-01</Date>
+    <Open>1.36966</Open>
+    <High>1.37178</High>
+    <Low>1.29848</Low>
+    <Close>1.30079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-02</Date>
+    <Open>1.30467</Open>
+    <High>1.33182</High>
+    <Low>1.23841</Low>
+    <Close>1.27349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-03</Date>
+    <Open>1.27604</Open>
+    <High>1.29047</High>
+    <Low>1.17018</Low>
+    <Close>1.22379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-04</Date>
+    <Open>1.21976</Open>
+    <High>1.25349</High>
+    <Low>1.20584</Low>
+    <Close>1.20784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-05</Date>
+    <Open>1.20965</Open>
+    <High>1.22735</High>
+    <Low>1.20771</Low>
+    <Close>1.21833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-06</Date>
+    <Open>1.21653</Open>
+    <High>1.24494</High>
+    <Low>1.20899</Low>
+    <Close>1.21107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-07</Date>
+    <Open>1.21408</Open>
+    <High>1.26244</High>
+    <Low>1.20964</Low>
+    <Close>1.25873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-08</Date>
+    <Open>1.25704</Open>
+    <High>1.28997</High>
+    <Low>1.23136</Low>
+    <Close>1.23232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-09</Date>
+    <Open>1.23344</Open>
+    <High>1.26183</High>
+    <Low>1.21184</Low>
+    <Close>1.22556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-10</Date>
+    <Open>1.22556</Open>
+    <High>1.27278</High>
+    <Low>1.20814</Low>
+    <Close>1.25788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-11</Date>
+    <Open>1.25636</Open>
+    <High>1.30026</High>
+    <Low>1.24997</Low>
+    <Close>1.26966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-12</Date>
+    <Open>1.27284</Open>
+    <High>1.29165</High>
+    <Low>1.24642</Low>
+    <Close>1.25138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-13</Date>
+    <Open>1.25378</Open>
+    <High>1.31953</High>
+    <Low>1.24929</Low>
+    <Close>1.30582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-14</Date>
+    <Open>1.3058</Open>
+    <High>1.32642</High>
+    <Low>1.30029</Low>
+    <Close>1.31732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-15</Date>
+    <Open>1.31941</Open>
+    <High>1.34791</High>
+    <Low>1.28231</Low>
+    <Close>1.29117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-16</Date>
+    <Open>1.29391</Open>
+    <High>1.2959</High>
+    <Low>1.27098</Low>
+    <Close>1.27942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-17</Date>
+    <Open>1.2792</Open>
+    <High>1.29647</High>
+    <Low>1.2541</Low>
+    <Close>1.2713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-18</Date>
+    <Open>1.2683</Open>
+    <High>1.27551</High>
+    <Low>1.20228</Low>
+    <Close>1.22985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-19</Date>
+    <Open>1.23062</Open>
+    <High>1.2409</High>
+    <Low>1.1626</Low>
+    <Close>1.16902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-20</Date>
+    <Open>1.17135</Open>
+    <High>1.17852</High>
+    <Low>1.10327</Low>
+    <Close>1.11509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-21</Date>
+    <Open>1.12497</Open>
+    <High>1.17614</High>
+    <Low>1.09376</Low>
+    <Close>1.15508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-22</Date>
+    <Open>1.15037</Open>
+    <High>1.16181</High>
+    <Low>1.06719</Low>
+    <Close>1.08662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-23</Date>
+    <Open>1.08644</Open>
+    <High>1.11204</High>
+    <Low>1.07048</Low>
+    <Close>1.09131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-24</Date>
+    <Open>1.09599</Open>
+    <High>1.10536</High>
+    <Low>1.07602</Low>
+    <Close>1.0968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-25</Date>
+    <Open>1.09849</Open>
+    <High>1.1022</High>
+    <Low>1.08328</Low>
+    <Close>1.09324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-26</Date>
+    <Open>1.09311</Open>
+    <High>1.11053</High>
+    <Low>1.01883</Low>
+    <Close>1.0305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-27</Date>
+    <Open>1.03039</Open>
+    <High>1.03289</High>
+    <Low>0.95566</Low>
+    <Close>0.98943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-28</Date>
+    <Open>0.99121</Open>
+    <High>1.01701</High>
+    <Low>0.98012</Low>
+    <Close>0.99649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-29</Date>
+    <Open>0.99102</Open>
+    <High>1.02108</High>
+    <Low>0.97483</Low>
+    <Close>1.01637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-30</Date>
+    <Open>1.0176</Open>
+    <High>1.04478</High>
+    <Low>0.99043</Low>
+    <Close>1.01309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-08-31</Date>
+    <Open>1.01298</Open>
+    <High>1.04855</High>
+    <Low>0.99196</Low>
+    <Close>1.0075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-01</Date>
+    <Open>1.00368</Open>
+    <High>1.0207</High>
+    <Low>0.98679</Low>
+    <Close>1.00414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-02</Date>
+    <Open>1.00535</Open>
+    <High>1.01317</High>
+    <Low>0.99001</Low>
+    <Close>0.996169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-03</Date>
+    <Open>0.99786</Open>
+    <High>1.00338</High>
+    <Low>0.981</Low>
+    <Close>0.9837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-04</Date>
+    <Open>0.981998</Open>
+    <High>0.9899</High>
+    <Low>0.9703</Low>
+    <Close>0.9703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-05</Date>
+    <Open>0.9703</Open>
+    <High>0.972</High>
+    <Low>0.9487</Low>
+    <Close>0.950395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-06</Date>
+    <Open>0.950395</Open>
+    <High>0.980098</High>
+    <Low>0.9326</Low>
+    <Close>0.9505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-07</Date>
+    <Open>0.948066</Open>
+    <High>0.956471</High>
+    <Low>0.903555</Low>
+    <Close>0.948447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-08</Date>
+    <Open>0.951567</Open>
+    <High>0.953095</High>
+    <Low>0.90469</Low>
+    <Close>0.916337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-09</Date>
+    <Open>0.915256</Open>
+    <High>1.04687</High>
+    <Low>0.910637</Low>
+    <Close>1.02705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-10</Date>
+    <Open>1.02779</Open>
+    <High>1.03243</High>
+    <Low>0.980563</Low>
+    <Close>0.994099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-11</Date>
+    <Open>0.996259</Open>
+    <High>1.01611</High>
+    <Low>0.957739</Low>
+    <Close>0.964941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-12</Date>
+    <Open>0.966242</Open>
+    <High>1.00026</High>
+    <Low>0.96225</Low>
+    <Close>0.994799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-13</Date>
+    <Open>0.995299</Open>
+    <High>0.99684</High>
+    <Low>0.9133</Low>
+    <Close>0.925219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-14</Date>
+    <Open>0.926919</Open>
+    <High>0.927128</High>
+    <Low>0.904754</Low>
+    <Close>0.915729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-15</Date>
+    <Open>0.917775</Open>
+    <High>0.947861</High>
+    <Low>0.858928</Low>
+    <Close>0.87983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-16</Date>
+    <Open>0.873848</Open>
+    <High>0.903</High>
+    <Low>0.857046</Low>
+    <Close>0.8929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-17</Date>
+    <Open>0.8895</Open>
+    <High>0.9123</High>
+    <Low>0.8798</Low>
+    <Close>0.89819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-18</Date>
+    <Open>0.901</Open>
+    <High>0.9071</High>
+    <Low>0.880712</Low>
+    <Close>0.8889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-19</Date>
+    <Open>0.888811</Open>
+    <High>0.930586</High>
+    <Low>0.877412</Low>
+    <Close>0.915792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-20</Date>
+    <Open>0.913983</Open>
+    <High>0.920392</High>
+    <Low>0.892189</Low>
+    <Close>0.90329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-21</Date>
+    <Open>0.8964</Open>
+    <High>0.945094</High>
+    <Low>0.8841</Low>
+    <Close>0.8903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-22</Date>
+    <Open>0.8898</Open>
+    <High>0.9475</High>
+    <Low>0.8889</Low>
+    <Close>0.922408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-23</Date>
+    <Open>0.923</Open>
+    <High>1.0006</High>
+    <Low>0.9223</Low>
+    <Close>0.9997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-24</Date>
+    <Open>1.00333</Open>
+    <High>1.00641</High>
+    <Low>0.972688</Low>
+    <Close>0.972688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-25</Date>
+    <Open>0.9719</Open>
+    <High>0.972797</High>
+    <Low>0.935309</Low>
+    <Close>0.944262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-26</Date>
+    <Open>0.941609</Open>
+    <High>1.0161</High>
+    <Low>0.932819</Low>
+    <Close>0.966603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-27</Date>
+    <Open>0.9676</Open>
+    <High>1.0004</High>
+    <Low>0.9386</Low>
+    <Close>0.9528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-28</Date>
+    <Open>0.956</Open>
+    <High>0.963204</High>
+    <Low>0.923108</Low>
+    <Close>0.9542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-29</Date>
+    <Open>0.9522</Open>
+    <High>0.956004</High>
+    <Low>0.9171</Low>
+    <Close>0.933593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-09-30</Date>
+    <Open>0.933693</Open>
+    <High>0.963396</High>
+    <Low>0.9279</Low>
+    <Close>0.9299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-01</Date>
+    <Open>0.9288</Open>
+    <High>0.9419</High>
+    <Low>0.9247</Low>
+    <Close>0.935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-02</Date>
+    <Open>0.9345</Open>
+    <High>0.939894</High>
+    <Low>0.9242</Low>
+    <Close>0.9284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-03</Date>
+    <Open>0.9274</Open>
+    <High>0.929893</High>
+    <Low>0.9106</Low>
+    <Close>0.917383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-04</Date>
+    <Open>0.918792</Open>
+    <High>0.939882</High>
+    <Low>0.918284</Low>
+    <Close>0.926478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-05</Date>
+    <Open>0.925978</Open>
+    <High>0.93198</High>
+    <Low>0.907691</Low>
+    <Close>0.914983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-06</Date>
+    <Open>0.914874</Open>
+    <High>0.93194</High>
+    <Low>0.910928</Low>
+    <Close>0.910928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-07</Date>
+    <Open>0.910464</Open>
+    <High>0.920466</High>
+    <Low>0.901409</Low>
+    <Close>0.908236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-08</Date>
+    <Open>0.908009</Open>
+    <High>0.912609</High>
+    <Low>0.899825</Low>
+    <Close>0.899825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-09</Date>
+    <Open>0.900734</Open>
+    <High>0.908091</High>
+    <Low>0.887889</Low>
+    <Close>0.89749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-10</Date>
+    <Open>0.89609</Open>
+    <High>0.907691</High>
+    <Low>0.89599</Low>
+    <Close>0.90151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-11</Date>
+    <Open>0.9016</Open>
+    <High>0.90331</High>
+    <Low>0.868422</Low>
+    <Close>0.870922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-12</Date>
+    <Open>0.873895</Open>
+    <High>0.918154</High>
+    <Low>0.870139</Low>
+    <Close>0.880526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-13</Date>
+    <Open>0.881735</Open>
+    <High>0.910073</High>
+    <Low>0.85714</Low>
+    <Close>0.905191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-14</Date>
+    <Open>0.904781</Open>
+    <High>0.921164</High>
+    <Low>0.87857</Low>
+    <Close>0.897918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-15</Date>
+    <Open>0.897909</Open>
+    <High>0.902454</High>
+    <Low>0.895481</Low>
+    <Close>0.896645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-16</Date>
+    <Open>0.896245</Open>
+    <High>0.910627</High>
+    <Low>0.893936</Low>
+    <Close>0.900645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-17</Date>
+    <Open>0.903145</Open>
+    <High>0.909718</High>
+    <Low>0.895872</Low>
+    <Close>0.902927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-18</Date>
+    <Open>0.902918</Open>
+    <High>0.910591</High>
+    <Low>0.893627</Low>
+    <Close>0.899236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-19</Date>
+    <Open>0.902936</Open>
+    <High>0.911755</High>
+    <Low>0.892118</Low>
+    <Close>0.899236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-20</Date>
+    <Open>0.900609</Open>
+    <High>0.903446</High>
+    <Low>0.895827</Low>
+    <Close>0.897619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-21</Date>
+    <Open>0.896319</Open>
+    <High>0.910409</High>
+    <Low>0.877547</Low>
+    <Close>0.901063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-22</Date>
+    <Open>0.897463</Open>
+    <High>0.901063</High>
+    <Low>0.883844</Low>
+    <Close>0.888871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-23</Date>
+    <Open>0.886771</Open>
+    <High>0.897326</High>
+    <Low>0.882262</Low>
+    <Close>0.897326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-24</Date>
+    <Open>0.898308</Open>
+    <High>0.908864</High>
+    <Low>0.873187</Low>
+    <Close>0.887927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-25</Date>
+    <Open>0.889362</Open>
+    <High>0.937487</High>
+    <Low>0.8807</Low>
+    <Close>0.909718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-26</Date>
+    <Open>0.908409</Open>
+    <High>0.922823</High>
+    <Low>0.89145</Low>
+    <Close>0.900443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-27</Date>
+    <Open>0.905435</Open>
+    <High>0.933103</High>
+    <Low>0.900516</Low>
+    <Close>0.913546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-28</Date>
+    <Open>0.916655</Open>
+    <High>0.95159</High>
+    <Low>0.903581</Low>
+    <Close>0.943808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-29</Date>
+    <Open>0.942479</Open>
+    <High>0.997729</High>
+    <Low>0.941907</Low>
+    <Close>0.995039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-30</Date>
+    <Open>0.995159</Open>
+    <High>1.03042</High>
+    <Low>0.986476</Low>
+    <Close>1.0137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-10-31</Date>
+    <Open>1.0137</Open>
+    <High>1.08039</High>
+    <Low>1.0024</Low>
+    <Close>1.05412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-01</Date>
+    <Open>1.05344</Open>
+    <High>1.08451</High>
+    <Low>1.02066</Low>
+    <Close>1.02179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-02</Date>
+    <Open>1.02478</Open>
+    <High>1.03763</High>
+    <Low>0.96599</Low>
+    <Close>0.97735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-03</Date>
+    <Open>0.97274</Open>
+    <High>1.033</High>
+    <Low>0.97274</Low>
+    <Close>1.01169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-04</Date>
+    <Open>1.01129</Open>
+    <High>1.08849</High>
+    <Low>1.0112</Low>
+    <Close>1.05706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-05</Date>
+    <Open>1.05808</Open>
+    <High>1.09667</High>
+    <Low>1.05418</Low>
+    <Close>1.07246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-06</Date>
+    <Open>1.07245</Open>
+    <High>1.07531</High>
+    <Low>1.01667</Low>
+    <Close>1.01667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-07</Date>
+    <Open>1.01608</Open>
+    <High>1.02689</High>
+    <Low>0.97268</Low>
+    <Close>1.00512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-08</Date>
+    <Open>1.0031</Open>
+    <High>1.0134</High>
+    <Low>0.8746</Low>
+    <Close>0.901195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-09</Date>
+    <Open>0.905207</Open>
+    <High>0.954652</High>
+    <Low>0.848274</Low>
+    <Close>0.884276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-10</Date>
+    <Open>0.882448</Open>
+    <High>1.02478</High>
+    <Low>0.869864</Low>
+    <Close>0.95067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-11</Date>
+    <Open>0.953276</Open>
+    <High>1.0694</High>
+    <Low>0.8501</Low>
+    <Close>0.8847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-12</Date>
+    <Open>0.881888</Open>
+    <High>0.897012</High>
+    <Low>0.843579</Low>
+    <Close>0.866737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-13</Date>
+    <Open>0.862744</Open>
+    <High>0.874311</High>
+    <Low>0.847137</Low>
+    <Close>0.865161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-14</Date>
+    <Open>0.864288</Open>
+    <High>0.939976</High>
+    <Low>0.843917</Low>
+    <Close>0.889763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-15</Date>
+    <Open>0.894856</Open>
+    <High>0.928591</High>
+    <Low>0.876622</Low>
+    <Close>0.893006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-16</Date>
+    <Open>0.892706</Open>
+    <High>0.911261</High>
+    <Low>0.869013</Low>
+    <Close>0.882305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-17</Date>
+    <Open>0.890189</Open>
+    <High>0.900315</High>
+    <Low>0.850778</Low>
+    <Close>0.85803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-18</Date>
+    <Open>0.861962</Open>
+    <High>0.883857</High>
+    <Low>0.852336</Low>
+    <Close>0.857313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-19</Date>
+    <Open>0.857513</Open>
+    <High>0.863058</High>
+    <Low>0.850047</Low>
+    <Close>0.857499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-20</Date>
+    <Open>0.856608</Open>
+    <High>0.860962</High>
+    <Low>0.830402</Low>
+    <Close>0.836535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-21</Date>
+    <Open>0.835528</Open>
+    <High>0.867975</High>
+    <Low>0.832067</Low>
+    <Close>0.862056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-22</Date>
+    <Open>0.860358</Open>
+    <High>0.863437</High>
+    <Low>0.832566</Low>
+    <Close>0.850918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-23</Date>
+    <Open>0.85081</Open>
+    <High>0.879435</High>
+    <Low>0.837194</Low>
+    <Close>0.854168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-24</Date>
+    <Open>0.857182</Open>
+    <High>0.876137</High>
+    <Low>0.845614</Low>
+    <Close>0.853482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-25</Date>
+    <Open>0.853465</Open>
+    <High>0.854316</High>
+    <Low>0.834066</Low>
+    <Close>0.840812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-26</Date>
+    <Open>0.844601</Open>
+    <High>0.858688</High>
+    <Low>0.836548</Low>
+    <Close>0.843368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-27</Date>
+    <Open>0.845709</Open>
+    <High>0.857568</High>
+    <Low>0.839362</Low>
+    <Close>0.853371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-28</Date>
+    <Open>0.84491</Open>
+    <High>0.84491</High>
+    <Low>0.804357</Low>
+    <Close>0.821096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-29</Date>
+    <Open>0.82008</Open>
+    <High>0.837456</High>
+    <Low>0.812083</Low>
+    <Close>0.826078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-11-30</Date>
+    <Open>0.826278</Open>
+    <High>0.861798</High>
+    <Low>0.822537</Low>
+    <Close>0.858643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-01</Date>
+    <Open>0.856477</Open>
+    <High>0.858809</High>
+    <Low>0.841442</Low>
+    <Close>0.850451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-02</Date>
+    <Open>0.852151</Open>
+    <High>0.858777</High>
+    <Low>0.8358</Low>
+    <Close>0.854451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-03</Date>
+    <Open>0.853551</Open>
+    <High>0.858494</High>
+    <Low>0.832283</Low>
+    <Close>0.835784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-04</Date>
+    <Open>0.837167</Open>
+    <High>0.8531</High>
+    <Low>0.836567</Low>
+    <Close>0.847269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-05</Date>
+    <Open>0.847669</Open>
+    <High>0.855294</High>
+    <Low>0.835083</Low>
+    <Close>0.842925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-06</Date>
+    <Open>0.842517</Open>
+    <High>0.849117</High>
+    <Low>0.832558</Low>
+    <Close>0.832892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-07</Date>
+    <Open>0.8332</Open>
+    <High>0.840883</High>
+    <Low>0.811741</Low>
+    <Close>0.8202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-08</Date>
+    <Open>0.8202</Open>
+    <High>0.850027</High>
+    <Low>0.819816</Low>
+    <Close>0.829466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-09</Date>
+    <Open>0.824158</Open>
+    <High>0.842308</High>
+    <Low>0.819241</Low>
+    <Close>0.819441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-10</Date>
+    <Open>0.820533</Open>
+    <High>0.828608</High>
+    <Low>0.820533</Low>
+    <Close>0.824884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-11</Date>
+    <Open>0.824592</Open>
+    <High>0.830225</High>
+    <Low>0.819282</Low>
+    <Close>0.821182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-12</Date>
+    <Open>0.819682</Open>
+    <High>0.828291</High>
+    <Low>0.814665</Low>
+    <Close>0.826266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-13</Date>
+    <Open>0.825374</Open>
+    <High>0.844841</High>
+    <Low>0.819021</Low>
+    <Close>0.827918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-14</Date>
+    <Open>0.829134</Open>
+    <High>0.842575</High>
+    <Low>0.822992</Low>
+    <Close>0.831058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-15</Date>
+    <Open>0.8334</Open>
+    <High>0.843869</High>
+    <Low>0.793679</Low>
+    <Close>0.794679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-16</Date>
+    <Open>0.79748</Open>
+    <High>0.804661</High>
+    <Low>0.771877</Low>
+    <Close>0.79698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-17</Date>
+    <Open>0.80236</Open>
+    <High>0.806405</High>
+    <Low>0.7673</Low>
+    <Close>0.806405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-18</Date>
+    <Open>0.807397</Open>
+    <High>0.812906</High>
+    <Low>0.799032</Low>
+    <Close>0.805197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-19</Date>
+    <Open>0.807105</Open>
+    <High>0.812492</High>
+    <Low>0.795095</Low>
+    <Close>0.803508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-20</Date>
+    <Open>0.800892</Open>
+    <High>0.823216</High>
+    <Low>0.799976</Low>
+    <Close>0.812833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-21</Date>
+    <Open>0.813233</Open>
+    <High>0.817233</High>
+    <Low>0.803156</Low>
+    <Close>0.810241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-22</Date>
+    <Open>0.80994</Open>
+    <High>0.830167</High>
+    <Low>0.799804</Low>
+    <Close>0.817061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-23</Date>
+    <Open>0.818677</Open>
+    <High>0.823876</High>
+    <Low>0.806855</Low>
+    <Close>0.814219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-24</Date>
+    <Open>0.813927</Open>
+    <High>0.818834</High>
+    <Low>0.805411</Low>
+    <Close>0.813251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-25</Date>
+    <Open>0.813151</Open>
+    <High>0.815059</High>
+    <Low>0.800228</Low>
+    <Close>0.810478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-26</Date>
+    <Open>0.811703</Open>
+    <High>0.81811</High>
+    <Low>0.803531</Low>
+    <Close>0.808238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-27</Date>
+    <Open>0.808254</Open>
+    <High>0.815945</High>
+    <Low>0.804247</Low>
+    <Close>0.809692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-28</Date>
+    <Open>0.811084</Open>
+    <High>0.818754</High>
+    <Low>0.802766</Low>
+    <Close>0.806264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-29</Date>
+    <Open>0.808379</Open>
+    <High>0.821497</High>
+    <Low>0.806505</Low>
+    <Close>0.818032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-30</Date>
+    <Open>0.816324</Open>
+    <High>0.818491</High>
+    <Low>0.807888</Low>
+    <Close>0.813685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2022-12-31</Date>
+    <Open>0.814501</Open>
+    <High>0.820689</High>
+    <Low>0.809387</Low>
+    <Close>0.812485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-01</Date>
+    <Open>0.812593</Open>
+    <High>0.828277</High>
+    <Low>0.810578</Low>
+    <Close>0.820023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-02</Date>
+    <Open>0.819931</Open>
+    <High>0.865054</High>
+    <Low>0.815557</Low>
+    <Close>0.857234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-03</Date>
+    <Open>0.859725</Open>
+    <High>0.862655</High>
+    <Low>0.845638</Low>
+    <Close>0.854767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-04</Date>
+    <Open>0.854667</Open>
+    <High>0.879648</High>
+    <Low>0.854667</Low>
+    <Close>0.86295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-05</Date>
+    <Open>0.867114</Open>
+    <High>0.87941</High>
+    <Low>0.85445</Low>
+    <Close>0.857191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-06</Date>
+    <Open>0.857243</Open>
+    <High>0.86139</High>
+    <Low>0.848016</Low>
+    <Close>0.859342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-07</Date>
+    <Open>0.861024</Open>
+    <High>0.86784</High>
+    <Low>0.839865</Low>
+    <Close>0.849996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-08</Date>
+    <Open>0.849996</Open>
+    <High>0.859719</High>
+    <Low>0.845048</Low>
+    <Close>0.853772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-09</Date>
+    <Open>0.854046</Open>
+    <High>0.889175</High>
+    <Low>0.854046</Low>
+    <Close>0.8839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-10</Date>
+    <Open>0.8836</Open>
+    <High>0.88672</High>
+    <Low>0.866305</Low>
+    <Close>0.881306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-11</Date>
+    <Open>0.881432</Open>
+    <High>0.912918</High>
+    <Low>0.867983</Low>
+    <Close>0.903491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-12</Date>
+    <Open>0.902355</Open>
+    <High>0.946914</High>
+    <Low>0.90021</Low>
+    <Close>0.939385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-13</Date>
+    <Open>0.934993</Open>
+    <High>0.948295</High>
+    <Low>0.887844</Low>
+    <Close>0.912282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-14</Date>
+    <Open>0.914482</Open>
+    <High>0.936753</High>
+    <Low>0.899198</Low>
+    <Close>0.933137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-15</Date>
+    <Open>0.929828</Open>
+    <High>0.937559</High>
+    <Low>0.915637</Low>
+    <Close>0.922267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-16</Date>
+    <Open>0.926878</Open>
+    <High>0.935124</High>
+    <Low>0.901652</Low>
+    <Close>0.930637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-17</Date>
+    <Open>0.928628</Open>
+    <High>0.934172</High>
+    <Low>0.9094</Low>
+    <Close>0.929512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-18</Date>
+    <Open>0.921892</Open>
+    <High>0.931274</High>
+    <Low>0.890373</Low>
+    <Close>0.893255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-19</Date>
+    <Open>0.895982</Open>
+    <High>0.915073</High>
+    <Low>0.890111</Low>
+    <Close>0.911273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-20</Date>
+    <Open>0.912164</Open>
+    <High>0.945289</High>
+    <Low>0.898082</Low>
+    <Close>0.936778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-21</Date>
+    <Open>0.939788</Open>
+    <High>0.945574</High>
+    <Low>0.915811</Low>
+    <Close>0.919884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-22</Date>
+    <Open>0.924385</Open>
+    <High>0.932577</High>
+    <Low>0.905336</Low>
+    <Close>0.921975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-23</Date>
+    <Open>0.929377</Open>
+    <High>0.93203</High>
+    <Low>0.906382</Low>
+    <Close>0.930358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-24</Date>
+    <Open>0.929449</Open>
+    <High>0.933921</High>
+    <Low>0.912946</Low>
+    <Close>0.920728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-25</Date>
+    <Open>0.923983</Open>
+    <High>0.946651</High>
+    <Low>0.909209</Low>
+    <Close>0.928858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-26</Date>
+    <Open>0.928767</Open>
+    <High>0.94357</High>
+    <Low>0.921392</Low>
+    <Close>0.934084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-27</Date>
+    <Open>0.930584</Open>
+    <High>0.933324</High>
+    <Low>0.915373</Low>
+    <Close>0.926954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-28</Date>
+    <Open>0.928916</Open>
+    <High>0.935605</High>
+    <Low>0.922612</Low>
+    <Close>0.924803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-29</Date>
+    <Open>0.924603</Open>
+    <High>0.945132</High>
+    <Low>0.924103</Low>
+    <Close>0.939866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-30</Date>
+    <Open>0.940619</Open>
+    <High>0.943628</High>
+    <Low>0.913537</Low>
+    <Close>0.921755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-01-31</Date>
+    <Open>0.918583</Open>
+    <High>0.941762</High>
+    <Low>0.913654</Low>
+    <Close>0.922192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-01</Date>
+    <Open>0.922755</Open>
+    <High>0.953805</High>
+    <Low>0.917028</Low>
+    <Close>0.944628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-02</Date>
+    <Open>0.943247</Open>
+    <High>0.954576</High>
+    <Low>0.93153</Low>
+    <Close>0.94528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-03</Date>
+    <Open>0.943498</Open>
+    <High>0.943498</High>
+    <Low>0.9151</Low>
+    <Close>0.922774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-04</Date>
+    <Open>0.923883</Open>
+    <High>0.933056</High>
+    <Low>0.914164</Low>
+    <Close>0.926893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-05</Date>
+    <Open>0.927774</Open>
+    <High>0.960682</High>
+    <Low>0.918383</Low>
+    <Close>0.943136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-06</Date>
+    <Open>0.951947</Open>
+    <High>0.957457</High>
+    <Low>0.933868</Low>
+    <Close>0.943028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-07</Date>
+    <Open>0.939985</Open>
+    <High>0.9834</High>
+    <Low>0.937566</Low>
+    <Close>0.977268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-08</Date>
+    <Open>0.979839</Open>
+    <High>0.99411</High>
+    <Low>0.953538</Low>
+    <Close>0.971858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-09</Date>
+    <Open>0.967458</Open>
+    <High>0.967497</High>
+    <Low>0.892087</Low>
+    <Close>0.911746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-10</Date>
+    <Open>0.911509</Open>
+    <High>0.918829</High>
+    <Low>0.87551</Low>
+    <Close>0.900344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-11</Date>
+    <Open>0.904336</Open>
+    <High>0.922392</High>
+    <Low>0.899272</Low>
+    <Close>0.922392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-12</Date>
+    <Open>0.923683</Open>
+    <High>0.95581</High>
+    <Low>0.911318</Low>
+    <Close>0.932665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-13</Date>
+    <Open>0.931893</Open>
+    <High>0.941093</High>
+    <Low>0.904252</Low>
+    <Close>0.923799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-14</Date>
+    <Open>0.923371</Open>
+    <High>0.947579</High>
+    <Low>0.908554</Low>
+    <Close>0.927234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-15</Date>
+    <Open>0.930907</Open>
+    <High>1.10817</High>
+    <Low>0.913283</Low>
+    <Close>1.093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-16</Date>
+    <Open>1.08828</Open>
+    <High>1.44546</High>
+    <Low>1.08397</Low>
+    <Close>1.28123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-17</Date>
+    <Open>1.27033</Open>
+    <High>1.42288</High>
+    <Low>1.26795</Low>
+    <Close>1.39293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-18</Date>
+    <Open>1.3991</Open>
+    <High>1.40112</High>
+    <Low>1.36579</Low>
+    <Close>1.37092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-19</Date>
+    <Open>1.37192</Open>
+    <High>1.38429</High>
+    <Low>1.28305</Low>
+    <Close>1.2959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-20</Date>
+    <Open>1.2939</Open>
+    <High>1.35668</High>
+    <Low>1.27377</Low>
+    <Close>1.32591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-21</Date>
+    <Open>1.32499</Open>
+    <High>1.33358</High>
+    <Low>1.22011</Low>
+    <Close>1.23101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-22</Date>
+    <Open>1.22735</Open>
+    <High>1.33075</High>
+    <Low>1.19849</Low>
+    <Close>1.2775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-23</Date>
+    <Open>1.2872</Open>
+    <High>1.33009</High>
+    <Low>1.22593</Low>
+    <Close>1.22824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-24</Date>
+    <Open>1.23008</Open>
+    <High>1.30605</High>
+    <Low>1.23008</Low>
+    <Close>1.25329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-25</Date>
+    <Open>1.251</Open>
+    <High>1.26001</High>
+    <Low>1.22232</Low>
+    <Close>1.24719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-26</Date>
+    <Open>1.24749</Open>
+    <High>1.32632</High>
+    <Low>1.2416</Low>
+    <Close>1.31063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-27</Date>
+    <Open>1.31683</Open>
+    <High>1.38523</High>
+    <Low>1.31255</Low>
+    <Close>1.36517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-02-28</Date>
+    <Open>1.36388</Open>
+    <High>1.43227</High>
+    <Low>1.31555</Low>
+    <Close>1.40321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-01</Date>
+    <Open>1.40277</Open>
+    <High>1.59291</High>
+    <Low>1.39921</Low>
+    <Close>1.56443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-02</Date>
+    <Open>1.56962</Open>
+    <High>1.71927</High>
+    <Low>1.54133</Low>
+    <Close>1.70979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-03</Date>
+    <Open>1.70429</Open>
+    <High>1.75772</High>
+    <Low>1.60813</Low>
+    <Close>1.61951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-04</Date>
+    <Open>1.62405</Open>
+    <High>1.74349</High>
+    <Low>1.62275</Low>
+    <Close>1.71442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-05</Date>
+    <Open>1.71695</Open>
+    <High>1.88857</High>
+    <Low>1.71665</Low>
+    <Close>1.81912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-06</Date>
+    <Open>1.8023</Open>
+    <High>1.85962</High>
+    <Low>1.77809</Low>
+    <Close>1.79313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-07</Date>
+    <Open>1.78624</Open>
+    <High>1.84148</High>
+    <Low>1.7543</Low>
+    <Close>1.7543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-08</Date>
+    <Open>1.7563</Open>
+    <High>1.81865</High>
+    <Low>1.68553</Low>
+    <Close>1.6969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-09</Date>
+    <Open>1.69426</Open>
+    <High>1.73006</High>
+    <Low>1.52867</Low>
+    <Close>1.53622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-10</Date>
+    <Open>1.52083</Open>
+    <High>1.59316</High>
+    <Low>1.44019</Low>
+    <Close>1.57269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-11</Date>
+    <Open>1.5756</Open>
+    <High>1.664</High>
+    <Low>1.49826</Low>
+    <Close>1.59246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-12</Date>
+    <Open>1.59539</Open>
+    <High>1.73177</High>
+    <Low>1.59357</Low>
+    <Close>1.71983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-13</Date>
+    <Open>1.71406</Open>
+    <High>1.8726</High>
+    <Low>1.71406</Low>
+    <Close>1.84923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-14</Date>
+    <Open>1.84996</Open>
+    <High>1.9462</High>
+    <Low>1.81472</Low>
+    <Close>1.85038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-15</Date>
+    <Open>1.85928</Open>
+    <High>1.90095</High>
+    <Low>1.79382</Low>
+    <Close>1.85177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-16</Date>
+    <Open>1.85386</Open>
+    <High>1.90176</High>
+    <Low>1.83518</Low>
+    <Close>1.88417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-17</Date>
+    <Open>1.88617</Open>
+    <High>2.01332</High>
+    <Low>1.88087</Low>
+    <Close>2.00177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-18</Date>
+    <Open>1.99747</Open>
+    <High>2.10649</High>
+    <Low>1.98886</Low>
+    <Close>2.00004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-19</Date>
+    <Open>1.99928</Open>
+    <High>2.10743</High>
+    <Low>1.97595</Low>
+    <Close>2.06539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-20</Date>
+    <Open>2.0663</Open>
+    <High>2.10128</High>
+    <Low>1.99536</Low>
+    <Close>2.0291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-21</Date>
+    <Open>2.02715</Open>
+    <High>2.03799</High>
+    <Low>1.96988</Low>
+    <Close>1.98872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-22</Date>
+    <Open>1.98812</Open>
+    <High>2.02634</High>
+    <Low>1.90669</Low>
+    <Close>1.94668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-23</Date>
+    <Open>1.9416</Open>
+    <High>2.04391</High>
+    <Low>1.9338</Low>
+    <Close>2.00366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-24</Date>
+    <Open>2.01292</Open>
+    <High>2.01869</High>
+    <Low>1.86389</Low>
+    <Close>1.87677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-25</Date>
+    <Open>1.88299</Open>
+    <High>1.95643</High>
+    <Low>1.88182</Low>
+    <Close>1.93894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-26</Date>
+    <Open>1.93603</Open>
+    <High>1.99339</High>
+    <Low>1.89885</Low>
+    <Close>1.90285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-27</Date>
+    <Open>1.9083</Open>
+    <High>1.94883</High>
+    <Low>1.80791</Low>
+    <Close>1.84357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-28</Date>
+    <Open>1.84388</Open>
+    <High>1.89834</High>
+    <Low>1.82338</Low>
+    <Close>1.89834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-29</Date>
+    <Open>1.89342</Open>
+    <High>1.96071</High>
+    <Low>1.88942</Low>
+    <Close>1.93339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-30</Date>
+    <Open>1.92867</Open>
+    <High>1.96274</High>
+    <Low>1.91649</Low>
+    <Close>1.94159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-03-31</Date>
+    <Open>1.94232</Open>
+    <High>1.97969</High>
+    <Low>1.91976</Low>
+    <Close>1.96669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-01</Date>
+    <Open>1.96589</Open>
+    <High>1.97773</High>
+    <Low>1.93798</Low>
+    <Close>1.9507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-02</Date>
+    <Open>1.95522</Open>
+    <High>1.96346</High>
+    <Low>1.90001</Low>
+    <Close>1.90948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-03</Date>
+    <Open>1.90338</Open>
+    <High>1.96197</High>
+    <Low>1.8888</Low>
+    <Close>1.91733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-04</Date>
+    <Open>1.91687</Open>
+    <High>1.97557</High>
+    <Low>1.91687</Low>
+    <Close>1.95885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-05</Date>
+    <Open>1.96024</Open>
+    <High>2.00792</High>
+    <Low>1.93822</Low>
+    <Close>1.97751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-06</Date>
+    <Open>1.976</Open>
+    <High>1.97989</High>
+    <Low>1.94066</Low>
+    <Close>1.96069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-07</Date>
+    <Open>1.95724</Open>
+    <High>1.96864</High>
+    <Low>1.94791</Low>
+    <Close>1.95847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-08</Date>
+    <Open>1.95847</Open>
+    <High>1.98013</High>
+    <Low>1.95703</Low>
+    <Close>1.97059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-09</Date>
+    <Open>1.96907</Open>
+    <High>1.99804</High>
+    <Low>1.96102</Low>
+    <Close>1.9927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-10</Date>
+    <Open>1.99704</Open>
+    <High>2.02312</High>
+    <Low>1.98113</Low>
+    <Close>2.01445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-11</Date>
+    <Open>2.02668</Open>
+    <High>2.11819</High>
+    <Low>2.01834</Low>
+    <Close>2.07623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-12</Date>
+    <Open>2.08051</Open>
+    <High>2.17289</High>
+    <Low>2.03996</Low>
+    <Close>2.17289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-13</Date>
+    <Open>2.16847</Open>
+    <High>2.28631</High>
+    <Low>2.16847</Low>
+    <Close>2.2137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-14</Date>
+    <Open>2.21951</Open>
+    <High>2.33429</High>
+    <Low>2.19064</Low>
+    <Close>2.27068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-15</Date>
+    <Open>2.25873</Open>
+    <High>2.26518</High>
+    <Low>2.20171</Low>
+    <Close>2.20588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-16</Date>
+    <Open>2.20376</Open>
+    <High>2.26493</High>
+    <Low>2.19511</Low>
+    <Close>2.24167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-17</Date>
+    <Open>2.2462</Open>
+    <High>2.26366</High>
+    <Low>2.19049</Low>
+    <Close>2.21383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-18</Date>
+    <Open>2.20939</Open>
+    <High>2.26949</High>
+    <Low>2.20071</Low>
+    <Close>2.26934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-19</Date>
+    <Open>2.26364</Open>
+    <High>2.27263</High>
+    <Low>2.11596</Low>
+    <Close>2.23554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-20</Date>
+    <Open>2.23857</Open>
+    <High>2.32993</High>
+    <Low>2.12282</Low>
+    <Close>2.26913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-21</Date>
+    <Open>2.26996</Open>
+    <High>2.38691</High>
+    <Low>2.19184</Low>
+    <Close>2.2022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-22</Date>
+    <Open>2.20658</Open>
+    <High>2.28967</High>
+    <Low>2.19123</Low>
+    <Close>2.26898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-23</Date>
+    <Open>2.27483</Open>
+    <High>2.30369</High>
+    <Low>2.24129</Low>
+    <Close>2.2482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-24</Date>
+    <Open>2.25388</Open>
+    <High>2.29888</High>
+    <Low>2.20624</Low>
+    <Close>2.22904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-25</Date>
+    <Open>2.24119</Open>
+    <High>2.2952</High>
+    <Low>2.18283</Low>
+    <Close>2.2952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-26</Date>
+    <Open>2.30715</Open>
+    <High>2.38078</High>
+    <Low>2.21733</Low>
+    <Close>2.30411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-27</Date>
+    <Open>2.30354</Open>
+    <High>2.38123</High>
+    <Low>2.28398</Low>
+    <Close>2.35319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-28</Date>
+    <Open>2.35685</Open>
+    <High>2.36378</High>
+    <Low>2.31705</Low>
+    <Close>2.32273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-29</Date>
+    <Open>2.33336</Open>
+    <High>2.42998</High>
+    <Low>2.32871</Low>
+    <Close>2.40569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-04-30</Date>
+    <Open>2.40629</Open>
+    <High>2.42169</High>
+    <Low>2.35199</Low>
+    <Close>2.37365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-01</Date>
+    <Open>2.3732</Open>
+    <High>2.3732</High>
+    <Low>2.28045</Low>
+    <Close>2.30953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-02</Date>
+    <Open>2.3096</Open>
+    <High>2.36841</High>
+    <Low>2.30442</Low>
+    <Close>2.35744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-03</Date>
+    <Open>2.36154</Open>
+    <High>2.49407</High>
+    <Low>2.34839</Low>
+    <Close>2.48867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-04</Date>
+    <Open>2.49462</Open>
+    <High>2.59793</High>
+    <Low>2.49005</Low>
+    <Close>2.54374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-05</Date>
+    <Open>2.54934</Open>
+    <High>2.78128</High>
+    <Low>2.51861</Low>
+    <Close>2.7445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-06</Date>
+    <Open>2.75483</Open>
+    <High>2.87044</High>
+    <Low>2.65954</Low>
+    <Close>2.72373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-07</Date>
+    <Open>2.72366</Open>
+    <High>3.21923</High>
+    <Low>2.71474</Low>
+    <Close>3.07072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-08</Date>
+    <Open>3.06691</Open>
+    <High>3.14917</High>
+    <Low>2.88833</Low>
+    <Close>2.9594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-09</Date>
+    <Open>2.95709</Open>
+    <High>2.99532</High>
+    <Low>2.74459</Low>
+    <Close>2.81571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-10</Date>
+    <Open>2.81247</Open>
+    <High>2.92252</High>
+    <Low>2.75513</Low>
+    <Close>2.82254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-11</Date>
+    <Open>2.83213</Open>
+    <High>2.84915</High>
+    <Low>2.54289</Low>
+    <Close>2.62576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-12</Date>
+    <Open>2.61401</Open>
+    <High>2.6563</High>
+    <Low>2.43027</Low>
+    <Close>2.64612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-13</Date>
+    <Open>2.64045</Open>
+    <High>2.75545</High>
+    <Low>2.64045</Low>
+    <Close>2.72583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-14</Date>
+    <Open>2.73234</Open>
+    <High>2.8028</High>
+    <Low>2.71003</Low>
+    <Close>2.77126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-15</Date>
+    <Open>2.77359</Open>
+    <High>2.92686</High>
+    <Low>2.73824</Low>
+    <Close>2.864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-16</Date>
+    <Open>2.85863</Open>
+    <High>2.90183</High>
+    <Low>2.83299</Low>
+    <Close>2.86713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-17</Date>
+    <Open>2.87274</Open>
+    <High>2.91556</High>
+    <Low>2.79332</Low>
+    <Close>2.85714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-18</Date>
+    <Open>2.86183</Open>
+    <High>2.93597</High>
+    <Low>2.82595</Low>
+    <Close>2.90797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-19</Date>
+    <Open>2.90657</Open>
+    <High>2.95548</High>
+    <Low>2.86703</Low>
+    <Close>2.92888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-20</Date>
+    <Open>2.92745</Open>
+    <High>3.0007</High>
+    <Low>2.92745</Low>
+    <Close>2.95956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-21</Date>
+    <Open>2.95856</Open>
+    <High>2.97888</High>
+    <Low>2.88794</Low>
+    <Close>2.90144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-22</Date>
+    <Open>2.89644</Open>
+    <High>2.95448</High>
+    <Low>2.87572</Low>
+    <Close>2.93806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-23</Date>
+    <Open>2.94335</Open>
+    <High>2.9952</High>
+    <Low>2.91545</Low>
+    <Close>2.94082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-24</Date>
+    <Open>2.93716</Open>
+    <High>2.95611</High>
+    <Low>2.8212</Low>
+    <Close>2.88406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-25</Date>
+    <Open>2.88347</Open>
+    <High>2.91119</High>
+    <Low>2.82673</Low>
+    <Close>2.90069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-26</Date>
+    <Open>2.91016</Open>
+    <High>2.97083</High>
+    <Low>2.8764</Low>
+    <Close>2.93825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-27</Date>
+    <Open>2.94339</Open>
+    <High>2.96089</High>
+    <Low>2.92005</Low>
+    <Close>2.93484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="MX">
+    <Date>2023-05-28</Date>
+    <Open>2.94458</Open>
+    <High>2.98229</High>
+    <Low>2.93918</Low>
+    <Close>2.98229</Close>
+  </Cryptocurrency>
+</Root>

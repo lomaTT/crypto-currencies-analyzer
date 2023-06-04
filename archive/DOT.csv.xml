@@ -1,0 +1,7066 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-21</Date>
+    <Open>2.913</Open>
+    <High>3.011</High>
+    <Low>2.82</Low>
+    <Close>2.957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-22</Date>
+    <Open>2.957</Open>
+    <High>4.49</High>
+    <Low>2.957</Low>
+    <Close>4.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-23</Date>
+    <Open>4.49</Open>
+    <High>4.511</High>
+    <Low>3.717</Low>
+    <Close>3.981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-24</Date>
+    <Open>3.981</Open>
+    <High>4.78</High>
+    <Low>3.806</Low>
+    <Close>4.574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-25</Date>
+    <Open>4.574</Open>
+    <High>5.758</High>
+    <Low>4.485</Low>
+    <Close>5.559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-26</Date>
+    <Open>5.559</Open>
+    <High>6.581</High>
+    <Low>5.108</Low>
+    <Close>6.089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-27</Date>
+    <Open>6.089</Open>
+    <High>6.809</High>
+    <Low>5.249</Low>
+    <Close>5.658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-28</Date>
+    <Open>5.658</Open>
+    <High>6.352</High>
+    <Low>5.502</Low>
+    <Close>6.183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-29</Date>
+    <Open>6.183</Open>
+    <High>6.563</High>
+    <Low>6.021</Low>
+    <Close>6.146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-30</Date>
+    <Open>6.146</Open>
+    <High>6.227</High>
+    <Low>5.721</Low>
+    <Close>5.897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-08-31</Date>
+    <Open>5.897</Open>
+    <High>6.464</High>
+    <Low>5.765</Low>
+    <Close>6.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-01</Date>
+    <Open>6.28</Open>
+    <High>6.849</High>
+    <Low>6.141</Low>
+    <Close>6.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-02</Date>
+    <Open>6.25</Open>
+    <High>6.445</High>
+    <Low>5.65</Low>
+    <Close>6.145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-03</Date>
+    <Open>6.145</Open>
+    <High>6.329</High>
+    <Low>5.643</Low>
+    <Close>5.721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-04</Date>
+    <Open>5.721</Open>
+    <High>5.991</High>
+    <Low>4.553</Low>
+    <Close>5.114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-05</Date>
+    <Open>5.114</Open>
+    <High>5.317</High>
+    <Low>3.596</Low>
+    <Close>4.152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-06</Date>
+    <Open>4.152</Open>
+    <High>4.914</High>
+    <Low>3.741</Low>
+    <Close>4.787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-07</Date>
+    <Open>4.787</Open>
+    <High>4.838</High>
+    <Low>4.015</Low>
+    <Close>4.598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-08</Date>
+    <Open>4.598</Open>
+    <High>4.628</High>
+    <Low>4.115</Low>
+    <Close>4.272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-09</Date>
+    <Open>4.272</Open>
+    <High>4.785</High>
+    <Low>4.142</Low>
+    <Close>4.699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-10</Date>
+    <Open>4.699</Open>
+    <High>4.883</High>
+    <Low>4.423</Low>
+    <Close>4.571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-11</Date>
+    <Open>4.571</Open>
+    <High>4.727</High>
+    <Low>4.319</Low>
+    <Close>4.641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-12</Date>
+    <Open>4.641</Open>
+    <High>5.281</High>
+    <Low>4.496</Low>
+    <Close>5.128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-13</Date>
+    <Open>5.128</Open>
+    <High>5.459</High>
+    <Low>4.776</Low>
+    <Close>5.318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-14</Date>
+    <Open>5.318</Open>
+    <High>5.565</High>
+    <Low>5.098</Low>
+    <Close>5.358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-15</Date>
+    <Open>5.358</Open>
+    <High>5.443</High>
+    <Low>5.046</Low>
+    <Close>5.057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-16</Date>
+    <Open>5.057</Open>
+    <High>5.276</High>
+    <Low>4.97</Low>
+    <Close>5.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-17</Date>
+    <Open>5.07</Open>
+    <High>5.407</High>
+    <Low>5.04</Low>
+    <Close>5.321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-18</Date>
+    <Open>5.321</Open>
+    <High>5.422</High>
+    <Low>5.07</Low>
+    <Close>5.227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-19</Date>
+    <Open>5.227</Open>
+    <High>5.242</High>
+    <Low>4.778</Low>
+    <Close>4.894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-20</Date>
+    <Open>4.894</Open>
+    <High>4.956</High>
+    <Low>4.426</Low>
+    <Close>4.645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-21</Date>
+    <Open>4.645</Open>
+    <High>4.688</High>
+    <Low>3.927</Low>
+    <Close>4.069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-22</Date>
+    <Open>4.069</Open>
+    <High>4.204</High>
+    <Low>3.904</Low>
+    <Close>4.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-23</Date>
+    <Open>4.16</Open>
+    <High>4.309</High>
+    <Low>3.939</Low>
+    <Close>4.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-24</Date>
+    <Open>4.01</Open>
+    <High>4.454</High>
+    <Low>3.966</Low>
+    <Close>4.374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-25</Date>
+    <Open>4.374</Open>
+    <High>4.517</High>
+    <Low>4.233</Low>
+    <Close>4.401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-26</Date>
+    <Open>4.401</Open>
+    <High>4.477</High>
+    <Low>4.23</Low>
+    <Close>4.322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-27</Date>
+    <Open>4.322</Open>
+    <High>4.36</High>
+    <Low>4.124</Low>
+    <Close>4.282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-28</Date>
+    <Open>4.282</Open>
+    <High>4.569</High>
+    <Low>4.227</Low>
+    <Close>4.412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-29</Date>
+    <Open>4.412</Open>
+    <High>4.59</High>
+    <Low>4.342</Low>
+    <Close>4.484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-09-30</Date>
+    <Open>4.484</Open>
+    <High>4.486</High>
+    <Low>4.222</Low>
+    <Close>4.322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-01</Date>
+    <Open>4.322</Open>
+    <High>4.549</High>
+    <Low>4.23</Low>
+    <Close>4.325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-02</Date>
+    <Open>4.325</Open>
+    <High>4.346</High>
+    <Low>3.897</Low>
+    <Close>4.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-03</Date>
+    <Open>4.12</Open>
+    <High>4.122</High>
+    <Low>4.024</Low>
+    <Close>4.047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-04</Date>
+    <Open>4.047</Open>
+    <High>4.172</High>
+    <Low>3.998</Low>
+    <Close>4.155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-05</Date>
+    <Open>4.155</Open>
+    <High>4.221</High>
+    <Low>4.092</Low>
+    <Close>4.152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-06</Date>
+    <Open>4.152</Open>
+    <High>4.165</High>
+    <Low>3.624</Low>
+    <Close>3.753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-07</Date>
+    <Open>3.753</Open>
+    <High>3.888</High>
+    <Low>3.61</Low>
+    <Close>3.852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-08</Date>
+    <Open>3.852</Open>
+    <High>4.15</High>
+    <Low>3.645</Low>
+    <Close>4.107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-09</Date>
+    <Open>4.107</Open>
+    <High>4.339</High>
+    <Low>4.008</Low>
+    <Close>4.246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-10</Date>
+    <Open>4.246</Open>
+    <High>4.468</High>
+    <Low>4.222</Low>
+    <Close>4.247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-11</Date>
+    <Open>4.247</Open>
+    <High>4.318</High>
+    <Low>4.162</Low>
+    <Close>4.228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-12</Date>
+    <Open>4.228</Open>
+    <High>4.431</High>
+    <Low>4.189</Low>
+    <Close>4.304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-13</Date>
+    <Open>4.304</Open>
+    <High>4.337</High>
+    <Low>4.139</Low>
+    <Close>4.232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-14</Date>
+    <Open>4.232</Open>
+    <High>4.353</High>
+    <Low>4.082</Low>
+    <Close>4.172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-15</Date>
+    <Open>4.172</Open>
+    <High>4.183</High>
+    <Low>4.014</Low>
+    <Close>4.099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-16</Date>
+    <Open>4.099</Open>
+    <High>4.149</High>
+    <Low>3.812</Low>
+    <Close>3.907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-17</Date>
+    <Open>3.907</Open>
+    <High>3.955</High>
+    <Low>3.857</Low>
+    <Close>3.946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-18</Date>
+    <Open>3.946</Open>
+    <High>4.1</High>
+    <Low>3.933</Low>
+    <Close>4.093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-19</Date>
+    <Open>4.093</Open>
+    <High>4.102</High>
+    <Low>3.946</Low>
+    <Close>3.985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-20</Date>
+    <Open>3.985</Open>
+    <High>4.145</High>
+    <Low>3.869</Low>
+    <Close>3.907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-21</Date>
+    <Open>3.907</Open>
+    <High>4.257</High>
+    <Low>3.898</Low>
+    <Close>4.142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-22</Date>
+    <Open>4.142</Open>
+    <High>4.34</High>
+    <Low>4.127</Low>
+    <Close>4.272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-23</Date>
+    <Open>4.272</Open>
+    <High>4.483</High>
+    <Low>4.195</Low>
+    <Close>4.263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-24</Date>
+    <Open>4.263</Open>
+    <High>4.428</High>
+    <Low>4.241</Low>
+    <Close>4.358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-25</Date>
+    <Open>4.358</Open>
+    <High>4.449</High>
+    <Low>4.264</Low>
+    <Close>4.334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-26</Date>
+    <Open>4.334</Open>
+    <High>4.746</High>
+    <Low>4.295</Low>
+    <Close>4.708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-27</Date>
+    <Open>4.708</Open>
+    <High>4.936</High>
+    <Low>4.645</Low>
+    <Close>4.678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-28</Date>
+    <Open>4.678</Open>
+    <High>4.772</High>
+    <Low>4.257</Low>
+    <Close>4.359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-29</Date>
+    <Open>4.359</Open>
+    <High>4.405</High>
+    <Low>3.884</Low>
+    <Close>4.059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-30</Date>
+    <Open>4.059</Open>
+    <High>4.161</High>
+    <Low>3.927</Low>
+    <Close>4.085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-10-31</Date>
+    <Open>4.085</Open>
+    <High>4.274</High>
+    <Low>4.061</Low>
+    <Close>4.178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-01</Date>
+    <Open>4.178</Open>
+    <High>4.218</High>
+    <Low>4.103</Low>
+    <Close>4.214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-02</Date>
+    <Open>4.214</Open>
+    <High>4.256</High>
+    <Low>3.961</Low>
+    <Close>4.028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-03</Date>
+    <Open>4.028</Open>
+    <High>4.065</High>
+    <Low>3.886</Low>
+    <Close>4.029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-04</Date>
+    <Open>4.029</Open>
+    <High>4.148</High>
+    <Low>3.893</Low>
+    <Close>4.093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-05</Date>
+    <Open>4.093</Open>
+    <High>4.291</High>
+    <Low>4.015</Low>
+    <Close>4.221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-06</Date>
+    <Open>4.221</Open>
+    <High>4.637</High>
+    <Low>4.201</Low>
+    <Close>4.581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-07</Date>
+    <Open>4.581</Open>
+    <High>4.861</High>
+    <Low>4.101</Low>
+    <Close>4.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-08</Date>
+    <Open>4.24</Open>
+    <High>4.426</High>
+    <Low>4.134</Low>
+    <Close>4.374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-09</Date>
+    <Open>4.374</Open>
+    <High>4.454</High>
+    <Low>4.238</Low>
+    <Close>4.338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-10</Date>
+    <Open>4.338</Open>
+    <High>4.502</High>
+    <Low>4.305</Low>
+    <Close>4.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-11</Date>
+    <Open>4.42</Open>
+    <High>4.623</High>
+    <Low>4.42</Low>
+    <Close>4.446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-12</Date>
+    <Open>4.446</Open>
+    <High>4.467</High>
+    <Low>4.309</Low>
+    <Close>4.397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-13</Date>
+    <Open>4.397</Open>
+    <High>4.581</High>
+    <Low>4.364</Low>
+    <Close>4.533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-14</Date>
+    <Open>4.533</Open>
+    <High>4.544</High>
+    <Low>4.35</Low>
+    <Close>4.451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-15</Date>
+    <Open>4.451</Open>
+    <High>4.497</High>
+    <Low>4.304</Low>
+    <Close>4.362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-16</Date>
+    <Open>4.362</Open>
+    <High>4.59</High>
+    <Low>4.33</Low>
+    <Close>4.487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-17</Date>
+    <Open>4.487</Open>
+    <High>4.923</High>
+    <Low>4.484</Low>
+    <Close>4.855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-18</Date>
+    <Open>4.855</Open>
+    <High>4.936</High>
+    <Low>4.512</Low>
+    <Close>4.674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-19</Date>
+    <Open>4.674</Open>
+    <High>4.852</High>
+    <Low>4.543</Low>
+    <Close>4.758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-20</Date>
+    <Open>4.758</Open>
+    <High>5.468</High>
+    <Low>4.744</Low>
+    <Close>5.221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-21</Date>
+    <Open>5.221</Open>
+    <High>5.802</High>
+    <Low>5.122</Low>
+    <Close>5.766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-22</Date>
+    <Open>5.766</Open>
+    <High>5.828</High>
+    <Low>5.184</Low>
+    <Close>5.512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-23</Date>
+    <Open>5.512</Open>
+    <High>5.953</High>
+    <Low>5.416</Low>
+    <Close>5.905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-24</Date>
+    <Open>5.905</Open>
+    <High>6.075</High>
+    <Low>5.609</Low>
+    <Close>5.723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-25</Date>
+    <Open>5.723</Open>
+    <High>5.824</High>
+    <Low>5.133</Low>
+    <Close>5.302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-26</Date>
+    <Open>5.302</Open>
+    <High>5.385</High>
+    <Low>4.455</Low>
+    <Close>4.814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-27</Date>
+    <Open>4.814</Open>
+    <High>5.072</High>
+    <Low>4.519</Low>
+    <Close>4.816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-28</Date>
+    <Open>4.816</Open>
+    <High>4.956</High>
+    <Low>4.675</Low>
+    <Close>4.897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-29</Date>
+    <Open>4.897</Open>
+    <High>5.208</High>
+    <Low>4.808</Low>
+    <Close>5.195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-11-30</Date>
+    <Open>5.195</Open>
+    <High>5.488</High>
+    <Low>5.138</Low>
+    <Close>5.378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-01</Date>
+    <Open>5.378</Open>
+    <High>5.549</High>
+    <Low>5.001</Low>
+    <Close>5.088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-02</Date>
+    <Open>5.088</Open>
+    <High>5.549</High>
+    <Low>5.01</Low>
+    <Close>5.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-03</Date>
+    <Open>5.47</Open>
+    <High>5.57</High>
+    <Low>5.329</Low>
+    <Close>5.406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-04</Date>
+    <Open>5.406</Open>
+    <High>5.432</High>
+    <Low>4.959</Low>
+    <Close>5.001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-05</Date>
+    <Open>5.001</Open>
+    <High>5.197</High>
+    <Low>4.883</Low>
+    <Close>5.187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-06</Date>
+    <Open>5.187</Open>
+    <High>5.209</High>
+    <Low>5.009</Low>
+    <Close>5.134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-07</Date>
+    <Open>5.134</Open>
+    <High>5.16</High>
+    <Low>5.016</Low>
+    <Close>5.061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-08</Date>
+    <Open>5.061</Open>
+    <High>5.067</High>
+    <Low>4.701</Low>
+    <Close>4.739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-09</Date>
+    <Open>4.739</Open>
+    <High>4.938</High>
+    <Low>4.621</Low>
+    <Close>4.871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-10</Date>
+    <Open>4.871</Open>
+    <High>4.916</High>
+    <Low>4.737</Low>
+    <Close>4.799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-11</Date>
+    <Open>4.799</Open>
+    <High>4.815</High>
+    <Low>4.542</Low>
+    <Close>4.612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-12</Date>
+    <Open>4.612</Open>
+    <High>4.803</High>
+    <Low>4.612</Low>
+    <Close>4.743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-13</Date>
+    <Open>4.743</Open>
+    <High>4.997</High>
+    <Low>4.726</Low>
+    <Close>4.895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-14</Date>
+    <Open>4.895</Open>
+    <High>5.004</High>
+    <Low>4.831</Low>
+    <Close>4.897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-15</Date>
+    <Open>4.897</Open>
+    <High>5.293</High>
+    <Low>4.851</Low>
+    <Close>5.241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-16</Date>
+    <Open>5.241</Open>
+    <High>5.374</High>
+    <Low>5.116</Low>
+    <Close>5.366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-17</Date>
+    <Open>5.366</Open>
+    <High>5.737</High>
+    <Low>5.275</Low>
+    <Close>5.345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-18</Date>
+    <Open>5.345</Open>
+    <High>5.514</High>
+    <Low>5.252</Low>
+    <Close>5.363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-19</Date>
+    <Open>5.363</Open>
+    <High>5.574</High>
+    <Low>5.279</Low>
+    <Close>5.337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-20</Date>
+    <Open>5.337</Open>
+    <High>5.433</High>
+    <Low>5.08</Low>
+    <Close>5.186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-21</Date>
+    <Open>5.186</Open>
+    <High>5.445</High>
+    <Low>4.782</Low>
+    <Close>4.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-22</Date>
+    <Open>4.87</Open>
+    <High>5.178</High>
+    <Low>4.801</Low>
+    <Close>5.153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-23</Date>
+    <Open>5.153</Open>
+    <High>5.185</High>
+    <Low>4.605</Low>
+    <Close>4.715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-24</Date>
+    <Open>4.715</Open>
+    <High>5.198</High>
+    <Low>4.634</Low>
+    <Close>5.114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-25</Date>
+    <Open>5.114</Open>
+    <High>5.286</High>
+    <Low>5.042</Low>
+    <Close>5.211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-26</Date>
+    <Open>5.211</Open>
+    <High>5.284</High>
+    <Low>5.074</Low>
+    <Close>5.184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-27</Date>
+    <Open>5.184</Open>
+    <High>5.417</High>
+    <Low>4.931</Low>
+    <Close>5.139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-28</Date>
+    <Open>5.139</Open>
+    <High>6.683</High>
+    <Low>5.105</Low>
+    <Close>6.584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-29</Date>
+    <Open>6.584</Open>
+    <High>7.659</High>
+    <Low>6.156</Low>
+    <Close>7.533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-30</Date>
+    <Open>7.533</Open>
+    <High>7.673</High>
+    <Low>7.069</Low>
+    <Close>7.232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2020-12-31</Date>
+    <Open>7.232</Open>
+    <High>9.502</High>
+    <Low>7.159</Low>
+    <Close>9.267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-01</Date>
+    <Open>9.267</Open>
+    <High>9.438</High>
+    <Low>8.104</Low>
+    <Close>8.294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-02</Date>
+    <Open>8.294</Open>
+    <High>9.801</High>
+    <Low>7.895</Low>
+    <Close>9.206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-03</Date>
+    <Open>9.206</Open>
+    <High>10.5</High>
+    <Low>8.853</Low>
+    <Close>10.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-04</Date>
+    <Open>10.14</Open>
+    <High>10.52</High>
+    <Low>8.861</Low>
+    <Close>9.511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-05</Date>
+    <Open>9.511</Open>
+    <High>10.06</High>
+    <Low>9.052</Low>
+    <Close>9.732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-06</Date>
+    <Open>9.732</Open>
+    <High>10.43</High>
+    <Low>9.473</Low>
+    <Close>10.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-07</Date>
+    <Open>10.08</Open>
+    <High>10.64</High>
+    <Low>9.474</Low>
+    <Close>9.645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-08</Date>
+    <Open>9.645</Open>
+    <High>9.808</High>
+    <Low>8.882</Low>
+    <Close>9.297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-09</Date>
+    <Open>9.297</Open>
+    <High>9.835</High>
+    <Low>9.068</Low>
+    <Close>9.765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-10</Date>
+    <Open>9.765</Open>
+    <High>9.985</High>
+    <Low>8.705</Low>
+    <Close>9.291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-11</Date>
+    <Open>9.291</Open>
+    <High>9.325</High>
+    <Low>7.319</Low>
+    <Close>8.286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-12</Date>
+    <Open>8.286</Open>
+    <High>8.704</High>
+    <Low>7.944</Low>
+    <Close>8.316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-13</Date>
+    <Open>8.316</Open>
+    <High>11.38</High>
+    <Low>7.985</Low>
+    <Close>10.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-14</Date>
+    <Open>10.94</Open>
+    <High>14.66</High>
+    <Low>10.88</Low>
+    <Close>14.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-15</Date>
+    <Open>14.58</Open>
+    <High>14.96</High>
+    <Low>11.93</Low>
+    <Close>13.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-16</Date>
+    <Open>13.18</Open>
+    <High>19.37</High>
+    <Low>13.16</Low>
+    <Close>17.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-17</Date>
+    <Open>17.99</Open>
+    <High>18.23</High>
+    <Low>16.33</Low>
+    <Close>17.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-18</Date>
+    <Open>17.09</Open>
+    <High>18.19</High>
+    <Low>15.77</Low>
+    <Close>16.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-19</Date>
+    <Open>16.6</Open>
+    <High>17.49</High>
+    <Low>15.91</Low>
+    <Close>16.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-20</Date>
+    <Open>16.41</Open>
+    <High>18.19</High>
+    <Low>14.81</Low>
+    <Close>18.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-21</Date>
+    <Open>18.0</Open>
+    <High>18.13</High>
+    <Low>14.99</Low>
+    <Close>15.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-22</Date>
+    <Open>15.97</Open>
+    <High>18.03</High>
+    <Low>14.79</Low>
+    <Close>17.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-23</Date>
+    <Open>17.15</Open>
+    <High>18.81</High>
+    <Low>16.83</Low>
+    <Close>18.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-24</Date>
+    <Open>18.77</Open>
+    <High>18.79</High>
+    <Low>17.27</Low>
+    <Close>18.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-25</Date>
+    <Open>18.02</Open>
+    <High>19.1</High>
+    <Low>17.08</Low>
+    <Close>17.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-26</Date>
+    <Open>17.21</Open>
+    <High>17.8</High>
+    <Low>16.02</Low>
+    <Close>17.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-27</Date>
+    <Open>17.13</Open>
+    <High>17.15</High>
+    <Low>15.08</Low>
+    <Close>15.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-28</Date>
+    <Open>15.48</Open>
+    <High>17.52</High>
+    <Low>15.3</Low>
+    <Close>16.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-29</Date>
+    <Open>16.9</Open>
+    <High>17.73</High>
+    <Low>15.98</Low>
+    <Close>16.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-30</Date>
+    <Open>16.79</Open>
+    <High>17.09</High>
+    <Low>16.16</Low>
+    <Close>16.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-01-31</Date>
+    <Open>16.56</Open>
+    <High>17.52</High>
+    <Low>15.68</Low>
+    <Close>16.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-01</Date>
+    <Open>16.14</Open>
+    <High>16.56</High>
+    <Low>15.69</Low>
+    <Close>16.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-02</Date>
+    <Open>16.46</Open>
+    <High>17.69</High>
+    <Low>16.07</Low>
+    <Close>17.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-03</Date>
+    <Open>17.21</Open>
+    <High>20.95</High>
+    <Low>16.83</Low>
+    <Close>20.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-04</Date>
+    <Open>20.92</Open>
+    <High>21.72</High>
+    <Low>18.99</Low>
+    <Close>19.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-05</Date>
+    <Open>19.71</Open>
+    <High>21.38</High>
+    <Low>19.35</Low>
+    <Close>20.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-06</Date>
+    <Open>20.83</Open>
+    <High>21.41</High>
+    <Low>19.88</Low>
+    <Close>20.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-07</Date>
+    <Open>20.38</Open>
+    <High>20.81</High>
+    <Low>18.63</Low>
+    <Close>19.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-08</Date>
+    <Open>19.76</Open>
+    <High>23.7</High>
+    <Low>19.21</Low>
+    <Close>23.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-09</Date>
+    <Open>23.02</Open>
+    <High>24.12</High>
+    <Low>22.32</Low>
+    <Close>23.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-10</Date>
+    <Open>23.09</Open>
+    <High>24.83</High>
+    <Low>22.1</Low>
+    <Close>23.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-11</Date>
+    <Open>23.6</Open>
+    <High>25.69</High>
+    <Low>23.24</Low>
+    <Close>25.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-12</Date>
+    <Open>25.01</Open>
+    <High>29.78</High>
+    <Low>24.56</Low>
+    <Close>28.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-13</Date>
+    <Open>28.7</Open>
+    <High>30.22</High>
+    <Low>27.47</Low>
+    <Close>27.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-14</Date>
+    <Open>27.98</Open>
+    <High>29.42</High>
+    <Low>26.45</Low>
+    <Close>26.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-15</Date>
+    <Open>26.93</Open>
+    <High>29.45</High>
+    <Low>23.74</Low>
+    <Close>27.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-16</Date>
+    <Open>27.79</Open>
+    <High>31.02</High>
+    <Low>26.88</Low>
+    <Close>30.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-17</Date>
+    <Open>30.09</Open>
+    <High>32.4</High>
+    <Low>29.63</Low>
+    <Close>31.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-18</Date>
+    <Open>31.98</Open>
+    <High>32.57</High>
+    <Low>30.55</Low>
+    <Close>31.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-19</Date>
+    <Open>31.09</Open>
+    <High>35.0</High>
+    <Low>29.6</Low>
+    <Close>34.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-20</Date>
+    <Open>34.8</Open>
+    <High>42.27</High>
+    <Low>34.73</Low>
+    <Close>38.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-21</Date>
+    <Open>38.94</Open>
+    <High>40.55</High>
+    <Low>38.05</Low>
+    <Close>39.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-22</Date>
+    <Open>39.58</Open>
+    <High>39.71</High>
+    <Low>31.11</Low>
+    <Close>37.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-23</Date>
+    <Open>37.64</Open>
+    <High>37.79</High>
+    <Low>27.13</Low>
+    <Close>34.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-24</Date>
+    <Open>34.57</Open>
+    <High>36.84</High>
+    <Low>31.81</Low>
+    <Close>33.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-25</Date>
+    <Open>33.68</Open>
+    <High>35.26</High>
+    <Low>30.93</Low>
+    <Close>31.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-26</Date>
+    <Open>31.23</Open>
+    <High>33.51</High>
+    <Low>28.01</Low>
+    <Close>31.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-27</Date>
+    <Open>31.44</Open>
+    <High>35.69</High>
+    <Low>31.4</Low>
+    <Close>33.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-02-28</Date>
+    <Open>33.48</Open>
+    <High>34.62</High>
+    <Low>29.83</Low>
+    <Close>33.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-01</Date>
+    <Open>33.87</Open>
+    <High>35.66</High>
+    <Low>33.04</Low>
+    <Close>35.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-02</Date>
+    <Open>35.64</Open>
+    <High>37.91</High>
+    <Low>34.48</Low>
+    <Close>36.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-03</Date>
+    <Open>36.18</Open>
+    <High>38.67</High>
+    <Low>36.12</Low>
+    <Close>37.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-04</Date>
+    <Open>37.06</Open>
+    <High>38.37</High>
+    <Low>34.37</Low>
+    <Close>35.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-05</Date>
+    <Open>35.23</Open>
+    <High>35.28</High>
+    <Low>31.59</Low>
+    <Close>33.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-06</Date>
+    <Open>33.63</Open>
+    <High>34.19</High>
+    <Low>32.08</Low>
+    <Close>33.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-07</Date>
+    <Open>33.36</Open>
+    <High>35.28</High>
+    <Low>33.36</Low>
+    <Close>35.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-08</Date>
+    <Open>35.1</Open>
+    <High>35.55</High>
+    <Low>33.44</Low>
+    <Close>34.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-09</Date>
+    <Open>34.95</Open>
+    <High>38.91</High>
+    <Low>34.58</Low>
+    <Close>38.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-10</Date>
+    <Open>38.22</Open>
+    <High>39.61</High>
+    <Low>36.42</Low>
+    <Close>37.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-11</Date>
+    <Open>37.59</Open>
+    <High>38.06</High>
+    <Low>35.99</Low>
+    <Close>36.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-12</Date>
+    <Open>36.94</Open>
+    <High>37.49</High>
+    <Low>34.61</Low>
+    <Close>35.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-13</Date>
+    <Open>35.98</Open>
+    <High>38.26</High>
+    <Low>34.72</Low>
+    <Close>37.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-14</Date>
+    <Open>37.15</Open>
+    <High>37.99</High>
+    <Low>36.27</Low>
+    <Close>36.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-15</Date>
+    <Open>36.52</Open>
+    <High>38.53</High>
+    <Low>34.16</Low>
+    <Close>34.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-16</Date>
+    <Open>34.29</Open>
+    <High>35.54</High>
+    <Low>32.18</Low>
+    <Close>35.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-17</Date>
+    <Open>35.41</Open>
+    <High>36.42</High>
+    <Low>34.4</Low>
+    <Close>36.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-18</Date>
+    <Open>36.09</Open>
+    <High>37.0</High>
+    <Low>35.29</Low>
+    <Close>35.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-19</Date>
+    <Open>35.34</Open>
+    <High>38.86</High>
+    <Low>34.61</Low>
+    <Close>38.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-20</Date>
+    <Open>38.17</Open>
+    <High>40.05</High>
+    <Low>37.17</Low>
+    <Close>37.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-21</Date>
+    <Open>37.24</Open>
+    <High>38.09</High>
+    <Low>36.11</Low>
+    <Close>36.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-22</Date>
+    <Open>36.69</Open>
+    <High>37.76</High>
+    <Low>35.11</Low>
+    <Close>35.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-23</Date>
+    <Open>35.24</Open>
+    <High>36.27</High>
+    <Low>34.04</Low>
+    <Close>34.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-24</Date>
+    <Open>34.21</Open>
+    <High>36.13</High>
+    <Low>28.41</Low>
+    <Close>30.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-25</Date>
+    <Open>30.23</Open>
+    <High>31.24</High>
+    <Low>28.39</Low>
+    <Close>29.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-26</Date>
+    <Open>29.8</Open>
+    <High>33.37</High>
+    <Low>29.79</Low>
+    <Close>33.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-27</Date>
+    <Open>33.16</Open>
+    <High>33.48</High>
+    <Low>31.13</Low>
+    <Close>32.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-28</Date>
+    <Open>32.59</Open>
+    <High>33.21</High>
+    <Low>31.24</Low>
+    <Close>32.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-29</Date>
+    <Open>32.23</Open>
+    <High>34.7</High>
+    <Low>31.76</Low>
+    <Close>34.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-30</Date>
+    <Open>34.35</Open>
+    <High>34.83</High>
+    <Low>33.54</Low>
+    <Close>34.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-03-31</Date>
+    <Open>34.02</Open>
+    <High>38.26</High>
+    <Low>33.44</Low>
+    <Close>37.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-01</Date>
+    <Open>37.06</Open>
+    <High>38.91</High>
+    <Low>36.01</Low>
+    <Close>37.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-02</Date>
+    <Open>37.45</Open>
+    <High>41.38</High>
+    <Low>36.63</Low>
+    <Close>41.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-03</Date>
+    <Open>41.03</Open>
+    <High>46.77</High>
+    <Low>40.93</Low>
+    <Close>41.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-04</Date>
+    <Open>41.36</Open>
+    <High>45.07</High>
+    <Low>40.7</Low>
+    <Close>44.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-05</Date>
+    <Open>44.29</Open>
+    <High>45.84</High>
+    <Low>41.85</Low>
+    <Close>45.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-06</Date>
+    <Open>45.81</Open>
+    <High>46.23</High>
+    <Low>41.78</Low>
+    <Close>43.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-07</Date>
+    <Open>43.32</Open>
+    <High>43.48</High>
+    <Low>37.9</Low>
+    <Close>39.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-08</Date>
+    <Open>39.53</Open>
+    <High>41.57</High>
+    <Low>39.24</Low>
+    <Close>41.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-09</Date>
+    <Open>41.33</Open>
+    <High>42.07</High>
+    <Low>40.13</Low>
+    <Close>40.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-10</Date>
+    <Open>40.8</Open>
+    <High>42.73</High>
+    <Low>40.01</Low>
+    <Close>41.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-11</Date>
+    <Open>41.59</Open>
+    <High>41.87</High>
+    <Low>40.01</Low>
+    <Close>41.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-12</Date>
+    <Open>41.31</Open>
+    <High>41.74</High>
+    <Low>39.43</Low>
+    <Close>40.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-13</Date>
+    <Open>40.47</Open>
+    <High>43.34</High>
+    <Low>39.8</Low>
+    <Close>42.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-14</Date>
+    <Open>42.92</Open>
+    <High>44.54</High>
+    <Low>40.44</Low>
+    <Close>42.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-15</Date>
+    <Open>42.49</Open>
+    <High>44.32</High>
+    <Low>41.47</Low>
+    <Close>43.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-16</Date>
+    <Open>43.45</Open>
+    <High>43.76</High>
+    <Low>40.21</Low>
+    <Close>41.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-17</Date>
+    <Open>41.44</Open>
+    <High>47.99</High>
+    <Low>41.38</Low>
+    <Close>42.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-18</Date>
+    <Open>42.06</Open>
+    <High>42.7</High>
+    <Low>33.21</Low>
+    <Close>37.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-19</Date>
+    <Open>37.41</Open>
+    <High>38.73</High>
+    <Low>34.32</Low>
+    <Close>34.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-20</Date>
+    <Open>34.76</Open>
+    <High>35.77</High>
+    <Low>31.63</Low>
+    <Close>35.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-21</Date>
+    <Open>35.48</Open>
+    <High>36.27</High>
+    <Low>33.07</Low>
+    <Close>33.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-22</Date>
+    <Open>33.78</Open>
+    <High>36.59</High>
+    <Low>32.93</Low>
+    <Close>32.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-23</Date>
+    <Open>32.97</Open>
+    <High>33.51</High>
+    <Low>26.81</Low>
+    <Close>32.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-24</Date>
+    <Open>32.26</Open>
+    <High>32.42</High>
+    <Low>28.58</Low>
+    <Close>29.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-25</Date>
+    <Open>29.0</Open>
+    <High>31.31</High>
+    <Low>28.24</Low>
+    <Close>29.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-26</Date>
+    <Open>29.85</Open>
+    <High>33.49</High>
+    <Low>29.8</Low>
+    <Close>33.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-27</Date>
+    <Open>33.43</Open>
+    <High>34.95</High>
+    <Low>33.2</Low>
+    <Close>34.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-28</Date>
+    <Open>34.86</Open>
+    <High>35.4</High>
+    <Low>32.65</Low>
+    <Close>33.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-29</Date>
+    <Open>33.98</Open>
+    <High>35.98</High>
+    <Low>32.98</Low>
+    <Close>35.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-04-30</Date>
+    <Open>35.98</Open>
+    <High>36.8</High>
+    <Low>35.11</Low>
+    <Close>36.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-01</Date>
+    <Open>36.52</Open>
+    <High>37.37</High>
+    <Low>35.88</Low>
+    <Close>36.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-02</Date>
+    <Open>36.9</Open>
+    <High>37.17</High>
+    <Low>35.64</Low>
+    <Close>36.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-03</Date>
+    <Open>36.63</Open>
+    <High>38.28</High>
+    <Low>36.6</Low>
+    <Close>37.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-04</Date>
+    <Open>37.24</Open>
+    <High>37.95</High>
+    <Low>34.43</Low>
+    <Close>34.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-05</Date>
+    <Open>34.8</Open>
+    <High>40.78</High>
+    <Low>34.61</Low>
+    <Close>40.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-06</Date>
+    <Open>40.48</Open>
+    <High>43.43</High>
+    <Low>38.15</Low>
+    <Close>41.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-07</Date>
+    <Open>41.59</Open>
+    <High>42.77</High>
+    <Low>38.49</Low>
+    <Close>39.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-08</Date>
+    <Open>39.9</Open>
+    <High>40.67</High>
+    <Low>38.74</Low>
+    <Close>39.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-09</Date>
+    <Open>39.94</Open>
+    <High>40.58</High>
+    <Low>38.26</Low>
+    <Close>40.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-10</Date>
+    <Open>40.34</Open>
+    <High>41.87</High>
+    <Low>33.72</Low>
+    <Close>36.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-11</Date>
+    <Open>36.51</Open>
+    <High>38.7</High>
+    <Low>35.57</Low>
+    <Close>38.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-12</Date>
+    <Open>38.68</Open>
+    <High>42.15</High>
+    <Low>35.06</Low>
+    <Close>35.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-13</Date>
+    <Open>35.42</Open>
+    <High>41.81</High>
+    <Low>33.64</Low>
+    <Close>40.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-14</Date>
+    <Open>40.02</Open>
+    <High>48.03</High>
+    <Low>39.47</Low>
+    <Close>48.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-15</Date>
+    <Open>48.02</Open>
+    <High>49.75</High>
+    <Low>42.91</Low>
+    <Close>43.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-16</Date>
+    <Open>43.63</Open>
+    <High>46.76</High>
+    <Low>39.54</Low>
+    <Close>42.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-17</Date>
+    <Open>42.27</Open>
+    <High>42.27</High>
+    <Low>35.94</Low>
+    <Close>38.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-18</Date>
+    <Open>38.67</Open>
+    <High>42.61</High>
+    <Low>37.73</Low>
+    <Close>40.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-19</Date>
+    <Open>40.67</Open>
+    <High>41.41</High>
+    <Low>20.48</Low>
+    <Close>25.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-20</Date>
+    <Open>25.26</Open>
+    <High>31.27</High>
+    <Low>21.63</Low>
+    <Close>29.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-21</Date>
+    <Open>29.03</Open>
+    <High>31.04</High>
+    <Low>20.07</Low>
+    <Close>24.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-22</Date>
+    <Open>24.47</Open>
+    <High>24.63</High>
+    <Low>20.5</Low>
+    <Close>22.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-23</Date>
+    <Open>22.09</Open>
+    <High>23.5</High>
+    <Low>14.08</Low>
+    <Close>17.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-24</Date>
+    <Open>17.97</Open>
+    <High>23.49</High>
+    <Low>17.16</Low>
+    <Close>23.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-25</Date>
+    <Open>23.22</Open>
+    <High>24.22</High>
+    <Low>19.74</Low>
+    <Close>22.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-26</Date>
+    <Open>22.18</Open>
+    <High>24.75</High>
+    <Low>21.64</Low>
+    <Close>24.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-27</Date>
+    <Open>24.53</Open>
+    <High>24.93</High>
+    <Low>21.82</Low>
+    <Close>23.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-28</Date>
+    <Open>23.97</Open>
+    <High>26.01</High>
+    <Low>20.07</Low>
+    <Close>21.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-29</Date>
+    <Open>21.34</Open>
+    <High>22.28</High>
+    <Low>18.81</Low>
+    <Close>19.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-30</Date>
+    <Open>19.88</Open>
+    <High>21.32</High>
+    <Low>18.52</Low>
+    <Close>20.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-05-31</Date>
+    <Open>20.48</Open>
+    <High>23.44</High>
+    <Low>19.08</Low>
+    <Close>23.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-01</Date>
+    <Open>23.29</Open>
+    <High>23.52</High>
+    <Low>21.68</Low>
+    <Close>22.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-02</Date>
+    <Open>22.84</Open>
+    <High>26.86</High>
+    <Low>22.66</Low>
+    <Close>25.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-03</Date>
+    <Open>25.92</Open>
+    <High>28.6</High>
+    <Low>25.68</Low>
+    <Close>26.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-04</Date>
+    <Open>26.99</Open>
+    <High>27.05</High>
+    <Low>23.69</Low>
+    <Close>25.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-05</Date>
+    <Open>25.01</Open>
+    <High>26.39</High>
+    <Low>22.98</Low>
+    <Close>23.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-06</Date>
+    <Open>23.77</Open>
+    <High>24.46</High>
+    <Low>23.56</Low>
+    <Close>24.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-07</Date>
+    <Open>24.18</Open>
+    <High>25.28</High>
+    <Low>21.32</Low>
+    <Close>21.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-08</Date>
+    <Open>21.7</Open>
+    <High>22.31</High>
+    <Low>19.74</Low>
+    <Close>21.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-09</Date>
+    <Open>21.67</Open>
+    <High>23.33</High>
+    <Low>20.37</Low>
+    <Close>23.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-10</Date>
+    <Open>23.21</Open>
+    <High>24.56</High>
+    <Low>22.05</Low>
+    <Close>22.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-11</Date>
+    <Open>22.68</Open>
+    <High>23.2</High>
+    <Low>20.5</Low>
+    <Close>20.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-12</Date>
+    <Open>20.95</Open>
+    <High>21.26</High>
+    <Low>19.52</Low>
+    <Close>20.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-13</Date>
+    <Open>20.74</Open>
+    <High>22.4</High>
+    <Low>19.93</Low>
+    <Close>22.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-14</Date>
+    <Open>22.04</Open>
+    <High>26.03</High>
+    <Low>21.24</Low>
+    <Close>25.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-15</Date>
+    <Open>25.85</Open>
+    <High>26.0</High>
+    <Low>23.57</Low>
+    <Close>23.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-16</Date>
+    <Open>23.95</Open>
+    <High>24.58</High>
+    <Low>22.5</Low>
+    <Close>23.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-17</Date>
+    <Open>23.03</Open>
+    <High>23.99</High>
+    <Low>22.0</Low>
+    <Close>22.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-18</Date>
+    <Open>22.53</Open>
+    <High>22.58</High>
+    <Low>20.24</Low>
+    <Close>21.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-19</Date>
+    <Open>21.45</Open>
+    <High>21.64</High>
+    <Low>20.24</Low>
+    <Close>20.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-20</Date>
+    <Open>20.24</Open>
+    <High>21.02</High>
+    <Low>18.91</Low>
+    <Close>20.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-21</Date>
+    <Open>20.63</Open>
+    <High>20.81</High>
+    <Low>15.38</Low>
+    <Close>15.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-22</Date>
+    <Open>15.74</Open>
+    <High>16.95</High>
+    <Low>13.02</Low>
+    <Close>14.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-23</Date>
+    <Open>14.68</Open>
+    <High>16.81</High>
+    <Low>13.98</Low>
+    <Close>15.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-24</Date>
+    <Open>15.8</Open>
+    <High>16.6</High>
+    <Low>14.73</Low>
+    <Close>16.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-25</Date>
+    <Open>16.22</Open>
+    <High>16.74</High>
+    <Low>14.42</Low>
+    <Close>14.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-26</Date>
+    <Open>14.42</Open>
+    <High>14.98</High>
+    <Low>13.64</Low>
+    <Close>14.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-27</Date>
+    <Open>14.51</Open>
+    <High>15.03</High>
+    <Low>14.04</Low>
+    <Close>15.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-28</Date>
+    <Open>15.01</Open>
+    <High>16.01</High>
+    <Low>14.6</Low>
+    <Close>15.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-29</Date>
+    <Open>15.79</Open>
+    <High>17.01</High>
+    <Low>15.72</Low>
+    <Close>16.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-06-30</Date>
+    <Open>16.3</Open>
+    <High>16.62</High>
+    <Low>15.09</Low>
+    <Close>16.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-01</Date>
+    <Open>16.4</Open>
+    <High>16.41</High>
+    <Low>14.85</Low>
+    <Close>15.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-02</Date>
+    <Open>15.17</Open>
+    <High>15.45</High>
+    <Low>14.63</Low>
+    <Close>15.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-03</Date>
+    <Open>15.29</Open>
+    <High>15.75</High>
+    <Low>15.02</Low>
+    <Close>15.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-04</Date>
+    <Open>15.52</Open>
+    <High>16.57</High>
+    <Low>15.17</Low>
+    <Close>15.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-05</Date>
+    <Open>15.98</Open>
+    <High>15.98</High>
+    <Low>14.71</Low>
+    <Close>15.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-06</Date>
+    <Open>15.23</Open>
+    <High>16.18</High>
+    <Low>15.2</Low>
+    <Close>16.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-07</Date>
+    <Open>16.14</Open>
+    <High>17.67</High>
+    <Low>16.09</Low>
+    <Close>16.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-08</Date>
+    <Open>16.87</Open>
+    <High>16.88</High>
+    <Low>14.99</Low>
+    <Close>15.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-09</Date>
+    <Open>15.3</Open>
+    <High>15.9</High>
+    <Low>14.81</Low>
+    <Close>15.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-10</Date>
+    <Open>15.67</Open>
+    <High>15.99</High>
+    <Low>15.04</Low>
+    <Close>15.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-11</Date>
+    <Open>15.28</Open>
+    <High>15.7</High>
+    <Low>15.14</Low>
+    <Close>15.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-12</Date>
+    <Open>15.49</Open>
+    <High>15.65</High>
+    <Low>14.41</Low>
+    <Close>14.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-13</Date>
+    <Open>14.85</Open>
+    <High>15.1</High>
+    <Low>14.02</Low>
+    <Close>14.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-14</Date>
+    <Open>14.2</Open>
+    <High>14.22</High>
+    <Low>13.17</Low>
+    <Close>13.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-15</Date>
+    <Open>13.81</Open>
+    <High>14.1</High>
+    <Low>12.75</Low>
+    <Close>13.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-16</Date>
+    <Open>13.09</Open>
+    <High>13.32</High>
+    <Low>12.01</Low>
+    <Close>12.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-17</Date>
+    <Open>12.04</Open>
+    <High>12.75</High>
+    <Low>11.73</Low>
+    <Close>12.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-18</Date>
+    <Open>12.31</Open>
+    <High>12.94</High>
+    <Low>12.27</Low>
+    <Close>12.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-19</Date>
+    <Open>12.66</Open>
+    <High>12.73</High>
+    <Low>11.36</Low>
+    <Close>11.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-20</Date>
+    <Open>11.46</Open>
+    <High>11.56</High>
+    <Low>10.38</Low>
+    <Close>10.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-21</Date>
+    <Open>10.96</Open>
+    <High>12.86</High>
+    <Low>10.68</Low>
+    <Close>12.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-22</Date>
+    <Open>12.33</Open>
+    <High>13.37</High>
+    <Low>11.81</Low>
+    <Close>13.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-23</Date>
+    <Open>13.16</Open>
+    <High>13.51</High>
+    <Low>12.33</Low>
+    <Close>13.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-24</Date>
+    <Open>13.4</Open>
+    <High>14.06</High>
+    <Low>13.14</Low>
+    <Close>13.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-25</Date>
+    <Open>13.76</Open>
+    <High>13.83</High>
+    <Low>13.1</Low>
+    <Close>13.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-26</Date>
+    <Open>13.75</Open>
+    <High>15.29</High>
+    <Low>13.64</Low>
+    <Close>13.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-27</Date>
+    <Open>13.92</Open>
+    <High>14.53</High>
+    <Low>13.36</Low>
+    <Close>14.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-28</Date>
+    <Open>14.37</Open>
+    <High>14.75</High>
+    <Low>13.95</Low>
+    <Close>14.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-29</Date>
+    <Open>14.55</Open>
+    <High>15.39</High>
+    <Low>14.26</Low>
+    <Close>15.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-30</Date>
+    <Open>15.25</Open>
+    <High>15.85</High>
+    <Low>14.41</Low>
+    <Close>15.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-07-31</Date>
+    <Open>15.79</Open>
+    <High>17.01</High>
+    <Low>15.58</Low>
+    <Close>16.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-01</Date>
+    <Open>16.75</Open>
+    <High>19.91</High>
+    <Low>16.59</Low>
+    <Close>18.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-02</Date>
+    <Open>18.44</Open>
+    <High>18.93</High>
+    <Low>17.56</Low>
+    <Close>17.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-03</Date>
+    <Open>17.99</Open>
+    <High>18.54</High>
+    <Low>16.84</Low>
+    <Close>17.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-04</Date>
+    <Open>17.42</Open>
+    <High>19.58</High>
+    <Low>17.1</Low>
+    <Close>19.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-05</Date>
+    <Open>19.15</Open>
+    <High>19.45</High>
+    <Low>17.88</Low>
+    <Close>19.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-06</Date>
+    <Open>19.12</Open>
+    <High>20.79</High>
+    <Low>18.53</Low>
+    <Close>20.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-07</Date>
+    <Open>20.42</Open>
+    <High>21.68</High>
+    <Low>20.13</Low>
+    <Close>20.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-08</Date>
+    <Open>20.97</Open>
+    <High>21.19</High>
+    <Low>19.2</Low>
+    <Close>19.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-09</Date>
+    <Open>19.65</Open>
+    <High>21.25</High>
+    <Low>18.71</Low>
+    <Close>20.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-10</Date>
+    <Open>20.57</Open>
+    <High>21.41</High>
+    <Low>20.1</Low>
+    <Close>20.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-11</Date>
+    <Open>20.61</Open>
+    <High>22.44</High>
+    <Low>20.54</Low>
+    <Close>21.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-12</Date>
+    <Open>21.32</Open>
+    <High>21.32</High>
+    <Low>19.93</Low>
+    <Close>20.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-13</Date>
+    <Open>20.76</Open>
+    <High>22.73</High>
+    <Low>20.51</Low>
+    <Close>22.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-14</Date>
+    <Open>22.72</Open>
+    <High>23.49</High>
+    <Low>21.8</Low>
+    <Close>22.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-15</Date>
+    <Open>22.86</Open>
+    <High>23.35</High>
+    <Low>21.86</Low>
+    <Close>23.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-16</Date>
+    <Open>23.17</Open>
+    <High>25.7</High>
+    <Low>22.85</Low>
+    <Close>24.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-17</Date>
+    <Open>24.42</Open>
+    <High>27.41</High>
+    <Low>23.06</Low>
+    <Close>23.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-18</Date>
+    <Open>23.53</Open>
+    <High>25.17</High>
+    <Low>22.69</Low>
+    <Close>23.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-19</Date>
+    <Open>23.86</Open>
+    <High>26.83</High>
+    <Low>23.47</Low>
+    <Close>26.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-20</Date>
+    <Open>26.57</Open>
+    <High>28.47</High>
+    <Low>26.08</Low>
+    <Close>28.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-21</Date>
+    <Open>28.14</Open>
+    <High>29.38</High>
+    <Low>27.52</Low>
+    <Close>27.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-22</Date>
+    <Open>27.88</Open>
+    <High>28.55</High>
+    <Low>26.59</Low>
+    <Close>27.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-23</Date>
+    <Open>27.71</Open>
+    <High>28.62</High>
+    <Low>27.34</Low>
+    <Close>27.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-24</Date>
+    <Open>27.89</Open>
+    <High>28.17</High>
+    <Low>24.8</Low>
+    <Close>25.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-25</Date>
+    <Open>25.08</Open>
+    <High>26.55</High>
+    <Low>24.48</Low>
+    <Close>25.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-26</Date>
+    <Open>25.99</Open>
+    <High>26.4</High>
+    <Low>23.52</Low>
+    <Close>23.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-27</Date>
+    <Open>23.93</Open>
+    <High>26.81</High>
+    <Low>23.48</Low>
+    <Close>26.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-28</Date>
+    <Open>26.56</Open>
+    <High>26.78</High>
+    <Low>25.45</Low>
+    <Close>25.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-29</Date>
+    <Open>25.99</Open>
+    <High>26.49</High>
+    <Low>25.3</Low>
+    <Close>25.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-30</Date>
+    <Open>25.73</Open>
+    <High>27.58</High>
+    <Low>24.33</Low>
+    <Close>26.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-08-31</Date>
+    <Open>26.03</Open>
+    <High>31.94</High>
+    <Low>25.63</Low>
+    <Close>31.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-01</Date>
+    <Open>31.34</Open>
+    <High>33.83</High>
+    <Low>29.61</Low>
+    <Close>33.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-02</Date>
+    <Open>33.18</Open>
+    <High>33.19</High>
+    <Low>31.3</Low>
+    <Close>31.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-03</Date>
+    <Open>31.78</Open>
+    <High>34.01</High>
+    <Low>30.96</Low>
+    <Close>33.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-04</Date>
+    <Open>33.57</Open>
+    <High>34.12</High>
+    <Low>32.04</Low>
+    <Close>32.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-05</Date>
+    <Open>32.4</Open>
+    <High>34.77</High>
+    <Low>31.98</Low>
+    <Close>34.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-06</Date>
+    <Open>34.43</Open>
+    <High>35.03</High>
+    <Low>32.88</Low>
+    <Close>34.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-07</Date>
+    <Open>34.34</Open>
+    <High>35.67</High>
+    <Low>23.41</Low>
+    <Close>27.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-08</Date>
+    <Open>27.92</Open>
+    <High>28.87</High>
+    <Low>25.27</Low>
+    <Close>27.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-09</Date>
+    <Open>27.76</Open>
+    <High>31.86</High>
+    <Low>27.02</Low>
+    <Close>29.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-10</Date>
+    <Open>29.85</Open>
+    <High>32.64</High>
+    <Low>28.01</Low>
+    <Close>29.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-11</Date>
+    <Open>29.2</Open>
+    <High>32.09</High>
+    <Low>28.27</Low>
+    <Close>31.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-12</Date>
+    <Open>31.57</Open>
+    <High>36.44</High>
+    <Low>30.68</Low>
+    <Close>35.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-13</Date>
+    <Open>35.86</Open>
+    <High>37.9</High>
+    <Low>31.59</Low>
+    <Close>34.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-14</Date>
+    <Open>34.84</Open>
+    <High>38.75</High>
+    <Low>34.09</Low>
+    <Close>37.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-15</Date>
+    <Open>37.38</Open>
+    <High>37.99</High>
+    <Low>35.57</Low>
+    <Close>36.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-16</Date>
+    <Open>36.47</Open>
+    <High>36.97</High>
+    <Low>34.1</Low>
+    <Close>35.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-17</Date>
+    <Open>35.51</Open>
+    <High>36.93</High>
+    <Low>32.21</Low>
+    <Close>33.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-18</Date>
+    <Open>33.02</Open>
+    <High>35.89</High>
+    <Low>32.52</Low>
+    <Close>34.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-19</Date>
+    <Open>34.87</Open>
+    <High>34.9</High>
+    <Low>33.05</Low>
+    <Close>33.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-20</Date>
+    <Open>33.85</Open>
+    <High>33.91</High>
+    <Low>26.82</Low>
+    <Close>28.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-21</Date>
+    <Open>28.3</Open>
+    <High>30.36</High>
+    <Low>25.61</Low>
+    <Close>26.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-22</Date>
+    <Open>26.36</Open>
+    <High>32.0</High>
+    <Low>25.93</Low>
+    <Close>31.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-23</Date>
+    <Open>31.6</Open>
+    <High>33.62</High>
+    <Low>30.41</Low>
+    <Close>33.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-24</Date>
+    <Open>33.44</Open>
+    <High>33.57</High>
+    <Low>27.95</Low>
+    <Close>30.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-25</Date>
+    <Open>30.83</Open>
+    <High>32.24</High>
+    <Low>29.5</Low>
+    <Close>29.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-26</Date>
+    <Open>29.85</Open>
+    <High>30.04</High>
+    <Low>26.8</Low>
+    <Close>28.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-27</Date>
+    <Open>28.88</Open>
+    <High>30.25</High>
+    <Low>27.58</Low>
+    <Close>27.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-28</Date>
+    <Open>27.73</Open>
+    <High>28.37</High>
+    <Low>26.15</Low>
+    <Close>26.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-29</Date>
+    <Open>26.32</Open>
+    <High>28.58</High>
+    <Low>26.12</Low>
+    <Close>27.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-09-30</Date>
+    <Open>27.28</Open>
+    <High>28.96</High>
+    <Low>27.14</Low>
+    <Close>28.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-01</Date>
+    <Open>28.61</Open>
+    <High>32.33</High>
+    <Low>28.51</Low>
+    <Close>31.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-02</Date>
+    <Open>31.95</Open>
+    <High>33.39</High>
+    <Low>31.53</Low>
+    <Close>32.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-03</Date>
+    <Open>32.02</Open>
+    <High>32.72</High>
+    <Low>31.37</Low>
+    <Close>32.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-04</Date>
+    <Open>32.14</Open>
+    <High>32.14</High>
+    <Low>30.17</Low>
+    <Close>31.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-05</Date>
+    <Open>31.15</Open>
+    <High>32.18</High>
+    <Low>30.68</Low>
+    <Close>31.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-06</Date>
+    <Open>31.42</Open>
+    <High>33.06</High>
+    <Low>29.15</Low>
+    <Close>32.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-07</Date>
+    <Open>32.19</Open>
+    <High>35.31</High>
+    <Low>30.93</Low>
+    <Close>33.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-08</Date>
+    <Open>33.97</Open>
+    <High>34.49</High>
+    <Low>33.14</Low>
+    <Close>33.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-09</Date>
+    <Open>33.36</Open>
+    <High>36.89</High>
+    <Low>33.0</Low>
+    <Close>36.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-10</Date>
+    <Open>36.33</Open>
+    <High>37.42</High>
+    <Low>34.16</Low>
+    <Close>34.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-11</Date>
+    <Open>34.44</Open>
+    <High>36.08</High>
+    <Low>33.26</Low>
+    <Close>34.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-12</Date>
+    <Open>34.11</Open>
+    <High>35.42</High>
+    <Low>32.08</Low>
+    <Close>35.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-13</Date>
+    <Open>35.17</Open>
+    <High>43.15</High>
+    <Low>33.77</Low>
+    <Close>41.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-14</Date>
+    <Open>41.69</Open>
+    <High>42.49</High>
+    <Low>39.34</Low>
+    <Close>40.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-15</Date>
+    <Open>40.69</Open>
+    <High>44.2</High>
+    <Low>39.51</Low>
+    <Close>43.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-16</Date>
+    <Open>43.29</Open>
+    <High>44.77</High>
+    <Low>41.32</Low>
+    <Close>41.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-17</Date>
+    <Open>41.74</Open>
+    <High>42.86</High>
+    <Low>39.83</Low>
+    <Close>42.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-18</Date>
+    <Open>42.11</Open>
+    <High>43.25</High>
+    <Low>40.26</Low>
+    <Close>41.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-19</Date>
+    <Open>41.17</Open>
+    <High>41.63</High>
+    <Low>40.08</Low>
+    <Close>41.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-20</Date>
+    <Open>41.35</Open>
+    <High>45.21</High>
+    <Low>41.08</Low>
+    <Close>44.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-21</Date>
+    <Open>44.41</Open>
+    <High>45.53</High>
+    <Low>41.99</Low>
+    <Close>42.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-22</Date>
+    <Open>42.84</Open>
+    <High>46.38</High>
+    <Low>42.7</Low>
+    <Close>43.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-23</Date>
+    <Open>43.51</Open>
+    <High>44.78</High>
+    <Low>43.08</Low>
+    <Close>43.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-24</Date>
+    <Open>43.96</Open>
+    <High>44.16</High>
+    <Low>41.32</Low>
+    <Close>42.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-25</Date>
+    <Open>42.3</Open>
+    <High>44.79</High>
+    <Low>42.12</Low>
+    <Close>44.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-26</Date>
+    <Open>44.55</Open>
+    <High>46.0</High>
+    <Low>43.45</Low>
+    <Close>44.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-27</Date>
+    <Open>44.91</Open>
+    <High>45.82</High>
+    <Low>39.26</Low>
+    <Close>40.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-28</Date>
+    <Open>40.45</Open>
+    <High>43.11</High>
+    <Low>39.85</Low>
+    <Close>41.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-29</Date>
+    <Open>41.82</Open>
+    <High>44.34</High>
+    <Low>41.57</Low>
+    <Close>44.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-30</Date>
+    <Open>44.1</Open>
+    <High>44.3</High>
+    <Low>42.2</Low>
+    <Close>42.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-10-31</Date>
+    <Open>42.74</Open>
+    <High>43.4</High>
+    <Low>41.09</Low>
+    <Close>42.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-01</Date>
+    <Open>42.78</Open>
+    <High>51.43</High>
+    <Low>41.78</Low>
+    <Close>50.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-02</Date>
+    <Open>50.04</Open>
+    <High>53.29</High>
+    <Low>48.1</Low>
+    <Close>51.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-03</Date>
+    <Open>51.7</Open>
+    <High>54.53</High>
+    <Low>49.16</Low>
+    <Close>53.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-04</Date>
+    <Open>53.32</Open>
+    <High>55.07</High>
+    <Low>52.22</Low>
+    <Close>53.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-05</Date>
+    <Open>53.89</Open>
+    <High>53.97</High>
+    <Low>50.64</Low>
+    <Close>51.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-06</Date>
+    <Open>51.83</Open>
+    <High>52.45</High>
+    <Low>49.07</Low>
+    <Close>52.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-07</Date>
+    <Open>52.03</Open>
+    <High>53.56</High>
+    <Low>51.38</Low>
+    <Close>52.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-08</Date>
+    <Open>52.26</Open>
+    <High>53.85</High>
+    <Low>51.64</Low>
+    <Close>53.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-09</Date>
+    <Open>53.39</Open>
+    <High>53.4</High>
+    <Low>50.53</Low>
+    <Close>50.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-10</Date>
+    <Open>50.9</Open>
+    <High>52.01</High>
+    <Low>42.67</Low>
+    <Close>47.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-11</Date>
+    <Open>47.41</Open>
+    <High>49.44</High>
+    <Low>45.61</Low>
+    <Close>48.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-12</Date>
+    <Open>48.09</Open>
+    <High>48.25</High>
+    <Low>44.09</Low>
+    <Close>45.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-13</Date>
+    <Open>45.85</Open>
+    <High>47.53</High>
+    <Low>44.91</Low>
+    <Close>46.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-14</Date>
+    <Open>46.92</Open>
+    <High>47.82</High>
+    <Low>45.07</Low>
+    <Close>45.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-15</Date>
+    <Open>45.92</Open>
+    <High>47.47</High>
+    <Low>44.63</Low>
+    <Close>45.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-16</Date>
+    <Open>45.3</Open>
+    <High>45.32</High>
+    <Low>38.77</Low>
+    <Close>41.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-17</Date>
+    <Open>41.37</Open>
+    <High>42.55</High>
+    <Low>38.83</Low>
+    <Close>41.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-18</Date>
+    <Open>41.93</Open>
+    <High>43.27</High>
+    <Low>37.68</Low>
+    <Close>38.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-19</Date>
+    <Open>38.65</Open>
+    <High>42.3</High>
+    <Low>38.43</Low>
+    <Close>41.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-20</Date>
+    <Open>41.01</Open>
+    <High>41.99</High>
+    <Low>39.94</Low>
+    <Close>41.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-21</Date>
+    <Open>41.87</Open>
+    <High>43.6</High>
+    <Low>40.68</Low>
+    <Close>43.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-22</Date>
+    <Open>43.02</Open>
+    <High>43.09</High>
+    <Low>38.84</Low>
+    <Close>39.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-23</Date>
+    <Open>39.85</Open>
+    <High>41.493</High>
+    <Low>38.577</Low>
+    <Close>40.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-24</Date>
+    <Open>40.591</Open>
+    <High>40.954</High>
+    <Low>38.083</Low>
+    <Close>38.357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-25</Date>
+    <Open>38.379</Open>
+    <High>40.952</High>
+    <Low>38.077</Low>
+    <Close>39.651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-26</Date>
+    <Open>39.651</Open>
+    <High>39.771</High>
+    <Low>33.989</Low>
+    <Close>34.893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-27</Date>
+    <Open>34.917</Open>
+    <High>35.959</High>
+    <Low>34.372</Low>
+    <Close>35.496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-28</Date>
+    <Open>35.456</Open>
+    <High>35.869</High>
+    <Low>32.359</Low>
+    <Close>34.898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-29</Date>
+    <Open>34.893</Open>
+    <High>37.516</High>
+    <Low>34.853</Low>
+    <Close>37.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-11-30</Date>
+    <Open>37.466</Open>
+    <High>39.391</High>
+    <Low>35.441</Low>
+    <Close>38.442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-01</Date>
+    <Open>38.462</Open>
+    <High>38.789</High>
+    <Low>36.252</Low>
+    <Close>36.673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-02</Date>
+    <Open>36.657</Open>
+    <High>36.845</High>
+    <Low>35.137</Low>
+    <Close>36.093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-03</Date>
+    <Open>36.101</Open>
+    <High>36.883</High>
+    <Low>32.563</Low>
+    <Close>33.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-04</Date>
+    <Open>33.587</Open>
+    <High>34.007</High>
+    <Low>25.843</Low>
+    <Close>29.313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-05</Date>
+    <Open>29.332</Open>
+    <High>29.78</High>
+    <Low>26.444</Low>
+    <Close>28.233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-06</Date>
+    <Open>28.227</Open>
+    <High>28.879</High>
+    <Low>24.893</Low>
+    <Close>28.534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-07</Date>
+    <Open>28.522</Open>
+    <High>31.503</High>
+    <Low>27.75</Low>
+    <Close>29.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-08</Date>
+    <Open>29.595</Open>
+    <High>30.664</High>
+    <Low>28.072</Low>
+    <Close>29.249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-09</Date>
+    <Open>29.29</Open>
+    <High>30.161</High>
+    <Low>26.823</Low>
+    <Close>27.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-10</Date>
+    <Open>27.22</Open>
+    <High>28.42</High>
+    <Low>25.77</Low>
+    <Close>26.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-11</Date>
+    <Open>26.86</Open>
+    <High>28.21</High>
+    <Low>25.83</Low>
+    <Close>27.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-12</Date>
+    <Open>27.75</Open>
+    <High>30.01</High>
+    <Low>27.34</Low>
+    <Close>29.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-13</Date>
+    <Open>29.8</Open>
+    <High>29.92</High>
+    <Low>25.62</Low>
+    <Close>26.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-14</Date>
+    <Open>26.32</Open>
+    <High>26.715</High>
+    <Low>25.01</Low>
+    <Close>26.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-15</Date>
+    <Open>26.09</Open>
+    <High>28.034</High>
+    <Low>24.3021</Low>
+    <Close>26.646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-16</Date>
+    <Open>26.656</Open>
+    <High>27.8295</High>
+    <Low>25.7177</Low>
+    <Close>26.8281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-17</Date>
+    <Open>26.818</Open>
+    <High>26.8281</High>
+    <Low>24.1997</Low>
+    <Close>24.7999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-18</Date>
+    <Open>24.7899</Open>
+    <High>25.7303</High>
+    <Low>24.2297</Low>
+    <Close>25.4302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-19</Date>
+    <Open>25.4302</Open>
+    <High>25.8703</High>
+    <Low>24.6599</Low>
+    <Close>25.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-20</Date>
+    <Open>25.0825</Open>
+    <High>25.12</High>
+    <Low>23.2847</Low>
+    <Close>24.0972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-21</Date>
+    <Open>24.0996</Open>
+    <High>25.6002</High>
+    <Low>23.7471</Low>
+    <Close>25.5702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-22</Date>
+    <Open>25.5902</Open>
+    <High>28.2341</High>
+    <Low>24.9975</Low>
+    <Close>27.7539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-23</Date>
+    <Open>27.7439</Open>
+    <High>29.8089</High>
+    <Low>26.748</Low>
+    <Close>29.1346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-24</Date>
+    <Open>29.1346</Open>
+    <High>29.6748</High>
+    <Low>28.054</Low>
+    <Close>28.3242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-25</Date>
+    <Open>28.307</Open>
+    <High>29.1346</High>
+    <Low>27.8667</Low>
+    <Close>28.9016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-26</Date>
+    <Open>28.8916</Open>
+    <High>31.7559</High>
+    <Low>28.2941</Low>
+    <Close>31.5458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-27</Date>
+    <Open>31.5658</Open>
+    <High>32.7964</High>
+    <Low>30.8562</Low>
+    <Close>31.2794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-28</Date>
+    <Open>31.2694</Open>
+    <High>31.3894</High>
+    <Low>27.4827</Low>
+    <Close>28.2056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-29</Date>
+    <Open>28.2056</Open>
+    <High>28.9658</High>
+    <Low>27.0</Low>
+    <Close>27.3955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-30</Date>
+    <Open>27.3955</Open>
+    <High>28.4157</High>
+    <Low>26.1826</Low>
+    <Close>27.5355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2021-12-31</Date>
+    <Open>27.5355</Open>
+    <High>28.1256</High>
+    <Low>26.2426</Low>
+    <Close>26.7427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-01</Date>
+    <Open>26.7327</Open>
+    <High>28.4557</High>
+    <Low>26.6327</Low>
+    <Close>28.3057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-02</Date>
+    <Open>28.3257</Open>
+    <High>30.6061</High>
+    <Low>27.8256</Low>
+    <Close>29.996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-03</Date>
+    <Open>30.016</Open>
+    <High>30.88</High>
+    <Low>28.62</Low>
+    <Close>30.393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-04</Date>
+    <Open>30.403</Open>
+    <High>30.58</High>
+    <Low>28.7342</Low>
+    <Close>29.1871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-05</Date>
+    <Open>29.1742</Open>
+    <High>30.377</High>
+    <Low>25.05</Low>
+    <Close>26.6673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-06</Date>
+    <Open>26.6573</Open>
+    <High>27.3573</High>
+    <Low>25.5023</Low>
+    <Close>26.9073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-07</Date>
+    <Open>26.9173</Open>
+    <High>26.9373</High>
+    <Low>24.3176</Low>
+    <Close>24.9475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-08</Date>
+    <Open>24.9375</Open>
+    <High>25.5375</High>
+    <Low>23.1854</Low>
+    <Close>24.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-09</Date>
+    <Open>24.29</Open>
+    <High>25.31</High>
+    <Low>23.68</Low>
+    <Close>24.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-10</Date>
+    <Open>24.75</Open>
+    <High>25.22</High>
+    <Low>22.45</Low>
+    <Close>23.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-11</Date>
+    <Open>23.55</Open>
+    <High>26.0026</High>
+    <Low>23.45</Low>
+    <Close>25.4526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-12</Date>
+    <Open>25.4576</Open>
+    <High>27.5938</High>
+    <Low>25.4025</Low>
+    <Close>27.3709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-13</Date>
+    <Open>27.3709</Open>
+    <High>27.6938</High>
+    <Low>25.8203</Low>
+    <Close>26.0204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-14</Date>
+    <Open>26.0204</Open>
+    <High>27.7239</High>
+    <Low>25.5628</Low>
+    <Close>27.5983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-15</Date>
+    <Open>27.5983</Open>
+    <High>28.4242</High>
+    <Low>26.8607</Low>
+    <Close>28.014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-16</Date>
+    <Open>28.024</Open>
+    <High>28.4714</High>
+    <Low>27.2836</Low>
+    <Close>27.7411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-17</Date>
+    <Open>27.7411</Open>
+    <High>27.8211</High>
+    <Low>25.1175</Low>
+    <Close>25.6002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-18</Date>
+    <Open>25.6002</Open>
+    <High>26.0704</High>
+    <Low>24.2573</Low>
+    <Close>25.2376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-19</Date>
+    <Open>25.2376</Open>
+    <High>25.3101</High>
+    <Low>23.6895</Low>
+    <Close>24.2973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-20</Date>
+    <Open>24.3073</Open>
+    <High>25.6277</High>
+    <Low>23.1246</Low>
+    <Close>23.5747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-21</Date>
+    <Open>23.5647</Open>
+    <High>23.5747</High>
+    <Low>19.1157</Low>
+    <Close>19.6359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-22</Date>
+    <Open>19.6639</Open>
+    <High>20.146</High>
+    <Low>16.2432</Low>
+    <Close>18.0754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-23</Date>
+    <Open>18.0854</Open>
+    <High>19.2058</High>
+    <Low>17.7318</Low>
+    <Close>18.1936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-24</Date>
+    <Open>18.1936</Open>
+    <High>19.0538</High>
+    <Low>15.8332</Low>
+    <Close>17.9554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-25</Date>
+    <Open>17.9554</Open>
+    <High>19.0495</High>
+    <Low>17.3752</Low>
+    <Close>18.4192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-26</Date>
+    <Open>18.4392</Open>
+    <High>20.062</High>
+    <Low>17.5288</Low>
+    <Close>17.9708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-27</Date>
+    <Open>17.9608</Open>
+    <High>18.4174</High>
+    <Low>17.1503</Low>
+    <Close>17.8689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-28</Date>
+    <Open>17.8571</Open>
+    <High>18.4855</High>
+    <Low>17.3652</Low>
+    <Close>18.1836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-29</Date>
+    <Open>18.1936</Open>
+    <High>19.0157</High>
+    <Low>18.0854</Low>
+    <Close>18.7256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-30</Date>
+    <Open>18.7356</Open>
+    <High>19.0057</High>
+    <Low>17.8071</Low>
+    <Close>18.0554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-01-31</Date>
+    <Open>18.0572</Open>
+    <High>19.6118</High>
+    <Low>17.1269</Low>
+    <Close>19.4697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-01</Date>
+    <Open>19.4697</Open>
+    <High>20.01</High>
+    <Low>19.1815</Low>
+    <Close>19.7118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-02</Date>
+    <Open>19.7218</Open>
+    <High>20.5903</High>
+    <Low>18.5693</Low>
+    <Close>18.907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-03</Date>
+    <Open>18.907</Open>
+    <High>19.0033</High>
+    <Low>17.989</Low>
+    <Close>18.7194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-04</Date>
+    <Open>18.6893</Open>
+    <High>20.3481</High>
+    <Low>18.6393</Low>
+    <Close>20.1261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-05</Date>
+    <Open>20.1361</Open>
+    <High>22.2956</High>
+    <Low>20.1241</Low>
+    <Close>21.4829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-06</Date>
+    <Open>21.4729</Open>
+    <High>21.9131</High>
+    <Low>20.8125</Low>
+    <Close>21.1685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-07</Date>
+    <Open>21.1585</Open>
+    <High>22.7182</High>
+    <Low>21.1285</Low>
+    <Close>22.5057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-08</Date>
+    <Open>22.4857</Open>
+    <High>23.2062</High>
+    <Low>21.0847</Low>
+    <Close>21.7295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-09</Date>
+    <Open>21.7295</Open>
+    <High>22.2578</High>
+    <Low>21.0647</Low>
+    <Close>22.0342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-10</Date>
+    <Open>22.042</Open>
+    <High>22.458</High>
+    <Low>20.5965</Low>
+    <Close>21.0147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-11</Date>
+    <Open>21.0247</Open>
+    <High>21.0647</High>
+    <Low>18.6475</Low>
+    <Close>18.7156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-12</Date>
+    <Open>18.7056</Open>
+    <High>19.4317</High>
+    <Low>18.321</Low>
+    <Close>18.9295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-13</Date>
+    <Open>18.9295</Open>
+    <High>19.2916</High>
+    <Low>18.3992</Low>
+    <Close>18.7913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-14</Date>
+    <Open>18.7913</Open>
+    <High>18.9614</High>
+    <Low>18.039</Low>
+    <Close>18.7994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-15</Date>
+    <Open>18.7994</Open>
+    <High>20.1621</High>
+    <Low>18.6493</Low>
+    <Close>19.9219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-16</Date>
+    <Open>19.9239</Open>
+    <High>20.3422</High>
+    <Low>19.0695</Low>
+    <Close>19.8999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-17</Date>
+    <Open>19.8999</Open>
+    <High>20.1221</High>
+    <Low>17.8407</Low>
+    <Close>18.2628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-18</Date>
+    <Open>18.2728</Open>
+    <High>18.603</High>
+    <Low>17.6523</Low>
+    <Close>17.7607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-19</Date>
+    <Open>17.7607</Open>
+    <High>18.2309</High>
+    <Low>17.3487</Low>
+    <Close>17.7489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-20</Date>
+    <Open>17.7489</Open>
+    <High>17.9307</High>
+    <Low>16.7067</Low>
+    <Close>17.1686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-21</Date>
+    <Open>17.1686</Open>
+    <High>17.7471</High>
+    <Low>16.1264</Low>
+    <Close>16.3282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-22</Date>
+    <Open>16.3181</Open>
+    <High>16.7267</High>
+    <Low>15.8047</Low>
+    <Close>16.1981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-23</Date>
+    <Open>16.1981</Open>
+    <High>17.5105</High>
+    <Low>15.9696</Low>
+    <Close>16.2598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-24</Date>
+    <Open>16.2598</Open>
+    <High>16.6683</High>
+    <Low>14.0856</Low>
+    <Close>15.7663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-25</Date>
+    <Open>15.7663</Open>
+    <High>17.1986</High>
+    <Low>15.7647</Low>
+    <Close>17.1586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-26</Date>
+    <Open>17.1486</Open>
+    <High>18.7875</High>
+    <Low>16.9968</Low>
+    <Close>18.0372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-27</Date>
+    <Open>18.0272</Open>
+    <High>18.7275</High>
+    <Low>17.1068</Low>
+    <Close>17.5988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-02-28</Date>
+    <Open>17.597</Open>
+    <High>18.8894</High>
+    <Low>16.6867</Low>
+    <Close>18.5374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-01</Date>
+    <Open>18.6074</Open>
+    <High>19.5698</High>
+    <Low>18.3373</Low>
+    <Close>18.9357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-02</Date>
+    <Open>18.9457</Open>
+    <High>19.2558</High>
+    <Low>18.3637</Low>
+    <Close>18.7337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-03</Date>
+    <Open>18.7337</Open>
+    <High>18.7656</High>
+    <Low>17.7736</Low>
+    <Close>17.9836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-04</Date>
+    <Open>17.9854</Open>
+    <High>18.1054</High>
+    <Low>16.5033</Low>
+    <Close>16.765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-05</Date>
+    <Open>16.765</Open>
+    <High>17.7936</High>
+    <Low>16.2032</Low>
+    <Close>17.3552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-06</Date>
+    <Open>17.3552</Open>
+    <High>17.5953</High>
+    <Low>16.5233</Low>
+    <Close>17.3252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-07</Date>
+    <Open>17.3152</Open>
+    <High>17.3552</High>
+    <Low>16.0132</Low>
+    <Close>16.3449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-08</Date>
+    <Open>16.3549</Open>
+    <High>17.2735</High>
+    <Low>16.3033</Low>
+    <Close>16.8334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-09</Date>
+    <Open>16.8434</Open>
+    <High>18.0936</High>
+    <Low>16.8034</Low>
+    <Close>17.7535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-10</Date>
+    <Open>17.7535</Open>
+    <High>17.9836</High>
+    <Low>16.6833</Low>
+    <Close>17.0768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-11</Date>
+    <Open>17.0768</Open>
+    <High>18.4974</High>
+    <Low>16.7067</Low>
+    <Close>17.9336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-12</Date>
+    <Open>17.9336</Open>
+    <High>18.7419</High>
+    <Low>17.6835</Low>
+    <Close>18.2418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-13</Date>
+    <Open>18.2418</Open>
+    <High>18.3955</High>
+    <Low>17.1934</Low>
+    <Close>17.3352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-14</Date>
+    <Open>17.3335</Open>
+    <High>17.8636</High>
+    <Low>17.0117</Low>
+    <Close>17.6235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-15</Date>
+    <Open>17.6235</Open>
+    <High>18.0654</High>
+    <Low>17.0517</Low>
+    <Close>17.8554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-16</Date>
+    <Open>17.8554</Open>
+    <High>19.1958</High>
+    <Low>17.6935</Low>
+    <Close>18.8857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-17</Date>
+    <Open>18.8857</Open>
+    <High>19.3539</High>
+    <Low>18.6374</Low>
+    <Close>18.7594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-18</Date>
+    <Open>18.7594</Open>
+    <High>19.2115</High>
+    <Low>18.1391</Low>
+    <Close>18.9495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-19</Date>
+    <Open>18.9495</Open>
+    <High>19.7999</High>
+    <Low>18.8713</Low>
+    <Close>19.3677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-20</Date>
+    <Open>19.3697</Open>
+    <High>19.4778</High>
+    <Low>18.3373</Low>
+    <Close>18.7575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-21</Date>
+    <Open>18.7575</Open>
+    <High>19.0695</High>
+    <Low>18.4274</Low>
+    <Close>18.7375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-22</Date>
+    <Open>18.7475</Open>
+    <High>20.2701</High>
+    <Low>18.6775</Low>
+    <Close>20.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-23</Date>
+    <Open>20.07</Open>
+    <High>21.1285</High>
+    <Low>19.8299</Low>
+    <Close>20.8083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-24</Date>
+    <Open>20.8083</Open>
+    <High>21.4986</High>
+    <Low>20.2781</Low>
+    <Close>21.2585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-25</Date>
+    <Open>21.2585</Open>
+    <High>21.3928</High>
+    <Low>20.1881</Low>
+    <Close>20.5403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-26</Date>
+    <Open>20.5282</Open>
+    <High>21.0505</High>
+    <Low>20.2581</Low>
+    <Close>20.8283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-27</Date>
+    <Open>20.8183</Open>
+    <High>22.0088</High>
+    <Low>20.7283</Low>
+    <Close>21.9388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-28</Date>
+    <Open>21.9266</Open>
+    <High>23.337</High>
+    <Low>21.8487</Low>
+    <Close>22.519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-29</Date>
+    <Open>22.5535</Open>
+    <High>22.9492</High>
+    <Low>21.7887</Low>
+    <Close>22.1411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-30</Date>
+    <Open>22.1511</Open>
+    <High>23.0069</High>
+    <Low>21.6487</Low>
+    <Close>22.4367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-03-31</Date>
+    <Open>22.4367</Open>
+    <High>23.0646</High>
+    <Low>21.2442</Low>
+    <Close>21.5243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-01</Date>
+    <Open>21.5165</Open>
+    <High>22.1388</High>
+    <Low>20.6162</Low>
+    <Close>22.0988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-02</Date>
+    <Open>22.0944</Open>
+    <High>23.8395</High>
+    <Low>21.8244</Low>
+    <Close>23.2693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-03</Date>
+    <Open>23.2793</Open>
+    <High>23.4394</High>
+    <Low>22.5268</Low>
+    <Close>23.2893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-04</Date>
+    <Open>23.307</Open>
+    <High>23.5794</High>
+    <Low>21.6243</Low>
+    <Close>22.5345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-05</Date>
+    <Open>22.5368</Open>
+    <High>23.1269</High>
+    <Low>22.0722</Low>
+    <Close>22.2544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-06</Date>
+    <Open>22.2544</Open>
+    <High>22.2845</High>
+    <Low>19.72</Low>
+    <Close>20.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-07</Date>
+    <Open>20.23</Open>
+    <High>20.5121</High>
+    <Low>19.53</Low>
+    <Close>20.352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-08</Date>
+    <Open>20.352</Open>
+    <High>20.6521</High>
+    <Low>19.6859</Low>
+    <Close>19.7179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-09</Date>
+    <Open>19.7079</Open>
+    <High>19.7859</High>
+    <Low>19.1457</Low>
+    <Close>19.5459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-10</Date>
+    <Open>19.5459</Open>
+    <High>20.2461</High>
+    <Low>19.3558</Low>
+    <Close>19.824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-11</Date>
+    <Open>19.834</Open>
+    <High>19.892</High>
+    <Low>17.0034</Low>
+    <Close>17.1251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-12</Date>
+    <Open>17.1251</Open>
+    <High>18.0236</High>
+    <Low>17.0351</Low>
+    <Close>17.5853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-13</Date>
+    <Open>17.5753</Open>
+    <High>18.2855</High>
+    <Low>17.3852</Low>
+    <Close>18.1754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-14</Date>
+    <Open>18.1754</Open>
+    <High>18.4855</High>
+    <Low>17.4735</Low>
+    <Close>17.8818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-15</Date>
+    <Open>17.8818</Open>
+    <High>18.3537</High>
+    <Low>17.7718</Low>
+    <Close>18.3237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-16</Date>
+    <Open>18.3137</Open>
+    <High>18.6237</High>
+    <Low>18.1818</Low>
+    <Close>18.5237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-17</Date>
+    <Open>18.5337</Open>
+    <High>18.8138</High>
+    <Low>18.0718</Low>
+    <Close>18.2736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-18</Date>
+    <Open>18.2736</Open>
+    <High>18.3555</High>
+    <Low>17.1017</Low>
+    <Close>18.2055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-19</Date>
+    <Open>18.2055</Open>
+    <High>18.9638</High>
+    <Low>18.0436</Low>
+    <Close>18.8838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-20</Date>
+    <Open>18.8938</Open>
+    <High>19.542</High>
+    <Low>18.5418</Low>
+    <Close>19.1138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-21</Date>
+    <Open>19.1138</Open>
+    <High>19.6839</High>
+    <Low>18.4537</Low>
+    <Close>18.5518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-22</Date>
+    <Open>18.5518</Open>
+    <High>18.5518</High>
+    <Low>18.0718</Low>
+    <Close>18.4018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-23</Date>
+    <Open>18.4137</Open>
+    <High>19.2738</High>
+    <Low>17.9718</Low>
+    <Close>19.0638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-24</Date>
+    <Open>19.0638</Open>
+    <High>19.1638</High>
+    <Low>18.0918</Low>
+    <Close>18.3637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-25</Date>
+    <Open>18.3637</Open>
+    <High>18.4637</High>
+    <Low>17.1317</Low>
+    <Close>18.0618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-26</Date>
+    <Open>18.0636</Open>
+    <High>18.3437</High>
+    <Low>16.6317</Low>
+    <Close>16.9217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-27</Date>
+    <Open>16.9317</Open>
+    <High>17.27</High>
+    <Low>16.4216</Low>
+    <Close>16.9617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-28</Date>
+    <Open>16.9717</Open>
+    <High>17.4317</High>
+    <Low>16.7517</Low>
+    <Close>17.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-29</Date>
+    <Open>17.05</Open>
+    <High>17.0717</High>
+    <Low>16.0</Low>
+    <Close>16.0816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-04-30</Date>
+    <Open>16.0916</Open>
+    <High>16.4516</High>
+    <Low>15.4315</Low>
+    <Close>15.4816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-01</Date>
+    <Open>15.48</Open>
+    <High>15.5316</High>
+    <Low>14.22</Low>
+    <Close>15.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-02</Date>
+    <Open>15.14</Open>
+    <High>15.6016</High>
+    <Low>14.56</Low>
+    <Close>15.0715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-03</Date>
+    <Open>15.07</Open>
+    <High>15.2715</High>
+    <Low>14.5171</Low>
+    <Close>14.7385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-04</Date>
+    <Open>14.7385</Open>
+    <High>16.22</High>
+    <Low>14.6271</Low>
+    <Close>16.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-05</Date>
+    <Open>16.18</Open>
+    <High>16.4467</High>
+    <Low>14.0272</Low>
+    <Close>14.4971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-06</Date>
+    <Open>14.4971</Open>
+    <High>14.6671</High>
+    <Low>13.8372</Low>
+    <Close>14.2686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-07</Date>
+    <Open>14.2786</Open>
+    <High>14.4186</High>
+    <Low>13.7472</Low>
+    <Close>13.7472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-08</Date>
+    <Open>13.7872</Open>
+    <High>13.9086</High>
+    <Low>13.0248</Low>
+    <Close>13.4959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-09</Date>
+    <Open>13.5059</Open>
+    <High>13.5259</High>
+    <Low>10.7268</Low>
+    <Close>11.1278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-10</Date>
+    <Open>11.1478</Open>
+    <High>12.4163</High>
+    <Low>10.3469</Low>
+    <Close>10.8457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-11</Date>
+    <Open>10.8257</Open>
+    <High>11.6442</High>
+    <Low>8.04227</Low>
+    <Close>8.76744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-12</Date>
+    <Open>8.80729</Open>
+    <High>9.48002</High>
+    <Low>6.96277</Low>
+    <Close>8.28673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-13</Date>
+    <Open>8.29754</Open>
+    <High>11.7694</High>
+    <Low>8.17786</Low>
+    <Close>11.1211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-14</Date>
+    <Open>11.1311</Open>
+    <High>11.3641</High>
+    <Low>9.74048</Low>
+    <Close>11.1544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-15</Date>
+    <Open>11.1444</Open>
+    <High>11.656</High>
+    <Low>10.5641</Low>
+    <Close>11.5749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-16</Date>
+    <Open>11.5849</Open>
+    <High>11.8458</High>
+    <Low>10.3644</Low>
+    <Close>10.8259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-17</Date>
+    <Open>10.8459</Open>
+    <High>11.3275</High>
+    <Low>10.4164</Low>
+    <Close>11.0656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-18</Date>
+    <Open>11.0756</Open>
+    <High>11.1666</High>
+    <Low>9.69738</Low>
+    <Close>9.78726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-19</Date>
+    <Open>9.79725</Open>
+    <High>10.3507</High>
+    <Low>9.20801</Low>
+    <Close>10.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-20</Date>
+    <Open>10.03</Open>
+    <High>10.2387</High>
+    <Low>9.43771</Low>
+    <Close>9.6584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-21</Date>
+    <Open>9.6584</Open>
+    <High>10.0869</High>
+    <Low>9.45864</Low>
+    <Close>9.86716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-22</Date>
+    <Open>9.85717</Open>
+    <High>10.3166</High>
+    <Low>9.83621</Low>
+    <Close>10.008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-23</Date>
+    <Open>10.018</Open>
+    <High>10.7282</High>
+    <Low>9.96902</Low>
+    <Close>10.2177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-24</Date>
+    <Open>10.2177</Open>
+    <High>10.2177</High>
+    <Low>9.55852</Low>
+    <Close>10.1668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-25</Date>
+    <Open>10.1768</Open>
+    <High>10.3276</High>
+    <Low>9.79823</Low>
+    <Close>9.99799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-26</Date>
+    <Open>9.99799</Open>
+    <High>10.018</High>
+    <Low>8.83028</Low>
+    <Close>9.35064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-27</Date>
+    <Open>9.36063</Open>
+    <High>9.99</High>
+    <Low>8.56057</Low>
+    <Close>9.25074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-28</Date>
+    <Open>9.23936</Open>
+    <High>9.7191</High>
+    <Low>8.94889</Low>
+    <Close>9.58877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-29</Date>
+    <Open>9.58877</Open>
+    <High>10.0196</High>
+    <Low>9.3203</Low>
+    <Close>9.88911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-30</Date>
+    <Open>9.90009</Open>
+    <High>10.7725</High>
+    <Low>9.75984</Low>
+    <Close>10.5416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-05-31</Date>
+    <Open>10.5626</Open>
+    <High>10.6415</High>
+    <Low>9.96202</Low>
+    <Close>10.3617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-01</Date>
+    <Open>10.422</Open>
+    <High>10.7214</High>
+    <Low>9.2598</Low>
+    <Close>9.41152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-02</Date>
+    <Open>9.40153</Open>
+    <High>9.95104</High>
+    <Low>9.30069</Low>
+    <Close>9.90108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-03</Date>
+    <Open>9.90108</Open>
+    <High>10.031</High>
+    <Low>9.19135</Low>
+    <Close>9.46176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-04</Date>
+    <Open>9.46176</Open>
+    <High>9.49183</High>
+    <Low>9.14039</Low>
+    <Close>9.44282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-05</Date>
+    <Open>9.45281</Open>
+    <High>9.55168</High>
+    <Low>9.24232</Low>
+    <Close>9.43113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-06</Date>
+    <Open>9.44112</Open>
+    <High>9.93155</High>
+    <Low>9.30134</Low>
+    <Close>9.54188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-07</Date>
+    <Open>9.54236</Open>
+    <High>9.56206</High>
+    <Low>8.84257</Low>
+    <Close>9.33243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-08</Date>
+    <Open>9.34243</Open>
+    <High>9.39474</High>
+    <Low>8.8935</Low>
+    <Close>9.10408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-09</Date>
+    <Open>9.10408</Open>
+    <High>9.45291</High>
+    <Low>8.9134</Low>
+    <Close>9.23224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-10</Date>
+    <Open>9.23224</Open>
+    <High>9.3625</High>
+    <Low>8.57056</Low>
+    <Close>8.75877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-11</Date>
+    <Open>8.75877</Open>
+    <High>8.84053</High>
+    <Low>7.8902</Low>
+    <Close>8.15078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-12</Date>
+    <Open>8.1507</Open>
+    <High>8.21071</High>
+    <Low>7.44948</Low>
+    <Close>7.72049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-13</Date>
+    <Open>7.7105</Open>
+    <High>7.72049</High>
+    <Low>6.34245</Low>
+    <Close>7.05019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-14</Date>
+    <Open>7.05019</Open>
+    <High>7.50061</High>
+    <Low>6.67005</Low>
+    <Close>7.09148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-15</Date>
+    <Open>7.09148</Open>
+    <High>8.22095</High>
+    <Low>6.82769</Low>
+    <Close>8.16773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-16</Date>
+    <Open>8.16773</Open>
+    <High>8.36079</High>
+    <Low>7.22132</Low>
+    <Close>7.31048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-17</Date>
+    <Open>7.1101</Open>
+    <High>7.4503</High>
+    <Low>7.00033</Low>
+    <Close>7.34118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-18</Date>
+    <Open>7.35516</Open>
+    <High>7.40618</High>
+    <Low>6.46042</Low>
+    <Close>7.01861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-19</Date>
+    <Open>7.0286</Open>
+    <High>7.63083</High>
+    <Low>6.75991</Low>
+    <Close>7.46029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-20</Date>
+    <Open>7.46029</Open>
+    <High>8.01038</High>
+    <Low>7.16068</Low>
+    <Close>7.71151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-21</Date>
+    <Open>7.71151</Open>
+    <High>8.26338</High>
+    <Low>7.62161</Low>
+    <Close>7.79142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-22</Date>
+    <Open>7.80141</Open>
+    <High>7.86213</High>
+    <Low>7.34191</Low>
+    <Close>7.50249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-23</Date>
+    <Open>7.50249</Open>
+    <High>7.81218</High>
+    <Low>7.36263</Low>
+    <Close>7.62237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-24</Date>
+    <Open>7.61238</Open>
+    <High>8.2434</High>
+    <Low>7.61238</Low>
+    <Close>8.18361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-25</Date>
+    <Open>8.1918</Open>
+    <High>8.36439</High>
+    <Low>7.78455</Low>
+    <Close>8.15429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-26</Date>
+    <Open>8.15429</Open>
+    <High>8.47423</High>
+    <Low>7.90517</Low>
+    <Close>8.15494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-27</Date>
+    <Open>8.15502</Open>
+    <High>8.19508</High>
+    <Low>7.68285</Low>
+    <Close>7.76308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-28</Date>
+    <Open>7.77308</Open>
+    <High>7.9928</High>
+    <Low>7.41228</Low>
+    <Close>7.51075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-29</Date>
+    <Open>7.52066</Open>
+    <High>7.52066</High>
+    <Low>7.00026</Low>
+    <Close>7.1014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-06-30</Date>
+    <Open>7.10147</Open>
+    <High>7.14142</High>
+    <Low>6.64136</Low>
+    <Close>6.73191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-01</Date>
+    <Open>6.7419</Open>
+    <High>7.25274</High>
+    <Low>6.53084</Low>
+    <Close>6.82249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-05</Date>
+    <Open>6.83179</Open>
+    <High>6.98231</High>
+    <Low>6.60207</Low>
+    <Close>6.88242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-06</Date>
+    <Open>6.87243</Open>
+    <High>6.96233</High>
+    <Low>6.69196</Low>
+    <Close>6.89241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-07</Date>
+    <Open>6.88242</Open>
+    <High>7.31414</High>
+    <Low>6.87174</Low>
+    <Close>7.27563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-08</Date>
+    <Open>7.28563</Open>
+    <High>7.45478</High>
+    <Low>6.93514</Low>
+    <Close>7.08575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-09</Date>
+    <Open>7.06576</Open>
+    <High>7.35558</High>
+    <Low>7.01509</Low>
+    <Close>7.27563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-10</Date>
+    <Open>7.2849</Open>
+    <High>7.31561</High>
+    <Low>6.76526</Low>
+    <Close>6.89586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-11</Date>
+    <Open>6.88669</Open>
+    <High>6.89586</High>
+    <Low>6.63402</Low>
+    <Close>6.69397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-12</Date>
+    <Open>6.67532</Open>
+    <High>6.68532</High>
+    <Low>6.33303</Low>
+    <Close>6.36363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-13</Date>
+    <Open>6.35389</Open>
+    <High>6.53596</High>
+    <Low>6.01298</Low>
+    <Close>6.28274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-14</Date>
+    <Open>6.35757</Open>
+    <High>6.75584</High>
+    <Low>6.29063</Low>
+    <Close>6.6679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-15</Date>
+    <Open>6.6679</Open>
+    <High>6.97841</High>
+    <Low>6.63895</Low>
+    <Close>6.84235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-16</Date>
+    <Open>6.84285</Open>
+    <High>7.17656</High>
+    <Low>6.57897</Low>
+    <Close>7.09167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-17</Date>
+    <Open>7.12427</Open>
+    <High>7.32272</High>
+    <Low>6.88559</Low>
+    <Close>6.99628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-18</Date>
+    <Open>7.0125</Open>
+    <High>7.71581</High>
+    <Low>6.90772</Low>
+    <Close>7.35861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-19</Date>
+    <Open>7.35891</Open>
+    <High>8.0213</High>
+    <Low>7.32225</Low>
+    <Close>7.92657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-20</Date>
+    <Open>7.9193</Open>
+    <High>8.07087</High>
+    <Low>7.4327</Low>
+    <Close>7.51598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-21</Date>
+    <Open>7.62798</Open>
+    <High>7.62926</High>
+    <Low>7.18552</Low>
+    <Close>7.52868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-22</Date>
+    <Open>7.52868</Open>
+    <High>7.84212</High>
+    <Low>7.26816</Low>
+    <Close>7.33031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-23</Date>
+    <Open>7.3287</Open>
+    <High>7.48597</High>
+    <Low>7.09417</Low>
+    <Close>7.26148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-24</Date>
+    <Open>7.26083</Open>
+    <High>7.54012</High>
+    <Low>7.24544</Low>
+    <Close>7.50313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-25</Date>
+    <Open>7.4983</Open>
+    <High>7.54401</High>
+    <Low>6.85175</Low>
+    <Close>7.00846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-26</Date>
+    <Open>7.00846</Open>
+    <High>7.00853</High>
+    <Low>6.529</Low>
+    <Close>6.61993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-27</Date>
+    <Open>6.61993</Open>
+    <High>7.30705</High>
+    <Low>6.619</Low>
+    <Close>7.28915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-28</Date>
+    <Open>7.28895</Open>
+    <High>8.06604</High>
+    <Low>7.28895</Low>
+    <Close>7.91108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-29</Date>
+    <Open>7.91058</Open>
+    <High>8.32953</High>
+    <Low>7.77105</Low>
+    <Close>8.21087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-30</Date>
+    <Open>8.21087</Open>
+    <High>8.82533</High>
+    <Low>8.16466</Low>
+    <Close>8.34754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-07-31</Date>
+    <Open>8.33373</Open>
+    <High>9.19938</High>
+    <Low>8.09046</Low>
+    <Close>8.97646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-01</Date>
+    <Open>8.96599</Open>
+    <High>8.96702</High>
+    <Low>8.08989</Low>
+    <Close>8.18596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-02</Date>
+    <Open>8.15565</Open>
+    <High>8.26632</High>
+    <Low>7.68701</Low>
+    <Close>7.98996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-03</Date>
+    <Open>7.99046</Open>
+    <High>8.40791</High>
+    <Low>7.84678</Low>
+    <Close>8.36289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-04</Date>
+    <Open>8.31259</Open>
+    <High>8.31349</High>
+    <Low>7.88925</Low>
+    <Close>8.02394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-05</Date>
+    <Open>8.02294</Open>
+    <High>8.69664</High>
+    <Low>7.96512</Low>
+    <Close>8.63774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-06</Date>
+    <Open>8.64674</Open>
+    <High>8.87257</High>
+    <Low>8.54927</Low>
+    <Close>8.60678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-07</Date>
+    <Open>8.60649</Open>
+    <High>8.91785</High>
+    <Low>8.35981</Low>
+    <Close>8.79677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-08</Date>
+    <Open>8.79667</Open>
+    <High>9.36314</High>
+    <Low>8.60286</Low>
+    <Close>9.196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-09</Date>
+    <Open>9.22281</Open>
+    <High>9.4541</High>
+    <Low>8.66057</Low>
+    <Close>8.91738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-10</Date>
+    <Open>8.91798</Open>
+    <High>9.64054</High>
+    <Low>8.55375</Low>
+    <Close>9.56027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-11</Date>
+    <Open>9.56112</Open>
+    <High>9.6427</High>
+    <Low>9.22036</Low>
+    <Close>9.30327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-12</Date>
+    <Open>9.28386</Open>
+    <High>9.46839</High>
+    <Low>9.04592</Low>
+    <Close>9.32139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-13</Date>
+    <Open>9.33769</Open>
+    <High>9.67694</High>
+    <Low>9.3354</Low>
+    <Close>9.39036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-14</Date>
+    <Open>9.38976</Open>
+    <High>9.55882</High>
+    <Low>8.8333</Low>
+    <Close>8.98418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-15</Date>
+    <Open>8.98359</Open>
+    <High>9.38013</High>
+    <Low>8.69557</Low>
+    <Close>8.77541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-16</Date>
+    <Open>8.77529</Open>
+    <High>8.94985</High>
+    <Low>8.63375</Low>
+    <Close>8.83309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-17</Date>
+    <Open>8.8454</Open>
+    <High>9.16662</High>
+    <Low>8.32575</Low>
+    <Close>8.47979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-18</Date>
+    <Open>8.38869</Open>
+    <High>8.58782</High>
+    <Low>8.27017</Low>
+    <Close>8.41198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-19</Date>
+    <Open>8.42884</Open>
+    <High>8.43164</High>
+    <Low>7.2724</Low>
+    <Close>7.31373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-20</Date>
+    <Open>7.31373</Open>
+    <High>7.51595</High>
+    <Low>7.04111</Low>
+    <Close>7.13083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-21</Date>
+    <Open>7.18406</Open>
+    <High>7.52117</High>
+    <Low>7.17117</Low>
+    <Close>7.45918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-22</Date>
+    <Open>7.45905</Open>
+    <High>7.48635</High>
+    <Low>7.00768</Low>
+    <Close>7.25039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-23</Date>
+    <Open>7.24461</Open>
+    <High>7.7083</High>
+    <Low>7.1917</Low>
+    <Close>7.60465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-24</Date>
+    <Open>7.60304</Open>
+    <High>7.7584</High>
+    <Low>7.434</Low>
+    <Close>7.69449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-25</Date>
+    <Open>7.70492</Open>
+    <High>7.74755</High>
+    <Low>7.4641</Low>
+    <Close>7.60443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-26</Date>
+    <Open>7.60463</Open>
+    <High>7.67519</High>
+    <Low>7.0331</Low>
+    <Close>7.09521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-27</Date>
+    <Open>7.09521</Open>
+    <High>7.11444</High>
+    <Low>6.80568</Low>
+    <Close>7.02431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-28</Date>
+    <Open>7.02014</Open>
+    <High>7.14594</High>
+    <Low>6.95085</Low>
+    <Close>7.0321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-29</Date>
+    <Open>7.0321</Open>
+    <High>7.27791</High>
+    <Low>6.79156</Low>
+    <Close>7.1708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-30</Date>
+    <Open>7.23238</Open>
+    <High>7.37859</High>
+    <Low>6.88765</Low>
+    <Close>6.99483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-08-31</Date>
+    <Open>6.99236</Open>
+    <High>7.28317</High>
+    <Low>6.98621</Low>
+    <Close>7.09143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-01</Date>
+    <Open>7.08973</Open>
+    <High>7.17797</High>
+    <Low>6.86607</Low>
+    <Close>7.14347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-02</Date>
+    <Open>7.14367</Open>
+    <High>7.56589</High>
+    <Low>7.12537</Low>
+    <Close>7.35526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-03</Date>
+    <Open>7.3554</Open>
+    <High>7.37553</High>
+    <Low>7.17977</Low>
+    <Close>7.26063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-04</Date>
+    <Open>7.2599</Open>
+    <High>7.40114</High>
+    <Low>7.1561</Low>
+    <Close>7.2823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-05</Date>
+    <Open>7.2606</Open>
+    <High>7.62426</High>
+    <Low>7.2599</Low>
+    <Close>7.31413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-06</Date>
+    <Open>7.31343</Open>
+    <High>7.6816</High>
+    <Low>6.8418</Low>
+    <Close>6.9285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-07</Date>
+    <Open>6.9166</Open>
+    <High>7.292</High>
+    <Low>6.76263</Low>
+    <Close>7.23631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-08</Date>
+    <Open>7.23661</Open>
+    <High>7.44467</High>
+    <Low>7.04594</Low>
+    <Close>7.44202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-09</Date>
+    <Open>7.4073</Open>
+    <High>7.93541</High>
+    <Low>7.36403</Low>
+    <Close>7.78475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-10</Date>
+    <Open>7.78678</Open>
+    <High>7.86989</High>
+    <Low>7.59779</Low>
+    <Close>7.76457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-11</Date>
+    <Open>7.76365</Open>
+    <High>7.89963</High>
+    <Low>7.54831</Low>
+    <Close>7.5849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-12</Date>
+    <Open>7.58462</Open>
+    <High>8.04523</High>
+    <Low>7.56999</Low>
+    <Close>7.69929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-13</Date>
+    <Open>7.71441</Open>
+    <High>7.9466</High>
+    <Low>7.06038</Low>
+    <Close>7.14004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-14</Date>
+    <Open>7.12881</Open>
+    <High>7.30183</High>
+    <Low>7.03472</Low>
+    <Close>7.19784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-15</Date>
+    <Open>7.2006</Open>
+    <High>7.24257</High>
+    <Low>6.89348</Low>
+    <Close>6.96107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-16</Date>
+    <Open>6.94841</Open>
+    <High>6.97207</High>
+    <Low>6.70809</Low>
+    <Close>6.85921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-17</Date>
+    <Open>6.85921</Open>
+    <High>7.15082</High>
+    <Low>6.843</Low>
+    <Close>7.1149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-18</Date>
+    <Open>7.1239</Open>
+    <High>7.125</High>
+    <Low>6.70913</Low>
+    <Close>6.7169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-19</Date>
+    <Open>6.47835</Open>
+    <High>6.5558</High>
+    <Low>6.1099</Low>
+    <Close>6.40154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-20</Date>
+    <Open>6.40154</Open>
+    <High>6.41698</High>
+    <Low>6.17613</Low>
+    <Close>6.23562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-21</Date>
+    <Open>6.23752</Open>
+    <High>6.57076</High>
+    <Low>6.0225</Low>
+    <Close>6.0602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-22</Date>
+    <Open>6.0601</Open>
+    <High>6.5191</High>
+    <Low>5.9729</Low>
+    <Close>6.3995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-23</Date>
+    <Open>6.3989</Open>
+    <High>6.6375</High>
+    <Low>6.19528</Low>
+    <Close>6.38026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-24</Date>
+    <Open>6.38145</Open>
+    <High>6.51177</High>
+    <Low>6.35041</Low>
+    <Close>6.36261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-25</Date>
+    <Open>6.3648</Open>
+    <High>6.3799</High>
+    <Low>6.16825</Low>
+    <Close>6.2331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-26</Date>
+    <Open>6.1766</Open>
+    <High>6.5761</High>
+    <Low>6.09604</Low>
+    <Close>6.5291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-27</Date>
+    <Open>6.529</Open>
+    <High>6.802</High>
+    <Low>6.24828</Low>
+    <Close>6.33927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-28</Date>
+    <Open>6.33827</Open>
+    <High>6.4671</High>
+    <Low>6.17586</Low>
+    <Close>6.3985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-29</Date>
+    <Open>6.3981</Open>
+    <High>6.48155</High>
+    <Low>6.2699</Low>
+    <Close>6.40174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-09-30</Date>
+    <Open>6.4007</Open>
+    <High>6.57076</High>
+    <Low>6.222</Low>
+    <Close>6.2677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-01</Date>
+    <Open>6.26833</Open>
+    <High>6.3339</High>
+    <Low>6.2179</Low>
+    <Close>6.2829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-02</Date>
+    <Open>6.2739</Open>
+    <High>6.32573</High>
+    <Low>6.1548</Low>
+    <Close>6.2566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-03</Date>
+    <Open>6.2559</Open>
+    <High>6.38564</High>
+    <Low>6.0893</Low>
+    <Close>6.36574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-04</Date>
+    <Open>6.36474</Open>
+    <High>6.53206</High>
+    <Low>6.34553</Low>
+    <Close>6.50885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-05</Date>
+    <Open>6.50885</Open>
+    <High>6.51175</High>
+    <Low>6.27903</Low>
+    <Close>6.41038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-06</Date>
+    <Open>6.39378</Open>
+    <High>6.51747</High>
+    <Low>6.33946</Low>
+    <Close>6.33988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-07</Date>
+    <Open>6.33988</Open>
+    <High>6.39087</High>
+    <Low>6.26003</Low>
+    <Close>6.30568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-08</Date>
+    <Open>6.30543</Open>
+    <High>6.39074</High>
+    <Low>6.30034</Low>
+    <Close>6.32448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-09</Date>
+    <Open>6.32448</Open>
+    <High>6.4914</High>
+    <Low>6.27053</Low>
+    <Close>6.46119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-10</Date>
+    <Open>6.46119</Open>
+    <High>6.53881</High>
+    <Low>6.2902</Low>
+    <Close>6.36216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-11</Date>
+    <Open>6.3628</Open>
+    <High>6.3636</High>
+    <Low>6.13929</Low>
+    <Close>6.18374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-12</Date>
+    <Open>6.18374</Open>
+    <High>6.2396</High>
+    <Low>6.13728</Low>
+    <Close>6.15258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-13</Date>
+    <Open>6.15258</Open>
+    <High>6.17971</High>
+    <Low>5.69977</Low>
+    <Close>6.12899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-14</Date>
+    <Open>6.12899</Open>
+    <High>6.26035</High>
+    <Low>6.0386</Low>
+    <Close>6.05044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-15</Date>
+    <Open>6.05044</Open>
+    <High>6.09059</High>
+    <Low>6.01814</Low>
+    <Close>6.0763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-16</Date>
+    <Open>6.0733</Open>
+    <High>6.24245</High>
+    <Low>6.04032</Low>
+    <Close>6.21185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-17</Date>
+    <Open>6.21061</Open>
+    <High>6.2668</High>
+    <Low>6.12811</Low>
+    <Close>6.23002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-18</Date>
+    <Open>6.23002</Open>
+    <High>6.29054</High>
+    <Low>6.06996</Low>
+    <Close>6.16015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-19</Date>
+    <Open>6.17482</Open>
+    <High>6.2569</High>
+    <Low>6.07026</Low>
+    <Close>6.2173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-20</Date>
+    <Open>6.2173</Open>
+    <High>6.22029</High>
+    <Low>5.82788</Low>
+    <Close>5.87169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-21</Date>
+    <Open>5.87311</Open>
+    <High>5.89957</High>
+    <Low>5.73956</Low>
+    <Close>5.84037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-22</Date>
+    <Open>5.85301</Open>
+    <High>5.86891</High>
+    <Low>5.7723</Low>
+    <Close>5.84153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-23</Date>
+    <Open>5.84143</Open>
+    <High>5.94111</High>
+    <Low>5.7601</Low>
+    <Close>5.91237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-24</Date>
+    <Open>5.91113</Open>
+    <High>5.9807</High>
+    <Low>5.80892</Low>
+    <Close>5.90544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-25</Date>
+    <Open>5.90544</Open>
+    <High>6.62169</High>
+    <Low>5.90008</Low>
+    <Close>6.43436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-26</Date>
+    <Open>6.43449</Open>
+    <High>6.60195</High>
+    <Low>6.41157</Low>
+    <Close>6.45311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-27</Date>
+    <Open>6.45317</Open>
+    <High>6.63156</High>
+    <Low>6.29105</Low>
+    <Close>6.33178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-28</Date>
+    <Open>6.33178</Open>
+    <High>6.58094</High>
+    <Low>6.27089</Low>
+    <Close>6.54281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-29</Date>
+    <Open>6.54281</Open>
+    <High>6.76161</High>
+    <Low>6.50173</Low>
+    <Close>6.67774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-30</Date>
+    <Open>6.6778</Open>
+    <High>6.74125</High>
+    <Low>6.5224</Low>
+    <Close>6.59432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-10-31</Date>
+    <Open>6.59372</Open>
+    <High>6.83017</High>
+    <Low>6.55221</Low>
+    <Close>6.63864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-01</Date>
+    <Open>6.6387</Open>
+    <High>6.70816</High>
+    <Low>6.46761</Low>
+    <Close>6.47255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-02</Date>
+    <Open>6.47255</Open>
+    <High>6.52063</High>
+    <Low>6.17039</Low>
+    <Close>6.21913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-03</Date>
+    <Open>6.21913</Open>
+    <High>6.52835</High>
+    <Low>6.17839</Low>
+    <Close>6.48054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-04</Date>
+    <Open>6.42901</Open>
+    <High>7.07157</High>
+    <Low>6.39022</Low>
+    <Close>7.05996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-05</Date>
+    <Open>7.05989</Open>
+    <High>7.23949</High>
+    <Low>6.96209</Low>
+    <Close>7.07175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-06</Date>
+    <Open>7.07145</Open>
+    <High>7.14141</High>
+    <Low>6.90171</Low>
+    <Close>6.90295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-07</Date>
+    <Open>6.90288</Open>
+    <High>7.40962</High>
+    <Low>6.66123</Low>
+    <Close>7.10955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-08</Date>
+    <Open>7.11253</Open>
+    <High>7.1896</High>
+    <Low>5.90407</Low>
+    <Close>6.27627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-09</Date>
+    <Open>6.27015</Open>
+    <High>6.40673</High>
+    <Low>5.43487</Low>
+    <Close>5.49707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-10</Date>
+    <Open>5.51112</Open>
+    <High>6.70557</High>
+    <Low>5.39313</Low>
+    <Close>6.00203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-11</Date>
+    <Open>6.00682</Open>
+    <High>6.90131</High>
+    <Low>5.5354</Low>
+    <Close>5.76553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-12</Date>
+    <Open>5.75863</Open>
+    <High>5.86448</High>
+    <Low>5.56057</Low>
+    <Close>5.82919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-13</Date>
+    <Open>5.82939</Open>
+    <High>5.95115</High>
+    <Low>5.62424</Low>
+    <Close>5.76292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-14</Date>
+    <Open>5.76092</Open>
+    <High>5.88243</High>
+    <Low>5.44248</Low>
+    <Close>5.80286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-15</Date>
+    <Open>5.80199</Open>
+    <High>6.03306</High>
+    <Low>5.80079</Low>
+    <Close>5.90489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-16</Date>
+    <Open>5.8941</Open>
+    <High>5.98599</High>
+    <Low>5.61534</Low>
+    <Close>5.67427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-17</Date>
+    <Open>5.71888</Open>
+    <High>5.72466</High>
+    <Low>5.57492</Low>
+    <Close>5.68516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-18</Date>
+    <Open>5.68461</Open>
+    <High>5.76461</High>
+    <Low>5.60407</Low>
+    <Close>5.60674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-19</Date>
+    <Open>5.60674</Open>
+    <High>5.64444</High>
+    <Low>5.53256</Low>
+    <Close>5.55706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-20</Date>
+    <Open>5.55711</Open>
+    <High>5.64326</High>
+    <Low>5.264</Low>
+    <Close>5.3219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-21</Date>
+    <Open>5.31297</Open>
+    <High>5.31301</High>
+    <Low>5.07425</Low>
+    <Close>5.20489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-22</Date>
+    <Open>5.20505</Open>
+    <High>5.30686</High>
+    <Low>5.00029</Low>
+    <Close>5.25398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-23</Date>
+    <Open>5.25619</Open>
+    <High>5.47285</High>
+    <Low>5.25192</Low>
+    <Close>5.41234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-24</Date>
+    <Open>5.43697</Open>
+    <High>5.50964</High>
+    <Low>5.33078</Low>
+    <Close>5.35899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-25</Date>
+    <Open>5.35899</Open>
+    <High>5.40687</High>
+    <Low>5.251</Low>
+    <Close>5.2654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-26</Date>
+    <Open>5.26591</Open>
+    <High>5.45054</High>
+    <Low>5.24035</Low>
+    <Close>5.26089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-27</Date>
+    <Open>5.26089</Open>
+    <High>5.43514</High>
+    <Low>5.26089</Low>
+    <Close>5.39385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-28</Date>
+    <Open>5.39385</Open>
+    <High>5.39511</High>
+    <Low>5.06277</Low>
+    <Close>5.17383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-29</Date>
+    <Open>5.17418</Open>
+    <High>5.35061</High>
+    <Low>5.09746</Low>
+    <Close>5.32203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-11-30</Date>
+    <Open>5.32273</Open>
+    <High>5.49757</High>
+    <Low>5.30315</Low>
+    <Close>5.46002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-01</Date>
+    <Open>5.45992</Open>
+    <High>5.49055</High>
+    <Low>5.31974</Low>
+    <Close>5.40342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-02</Date>
+    <Open>5.40342</Open>
+    <High>5.68207</High>
+    <Low>5.36798</Low>
+    <Close>5.63684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-03</Date>
+    <Open>5.63684</Open>
+    <High>5.70391</High>
+    <Low>5.48895</Low>
+    <Close>5.49005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-04</Date>
+    <Open>5.49015</Open>
+    <High>5.60126</High>
+    <Low>5.48285</Low>
+    <Close>5.57596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-05</Date>
+    <Open>5.57596</Open>
+    <High>5.72935</High>
+    <Low>5.45287</Low>
+    <Close>5.49171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-06</Date>
+    <Open>5.49225</Open>
+    <High>5.5123</High>
+    <Low>5.42618</Low>
+    <Close>5.46769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-07</Date>
+    <Open>5.46799</Open>
+    <High>5.5211</High>
+    <Low>5.24081</Low>
+    <Close>5.2797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-08</Date>
+    <Open>5.2797</Open>
+    <High>5.46027</High>
+    <Low>5.25533</Low>
+    <Close>5.42268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-09</Date>
+    <Open>5.42274</Open>
+    <High>5.43919</High>
+    <Low>5.26335</Low>
+    <Close>5.27936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-10</Date>
+    <Open>5.27966</Open>
+    <High>5.32545</High>
+    <Low>5.262</Low>
+    <Close>5.27459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-11</Date>
+    <Open>5.27409</Open>
+    <High>5.321</High>
+    <Low>5.1345</Low>
+    <Close>5.16132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-12</Date>
+    <Open>5.16183</Open>
+    <High>5.20322</High>
+    <Low>5.01635</Low>
+    <Close>5.16877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-13</Date>
+    <Open>5.17023</Open>
+    <High>5.34054</High>
+    <Low>4.99815</Low>
+    <Close>5.26434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-14</Date>
+    <Open>5.26434</Open>
+    <High>5.35589</High>
+    <Low>5.17065</Low>
+    <Close>5.21611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-15</Date>
+    <Open>5.21727</Open>
+    <High>5.25315</High>
+    <Low>5.12121</Low>
+    <Close>5.21694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-16</Date>
+    <Open>5.21814</Open>
+    <High>5.24922</High>
+    <Low>4.51615</Low>
+    <Close>4.71067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-17</Date>
+    <Open>4.71197</Open>
+    <High>4.71894</High>
+    <Low>4.5852</Low>
+    <Close>4.69431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-18</Date>
+    <Open>4.69651</Open>
+    <High>4.72196</High>
+    <Low>4.67093</Low>
+    <Close>4.68611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-19</Date>
+    <Open>4.70175</Open>
+    <High>4.70175</High>
+    <Low>4.41519</Low>
+    <Close>4.46216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-20</Date>
+    <Open>4.46096</Open>
+    <High>4.65191</High>
+    <Low>4.4569</Low>
+    <Close>4.60368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-21</Date>
+    <Open>4.60288</Open>
+    <High>4.62159</High>
+    <Low>4.4459</Low>
+    <Close>4.47292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-22</Date>
+    <Open>4.47292</Open>
+    <High>4.49814</High>
+    <Low>4.37405</Low>
+    <Close>4.48564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-23</Date>
+    <Open>4.48564</Open>
+    <High>4.54567</High>
+    <Low>4.45559</Low>
+    <Close>4.46425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-24</Date>
+    <Open>4.46325</Open>
+    <High>4.49043</High>
+    <Low>4.4314</Low>
+    <Close>4.44263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-25</Date>
+    <Open>4.44259</Open>
+    <High>4.48167</High>
+    <Low>4.40126</Low>
+    <Close>4.47402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-26</Date>
+    <Open>4.47415</Open>
+    <High>4.53814</High>
+    <Low>4.46595</Low>
+    <Close>4.5232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-27</Date>
+    <Open>4.5233</Open>
+    <High>4.58268</High>
+    <Low>4.45611</Low>
+    <Close>4.46976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-28</Date>
+    <Open>4.46976</Open>
+    <High>4.48071</High>
+    <Low>4.24513</Low>
+    <Close>4.2631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-29</Date>
+    <Open>4.26314</Open>
+    <High>4.35082</High>
+    <Low>4.22674</Low>
+    <Close>4.28953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-30</Date>
+    <Open>4.28957</Open>
+    <High>4.33779</High>
+    <Low>4.22607</Low>
+    <Close>4.30775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2022-12-31</Date>
+    <Open>4.3069</Open>
+    <High>4.39203</High>
+    <Low>4.28955</Low>
+    <Close>4.31854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-01</Date>
+    <Open>4.31844</Open>
+    <High>4.38475</High>
+    <Low>4.27629</Low>
+    <Close>4.37025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-02</Date>
+    <Open>4.37124</Open>
+    <High>4.52445</High>
+    <Low>4.33219</Low>
+    <Close>4.49012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-03</Date>
+    <Open>4.48656</Open>
+    <High>4.54304</High>
+    <Low>4.46592</Low>
+    <Close>4.50584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-04</Date>
+    <Open>4.50584</Open>
+    <High>4.68353</High>
+    <Low>4.50284</Low>
+    <Close>4.60398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-05</Date>
+    <Open>4.60598</Open>
+    <High>4.64711</High>
+    <Low>4.54354</Low>
+    <Close>4.62528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-06</Date>
+    <Open>4.62731</Open>
+    <High>4.68899</High>
+    <Low>4.54914</Low>
+    <Close>4.68855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-07</Date>
+    <Open>4.6885</Open>
+    <High>4.70328</High>
+    <Low>4.63511</Low>
+    <Close>4.65518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-08</Date>
+    <Open>4.65518</Open>
+    <High>4.75969</High>
+    <Low>4.60396</Low>
+    <Close>4.75153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-09</Date>
+    <Open>4.75293</Open>
+    <High>5.07608</High>
+    <Low>4.75043</Low>
+    <Close>4.90325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-10</Date>
+    <Open>4.90405</Open>
+    <High>4.9689</High>
+    <Low>4.82696</Low>
+    <Close>4.91759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-11</Date>
+    <Open>4.90764</Open>
+    <High>5.033</High>
+    <Low>4.82873</Low>
+    <Close>5.00575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-12</Date>
+    <Open>5.12749</Open>
+    <High>5.25478</High>
+    <Low>5.0204</Low>
+    <Close>5.24452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-13</Date>
+    <Open>5.24447</Open>
+    <High>5.41986</High>
+    <Low>5.16143</Low>
+    <Close>5.34568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-14</Date>
+    <Open>5.34638</Open>
+    <High>6.49061</High>
+    <Low>5.34638</Low>
+    <Close>5.9909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-15</Date>
+    <Open>5.9883</Open>
+    <High>6.06027</High>
+    <Low>5.77467</Low>
+    <Close>5.89281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-16</Date>
+    <Open>5.91873</Open>
+    <High>6.0868</High>
+    <Low>5.63224</Low>
+    <Close>5.81802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-17</Date>
+    <Open>5.81906</Open>
+    <High>6.19926</High>
+    <Low>5.70676</Low>
+    <Close>5.9992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-18</Date>
+    <Open>5.99906</Open>
+    <High>6.21173</High>
+    <Low>5.61839</Low>
+    <Close>5.68822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-19</Date>
+    <Open>5.68703</Open>
+    <High>5.84122</High>
+    <Low>5.64529</Low>
+    <Close>5.78057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-20</Date>
+    <Open>5.78067</Open>
+    <High>6.22972</High>
+    <Low>5.75344</Low>
+    <Close>6.19101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-21</Date>
+    <Open>6.19041</Open>
+    <High>6.46353</High>
+    <Low>6.02133</Low>
+    <Close>6.27786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-22</Date>
+    <Open>6.27674</Open>
+    <High>6.45753</High>
+    <Low>6.08674</Low>
+    <Close>6.17383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-23</Date>
+    <Open>6.17353</Open>
+    <High>6.82081</High>
+    <Low>6.16913</Low>
+    <Close>6.66967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-24</Date>
+    <Open>6.65633</Open>
+    <High>6.707</High>
+    <Low>6.12614</Low>
+    <Close>6.23629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-25</Date>
+    <Open>6.23622</Open>
+    <High>6.55725</High>
+    <Low>6.01716</Low>
+    <Close>6.30427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-26</Date>
+    <Open>6.30291</Open>
+    <High>6.54215</High>
+    <Low>6.30117</Low>
+    <Close>6.46512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-27</Date>
+    <Open>6.46272</Open>
+    <High>6.62548</High>
+    <Low>6.29025</Low>
+    <Close>6.52238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-28</Date>
+    <Open>6.57148</Open>
+    <High>6.6636</High>
+    <Low>6.32753</Low>
+    <Close>6.34037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-29</Date>
+    <Open>6.34107</Open>
+    <High>6.69704</High>
+    <Low>6.33066</Low>
+    <Close>6.61783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-30</Date>
+    <Open>6.62206</Open>
+    <High>6.6448</High>
+    <Low>6.0275</Low>
+    <Close>6.17003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-01-31</Date>
+    <Open>6.17003</Open>
+    <High>6.32128</High>
+    <Low>6.14447</Low>
+    <Close>6.29547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-01</Date>
+    <Open>6.29647</Open>
+    <High>6.48548</High>
+    <Low>6.03482</Low>
+    <Close>6.45269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-02</Date>
+    <Open>6.44782</Open>
+    <High>6.88905</High>
+    <Low>6.44782</Low>
+    <Close>6.58422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-03</Date>
+    <Open>6.58752</Open>
+    <High>7.11903</High>
+    <Low>6.50838</Low>
+    <Close>6.98846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-04</Date>
+    <Open>6.98846</Open>
+    <High>7.07069</High>
+    <Low>6.82075</Low>
+    <Close>6.96773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-05</Date>
+    <Open>6.96726</Open>
+    <High>6.97873</High>
+    <Low>6.51642</Low>
+    <Close>6.64306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-06</Date>
+    <Open>6.64616</Open>
+    <High>6.79143</High>
+    <Low>6.56953</Low>
+    <Close>6.58466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-07</Date>
+    <Open>6.58456</Open>
+    <High>6.92041</High>
+    <Low>6.43591</Low>
+    <Close>6.91308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-08</Date>
+    <Open>6.91371</Open>
+    <High>7.01235</High>
+    <Low>6.62063</Low>
+    <Close>6.74984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-09</Date>
+    <Open>6.74777</Open>
+    <High>6.97256</High>
+    <Low>6.09262</Low>
+    <Close>6.17082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-10</Date>
+    <Open>6.16922</Open>
+    <High>6.30781</High>
+    <Low>6.14386</Low>
+    <Close>6.15622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-11</Date>
+    <Open>6.15692</Open>
+    <High>6.29147</High>
+    <Low>6.11812</Low>
+    <Close>6.26986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-12</Date>
+    <Open>6.27095</Open>
+    <High>6.38117</High>
+    <Low>6.08255</Low>
+    <Close>6.17622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-13</Date>
+    <Open>6.17722</Open>
+    <High>6.24365</High>
+    <Low>5.88795</Low>
+    <Close>6.04046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-14</Date>
+    <Open>6.03872</Open>
+    <High>6.2648</High>
+    <Low>6.01693</Low>
+    <Close>6.21258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-15</Date>
+    <Open>6.21575</Open>
+    <High>6.60026</High>
+    <Low>6.16329</Low>
+    <Close>6.57325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-16</Date>
+    <Open>6.57118</Open>
+    <High>6.73357</High>
+    <Low>6.39057</Low>
+    <Close>6.40288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-17</Date>
+    <Open>6.40388</Open>
+    <High>7.40294</High>
+    <Low>6.29269</Low>
+    <Close>7.33523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-18</Date>
+    <Open>7.33753</Open>
+    <High>7.37293</High>
+    <Low>7.11325</Low>
+    <Close>7.26253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-19</Date>
+    <Open>7.26246</Open>
+    <High>7.87584</High>
+    <Low>7.18708</Low>
+    <Close>7.47802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-20</Date>
+    <Open>7.48025</Open>
+    <High>7.56628</High>
+    <Low>7.2542</Low>
+    <Close>7.5297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-21</Date>
+    <Open>7.5297</Open>
+    <High>7.57211</High>
+    <Low>7.12325</Low>
+    <Close>7.1987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-22</Date>
+    <Open>7.20622</Open>
+    <High>7.27137</High>
+    <Low>6.88524</Low>
+    <Close>7.1494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-23</Date>
+    <Open>7.1475</Open>
+    <High>7.38436</High>
+    <Low>7.01693</Low>
+    <Close>7.05899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-24</Date>
+    <Open>7.05929</Open>
+    <High>7.1464</High>
+    <Low>6.47302</Low>
+    <Close>6.54863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-25</Date>
+    <Open>6.55193</Open>
+    <High>6.6514</High>
+    <Low>6.35505</Low>
+    <Close>6.50556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-26</Date>
+    <Open>6.50585</Open>
+    <High>6.72794</High>
+    <Low>6.49239</Low>
+    <Close>6.6261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-27</Date>
+    <Open>6.62723</Open>
+    <High>6.78374</High>
+    <Low>6.49288</Low>
+    <Close>6.57943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-02-28</Date>
+    <Open>6.58113</Open>
+    <High>6.61053</High>
+    <Low>6.27444</Low>
+    <Close>6.3369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-01</Date>
+    <Open>6.3343</Open>
+    <High>6.59563</High>
+    <Low>6.31602</Low>
+    <Close>6.49324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-02</Date>
+    <Open>6.49064</Open>
+    <High>6.55119</High>
+    <Low>6.2233</Low>
+    <Close>6.32027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-03</Date>
+    <Open>6.31871</Open>
+    <High>6.33877</High>
+    <Low>5.78686</Low>
+    <Close>6.01756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-04</Date>
+    <Open>6.01686</Open>
+    <High>6.05721</High>
+    <Low>5.73469</Low>
+    <Close>5.86481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-05</Date>
+    <Open>5.86597</Open>
+    <High>6.06145</High>
+    <Low>5.85371</Low>
+    <Close>5.99296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-06</Date>
+    <Open>5.99346</Open>
+    <High>6.0407</High>
+    <Low>5.8594</Low>
+    <Close>5.92524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-07</Date>
+    <Open>5.92274</Open>
+    <High>6.01608</High>
+    <Low>5.74054</Low>
+    <Close>5.78601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-08</Date>
+    <Open>5.78731</Open>
+    <High>5.94013</High>
+    <Low>5.50238</Low>
+    <Close>5.56717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-09</Date>
+    <Open>5.56544</Open>
+    <High>5.79839</High>
+    <Low>5.25064</Low>
+    <Close>5.32028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-10</Date>
+    <Open>5.32093</Open>
+    <High>5.58206</High>
+    <Low>5.14479</Low>
+    <Close>5.57673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-11</Date>
+    <Open>5.57206</Open>
+    <High>5.75857</High>
+    <Low>5.26701</Low>
+    <Close>5.446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-12</Date>
+    <Open>5.4464</Open>
+    <High>5.89401</High>
+    <Low>5.41708</Low>
+    <Close>5.83751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-13</Date>
+    <Open>5.8367</Open>
+    <High>6.16982</High>
+    <Low>5.71808</Low>
+    <Close>6.14442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-14</Date>
+    <Open>6.14603</Open>
+    <High>6.56153</High>
+    <Low>6.02458</Low>
+    <Close>6.24928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-15</Date>
+    <Open>6.25055</Open>
+    <High>6.39669</High>
+    <Low>5.7921</Low>
+    <Close>5.86664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-16</Date>
+    <Open>5.86634</Open>
+    <High>6.15389</High>
+    <Low>5.79165</Low>
+    <Close>6.08523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-17</Date>
+    <Open>6.08144</Open>
+    <High>6.64453</High>
+    <Low>6.04044</Low>
+    <Close>6.54371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-18</Date>
+    <Open>6.54638</Open>
+    <High>6.71581</High>
+    <Low>6.33496</Low>
+    <Close>6.3727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-19</Date>
+    <Open>6.37206</Open>
+    <High>6.6189</High>
+    <Low>6.30214</Low>
+    <Close>6.5225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-20</Date>
+    <Open>6.5204</Open>
+    <High>6.55798</High>
+    <Low>6.1137</Low>
+    <Close>6.15408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-21</Date>
+    <Open>6.14876</Open>
+    <High>6.47401</High>
+    <Low>6.02802</Low>
+    <Close>6.36494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-22</Date>
+    <Open>6.36631</Open>
+    <High>6.40197</High>
+    <Low>5.93084</Low>
+    <Close>6.03469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-23</Date>
+    <Open>6.06465</Open>
+    <High>6.42073</High>
+    <Low>6.0085</Low>
+    <Close>6.30188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-24</Date>
+    <Open>6.30188</Open>
+    <High>6.35226</High>
+    <Low>5.95872</Low>
+    <Close>6.01355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-25</Date>
+    <Open>6.01749</Open>
+    <High>6.0864</High>
+    <Low>5.83689</Low>
+    <Close>5.89315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-26</Date>
+    <Open>5.89161</Open>
+    <High>6.11244</High>
+    <Low>5.87351</Low>
+    <Close>6.00988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-27</Date>
+    <Open>6.00988</Open>
+    <High>6.11677</High>
+    <Low>5.79079</Low>
+    <Close>5.85075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-28</Date>
+    <Open>5.85075</Open>
+    <High>6.10951</High>
+    <Low>5.78984</Low>
+    <Close>6.03265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-29</Date>
+    <Open>6.03295</Open>
+    <High>6.28291</High>
+    <Low>6.02559</Low>
+    <Close>6.18171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-30</Date>
+    <Open>6.18407</Open>
+    <High>6.29168</High>
+    <Low>6.0289</Low>
+    <Close>6.09291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-03-31</Date>
+    <Open>6.09351</Open>
+    <High>6.38639</High>
+    <Low>6.06616</Low>
+    <Close>6.32216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-01</Date>
+    <Open>6.32406</Open>
+    <High>6.39303</High>
+    <Low>6.20326</Low>
+    <Close>6.30717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-02</Date>
+    <Open>6.30893</Open>
+    <High>6.44843</High>
+    <Low>6.20858</Low>
+    <Close>6.25508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-03</Date>
+    <Open>6.25508</Open>
+    <High>6.50191</High>
+    <Low>6.09894</Low>
+    <Close>6.25184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-04</Date>
+    <Open>6.25104</Open>
+    <High>6.53587</High>
+    <Low>6.24113</Low>
+    <Close>6.47454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-05</Date>
+    <Open>6.46733</Open>
+    <High>6.58844</High>
+    <Low>6.32624</Low>
+    <Close>6.3813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-06</Date>
+    <Open>6.37786</Open>
+    <High>6.41693</High>
+    <Low>6.26015</Low>
+    <Close>6.31521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-07</Date>
+    <Open>6.31181</Open>
+    <High>6.32082</High>
+    <Low>6.13721</Low>
+    <Close>6.16026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-08</Date>
+    <Open>6.15641</Open>
+    <High>6.23687</High>
+    <Low>6.11235</Low>
+    <Close>6.12949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-09</Date>
+    <Open>6.12979</Open>
+    <High>6.24534</High>
+    <Low>6.0998</Low>
+    <Close>6.22447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-10</Date>
+    <Open>6.22657</Open>
+    <High>6.26354</High>
+    <Low>6.12047</Low>
+    <Close>6.24876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-11</Date>
+    <Open>6.24882</Open>
+    <High>6.49626</High>
+    <Low>6.24405</Low>
+    <Close>6.42559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-12</Date>
+    <Open>6.42175</Open>
+    <High>6.47374</High>
+    <Low>6.22318</Low>
+    <Close>6.40439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-13</Date>
+    <Open>6.40039</Open>
+    <High>6.62375</High>
+    <Low>6.35303</Low>
+    <Close>6.58572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-14</Date>
+    <Open>6.58452</Open>
+    <High>6.84829</High>
+    <Low>6.54459</Low>
+    <Close>6.71887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-15</Date>
+    <Open>6.71777</Open>
+    <High>6.87629</High>
+    <Low>6.63924</Low>
+    <Close>6.76228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-16</Date>
+    <Open>6.76482</Open>
+    <High>6.88135</High>
+    <Low>6.68184</Low>
+    <Close>6.8651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-17</Date>
+    <Open>6.86366</Open>
+    <High>6.87594</High>
+    <Low>6.62963</Low>
+    <Close>6.68164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-18</Date>
+    <Open>6.68164</Open>
+    <High>6.98382</High>
+    <Low>6.59317</Low>
+    <Close>6.88657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-19</Date>
+    <Open>6.88413</Open>
+    <High>6.93561</High>
+    <Low>6.28106</Low>
+    <Close>6.3694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-20</Date>
+    <Open>6.3729</Open>
+    <High>6.43949</High>
+    <Low>6.06452</Low>
+    <Close>6.09689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-21</Date>
+    <Open>6.09553</Open>
+    <High>6.17109</High>
+    <Low>5.78176</Low>
+    <Close>5.80726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-22</Date>
+    <Open>5.80756</Open>
+    <High>5.97916</High>
+    <Low>5.79087</Low>
+    <Close>5.93889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-23</Date>
+    <Open>5.94133</Open>
+    <High>5.97342</High>
+    <Low>5.77057</Low>
+    <Close>5.85419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-24</Date>
+    <Open>5.85419</Open>
+    <High>6.01168</High>
+    <Low>5.8018</Low>
+    <Close>5.88822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-25</Date>
+    <Open>5.89098</Open>
+    <High>5.99526</High>
+    <Low>5.77974</Low>
+    <Close>5.99388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-26</Date>
+    <Open>5.99368</Open>
+    <High>6.21909</High>
+    <Low>5.59916</Low>
+    <Close>5.86388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-27</Date>
+    <Open>5.86388</Open>
+    <High>6.05037</High>
+    <Low>5.80595</Low>
+    <Close>5.98287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-28</Date>
+    <Open>5.98417</Open>
+    <High>6.00114</High>
+    <Low>5.78524</Low>
+    <Close>5.93006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-29</Date>
+    <Open>5.92716</Open>
+    <High>6.0583</High>
+    <Low>5.92274</Low>
+    <Close>6.03666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-04-30</Date>
+    <Open>6.01989</Open>
+    <High>6.08786</High>
+    <Low>5.85101</Low>
+    <Close>5.90346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-01</Date>
+    <Open>5.90601</Open>
+    <High>5.93377</High>
+    <Low>5.59755</Low>
+    <Close>5.64432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-02</Date>
+    <Open>5.64307</Open>
+    <High>5.76024</High>
+    <Low>5.6241</Low>
+    <Close>5.71168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-03</Date>
+    <Open>5.71168</Open>
+    <High>5.76896</High>
+    <Low>5.57143</Low>
+    <Close>5.7566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-04</Date>
+    <Open>5.75665</Open>
+    <High>5.81115</High>
+    <Low>5.62272</Low>
+    <Close>5.62943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-05</Date>
+    <Open>5.63113</Open>
+    <High>5.90347</High>
+    <Low>5.62843</Low>
+    <Close>5.87274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-06</Date>
+    <Open>5.86173</Open>
+    <High>5.89813</High>
+    <Low>5.59605</Low>
+    <Close>5.67185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-07</Date>
+    <Open>5.64288</Open>
+    <High>5.70422</High>
+    <Low>5.61376</Low>
+    <Close>5.67683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-08</Date>
+    <Open>5.67927</Open>
+    <High>5.69397</High>
+    <Low>5.17357</Low>
+    <Close>5.33305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-09</Date>
+    <Open>5.32949</Open>
+    <High>5.41365</High>
+    <Low>5.29679</Low>
+    <Close>5.31921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-10</Date>
+    <Open>5.31901</Open>
+    <High>5.52416</High>
+    <Low>5.21753</Low>
+    <Close>5.45635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-11</Date>
+    <Open>5.45635</Open>
+    <High>5.49384</High>
+    <Low>5.18808</Low>
+    <Close>5.28818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-12</Date>
+    <Open>5.28818</Open>
+    <High>5.3319</High>
+    <Low>5.13036</Low>
+    <Close>5.31605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-13</Date>
+    <Open>5.31605</Open>
+    <High>5.39764</High>
+    <Low>5.31605</Low>
+    <Close>5.35468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-14</Date>
+    <Open>5.35468</Open>
+    <High>5.44827</High>
+    <Low>5.31626</Low>
+    <Close>5.34631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-15</Date>
+    <Open>5.34631</Open>
+    <High>5.43374</High>
+    <Low>5.26953</Low>
+    <Close>5.35024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-16</Date>
+    <Open>5.35024</Open>
+    <High>5.35495</High>
+    <Low>5.23734</Low>
+    <Close>5.30115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-17</Date>
+    <Open>5.30062</Open>
+    <High>5.44042</High>
+    <Low>5.22591</Low>
+    <Close>5.41621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-18</Date>
+    <Open>5.41567</Open>
+    <High>5.46779</High>
+    <Low>5.2496</Low>
+    <Close>5.36104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-19</Date>
+    <Open>5.36104</Open>
+    <High>5.39165</High>
+    <Low>5.31638</Low>
+    <Close>5.37281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-20</Date>
+    <Open>5.37156</Open>
+    <High>5.4496</High>
+    <Low>5.33367</Low>
+    <Close>5.41567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-21</Date>
+    <Open>5.41567</Open>
+    <High>5.43619</High>
+    <Low>5.25543</Low>
+    <Close>5.28607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-22</Date>
+    <Open>5.28554</Open>
+    <High>5.3393</High>
+    <Low>5.23171</Low>
+    <Close>5.32286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-23</Date>
+    <Open>5.32286</Open>
+    <High>5.4491</High>
+    <Low>5.29432</Low>
+    <Close>5.38592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-24</Date>
+    <Open>5.38402</Open>
+    <High>5.4128</High>
+    <Low>5.19664</Low>
+    <Close>5.25888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-25</Date>
+    <Open>5.25894</Open>
+    <High>5.29441</High>
+    <Low>5.14906</Low>
+    <Close>5.24896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-26</Date>
+    <Open>5.2476</Open>
+    <High>5.27238</High>
+    <Low>5.19067</Low>
+    <Close>5.26075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-27</Date>
+    <Open>5.26075</Open>
+    <High>5.37407</High>
+    <Low>5.23462</Low>
+    <Close>5.32057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DOT">
+    <Date>2023-05-28</Date>
+    <Open>5.32193</Open>
+    <High>5.50367</High>
+    <Low>5.31883</Low>
+    <Close>5.49036</Close>
+  </Cryptocurrency>
+</Root>

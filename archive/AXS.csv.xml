@@ -1,0 +1,6562 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-04</Date>
+    <Open>0.2703</Open>
+    <High>0.2903</High>
+    <Low>0.1421</Low>
+    <Close>0.1459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-05</Date>
+    <Open>0.1459</Open>
+    <High>0.1508</High>
+    <Low>0.1262</Low>
+    <Close>0.1345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-06</Date>
+    <Open>0.1345</Open>
+    <High>0.1503</High>
+    <Low>0.121</Low>
+    <Close>0.144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-07</Date>
+    <Open>0.144</Open>
+    <High>0.1702</High>
+    <Low>0.1345</Low>
+    <Close>0.1411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-08</Date>
+    <Open>0.1411</Open>
+    <High>0.2422</High>
+    <Low>0.1385</Low>
+    <Close>0.1987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-09</Date>
+    <Open>0.1987</Open>
+    <High>0.325</High>
+    <Low>0.1972</Low>
+    <Close>0.2798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-10</Date>
+    <Open>0.2798</Open>
+    <High>0.3696</High>
+    <Low>0.2452</Low>
+    <Close>0.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-11</Date>
+    <Open>0.27</Open>
+    <High>0.4374</High>
+    <Low>0.2627</Low>
+    <Close>0.3544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-12</Date>
+    <Open>0.3544</Open>
+    <High>0.3889</High>
+    <Low>0.3028</Low>
+    <Close>0.3133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-13</Date>
+    <Open>0.3133</Open>
+    <High>0.43</High>
+    <Low>0.3133</Low>
+    <Close>0.394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-14</Date>
+    <Open>0.394</Open>
+    <High>0.6079</High>
+    <Low>0.3714</Low>
+    <Close>0.5656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-15</Date>
+    <Open>0.5656</Open>
+    <High>0.6867</High>
+    <Low>0.5042</Low>
+    <Close>0.5913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-16</Date>
+    <Open>0.5913</Open>
+    <High>0.675</High>
+    <Low>0.5365</Low>
+    <Close>0.5592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-17</Date>
+    <Open>0.5592</Open>
+    <High>0.6036</High>
+    <Low>0.4525</Low>
+    <Close>0.503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-18</Date>
+    <Open>0.503</Open>
+    <High>0.5768</High>
+    <Low>0.4323</Low>
+    <Close>0.5161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-19</Date>
+    <Open>0.5161</Open>
+    <High>0.5606</High>
+    <Low>0.4337</Low>
+    <Close>0.4386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-20</Date>
+    <Open>0.4386</Open>
+    <High>0.5462</High>
+    <Low>0.43</Low>
+    <Close>0.4989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-21</Date>
+    <Open>0.4989</Open>
+    <High>0.5358</High>
+    <Low>0.4553</Low>
+    <Close>0.4673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-22</Date>
+    <Open>0.4673</Open>
+    <High>0.4729</High>
+    <Low>0.3996</Low>
+    <Close>0.4268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-23</Date>
+    <Open>0.4268</Open>
+    <High>0.5469</High>
+    <Low>0.412</Low>
+    <Close>0.5107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-24</Date>
+    <Open>0.5107</Open>
+    <High>0.5218</High>
+    <Low>0.4348</Low>
+    <Close>0.4775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-25</Date>
+    <Open>0.4775</Open>
+    <High>0.4873</High>
+    <Low>0.3912</Low>
+    <Close>0.416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-26</Date>
+    <Open>0.416</Open>
+    <High>0.4207</High>
+    <Low>0.3162</Low>
+    <Close>0.3708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-27</Date>
+    <Open>0.3708</Open>
+    <High>0.3847</High>
+    <Low>0.3353</Low>
+    <Close>0.3777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-28</Date>
+    <Open>0.3777</Open>
+    <High>0.4454</High>
+    <Low>0.3704</Low>
+    <Close>0.4286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-29</Date>
+    <Open>0.4286</Open>
+    <High>0.4965</High>
+    <Low>0.4095</Low>
+    <Close>0.4775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-11-30</Date>
+    <Open>0.4775</Open>
+    <High>0.49</High>
+    <Low>0.4322</Low>
+    <Close>0.4567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-01</Date>
+    <Open>0.4567</Open>
+    <High>0.4655</High>
+    <Low>0.4004</Low>
+    <Close>0.4123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-02</Date>
+    <Open>0.4123</Open>
+    <High>0.5177</High>
+    <Low>0.4004</Low>
+    <Close>0.4987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-03</Date>
+    <Open>0.4987</Open>
+    <High>0.537</High>
+    <Low>0.4822</Low>
+    <Close>0.5126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-04</Date>
+    <Open>0.5126</Open>
+    <High>0.5146</High>
+    <Low>0.419</Low>
+    <Close>0.4312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-05</Date>
+    <Open>0.4312</Open>
+    <High>0.4851</High>
+    <Low>0.4213</Low>
+    <Close>0.4765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-06</Date>
+    <Open>0.4765</Open>
+    <High>0.4865</High>
+    <Low>0.4424</Low>
+    <Close>0.4799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-07</Date>
+    <Open>0.4799</Open>
+    <High>0.5803</High>
+    <Low>0.4682</Low>
+    <Close>0.5612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-08</Date>
+    <Open>0.5612</Open>
+    <High>0.6708</High>
+    <Low>0.5218</Low>
+    <Close>0.5709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-09</Date>
+    <Open>0.5709</Open>
+    <High>0.683</High>
+    <Low>0.5563</Low>
+    <Close>0.6275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-10</Date>
+    <Open>0.6275</Open>
+    <High>0.639</High>
+    <Low>0.5509</Low>
+    <Close>0.5638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-11</Date>
+    <Open>0.5638</Open>
+    <High>0.578</High>
+    <Low>0.497</Low>
+    <Close>0.5506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-12</Date>
+    <Open>0.5506</Open>
+    <High>0.6306</High>
+    <Low>0.5506</Low>
+    <Close>0.5788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-13</Date>
+    <Open>0.5788</Open>
+    <High>0.6194</High>
+    <Low>0.5637</Low>
+    <Close>0.6139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-14</Date>
+    <Open>0.6139</Open>
+    <High>0.6689</High>
+    <Low>0.5785</Low>
+    <Close>0.638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-15</Date>
+    <Open>0.638</Open>
+    <High>0.7502</High>
+    <Low>0.6086</Low>
+    <Close>0.7304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-16</Date>
+    <Open>0.7304</Open>
+    <High>0.7999</High>
+    <Low>0.6904</Low>
+    <Close>0.7423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-17</Date>
+    <Open>0.7423</Open>
+    <High>0.7695</High>
+    <Low>0.6849</Low>
+    <Close>0.7119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-18</Date>
+    <Open>0.7119</Open>
+    <High>0.8474</High>
+    <Low>0.6807</Low>
+    <Close>0.8252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-19</Date>
+    <Open>0.8252</Open>
+    <High>0.8564</High>
+    <Low>0.7463</Low>
+    <Close>0.7577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-20</Date>
+    <Open>0.7577</Open>
+    <High>0.7886</High>
+    <Low>0.6613</Low>
+    <Close>0.6892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-21</Date>
+    <Open>0.6892</Open>
+    <High>0.7168</High>
+    <Low>0.5961</Low>
+    <Close>0.6397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-22</Date>
+    <Open>0.6397</Open>
+    <High>0.661</High>
+    <Low>0.5866</Low>
+    <Close>0.6545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-23</Date>
+    <Open>0.6545</Open>
+    <High>0.6595</High>
+    <Low>0.4585</Low>
+    <Close>0.541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-24</Date>
+    <Open>0.541</Open>
+    <High>0.6485</High>
+    <Low>0.463</Low>
+    <Close>0.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-25</Date>
+    <Open>0.64</Open>
+    <High>0.6675</High>
+    <Low>0.5768</Low>
+    <Close>0.5989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-26</Date>
+    <Open>0.5989</Open>
+    <High>0.6172</High>
+    <Low>0.536</Low>
+    <Close>0.5784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-27</Date>
+    <Open>0.5784</Open>
+    <High>0.627</High>
+    <Low>0.5181</Low>
+    <Close>0.5989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-28</Date>
+    <Open>0.5989</Open>
+    <High>0.6641</High>
+    <Low>0.581</Low>
+    <Close>0.5984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-29</Date>
+    <Open>0.5984</Open>
+    <High>0.61</High>
+    <Low>0.5278</Low>
+    <Close>0.5597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-30</Date>
+    <Open>0.5597</Open>
+    <High>0.5865</High>
+    <Low>0.5309</Low>
+    <Close>0.536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2020-12-31</Date>
+    <Open>0.536</Open>
+    <High>0.5402</High>
+    <Low>0.5005</Low>
+    <Close>0.5384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-01</Date>
+    <Open>0.5384</Open>
+    <High>0.6248</High>
+    <Low>0.5127</Low>
+    <Close>0.5943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-02</Date>
+    <Open>0.5943</Open>
+    <High>0.6281</High>
+    <Low>0.5287</Low>
+    <Close>0.5427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-03</Date>
+    <Open>0.5427</Open>
+    <High>0.5835</High>
+    <Low>0.5217</Low>
+    <Close>0.5652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-04</Date>
+    <Open>0.5652</Open>
+    <High>0.6162</High>
+    <Low>0.5101</Low>
+    <Close>0.5608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-05</Date>
+    <Open>0.5608</Open>
+    <High>0.588</High>
+    <Low>0.5204</Low>
+    <Close>0.5572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-06</Date>
+    <Open>0.5572</Open>
+    <High>0.6306</High>
+    <Low>0.5347</Low>
+    <Close>0.6015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-07</Date>
+    <Open>0.6015</Open>
+    <High>0.74</High>
+    <Low>0.5907</Low>
+    <Close>0.604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-08</Date>
+    <Open>0.604</Open>
+    <High>0.6439</High>
+    <Low>0.5342</Low>
+    <Close>0.5936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-09</Date>
+    <Open>0.5936</Open>
+    <High>0.6401</High>
+    <Low>0.5591</Low>
+    <Close>0.6032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-10</Date>
+    <Open>0.6032</Open>
+    <High>0.6612</High>
+    <Low>0.526</Low>
+    <Close>0.5729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-11</Date>
+    <Open>0.5729</Open>
+    <High>0.5735</High>
+    <Low>0.4103</Low>
+    <Close>0.4995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-12</Date>
+    <Open>0.4995</Open>
+    <High>0.5154</High>
+    <Low>0.4393</Low>
+    <Close>0.4492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-13</Date>
+    <Open>0.4492</Open>
+    <High>0.51</High>
+    <Low>0.4366</Low>
+    <Close>0.5022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-14</Date>
+    <Open>0.5022</Open>
+    <High>0.5493</High>
+    <Low>0.4805</Low>
+    <Close>0.5338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-15</Date>
+    <Open>0.5338</Open>
+    <High>0.5739</High>
+    <Low>0.4952</Low>
+    <Close>0.5417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-16</Date>
+    <Open>0.5417</Open>
+    <High>0.63</High>
+    <Low>0.5417</Low>
+    <Close>0.5835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-17</Date>
+    <Open>0.5835</Open>
+    <High>0.647</High>
+    <Low>0.5617</Low>
+    <Close>0.6111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-18</Date>
+    <Open>0.6111</Open>
+    <High>0.6839</High>
+    <Low>0.5786</Low>
+    <Close>0.6836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-19</Date>
+    <Open>0.6836</Open>
+    <High>0.7099</High>
+    <Low>0.6203</Low>
+    <Close>0.6315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-20</Date>
+    <Open>0.6315</Open>
+    <High>0.6657</High>
+    <Low>0.576</Low>
+    <Close>0.6344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-21</Date>
+    <Open>0.6344</Open>
+    <High>0.7296</High>
+    <Low>0.598</Low>
+    <Close>0.6443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-22</Date>
+    <Open>0.6443</Open>
+    <High>0.6787</High>
+    <Low>0.5356</Low>
+    <Close>0.6374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-23</Date>
+    <Open>0.6374</Open>
+    <High>0.7487</High>
+    <Low>0.6017</Low>
+    <Close>0.6946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-24</Date>
+    <Open>0.6946</Open>
+    <High>0.8226</High>
+    <Low>0.6848</Low>
+    <Close>0.7377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-25</Date>
+    <Open>0.7377</Open>
+    <High>0.8777</High>
+    <Low>0.7199</Low>
+    <Close>0.8353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-26</Date>
+    <Open>0.8353</Open>
+    <High>0.9967</High>
+    <Low>0.8159</Low>
+    <Close>0.9487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-27</Date>
+    <Open>0.9487</Open>
+    <High>1.19</High>
+    <Low>0.8619</Low>
+    <Close>0.875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-28</Date>
+    <Open>0.875</Open>
+    <High>0.9459</High>
+    <Low>0.8092</Low>
+    <Close>0.8172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-29</Date>
+    <Open>0.8172</Open>
+    <High>0.838</High>
+    <Low>0.7384</Low>
+    <Close>0.8147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-30</Date>
+    <Open>0.8147</Open>
+    <High>0.8809</High>
+    <Low>0.7636</Low>
+    <Close>0.8415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-01-31</Date>
+    <Open>0.8415</Open>
+    <High>0.8751</High>
+    <Low>0.7608</Low>
+    <Close>0.8039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-01</Date>
+    <Open>0.8039</Open>
+    <High>1.051</High>
+    <Low>0.7708</Low>
+    <Close>1.008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-02</Date>
+    <Open>1.008</Open>
+    <High>1.028</High>
+    <Low>0.9123</Low>
+    <Close>0.957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-03</Date>
+    <Open>0.957</Open>
+    <High>1.06</High>
+    <Low>0.9491</Low>
+    <Close>1.016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-04</Date>
+    <Open>1.016</Open>
+    <High>1.02</High>
+    <Low>0.887</Low>
+    <Close>0.9552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-05</Date>
+    <Open>0.9552</Open>
+    <High>1.159</High>
+    <Low>0.9542</Low>
+    <Close>1.078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-06</Date>
+    <Open>1.078</Open>
+    <High>1.088</High>
+    <Low>0.9109</Low>
+    <Close>0.9593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-07</Date>
+    <Open>0.9593</Open>
+    <High>1.053</High>
+    <Low>0.9021</Low>
+    <Close>1.005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-08</Date>
+    <Open>1.005</Open>
+    <High>1.461</High>
+    <Low>0.9691</Low>
+    <Close>1.368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-09</Date>
+    <Open>1.368</Open>
+    <High>1.377</High>
+    <Low>1.202</Low>
+    <Close>1.286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-10</Date>
+    <Open>1.286</Open>
+    <High>1.497</High>
+    <Low>1.201</Low>
+    <Close>1.372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-11</Date>
+    <Open>1.372</Open>
+    <High>1.599</High>
+    <Low>1.332</Low>
+    <Close>1.489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-12</Date>
+    <Open>1.489</Open>
+    <High>1.853</High>
+    <Low>1.391</Low>
+    <Close>1.813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-13</Date>
+    <Open>1.813</Open>
+    <High>2.102</High>
+    <Low>1.573</Low>
+    <Close>1.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-14</Date>
+    <Open>1.97</Open>
+    <High>2.339</High>
+    <Low>1.742</Low>
+    <Close>2.175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-15</Date>
+    <Open>2.175</Open>
+    <High>2.37</High>
+    <Low>1.693</Low>
+    <Close>2.056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-16</Date>
+    <Open>2.056</Open>
+    <High>2.26</High>
+    <Low>1.884</Low>
+    <Close>1.964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-17</Date>
+    <Open>1.964</Open>
+    <High>2.008</High>
+    <Low>1.78</Low>
+    <Close>1.889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-18</Date>
+    <Open>1.889</Open>
+    <High>2.21</High>
+    <Low>1.889</Low>
+    <Close>2.129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-19</Date>
+    <Open>2.129</Open>
+    <High>2.19</High>
+    <Low>1.932</Low>
+    <Close>1.977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-20</Date>
+    <Open>1.977</Open>
+    <High>2.15</High>
+    <Low>1.646</Low>
+    <Close>1.783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-21</Date>
+    <Open>1.783</Open>
+    <High>1.99</High>
+    <Low>1.702</Low>
+    <Close>1.835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-22</Date>
+    <Open>1.835</Open>
+    <High>1.893</High>
+    <Low>1.281</Low>
+    <Close>1.658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-23</Date>
+    <Open>1.658</Open>
+    <High>1.669</High>
+    <Low>1.083</Low>
+    <Close>1.343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-24</Date>
+    <Open>1.343</Open>
+    <High>1.558</High>
+    <Low>1.281</Low>
+    <Close>1.361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-25</Date>
+    <Open>1.361</Open>
+    <High>1.652</High>
+    <Low>1.327</Low>
+    <Close>1.415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-26</Date>
+    <Open>1.415</Open>
+    <High>1.6</High>
+    <Low>1.276</Low>
+    <Close>1.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-27</Date>
+    <Open>1.5</Open>
+    <High>1.746</High>
+    <Low>1.489</Low>
+    <Close>1.589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-02-28</Date>
+    <Open>1.589</Open>
+    <High>1.59</High>
+    <Low>1.307</Low>
+    <Close>1.395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-01</Date>
+    <Open>1.395</Open>
+    <High>1.65</High>
+    <Low>1.39</Low>
+    <Close>1.646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-02</Date>
+    <Open>1.646</Open>
+    <High>1.852</High>
+    <Low>1.564</Low>
+    <Close>1.683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-03</Date>
+    <Open>1.683</Open>
+    <High>2.232</High>
+    <Low>1.657</Low>
+    <Close>2.203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-04</Date>
+    <Open>2.203</Open>
+    <High>3.1</High>
+    <Low>2.14</Low>
+    <Close>2.827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-05</Date>
+    <Open>2.827</Open>
+    <High>2.83</High>
+    <Low>2.352</Low>
+    <Close>2.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-06</Date>
+    <Open>2.42</Open>
+    <High>2.63</High>
+    <Low>2.351</Low>
+    <Close>2.545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-07</Date>
+    <Open>2.545</Open>
+    <High>2.8</High>
+    <Low>2.53</Low>
+    <Close>2.687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-08</Date>
+    <Open>2.687</Open>
+    <High>3.71</High>
+    <Low>2.685</Low>
+    <Close>3.662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-09</Date>
+    <Open>3.662</Open>
+    <High>4.037</High>
+    <Low>3.314</Low>
+    <Close>3.423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-10</Date>
+    <Open>3.423</Open>
+    <High>4.384</High>
+    <Low>3.171</Low>
+    <Close>3.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-11</Date>
+    <Open>3.87</Open>
+    <High>4.837</High>
+    <Low>3.615</Low>
+    <Close>4.657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-12</Date>
+    <Open>4.657</Open>
+    <High>5.689</High>
+    <Low>4.512</Low>
+    <Close>5.002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-13</Date>
+    <Open>5.002</Open>
+    <High>5.399</High>
+    <Low>4.679</Low>
+    <Close>5.184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-14</Date>
+    <Open>5.184</Open>
+    <High>6.359</High>
+    <Low>4.759</Low>
+    <Close>5.827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-15</Date>
+    <Open>5.827</Open>
+    <High>6.5</High>
+    <Low>5.348</Low>
+    <Close>5.596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-16</Date>
+    <Open>5.596</Open>
+    <High>6.0</High>
+    <Low>5.18</Low>
+    <Close>5.493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-17</Date>
+    <Open>5.493</Open>
+    <High>5.517</High>
+    <Low>4.798</Low>
+    <Close>4.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-18</Date>
+    <Open>4.97</Open>
+    <High>5.412</High>
+    <Low>4.749</Low>
+    <Close>5.039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-19</Date>
+    <Open>5.039</Open>
+    <High>5.431</High>
+    <Low>4.803</Low>
+    <Close>5.023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-20</Date>
+    <Open>5.023</Open>
+    <High>5.1</High>
+    <Low>4.511</Low>
+    <Close>4.526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-21</Date>
+    <Open>4.526</Open>
+    <High>4.713</High>
+    <Low>4.336</Low>
+    <Close>4.607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-22</Date>
+    <Open>4.607</Open>
+    <High>4.692</High>
+    <Low>3.966</Low>
+    <Close>4.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-23</Date>
+    <Open>4.0</Open>
+    <High>4.269</High>
+    <Low>3.751</Low>
+    <Close>3.835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-24</Date>
+    <Open>3.835</Open>
+    <High>4.369</High>
+    <Low>3.615</Low>
+    <Close>3.766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-25</Date>
+    <Open>3.766</Open>
+    <High>3.808</High>
+    <Low>3.36</Low>
+    <Close>3.553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-26</Date>
+    <Open>3.553</Open>
+    <High>4.605</High>
+    <Low>3.55</Low>
+    <Close>4.537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-27</Date>
+    <Open>4.537</Open>
+    <High>4.948</High>
+    <Low>4.307</Low>
+    <Close>4.357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-28</Date>
+    <Open>4.357</Open>
+    <High>5.186</High>
+    <Low>4.303</Low>
+    <Close>4.897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-29</Date>
+    <Open>4.897</Open>
+    <High>5.733</High>
+    <Low>4.655</Low>
+    <Close>5.653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-30</Date>
+    <Open>5.653</Open>
+    <High>7.724</High>
+    <Low>5.553</Low>
+    <Close>6.344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-03-31</Date>
+    <Open>6.344</Open>
+    <High>6.428</High>
+    <Low>5.672</Low>
+    <Close>5.697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-01</Date>
+    <Open>5.697</Open>
+    <High>5.868</High>
+    <Low>5.302</Low>
+    <Close>5.551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-02</Date>
+    <Open>5.551</Open>
+    <High>5.975</High>
+    <Low>5.325</Low>
+    <Close>5.667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-03</Date>
+    <Open>5.667</Open>
+    <High>5.786</High>
+    <Low>5.025</Low>
+    <Close>5.075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-04</Date>
+    <Open>5.075</Open>
+    <High>6.446</High>
+    <Low>5.023</Low>
+    <Close>5.886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-05</Date>
+    <Open>5.886</Open>
+    <High>11.23</High>
+    <Low>5.634</Low>
+    <Close>9.361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-06</Date>
+    <Open>9.361</Open>
+    <High>9.361</High>
+    <Low>7.382</Low>
+    <Close>7.728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-07</Date>
+    <Open>7.728</Open>
+    <High>8.077</High>
+    <Low>6.558</Low>
+    <Close>7.359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-08</Date>
+    <Open>7.359</Open>
+    <High>7.952</High>
+    <Low>7.292</Low>
+    <Close>7.754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-09</Date>
+    <Open>7.754</Open>
+    <High>8.877</High>
+    <Low>7.653</Low>
+    <Close>7.954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-10</Date>
+    <Open>7.954</Open>
+    <High>8.039</High>
+    <Low>7.277</Low>
+    <Close>7.568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-11</Date>
+    <Open>7.568</Open>
+    <High>7.649</High>
+    <Low>7.028</Low>
+    <Close>7.229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-12</Date>
+    <Open>7.229</Open>
+    <High>8.841</High>
+    <Low>7.169</Low>
+    <Close>7.634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-13</Date>
+    <Open>7.634</Open>
+    <High>8.88</High>
+    <Low>7.616</Low>
+    <Close>8.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-14</Date>
+    <Open>8.02</Open>
+    <High>8.068</High>
+    <Low>7.142</Low>
+    <Close>7.719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-15</Date>
+    <Open>7.719</Open>
+    <High>8.107</High>
+    <Low>7.507</Low>
+    <Close>8.006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-16</Date>
+    <Open>8.006</Open>
+    <High>8.04</High>
+    <Low>7.104</Low>
+    <Close>7.429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-17</Date>
+    <Open>7.429</Open>
+    <High>8.06</High>
+    <Low>7.351</Low>
+    <Close>7.695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-18</Date>
+    <Open>7.695</Open>
+    <High>7.748</High>
+    <Low>5.695</Low>
+    <Close>6.677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-19</Date>
+    <Open>6.677</Open>
+    <High>9.388</High>
+    <Low>6.454</Low>
+    <Close>8.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-20</Date>
+    <Open>8.04</Open>
+    <High>11.34</High>
+    <Low>7.941</Low>
+    <Close>8.597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-21</Date>
+    <Open>8.597</Open>
+    <High>9.308</High>
+    <Low>7.993</Low>
+    <Close>8.157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-22</Date>
+    <Open>8.157</Open>
+    <High>10.34</High>
+    <Low>8.07</Low>
+    <Close>8.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-23</Date>
+    <Open>8.11</Open>
+    <High>8.339</High>
+    <Low>6.067</Low>
+    <Close>7.483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-24</Date>
+    <Open>7.483</Open>
+    <High>7.483</High>
+    <Low>6.48</Low>
+    <Close>6.608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-25</Date>
+    <Open>6.608</Open>
+    <High>7.186</High>
+    <Low>6.073</Low>
+    <Close>6.581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-26</Date>
+    <Open>6.581</Open>
+    <High>7.649</High>
+    <Low>6.425</Low>
+    <Close>7.586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-27</Date>
+    <Open>7.586</Open>
+    <High>9.143</High>
+    <Low>7.456</Low>
+    <Close>8.601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-28</Date>
+    <Open>8.601</Open>
+    <High>10.87</High>
+    <Low>8.249</Low>
+    <Close>10.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-29</Date>
+    <Open>10.76</Open>
+    <High>10.97</High>
+    <Low>9.386</Low>
+    <Close>10.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-04-30</Date>
+    <Open>10.12</Open>
+    <High>10.29</High>
+    <Low>9.448</Low>
+    <Close>10.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-01</Date>
+    <Open>10.19</Open>
+    <High>10.3</High>
+    <Low>9.478</Low>
+    <Close>9.759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-02</Date>
+    <Open>9.759</Open>
+    <High>9.759</High>
+    <Low>8.91</Low>
+    <Close>9.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-03</Date>
+    <Open>9.33</Open>
+    <High>9.587</High>
+    <Low>9.06</Low>
+    <Close>9.232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-04</Date>
+    <Open>9.232</Open>
+    <High>9.701</High>
+    <Low>8.064</Low>
+    <Close>8.083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-05</Date>
+    <Open>8.083</Open>
+    <High>8.792</High>
+    <Low>7.98</Low>
+    <Close>8.671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-06</Date>
+    <Open>8.671</Open>
+    <High>8.675</High>
+    <Low>7.713</Low>
+    <Close>7.907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-07</Date>
+    <Open>7.907</Open>
+    <High>9.013</High>
+    <Low>7.436</Low>
+    <Close>8.393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-08</Date>
+    <Open>8.393</Open>
+    <High>8.989</High>
+    <Low>8.196</Low>
+    <Close>8.258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-09</Date>
+    <Open>8.258</Open>
+    <High>8.389</High>
+    <Low>7.708</Low>
+    <Close>8.082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-10</Date>
+    <Open>8.082</Open>
+    <High>8.292</High>
+    <Low>6.917</Low>
+    <Close>7.199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-11</Date>
+    <Open>7.199</Open>
+    <High>8.405</High>
+    <Low>7.005</Low>
+    <Close>8.098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-12</Date>
+    <Open>8.098</Open>
+    <High>9.19</High>
+    <Low>6.898</Low>
+    <Close>6.921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-13</Date>
+    <Open>6.921</Open>
+    <High>7.707</High>
+    <Low>6.314</Low>
+    <Close>6.969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-14</Date>
+    <Open>6.969</Open>
+    <High>7.495</High>
+    <Low>6.883</Low>
+    <Close>7.082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-15</Date>
+    <Open>7.082</Open>
+    <High>7.178</High>
+    <Low>6.441</Low>
+    <Close>6.552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-16</Date>
+    <Open>6.552</Open>
+    <High>7.188</High>
+    <Low>6.087</Low>
+    <Close>6.509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-17</Date>
+    <Open>6.509</Open>
+    <High>6.922</High>
+    <Low>5.905</Low>
+    <Close>6.536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-18</Date>
+    <Open>6.536</Open>
+    <High>7.093</High>
+    <Low>6.415</Low>
+    <Close>6.607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-19</Date>
+    <Open>6.607</Open>
+    <High>6.726</High>
+    <Low>2.458</Low>
+    <Close>3.984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-20</Date>
+    <Open>3.984</Open>
+    <High>4.942</High>
+    <Low>3.573</Low>
+    <Close>4.704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-21</Date>
+    <Open>4.704</Open>
+    <High>5.356</High>
+    <Low>3.682</Low>
+    <Close>4.349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-22</Date>
+    <Open>4.349</Open>
+    <High>4.374</High>
+    <Low>3.717</Low>
+    <Close>3.942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-23</Date>
+    <Open>3.942</Open>
+    <High>4.068</High>
+    <Low>2.747</Low>
+    <Close>3.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-24</Date>
+    <Open>3.37</Open>
+    <High>4.279</High>
+    <Low>3.348</Low>
+    <Close>4.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-25</Date>
+    <Open>4.18</Open>
+    <High>4.373</High>
+    <Low>3.717</Low>
+    <Close>4.146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-26</Date>
+    <Open>4.146</Open>
+    <High>4.9</High>
+    <Low>4.034</Low>
+    <Close>4.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-27</Date>
+    <Open>4.9</Open>
+    <High>4.923</High>
+    <Low>4.317</Low>
+    <Close>4.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-28</Date>
+    <Open>4.8</Open>
+    <High>5.023</High>
+    <Low>4.024</Low>
+    <Close>4.191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-29</Date>
+    <Open>4.191</Open>
+    <High>6.019</High>
+    <Low>4.188</Low>
+    <Close>4.753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-30</Date>
+    <Open>4.753</Open>
+    <High>4.862</High>
+    <Low>4.137</Low>
+    <Close>4.534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-05-31</Date>
+    <Open>4.534</Open>
+    <High>5.261</High>
+    <Low>4.494</Low>
+    <Close>4.941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-01</Date>
+    <Open>4.941</Open>
+    <High>4.956</High>
+    <Low>4.558</Low>
+    <Close>4.694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-02</Date>
+    <Open>4.694</Open>
+    <High>4.76</High>
+    <Low>4.486</Low>
+    <Close>4.708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-03</Date>
+    <Open>4.708</Open>
+    <High>4.823</High>
+    <Low>4.582</Low>
+    <Close>4.788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-04</Date>
+    <Open>4.788</Open>
+    <High>4.87</High>
+    <Low>4.148</Low>
+    <Close>4.355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-05</Date>
+    <Open>4.355</Open>
+    <High>4.498</High>
+    <Low>4.078</Low>
+    <Close>4.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-06</Date>
+    <Open>4.2</Open>
+    <High>4.407</High>
+    <Low>4.161</Low>
+    <Close>4.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-07</Date>
+    <Open>4.37</Open>
+    <High>4.518</High>
+    <Low>3.998</Low>
+    <Close>4.033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-08</Date>
+    <Open>4.033</Open>
+    <High>4.135</High>
+    <Low>3.425</Low>
+    <Close>3.866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-09</Date>
+    <Open>3.866</Open>
+    <High>4.074</High>
+    <Low>3.551</Low>
+    <Close>4.012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-10</Date>
+    <Open>4.012</Open>
+    <High>4.189</High>
+    <Low>3.773</Low>
+    <Close>3.949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-11</Date>
+    <Open>3.949</Open>
+    <High>5.118</High>
+    <Low>3.926</Low>
+    <Close>4.306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-12</Date>
+    <Open>4.306</Open>
+    <High>4.309</High>
+    <Low>3.737</Low>
+    <Close>3.786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-13</Date>
+    <Open>3.786</Open>
+    <High>4.032</High>
+    <Low>3.644</Low>
+    <Close>3.988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-14</Date>
+    <Open>3.988</Open>
+    <High>4.266</High>
+    <Low>3.85</Low>
+    <Close>4.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-15</Date>
+    <Open>4.18</Open>
+    <High>4.519</High>
+    <Low>4.046</Low>
+    <Close>4.486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-16</Date>
+    <Open>4.486</Open>
+    <High>4.853</High>
+    <Low>4.152</Low>
+    <Close>4.191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-17</Date>
+    <Open>4.191</Open>
+    <High>4.708</High>
+    <Low>4.168</Low>
+    <Close>4.693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-18</Date>
+    <Open>4.693</Open>
+    <High>4.997</High>
+    <Low>4.221</Low>
+    <Close>4.387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-19</Date>
+    <Open>4.387</Open>
+    <High>4.529</High>
+    <Low>4.197</Low>
+    <Close>4.214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-20</Date>
+    <Open>4.214</Open>
+    <High>4.279</High>
+    <Low>3.817</Low>
+    <Close>4.208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-21</Date>
+    <Open>4.208</Open>
+    <High>4.222</High>
+    <Low>3.194</Low>
+    <Close>3.207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-22</Date>
+    <Open>3.207</Open>
+    <High>3.678</High>
+    <Low>2.867</Low>
+    <Close>3.187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-23</Date>
+    <Open>3.187</Open>
+    <High>3.779</High>
+    <Low>3.087</Low>
+    <Close>3.709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-24</Date>
+    <Open>3.709</Open>
+    <High>3.845</High>
+    <Low>3.491</Low>
+    <Close>3.807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-25</Date>
+    <Open>3.807</Open>
+    <High>3.906</High>
+    <Low>3.387</Low>
+    <Close>3.425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-26</Date>
+    <Open>3.425</Open>
+    <High>3.619</High>
+    <Low>3.259</Low>
+    <Close>3.604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-27</Date>
+    <Open>3.604</Open>
+    <High>3.743</High>
+    <Low>3.478</Low>
+    <Close>3.729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-28</Date>
+    <Open>3.729</Open>
+    <High>4.057</High>
+    <Low>3.666</Low>
+    <Close>3.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-29</Date>
+    <Open>3.97</Open>
+    <High>4.831</High>
+    <Low>3.968</Low>
+    <Close>4.607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-06-30</Date>
+    <Open>4.607</Open>
+    <High>5.867</High>
+    <Low>4.45</Low>
+    <Close>5.672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-01</Date>
+    <Open>5.672</Open>
+    <High>5.987</High>
+    <Low>5.186</Low>
+    <Close>5.745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-02</Date>
+    <Open>5.745</Open>
+    <High>6.377</High>
+    <Low>5.742</Low>
+    <Close>6.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-03</Date>
+    <Open>6.08</Open>
+    <High>7.976</High>
+    <Low>5.783</Low>
+    <Close>7.723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-04</Date>
+    <Open>7.723</Open>
+    <High>9.814</High>
+    <Low>7.58</Low>
+    <Close>8.769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-05</Date>
+    <Open>8.769</Open>
+    <High>8.912</High>
+    <Low>7.756</Low>
+    <Close>8.035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-06</Date>
+    <Open>8.035</Open>
+    <High>11.88</High>
+    <Low>8.006</Low>
+    <Close>10.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-07</Date>
+    <Open>10.9</Open>
+    <High>16.72</High>
+    <Low>10.44</Low>
+    <Close>13.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-08</Date>
+    <Open>13.57</Open>
+    <High>15.77</High>
+    <Low>11.58</Low>
+    <Close>12.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-09</Date>
+    <Open>12.08</Open>
+    <High>16.7</High>
+    <Low>11.26</Low>
+    <Close>16.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-10</Date>
+    <Open>16.51</Open>
+    <High>19.58</High>
+    <Low>16.33</Low>
+    <Close>17.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-11</Date>
+    <Open>17.68</Open>
+    <High>19.13</High>
+    <Low>16.02</Low>
+    <Close>18.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-12</Date>
+    <Open>18.93</Open>
+    <High>19.2</High>
+    <Low>16.87</Low>
+    <Close>17.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-13</Date>
+    <Open>17.5</Open>
+    <High>22.53</High>
+    <Low>17.4</Low>
+    <Close>20.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-14</Date>
+    <Open>20.81</Open>
+    <High>24.33</High>
+    <Low>19.56</Low>
+    <Close>23.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-15</Date>
+    <Open>23.32</Open>
+    <High>29.16</High>
+    <Low>22.67</Low>
+    <Close>24.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-16</Date>
+    <Open>24.01</Open>
+    <High>27.43</High>
+    <Low>20.49</Low>
+    <Close>20.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-17</Date>
+    <Open>20.98</Open>
+    <High>21.2</High>
+    <Low>17.41</Low>
+    <Close>18.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-18</Date>
+    <Open>18.52</Open>
+    <High>20.88</High>
+    <Low>17.42</Low>
+    <Close>18.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-19</Date>
+    <Open>18.69</Open>
+    <High>18.98</High>
+    <Low>15.62</Low>
+    <Close>17.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-20</Date>
+    <Open>17.07</Open>
+    <High>17.22</High>
+    <Low>14.16</Low>
+    <Close>15.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-21</Date>
+    <Open>15.0</Open>
+    <High>22.77</High>
+    <Low>14.74</Low>
+    <Close>22.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-22</Date>
+    <Open>22.31</Open>
+    <High>25.96</High>
+    <Low>21.94</Low>
+    <Close>24.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-23</Date>
+    <Open>24.79</Open>
+    <High>48.66</High>
+    <Low>24.29</Low>
+    <Close>42.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-24</Date>
+    <Open>42.5</Open>
+    <High>49.75</High>
+    <Low>38.44</Low>
+    <Close>42.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-25</Date>
+    <Open>42.1</Open>
+    <High>44.1</High>
+    <Low>37.68</Low>
+    <Close>43.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-26</Date>
+    <Open>43.9</Open>
+    <High>45.39</High>
+    <Low>35.01</Low>
+    <Close>40.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-27</Date>
+    <Open>40.89</Open>
+    <High>53.39</High>
+    <Low>36.22</Low>
+    <Close>46.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-28</Date>
+    <Open>46.89</Open>
+    <High>50.46</High>
+    <Low>44.46</Low>
+    <Close>45.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-29</Date>
+    <Open>45.63</Open>
+    <High>46.85</High>
+    <Low>41.59</Low>
+    <Close>44.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-30</Date>
+    <Open>44.24</Open>
+    <High>45.28</High>
+    <Low>41.31</Low>
+    <Close>43.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-07-31</Date>
+    <Open>43.25</Open>
+    <High>45.69</High>
+    <Low>41.83</Low>
+    <Close>42.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-01</Date>
+    <Open>42.5</Open>
+    <High>42.9</High>
+    <Low>37.48</Low>
+    <Close>37.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-02</Date>
+    <Open>37.77</Open>
+    <High>42.81</High>
+    <Low>37.73</Low>
+    <Close>40.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-03</Date>
+    <Open>40.21</Open>
+    <High>40.27</High>
+    <Low>37.59</Low>
+    <Close>38.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-04</Date>
+    <Open>38.41</Open>
+    <High>45.95</High>
+    <Low>37.8</Low>
+    <Close>43.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-05</Date>
+    <Open>43.77</Open>
+    <High>45.05</High>
+    <Low>41.08</Low>
+    <Close>42.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-06</Date>
+    <Open>42.61</Open>
+    <High>43.99</High>
+    <Low>41.45</Low>
+    <Close>42.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-07</Date>
+    <Open>42.63</Open>
+    <High>43.62</High>
+    <Low>40.22</Low>
+    <Close>41.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-08</Date>
+    <Open>41.31</Open>
+    <High>47.4</High>
+    <Low>40.11</Low>
+    <Close>42.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-09</Date>
+    <Open>42.21</Open>
+    <High>45.12</High>
+    <Low>40.67</Low>
+    <Close>43.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-10</Date>
+    <Open>43.55</Open>
+    <High>64.84</High>
+    <Low>43.3</Low>
+    <Close>64.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-11</Date>
+    <Open>64.08</Open>
+    <High>77.38</High>
+    <Low>63.28</Low>
+    <Close>66.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-12</Date>
+    <Open>66.3</Open>
+    <High>73.92</High>
+    <Low>63.26</Low>
+    <Close>66.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-13</Date>
+    <Open>66.08</Open>
+    <High>73.71</High>
+    <Low>65.57</Low>
+    <Close>70.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-14</Date>
+    <Open>70.53</Open>
+    <High>70.93</High>
+    <Low>65.21</Low>
+    <Close>67.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-15</Date>
+    <Open>67.78</Open>
+    <High>68.0</High>
+    <Low>63.3</Low>
+    <Close>67.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-16</Date>
+    <Open>67.91</Open>
+    <High>70.83</High>
+    <Low>65.78</Low>
+    <Close>66.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-17</Date>
+    <Open>66.31</Open>
+    <High>82.14</High>
+    <Low>65.21</Low>
+    <Close>71.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-18</Date>
+    <Open>71.88</Open>
+    <High>74.89</High>
+    <Low>65.75</Low>
+    <Close>69.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-19</Date>
+    <Open>69.25</Open>
+    <High>73.03</High>
+    <Low>67.27</Low>
+    <Close>71.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-20</Date>
+    <Open>71.86</Open>
+    <High>74.25</High>
+    <Low>71.38</Low>
+    <Close>73.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-21</Date>
+    <Open>73.68</Open>
+    <High>83.49</High>
+    <Low>73.68</Low>
+    <Close>76.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-22</Date>
+    <Open>76.91</Open>
+    <High>79.55</High>
+    <Low>73.34</Low>
+    <Close>77.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-23</Date>
+    <Open>77.23</Open>
+    <High>78.85</High>
+    <Low>75.22</Low>
+    <Close>77.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-24</Date>
+    <Open>77.35</Open>
+    <High>77.53</High>
+    <Low>67.75</Low>
+    <Close>69.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-25</Date>
+    <Open>69.94</Open>
+    <High>75.1</High>
+    <Low>68.52</Low>
+    <Close>72.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-26</Date>
+    <Open>72.51</Open>
+    <High>73.86</High>
+    <Low>67.25</Low>
+    <Close>69.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-27</Date>
+    <Open>69.61</Open>
+    <High>73.72</High>
+    <Low>68.19</Low>
+    <Close>73.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-28</Date>
+    <Open>73.65</Open>
+    <High>79.72</High>
+    <Low>72.44</Low>
+    <Close>74.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-29</Date>
+    <Open>74.87</Open>
+    <High>79.04</High>
+    <Low>71.45</Low>
+    <Close>78.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-30</Date>
+    <Open>78.4</Open>
+    <High>78.4</High>
+    <Low>72.46</Low>
+    <Close>72.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-08-31</Date>
+    <Open>72.82</Open>
+    <High>75.81</High>
+    <Low>71.26</Low>
+    <Close>72.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-01</Date>
+    <Open>72.15</Open>
+    <High>74.6</High>
+    <Low>69.52</Low>
+    <Close>73.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-02</Date>
+    <Open>73.91</Open>
+    <High>74.65</High>
+    <Low>71.64</Low>
+    <Close>72.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-03</Date>
+    <Open>72.69</Open>
+    <High>76.42</High>
+    <Low>71.49</Low>
+    <Close>73.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-04</Date>
+    <Open>73.97</Open>
+    <High>94.6</High>
+    <Low>72.43</Low>
+    <Close>82.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-05</Date>
+    <Open>82.41</Open>
+    <High>88.77</High>
+    <Low>79.87</Low>
+    <Close>82.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-06</Date>
+    <Open>82.22</Open>
+    <High>85.15</High>
+    <Low>75.1</Low>
+    <Close>79.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-07</Date>
+    <Open>79.06</Open>
+    <High>80.32</High>
+    <Low>57.48</Low>
+    <Close>64.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-08</Date>
+    <Open>64.23</Open>
+    <High>70.86</High>
+    <Low>60.15</Low>
+    <Close>68.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-09</Date>
+    <Open>68.0</Open>
+    <High>72.21</High>
+    <Low>66.74</Low>
+    <Close>69.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-10</Date>
+    <Open>69.1</Open>
+    <High>71.21</High>
+    <Low>62.71</Low>
+    <Close>65.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-11</Date>
+    <Open>65.45</Open>
+    <High>71.98</High>
+    <Low>64.9</Low>
+    <Close>68.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-12</Date>
+    <Open>68.9</Open>
+    <High>70.85</High>
+    <Low>66.2</Low>
+    <Close>69.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-13</Date>
+    <Open>69.88</Open>
+    <High>71.4</High>
+    <Low>61.54</Low>
+    <Close>64.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-14</Date>
+    <Open>64.98</Open>
+    <High>67.48</High>
+    <Low>64.16</Low>
+    <Close>66.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-15</Date>
+    <Open>66.68</Open>
+    <High>69.74</High>
+    <Low>65.5</Low>
+    <Close>68.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-16</Date>
+    <Open>68.63</Open>
+    <High>70.9</High>
+    <Low>65.69</Low>
+    <Close>67.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-17</Date>
+    <Open>67.25</Open>
+    <High>68.06</High>
+    <Low>64.48</Low>
+    <Close>65.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-18</Date>
+    <Open>65.81</Open>
+    <High>67.7</High>
+    <Low>64.77</Low>
+    <Close>66.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-19</Date>
+    <Open>66.12</Open>
+    <High>66.46</High>
+    <Low>63.01</Low>
+    <Close>63.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-20</Date>
+    <Open>63.69</Open>
+    <High>63.81</High>
+    <Low>52.4</Low>
+    <Close>55.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-21</Date>
+    <Open>55.07</Open>
+    <High>56.85</High>
+    <Low>48.36</Low>
+    <Close>50.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-22</Date>
+    <Open>50.54</Open>
+    <High>63.94</High>
+    <Low>49.45</Low>
+    <Close>61.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-23</Date>
+    <Open>61.57</Open>
+    <High>69.22</High>
+    <Low>61.16</Low>
+    <Close>67.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-24</Date>
+    <Open>67.4</Open>
+    <High>70.98</High>
+    <Low>63.6</Low>
+    <Close>68.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-25</Date>
+    <Open>68.27</Open>
+    <High>69.05</High>
+    <Low>64.51</Low>
+    <Close>65.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-26</Date>
+    <Open>65.33</Open>
+    <High>65.48</High>
+    <Low>58.46</Low>
+    <Close>63.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-27</Date>
+    <Open>63.78</Open>
+    <High>67.09</High>
+    <Low>62.78</Low>
+    <Close>63.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-28</Date>
+    <Open>63.82</Open>
+    <High>72.73</High>
+    <Low>63.0</Low>
+    <Close>69.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-29</Date>
+    <Open>69.08</Open>
+    <High>75.11</High>
+    <Low>67.85</Low>
+    <Close>69.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-09-30</Date>
+    <Open>69.32</Open>
+    <High>78.9</High>
+    <Low>68.83</Low>
+    <Close>74.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-01</Date>
+    <Open>74.58</Open>
+    <High>117.03</High>
+    <Low>74.15</Low>
+    <Close>110.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-02</Date>
+    <Open>110.38</Open>
+    <High>120.44</High>
+    <Low>106.37</Low>
+    <Close>107.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-03</Date>
+    <Open>107.83</Open>
+    <High>138.88</High>
+    <Low>103.81</Low>
+    <Close>137.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-04</Date>
+    <Open>137.49</Open>
+    <High>155.11</High>
+    <Low>131.78</Low>
+    <Close>134.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-05</Date>
+    <Open>134.59</Open>
+    <High>145.84</High>
+    <Low>127.41</Low>
+    <Close>128.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-06</Date>
+    <Open>128.85</Open>
+    <High>140.86</High>
+    <Low>119.62</Low>
+    <Close>126.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-07</Date>
+    <Open>126.17</Open>
+    <High>130.99</High>
+    <Low>120.5</Low>
+    <Close>124.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-08</Date>
+    <Open>124.34</Open>
+    <High>138.83</High>
+    <Low>120.26</Low>
+    <Close>126.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-09</Date>
+    <Open>126.25</Open>
+    <High>132.28</High>
+    <Low>123.74</Low>
+    <Close>126.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-10</Date>
+    <Open>126.55</Open>
+    <High>126.58</High>
+    <Low>115.61</Low>
+    <Close>116.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-11</Date>
+    <Open>116.23</Open>
+    <High>121.89</High>
+    <Low>112.25</Low>
+    <Close>116.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-12</Date>
+    <Open>116.55</Open>
+    <High>126.7</High>
+    <Low>113.85</Low>
+    <Close>122.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-13</Date>
+    <Open>122.14</Open>
+    <High>124.85</High>
+    <Low>117.76</Low>
+    <Close>121.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-14</Date>
+    <Open>121.67</Open>
+    <High>143.75</High>
+    <Low>120.48</Low>
+    <Close>136.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-15</Date>
+    <Open>136.36</Open>
+    <High>145.38</High>
+    <Low>124.49</Low>
+    <Close>125.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-16</Date>
+    <Open>125.66</Open>
+    <High>129.92</High>
+    <Low>122.53</Low>
+    <Close>125.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-17</Date>
+    <Open>125.07</Open>
+    <High>129.36</High>
+    <Low>122.0</Low>
+    <Close>124.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-18</Date>
+    <Open>124.55</Open>
+    <High>125.3</High>
+    <Low>119.15</Low>
+    <Close>122.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-19</Date>
+    <Open>122.44</Open>
+    <High>123.48</High>
+    <Low>120.21</Low>
+    <Close>122.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-20</Date>
+    <Open>122.05</Open>
+    <High>129.79</High>
+    <Low>120.66</Low>
+    <Close>127.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-21</Date>
+    <Open>127.63</Open>
+    <High>133.99</High>
+    <Low>115.73</Low>
+    <Close>119.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-22</Date>
+    <Open>119.8</Open>
+    <High>133.2</High>
+    <Low>117.84</Low>
+    <Close>130.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-23</Date>
+    <Open>130.1</Open>
+    <High>133.67</High>
+    <Low>123.5</Low>
+    <Close>125.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-24</Date>
+    <Open>125.67</Open>
+    <High>127.7</High>
+    <Low>120.23</Low>
+    <Close>122.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-25</Date>
+    <Open>122.76</Open>
+    <High>141.31</High>
+    <Low>122.26</Low>
+    <Close>131.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-26</Date>
+    <Open>131.76</Open>
+    <High>138.18</High>
+    <Low>126.87</Low>
+    <Close>128.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-27</Date>
+    <Open>128.9</Open>
+    <High>132.6</High>
+    <Low>120.25</Low>
+    <Close>121.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-28</Date>
+    <Open>121.65</Open>
+    <High>129.4</High>
+    <Low>121.26</Low>
+    <Close>126.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-29</Date>
+    <Open>126.59</Open>
+    <High>164.41</High>
+    <Low>125.77</Low>
+    <Close>143.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-30</Date>
+    <Open>143.03</Open>
+    <High>156.86</High>
+    <Low>139.79</Low>
+    <Close>146.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-10-31</Date>
+    <Open>146.93</Open>
+    <High>150.44</High>
+    <Low>132.8</Low>
+    <Close>138.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-01</Date>
+    <Open>138.33</Open>
+    <High>139.23</High>
+    <Low>131.62</Low>
+    <Close>137.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-02</Date>
+    <Open>137.09</Open>
+    <High>145.11</High>
+    <Low>135.74</Low>
+    <Close>140.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-03</Date>
+    <Open>140.49</Open>
+    <High>142.72</High>
+    <Low>134.62</Low>
+    <Close>141.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-04</Date>
+    <Open>141.43</Open>
+    <High>163.91</High>
+    <Low>141.43</Low>
+    <Close>145.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-05</Date>
+    <Open>145.12</Open>
+    <High>154.32</High>
+    <Low>142.0</Low>
+    <Close>151.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-06</Date>
+    <Open>151.76</Open>
+    <High>165.79</High>
+    <Low>148.4</Low>
+    <Close>157.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-07</Date>
+    <Open>157.42</Open>
+    <High>164.42</High>
+    <Low>154.05</Low>
+    <Close>160.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-08</Date>
+    <Open>160.49</Open>
+    <High>160.65</High>
+    <Low>150.57</Low>
+    <Close>153.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-09</Date>
+    <Open>153.34</Open>
+    <High>154.52</High>
+    <Low>147.3</Low>
+    <Close>150.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-10</Date>
+    <Open>150.11</Open>
+    <High>153.71</High>
+    <Low>134.26</Low>
+    <Close>142.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-11</Date>
+    <Open>142.12</Open>
+    <High>148.94</High>
+    <Low>139.34</Low>
+    <Close>146.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-12</Date>
+    <Open>146.29</Open>
+    <High>148.39</High>
+    <Low>138.75</Low>
+    <Close>143.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-13</Date>
+    <Open>143.4</Open>
+    <High>147.62</High>
+    <Low>142.1</Low>
+    <Close>142.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-14</Date>
+    <Open>142.83</Open>
+    <High>146.09</High>
+    <Low>139.98</Low>
+    <Close>142.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-15</Date>
+    <Open>142.36</Open>
+    <High>146.37</High>
+    <Low>141.19</Low>
+    <Close>142.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-16</Date>
+    <Open>142.16</Open>
+    <High>142.46</High>
+    <Low>122.62</Low>
+    <Close>133.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-17</Date>
+    <Open>133.54</Open>
+    <High>139.52</High>
+    <Low>130.7</Low>
+    <Close>135.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-18</Date>
+    <Open>135.42</Open>
+    <High>136.94</High>
+    <Low>120.62</Low>
+    <Close>123.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-19</Date>
+    <Open>123.85</Open>
+    <High>133.12</High>
+    <Low>122.35</Low>
+    <Close>131.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-20</Date>
+    <Open>131.74</Open>
+    <High>133.18</High>
+    <Low>126.37</Low>
+    <Close>132.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-21</Date>
+    <Open>132.57</Open>
+    <High>141.65</High>
+    <Low>128.38</Low>
+    <Close>130.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-22</Date>
+    <Open>130.31</Open>
+    <High>132.58</High>
+    <Low>126.07</Low>
+    <Close>128.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-23</Date>
+    <Open>128.21</Open>
+    <High>138.88</High>
+    <Low>126.73</Low>
+    <Close>136.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-24</Date>
+    <Open>136.45</Open>
+    <High>145.2</High>
+    <Low>132.67</Low>
+    <Close>141.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-25</Date>
+    <Open>141.56</Open>
+    <High>144.38</High>
+    <Low>136.73</Low>
+    <Close>139.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-26</Date>
+    <Open>139.17</Open>
+    <High>140.33</High>
+    <Low>122.83</Low>
+    <Close>125.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-27</Date>
+    <Open>125.803</Open>
+    <High>129.8</High>
+    <Low>124.66</Low>
+    <Close>128.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-28</Date>
+    <Open>128.022</Open>
+    <High>134.92</High>
+    <Low>123.35</Low>
+    <Close>131.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-29</Date>
+    <Open>131.78</Open>
+    <High>137.702</High>
+    <Low>131.78</Low>
+    <Close>134.788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-11-30</Date>
+    <Open>134.722</Open>
+    <High>139.329</High>
+    <Low>131.79</Low>
+    <Close>137.672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-01</Date>
+    <Open>137.779</Open>
+    <High>143.26</High>
+    <Low>133.416</Low>
+    <Close>134.304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-02</Date>
+    <Open>134.269</Open>
+    <High>136.065</High>
+    <Low>131.61</Low>
+    <Close>135.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-03</Date>
+    <Open>135.52</Open>
+    <High>142.65</High>
+    <Low>125.0</Low>
+    <Close>127.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-04</Date>
+    <Open>127.75</Open>
+    <High>128.54</High>
+    <Low>99.154</Low>
+    <Close>117.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-05</Date>
+    <Open>117.86</Open>
+    <High>121.56</High>
+    <Low>104.605</Low>
+    <Close>107.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-06</Date>
+    <Open>106.967</Open>
+    <High>107.876</High>
+    <Low>95.24</Low>
+    <Close>106.024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-07</Date>
+    <Open>106.024</Open>
+    <High>110.238</High>
+    <Low>104.344</Low>
+    <Close>104.935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-08</Date>
+    <Open>105.01</Open>
+    <High>121.69</High>
+    <Low>104.91</Low>
+    <Close>110.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-09</Date>
+    <Open>110.909</Open>
+    <High>115.3</High>
+    <Low>102.82</Low>
+    <Close>104.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-10</Date>
+    <Open>104.638</Open>
+    <High>106.63</High>
+    <Low>98.45</Low>
+    <Close>99.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-11</Date>
+    <Open>99.22</Open>
+    <High>103.91</High>
+    <Low>95.63</Low>
+    <Close>102.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-12</Date>
+    <Open>101.89</Open>
+    <High>105.93</High>
+    <Low>100.61</Low>
+    <Close>105.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-13</Date>
+    <Open>105.3</Open>
+    <High>105.53</High>
+    <Low>91.05</Low>
+    <Close>93.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-14</Date>
+    <Open>93.97</Open>
+    <High>97.181</High>
+    <Low>92.165</Low>
+    <Close>95.513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-15</Date>
+    <Open>95.396</Open>
+    <High>103.162</High>
+    <Low>91.9259</Low>
+    <Close>100.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-16</Date>
+    <Open>100.79</Open>
+    <High>103.881</High>
+    <Low>97.3792</Low>
+    <Close>98.7796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-17</Date>
+    <Open>98.7396</Open>
+    <High>99.2298</High>
+    <Low>91.4366</Low>
+    <Close>95.1881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-18</Date>
+    <Open>95.2981</Open>
+    <High>97.409</High>
+    <Low>92.7171</Low>
+    <Close>96.3285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-19</Date>
+    <Open>96.3285</Open>
+    <High>98.5194</High>
+    <Low>94.4383</Low>
+    <Close>96.1681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-20</Date>
+    <Open>96.1284</Open>
+    <High>96.3585</High>
+    <Low>89.5879</Low>
+    <Close>91.7575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-21</Date>
+    <Open>91.6875</Open>
+    <High>97.9492</High>
+    <Low>91.6875</Low>
+    <Close>97.649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-22</Date>
+    <Open>97.649</Open>
+    <High>104.012</High>
+    <Low>96.1484</Low>
+    <Close>102.581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-23</Date>
+    <Open>102.581</Open>
+    <High>107.993</High>
+    <Low>99.77</Low>
+    <Close>107.454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-24</Date>
+    <Open>107.433</Open>
+    <High>109.745</High>
+    <Low>104.092</Low>
+    <Close>105.043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-25</Date>
+    <Open>105.003</Open>
+    <High>110.515</High>
+    <Low>103.672</Low>
+    <Close>108.984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-26</Date>
+    <Open>108.984</Open>
+    <High>109.905</High>
+    <Low>105.473</Low>
+    <Close>107.844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-27</Date>
+    <Open>107.814</Open>
+    <High>111.676</High>
+    <Low>106.333</Low>
+    <Close>108.713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-28</Date>
+    <Open>108.663</Open>
+    <High>108.732</High>
+    <Low>98.6299</Low>
+    <Close>101.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-29</Date>
+    <Open>101.25</Open>
+    <High>101.51</High>
+    <Low>94.5695</Low>
+    <Close>95.7191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-30</Date>
+    <Open>95.7691</Open>
+    <High>96.6993</High>
+    <Low>91.8092</Low>
+    <Close>94.7189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2021-12-31</Date>
+    <Open>94.769</Open>
+    <High>97.9598</High>
+    <Low>91.1691</Low>
+    <Close>93.2493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-01</Date>
+    <Open>93.3093</Open>
+    <High>95.2105</High>
+    <Low>91.38</Low>
+    <Close>93.7787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-02</Date>
+    <Open>93.8188</Open>
+    <High>96.6993</High>
+    <Low>93.1786</Low>
+    <Close>96.0792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-03</Date>
+    <Open>96.1992</Open>
+    <High>97.9998</High>
+    <Low>92.2692</Low>
+    <Close>93.9094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-04</Date>
+    <Open>93.9494</Open>
+    <High>96.77</High>
+    <Low>92.6907</Low>
+    <Close>93.8306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-05</Date>
+    <Open>93.6913</Open>
+    <High>94.9</High>
+    <Low>75.13</Low>
+    <Close>80.7219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-06</Date>
+    <Open>80.8319</Open>
+    <High>81.48</High>
+    <Low>75.4525</Low>
+    <Close>79.3221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-07</Date>
+    <Open>79.2817</Open>
+    <High>79.612</High>
+    <Low>70.5229</Low>
+    <Close>73.4427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-08</Date>
+    <Open>73.4227</Open>
+    <High>75.7324</High>
+    <Low>67.7732</Low>
+    <Close>71.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-09</Date>
+    <Open>71.21</Open>
+    <High>74.17</High>
+    <Low>69.08</Low>
+    <Close>72.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-10</Date>
+    <Open>72.71</Open>
+    <High>73.18</High>
+    <Low>65.5534</Low>
+    <Close>68.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-11</Date>
+    <Open>68.2</Open>
+    <High>73.4247</High>
+    <Low>67.5332</Low>
+    <Close>72.1372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-12</Date>
+    <Open>72.1372</Open>
+    <High>79.5118</High>
+    <Low>72.1272</Low>
+    <Close>77.651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-13</Date>
+    <Open>77.6711</Open>
+    <High>78.7193</High>
+    <Low>72.8591</Low>
+    <Close>73.4794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-14</Date>
+    <Open>73.4494</Open>
+    <High>75.7903</High>
+    <Low>70.9984</Low>
+    <Close>74.1122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-15</Date>
+    <Open>74.0996</Open>
+    <High>76.1881</High>
+    <Low>73.0392</Low>
+    <Close>75.968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-16</Date>
+    <Open>75.998</Open>
+    <High>82.633</High>
+    <Low>74.5372</Low>
+    <Close>80.4522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-17</Date>
+    <Open>80.4522</Open>
+    <High>83.6635</High>
+    <Low>75.13</Low>
+    <Close>75.9904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-18</Date>
+    <Open>76.0004</Open>
+    <High>77.3109</High>
+    <Low>72.1488</Low>
+    <Close>74.5198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-19</Date>
+    <Open>74.4023</Open>
+    <High>74.5398</High>
+    <Low>70.5682</Low>
+    <Close>72.6618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-20</Date>
+    <Open>72.6818</Open>
+    <High>75.9628</High>
+    <Low>69.777</Low>
+    <Close>70.5741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-21</Date>
+    <Open>70.6041</Open>
+    <High>70.6841</High>
+    <Low>57.1814</Low>
+    <Close>58.4317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-22</Date>
+    <Open>58.5417</Open>
+    <High>59.4178</High>
+    <Low>47.6343</Low>
+    <Close>49.2348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-23</Date>
+    <Open>49.1998</Open>
+    <High>54.1862</High>
+    <Low>48.9798</Low>
+    <Close>51.5003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-24</Date>
+    <Open>51.5903</Open>
+    <High>54.811</High>
+    <Low>44.4833</Low>
+    <Close>50.3751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-25</Date>
+    <Open>50.3451</Open>
+    <High>51.9856</High>
+    <Low>49.3748</Low>
+    <Close>50.5653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-26</Date>
+    <Open>50.6253</Open>
+    <High>55.5277</High>
+    <Low>48.419</Low>
+    <Close>49.6298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-27</Date>
+    <Open>49.6298</Open>
+    <High>50.5453</High>
+    <Low>44.8924</Low>
+    <Close>46.3031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-28</Date>
+    <Open>46.2685</Open>
+    <High>48.3245</High>
+    <Low>44.6489</Low>
+    <Close>45.9092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-29</Date>
+    <Open>45.9092</Open>
+    <High>50.015</High>
+    <Low>45.9092</Low>
+    <Close>49.1948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-30</Date>
+    <Open>49.1948</Open>
+    <High>56.0512</High>
+    <Low>48.6646</Low>
+    <Close>52.8511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-01-31</Date>
+    <Open>52.8311</Open>
+    <High>54.5864</High>
+    <Low>49.7199</Low>
+    <Close>52.4362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-01</Date>
+    <Open>52.4062</Open>
+    <High>54.8429</High>
+    <Low>51.9011</Low>
+    <Close>53.6722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-02</Date>
+    <Open>53.6822</Open>
+    <High>54.6027</High>
+    <Low>48.4594</Low>
+    <Close>49.3595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-03</Date>
+    <Open>49.3344</Open>
+    <High>49.6347</High>
+    <Low>46.033</Low>
+    <Close>47.7739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-04</Date>
+    <Open>47.7639</Open>
+    <High>50.8656</High>
+    <Low>47.549</Low>
+    <Close>50.7506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-05</Date>
+    <Open>50.7506</Open>
+    <High>59.4816</High>
+    <Low>50.5504</Low>
+    <Close>55.6634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-06</Date>
+    <Open>55.6434</Open>
+    <High>67.4637</High>
+    <Low>55.6033</Low>
+    <Close>66.4266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-07</Date>
+    <Open>66.3665</Open>
+    <High>72.0576</High>
+    <Low>66.1631</Low>
+    <Close>69.0083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-08</Date>
+    <Open>68.9482</Open>
+    <High>69.3185</High>
+    <Low>62.3461</Low>
+    <Close>66.8001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-09</Date>
+    <Open>66.8301</Open>
+    <High>68.1112</High>
+    <Low>63.1442</Low>
+    <Close>67.2839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-10</Date>
+    <Open>67.2972</Open>
+    <High>68.3478</High>
+    <Low>62.51</Low>
+    <Close>64.8454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-11</Date>
+    <Open>64.8854</Open>
+    <High>65.0455</High>
+    <Low>56.717</Low>
+    <Close>57.0971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-12</Date>
+    <Open>57.0371</Open>
+    <High>61.5769</High>
+    <Low>56.7484</Low>
+    <Close>59.6998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-13</Date>
+    <Open>59.6998</Open>
+    <High>60.5763</High>
+    <Low>56.9485</Low>
+    <Close>58.6352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-14</Date>
+    <Open>58.6051</Open>
+    <High>58.7894</High>
+    <Low>55.1231</Low>
+    <Close>56.8441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-15</Date>
+    <Open>56.8341</Open>
+    <High>63.8283</High>
+    <Low>56.6283</Low>
+    <Close>62.8777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-16</Date>
+    <Open>62.8977</Open>
+    <High>66.2397</High>
+    <Low>61.8071</Low>
+    <Close>63.9083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-17</Date>
+    <Open>63.9119</Open>
+    <High>64.6188</High>
+    <Low>55.9235</Low>
+    <Close>56.9598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-18</Date>
+    <Open>56.9698</Open>
+    <High>58.1249</High>
+    <Low>53.8276</Low>
+    <Close>55.3832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-19</Date>
+    <Open>55.3632</Open>
+    <High>56.9742</High>
+    <Low>53.5668</Low>
+    <Close>54.3972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-20</Date>
+    <Open>54.3672</Open>
+    <High>54.963</High>
+    <Low>49.6748</Low>
+    <Close>53.2366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-21</Date>
+    <Open>53.2466</Open>
+    <High>56.078</High>
+    <Low>48.8795</Low>
+    <Close>49.4847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-22</Date>
+    <Open>49.4547</Open>
+    <High>51.2207</High>
+    <Low>46.0538</Low>
+    <Close>50.5052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-23</Date>
+    <Open>50.5853</Open>
+    <High>53.4767</High>
+    <Low>48.8293</Low>
+    <Close>49.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-24</Date>
+    <Open>49.99</Open>
+    <High>49.99</High>
+    <Low>41.951</Low>
+    <Close>47.6591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-25</Date>
+    <Open>47.6891</Open>
+    <High>51.8659</High>
+    <Low>46.2885</Low>
+    <Close>51.6306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-26</Date>
+    <Open>51.6858</Open>
+    <High>52.8564</High>
+    <Low>50.005</Low>
+    <Close>50.4302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-27</Date>
+    <Open>50.3301</Open>
+    <High>51.976</High>
+    <Low>46.7634</Low>
+    <Close>48.3593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-02-28</Date>
+    <Open>48.3093</Open>
+    <High>57.0285</High>
+    <Low>47.1088</Low>
+    <Close>54.4518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-01</Date>
+    <Open>54.5618</Open>
+    <High>61.2984</High>
+    <Low>53.4013</Low>
+    <Close>57.2472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-02</Date>
+    <Open>57.2972</Open>
+    <High>59.0077</High>
+    <Low>54.4463</Low>
+    <Close>55.8012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-03</Date>
+    <Open>55.7767</Open>
+    <High>56.0168</High>
+    <Low>51.8404</Low>
+    <Close>53.5207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-04</Date>
+    <Open>53.4807</Open>
+    <High>53.8362</High>
+    <Low>48.9998</Low>
+    <Close>49.6649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-05</Date>
+    <Open>49.6649</Open>
+    <High>53.0606</High>
+    <Low>48.7998</Low>
+    <Close>52.6905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-06</Date>
+    <Open>52.7058</Open>
+    <High>52.7058</High>
+    <Low>49.1647</Low>
+    <Close>49.7749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-07</Date>
+    <Open>49.7449</Open>
+    <High>50.165</High>
+    <Low>45.6991</Low>
+    <Close>46.3139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-08</Date>
+    <Open>46.3039</Open>
+    <High>47.6395</High>
+    <Low>45.7337</Low>
+    <Close>46.4793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-09</Date>
+    <Open>46.4593</Open>
+    <High>49.465</High>
+    <Low>46.1446</Low>
+    <Close>48.5697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-10</Date>
+    <Open>48.6597</Open>
+    <High>48.9649</High>
+    <Low>45.1335</Low>
+    <Close>47.1188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-11</Date>
+    <Open>47.1188</Open>
+    <High>48.2493</High>
+    <Low>45.1781</Low>
+    <Close>46.1892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-12</Date>
+    <Open>46.1892</Open>
+    <High>48.6297</High>
+    <Low>45.8192</Low>
+    <Close>46.8847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-13</Date>
+    <Open>46.9047</Open>
+    <High>48.0996</High>
+    <Low>45.0235</Low>
+    <Close>45.1135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-14</Date>
+    <Open>45.018</Open>
+    <High>48.0596</High>
+    <Low>44.6389</Low>
+    <Close>47.4295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-15</Date>
+    <Open>47.4948</Open>
+    <High>48.9549</High>
+    <Low>45.8846</Low>
+    <Close>47.1241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-16</Date>
+    <Open>47.1341</Open>
+    <High>50.8252</High>
+    <Low>46.3139</Low>
+    <Close>49.8049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-17</Date>
+    <Open>49.7949</Open>
+    <High>51.2954</High>
+    <Low>49.3948</Low>
+    <Close>50.8054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-18</Date>
+    <Open>50.8203</Open>
+    <High>51.4709</High>
+    <Low>48.5543</Low>
+    <Close>50.2951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-19</Date>
+    <Open>50.2952</Open>
+    <High>54.4627</High>
+    <Low>50.2201</Low>
+    <Close>52.2209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-20</Date>
+    <Open>52.2161</Open>
+    <High>52.5763</High>
+    <Low>49.2297</Low>
+    <Close>50.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-21</Date>
+    <Open>50.095</Open>
+    <High>51.956</High>
+    <Low>49.1897</Low>
+    <Close>50.4652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-22</Date>
+    <Open>50.4502</Open>
+    <High>53.5067</High>
+    <Low>49.8099</Low>
+    <Close>52.7964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-23</Date>
+    <Open>52.7411</Open>
+    <High>58.5976</High>
+    <Low>50.8654</Low>
+    <Close>58.109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-24</Date>
+    <Open>58.1291</Open>
+    <High>71.6487</High>
+    <Low>57.453</Low>
+    <Close>70.5182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-25</Date>
+    <Open>70.4782</Open>
+    <High>74.6673</High>
+    <Low>69.3677</Low>
+    <Close>70.6753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-26</Date>
+    <Open>70.6683</Open>
+    <High>72.9392</High>
+    <Low>66.4766</Low>
+    <Close>66.7667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-27</Date>
+    <Open>66.7667</Open>
+    <High>68.0704</High>
+    <Low>64.5258</Low>
+    <Close>67.9472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-28</Date>
+    <Open>67.9804</Open>
+    <High>72.2989</High>
+    <Low>66.3865</Low>
+    <Close>68.9276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-29</Date>
+    <Open>69.0445</Open>
+    <High>70.8613</High>
+    <Low>63.6891</Low>
+    <Close>64.5423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-30</Date>
+    <Open>64.5523</Open>
+    <High>66.7433</High>
+    <Low>62.061</Low>
+    <Close>64.4293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-03-31</Date>
+    <Open>64.4393</Open>
+    <High>68.6737</High>
+    <Low>62.0386</Low>
+    <Close>63.7728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-01</Date>
+    <Open>63.7791</Open>
+    <High>66.8167</High>
+    <Low>60.3321</Low>
+    <Close>65.9598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-02</Date>
+    <Open>65.9764</Open>
+    <High>75.4802</High>
+    <Low>64.1092</Low>
+    <Close>66.3165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-03</Date>
+    <Open>66.3065</Open>
+    <High>68.4874</High>
+    <Low>64.0956</Low>
+    <Close>67.0368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-04</Date>
+    <Open>67.0801</Open>
+    <High>67.8003</High>
+    <Low>61.4784</Low>
+    <Close>63.6427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-05</Date>
+    <Open>63.6691</Open>
+    <High>65.3431</High>
+    <Low>61.5061</Low>
+    <Close>61.9224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-06</Date>
+    <Open>61.9124</Open>
+    <High>62.8526</High>
+    <Low>55.0</Low>
+    <Close>55.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-07</Date>
+    <Open>55.33</Open>
+    <High>55.8944</High>
+    <Low>52.32</Low>
+    <Close>54.3254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-08</Date>
+    <Open>54.2754</Open>
+    <High>55.3555</High>
+    <Low>51.3805</Low>
+    <Close>51.4806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-09</Date>
+    <Open>51.4506</Open>
+    <High>52.6758</High>
+    <Low>50.125</Low>
+    <Close>50.9653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-10</Date>
+    <Open>50.9753</Open>
+    <High>52.1456</High>
+    <Low>50.14</Low>
+    <Close>50.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-11</Date>
+    <Open>50.18</Open>
+    <High>50.415</High>
+    <Low>44.7589</Low>
+    <Close>44.8034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-12</Date>
+    <Open>44.819</Open>
+    <High>48.8998</High>
+    <Low>44.1032</Low>
+    <Close>46.554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-13</Date>
+    <Open>46.534</Open>
+    <High>48.8795</High>
+    <Low>46.2739</Low>
+    <Close>48.1144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-14</Date>
+    <Open>48.1044</Open>
+    <High>49.5399</High>
+    <Low>45.7037</Low>
+    <Close>47.1194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-15</Date>
+    <Open>47.1194</Open>
+    <High>50.17</High>
+    <Low>46.6493</Low>
+    <Close>47.6095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-16</Date>
+    <Open>47.6395</Open>
+    <High>48.5897</High>
+    <Low>46.7494</Low>
+    <Close>47.4295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-17</Date>
+    <Open>47.4695</Open>
+    <High>47.9296</High>
+    <Low>46.4993</Low>
+    <Close>46.8094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-18</Date>
+    <Open>46.7794</Open>
+    <High>46.8894</High>
+    <Low>43.0743</Low>
+    <Close>46.1538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-19</Date>
+    <Open>46.1438</Open>
+    <High>47.9496</High>
+    <Low>45.4636</Low>
+    <Close>47.1794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-20</Date>
+    <Open>47.1994</Open>
+    <High>48.4397</High>
+    <Low>45.3045</Low>
+    <Close>46.2593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-21</Date>
+    <Open>46.2793</Open>
+    <High>48.0996</High>
+    <Low>45.099</Low>
+    <Close>45.179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-22</Date>
+    <Open>45.1345</Open>
+    <High>46.7593</High>
+    <Low>44.4189</Low>
+    <Close>45.9946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-23</Date>
+    <Open>45.9992</Open>
+    <High>46.1692</High>
+    <Low>44.9445</Low>
+    <Close>45.7346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-24</Date>
+    <Open>45.7392</Open>
+    <High>45.9592</High>
+    <Low>44.2744</Low>
+    <Close>44.6689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-25</Date>
+    <Open>44.6689</Open>
+    <High>44.889</High>
+    <Low>40.054</Low>
+    <Close>42.7343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-26</Date>
+    <Open>42.7385</Open>
+    <High>43.4687</High>
+    <Low>38.0676</Low>
+    <Close>39.464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-27</Date>
+    <Open>39.464</Open>
+    <High>40.13</High>
+    <Low>37.1337</Low>
+    <Close>38.5038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-28</Date>
+    <Open>38.5038</Open>
+    <High>40.134</High>
+    <Low>37.39</Low>
+    <Close>37.9438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-29</Date>
+    <Open>37.9238</Open>
+    <High>38.6939</High>
+    <Low>33.4233</Low>
+    <Close>34.0934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-04-30</Date>
+    <Open>34.1034</Open>
+    <High>34.8735</High>
+    <Low>30.7331</Low>
+    <Close>31.0331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-01</Date>
+    <Open>31.02</Open>
+    <High>32.52</High>
+    <Low>26.69</Low>
+    <Close>30.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-02</Date>
+    <Open>30.8</Open>
+    <High>32.2832</High>
+    <Low>29.9</Low>
+    <Close>30.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-03</Date>
+    <Open>30.41</Open>
+    <High>30.84</High>
+    <Low>28.6143</Low>
+    <Close>29.1271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-04</Date>
+    <Open>29.1371</Open>
+    <High>33.7866</High>
+    <Low>28.0844</Low>
+    <Close>32.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-05</Date>
+    <Open>32.64</Open>
+    <High>35.193</High>
+    <Low>27.9744</Low>
+    <Close>28.8942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-06</Date>
+    <Open>28.9042</Open>
+    <High>29.1971</High>
+    <Low>27.1973</Low>
+    <Close>28.2572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-07</Date>
+    <Open>28.2672</Open>
+    <High>29.4771</High>
+    <Low>27.4045</Low>
+    <Close>28.2044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-08</Date>
+    <Open>28.2144</Open>
+    <High>31.6073</High>
+    <Low>27.7517</Low>
+    <Close>30.5208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-09</Date>
+    <Open>30.5308</Open>
+    <High>31.5405</High>
+    <Low>25.6423</Low>
+    <Close>26.3647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-10</Date>
+    <Open>26.3547</Open>
+    <High>28.2987</High>
+    <Low>23.5206</Low>
+    <Close>23.6006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-11</Date>
+    <Open>23.5706</Open>
+    <High>25.1174</High>
+    <Low>16.4205</Low>
+    <Close>19.2087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-12</Date>
+    <Open>19.109</Open>
+    <High>24.2162</High>
+    <Low>17.092</Low>
+    <Close>18.5716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-13</Date>
+    <Open>18.5597</Open>
+    <High>24.3956</High>
+    <Low>18.0829</Low>
+    <Close>20.7047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-14</Date>
+    <Open>20.7047</Open>
+    <High>21.2738</High>
+    <Low>18.9601</Low>
+    <Close>20.4892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-15</Date>
+    <Open>20.4813</Open>
+    <High>23.2221</High>
+    <Low>20.1597</Low>
+    <Close>22.7527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-16</Date>
+    <Open>22.8026</Open>
+    <High>23.6639</High>
+    <Low>19.7343</Low>
+    <Close>19.994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-17</Date>
+    <Open>20.004</Open>
+    <High>21.8659</High>
+    <Low>19.223</Low>
+    <Close>21.2823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-18</Date>
+    <Open>21.3023</Open>
+    <High>22.3609</High>
+    <Low>20.1957</Low>
+    <Close>21.6818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-19</Date>
+    <Open>21.6996</Open>
+    <High>22.0813</High>
+    <Low>19.7402</Low>
+    <Close>21.2587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-20</Date>
+    <Open>21.2288</Open>
+    <High>22.0257</High>
+    <Low>20.1558</Low>
+    <Close>20.6652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-21</Date>
+    <Open>20.6852</Open>
+    <High>21.2901</High>
+    <Low>20.1658</Low>
+    <Close>20.763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-22</Date>
+    <Open>20.7509</Open>
+    <High>21.7539</High>
+    <Low>20.6411</Low>
+    <Close>21.3843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-23</Date>
+    <Open>21.3843</Open>
+    <High>23.5117</High>
+    <Low>21.3843</Low>
+    <Close>21.5541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-24</Date>
+    <Open>21.552</Open>
+    <High>21.5541</High>
+    <Low>20.1079</Low>
+    <Close>21.1225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-25</Date>
+    <Open>21.1225</Open>
+    <High>21.4842</High>
+    <Low>20.2777</Low>
+    <Close>20.9369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-26</Date>
+    <Open>20.9448</Open>
+    <High>21.816</High>
+    <Low>18.6076</Low>
+    <Close>19.958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-27</Date>
+    <Open>19.97</Open>
+    <High>20.0999</High>
+    <Low>17.8204</Low>
+    <Close>18.4197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-28</Date>
+    <Open>18.4116</Open>
+    <High>18.6382</High>
+    <Low>17.8379</Low>
+    <Close>18.4584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-29</Date>
+    <Open>18.4615</Open>
+    <High>18.6792</High>
+    <Low>17.6309</Low>
+    <Close>18.1798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-30</Date>
+    <Open>18.2018</Open>
+    <High>23.1738</High>
+    <Low>18.1015</Low>
+    <Close>23.0615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-05-31</Date>
+    <Open>23.2937</Open>
+    <High>28.1375</High>
+    <Low>22.6296</Low>
+    <Close>22.8517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-01</Date>
+    <Open>22.8724</Open>
+    <High>23.9596</High>
+    <Low>20.3676</Low>
+    <Close>20.6514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-02</Date>
+    <Open>20.6814</Open>
+    <High>21.2009</High>
+    <Low>19.7022</Low>
+    <Close>20.7113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-03</Date>
+    <Open>20.7313</Open>
+    <High>21.5228</High>
+    <Low>19.411</Low>
+    <Close>20.3223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-04</Date>
+    <Open>20.3223</Open>
+    <High>21.1397</High>
+    <Low>19.8503</Low>
+    <Close>20.4345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-05</Date>
+    <Open>20.4345</Open>
+    <High>20.6133</High>
+    <Low>19.7534</Low>
+    <Close>20.0413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-06</Date>
+    <Open>20.0511</Open>
+    <High>22.7509</High>
+    <Low>19.9314</Low>
+    <Close>20.7126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-07</Date>
+    <Open>20.6926</Open>
+    <High>20.8323</High>
+    <Low>19.084</Low>
+    <Close>20.0338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-08</Date>
+    <Open>20.0238</Open>
+    <High>20.2342</High>
+    <Low>19.1383</Low>
+    <Close>19.7572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-09</Date>
+    <Open>19.7372</Open>
+    <High>19.9728</High>
+    <Low>19.2334</Low>
+    <Close>19.4237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-10</Date>
+    <Open>19.4237</Open>
+    <High>19.5741</High>
+    <Low>17.7105</Low>
+    <Close>18.2866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-11</Date>
+    <Open>18.2866</Open>
+    <High>18.6894</High>
+    <Low>15.9402</Low>
+    <Close>16.2316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-12</Date>
+    <Open>16.2614</Open>
+    <High>16.4814</High>
+    <Low>14.5896</Low>
+    <Close>15.2312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-13</Date>
+    <Open>15.2212</Open>
+    <High>15.2612</High>
+    <Low>12.1755</Low>
+    <Close>13.4014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-14</Date>
+    <Open>13.4015</Open>
+    <High>14.9473</High>
+    <Low>12.3516</Low>
+    <Close>13.5537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-15</Date>
+    <Open>13.5136</Open>
+    <High>15.4399</High>
+    <Low>12.5174</Low>
+    <Close>15.1173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-16</Date>
+    <Open>15.1073</Open>
+    <High>15.8426</High>
+    <Low>13.4052</Low>
+    <Close>14.0903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-17</Date>
+    <Open>13.5511</Open>
+    <High>14.187</High>
+    <Low>13.3614</Low>
+    <Close>13.8733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-18</Date>
+    <Open>13.8735</Open>
+    <High>14.1033</High>
+    <Low>11.8425</Low>
+    <Close>12.7893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-19</Date>
+    <Open>12.7693</Open>
+    <High>14.2029</High>
+    <Low>12.4114</Low>
+    <Close>13.9418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-20</Date>
+    <Open>13.957</Open>
+    <High>15.1234</High>
+    <Low>13.023</Low>
+    <Close>14.1244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-21</Date>
+    <Open>14.1031</Open>
+    <High>16.0172</High>
+    <Low>13.9546</Low>
+    <Close>14.8137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-22</Date>
+    <Open>14.8237</Open>
+    <High>15.1249</High>
+    <Low>13.7149</Low>
+    <Close>14.0759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-23</Date>
+    <Open>14.0759</Open>
+    <High>14.8451</High>
+    <Low>13.9161</Low>
+    <Close>14.4355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-24</Date>
+    <Open>14.4141</Open>
+    <High>17.5459</High>
+    <Low>14.4141</Low>
+    <Close>16.9668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-25</Date>
+    <Open>16.9767</Open>
+    <High>18.4941</High>
+    <Low>16.8431</Low>
+    <Close>17.7775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-26</Date>
+    <Open>17.7775</Open>
+    <High>18.0124</High>
+    <Low>16.4701</Low>
+    <Close>16.8995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-27</Date>
+    <Open>16.8997</Open>
+    <High>16.9197</High>
+    <Low>15.4757</Low>
+    <Close>15.9358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-28</Date>
+    <Open>15.946</Open>
+    <High>16.7947</High>
+    <Low>15.1843</Low>
+    <Close>15.4009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-29</Date>
+    <Open>15.4009</Open>
+    <High>15.7305</High>
+    <Low>14.1115</Low>
+    <Close>14.6123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-06-30</Date>
+    <Open>14.6224</Open>
+    <High>14.7023</High>
+    <Low>13.1035</Low>
+    <Close>13.8933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-01</Date>
+    <Open>13.9133</Open>
+    <High>14.945</High>
+    <Low>13.6822</Low>
+    <Close>14.1644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-02</Date>
+    <Open>14.131</Open>
+    <High>14.197</High>
+    <Low>13.4752</Low>
+    <Close>13.9732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-03</Date>
+    <Open>14.0032</Open>
+    <High>14.5211</High>
+    <Low>13.5124</Low>
+    <Close>14.2614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-04</Date>
+    <Open>14.2871</Open>
+    <High>14.7223</High>
+    <Low>13.7255</Low>
+    <Close>14.6624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-05</Date>
+    <Open>14.6624</Open>
+    <High>15.4714</High>
+    <Low>13.8947</Low>
+    <Close>14.6139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-06</Date>
+    <Open>14.6139</Open>
+    <High>14.8037</High>
+    <Low>14.0246</Low>
+    <Close>14.6539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-07</Date>
+    <Open>14.6638</Open>
+    <High>15.483</High>
+    <Low>14.534</Low>
+    <Close>15.4008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-08</Date>
+    <Open>15.3908</Open>
+    <High>15.759</High>
+    <Low>14.5298</Low>
+    <Close>14.911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-09</Date>
+    <Open>14.911</Open>
+    <High>15.5407</High>
+    <Low>14.7896</Low>
+    <Close>15.2508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-10</Date>
+    <Open>15.2708</Open>
+    <High>15.3008</High>
+    <Low>14.2514</Low>
+    <Close>14.5113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-11</Date>
+    <Open>14.4913</Open>
+    <High>14.5513</High>
+    <Low>13.7862</Low>
+    <Close>13.8275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-12</Date>
+    <Open>13.8275</Open>
+    <High>13.8303</High>
+    <Low>12.8858</Low>
+    <Close>13.007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-13</Date>
+    <Open>13.0175</Open>
+    <High>13.3766</High>
+    <Low>12.3564</Low>
+    <Close>13.1282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-14</Date>
+    <Open>13.1282</Open>
+    <High>13.9716</High>
+    <Low>12.9996</Low>
+    <Close>13.8117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-15</Date>
+    <Open>13.8117</Open>
+    <High>14.2928</High>
+    <Low>13.7604</Low>
+    <Close>14.0158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-16</Date>
+    <Open>14.0558</Open>
+    <High>14.4671</High>
+    <Low>13.5759</Low>
+    <Close>14.2157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-17</Date>
+    <Open>14.2172</Open>
+    <High>15.0789</High>
+    <Low>14.0977</Low>
+    <Close>14.7762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-18</Date>
+    <Open>14.806</Open>
+    <High>16.1981</High>
+    <Low>14.365</Low>
+    <Close>15.5964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-19</Date>
+    <Open>15.5664</Open>
+    <High>17.59</High>
+    <Low>15.5664</Low>
+    <Close>17.2728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-20</Date>
+    <Open>17.27</Open>
+    <High>17.6018</High>
+    <Low>15.3797</Low>
+    <Close>15.8808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-21</Date>
+    <Open>15.8808</Open>
+    <High>15.9726</High>
+    <Low>14.8216</Low>
+    <Close>15.824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-22</Date>
+    <Open>15.8138</Open>
+    <High>16.5045</High>
+    <Low>15.0717</Low>
+    <Close>15.4134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-23</Date>
+    <Open>15.4134</Open>
+    <High>17.7509</High>
+    <Low>15.1914</Low>
+    <Close>17.1533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-24</Date>
+    <Open>17.1433</Open>
+    <High>18.8506</High>
+    <Low>17.0224</Low>
+    <Close>17.5133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-25</Date>
+    <Open>17.5035</Open>
+    <High>17.9114</High>
+    <Low>15.4517</Low>
+    <Close>15.8013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-26</Date>
+    <Open>15.8113</Open>
+    <High>15.8116</High>
+    <Low>14.4707</Low>
+    <Close>14.8222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-27</Date>
+    <Open>14.8221</Open>
+    <High>16.2537</High>
+    <Low>14.7107</Low>
+    <Close>16.2039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-28</Date>
+    <Open>16.1939</Open>
+    <High>17.4738</High>
+    <Low>16.0526</Low>
+    <Close>17.3535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-29</Date>
+    <Open>17.3536</Open>
+    <High>19.4975</High>
+    <Low>17.1143</Low>
+    <Close>18.3275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-30</Date>
+    <Open>18.3073</Open>
+    <High>20.597</High>
+    <Low>18.1662</Low>
+    <Close>19.1565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-07-31</Date>
+    <Open>19.1465</Open>
+    <High>19.1546</High>
+    <Low>18.2951</Low>
+    <Close>18.5943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-01</Date>
+    <Open>18.5856</Open>
+    <High>18.6045</High>
+    <Low>17.3047</Low>
+    <Close>17.5353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-02</Date>
+    <Open>17.5253</Open>
+    <High>17.937</High>
+    <Low>16.625</Low>
+    <Close>17.2829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-03</Date>
+    <Open>17.3235</Open>
+    <High>17.9934</High>
+    <Low>16.6042</Low>
+    <Close>17.6044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-04</Date>
+    <Open>17.6153</Open>
+    <High>18.2715</High>
+    <Low>17.062</Low>
+    <Close>17.3505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-05</Date>
+    <Open>17.3505</Open>
+    <High>18.5837</High>
+    <Low>17.3405</Low>
+    <Close>18.1134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-06</Date>
+    <Open>18.1134</Open>
+    <High>18.4811</High>
+    <Low>17.9027</Low>
+    <Close>18.144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-07</Date>
+    <Open>18.134</Open>
+    <High>18.9729</High>
+    <Low>17.7743</Low>
+    <Close>18.7834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-08</Date>
+    <Open>18.7936</Open>
+    <High>19.3035</High>
+    <Low>18.4131</Low>
+    <Close>18.6622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-09</Date>
+    <Open>18.6622</Open>
+    <High>18.7234</High>
+    <Low>17.2738</Low>
+    <Close>17.7035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-10</Date>
+    <Open>17.7035</Open>
+    <High>18.5309</High>
+    <Low>17.1143</Low>
+    <Close>18.4653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-11</Date>
+    <Open>18.4653</Open>
+    <High>19.1001</High>
+    <Low>18.3866</Low>
+    <Close>18.5787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-12</Date>
+    <Open>18.5687</Open>
+    <High>18.7994</High>
+    <Low>17.919</Low>
+    <Close>18.4485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-13</Date>
+    <Open>18.4485</Open>
+    <High>19.9019</High>
+    <Low>18.4279</Low>
+    <Close>19.3575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-14</Date>
+    <Open>19.3575</Open>
+    <High>19.8077</High>
+    <Low>18.3142</Low>
+    <Close>18.6558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-15</Date>
+    <Open>18.6556</Open>
+    <High>19.1648</High>
+    <Low>17.9048</Low>
+    <Close>18.2546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-16</Date>
+    <Open>18.2146</Open>
+    <High>18.5937</High>
+    <Low>17.7112</Low>
+    <Close>17.9716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-17</Date>
+    <Open>17.9716</Open>
+    <High>18.3824</High>
+    <Low>16.6912</Low>
+    <Close>16.9512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-18</Date>
+    <Open>16.9412</Open>
+    <High>17.261</High>
+    <Low>16.7105</Low>
+    <Close>16.8802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-19</Date>
+    <Open>16.8817</Open>
+    <High>16.9117</High>
+    <Low>14.2514</Low>
+    <Close>14.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-20</Date>
+    <Open>14.3407</Open>
+    <High>14.7318</High>
+    <Low>13.617</Low>
+    <Close>13.9697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-21</Date>
+    <Open>13.9797</Open>
+    <High>14.6498</High>
+    <Low>13.9193</Low>
+    <Close>14.5097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-22</Date>
+    <Open>14.4997</Open>
+    <High>14.5803</High>
+    <Low>13.4991</Low>
+    <Close>13.9875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-23</Date>
+    <Open>13.9879</Open>
+    <High>14.86</High>
+    <Low>13.6999</Low>
+    <Close>14.6301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-24</Date>
+    <Open>14.6185</Open>
+    <High>15.0309</High>
+    <Low>14.1893</Low>
+    <Close>14.7513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-25</Date>
+    <Open>14.7613</Open>
+    <High>14.9783</High>
+    <Low>14.4406</Low>
+    <Close>14.7104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-26</Date>
+    <Open>14.7001</Open>
+    <High>14.8715</High>
+    <Low>13.5096</Low>
+    <Close>13.6214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-27</Date>
+    <Open>13.6314</Open>
+    <High>13.93</High>
+    <Low>13.0116</Low>
+    <Close>13.7004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-28</Date>
+    <Open>13.6903</Open>
+    <High>13.9906</High>
+    <Low>13.5391</Low>
+    <Close>13.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-29</Date>
+    <Open>13.71</Open>
+    <High>13.7911</High>
+    <Low>13.0388</Low>
+    <Close>13.691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-30</Date>
+    <Open>13.6811</Open>
+    <High>14.0699</High>
+    <Low>13.0614</Low>
+    <Close>13.7012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-08-31</Date>
+    <Open>13.7011</Open>
+    <High>14.6404</High>
+    <Low>13.6511</Low>
+    <Close>14.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-01</Date>
+    <Open>14.3999</Open>
+    <High>14.4201</High>
+    <Low>13.5716</Low>
+    <Close>13.9393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-02</Date>
+    <Open>13.938</Open>
+    <High>14.4443</High>
+    <Low>13.7781</Low>
+    <Close>13.9998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-03</Date>
+    <Open>13.998</Open>
+    <High>15.2645</High>
+    <Low>13.9347</Low>
+    <Close>15.1343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-04</Date>
+    <Open>15.1328</Open>
+    <High>15.3914</High>
+    <Low>14.3736</Low>
+    <Close>14.4733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-05</Date>
+    <Open>14.13</Open>
+    <High>14.2014</High>
+    <Low>13.83</Low>
+    <Close>14.1614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-06</Date>
+    <Open>14.1614</Open>
+    <High>14.5715</High>
+    <Low>13.0387</Low>
+    <Close>13.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-07</Date>
+    <Open>13.24</Open>
+    <High>13.7211</High>
+    <Low>12.8496</Low>
+    <Close>13.611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-08</Date>
+    <Open>13.611</Open>
+    <High>14.0711</High>
+    <Low>13.3412</Low>
+    <Close>13.7521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-09</Date>
+    <Open>13.7519</Open>
+    <High>15.2338</High>
+    <Low>13.7319</Low>
+    <Close>14.575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-10</Date>
+    <Open>14.5754</Open>
+    <High>15.0056</High>
+    <Low>14.3359</Low>
+    <Close>14.6428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-11</Date>
+    <Open>14.6629</Open>
+    <High>14.8053</High>
+    <Low>14.1035</Low>
+    <Close>14.2334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-12</Date>
+    <Open>14.2434</Open>
+    <High>15.053</High>
+    <Low>14.1024</Low>
+    <Close>14.2126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-13</Date>
+    <Open>14.2043</Open>
+    <High>14.474</High>
+    <Low>13.0805</Low>
+    <Close>13.2903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-14</Date>
+    <Open>13.2701</Open>
+    <High>13.4507</High>
+    <Low>12.8405</Low>
+    <Close>13.2833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-15</Date>
+    <Open>13.2833</Open>
+    <High>13.3931</High>
+    <Low>12.5672</Low>
+    <Close>12.9388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-16</Date>
+    <Open>12.9291</Open>
+    <High>12.9293</High>
+    <Low>12.4389</Low>
+    <Close>12.7887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-17</Date>
+    <Open>12.8</Open>
+    <High>13.2</High>
+    <Low>12.77</Low>
+    <Close>13.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-18</Date>
+    <Open>13.05</Open>
+    <High>13.27</High>
+    <Low>12.0088</Low>
+    <Close>12.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-19</Date>
+    <Open>12.14</Open>
+    <High>12.3425</High>
+    <Low>11.64</Low>
+    <Close>12.2512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-20</Date>
+    <Open>12.2612</Open>
+    <High>12.8413</High>
+    <Low>12.0424</Low>
+    <Close>12.2812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-21</Date>
+    <Open>12.2501</Open>
+    <High>12.9339</High>
+    <Low>11.8</Low>
+    <Close>11.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-22</Date>
+    <Open>11.87</Open>
+    <High>12.49</High>
+    <Low>11.66</Low>
+    <Close>12.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-23</Date>
+    <Open>12.24</Open>
+    <High>13.44</High>
+    <Low>12.24</Low>
+    <Close>13.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-24</Date>
+    <Open>13.3387</Open>
+    <High>13.6988</High>
+    <Low>12.8708</Low>
+    <Close>12.921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-25</Date>
+    <Open>12.9013</Open>
+    <High>12.9113</High>
+    <Low>12.3005</Low>
+    <Close>12.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-26</Date>
+    <Open>12.35</Open>
+    <High>12.5098</High>
+    <Low>12.0912</Low>
+    <Close>12.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-27</Date>
+    <Open>12.32</Open>
+    <High>12.92</High>
+    <Low>12.14</Low>
+    <Close>12.3488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-28</Date>
+    <Open>12.3588</Open>
+    <High>12.62</High>
+    <Low>11.8688</Low>
+    <Close>12.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-29</Date>
+    <Open>12.61</Open>
+    <High>12.7113</High>
+    <Low>12.1888</Low>
+    <Close>12.6713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-09-30</Date>
+    <Open>12.68</Open>
+    <High>12.8939</High>
+    <Low>12.44</Low>
+    <Close>12.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-01</Date>
+    <Open>12.49</Open>
+    <High>12.77</High>
+    <Low>12.44</Low>
+    <Close>12.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-02</Date>
+    <Open>12.58</Open>
+    <High>12.6213</High>
+    <Low>12.2012</Low>
+    <Close>12.4043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-03</Date>
+    <Open>12.396</Open>
+    <High>12.6113</High>
+    <Low>12.027</Low>
+    <Close>12.5698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-04</Date>
+    <Open>12.5845</Open>
+    <High>13.0303</High>
+    <Low>12.5717</Low>
+    <Close>12.8877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-05</Date>
+    <Open>12.8844</Open>
+    <High>13.0946</High>
+    <Low>12.52</Low>
+    <Close>12.7313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-06</Date>
+    <Open>12.722</Open>
+    <High>13.0423</High>
+    <Low>12.6518</Low>
+    <Close>12.6922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-07</Date>
+    <Open>12.6922</Open>
+    <High>12.7422</High>
+    <Low>12.3599</Low>
+    <Close>12.4617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-08</Date>
+    <Open>12.4512</Open>
+    <High>12.5716</High>
+    <Low>12.2632</Low>
+    <Close>12.2732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-09</Date>
+    <Open>12.2832</Open>
+    <High>12.5713</High>
+    <Low>12.2631</Low>
+    <Close>12.4834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-10</Date>
+    <Open>12.493</Open>
+    <High>12.6105</High>
+    <Low>12.1646</Low>
+    <Close>12.1987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-11</Date>
+    <Open>12.1929</Open>
+    <High>12.2027</High>
+    <Low>11.5051</Low>
+    <Close>11.5573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-12</Date>
+    <Open>11.5435</Open>
+    <High>11.7293</High>
+    <Low>11.4469</Low>
+    <Close>11.6033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-13</Date>
+    <Open>11.6198</Open>
+    <High>11.6299</High>
+    <Low>10.0892</Low>
+    <Close>11.2009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-14</Date>
+    <Open>11.201</Open>
+    <High>11.521</High>
+    <Low>10.6301</Low>
+    <Close>10.6504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-15</Date>
+    <Open>10.6504</Open>
+    <High>11.0605</High>
+    <Low>10.6403</Low>
+    <Close>10.9005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-16</Date>
+    <Open>10.9</Open>
+    <High>11.1899</High>
+    <Low>10.7507</Low>
+    <Close>10.9504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-17</Date>
+    <Open>10.9305</Open>
+    <High>11.231</High>
+    <Low>10.8701</Low>
+    <Close>11.1402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-18</Date>
+    <Open>11.1503</Open>
+    <High>11.2806</High>
+    <Low>10.7501</Low>
+    <Close>10.9307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-19</Date>
+    <Open>10.9311</Open>
+    <High>10.9707</High>
+    <Low>10.36</Low>
+    <Close>10.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-20</Date>
+    <Open>10.4399</Open>
+    <High>10.4399</High>
+    <Low>9.47905</Low>
+    <Close>9.64932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-21</Date>
+    <Open>9.64932</Open>
+    <High>9.66923</High>
+    <Low>8.64974</Low>
+    <Close>9.00072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-22</Date>
+    <Open>9.00063</Open>
+    <High>9.30037</High>
+    <Low>8.8107</Low>
+    <Close>8.97081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-23</Date>
+    <Open>8.97081</Open>
+    <High>9.05045</High>
+    <Low>8.67087</Low>
+    <Close>8.94116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-24</Date>
+    <Open>8.94107</Open>
+    <High>9.09082</High>
+    <Low>8.28025</Low>
+    <Close>8.29033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-25</Date>
+    <Open>8.28033</Open>
+    <High>9.39047</High>
+    <Low>8.18041</Low>
+    <Close>9.04289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-26</Date>
+    <Open>9.03298</Open>
+    <High>9.47246</High>
+    <Low>8.96305</Low>
+    <Close>9.13256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-27</Date>
+    <Open>9.11255</Open>
+    <High>9.64212</High>
+    <Low>8.96991</Low>
+    <Close>9.09055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-28</Date>
+    <Open>9.09055</Open>
+    <High>9.24185</High>
+    <Low>8.71035</Low>
+    <Close>9.072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-29</Date>
+    <Open>9.07181</Open>
+    <High>9.55334</High>
+    <Low>9.07181</Low>
+    <Close>9.34215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-30</Date>
+    <Open>9.34224</Open>
+    <High>10.322</High>
+    <Low>9.06163</Low>
+    <Close>9.22184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-10-31</Date>
+    <Open>9.21184</Open>
+    <High>9.33</High>
+    <Low>8.98063</Low>
+    <Close>9.15927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-01</Date>
+    <Open>9.15945</Open>
+    <High>9.25815</High>
+    <Low>9.0182</Low>
+    <Close>9.10909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-02</Date>
+    <Open>9.10891</Open>
+    <High>9.17881</High>
+    <Low>8.45958</Low>
+    <Close>8.59948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-03</Date>
+    <Open>8.58948</Open>
+    <High>9.06891</High>
+    <Low>8.56949</Low>
+    <Close>8.75991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-04</Date>
+    <Open>8.76</Open>
+    <High>10.0511</High>
+    <Low>8.68965</Low>
+    <Close>9.77068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-05</Date>
+    <Open>9.76078</Open>
+    <High>11.8312</High>
+    <Low>9.64077</Low>
+    <Close>10.6505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-06</Date>
+    <Open>10.6406</Open>
+    <High>10.8703</High>
+    <Low>10.0612</Low>
+    <Close>10.1607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-07</Date>
+    <Open>10.1707</Open>
+    <High>10.3305</High>
+    <Low>9.50085</Low>
+    <Close>9.67126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-08</Date>
+    <Open>9.6729</Open>
+    <High>10.2951</High>
+    <Low>6.25813</Low>
+    <Close>7.77325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-09</Date>
+    <Open>7.75319</Open>
+    <High>8.11474</High>
+    <Low>5.81152</Low>
+    <Close>6.06492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-10</Date>
+    <Open>6.05532</Open>
+    <High>7.96187</High>
+    <Low>5.92312</Low>
+    <Close>7.45265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-11</Date>
+    <Open>7.44186</Open>
+    <High>8.412</High>
+    <Low>6.64979</Low>
+    <Close>6.91311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-12</Date>
+    <Open>6.89276</Open>
+    <High>7.04365</High>
+    <Low>6.45835</Low>
+    <Close>6.54819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-13</Date>
+    <Open>6.54819</Open>
+    <High>17.4173</High>
+    <Low>3.9956</Low>
+    <Close>7.07009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-14</Date>
+    <Open>7.07009</Open>
+    <High>7.61856</High>
+    <Low>6.84041</Low>
+    <Close>7.17922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-15</Date>
+    <Open>7.17922</Open>
+    <High>7.42406</High>
+    <Low>7.00299</Low>
+    <Close>7.20279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-16</Date>
+    <Open>7.23117</Open>
+    <High>7.34368</High>
+    <Low>6.84294</Low>
+    <Close>7.12337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-17</Date>
+    <Open>7.11288</Open>
+    <High>7.28424</High>
+    <Low>6.92446</Low>
+    <Close>7.16426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-18</Date>
+    <Open>7.16434</Open>
+    <High>7.29474</High>
+    <Low>7.00145</Low>
+    <Close>7.13179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-19</Date>
+    <Open>7.13179</Open>
+    <High>7.21098</High>
+    <Low>6.9126</Low>
+    <Close>7.14249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-20</Date>
+    <Open>7.13357</Open>
+    <High>7.18252</High>
+    <Low>6.52269</Low>
+    <Close>6.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-21</Date>
+    <Open>6.57006</Open>
+    <High>6.57998</High>
+    <Low>6.08245</Low>
+    <Close>6.25243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-22</Date>
+    <Open>6.25249</Open>
+    <High>7.05103</High>
+    <Low>6.10267</Low>
+    <Close>6.82167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-23</Date>
+    <Open>6.82167</Open>
+    <High>6.97155</High>
+    <Low>6.70202</Low>
+    <Close>6.90247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-24</Date>
+    <Open>6.93237</Open>
+    <High>6.98231</High>
+    <Low>6.60418</Low>
+    <Close>6.75425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-25</Date>
+    <Open>6.76425</Open>
+    <High>6.81434</High>
+    <Low>6.5349</Low>
+    <Close>6.63622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-26</Date>
+    <Open>6.63535</Open>
+    <High>6.78593</High>
+    <Low>6.56619</Low>
+    <Close>6.59611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-27</Date>
+    <Open>6.59611</Open>
+    <High>6.94576</High>
+    <Low>6.57572</Low>
+    <Close>6.86574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-28</Date>
+    <Open>6.85561</Open>
+    <High>6.8565</High>
+    <Low>6.37649</Low>
+    <Close>6.55751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-29</Date>
+    <Open>6.55744</Open>
+    <High>6.90744</High>
+    <Low>6.46728</Low>
+    <Close>6.77749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-11-30</Date>
+    <Open>6.78749</Open>
+    <High>7.09</High>
+    <Low>6.6894</Low>
+    <Close>7.03028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-01</Date>
+    <Open>7.02021</Open>
+    <High>7.0507</High>
+    <Low>6.77</Low>
+    <Close>6.82041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-02</Date>
+    <Open>6.84041</Open>
+    <High>7.07014</High>
+    <Low>6.74067</Low>
+    <Close>7.01042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-03</Date>
+    <Open>7.02042</Open>
+    <High>7.06071</High>
+    <Low>6.67067</Low>
+    <Close>6.73067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-04</Date>
+    <Open>6.73067</Open>
+    <High>6.89069</High>
+    <Low>6.72067</Low>
+    <Close>6.86069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-05</Date>
+    <Open>6.86069</Open>
+    <High>10.3399</High>
+    <Low>6.85068</Low>
+    <Close>8.60017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-06</Date>
+    <Open>8.61086</Open>
+    <High>9.8902</High>
+    <Low>8.26008</Low>
+    <Close>8.89982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-07</Date>
+    <Open>8.88</Open>
+    <High>9.19991</High>
+    <Low>8.19041</Low>
+    <Close>8.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-08</Date>
+    <Open>8.54</Open>
+    <High>8.57043</High>
+    <Low>7.94079</Low>
+    <Close>8.25058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-09</Date>
+    <Open>8.25083</Open>
+    <High>8.31066</High>
+    <Low>7.88039</Low>
+    <Close>8.06024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-10</Date>
+    <Open>8.06032</Open>
+    <High>8.70009</High>
+    <Low>7.86008</Low>
+    <Close>8.41983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-11</Date>
+    <Open>8.41983</Open>
+    <High>8.42992</High>
+    <Low>7.92079</Low>
+    <Close>7.9816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-12</Date>
+    <Open>8.0016</Open>
+    <High>8.09081</High>
+    <Low>7.54075</Low>
+    <Close>7.69069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-13</Date>
+    <Open>7.70054</Open>
+    <High>7.8311</High>
+    <Low>7.24188</Low>
+    <Close>7.64816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-14</Date>
+    <Open>7.63817</Open>
+    <High>8.16853</High>
+    <Low>7.56962</Low>
+    <Close>7.67054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-15</Date>
+    <Open>7.67</Open>
+    <High>7.78156</High>
+    <Low>7.45149</Low>
+    <Close>7.47149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-16</Date>
+    <Open>7.48075</Open>
+    <High>7.64076</High>
+    <Low>6.55065</Low>
+    <Close>6.71067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-17</Date>
+    <Open>6.71067</Open>
+    <High>7.00091</High>
+    <Low>6.52065</Low>
+    <Close>6.97091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-18</Date>
+    <Open>6.9807</Open>
+    <High>6.9807</High>
+    <Low>6.76068</Low>
+    <Close>6.87082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-19</Date>
+    <Open>6.86</Open>
+    <High>7.15064</High>
+    <Low>6.35006</Low>
+    <Close>6.50993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-20</Date>
+    <Open>6.49994</Open>
+    <High>7.00986</High>
+    <Low>6.48006</Low>
+    <Close>6.97028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-21</Date>
+    <Open>6.99028</Open>
+    <High>7.01028</High>
+    <Low>6.72993</Low>
+    <Close>6.81027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-22</Date>
+    <Open>6.81034</Open>
+    <High>7.24</High>
+    <Low>6.67987</Low>
+    <Close>7.0488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-23</Date>
+    <Open>7.0388</Open>
+    <High>7.17892</High>
+    <Low>6.94903</Low>
+    <Close>7.06929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-24</Date>
+    <Open>7.05929</Open>
+    <High>7.14943</High>
+    <Low>6.9593</Low>
+    <Close>6.97951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-25</Date>
+    <Open>6.9707</Open>
+    <High>7.04958</High>
+    <Low>6.76939</Low>
+    <Close>6.87911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-26</Date>
+    <Open>6.87917</Open>
+    <High>6.9693</High>
+    <Low>6.75872</Low>
+    <Close>6.82863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-27</Date>
+    <Open>6.82863</Open>
+    <High>6.92861</High>
+    <Low>6.56698</Low>
+    <Close>6.6574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-28</Date>
+    <Open>6.6574</Open>
+    <High>6.72724</High>
+    <Low>6.17815</Low>
+    <Close>6.24662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-29</Date>
+    <Open>6.25668</Open>
+    <High>6.33645</High>
+    <Low>5.86753</Low>
+    <Close>6.02723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-30</Date>
+    <Open>6.01729</Open>
+    <High>6.19721</High>
+    <Low>5.83714</Low>
+    <Close>5.93983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2022-12-31</Date>
+    <Open>5.93957</Open>
+    <High>6.09147</High>
+    <Low>5.93947</Low>
+    <Close>6.02609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-01</Date>
+    <Open>6.02273</Open>
+    <High>6.48435</High>
+    <Low>5.94115</Low>
+    <Close>6.31923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-02</Date>
+    <Open>6.31881</Open>
+    <High>6.46322</High>
+    <Low>6.0988</Low>
+    <Close>6.39345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-03</Date>
+    <Open>6.39645</Open>
+    <High>6.55134</High>
+    <Low>6.32521</Low>
+    <Close>6.51476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-04</Date>
+    <Open>6.51366</Open>
+    <High>6.76919</High>
+    <Low>6.48466</Low>
+    <Close>6.59072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-05</Date>
+    <Open>6.59072</Open>
+    <High>7.11539</High>
+    <Low>6.59072</Low>
+    <Close>6.76943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-06</Date>
+    <Open>6.77667</Open>
+    <High>6.85186</High>
+    <Low>6.45955</Low>
+    <Close>6.81039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-07</Date>
+    <Open>6.81282</Open>
+    <High>7.12063</High>
+    <Low>6.77697</Low>
+    <Close>6.85735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-08</Date>
+    <Open>6.85196</Open>
+    <High>7.21252</High>
+    <Low>6.74042</Low>
+    <Close>7.18554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-09</Date>
+    <Open>7.19884</Open>
+    <High>7.85854</High>
+    <Low>7.15778</Low>
+    <Close>7.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-10</Date>
+    <Open>7.36</Open>
+    <High>7.58038</High>
+    <Low>7.12964</Low>
+    <Close>7.50105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-11</Date>
+    <Open>7.4912</Open>
+    <High>7.54121</High>
+    <Low>7.11886</Low>
+    <Close>7.35934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-12</Date>
+    <Open>7.35948</Open>
+    <High>8.12967</High>
+    <Low>7.35948</Low>
+    <Close>7.9808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-13</Date>
+    <Open>7.9708</Open>
+    <High>9.34084</High>
+    <Low>7.79938</Low>
+    <Close>9.00081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-14</Date>
+    <Open>9.01081</Open>
+    <High>10.2319</High>
+    <Low>8.84186</Low>
+    <Close>9.38047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-15</Date>
+    <Open>9.37094</Open>
+    <High>9.4617</High>
+    <Low>8.71131</Low>
+    <Close>9.3228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-16</Date>
+    <Open>9.30279</Open>
+    <High>9.54353</High>
+    <Low>8.53051</Low>
+    <Close>8.97009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-17</Date>
+    <Open>8.96009</Open>
+    <High>9.21083</High>
+    <Low>8.65043</Low>
+    <Close>8.89098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-18</Date>
+    <Open>8.86097</Open>
+    <High>9.00063</High>
+    <Low>7.85969</Low>
+    <Close>8.13959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-19</Date>
+    <Open>8.13959</Open>
+    <High>8.51915</High>
+    <Low>7.98</Low>
+    <Close>8.27967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-20</Date>
+    <Open>8.2805</Open>
+    <High>9.15183</High>
+    <Low>8.17984</Low>
+    <Close>9.03163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-21</Date>
+    <Open>9.04163</Open>
+    <High>9.65174</High>
+    <Low>8.96466</Low>
+    <Close>9.12182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-22</Date>
+    <Open>9.10146</Open>
+    <High>11.8924</High>
+    <Low>8.92152</Low>
+    <Close>11.8024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-23</Date>
+    <Open>11.7624</Open>
+    <High>13.9319</High>
+    <Low>11.5822</Low>
+    <Close>12.372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-24</Date>
+    <Open>12.4017</Open>
+    <High>12.4829</High>
+    <Low>10.9416</Low>
+    <Close>11.0102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-25</Date>
+    <Open>11.0202</Open>
+    <High>12.3212</High>
+    <Low>10.8216</Low>
+    <Close>11.6619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-26</Date>
+    <Open>11.6319</Open>
+    <High>12.4621</High>
+    <Low>11.3709</Low>
+    <Close>11.861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-27</Date>
+    <Open>11.861</Open>
+    <High>11.9707</High>
+    <Low>11.0431</Low>
+    <Close>11.4143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-28</Date>
+    <Open>11.4139</Open>
+    <High>12.2931</High>
+    <Low>11.222</Low>
+    <Close>11.3122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-29</Date>
+    <Open>11.3123</Open>
+    <High>12.3622</High>
+    <Low>11.2526</Low>
+    <Close>12.1306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-30</Date>
+    <Open>12.1305</Open>
+    <High>12.3506</High>
+    <Low>10.5599</Low>
+    <Close>10.7207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-01-31</Date>
+    <Open>10.7106</Open>
+    <High>11.0103</High>
+    <Low>10.4793</Low>
+    <Close>10.831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-01</Date>
+    <Open>10.841</Open>
+    <High>11.421</High>
+    <Low>10.2205</Low>
+    <Close>11.3807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-02</Date>
+    <Open>11.3806</Open>
+    <High>11.9812</High>
+    <Low>11.1506</Low>
+    <Close>11.2723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-03</Date>
+    <Open>11.2823</Open>
+    <High>11.6315</High>
+    <Low>11.0419</Low>
+    <Close>11.4709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-04</Date>
+    <Open>11.4909</Open>
+    <High>11.7608</High>
+    <Low>11.1708</Low>
+    <Close>11.541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-05</Date>
+    <Open>11.5509</Open>
+    <High>11.8524</High>
+    <Low>10.6329</Low>
+    <Close>10.9127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-06</Date>
+    <Open>10.9028</Open>
+    <High>11.1725</High>
+    <Low>10.7319</Low>
+    <Close>10.8104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-07</Date>
+    <Open>10.8004</Open>
+    <High>11.6602</High>
+    <Low>10.5709</Low>
+    <Close>11.5708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-08</Date>
+    <Open>11.5808</Open>
+    <High>12.3478</High>
+    <Low>11.3313</Low>
+    <Close>12.0191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-09</Date>
+    <Open>12.0042</Open>
+    <High>12.4392</High>
+    <Low>10.028</Low>
+    <Close>10.1295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-10</Date>
+    <Open>10.133</Open>
+    <High>10.3533</High>
+    <Low>9.92335</Low>
+    <Close>10.0519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-11</Date>
+    <Open>10.0478</Open>
+    <High>10.4716</High>
+    <Low>9.99019</Low>
+    <Close>10.3507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-12</Date>
+    <Open>10.3523</Open>
+    <High>10.3856</High>
+    <Low>9.70901</Low>
+    <Close>9.92901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-13</Date>
+    <Open>9.92987</Open>
+    <High>9.95527</High>
+    <Low>9.18186</Low>
+    <Close>9.4092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-14</Date>
+    <Open>9.40709</Open>
+    <High>9.98268</High>
+    <Low>9.38301</Low>
+    <Close>9.89124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-15</Date>
+    <Open>9.8828</Open>
+    <High>10.7536</High>
+    <Low>9.79079</Low>
+    <Close>10.7514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-16</Date>
+    <Open>10.7515</Open>
+    <High>11.1615</High>
+    <Low>10.2192</Low>
+    <Close>10.285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-17</Date>
+    <Open>10.2826</Open>
+    <High>10.8028</High>
+    <Low>10.0789</Low>
+    <Close>10.6201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-18</Date>
+    <Open>10.615</Open>
+    <High>11.3594</High>
+    <Low>10.6093</Low>
+    <Close>10.8941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-19</Date>
+    <Open>10.8896</Open>
+    <High>11.1752</High>
+    <Low>10.6242</Low>
+    <Close>10.946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-20</Date>
+    <Open>10.9502</Open>
+    <High>11.3894</High>
+    <Low>10.5331</Low>
+    <Close>11.2082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-21</Date>
+    <Open>11.208</Open>
+    <High>11.5887</High>
+    <Low>10.5947</Low>
+    <Close>10.7143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-22</Date>
+    <Open>10.7115</Open>
+    <High>10.8435</High>
+    <Low>10.0999</Low>
+    <Close>10.486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-23</Date>
+    <Open>10.4906</Open>
+    <High>10.7854</High>
+    <Low>10.3071</Low>
+    <Close>10.4123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-24</Date>
+    <Open>10.4098</Open>
+    <High>10.6427</High>
+    <Low>9.77766</Low>
+    <Close>9.88917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-25</Date>
+    <Open>9.88927</Open>
+    <High>10.1883</High>
+    <Low>9.45697</Low>
+    <Close>9.54026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-26</Date>
+    <Open>9.80318</Open>
+    <High>10.04</High>
+    <Low>9.71903</Low>
+    <Close>9.90895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-27</Date>
+    <Open>10.0085</Open>
+    <High>10.1922</High>
+    <Low>9.74863</Low>
+    <Close>9.94468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-02-28</Date>
+    <Open>9.94468</Open>
+    <High>9.99539</High>
+    <Low>9.55331</Low>
+    <Close>9.67796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-01</Date>
+    <Open>9.67665</Open>
+    <High>10.0589</High>
+    <Low>9.51944</Low>
+    <Close>9.96821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-02</Date>
+    <Open>9.96328</Open>
+    <High>10.0503</High>
+    <Low>9.54907</Low>
+    <Close>9.73894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-03</Date>
+    <Open>9.75294</Open>
+    <High>9.77292</High>
+    <Low>8.80705</Low>
+    <Close>9.05278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-04</Date>
+    <Open>9.05213</Open>
+    <High>9.26721</High>
+    <Low>8.54112</Low>
+    <Close>8.70118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-05</Date>
+    <Open>8.70127</Open>
+    <High>8.97683</High>
+    <Low>8.68586</Low>
+    <Close>8.81922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-06</Date>
+    <Open>8.81941</Open>
+    <High>8.98101</High>
+    <Low>8.50415</Low>
+    <Close>8.90114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-07</Date>
+    <Open>8.89965</Open>
+    <High>9.01093</High>
+    <Low>8.42333</Low>
+    <Close>8.50908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-08</Date>
+    <Open>8.51254</Open>
+    <High>8.67883</High>
+    <Low>7.77024</Low>
+    <Close>7.79124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-09</Date>
+    <Open>7.80297</Open>
+    <High>8.22778</High>
+    <Low>7.23591</Low>
+    <Close>7.30075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-10</Date>
+    <Open>7.29746</Open>
+    <High>7.43049</High>
+    <Low>6.8771</Low>
+    <Close>7.41188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-11</Date>
+    <Open>7.41847</Open>
+    <High>7.75288</High>
+    <Low>7.0174</Low>
+    <Close>7.25173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-12</Date>
+    <Open>7.25349</Open>
+    <High>7.84437</High>
+    <Low>7.14066</Low>
+    <Close>7.79097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-13</Date>
+    <Open>7.79243</Open>
+    <High>8.46071</High>
+    <Low>7.71884</Low>
+    <Close>8.35883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-14</Date>
+    <Open>8.35883</Open>
+    <High>9.06031</High>
+    <Low>8.07647</Low>
+    <Close>8.58603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-15</Date>
+    <Open>8.58837</Open>
+    <High>8.82849</High>
+    <Low>7.70779</Low>
+    <Close>7.87136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-16</Date>
+    <Open>7.85616</Open>
+    <High>8.10003</High>
+    <Low>7.72948</Low>
+    <Close>8.0156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-17</Date>
+    <Open>8.01414</Open>
+    <High>8.86938</High>
+    <Low>7.89602</Low>
+    <Close>8.78886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-18</Date>
+    <Open>8.79601</Open>
+    <High>9.46568</High>
+    <Low>8.76103</Low>
+    <Close>8.88826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-19</Date>
+    <Open>8.90848</Open>
+    <High>9.83587</High>
+    <Low>8.69191</Low>
+    <Close>9.13054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-20</Date>
+    <Open>9.134</Open>
+    <High>9.29565</High>
+    <Low>8.51913</Low>
+    <Close>8.76012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-21</Date>
+    <Open>8.75676</Open>
+    <High>8.92121</High>
+    <Low>8.25072</Low>
+    <Close>8.80152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-22</Date>
+    <Open>8.79861</Open>
+    <High>8.89185</High>
+    <Low>8.12822</Low>
+    <Close>8.31577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-23</Date>
+    <Open>8.31819</Open>
+    <High>8.83592</High>
+    <Low>8.24072</Low>
+    <Close>8.66365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-24</Date>
+    <Open>8.66347</Open>
+    <High>8.73103</High>
+    <Low>8.12091</Low>
+    <Close>8.34743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-25</Date>
+    <Open>8.34776</Open>
+    <High>8.66246</High>
+    <Low>8.13795</Low>
+    <Close>8.21797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-26</Date>
+    <Open>8.22634</Open>
+    <High>8.50093</High>
+    <Low>8.20635</Low>
+    <Close>8.39781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-27</Date>
+    <Open>8.40124</Open>
+    <High>8.45639</High>
+    <Low>7.86533</Low>
+    <Close>7.96532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-28</Date>
+    <Open>7.95516</Open>
+    <High>8.32637</High>
+    <Low>7.91186</Low>
+    <Close>8.19268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-29</Date>
+    <Open>8.19156</Open>
+    <High>8.59286</High>
+    <Low>8.1805</Low>
+    <Close>8.52388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-30</Date>
+    <Open>8.52915</Open>
+    <High>8.62363</High>
+    <Low>8.11316</Low>
+    <Close>8.26844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-03-31</Date>
+    <Open>8.27236</Open>
+    <High>8.38139</High>
+    <Low>8.07394</Low>
+    <Close>8.37563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-01</Date>
+    <Open>8.3761</Open>
+    <High>8.49603</High>
+    <Low>8.29579</Low>
+    <Close>8.4787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-02</Date>
+    <Open>8.47836</Open>
+    <High>8.59978</High>
+    <Low>8.21465</Low>
+    <Close>8.22681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-03</Date>
+    <Open>8.22672</Open>
+    <High>8.43861</High>
+    <Low>8.07348</Low>
+    <Close>8.2013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-04</Date>
+    <Open>8.20045</Open>
+    <High>8.4929</High>
+    <Low>8.17339</Low>
+    <Close>8.49273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-05</Date>
+    <Open>8.44129</Open>
+    <High>8.71509</High>
+    <Low>8.36059</Low>
+    <Close>8.53137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-06</Date>
+    <Open>8.53372</Open>
+    <High>8.78465</High>
+    <Low>8.39079</Low>
+    <Close>8.4977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-07</Date>
+    <Open>8.4972</Open>
+    <High>8.93854</High>
+    <Low>8.46974</Low>
+    <Close>8.64902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-08</Date>
+    <Open>8.64707</Open>
+    <High>8.83956</High>
+    <Low>8.47162</Low>
+    <Close>8.475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-09</Date>
+    <Open>8.47919</Open>
+    <High>8.58075</High>
+    <Low>8.34537</Low>
+    <Close>8.46732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-10</Date>
+    <Open>8.50125</Open>
+    <High>8.62587</High>
+    <Low>8.37132</Low>
+    <Close>8.59447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-11</Date>
+    <Open>8.58212</Open>
+    <High>8.8283</High>
+    <Low>8.57075</Low>
+    <Close>8.70033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-12</Date>
+    <Open>8.69704</Open>
+    <High>8.74312</High>
+    <Low>8.27998</Low>
+    <Close>8.59939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-13</Date>
+    <Open>8.60094</Open>
+    <High>8.83077</High>
+    <Low>8.49963</Low>
+    <Close>8.75734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-14</Date>
+    <Open>8.75442</Open>
+    <High>9.26054</High>
+    <Low>8.74296</Low>
+    <Close>9.05571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-15</Date>
+    <Open>9.05822</Open>
+    <High>9.16568</High>
+    <Low>8.97003</Low>
+    <Close>9.01416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-16</Date>
+    <Open>9.0165</Open>
+    <High>9.3529</High>
+    <Low>8.85078</Low>
+    <Close>9.31189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-17</Date>
+    <Open>9.31268</Open>
+    <High>9.31448</High>
+    <Low>9.00494</Low>
+    <Close>9.12371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-18</Date>
+    <Open>9.13341</Open>
+    <High>9.58712</High>
+    <Low>9.12117</Low>
+    <Close>9.31973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-19</Date>
+    <Open>9.34131</Open>
+    <High>9.40973</High>
+    <Low>8.37116</Low>
+    <Close>8.543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-20</Date>
+    <Open>8.55014</Open>
+    <High>8.57287</High>
+    <Low>8.10845</Low>
+    <Close>8.1511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-21</Date>
+    <Open>8.15073</Open>
+    <High>8.30537</High>
+    <Low>7.82613</Low>
+    <Close>7.8492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-22</Date>
+    <Open>7.8492</Open>
+    <High>8.06578</High>
+    <Low>7.78961</Low>
+    <Close>8.01983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-23</Date>
+    <Open>8.02087</Open>
+    <High>8.07006</High>
+    <Low>7.70214</Low>
+    <Close>7.80179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-24</Date>
+    <Open>7.78654</Open>
+    <High>8.01887</High>
+    <Low>7.69343</Low>
+    <Close>7.86117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-25</Date>
+    <Open>7.87412</Open>
+    <High>8.01515</High>
+    <Low>7.61901</Low>
+    <Close>7.99311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-26</Date>
+    <Open>7.99038</Open>
+    <High>8.29001</High>
+    <Low>7.43886</Low>
+    <Close>7.69561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-27</Date>
+    <Open>7.74102</Open>
+    <High>8.04195</High>
+    <Low>7.73124</Low>
+    <Close>7.9812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-28</Date>
+    <Open>7.98529</Open>
+    <High>8.04301</High>
+    <Low>7.78229</Low>
+    <Close>7.97512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-29</Date>
+    <Open>7.97732</Open>
+    <High>8.07741</High>
+    <Low>7.90436</Low>
+    <Close>8.00313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-04-30</Date>
+    <Open>8.00621</Open>
+    <High>8.12779</High>
+    <Low>7.86684</Low>
+    <Close>7.94294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-01</Date>
+    <Open>7.94743</Open>
+    <High>7.97767</High>
+    <Low>7.48682</Low>
+    <Close>7.55134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-02</Date>
+    <Open>7.55126</Open>
+    <High>7.66475</High>
+    <Low>7.51859</Low>
+    <Close>7.6142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-03</Date>
+    <Open>7.61935</Open>
+    <High>7.73667</High>
+    <Low>7.38491</Low>
+    <Close>7.73382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-04</Date>
+    <Open>7.74055</Open>
+    <High>7.77416</High>
+    <Low>7.503</Low>
+    <Close>7.54462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-05</Date>
+    <Open>7.54582</Open>
+    <High>7.81064</High>
+    <Low>7.50098</Low>
+    <Close>7.72549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-06</Date>
+    <Open>7.73244</Open>
+    <High>7.76922</High>
+    <Low>7.29978</Low>
+    <Close>7.35261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-07</Date>
+    <Open>7.34964</Open>
+    <High>7.45464</High>
+    <Low>7.30005</Low>
+    <Close>7.35152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-08</Date>
+    <Open>7.35552</Open>
+    <High>7.36481</High>
+    <Low>6.51523</Low>
+    <Close>6.80382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-09</Date>
+    <Open>6.81445</Open>
+    <High>7.03243</High>
+    <Low>6.75235</Low>
+    <Close>6.92273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-10</Date>
+    <Open>6.91828</Open>
+    <High>7.08247</High>
+    <Low>6.62121</Low>
+    <Close>6.94516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-11</Date>
+    <Open>6.94722</Open>
+    <High>7.00985</High>
+    <Low>6.61754</Low>
+    <Close>6.7564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-12</Date>
+    <Open>6.7564</Open>
+    <High>6.79322</High>
+    <Low>6.50215</Low>
+    <Close>6.75976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-13</Date>
+    <Open>6.75976</Open>
+    <High>6.83485</High>
+    <Low>6.67215</Low>
+    <Close>6.78952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-14</Date>
+    <Open>6.78534</Open>
+    <High>6.82926</High>
+    <Low>6.68591</Low>
+    <Close>6.76811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-15</Date>
+    <Open>6.76563</Open>
+    <High>6.90779</High>
+    <Low>6.71054</Low>
+    <Close>6.83614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-16</Date>
+    <Open>6.83614</Open>
+    <High>6.86386</High>
+    <Low>6.71874</Low>
+    <Close>6.8054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-17</Date>
+    <Open>6.80707</Open>
+    <High>8.24247</High>
+    <Low>6.7936</Low>
+    <Close>7.30511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-18</Date>
+    <Open>7.30237</Open>
+    <High>7.56046</High>
+    <Low>6.92032</Low>
+    <Close>7.06402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-19</Date>
+    <Open>7.06402</Open>
+    <High>7.11942</High>
+    <Low>6.91929</Low>
+    <Close>6.98385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-20</Date>
+    <Open>6.98651</Open>
+    <High>7.0619</High>
+    <Low>6.93758</Low>
+    <Close>7.04551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-21</Date>
+    <Open>7.04613</Open>
+    <High>7.06816</High>
+    <Low>6.76157</Low>
+    <Close>6.83444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-22</Date>
+    <Open>6.83478</Open>
+    <High>6.95511</High>
+    <Low>6.7195</Low>
+    <Close>6.92237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-23</Date>
+    <Open>6.92256</Open>
+    <High>7.04808</High>
+    <Low>6.83192</Low>
+    <Close>6.91501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-24</Date>
+    <Open>6.9116</Open>
+    <High>6.932</High>
+    <Low>6.53858</Low>
+    <Close>6.65668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-25</Date>
+    <Open>6.65607</Open>
+    <High>7.18035</High>
+    <Low>6.51032</Low>
+    <Close>6.91384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-26</Date>
+    <Open>6.91859</Open>
+    <High>6.94661</High>
+    <Low>6.73083</Low>
+    <Close>6.87915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-27</Date>
+    <Open>6.87577</Open>
+    <High>6.92068</High>
+    <Low>6.81353</Low>
+    <Close>6.90989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AXS">
+    <Date>2023-05-28</Date>
+    <Open>6.91316</Open>
+    <High>7.18454</High>
+    <Low>6.9113</Low>
+    <Close>7.12239</Close>
+  </Cryptocurrency>
+</Root>

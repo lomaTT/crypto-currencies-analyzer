@@ -1,0 +1,2677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-13</Date>
+    <Open>1.95448</Open>
+    <High>1.95467</High>
+    <Low>1.95428</Low>
+    <Close>1.95428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-14</Date>
+    <Open>1.91614</Open>
+    <High>2.08401</High>
+    <Low>1.90317</Low>
+    <Close>2.03072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-15</Date>
+    <Open>2.02816</Open>
+    <High>2.03288</High>
+    <Low>1.9836</Low>
+    <Close>2.01201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-16</Date>
+    <Open>2.0114</Open>
+    <High>2.02539</High>
+    <Low>1.90042</Low>
+    <Close>1.94752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-17</Date>
+    <Open>1.94808</Open>
+    <High>1.96384</High>
+    <Low>1.83461</Low>
+    <Close>1.83579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-18</Date>
+    <Open>1.83779</Open>
+    <High>1.85877</High>
+    <Low>1.62089</Low>
+    <Close>1.62389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-19</Date>
+    <Open>1.62389</Open>
+    <High>1.64951</High>
+    <Low>1.49351</Low>
+    <Close>1.64851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-20</Date>
+    <Open>1.64638</Open>
+    <High>1.67798</High>
+    <Low>1.55042</Low>
+    <Close>1.6778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-21</Date>
+    <Open>1.67337</Open>
+    <High>1.82793</High>
+    <Low>1.61381</Low>
+    <Close>1.78558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-22</Date>
+    <Open>1.78689</Open>
+    <High>1.86211</High>
+    <Low>1.74119</Low>
+    <Close>1.85223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-23</Date>
+    <Open>1.85832</Open>
+    <High>1.88771</High>
+    <Low>1.8186</Low>
+    <Close>1.84263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-24</Date>
+    <Open>1.84609</Open>
+    <High>1.84647</High>
+    <Low>1.71905</Low>
+    <Close>1.80017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-25</Date>
+    <Open>1.79436</Open>
+    <High>1.89019</High>
+    <Low>1.79349</Low>
+    <Close>1.86055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-26</Date>
+    <Open>1.86181</Open>
+    <High>1.93376</High>
+    <Low>1.71046</Low>
+    <Close>1.80175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-27</Date>
+    <Open>1.79979</Open>
+    <High>1.84853</High>
+    <Low>1.73586</Low>
+    <Close>1.83845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-28</Date>
+    <Open>1.83078</Open>
+    <High>1.86846</High>
+    <Low>1.77965</Low>
+    <Close>1.82018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-29</Date>
+    <Open>1.82136</Open>
+    <High>1.88598</High>
+    <Low>1.7901</Low>
+    <Close>1.84664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-30</Date>
+    <Open>1.84885</Open>
+    <High>2.24046</High>
+    <Low>1.84885</Low>
+    <Close>2.10194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-05-31</Date>
+    <Open>2.10351</Open>
+    <High>2.23003</High>
+    <Low>2.04374</Low>
+    <Close>2.10119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-01</Date>
+    <Open>2.09821</Open>
+    <High>2.14034</High>
+    <Low>1.9839</Low>
+    <Close>1.99205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-02</Date>
+    <Open>1.98711</Open>
+    <High>2.03</High>
+    <Low>1.94862</Low>
+    <Close>2.02647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-03</Date>
+    <Open>2.02684</Open>
+    <High>2.0326</High>
+    <Low>1.95924</Low>
+    <Close>1.979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-04</Date>
+    <Open>1.97924</Open>
+    <High>1.99493</High>
+    <Low>1.96267</Low>
+    <Close>1.96601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-05</Date>
+    <Open>1.96375</Open>
+    <High>2.0027</High>
+    <Low>1.95188</Low>
+    <Close>1.98442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-06</Date>
+    <Open>1.99346</Open>
+    <High>2.0111</High>
+    <Low>1.94487</Low>
+    <Close>1.98929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-07</Date>
+    <Open>2.00165</Open>
+    <High>2.01024</High>
+    <Low>1.90089</Low>
+    <Close>1.99149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-08</Date>
+    <Open>1.98444</Open>
+    <High>2.00261</High>
+    <Low>1.94934</Low>
+    <Close>1.97372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-09</Date>
+    <Open>1.97344</Open>
+    <High>7.9944</High>
+    <Low>1.92592</Low>
+    <Close>1.98783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-10</Date>
+    <Open>1.98845</Open>
+    <High>1.98845</High>
+    <Low>1.84818</Low>
+    <Close>1.88149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-11</Date>
+    <Open>1.88473</Open>
+    <High>1.88481</High>
+    <Low>1.7977</Low>
+    <Close>1.79869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-12</Date>
+    <Open>1.79797</Open>
+    <High>1.80708</High>
+    <Low>1.69803</Low>
+    <Close>1.73597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-13</Date>
+    <Open>1.7334</Open>
+    <High>1.73343</High>
+    <Low>1.47486</Low>
+    <Close>1.55783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-14</Date>
+    <Open>1.55782</Open>
+    <High>1.61203</High>
+    <Low>1.44383</Low>
+    <Close>1.51418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-15</Date>
+    <Open>1.51417</Open>
+    <High>1.57817</High>
+    <Low>1.29468</Low>
+    <Close>1.43784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-16</Date>
+    <Open>1.44797</Open>
+    <High>1.47338</High>
+    <Low>1.37335</Low>
+    <Close>1.39405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-17</Date>
+    <Open>1.37911</Open>
+    <High>1.40868</High>
+    <Low>1.35382</Low>
+    <Close>1.37535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-18</Date>
+    <Open>1.37336</Open>
+    <High>1.37837</High>
+    <Low>1.24087</Low>
+    <Close>1.24297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-19</Date>
+    <Open>1.24298</Open>
+    <High>1.35637</High>
+    <Low>1.21605</Low>
+    <Close>1.3354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-20</Date>
+    <Open>1.32218</Open>
+    <High>1.33461</High>
+    <Low>1.28348</Low>
+    <Close>1.30236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-21</Date>
+    <Open>1.30319</Open>
+    <High>1.38699</High>
+    <Low>1.30117</Low>
+    <Close>1.34315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-22</Date>
+    <Open>1.34185</Open>
+    <High>1.34521</High>
+    <Low>1.25444</Low>
+    <Close>1.25923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-23</Date>
+    <Open>1.25774</Open>
+    <High>1.32268</High>
+    <Low>1.25762</Low>
+    <Close>1.30769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-24</Date>
+    <Open>1.30969</Open>
+    <High>1.38681</High>
+    <Low>1.26486</Low>
+    <Close>1.29897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-25</Date>
+    <Open>1.2987</Open>
+    <High>1.34611</High>
+    <Low>1.2967</Low>
+    <Close>1.33007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-26</Date>
+    <Open>1.33004</Open>
+    <High>1.38506</High>
+    <Low>1.32908</Low>
+    <Close>1.34718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-27</Date>
+    <Open>1.35118</Open>
+    <High>1.36522</High>
+    <Low>1.3139</Low>
+    <Close>1.33981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-28</Date>
+    <Open>1.3387</Open>
+    <High>1.37657</High>
+    <Low>1.27766</Low>
+    <Close>1.29646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-29</Date>
+    <Open>1.29459</Open>
+    <High>1.29836</High>
+    <Low>1.26223</Low>
+    <Close>1.28544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-06-30</Date>
+    <Open>1.28544</Open>
+    <High>1.29245</High>
+    <Low>1.22317</Low>
+    <Close>1.23751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-01</Date>
+    <Open>1.23751</Open>
+    <High>1.27434</High>
+    <Low>1.21729</Low>
+    <Close>1.25062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-02</Date>
+    <Open>1.25762</Open>
+    <High>1.33939</High>
+    <Low>1.21454</Low>
+    <Close>1.29045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-03</Date>
+    <Open>1.29045</Open>
+    <High>1.29045</High>
+    <Low>1.20056</Low>
+    <Close>1.23739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-04</Date>
+    <Open>1.23739</Open>
+    <High>1.26491</High>
+    <Low>1.20555</Low>
+    <Close>1.22553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-05</Date>
+    <Open>1.22253</Open>
+    <High>1.27959</High>
+    <Low>1.20955</Low>
+    <Close>1.25762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-06</Date>
+    <Open>1.25762</Open>
+    <High>1.29058</High>
+    <Low>1.21866</Low>
+    <Close>1.28858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-07</Date>
+    <Open>1.27859</Open>
+    <High>1.4544</High>
+    <Low>1.27247</Low>
+    <Close>1.34119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-08</Date>
+    <Open>1.34119</Open>
+    <High>1.4971</High>
+    <Low>1.3318</Low>
+    <Close>1.44313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-09</Date>
+    <Open>1.45812</Open>
+    <High>1.56306</High>
+    <Low>1.23426</Low>
+    <Close>1.26924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-10</Date>
+    <Open>1.26911</Open>
+    <High>1.3262</High>
+    <Low>1.26224</Low>
+    <Close>1.29722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-11</Date>
+    <Open>1.29622</Open>
+    <High>1.32394</High>
+    <Low>1.26411</Low>
+    <Close>1.28085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-12</Date>
+    <Open>1.27785</Open>
+    <High>1.28971</High>
+    <Low>1.24875</Low>
+    <Close>1.25649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-13</Date>
+    <Open>1.24971</Open>
+    <High>1.38561</High>
+    <Low>1.24771</Low>
+    <Close>1.3288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-14</Date>
+    <Open>1.32481</Open>
+    <High>1.34479</High>
+    <Low>1.28297</Low>
+    <Close>1.30322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-15</Date>
+    <Open>1.30122</Open>
+    <High>1.46812</High>
+    <Low>1.29409</Low>
+    <Close>1.40358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-16</Date>
+    <Open>1.40258</Open>
+    <High>1.46071</High>
+    <Low>1.35646</Low>
+    <Close>1.36859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-17</Date>
+    <Open>1.33765</Open>
+    <High>1.42259</High>
+    <Low>1.33765</Low>
+    <Close>1.41263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-18</Date>
+    <Open>1.41162</Open>
+    <High>1.47394</High>
+    <Low>1.38156</Low>
+    <Close>1.40468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-19</Date>
+    <Open>1.40368</Open>
+    <High>1.52411</High>
+    <Low>1.40268</Low>
+    <Close>1.51423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-20</Date>
+    <Open>1.514</Open>
+    <High>1.57452</High>
+    <Low>1.50614</Low>
+    <Close>1.53808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-21</Date>
+    <Open>1.53823</Open>
+    <High>1.59043</High>
+    <Low>1.53308</Low>
+    <Close>1.5894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-22</Date>
+    <Open>1.58814</Open>
+    <High>1.65833</High>
+    <Low>1.5841</Low>
+    <Close>1.64036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-23</Date>
+    <Open>1.63931</Open>
+    <High>1.64813</High>
+    <Low>1.52009</Low>
+    <Close>1.54031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-24</Date>
+    <Open>1.54031</Open>
+    <High>1.61311</High>
+    <Low>1.48828</Low>
+    <Close>1.4893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-25</Date>
+    <Open>1.4963</Open>
+    <High>1.5043</High>
+    <Low>1.41516</Low>
+    <Close>1.42111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-26</Date>
+    <Open>1.42311</Open>
+    <High>1.42714</High>
+    <Low>1.35</Low>
+    <Close>1.3652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-27</Date>
+    <Open>1.363</Open>
+    <High>1.42739</High>
+    <Low>1.35409</Low>
+    <Close>1.40931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-28</Date>
+    <Open>1.41134</Open>
+    <High>1.57739</High>
+    <Low>1.40601</Low>
+    <Close>1.51329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-29</Date>
+    <Open>1.51332</Open>
+    <High>1.53241</High>
+    <Low>1.43447</Low>
+    <Close>1.4536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-30</Date>
+    <Open>1.4526</Open>
+    <High>1.54957</High>
+    <Low>1.43057</Low>
+    <Close>1.52452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-07-31</Date>
+    <Open>1.52246</Open>
+    <High>1.52258</High>
+    <Low>1.45835</Low>
+    <Close>1.47835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-01</Date>
+    <Open>1.47835</Open>
+    <High>1.53842</High>
+    <Low>1.4625</Low>
+    <Close>1.46841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-02</Date>
+    <Open>1.46344</Open>
+    <High>1.5274</High>
+    <Low>1.40539</Low>
+    <Close>1.48727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-03</Date>
+    <Open>1.4873</Open>
+    <High>1.56331</High>
+    <Low>1.42327</Low>
+    <Close>1.52638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-04</Date>
+    <Open>1.52737</Open>
+    <High>1.56219</High>
+    <Low>1.44404</Low>
+    <Close>1.50905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-05</Date>
+    <Open>1.50805</Open>
+    <High>1.5762</High>
+    <Low>1.50105</Low>
+    <Close>1.52429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-06</Date>
+    <Open>1.52429</Open>
+    <High>1.55328</High>
+    <Low>1.50032</Low>
+    <Close>1.50535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-07</Date>
+    <Open>1.50533</Open>
+    <High>1.53321</High>
+    <Low>1.49531</Low>
+    <Close>1.51427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-08</Date>
+    <Open>1.51629</Open>
+    <High>2.5275</High>
+    <Low>1.50826</Low>
+    <Close>1.96991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-09</Date>
+    <Open>1.9575</Open>
+    <High>2.05376</High>
+    <Low>1.87287</Low>
+    <Close>2.02614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-10</Date>
+    <Open>2.04885</Open>
+    <High>2.27451</High>
+    <Low>1.91591</Low>
+    <Close>2.07401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-11</Date>
+    <Open>2.06378</Open>
+    <High>2.08131</High>
+    <Low>1.92375</Low>
+    <Close>1.94291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-12</Date>
+    <Open>1.94397</Open>
+    <High>2.10078</High>
+    <Low>1.90295</Low>
+    <Close>1.94187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-13</Date>
+    <Open>1.94178</Open>
+    <High>2.06409</High>
+    <Low>1.92285</Low>
+    <Close>1.96977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-14</Date>
+    <Open>1.97077</Open>
+    <High>1.98675</High>
+    <Low>1.94456</Low>
+    <Close>1.94458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-15</Date>
+    <Open>1.94478</Open>
+    <High>2.33258</High>
+    <Low>1.90351</Low>
+    <Close>2.0775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-16</Date>
+    <Open>2.07846</Open>
+    <High>2.19046</High>
+    <Low>2.05389</Low>
+    <Close>2.08819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-17</Date>
+    <Open>2.09019</Open>
+    <High>2.40514</High>
+    <Low>2.03514</Low>
+    <Close>2.08915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-18</Date>
+    <Open>2.09217</Open>
+    <High>2.15415</High>
+    <Low>2.046</Low>
+    <Close>2.04702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-19</Date>
+    <Open>2.0492</Open>
+    <High>2.05621</High>
+    <Low>1.852</Low>
+    <Close>1.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-20</Date>
+    <Open>1.85606</Open>
+    <High>1.90221</High>
+    <Low>1.77298</Low>
+    <Close>1.78198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-21</Date>
+    <Open>1.78095</Open>
+    <High>1.79098</High>
+    <Low>1.69595</Low>
+    <Close>1.76096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-22</Date>
+    <Open>1.75996</Open>
+    <High>1.76109</High>
+    <Low>1.66788</Low>
+    <Close>1.69571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-23</Date>
+    <Open>1.68775</Open>
+    <High>1.80373</High>
+    <Low>1.6817</Low>
+    <Close>1.73103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-24</Date>
+    <Open>1.734</Open>
+    <High>1.88211</High>
+    <Low>1.67788</Low>
+    <Close>1.73616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-25</Date>
+    <Open>1.73516</Open>
+    <High>1.76707</High>
+    <Low>1.68908</Low>
+    <Close>1.75305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-26</Date>
+    <Open>1.75105</Open>
+    <High>1.84302</High>
+    <Low>1.722</Low>
+    <Close>1.74417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-27</Date>
+    <Open>1.74917</Open>
+    <High>1.76827</High>
+    <Low>1.6901</Low>
+    <Close>1.70203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-28</Date>
+    <Open>1.70305</Open>
+    <High>1.74891</High>
+    <Low>1.692</Low>
+    <Close>1.721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-29</Date>
+    <Open>1.71698</Open>
+    <High>1.82498</High>
+    <Low>1.69593</Low>
+    <Close>1.76112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-30</Date>
+    <Open>1.76018</Open>
+    <High>1.81498</High>
+    <Low>1.68912</Low>
+    <Close>1.71815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-08-31</Date>
+    <Open>1.71815</Open>
+    <High>1.77614</High>
+    <Low>1.69407</Low>
+    <Close>1.70498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-01</Date>
+    <Open>1.70902</Open>
+    <High>1.722</High>
+    <Low>1.66092</Low>
+    <Close>1.6699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-02</Date>
+    <Open>1.6699</Open>
+    <High>1.82704</High>
+    <Low>1.6689</Low>
+    <Close>1.71721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-03</Date>
+    <Open>1.71727</Open>
+    <High>1.77418</High>
+    <Low>1.702</Low>
+    <Close>1.71417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-04</Date>
+    <Open>1.71517</Open>
+    <High>1.797</High>
+    <Low>1.692</Low>
+    <Close>1.751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-05</Date>
+    <Open>1.752</Open>
+    <High>1.78</High>
+    <Low>1.696</Low>
+    <Close>1.73717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-06</Date>
+    <Open>1.73917</Open>
+    <High>1.976</High>
+    <Low>1.71617</Low>
+    <Close>1.745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-07</Date>
+    <Open>1.7441</Open>
+    <High>1.85015</High>
+    <Low>1.731</Low>
+    <Close>1.76612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-08</Date>
+    <Open>1.77012</Open>
+    <High>1.80213</High>
+    <Low>1.75065</Low>
+    <Close>1.75628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-09</Date>
+    <Open>1.754</Open>
+    <High>2.0735</High>
+    <Low>1.754</Low>
+    <Close>1.87862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-10</Date>
+    <Open>1.87769</Open>
+    <High>1.87779</High>
+    <Low>1.75456</Low>
+    <Close>1.76535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-11</Date>
+    <Open>1.76135</Open>
+    <High>1.78059</High>
+    <Low>1.75246</Low>
+    <Close>1.75644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-12</Date>
+    <Open>1.75642</Open>
+    <High>1.75937</High>
+    <Low>1.70119</Low>
+    <Close>1.70434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-13</Date>
+    <Open>1.70231</Open>
+    <High>1.85354</High>
+    <Low>1.70046</Low>
+    <Close>1.70503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-14</Date>
+    <Open>1.70503</Open>
+    <High>1.72409</High>
+    <Low>1.6969</Low>
+    <Close>1.70144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-15</Date>
+    <Open>1.70144</Open>
+    <High>1.7221</High>
+    <Low>1.68151</Low>
+    <Close>1.69183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-16</Date>
+    <Open>1.6909</Open>
+    <High>1.74982</High>
+    <Low>1.64867</Low>
+    <Close>1.65683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-17</Date>
+    <Open>1.65983</Open>
+    <High>1.697</High>
+    <Low>1.58584</Low>
+    <Close>1.678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-18</Date>
+    <Open>1.677</Open>
+    <High>1.678</High>
+    <Low>1.59584</Low>
+    <Close>1.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-19</Date>
+    <Open>1.59984</Open>
+    <High>1.61716</High>
+    <Low>1.578</Low>
+    <Close>1.61232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-20</Date>
+    <Open>1.61216</Open>
+    <High>1.63516</High>
+    <Low>1.587</Low>
+    <Close>1.60216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-21</Date>
+    <Open>1.601</Open>
+    <High>1.60116</High>
+    <Low>1.54</Low>
+    <Close>1.546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-22</Date>
+    <Open>1.546</Open>
+    <High>1.61716</High>
+    <Low>1.54285</Low>
+    <Close>1.561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-23</Date>
+    <Open>1.561</Open>
+    <High>1.61084</High>
+    <Low>1.54485</Low>
+    <Close>1.549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-24</Date>
+    <Open>1.54791</Open>
+    <High>1.55198</High>
+    <Low>1.51517</Low>
+    <Close>1.51712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-25</Date>
+    <Open>1.517</Open>
+    <High>1.518</High>
+    <Low>1.44503</Low>
+    <Close>1.45199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-26</Date>
+    <Open>1.45201</Open>
+    <High>1.571</High>
+    <Low>1.395</Low>
+    <Close>1.544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-27</Date>
+    <Open>1.544</Open>
+    <High>1.65883</High>
+    <Low>1.49185</Low>
+    <Close>1.49185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-28</Date>
+    <Open>1.492</Open>
+    <High>1.492</High>
+    <Low>1.433</Low>
+    <Close>1.433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-29</Date>
+    <Open>1.433</Open>
+    <High>1.439</High>
+    <Low>1.409</Low>
+    <Close>1.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-09-30</Date>
+    <Open>1.41014</Open>
+    <High>1.41828</High>
+    <Low>1.397</Low>
+    <Close>1.399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-01</Date>
+    <Open>1.39914</Open>
+    <High>1.447</High>
+    <Low>1.392</Low>
+    <Close>1.402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-02</Date>
+    <Open>1.40214</Open>
+    <High>1.415</High>
+    <Low>1.392</Low>
+    <Close>1.392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-03</Date>
+    <Open>1.392</Open>
+    <High>1.39814</High>
+    <Low>1.38514</Low>
+    <Close>1.38814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-04</Date>
+    <Open>1.38514</Open>
+    <High>1.52246</High>
+    <Low>1.36114</Low>
+    <Close>1.42043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-05</Date>
+    <Open>1.41828</Open>
+    <High>1.44329</High>
+    <Low>1.39414</Low>
+    <Close>1.39528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-06</Date>
+    <Open>1.39628</Open>
+    <High>1.39722</High>
+    <Low>1.37116</Low>
+    <Close>1.37123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-07</Date>
+    <Open>1.37223</Open>
+    <High>1.42006</High>
+    <Low>1.33201</Low>
+    <Close>1.4012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-08</Date>
+    <Open>1.40114</Open>
+    <High>1.40717</High>
+    <Low>1.33008</Low>
+    <Close>1.33833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-09</Date>
+    <Open>1.33835</Open>
+    <High>1.33835</High>
+    <Low>1.31513</Low>
+    <Close>1.31626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-10</Date>
+    <Open>1.31526</Open>
+    <High>1.437</High>
+    <Low>1.28913</Low>
+    <Close>1.33287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-11</Date>
+    <Open>1.333</Open>
+    <High>1.39976</High>
+    <Low>1.28387</Low>
+    <Close>1.35788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-12</Date>
+    <Open>1.35484</Open>
+    <High>1.36299</High>
+    <Low>1.31491</Low>
+    <Close>1.31904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-13</Date>
+    <Open>1.31704</Open>
+    <High>1.32099</High>
+    <Low>1.26309</Low>
+    <Close>1.2671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-14</Date>
+    <Open>1.26608</Open>
+    <High>1.32703</High>
+    <Low>1.26114</Low>
+    <Close>1.32403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-15</Date>
+    <Open>1.32504</Open>
+    <High>1.35715</High>
+    <Low>1.30805</Low>
+    <Close>1.35307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-16</Date>
+    <Open>1.35308</Open>
+    <High>1.36101</High>
+    <Low>1.32005</Low>
+    <Close>1.35205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-17</Date>
+    <Open>1.35205</Open>
+    <High>1.41206</High>
+    <Low>1.26911</Low>
+    <Close>1.36904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-18</Date>
+    <Open>1.36504</Open>
+    <High>1.36504</High>
+    <Low>1.27211</Low>
+    <Close>1.27606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-19</Date>
+    <Open>1.27406</Open>
+    <High>1.27711</High>
+    <Low>1.22999</Low>
+    <Close>1.248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-20</Date>
+    <Open>1.248</Open>
+    <High>1.29895</High>
+    <Low>1.24689</Low>
+    <Close>1.27985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-21</Date>
+    <Open>1.27494</Open>
+    <High>1.28085</High>
+    <Low>1.25004</Low>
+    <Close>1.25509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-22</Date>
+    <Open>1.2501</Open>
+    <High>1.27106</High>
+    <Low>1.24038</Low>
+    <Close>1.24814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-23</Date>
+    <Open>1.24786</Open>
+    <High>1.25938</High>
+    <Low>1.22608</Low>
+    <Close>1.25574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-24</Date>
+    <Open>1.2557</Open>
+    <High>1.28317</High>
+    <Low>1.25414</Low>
+    <Close>1.28104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-25</Date>
+    <Open>1.28106</Open>
+    <High>1.31728</High>
+    <Low>1.26411</Low>
+    <Close>1.30452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-26</Date>
+    <Open>1.3044</Open>
+    <High>1.42929</High>
+    <Low>1.28922</Low>
+    <Close>1.38039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-27</Date>
+    <Open>1.38039</Open>
+    <High>1.39132</High>
+    <Low>1.33091</Low>
+    <Close>1.33809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-28</Date>
+    <Open>1.33809</Open>
+    <High>1.35024</High>
+    <Low>1.30109</Low>
+    <Close>1.33327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-29</Date>
+    <Open>1.33327</Open>
+    <High>1.35829</High>
+    <Low>1.3103</Low>
+    <Close>1.33732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-30</Date>
+    <Open>1.33732</Open>
+    <High>1.33735</High>
+    <Low>1.29122</Low>
+    <Close>1.29326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-10-31</Date>
+    <Open>1.2933</Open>
+    <High>1.314</High>
+    <Low>1.2849</Low>
+    <Close>1.2899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-01</Date>
+    <Open>1.28992</Open>
+    <High>1.30976</High>
+    <Low>1.28277</Low>
+    <Close>1.29684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-02</Date>
+    <Open>1.29787</Open>
+    <High>1.30186</High>
+    <Low>1.26391</Low>
+    <Close>1.27192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-03</Date>
+    <Open>1.27094</Open>
+    <High>1.28086</High>
+    <Low>1.23696</Low>
+    <Close>1.23899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-04</Date>
+    <Open>1.23999</Open>
+    <High>1.32913</High>
+    <Low>1.23596</Low>
+    <Close>1.31811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-05</Date>
+    <Open>1.31909</Open>
+    <High>1.34804</High>
+    <Low>1.29305</Low>
+    <Close>1.30608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-06</Date>
+    <Open>1.30707</Open>
+    <High>1.31604</High>
+    <Low>1.28992</Low>
+    <Close>1.30208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-07</Date>
+    <Open>1.30012</Open>
+    <High>1.30303</High>
+    <Low>1.24412</Low>
+    <Close>1.24412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-08</Date>
+    <Open>1.24337</Open>
+    <High>1.28226</High>
+    <Low>1.14875</Low>
+    <Close>1.20059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-09</Date>
+    <Open>1.18271</Open>
+    <High>1.18354</High>
+    <Low>1.0206</Low>
+    <Close>1.11765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-10</Date>
+    <Open>1.12456</Open>
+    <High>1.24164</High>
+    <Low>1.03031</Low>
+    <Close>1.04336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-11</Date>
+    <Open>1.04707</Open>
+    <High>1.23939</High>
+    <Low>1.00768</Low>
+    <Close>1.061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-12</Date>
+    <Open>1.06185</Open>
+    <High>1.08529</High>
+    <Low>1.02116</Low>
+    <Close>1.02216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-13</Date>
+    <Open>1.02216</Open>
+    <High>1.03565</High>
+    <Low>0.82185</Low>
+    <Close>0.82584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-14</Date>
+    <Open>0.82684</Open>
+    <High>0.90991</High>
+    <Low>0.75287</Low>
+    <Close>0.84273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-15</Date>
+    <Open>0.84373</Open>
+    <High>0.87786</High>
+    <Low>0.82409</Low>
+    <Close>0.82817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-16</Date>
+    <Open>0.82801</Open>
+    <High>0.867219</High>
+    <Low>0.817</Low>
+    <Close>0.849218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-17</Date>
+    <Open>0.849226</Open>
+    <High>0.857322</High>
+    <Low>0.817223</Low>
+    <Close>0.825356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-18</Date>
+    <Open>0.825356</Open>
+    <High>0.83932</High>
+    <Low>0.813031</Low>
+    <Close>0.81805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-19</Date>
+    <Open>0.81805</Open>
+    <High>0.827056</High>
+    <Low>0.812073</Low>
+    <Close>0.815151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-20</Date>
+    <Open>0.815143</Open>
+    <High>0.828096</High>
+    <Low>0.798944</Low>
+    <Close>0.802778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-21</Date>
+    <Open>0.802778</Open>
+    <High>0.815881</High>
+    <Low>0.786976</Low>
+    <Close>0.79904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-22</Date>
+    <Open>0.799032</Open>
+    <High>0.813113</High>
+    <Low>0.77908</Low>
+    <Close>0.812008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-23</Date>
+    <Open>0.819941</Open>
+    <High>0.841032</High>
+    <Low>0.80794</Low>
+    <Close>0.839076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-24</Date>
+    <Open>0.839076</Open>
+    <High>0.851352</High>
+    <Low>0.813365</Low>
+    <Close>0.837313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-25</Date>
+    <Open>0.837279</Open>
+    <High>0.844316</High>
+    <Low>0.814487</Low>
+    <Close>0.823473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-26</Date>
+    <Open>0.823522</Open>
+    <High>0.828519</High>
+    <Low>0.799464</Low>
+    <Close>0.814503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-27</Date>
+    <Open>0.811529</Open>
+    <High>0.838522</High>
+    <Low>0.804533</Low>
+    <Close>0.838488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-28</Date>
+    <Open>0.836489</Open>
+    <High>0.836489</High>
+    <Low>0.802623</Low>
+    <Close>0.825694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-29</Date>
+    <Open>0.82567</Open>
+    <High>1.03761</High>
+    <Low>0.821564</Low>
+    <Close>0.881674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-11-30</Date>
+    <Open>0.882673</Open>
+    <High>0.922898</High>
+    <Low>0.879604</Low>
+    <Close>0.903045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-01</Date>
+    <Open>0.903036</Open>
+    <High>0.925037</High>
+    <Low>0.892098</Low>
+    <Close>0.913055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-02</Date>
+    <Open>0.913055</Open>
+    <High>0.976107</High>
+    <Low>0.912046</Low>
+    <Close>0.969039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-03</Date>
+    <Open>0.969058</Open>
+    <High>0.983098</High>
+    <Low>0.958029</Low>
+    <Close>0.963193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-04</Date>
+    <Open>0.962096</Open>
+    <High>0.974097</High>
+    <Low>0.95219</Low>
+    <Close>0.967193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-05</Date>
+    <Open>0.967193</Open>
+    <High>1.01711</High>
+    <Low>0.899</Low>
+    <Close>0.901027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-06</Date>
+    <Open>0.900018</Open>
+    <High>0.912055</High>
+    <Low>0.877956</Low>
+    <Close>0.880982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-07</Date>
+    <Open>0.881991</Open>
+    <High>0.888991</High>
+    <Low>0.837933</Low>
+    <Close>0.841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-08</Date>
+    <Open>0.843008</Open>
+    <High>0.876158</High>
+    <Low>0.840975</Low>
+    <Close>0.85706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-09</Date>
+    <Open>0.857086</Open>
+    <High>0.891009</High>
+    <Low>0.854</Low>
+    <Close>0.878026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-10</Date>
+    <Open>0.878035</Open>
+    <High>0.88</High>
+    <Low>0.865</Low>
+    <Close>0.873983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-11</Date>
+    <Open>0.873</Open>
+    <High>0.880035</High>
+    <Low>0.867983</Low>
+    <Close>0.868174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-12</Date>
+    <Open>0.868087</Open>
+    <High>0.873087</High>
+    <Low>0.841084</Low>
+    <Close>0.846076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-13</Date>
+    <Open>0.846076</Open>
+    <High>0.897991</High>
+    <Low>0.846068</Low>
+    <Close>0.883788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-14</Date>
+    <Open>0.885708</Open>
+    <High>0.902</High>
+    <Low>0.871061</Low>
+    <Close>0.872061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-15</Date>
+    <Open>0.874</Open>
+    <High>0.879088</High>
+    <Low>0.851085</Low>
+    <Close>0.855171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-16</Date>
+    <Open>0.85217</Open>
+    <High>0.906091</High>
+    <Low>0.84</Low>
+    <Close>0.858172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-17</Date>
+    <Open>0.856171</Open>
+    <High>0.888053</High>
+    <Low>0.833075</Low>
+    <Close>0.839109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-18</Date>
+    <Open>0.836109</Open>
+    <High>0.856043</High>
+    <Low>0.834033</Low>
+    <Close>0.850119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-19</Date>
+    <Open>0.859112</Open>
+    <High>0.906009</High>
+    <Low>0.829</Low>
+    <Close>0.879982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-20</Date>
+    <Open>0.880026</Open>
+    <High>0.898018</High>
+    <Low>0.854077</Low>
+    <Close>0.873035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-21</Date>
+    <Open>0.873035</Open>
+    <High>0.881035</High>
+    <Low>0.855991</Low>
+    <Close>0.875035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-22</Date>
+    <Open>0.877044</Open>
+    <High>0.887902</High>
+    <Low>0.869991</Low>
+    <Close>0.884867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-23</Date>
+    <Open>0.885867</Open>
+    <High>0.886885</High>
+    <Low>0.871878</Low>
+    <Close>0.876912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-24</Date>
+    <Open>0.876904</Open>
+    <High>0.878947</High>
+    <Low>0.863948</Low>
+    <Close>0.876947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-25</Date>
+    <Open>0.876947</Open>
+    <High>0.879912</High>
+    <Low>0.871887</Low>
+    <Close>0.875886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-26</Date>
+    <Open>0.874904</Open>
+    <High>0.875939</High>
+    <Low>0.865896</Low>
+    <Close>0.875825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-27</Date>
+    <Open>0.875842</Open>
+    <High>0.878824</High>
+    <Low>0.865835</Low>
+    <Close>0.877658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-28</Date>
+    <Open>0.877658</Open>
+    <High>0.883726</High>
+    <Low>0.864533</Low>
+    <Close>0.873537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-29</Date>
+    <Open>0.872537</Open>
+    <High>0.877658</High>
+    <Low>0.867557</Low>
+    <Close>0.873598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-30</Date>
+    <Open>0.873615</Open>
+    <High>0.873615</High>
+    <Low>0.836548</Low>
+    <Close>0.838581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2022-12-31</Date>
+    <Open>0.837573</Open>
+    <High>0.839597</High>
+    <Low>0.814487</Low>
+    <Close>0.816592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-01</Date>
+    <Open>0.817583</Open>
+    <High>0.825579</High>
+    <Low>0.815502</Low>
+    <Close>0.820622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-02</Date>
+    <Open>0.817616</Open>
+    <High>0.824662</High>
+    <Low>0.79968</Low>
+    <Close>0.820737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-03</Date>
+    <Open>0.820737</Open>
+    <High>0.828652</High>
+    <Low>0.813691</Low>
+    <Close>0.818697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-04</Date>
+    <Open>0.818681</Open>
+    <High>0.841646</High>
+    <Low>0.812667</Low>
+    <Close>0.823728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-05</Date>
+    <Open>0.821729</Open>
+    <High>0.831709</High>
+    <Low>0.807685</Low>
+    <Close>0.815714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-06</Date>
+    <Open>0.814707</Open>
+    <High>0.830585</High>
+    <Low>0.803686</Low>
+    <Close>0.819738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-07</Date>
+    <Open>0.819746</Open>
+    <High>0.828793</High>
+    <Low>0.782765</Low>
+    <Close>0.804807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-08</Date>
+    <Open>0.804807</Open>
+    <High>0.809911</High>
+    <Low>0.783875</Low>
+    <Close>0.800872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-09</Date>
+    <Open>0.800848</Open>
+    <High>0.860726</High>
+    <Low>0.793889</Low>
+    <Close>0.854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-10</Date>
+    <Open>0.853991</Open>
+    <High>0.860905</High>
+    <Low>0.833017</Low>
+    <Close>0.8351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-11</Date>
+    <Open>0.836117</Open>
+    <High>0.849</High>
+    <Low>0.818861</Low>
+    <Close>0.829983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-12</Date>
+    <Open>0.828942</Open>
+    <High>0.849042</High>
+    <Low>0.822951</Low>
+    <Close>0.848085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-13</Date>
+    <Open>0.849068</Open>
+    <High>0.860095</High>
+    <Low>0.839008</Low>
+    <Close>0.852077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-14</Date>
+    <Open>0.850076</Open>
+    <High>0.912073</High>
+    <Low>0.848059</Low>
+    <Close>0.881879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-15</Date>
+    <Open>0.880395</Open>
+    <High>0.907272</High>
+    <Low>0.86543</Low>
+    <Close>0.873853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-16</Date>
+    <Open>0.873762</Open>
+    <High>0.97772</High>
+    <Low>0.852432</Low>
+    <Close>0.874826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-17</Date>
+    <Open>0.880026</Open>
+    <High>0.902</High>
+    <Low>0.876991</Low>
+    <Close>0.886097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-18</Date>
+    <Open>0.887098</Open>
+    <High>0.891134</High>
+    <Low>0.820943</Low>
+    <Close>0.820943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-19</Date>
+    <Open>0.822967</Open>
+    <High>0.859009</High>
+    <Low>0.809927</Low>
+    <Close>0.847966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-20</Date>
+    <Open>0.850051</Open>
+    <High>0.851983</High>
+    <Low>0.821049</Low>
+    <Close>0.837142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-21</Date>
+    <Open>0.837176</Open>
+    <High>0.895188</High>
+    <Low>0.836176</Low>
+    <Close>0.868139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-22</Date>
+    <Open>0.86913</Open>
+    <High>0.877149</High>
+    <Low>0.847076</Low>
+    <Close>0.865164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-23</Date>
+    <Open>0.863173</Open>
+    <High>0.871061</High>
+    <Low>0.845101</Low>
+    <Close>0.853128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-24</Date>
+    <Open>0.854128</Open>
+    <High>0.870209</High>
+    <Low>0.852085</Low>
+    <Close>0.856017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-25</Date>
+    <Open>0.855077</Open>
+    <High>0.878053</High>
+    <Low>0.821107</Low>
+    <Close>0.849136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-26</Date>
+    <Open>0.84316</Open>
+    <High>0.936037</High>
+    <Low>0.843152</Low>
+    <Close>0.910073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-27</Date>
+    <Open>0.911073</Open>
+    <High>0.930167</High>
+    <Low>0.880106</Low>
+    <Close>0.905443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-28</Date>
+    <Open>0.903307</Open>
+    <High>0.985246</High>
+    <Low>0.885221</Low>
+    <Close>0.920175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-29</Date>
+    <Open>0.920184</Open>
+    <High>1.07001</High>
+    <Low>0.919184</Low>
+    <Close>1.03205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-30</Date>
+    <Open>1.02604</Open>
+    <High>1.39803</High>
+    <Low>0.973039</Low>
+    <Close>1.12107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-01-31</Date>
+    <Open>1.13212</Open>
+    <High>1.21494</High>
+    <Low>1.08194</Low>
+    <Close>1.18112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-01</Date>
+    <Open>1.18107</Open>
+    <High>1.18807</High>
+    <Low>1.07912</Low>
+    <Close>1.15109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-02</Date>
+    <Open>1.15107</Open>
+    <High>1.23006</High>
+    <Low>1.12517</Low>
+    <Close>1.15721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-03</Date>
+    <Open>1.15823</Open>
+    <High>1.24305</High>
+    <Low>1.12401</Low>
+    <Close>1.17111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-04</Date>
+    <Open>1.17009</Open>
+    <High>1.19708</High>
+    <Low>1.15013</Low>
+    <Close>1.17309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-05</Date>
+    <Open>1.17309</Open>
+    <High>1.24225</High>
+    <Low>1.10021</Low>
+    <Close>1.12528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-06</Date>
+    <Open>1.13029</Open>
+    <High>1.178</High>
+    <Low>1.07012</Low>
+    <Close>1.12004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-07</Date>
+    <Open>1.12213</Open>
+    <High>1.16645</High>
+    <Low>1.08762</Low>
+    <Close>1.16007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-08</Date>
+    <Open>1.16146</Open>
+    <High>1.16606</High>
+    <Low>1.10007</Low>
+    <Close>1.12009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-09</Date>
+    <Open>1.12006</Open>
+    <High>1.33599</High>
+    <Low>1.10003</Low>
+    <Close>1.11523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-10</Date>
+    <Open>1.11113</Open>
+    <High>1.22311</High>
+    <Low>1.09326</Low>
+    <Close>1.13917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-11</Date>
+    <Open>1.14018</Open>
+    <High>1.1661</High>
+    <Low>1.1101</Low>
+    <Close>1.1441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-12</Date>
+    <Open>1.1421</Open>
+    <High>1.23415</High>
+    <Low>1.13217</Low>
+    <Close>1.20608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-13</Date>
+    <Open>1.21112</Open>
+    <High>1.49942</High>
+    <Low>1.1663</Low>
+    <Close>1.26668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-14</Date>
+    <Open>1.2697</Open>
+    <High>1.37852</High>
+    <Low>1.21083</Low>
+    <Close>1.30049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-15</Date>
+    <Open>1.30569</Open>
+    <High>1.40028</High>
+    <Low>1.27437</Low>
+    <Close>1.35524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-16</Date>
+    <Open>1.36222</Open>
+    <High>1.39424</High>
+    <Low>1.25011</Low>
+    <Close>1.30344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-17</Date>
+    <Open>1.30117</Open>
+    <High>1.49412</High>
+    <Low>1.26115</Low>
+    <Close>1.39913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-18</Date>
+    <Open>1.4012</Open>
+    <High>1.44127</High>
+    <Low>1.3911</Low>
+    <Close>1.41524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-19</Date>
+    <Open>1.44795</Open>
+    <High>1.4514</High>
+    <Low>1.36869</Low>
+    <Close>1.43074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-20</Date>
+    <Open>1.43999</Open>
+    <High>1.52121</High>
+    <Low>1.40888</Low>
+    <Close>1.47506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-21</Date>
+    <Open>1.47406</Open>
+    <High>1.48819</High>
+    <Low>1.37312</Low>
+    <Close>1.40024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-22</Date>
+    <Open>1.3982</Open>
+    <High>1.4452</High>
+    <Low>1.35014</Low>
+    <Close>1.39911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-23</Date>
+    <Open>1.40051</Open>
+    <High>1.44217</High>
+    <Low>1.34412</Low>
+    <Close>1.42819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-24</Date>
+    <Open>1.42921</Open>
+    <High>1.46716</High>
+    <Low>1.3562</Low>
+    <Close>1.37797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-25</Date>
+    <Open>1.39013</Open>
+    <High>1.40724</High>
+    <Low>1.34063</Low>
+    <Close>1.39348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-26</Date>
+    <Open>1.39388</Open>
+    <High>1.56316</High>
+    <Low>1.39011</Low>
+    <Close>1.46115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-27</Date>
+    <Open>1.46216</Open>
+    <High>1.48903</High>
+    <Low>1.45409</Low>
+    <Close>1.4671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-02-28</Date>
+    <Open>1.46409</Open>
+    <High>1.4778</High>
+    <Low>1.44024</Low>
+    <Close>1.45931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-01</Date>
+    <Open>1.45858</Open>
+    <High>1.48609</High>
+    <Low>1.42776</Low>
+    <Close>1.48609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-02</Date>
+    <Open>1.49152</Open>
+    <High>1.62</High>
+    <Low>1.4247</Low>
+    <Close>1.59613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-03</Date>
+    <Open>1.59814</Open>
+    <High>1.69715</High>
+    <Low>1.54152</Low>
+    <Close>1.68512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-04</Date>
+    <Open>1.67713</Open>
+    <High>1.87417</High>
+    <Low>1.64008</Low>
+    <Close>1.65712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-05</Date>
+    <Open>1.66213</Open>
+    <High>1.82618</High>
+    <Low>1.60814</Low>
+    <Close>1.69319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-06</Date>
+    <Open>1.7042</Open>
+    <High>1.75514</High>
+    <Low>1.67892</Low>
+    <Close>1.70988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-07</Date>
+    <Open>1.71481</Open>
+    <High>1.82376</High>
+    <Low>1.67983</Low>
+    <Close>1.78491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-08</Date>
+    <Open>1.78593</Open>
+    <High>1.90466</High>
+    <Low>1.74786</Low>
+    <Close>1.86491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-09</Date>
+    <Open>1.857</Open>
+    <High>1.857</High>
+    <Low>1.69466</Low>
+    <Close>1.70115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-10</Date>
+    <Open>1.70315</Open>
+    <High>1.87485</High>
+    <Low>1.61102</Low>
+    <Close>1.70115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-11</Date>
+    <Open>1.69813</Open>
+    <High>1.7321</High>
+    <Low>1.52307</Low>
+    <Close>1.55882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-12</Date>
+    <Open>1.54204</Open>
+    <High>1.77349</High>
+    <Low>1.54204</Low>
+    <Close>1.76274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-13</Date>
+    <Open>1.77307</Open>
+    <High>2.02419</High>
+    <Low>1.73914</Low>
+    <Close>1.8658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-14</Date>
+    <Open>1.87149</Open>
+    <High>1.88249</High>
+    <Low>1.80053</Low>
+    <Close>1.81342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-15</Date>
+    <Open>1.79581</Open>
+    <High>1.82409</High>
+    <Low>1.61381</Low>
+    <Close>1.65762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-16</Date>
+    <Open>1.65407</Open>
+    <High>1.76369</High>
+    <Low>1.64646</Low>
+    <Close>1.70218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-17</Date>
+    <Open>1.70396</Open>
+    <High>1.89427</High>
+    <Low>1.69721</Low>
+    <Close>1.80869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-18</Date>
+    <Open>1.80789</Open>
+    <High>1.85378</High>
+    <Low>1.74358</Low>
+    <Close>1.779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-19</Date>
+    <Open>1.77228</Open>
+    <High>1.79335</High>
+    <Low>1.71117</Low>
+    <Close>1.73621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-20</Date>
+    <Open>1.7312</Open>
+    <High>1.75226</High>
+    <Low>1.57968</Low>
+    <Close>1.58272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-21</Date>
+    <Open>1.58175</Open>
+    <High>1.58376</High>
+    <Low>1.49645</Low>
+    <Close>1.51884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-22</Date>
+    <Open>1.52286</Open>
+    <High>1.53792</High>
+    <Low>1.42485</Low>
+    <Close>1.46406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-23</Date>
+    <Open>1.46108</Open>
+    <High>1.56697</High>
+    <Low>1.45806</Low>
+    <Close>1.56126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-24</Date>
+    <Open>1.56127</Open>
+    <High>1.57029</High>
+    <Low>1.50162</Low>
+    <Close>1.51853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-25</Date>
+    <Open>1.52075</Open>
+    <High>1.54442</High>
+    <Low>1.50869</Low>
+    <Close>1.53949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-26</Date>
+    <Open>1.53747</Open>
+    <High>1.59232</High>
+    <Low>1.52938</Low>
+    <Close>1.57978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-27</Date>
+    <Open>1.57873</Open>
+    <High>1.63114</High>
+    <Low>1.55204</Low>
+    <Close>1.59376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-28</Date>
+    <Open>1.59367</Open>
+    <High>1.59667</High>
+    <Low>1.52138</Low>
+    <Close>1.5666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-29</Date>
+    <Open>1.56461</Open>
+    <High>1.62218</High>
+    <Low>1.52543</Low>
+    <Close>1.58529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-30</Date>
+    <Open>1.58532</Open>
+    <High>1.59241</High>
+    <Low>1.53717</Low>
+    <Close>1.54743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-03-31</Date>
+    <Open>1.54643</Open>
+    <High>1.56611</High>
+    <Low>1.50807</Low>
+    <Close>1.56611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-01</Date>
+    <Open>1.56603</Open>
+    <High>1.59329</High>
+    <Low>1.53503</Low>
+    <Close>1.56678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-02</Date>
+    <Open>1.56938</Open>
+    <High>1.57995</High>
+    <Low>1.50699</Low>
+    <Close>1.51644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-03</Date>
+    <Open>1.51545</Open>
+    <High>1.5314</High>
+    <Low>1.40129</Low>
+    <Close>1.43938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-04</Date>
+    <Open>1.43938</Open>
+    <High>1.50282</High>
+    <Low>1.42736</Low>
+    <Close>1.48356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-05</Date>
+    <Open>1.48456</Open>
+    <High>1.53503</High>
+    <Low>1.47218</Low>
+    <Close>1.49974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-06</Date>
+    <Open>1.49704</Open>
+    <High>1.50335</High>
+    <Low>1.46799</Low>
+    <Close>1.47712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-07</Date>
+    <Open>1.47573</Open>
+    <High>1.50558</High>
+    <Low>1.4543</Low>
+    <Close>1.4688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-08</Date>
+    <Open>1.45608</Open>
+    <High>1.475</High>
+    <Low>1.43782</Low>
+    <Close>1.44756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-09</Date>
+    <Open>1.44766</Open>
+    <High>1.46474</High>
+    <Low>1.35181</Low>
+    <Close>1.39784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-10</Date>
+    <Open>1.39698</Open>
+    <High>1.4603</High>
+    <Low>1.38382</Low>
+    <Close>1.4603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-11</Date>
+    <Open>1.46008</Open>
+    <High>1.50262</High>
+    <Low>1.40314</Low>
+    <Close>1.45232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-12</Date>
+    <Open>1.45311</Open>
+    <High>1.53446</High>
+    <Low>1.42581</Low>
+    <Close>1.48726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-13</Date>
+    <Open>1.48576</Open>
+    <High>1.51391</High>
+    <Low>1.4315</Low>
+    <Close>1.49213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-14</Date>
+    <Open>1.49203</Open>
+    <High>1.55096</High>
+    <Low>1.47673</Low>
+    <Close>1.48743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-15</Date>
+    <Open>1.487</Open>
+    <High>1.50758</High>
+    <Low>1.47135</Low>
+    <Close>1.48092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-16</Date>
+    <Open>1.48202</Open>
+    <High>1.50046</High>
+    <Low>1.4315</Low>
+    <Close>1.4719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-17</Date>
+    <Open>1.47169</Open>
+    <High>1.47169</High>
+    <Low>1.42543</Low>
+    <Close>1.44205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-18</Date>
+    <Open>1.44175</Open>
+    <High>1.47712</High>
+    <Low>1.42298</Low>
+    <Close>1.45058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-19</Date>
+    <Open>1.45196</Open>
+    <High>1.47907</High>
+    <Low>1.40461</Low>
+    <Close>1.43137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-20</Date>
+    <Open>1.42696</Open>
+    <High>1.4307</High>
+    <Low>1.38518</Low>
+    <Close>1.41211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-21</Date>
+    <Open>1.4118</Open>
+    <High>1.4746</High>
+    <Low>1.39129</Low>
+    <Close>1.39987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-22</Date>
+    <Open>1.39986</Open>
+    <High>1.45106</High>
+    <Low>1.39055</Low>
+    <Close>1.44213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-23</Date>
+    <Open>1.44223</Open>
+    <High>1.44233</High>
+    <Low>1.40482</Low>
+    <Close>1.43116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-24</Date>
+    <Open>1.4341</Open>
+    <High>1.45686</High>
+    <Low>1.40252</Low>
+    <Close>1.42783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-25</Date>
+    <Open>1.42804</Open>
+    <High>1.45148</High>
+    <Low>1.3903</Low>
+    <Close>1.44403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-26</Date>
+    <Open>1.44313</Open>
+    <High>1.49946</High>
+    <Low>1.42184</Low>
+    <Close>1.48077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-27</Date>
+    <Open>1.48247</Open>
+    <High>1.54974</High>
+    <Low>1.48103</Low>
+    <Close>1.5166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-28</Date>
+    <Open>1.51148</Open>
+    <High>1.71534</High>
+    <Low>1.48798</Low>
+    <Close>1.69631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-29</Date>
+    <Open>1.70731</Open>
+    <High>1.71832</High>
+    <Low>1.58716</Low>
+    <Close>1.60795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-04-30</Date>
+    <Open>1.61225</Open>
+    <High>1.61315</High>
+    <Low>1.50297</Low>
+    <Close>1.5813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-01</Date>
+    <Open>1.5814</Open>
+    <High>1.58348</High>
+    <Low>1.53072</Low>
+    <Close>1.58284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-02</Date>
+    <Open>1.58243</Open>
+    <High>1.63071</High>
+    <Low>1.54888</Low>
+    <Close>1.62749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-03</Date>
+    <Open>1.61939</Open>
+    <High>1.63859</High>
+    <Low>1.57086</Low>
+    <Close>1.63056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-04</Date>
+    <Open>1.63114</Open>
+    <High>1.67647</High>
+    <Low>1.58571</Low>
+    <Close>1.58573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-05</Date>
+    <Open>1.58571</Open>
+    <High>1.58593</High>
+    <Low>1.53816</Low>
+    <Close>1.55384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-06</Date>
+    <Open>1.55412</Open>
+    <High>1.55545</High>
+    <Low>1.51609</Low>
+    <Close>1.54111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-07</Date>
+    <Open>1.54035</Open>
+    <High>1.55481</High>
+    <Low>1.52274</Low>
+    <Close>1.53115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-08</Date>
+    <Open>1.52999</Open>
+    <High>1.53053</High>
+    <Low>1.452</Low>
+    <Close>1.50641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-09</Date>
+    <Open>1.50657</Open>
+    <High>1.56382</High>
+    <Low>1.5005</Low>
+    <Close>1.55353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-10</Date>
+    <Open>1.55253</Open>
+    <High>1.59102</High>
+    <Low>1.53555</Low>
+    <Close>1.55655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-11</Date>
+    <Open>1.55665</Open>
+    <High>1.5567</High>
+    <Low>1.45392</Low>
+    <Close>1.46135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-12</Date>
+    <Open>1.46185</Open>
+    <High>1.4874</High>
+    <Low>1.40745</Low>
+    <Close>1.4756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-13</Date>
+    <Open>1.47676</Open>
+    <High>1.51164</High>
+    <Low>1.42327</Low>
+    <Close>1.42327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-14</Date>
+    <Open>1.42197</Open>
+    <High>1.43071</High>
+    <Low>1.39992</Low>
+    <Close>1.40117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-15</Date>
+    <Open>1.40101</Open>
+    <High>1.40398</High>
+    <Low>1.36094</Low>
+    <Close>1.3863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-16</Date>
+    <Open>1.38643</Open>
+    <High>1.65565</High>
+    <Low>1.38413</Low>
+    <Close>1.40774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-17</Date>
+    <Open>1.4107</Open>
+    <High>1.41829</High>
+    <Low>1.3928</Low>
+    <Close>1.40059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-18</Date>
+    <Open>1.40094</Open>
+    <High>1.4039</High>
+    <Low>1.38041</Low>
+    <Close>1.39415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-19</Date>
+    <Open>1.394</Open>
+    <High>1.4364</High>
+    <Low>1.38107</Low>
+    <Close>1.40042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-20</Date>
+    <Open>1.40058</Open>
+    <High>1.42618</High>
+    <Low>1.39257</Low>
+    <Close>1.40881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-21</Date>
+    <Open>1.42248</Open>
+    <High>1.4422</High>
+    <Low>1.36032</Low>
+    <Close>1.38173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-22</Date>
+    <Open>1.36376</Open>
+    <High>1.36649</High>
+    <Low>1.32967</Low>
+    <Close>1.3388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-23</Date>
+    <Open>1.34356</Open>
+    <High>1.36365</High>
+    <Low>1.32515</Low>
+    <Close>1.33288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-24</Date>
+    <Open>1.33429</Open>
+    <High>1.33742</High>
+    <Low>1.21884</Low>
+    <Close>1.22213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-25</Date>
+    <Open>1.2153</Open>
+    <High>1.22696</High>
+    <Low>1.16627</Low>
+    <Close>1.19122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-26</Date>
+    <Open>1.19182</Open>
+    <High>1.24975</High>
+    <Low>1.17503</Low>
+    <Close>1.24925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-27</Date>
+    <Open>1.24945</Open>
+    <High>1.33772</High>
+    <Low>1.24755</Low>
+    <Close>1.28191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="DAO">
+    <Date>2023-05-28</Date>
+    <Open>1.28194</Open>
+    <High>1.28464</High>
+    <Low>1.24181</Low>
+    <Close>1.25037</Close>
+  </Cryptocurrency>
+</Root>

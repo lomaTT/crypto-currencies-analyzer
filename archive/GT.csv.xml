@@ -1,0 +1,2677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-11</Date>
+    <Open>5.45221</Open>
+    <High>5.46134</High>
+    <Low>4.73787</Low>
+    <Close>4.85607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-12</Date>
+    <Open>4.84829</Open>
+    <High>5.51558</High>
+    <Low>4.69749</Low>
+    <Close>5.38676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-13</Date>
+    <Open>5.38488</Open>
+    <High>5.77704</High>
+    <Low>5.33931</Low>
+    <Close>5.57091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-14</Date>
+    <Open>5.58349</Open>
+    <High>5.61783</High>
+    <Low>5.28967</Low>
+    <Close>5.50618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-15</Date>
+    <Open>5.50648</Open>
+    <High>5.59735</High>
+    <Low>5.41157</Low>
+    <Close>5.52746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-16</Date>
+    <Open>5.52856</Open>
+    <High>5.56805</High>
+    <Low>5.36429</Low>
+    <Close>5.42803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-17</Date>
+    <Open>5.42274</Open>
+    <High>5.7419</High>
+    <Low>5.41101</Low>
+    <Close>5.73633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-18</Date>
+    <Open>5.73653</Open>
+    <High>5.75411</High>
+    <Low>5.46349</Low>
+    <Close>5.57934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-19</Date>
+    <Open>5.57968</Open>
+    <High>5.64555</High>
+    <Low>5.43882</Low>
+    <Close>5.57162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-20</Date>
+    <Open>5.57202</Open>
+    <High>5.69514</High>
+    <Low>5.51518</Low>
+    <Close>5.61186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-21</Date>
+    <Open>5.61186</Open>
+    <High>5.75551</High>
+    <Low>5.59598</Low>
+    <Close>5.74962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-22</Date>
+    <Open>5.74942</Open>
+    <High>5.81613</High>
+    <Low>5.73111</Low>
+    <Close>5.75549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-23</Date>
+    <Open>5.75558</Open>
+    <High>5.85885</High>
+    <Low>5.72629</Low>
+    <Close>5.7621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-24</Date>
+    <Open>5.76278</Open>
+    <High>5.76278</High>
+    <Low>5.42448</Low>
+    <Close>5.61249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-25</Date>
+    <Open>5.6071</Open>
+    <High>5.67565</High>
+    <Low>5.51303</Low>
+    <Close>5.60936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-26</Date>
+    <Open>5.61096</Open>
+    <High>5.69543</High>
+    <Low>5.35081</Low>
+    <Close>5.48811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-27</Date>
+    <Open>5.47432</Open>
+    <High>5.4993</High>
+    <Low>5.17482</Low>
+    <Close>5.27512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-28</Date>
+    <Open>5.27272</Open>
+    <High>5.34741</High>
+    <Low>5.2153</Low>
+    <Close>5.32696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-29</Date>
+    <Open>5.32665</Open>
+    <High>5.42016</High>
+    <Low>5.29965</Low>
+    <Close>5.34511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-30</Date>
+    <Open>5.34631</Open>
+    <High>5.67243</High>
+    <Low>5.33602</Low>
+    <Close>5.64148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-05-31</Date>
+    <Open>5.64375</Open>
+    <High>5.73081</High>
+    <Low>5.55421</Low>
+    <Close>5.64042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-01</Date>
+    <Open>5.64065</Open>
+    <High>5.65987</High>
+    <Low>5.37822</Low>
+    <Close>5.40289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-02</Date>
+    <Open>5.40333</Open>
+    <High>5.46498</High>
+    <Low>5.3244</Low>
+    <Close>5.45249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-03</Date>
+    <Open>5.44979</Open>
+    <High>5.47377</High>
+    <Low>5.32251</Low>
+    <Close>5.36143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-04</Date>
+    <Open>5.36383</Open>
+    <High>5.40197</High>
+    <Low>5.33167</Low>
+    <Close>5.39245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-05</Date>
+    <Open>5.39874</Open>
+    <High>5.40607</High>
+    <Low>5.37249</Low>
+    <Close>5.40502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-06</Date>
+    <Open>5.40991</Open>
+    <High>5.5414</High>
+    <Low>5.38978</Low>
+    <Close>5.47384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-07</Date>
+    <Open>5.47989</Open>
+    <High>5.52562</High>
+    <Low>5.34382</Low>
+    <Close>5.49499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-08</Date>
+    <Open>5.49633</Open>
+    <High>5.63853</High>
+    <Low>5.3763</Low>
+    <Close>5.56783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-09</Date>
+    <Open>5.57597</Open>
+    <High>5.57603</High>
+    <Low>5.46083</Low>
+    <Close>5.52685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-10</Date>
+    <Open>5.53859</Open>
+    <High>5.54707</High>
+    <Low>5.37039</Low>
+    <Close>5.40473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-11</Date>
+    <Open>5.40473</Open>
+    <High>5.40559</High>
+    <Low>5.22501</Low>
+    <Close>5.29471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-12</Date>
+    <Open>5.29466</Open>
+    <High>5.29974</High>
+    <Low>4.88294</Low>
+    <Close>4.92134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-13</Date>
+    <Open>4.90766</Open>
+    <High>4.92104</High>
+    <Low>4.09988</Low>
+    <Close>4.32618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-14</Date>
+    <Open>4.32592</Open>
+    <High>4.47446</High>
+    <Low>4.03891</Low>
+    <Close>4.34508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-15</Date>
+    <Open>4.35472</Open>
+    <High>4.47074</High>
+    <Low>3.9928</Low>
+    <Close>4.27118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-16</Date>
+    <Open>4.38737</Open>
+    <High>4.38987</High>
+    <Low>3.91769</Low>
+    <Close>4.01657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-17</Date>
+    <Open>3.9338</Open>
+    <High>4.04447</High>
+    <Low>3.91994</Low>
+    <Close>3.95535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-18</Date>
+    <Open>3.96104</Open>
+    <High>4.02879</High>
+    <Low>3.34052</Low>
+    <Close>3.56648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-19</Date>
+    <Open>3.53112</Open>
+    <High>3.938</High>
+    <Low>3.47087</Low>
+    <Close>3.8705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-20</Date>
+    <Open>4.004</Open>
+    <High>4.14</High>
+    <Low>3.8035</Low>
+    <Close>4.005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-21</Date>
+    <Open>4.05284</Open>
+    <High>4.33466</High>
+    <Low>4.04324</Low>
+    <Close>4.25382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-22</Date>
+    <Open>4.25352</Open>
+    <High>4.26963</High>
+    <Low>4.03726</Low>
+    <Close>4.06663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-23</Date>
+    <Open>4.05814</Open>
+    <High>4.24115</High>
+    <Low>4.05814</Low>
+    <Close>4.22077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-24</Date>
+    <Open>4.22077</Open>
+    <High>4.28434</High>
+    <Low>4.20621</Low>
+    <Close>4.25828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-25</Date>
+    <Open>4.25734</Open>
+    <High>4.33132</High>
+    <Low>4.24658</Low>
+    <Close>4.31238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-26</Date>
+    <Open>4.31698</Open>
+    <High>4.41341</High>
+    <Low>4.30513</Low>
+    <Close>4.40621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-27</Date>
+    <Open>4.35731</Open>
+    <High>4.37068</High>
+    <Low>4.18374</Low>
+    <Close>4.27879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-28</Date>
+    <Open>4.27883</Open>
+    <High>4.35528</High>
+    <Low>4.19549</Low>
+    <Close>4.21531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-29</Date>
+    <Open>4.21477</Open>
+    <High>4.21477</High>
+    <Low>4.03609</Low>
+    <Close>4.11352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-06-30</Date>
+    <Open>4.11366</Open>
+    <High>4.11685</High>
+    <Low>3.85078</Low>
+    <Close>4.0215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-01</Date>
+    <Open>4.106</Open>
+    <High>4.157</High>
+    <Low>3.884</Low>
+    <Close>4.0725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-02</Date>
+    <Open>4.039</Open>
+    <High>4.14</High>
+    <Low>3.895</Low>
+    <Close>4.039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-05</Date>
+    <Open>4.01228</Open>
+    <High>4.06053</High>
+    <Low>3.91089</Low>
+    <Close>4.00909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-06</Date>
+    <Open>3.9997</Open>
+    <High>4.082</High>
+    <Low>3.95255</Low>
+    <Close>4.02377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-07</Date>
+    <Open>4.02227</Open>
+    <High>4.07225</High>
+    <Low>3.96094</Low>
+    <Close>4.02628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-08</Date>
+    <Open>4.03048</Open>
+    <High>4.09303</High>
+    <Low>3.94063</Low>
+    <Close>3.97012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-09</Date>
+    <Open>3.96742</Open>
+    <High>3.97122</High>
+    <Low>3.90665</Low>
+    <Close>3.93764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-10</Date>
+    <Open>3.93694</Open>
+    <High>3.96752</High>
+    <Low>3.88998</Low>
+    <Close>3.96482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-11</Date>
+    <Open>3.96182</Open>
+    <High>3.97781</High>
+    <Low>3.89427</Low>
+    <Close>3.93026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-12</Date>
+    <Open>3.92385</Open>
+    <High>3.92626</High>
+    <Low>3.78411</Low>
+    <Close>3.79021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-13</Date>
+    <Open>3.78356</Open>
+    <High>3.91657</High>
+    <Low>3.71631</Low>
+    <Close>3.91657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-14</Date>
+    <Open>3.91707</Open>
+    <High>4.01609</High>
+    <Low>3.8777</Low>
+    <Close>3.9932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-15</Date>
+    <Open>3.9917</Open>
+    <High>4.07796</High>
+    <Low>3.96942</Low>
+    <Close>4.0051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-16</Date>
+    <Open>3.9978</Open>
+    <High>4.12876</High>
+    <Low>3.98091</Low>
+    <Close>4.10478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-17</Date>
+    <Open>4.10218</Open>
+    <High>4.18525</High>
+    <Low>4.09072</Low>
+    <Close>4.13918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-18</Date>
+    <Open>4.13408</Open>
+    <High>4.2374</High>
+    <Low>4.08937</Low>
+    <Close>4.19523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-19</Date>
+    <Open>4.19224</Open>
+    <High>4.32219</High>
+    <Low>4.08211</Low>
+    <Close>4.30054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-20</Date>
+    <Open>4.2974</Open>
+    <High>4.2993</High>
+    <Low>4.09592</Low>
+    <Close>4.21961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-21</Date>
+    <Open>4.21671</Open>
+    <High>4.21971</High>
+    <Low>4.09114</Low>
+    <Close>4.13128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-22</Date>
+    <Open>4.13013</Open>
+    <High>4.18114</High>
+    <Low>4.06127</Low>
+    <Close>4.0971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-23</Date>
+    <Open>4.09334</Open>
+    <High>4.1384</High>
+    <Low>4.04248</Low>
+    <Close>4.09482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-24</Date>
+    <Open>4.09398</Open>
+    <High>4.20106</High>
+    <Low>4.08388</Low>
+    <Close>4.18424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-25</Date>
+    <Open>4.18454</Open>
+    <High>4.22905</High>
+    <Low>4.06119</Low>
+    <Close>4.07193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-26</Date>
+    <Open>4.07113</Open>
+    <High>4.07113</High>
+    <Low>3.9452</Low>
+    <Close>3.9806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-27</Date>
+    <Open>3.9806</Open>
+    <High>4.19882</High>
+    <Low>3.94796</Low>
+    <Close>4.18122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-28</Date>
+    <Open>4.1818</Open>
+    <High>4.46964</High>
+    <Low>4.17364</Low>
+    <Close>4.26435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-29</Date>
+    <Open>4.2634</Open>
+    <High>4.42823</High>
+    <Low>4.2634</Low>
+    <Close>4.35894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-30</Date>
+    <Open>4.35749</Open>
+    <High>4.60046</High>
+    <Low>4.35398</Low>
+    <Close>4.47162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-07-31</Date>
+    <Open>4.46914</Open>
+    <High>4.57951</High>
+    <Low>4.43008</Low>
+    <Close>4.53274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-01</Date>
+    <Open>4.53456</Open>
+    <High>4.53678</High>
+    <Low>4.36429</Low>
+    <Close>4.39207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-02</Date>
+    <Open>4.39012</Open>
+    <High>4.43995</High>
+    <Low>4.2148</Low>
+    <Close>4.37574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-03</Date>
+    <Open>4.37217</Open>
+    <High>4.61271</High>
+    <Low>4.30839</Low>
+    <Close>4.55499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-04</Date>
+    <Open>4.54759</Open>
+    <High>4.60983</High>
+    <Low>4.47641</Low>
+    <Close>4.54784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-05</Date>
+    <Open>4.54704</Open>
+    <High>4.72094</High>
+    <Low>4.51833</Low>
+    <Close>4.70039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-06</Date>
+    <Open>4.70049</Open>
+    <High>4.79996</High>
+    <Low>4.69679</Low>
+    <Close>4.7974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-07</Date>
+    <Open>4.79425</Open>
+    <High>4.82091</High>
+    <Low>4.75226</Low>
+    <Close>4.76526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-08</Date>
+    <Open>4.7552</Open>
+    <High>4.9962</High>
+    <Low>4.74445</Low>
+    <Close>4.90919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-09</Date>
+    <Open>4.90678</Open>
+    <High>4.92208</High>
+    <Low>4.69153</Low>
+    <Close>4.77676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-10</Date>
+    <Open>4.77065</Open>
+    <High>4.93813</High>
+    <Low>4.67553</Low>
+    <Close>4.93813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-11</Date>
+    <Open>4.93258</Open>
+    <High>5.03276</High>
+    <Low>4.89986</Low>
+    <Close>4.93782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-12</Date>
+    <Open>4.93782</Open>
+    <High>5.03951</High>
+    <Low>4.90275</Low>
+    <Close>4.96738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-13</Date>
+    <Open>4.96218</Open>
+    <High>5.18544</High>
+    <Low>4.96213</Low>
+    <Close>5.1244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-14</Date>
+    <Open>5.1235</Open>
+    <High>5.14671</High>
+    <Low>5.03041</Low>
+    <Close>5.05382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-15</Date>
+    <Open>5.05061</Open>
+    <High>5.15914</High>
+    <Low>4.91373</Low>
+    <Close>4.95759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-16</Date>
+    <Open>4.95759</Open>
+    <High>4.98965</High>
+    <Low>4.83844</Low>
+    <Close>4.91164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-17</Date>
+    <Open>4.91124</Open>
+    <High>4.97715</High>
+    <Low>4.80284</Low>
+    <Close>4.88804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-18</Date>
+    <Open>4.88179</Open>
+    <High>4.88819</High>
+    <Low>4.82039</Low>
+    <Close>4.87495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-19</Date>
+    <Open>4.87539</Open>
+    <High>4.87789</High>
+    <Low>4.446</Low>
+    <Close>4.4527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-20</Date>
+    <Open>4.45318</Open>
+    <High>4.55276</High>
+    <Low>4.3698</Low>
+    <Close>4.40156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-21</Date>
+    <Open>4.40387</Open>
+    <High>4.56651</High>
+    <Low>4.38339</Low>
+    <Close>4.56641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-22</Date>
+    <Open>4.56651</Open>
+    <High>4.57438</High>
+    <Low>4.35074</Low>
+    <Close>4.49149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-23</Date>
+    <Open>4.49233</Open>
+    <High>4.59661</High>
+    <Low>4.49233</Low>
+    <Close>4.53239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-24</Date>
+    <Open>4.53185</Open>
+    <High>4.57059</High>
+    <Low>4.45048</Low>
+    <Close>4.49926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-25</Date>
+    <Open>4.49676</Open>
+    <High>4.57166</High>
+    <Low>4.48574</Low>
+    <Close>4.57054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-26</Date>
+    <Open>4.56755</Open>
+    <High>4.62696</High>
+    <Low>4.38394</Low>
+    <Close>4.41664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-27</Date>
+    <Open>4.4167</Open>
+    <High>4.42575</High>
+    <Low>4.32359</Low>
+    <Close>4.33513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-28</Date>
+    <Open>4.33123</Open>
+    <High>4.40972</High>
+    <Low>4.32673</Low>
+    <Close>4.38086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-29</Date>
+    <Open>4.37806</Open>
+    <High>4.41893</High>
+    <Low>4.31996</Low>
+    <Close>4.38376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-30</Date>
+    <Open>4.38484</Open>
+    <High>4.43846</High>
+    <Low>4.21401</Low>
+    <Close>4.25378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-08-31</Date>
+    <Open>4.25414</Open>
+    <High>4.36329</High>
+    <Low>4.23945</Low>
+    <Close>4.33116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-01</Date>
+    <Open>4.32956</Open>
+    <High>4.33126</High>
+    <Low>4.25073</Low>
+    <Close>4.29464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-02</Date>
+    <Open>4.29259</Open>
+    <High>4.33804</High>
+    <Low>4.24592</Low>
+    <Close>4.25454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-03</Date>
+    <Open>4.25528</Open>
+    <High>4.26763</High>
+    <Low>4.2357</Low>
+    <Close>4.247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-04</Date>
+    <Open>4.2474</Open>
+    <High>4.25183</High>
+    <Low>4.1551</Low>
+    <Close>4.2033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-05</Date>
+    <Open>4.2037</Open>
+    <High>4.2132</High>
+    <Low>3.94559</Low>
+    <Close>3.9852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-06</Date>
+    <Open>3.9813</Open>
+    <High>4.09731</High>
+    <Low>3.94879</Low>
+    <Close>3.9673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-07</Date>
+    <Open>3.96344</Open>
+    <High>4.0119</High>
+    <Low>3.90554</Low>
+    <Close>4.00808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-08</Date>
+    <Open>4.00694</Open>
+    <High>4.07579</High>
+    <Low>3.97944</Low>
+    <Close>4.03415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-09</Date>
+    <Open>4.0292</Open>
+    <High>4.30128</High>
+    <Low>4.0239</Low>
+    <Close>4.28736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-10</Date>
+    <Open>4.27814</Open>
+    <High>4.32947</High>
+    <Low>4.2475</Low>
+    <Close>4.32266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-11</Date>
+    <Open>4.32142</Open>
+    <High>4.33166</High>
+    <Low>4.26656</Low>
+    <Close>4.30493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-12</Date>
+    <Open>4.30468</Open>
+    <High>4.45859</High>
+    <Low>4.30107</Low>
+    <Close>4.39239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-13</Date>
+    <Open>4.39142</Open>
+    <High>4.40113</High>
+    <Low>4.17367</Low>
+    <Close>4.19378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-14</Date>
+    <Open>4.19464</Open>
+    <High>4.3285</High>
+    <Low>4.11944</Low>
+    <Close>4.29957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-15</Date>
+    <Open>4.30037</Open>
+    <High>4.33327</High>
+    <Low>4.20104</Low>
+    <Close>4.22832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-16</Date>
+    <Open>4.22812</Open>
+    <High>4.2611</High>
+    <Low>4.16657</Low>
+    <Close>4.25977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-17</Date>
+    <Open>4.26067</Open>
+    <High>4.3048</High>
+    <Low>4.2589</Low>
+    <Close>4.29133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-18</Date>
+    <Open>4.2877</Open>
+    <High>4.2914</High>
+    <Low>4.11919</Low>
+    <Close>4.1344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-19</Date>
+    <Open>4.13299</Open>
+    <High>4.20084</High>
+    <Low>4.0014</Low>
+    <Close>4.20084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-20</Date>
+    <Open>4.20482</Open>
+    <High>4.2161</High>
+    <Low>4.11151</Low>
+    <Close>4.1665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-21</Date>
+    <Open>4.1693</Open>
+    <High>4.27836</High>
+    <Low>4.1004</Low>
+    <Close>4.1157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-22</Date>
+    <Open>4.11801</Open>
+    <High>4.3</High>
+    <Low>4.0882</Low>
+    <Close>4.251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-23</Date>
+    <Open>4.24992</Open>
+    <High>4.2791</High>
+    <Low>4.1022</Low>
+    <Close>4.1925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-24</Date>
+    <Open>4.19926</Open>
+    <High>4.27421</High>
+    <Low>4.17819</Low>
+    <Close>4.21434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-25</Date>
+    <Open>4.215</Open>
+    <High>4.2519</High>
+    <Low>4.17063</Low>
+    <Close>4.1872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-26</Date>
+    <Open>4.1882</Open>
+    <High>4.2332</High>
+    <Low>4.1596</Low>
+    <Close>4.21528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-27</Date>
+    <Open>4.2173</Open>
+    <High>4.34887</High>
+    <Low>4.1441</Low>
+    <Close>4.20908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-28</Date>
+    <Open>4.2052</Open>
+    <High>4.2822</High>
+    <Low>4.1132</Low>
+    <Close>4.2822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-29</Date>
+    <Open>4.2787</Open>
+    <High>4.3104</High>
+    <Low>4.19462</Low>
+    <Close>4.29623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-09-30</Date>
+    <Open>4.3036</Open>
+    <High>4.35664</High>
+    <Low>4.2226</Low>
+    <Close>4.252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-01</Date>
+    <Open>4.24892</Open>
+    <High>4.2914</High>
+    <Low>4.2344</Low>
+    <Close>4.2818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-02</Date>
+    <Open>4.2823</Open>
+    <High>4.32993</High>
+    <Low>4.267</Low>
+    <Close>4.298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-03</Date>
+    <Open>4.2974</Open>
+    <High>4.32983</High>
+    <Low>4.2568</Low>
+    <Close>4.32973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-04</Date>
+    <Open>4.32213</Open>
+    <High>4.40102</High>
+    <Low>4.28623</Low>
+    <Close>4.39192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-05</Date>
+    <Open>4.39128</Open>
+    <High>4.41134</High>
+    <Low>4.32183</Low>
+    <Close>4.40338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-06</Date>
+    <Open>4.39834</Open>
+    <High>4.46338</High>
+    <Low>4.39347</Low>
+    <Close>4.41425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-07</Date>
+    <Open>4.41045</Open>
+    <High>4.44058</High>
+    <Low>4.32222</Low>
+    <Close>4.39676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-08</Date>
+    <Open>4.39723</Open>
+    <High>4.40477</High>
+    <Low>4.32065</Low>
+    <Close>4.33377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-09</Date>
+    <Open>4.33533</Open>
+    <High>4.36594</High>
+    <Low>4.3153</Low>
+    <Close>4.36274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-10</Date>
+    <Open>4.35924</Open>
+    <High>4.3908</High>
+    <Low>4.31396</Low>
+    <Close>4.3885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-11</Date>
+    <Open>4.38886</Open>
+    <High>4.38886</High>
+    <Low>4.28</Low>
+    <Close>4.35461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-12</Date>
+    <Open>4.35273</Open>
+    <High>4.40408</High>
+    <Low>4.33939</Low>
+    <Close>4.40013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-13</Date>
+    <Open>4.4007</Open>
+    <High>4.40667</High>
+    <Low>4.19992</Low>
+    <Close>4.37745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-14</Date>
+    <Open>4.38269</Open>
+    <High>4.43901</High>
+    <Low>4.3503</Low>
+    <Close>4.37773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-15</Date>
+    <Open>4.38418</Open>
+    <High>4.39914</High>
+    <Low>4.34662</Low>
+    <Close>4.39592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-16</Date>
+    <Open>4.39716</Open>
+    <High>4.44976</High>
+    <Low>4.38416</Low>
+    <Close>4.42812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-17</Date>
+    <Open>4.42589</Open>
+    <High>4.46428</High>
+    <Low>4.41495</Low>
+    <Close>4.46129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-18</Date>
+    <Open>4.46274</Open>
+    <High>4.47988</High>
+    <Low>4.38974</Low>
+    <Close>4.40762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-19</Date>
+    <Open>4.39842</Open>
+    <High>4.41082</High>
+    <Low>4.368</Low>
+    <Close>4.3837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-20</Date>
+    <Open>4.38016</Open>
+    <High>4.41562</High>
+    <Low>4.35956</Low>
+    <Close>4.36046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-21</Date>
+    <Open>4.3568</Open>
+    <High>4.36581</High>
+    <Low>4.29407</Low>
+    <Close>4.36111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-22</Date>
+    <Open>4.36115</Open>
+    <High>4.39496</High>
+    <Low>4.34173</Low>
+    <Close>4.35315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-23</Date>
+    <Open>4.35265</Open>
+    <High>4.38366</High>
+    <Low>4.33068</Low>
+    <Close>4.38351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-24</Date>
+    <Open>4.38257</Open>
+    <High>4.42316</High>
+    <Low>4.38257</Low>
+    <Close>4.41282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-25</Date>
+    <Open>4.41068</Open>
+    <High>4.46196</High>
+    <Low>4.38728</Low>
+    <Close>4.46127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-26</Date>
+    <Open>4.45902</Open>
+    <High>4.5013</High>
+    <Low>4.4285</Low>
+    <Close>4.50126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-27</Date>
+    <Open>4.50006</Open>
+    <High>4.561</High>
+    <Low>4.45053</Low>
+    <Close>4.49607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-28</Date>
+    <Open>4.49602</Open>
+    <High>4.53086</High>
+    <Low>4.44194</Low>
+    <Close>4.51429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-29</Date>
+    <Open>4.51026</Open>
+    <High>4.60096</High>
+    <Low>4.50594</Low>
+    <Close>4.59866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-30</Date>
+    <Open>4.5995</Open>
+    <High>4.62018</High>
+    <Low>4.54589</Low>
+    <Close>4.58496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-10-31</Date>
+    <Open>4.58327</Open>
+    <High>4.67664</High>
+    <Low>4.52801</Low>
+    <Close>4.64033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-01</Date>
+    <Open>4.64052</Open>
+    <High>4.71903</High>
+    <Low>4.61257</Low>
+    <Close>4.63949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-02</Date>
+    <Open>4.63944</Open>
+    <High>4.66431</High>
+    <Low>4.5677</Low>
+    <Close>4.58822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-03</Date>
+    <Open>4.58857</Open>
+    <High>4.67399</High>
+    <Low>4.58857</Low>
+    <Close>4.65045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-04</Date>
+    <Open>4.65175</Open>
+    <High>4.85641</High>
+    <Low>4.63951</Low>
+    <Close>4.82034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-05</Date>
+    <Open>4.81679</Open>
+    <High>4.84878</High>
+    <Low>4.79524</Low>
+    <Close>4.83214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-06</Date>
+    <Open>4.83209</Open>
+    <High>4.88775</High>
+    <Low>4.8174</Low>
+    <Close>4.83484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-07</Date>
+    <Open>4.83034</Open>
+    <High>4.8593</High>
+    <Low>4.64929</Low>
+    <Close>4.69411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-08</Date>
+    <Open>4.69391</Open>
+    <High>4.71015</High>
+    <Low>4.07441</Low>
+    <Close>4.29134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-09</Date>
+    <Open>4.29023</Open>
+    <High>4.37503</High>
+    <Low>3.92374</Low>
+    <Close>3.97779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-10</Date>
+    <Open>3.97839</Open>
+    <High>4.62128</High>
+    <Low>3.74167</Low>
+    <Close>4.06349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-11</Date>
+    <Open>4.0647</Open>
+    <High>4.78911</High>
+    <Low>3.7216</Low>
+    <Close>3.7713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-12</Date>
+    <Open>3.77033</Open>
+    <High>3.80407</High>
+    <Low>3.61468</Low>
+    <Close>3.68366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-13</Date>
+    <Open>3.68096</Open>
+    <High>3.72556</High>
+    <Low>3.35383</Low>
+    <Close>3.52716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-14</Date>
+    <Open>3.52576</Open>
+    <High>3.68417</High>
+    <Low>3.4617</Low>
+    <Close>3.63221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-15</Date>
+    <Open>3.63424</Open>
+    <High>3.73666</High>
+    <Low>3.49545</Low>
+    <Close>3.6922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-16</Date>
+    <Open>3.69137</Open>
+    <High>3.74599</High>
+    <Low>3.62288</Low>
+    <Close>3.68724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-17</Date>
+    <Open>3.69021</Open>
+    <High>3.74889</High>
+    <Low>3.62471</Low>
+    <Close>3.63606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-18</Date>
+    <Open>3.63627</Open>
+    <High>3.65893</High>
+    <Low>3.53235</Low>
+    <Close>3.56196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-19</Date>
+    <Open>3.5584</Open>
+    <High>3.58467</High>
+    <Low>3.54989</Low>
+    <Close>3.58467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-20</Date>
+    <Open>3.57894</Open>
+    <High>3.59176</High>
+    <Low>3.48064</Low>
+    <Close>3.48932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-21</Date>
+    <Open>3.48632</Open>
+    <High>3.49663</High>
+    <Low>3.39069</Low>
+    <Close>3.39512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-22</Date>
+    <Open>3.39519</Open>
+    <High>3.49222</High>
+    <Low>3.332</Low>
+    <Close>3.48664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-23</Date>
+    <Open>3.48514</Open>
+    <High>3.62572</High>
+    <Low>3.48354</Low>
+    <Close>3.56757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-24</Date>
+    <Open>3.56747</Open>
+    <High>3.63863</High>
+    <Low>3.56721</Low>
+    <Close>3.63038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-25</Date>
+    <Open>3.62608</Open>
+    <High>3.7342</High>
+    <Low>3.55181</Low>
+    <Close>3.71242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-26</Date>
+    <Open>3.71231</Open>
+    <High>3.78154</High>
+    <Low>3.62968</Low>
+    <Close>3.64875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-27</Date>
+    <Open>3.64868</Open>
+    <High>3.68957</High>
+    <Low>3.64585</Low>
+    <Close>3.68328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-28</Date>
+    <Open>3.68288</Open>
+    <High>3.68378</High>
+    <Low>3.55211</Low>
+    <Close>3.57164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-29</Date>
+    <Open>3.56761</Open>
+    <High>3.61678</High>
+    <Low>3.54365</Low>
+    <Close>3.60706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-11-30</Date>
+    <Open>3.60756</Open>
+    <High>3.63901</High>
+    <Low>3.58482</Low>
+    <Close>3.63328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-01</Date>
+    <Open>3.63242</Open>
+    <High>3.66744</High>
+    <Low>3.5931</Low>
+    <Close>3.60232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-02</Date>
+    <Open>3.60072</Open>
+    <High>3.62642</High>
+    <Low>3.58229</Low>
+    <Close>3.62212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-03</Date>
+    <Open>3.62212</Open>
+    <High>3.64944</High>
+    <Low>3.61246</Low>
+    <Close>3.61246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-04</Date>
+    <Open>3.61246</Open>
+    <High>3.68817</High>
+    <Low>3.59962</Low>
+    <Close>3.60572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-05</Date>
+    <Open>3.60582</Open>
+    <High>3.66603</High>
+    <Low>3.60266</Low>
+    <Close>3.62221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-06</Date>
+    <Open>3.62211</Open>
+    <High>3.65533</High>
+    <Low>3.61266</Low>
+    <Close>3.63313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-07</Date>
+    <Open>3.6329</Open>
+    <High>3.649</High>
+    <Low>3.55814</Low>
+    <Close>3.56744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-08</Date>
+    <Open>3.56837</Open>
+    <High>3.61805</High>
+    <Low>3.56006</Low>
+    <Close>3.56695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-09</Date>
+    <Open>3.56565</Open>
+    <High>3.60486</High>
+    <Low>3.56456</Low>
+    <Close>3.58361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-10</Date>
+    <Open>3.58154</Open>
+    <High>3.59624</High>
+    <Low>3.57297</Low>
+    <Close>3.59183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-11</Date>
+    <Open>3.58996</Open>
+    <High>3.61757</High>
+    <Low>3.57776</Low>
+    <Close>3.60072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-12</Date>
+    <Open>3.60052</Open>
+    <High>3.60072</High>
+    <Low>3.55752</Low>
+    <Close>3.55802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-13</Date>
+    <Open>3.56032</Open>
+    <High>3.68264</High>
+    <Low>3.55672</Low>
+    <Close>3.65349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-14</Date>
+    <Open>3.65422</Open>
+    <High>3.68</High>
+    <Low>3.58184</Low>
+    <Close>3.59482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-15</Date>
+    <Open>3.59205</Open>
+    <High>3.60072</High>
+    <Low>3.44519</Low>
+    <Close>3.45229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-16</Date>
+    <Open>3.45215</Open>
+    <High>3.46875</High>
+    <Low>3.40394</Low>
+    <Close>3.40394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-17</Date>
+    <Open>3.40384</Open>
+    <High>3.40428</High>
+    <Low>3.33797</Low>
+    <Close>3.37044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-18</Date>
+    <Open>3.37044</Open>
+    <High>3.40544</High>
+    <Low>3.36614</Low>
+    <Close>3.38431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-19</Date>
+    <Open>3.3835</Open>
+    <High>3.3966</High>
+    <Low>3.3567</Low>
+    <Close>3.3606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-20</Date>
+    <Open>3.36193</Open>
+    <High>3.44833</High>
+    <Low>3.35947</Low>
+    <Close>3.41464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-21</Date>
+    <Open>3.41467</Open>
+    <High>3.43154</High>
+    <Low>3.3938</Low>
+    <Close>3.41624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-22</Date>
+    <Open>3.41564</Open>
+    <High>3.4538</High>
+    <Low>3.40156</Low>
+    <Close>3.42625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-23</Date>
+    <Open>3.42622</Open>
+    <High>3.42622</High>
+    <Low>3.36516</Low>
+    <Close>3.39153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-24</Date>
+    <Open>3.38716</Open>
+    <High>3.404</High>
+    <Low>3.37296</Low>
+    <Close>3.3986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-25</Date>
+    <Open>3.39866</Open>
+    <High>3.40562</High>
+    <Low>3.38463</Low>
+    <Close>3.39859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-26</Date>
+    <Open>3.40223</Open>
+    <High>3.47365</High>
+    <Low>3.40223</Low>
+    <Close>3.43401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-27</Date>
+    <Open>3.43365</Open>
+    <High>3.44761</High>
+    <Low>3.33073</Low>
+    <Close>3.37185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-28</Date>
+    <Open>3.36925</Open>
+    <High>3.37988</High>
+    <Low>3.2162</Low>
+    <Close>3.23289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-29</Date>
+    <Open>3.23212</Open>
+    <High>3.26207</High>
+    <Low>3.10769</Low>
+    <Close>3.12889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-30</Date>
+    <Open>3.12899</Open>
+    <High>3.15171</High>
+    <Low>2.91997</Low>
+    <Close>3.01916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2022-12-31</Date>
+    <Open>3.01906</Open>
+    <High>3.05657</High>
+    <Low>3.00705</Low>
+    <Close>3.01459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-01</Date>
+    <Open>3.01729</Open>
+    <High>3.03445</High>
+    <Low>2.99844</Low>
+    <Close>3.01031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-02</Date>
+    <Open>3.01021</Open>
+    <High>3.10401</High>
+    <Low>3.00981</Low>
+    <Close>3.10104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-03</Date>
+    <Open>3.10121</Open>
+    <High>3.29195</High>
+    <Low>3.09451</Low>
+    <Close>3.21465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-04</Date>
+    <Open>3.21485</Open>
+    <High>3.27102</High>
+    <Low>3.20522</Low>
+    <Close>3.26872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-05</Date>
+    <Open>3.26772</Open>
+    <High>3.26948</High>
+    <Low>3.16722</Low>
+    <Close>3.21084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-06</Date>
+    <Open>3.21094</Open>
+    <High>3.21128</High>
+    <Low>3.12191</Low>
+    <Close>3.17012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-07</Date>
+    <Open>3.16985</Open>
+    <High>3.18801</High>
+    <Low>3.13482</Low>
+    <Close>3.16874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-08</Date>
+    <Open>3.16655</Open>
+    <High>3.17912</High>
+    <Low>3.15823</Low>
+    <Close>3.17782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-09</Date>
+    <Open>3.17536</Open>
+    <High>3.41056</High>
+    <Low>3.17516</Low>
+    <Close>3.35647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-10</Date>
+    <Open>3.3561</Open>
+    <High>3.3565</High>
+    <Low>3.29764</Low>
+    <Close>3.32026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-11</Date>
+    <Open>3.32036</Open>
+    <High>3.32123</High>
+    <Low>3.29747</Low>
+    <Close>3.32123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-12</Date>
+    <Open>3.32007</Open>
+    <High>3.41124</High>
+    <Low>3.31244</Low>
+    <Close>3.41124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-13</Date>
+    <Open>3.40994</Open>
+    <High>3.63026</High>
+    <Low>3.4005</Low>
+    <Close>3.62863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-14</Date>
+    <Open>3.63033</Open>
+    <High>3.88016</High>
+    <Low>3.6181</Low>
+    <Close>3.88016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-15</Date>
+    <Open>3.88087</Open>
+    <High>3.89796</High>
+    <Low>3.72675</Low>
+    <Close>3.83115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-16</Date>
+    <Open>3.82941</Open>
+    <High>3.92428</High>
+    <Low>3.77846</Low>
+    <Close>3.92248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-17</Date>
+    <Open>3.92214</Open>
+    <High>3.92994</High>
+    <Low>3.77009</Low>
+    <Close>3.83872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-18</Date>
+    <Open>3.83982</Open>
+    <High>3.85049</High>
+    <Low>3.67532</Low>
+    <Close>3.77751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-19</Date>
+    <Open>3.78147</Open>
+    <High>3.78735</High>
+    <Low>3.69637</Low>
+    <Close>3.77309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-20</Date>
+    <Open>3.77559</Open>
+    <High>3.92037</High>
+    <Low>3.7131</Low>
+    <Close>3.92037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-21</Date>
+    <Open>3.91224</Open>
+    <High>4.05571</High>
+    <Low>3.8915</Low>
+    <Close>4.04985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-22</Date>
+    <Open>4.0327</Open>
+    <High>4.06835</High>
+    <Low>3.98138</Low>
+    <Close>4.03257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-23</Date>
+    <Open>4.03481</Open>
+    <High>4.17929</High>
+    <Low>4.03243</Low>
+    <Close>4.16172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-24</Date>
+    <Open>4.15678</Open>
+    <High>4.16167</High>
+    <Low>4.10086</Low>
+    <Close>4.10668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-25</Date>
+    <Open>4.10668</Open>
+    <High>4.13919</High>
+    <Low>4.0017</Low>
+    <Close>4.10356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-26</Date>
+    <Open>4.10304</Open>
+    <High>4.20549</High>
+    <Low>4.10078</Low>
+    <Close>4.14791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-27</Date>
+    <Open>4.14547</Open>
+    <High>4.17107</High>
+    <Low>4.09385</Low>
+    <Close>4.15867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-28</Date>
+    <Open>4.14831</Open>
+    <High>4.21139</High>
+    <Low>4.14614</Low>
+    <Close>4.20584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-29</Date>
+    <Open>4.20308</Open>
+    <High>4.34873</High>
+    <Low>4.19126</Low>
+    <Close>4.31656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-30</Date>
+    <Open>4.32022</Open>
+    <High>4.51107</High>
+    <Low>4.30263</Low>
+    <Close>4.34316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-01-31</Date>
+    <Open>4.34326</Open>
+    <High>4.42933</High>
+    <Low>4.32917</Low>
+    <Close>4.4292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-01</Date>
+    <Open>4.42915</Open>
+    <High>4.50452</High>
+    <Low>4.37578</Low>
+    <Close>4.50447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-02</Date>
+    <Open>4.49367</Open>
+    <High>4.60187</High>
+    <Low>4.46332</Low>
+    <Close>4.57482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-03</Date>
+    <Open>4.57236</Open>
+    <High>4.59848</High>
+    <Low>4.47171</Low>
+    <Close>4.51226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-04</Date>
+    <Open>4.51041</Open>
+    <High>4.54585</High>
+    <Low>4.46089</Low>
+    <Close>4.50546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-05</Date>
+    <Open>4.50696</Open>
+    <High>4.5264</High>
+    <Low>4.26597</Low>
+    <Close>4.29957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-06</Date>
+    <Open>4.29712</Open>
+    <High>4.33287</High>
+    <Low>4.25227</Low>
+    <Close>4.32757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-07</Date>
+    <Open>4.32163</Open>
+    <High>4.43871</High>
+    <Low>4.2893</Low>
+    <Close>4.43871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-08</Date>
+    <Open>4.43857</Open>
+    <High>4.4957</High>
+    <Low>4.39068</Low>
+    <Close>4.43255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-09</Date>
+    <Open>4.43321</Open>
+    <High>4.4399</High>
+    <Low>4.26483</Low>
+    <Close>4.26483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-10</Date>
+    <Open>4.26483</Open>
+    <High>4.28081</High>
+    <Low>4.21411</Low>
+    <Close>4.26894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-11</Date>
+    <Open>4.26444</Open>
+    <High>4.31103</High>
+    <Low>4.22988</Low>
+    <Close>4.30873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-12</Date>
+    <Open>4.30789</Open>
+    <High>4.35678</High>
+    <Low>4.2813</Low>
+    <Close>4.31173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-13</Date>
+    <Open>4.31873</Open>
+    <High>4.34084</High>
+    <Low>4.26691</Low>
+    <Close>4.28231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-14</Date>
+    <Open>4.28062</Open>
+    <High>4.40152</High>
+    <Low>4.27533</Low>
+    <Close>4.40048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-15</Date>
+    <Open>4.39887</Open>
+    <High>4.55364</High>
+    <Low>4.35188</Low>
+    <Close>4.54072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-16</Date>
+    <Open>4.53853</Open>
+    <High>4.63093</High>
+    <Low>4.47753</Low>
+    <Close>4.48773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-17</Date>
+    <Open>4.49554</Open>
+    <High>4.63192</High>
+    <Low>4.36404</Low>
+    <Close>4.63152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-18</Date>
+    <Open>4.62989</Open>
+    <High>4.73875</High>
+    <Low>4.61735</Low>
+    <Close>4.6868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-19</Date>
+    <Open>4.68975</Open>
+    <High>4.71027</High>
+    <Low>4.63193</Low>
+    <Close>4.64097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-20</Date>
+    <Open>4.63567</Open>
+    <High>5.41718</High>
+    <Low>4.59559</Low>
+    <Close>5.17516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-21</Date>
+    <Open>5.16921</Open>
+    <High>5.20331</High>
+    <Low>4.81913</Low>
+    <Close>4.98365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-22</Date>
+    <Open>4.9829</Open>
+    <High>5.08186</High>
+    <Low>4.85439</Low>
+    <Close>5.0488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-23</Date>
+    <Open>5.05315</Open>
+    <High>5.24744</High>
+    <Low>4.99575</Low>
+    <Close>5.24003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-24</Date>
+    <Open>5.22863</Open>
+    <High>5.30739</High>
+    <Low>5.08036</Low>
+    <Close>5.21865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-25</Date>
+    <Open>5.2139</Open>
+    <High>5.28218</High>
+    <Low>5.12775</Low>
+    <Close>5.18706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-26</Date>
+    <Open>5.18496</Open>
+    <High>5.4523</High>
+    <Low>5.16847</Low>
+    <Close>5.38979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-27</Date>
+    <Open>5.39267</Open>
+    <High>5.44366</High>
+    <Low>5.26666</Low>
+    <Close>5.26666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-02-28</Date>
+    <Open>5.26566</Open>
+    <High>5.35067</High>
+    <Low>5.1111</Low>
+    <Close>5.25536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-01</Date>
+    <Open>5.2521</Open>
+    <High>5.38378</High>
+    <Low>5.22247</Low>
+    <Close>5.32499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-02</Date>
+    <Open>5.32504</Open>
+    <High>5.3338</High>
+    <Low>5.12375</Low>
+    <Close>5.18777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-03</Date>
+    <Open>5.18075</Open>
+    <High>5.18817</High>
+    <Low>4.86874</Low>
+    <Close>4.92624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-04</Date>
+    <Open>4.92709</Open>
+    <High>5.0312</High>
+    <Low>4.82464</Low>
+    <Close>4.86344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-05</Date>
+    <Open>4.85984</Open>
+    <High>5.0139</High>
+    <Low>4.85984</Low>
+    <Close>5.00265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-06</Date>
+    <Open>4.99505</Open>
+    <High>5.01285</High>
+    <Low>4.88955</Low>
+    <Close>4.9676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-07</Date>
+    <Open>4.96555</Open>
+    <High>4.9845</High>
+    <Low>4.75655</Low>
+    <Close>4.7796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-08</Date>
+    <Open>4.77796</Open>
+    <High>4.82891</High>
+    <Low>4.77275</Low>
+    <Close>4.79731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-09</Date>
+    <Open>4.79433</Open>
+    <High>4.83945</High>
+    <Low>4.53685</Low>
+    <Close>4.60436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-10</Date>
+    <Open>4.59924</Open>
+    <High>4.60142</High>
+    <Low>4.34141</Low>
+    <Close>4.59533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-11</Date>
+    <Open>4.59233</Open>
+    <High>4.75742</High>
+    <Low>4.44348</Low>
+    <Close>4.58989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-12</Date>
+    <Open>4.59108</Open>
+    <High>4.78043</High>
+    <Low>4.53652</Low>
+    <Close>4.77952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-13</Date>
+    <Open>4.77434</Open>
+    <High>5.37355</High>
+    <Low>4.7723</Low>
+    <Close>5.37136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-14</Date>
+    <Open>5.38046</Open>
+    <High>5.588</High>
+    <Low>5.26827</Low>
+    <Close>5.35629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-15</Date>
+    <Open>5.36296</Open>
+    <High>5.542</High>
+    <Low>5.23079</Low>
+    <Close>5.36189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-16</Date>
+    <Open>5.36147</Open>
+    <High>5.46362</High>
+    <Low>5.32879</Low>
+    <Close>5.45485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-17</Date>
+    <Open>5.45649</Open>
+    <High>5.54887</High>
+    <Low>5.42709</Low>
+    <Close>5.53741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-18</Date>
+    <Open>5.53696</Open>
+    <High>5.53699</High>
+    <Low>5.34023</Low>
+    <Close>5.39774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-19</Date>
+    <Open>5.40301</Open>
+    <High>5.58341</High>
+    <Low>5.38194</Low>
+    <Close>5.51701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-20</Date>
+    <Open>5.52399</Open>
+    <High>5.54197</High>
+    <Low>5.37226</Low>
+    <Close>5.41545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-21</Date>
+    <Open>5.40797</Open>
+    <High>5.43817</High>
+    <Low>5.24789</Low>
+    <Close>5.41652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-22</Date>
+    <Open>5.41301</Open>
+    <High>5.41718</High>
+    <Low>5.14911</Low>
+    <Close>5.19299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-23</Date>
+    <Open>5.18644</Open>
+    <High>5.41089</High>
+    <Low>5.18413</Low>
+    <Close>5.3954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-24</Date>
+    <Open>5.39149</Open>
+    <High>5.41021</High>
+    <Low>5.07578</Low>
+    <Close>5.08258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-25</Date>
+    <Open>5.08164</Open>
+    <High>5.17982</High>
+    <Low>5.02282</Low>
+    <Close>5.03648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-26</Date>
+    <Open>5.04003</Open>
+    <High>5.1145</High>
+    <Low>5.01541</Low>
+    <Close>5.10696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-27</Date>
+    <Open>5.10937</Open>
+    <High>5.15929</High>
+    <Low>4.80182</Low>
+    <Close>4.82377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-28</Date>
+    <Open>4.82227</Open>
+    <High>4.96604</High>
+    <Low>4.81562</Low>
+    <Close>4.96604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-29</Date>
+    <Open>4.96544</Open>
+    <High>5.16254</High>
+    <Low>4.96018</Low>
+    <Close>5.09796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-30</Date>
+    <Open>5.09112</Open>
+    <High>5.12938</High>
+    <Low>4.9747</Low>
+    <Close>5.04641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-03-31</Date>
+    <Open>5.04656</Open>
+    <High>5.20135</High>
+    <Low>4.99785</Low>
+    <Close>5.15228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-01</Date>
+    <Open>5.15343</Open>
+    <High>5.21092</High>
+    <Low>5.13228</Low>
+    <Close>5.17171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-02</Date>
+    <Open>5.17151</Open>
+    <High>5.18717</High>
+    <Low>5.05178</Low>
+    <Close>5.09626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-03</Date>
+    <Open>5.09586</Open>
+    <High>5.13368</High>
+    <Low>5.01085</Low>
+    <Close>5.08868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-04</Date>
+    <Open>5.08583</Open>
+    <High>5.16762</High>
+    <Low>5.08153</Low>
+    <Close>5.16243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-05</Date>
+    <Open>5.15973</Open>
+    <High>5.2979</High>
+    <Low>5.14341</Low>
+    <Close>5.29531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-06</Date>
+    <Open>5.29122</Open>
+    <High>5.30067</High>
+    <Low>5.25469</Low>
+    <Close>5.27795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-07</Date>
+    <Open>5.2779</Open>
+    <High>5.28559</High>
+    <Low>5.22761</Low>
+    <Close>5.25238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-08</Date>
+    <Open>5.25274</Open>
+    <High>5.38091</High>
+    <Low>5.2341</Low>
+    <Close>5.33148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-09</Date>
+    <Open>5.33228</Open>
+    <High>5.38073</High>
+    <Low>5.21798</Low>
+    <Close>5.37843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-10</Date>
+    <Open>5.37908</Open>
+    <High>5.50353</High>
+    <Low>5.35685</Low>
+    <Close>5.49675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-11</Date>
+    <Open>5.4967</Open>
+    <High>5.6182</High>
+    <Low>5.47438</Low>
+    <Close>5.56781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-12</Date>
+    <Open>5.563</Open>
+    <High>5.56823</High>
+    <Low>5.44985</Low>
+    <Close>5.48828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-13</Date>
+    <Open>5.48808</Open>
+    <High>5.57138</High>
+    <Low>5.46349</Low>
+    <Close>5.49827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-14</Date>
+    <Open>5.50008</Open>
+    <High>5.58026</High>
+    <Low>5.49207</Low>
+    <Close>5.56431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-15</Date>
+    <Open>5.56471</Open>
+    <High>5.62489</High>
+    <Low>5.55497</Low>
+    <Close>5.56575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-16</Date>
+    <Open>5.58102</Open>
+    <High>5.61504</High>
+    <Low>5.56397</Low>
+    <Close>5.5973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-17</Date>
+    <Open>5.5956</Open>
+    <High>5.5999</High>
+    <Low>5.52537</Low>
+    <Close>5.54397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-18</Date>
+    <Open>5.54111</Open>
+    <High>5.62234</High>
+    <Low>5.53219</Low>
+    <Close>5.58441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-19</Date>
+    <Open>5.58105</Open>
+    <High>5.59009</High>
+    <Low>5.3012</Low>
+    <Close>5.31197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-20</Date>
+    <Open>5.31617</Open>
+    <High>5.39075</High>
+    <Low>5.248</Low>
+    <Close>5.26982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-21</Date>
+    <Open>5.26106</Open>
+    <High>5.35217</High>
+    <Low>5.12684</Low>
+    <Close>5.12684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-22</Date>
+    <Open>5.12984</Open>
+    <High>5.23452</High>
+    <Low>5.12349</Low>
+    <Close>5.22752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-23</Date>
+    <Open>5.22117</Open>
+    <High>5.23447</High>
+    <Low>5.17704</Low>
+    <Close>5.18966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-24</Date>
+    <Open>5.18941</Open>
+    <High>5.2505</High>
+    <Low>5.13302</Low>
+    <Close>5.2264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-25</Date>
+    <Open>5.21816</Open>
+    <High>5.30632</High>
+    <Low>5.15726</Low>
+    <Close>5.30632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-26</Date>
+    <Open>5.31062</Open>
+    <High>5.43415</High>
+    <Low>5.13107</Low>
+    <Close>5.26478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-27</Date>
+    <Open>5.26518</Open>
+    <High>5.35402</High>
+    <Low>5.23223</Low>
+    <Close>5.32866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-28</Date>
+    <Open>5.33176</Open>
+    <High>5.33176</High>
+    <Low>5.16312</Low>
+    <Close>5.24589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-29</Date>
+    <Open>5.24494</Open>
+    <High>5.34388</High>
+    <Low>5.23867</Low>
+    <Close>5.32164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-04-30</Date>
+    <Open>5.31748</Open>
+    <High>5.32355</High>
+    <Low>5.2567</Low>
+    <Close>5.29201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-01</Date>
+    <Open>5.28591</Open>
+    <High>5.28908</High>
+    <Low>5.13541</Low>
+    <Close>5.1733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-02</Date>
+    <Open>5.1706</Open>
+    <High>5.228</High>
+    <Low>5.13734</Low>
+    <Close>5.21798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-03</Date>
+    <Open>5.21783</Open>
+    <High>5.27545</High>
+    <Low>5.17245</Low>
+    <Close>5.22711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-04</Date>
+    <Open>5.2324</Open>
+    <High>5.25935</High>
+    <Low>5.19041</Low>
+    <Close>5.22183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-05</Date>
+    <Open>5.21533</Open>
+    <High>5.30065</High>
+    <Low>5.12995</Low>
+    <Close>5.29852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-06</Date>
+    <Open>5.30052</Open>
+    <High>5.30478</High>
+    <Low>5.13951</Low>
+    <Close>5.2403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-07</Date>
+    <Open>5.24251</Open>
+    <High>5.32092</High>
+    <Low>5.21202</Low>
+    <Close>5.23241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-08</Date>
+    <Open>5.23247</Open>
+    <High>5.23247</High>
+    <Low>5.02742</Low>
+    <Close>5.02742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-09</Date>
+    <Open>5.02487</Open>
+    <High>5.13243</High>
+    <Low>5.01171</Low>
+    <Close>5.11901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-10</Date>
+    <Open>5.1147</Open>
+    <High>5.19411</High>
+    <Low>5.08388</Low>
+    <Close>5.16776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-11</Date>
+    <Open>5.17177</Open>
+    <High>5.18788</High>
+    <Low>4.94174</Low>
+    <Close>4.96316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-12</Date>
+    <Open>4.96646</Open>
+    <High>4.97367</High>
+    <Low>4.81943</Low>
+    <Close>4.94415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-13</Date>
+    <Open>4.94575</Open>
+    <High>5.01281</High>
+    <Low>4.92465</Low>
+    <Close>4.97658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-14</Date>
+    <Open>4.97439</Open>
+    <High>5.008</High>
+    <Low>4.91695</Low>
+    <Close>4.98829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-15</Date>
+    <Open>4.99199</Open>
+    <High>5.01981</High>
+    <Low>4.97468</Low>
+    <Close>5.01281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-16</Date>
+    <Open>5.0104</Open>
+    <High>5.01341</High>
+    <Low>4.96608</Low>
+    <Close>5.0006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-17</Date>
+    <Open>4.9979</Open>
+    <High>5.0025</High>
+    <Low>4.80422</Low>
+    <Close>4.89306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-18</Date>
+    <Open>4.89365</Open>
+    <High>4.93958</High>
+    <Low>4.82283</Low>
+    <Close>4.86585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-19</Date>
+    <Open>4.86595</Open>
+    <High>4.91174</High>
+    <Low>4.82978</Low>
+    <Close>4.90452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-20</Date>
+    <Open>4.90226</Open>
+    <High>4.93244</High>
+    <Low>4.8765</Low>
+    <Close>4.92753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-21</Date>
+    <Open>4.92223</Open>
+    <High>4.94166</High>
+    <Low>4.88354</Low>
+    <Close>4.89283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-22</Date>
+    <Open>4.89183</Open>
+    <High>4.94266</High>
+    <Low>4.88864</Low>
+    <Close>4.91336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-23</Date>
+    <Open>4.90725</Open>
+    <High>4.94189</High>
+    <Low>4.85119</Low>
+    <Close>4.85859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-24</Date>
+    <Open>4.85813</Open>
+    <High>4.96345</High>
+    <Low>4.70428</Low>
+    <Close>4.80826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-25</Date>
+    <Open>4.81341</Open>
+    <High>4.81576</High>
+    <Low>4.65984</Low>
+    <Close>4.73029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-26</Date>
+    <Open>4.72904</Open>
+    <High>4.75936</High>
+    <Low>4.69259</Low>
+    <Close>4.74555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-27</Date>
+    <Open>4.74242</Open>
+    <High>4.74837</High>
+    <Low>4.67796</Low>
+    <Close>4.72155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GT">
+    <Date>2023-05-28</Date>
+    <Open>4.72109</Open>
+    <High>4.80134</High>
+    <Low>4.71751</Low>
+    <Close>4.7978</Close>
+  </Cryptocurrency>
+</Root>

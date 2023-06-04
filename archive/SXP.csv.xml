@@ -1,0 +1,3167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-04</Date>
+    <Open>1.42543</Open>
+    <High>1.48945</High>
+    <Low>1.36127</Low>
+    <Close>1.37841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-05</Date>
+    <Open>1.37941</Open>
+    <High>1.41142</High>
+    <Low>1.3364</Low>
+    <Close>1.40642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-06</Date>
+    <Open>1.40642</Open>
+    <High>1.43129</High>
+    <Low>1.3374</Low>
+    <Close>1.35841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-07</Date>
+    <Open>1.36041</Open>
+    <High>1.36041</High>
+    <Low>1.24125</Low>
+    <Close>1.27638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-08</Date>
+    <Open>1.27638</Open>
+    <High>1.30726</High>
+    <Low>1.26225</Low>
+    <Close>1.27325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-09</Date>
+    <Open>1.27726</Open>
+    <High>1.36027</High>
+    <Low>1.27726</Low>
+    <Close>1.33227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-10</Date>
+    <Open>1.33313</Open>
+    <High>1.35327</High>
+    <Low>1.24437</Low>
+    <Close>1.27551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-11</Date>
+    <Open>1.27651</Open>
+    <High>1.28939</High>
+    <Low>1.22725</Low>
+    <Close>1.24712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-12</Date>
+    <Open>1.24625</Open>
+    <High>1.26225</High>
+    <Low>1.238</Low>
+    <Close>1.24812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-13</Date>
+    <Open>1.24837</Open>
+    <High>1.26713</High>
+    <Low>1.18736</Low>
+    <Close>1.19424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-14</Date>
+    <Open>1.19024</Open>
+    <High>1.24812</High>
+    <Low>1.16912</Low>
+    <Close>1.23325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-15</Date>
+    <Open>1.23525</Open>
+    <High>1.27113</High>
+    <Low>1.22712</Low>
+    <Close>1.26038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-16</Date>
+    <Open>1.25938</Open>
+    <High>1.3474</High>
+    <Low>1.24325</Low>
+    <Close>1.3364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-17</Date>
+    <Open>1.33727</Open>
+    <High>1.41943</High>
+    <Low>1.33627</Low>
+    <Close>1.3937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-18</Date>
+    <Open>1.39456</Open>
+    <High>1.4939</High>
+    <Low>1.34281</Low>
+    <Close>1.46873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-19</Date>
+    <Open>1.46673</Open>
+    <High>1.54677</High>
+    <Low>1.45187</Low>
+    <Close>1.54062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-20</Date>
+    <Open>1.53761</Open>
+    <High>1.64082</High>
+    <Low>1.40356</Low>
+    <Close>1.41757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-21</Date>
+    <Open>1.41857</Open>
+    <High>1.47574</High>
+    <Low>1.36855</Low>
+    <Close>1.43572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-22</Date>
+    <Open>1.43457</Open>
+    <High>1.56178</High>
+    <Low>1.42657</Low>
+    <Close>1.50975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-23</Date>
+    <Open>1.51075</Open>
+    <High>1.57679</High>
+    <Low>1.4946</Low>
+    <Close>1.57279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-24</Date>
+    <Open>1.57463</Open>
+    <High>1.6098</High>
+    <Low>1.55062</Low>
+    <Close>1.6058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-25</Date>
+    <Open>1.60664</Open>
+    <High>1.67083</High>
+    <Low>1.52161</Low>
+    <Close>1.55178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-26</Date>
+    <Open>1.55162</Open>
+    <High>1.62965</High>
+    <Low>1.53962</Low>
+    <Close>1.61264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-27</Date>
+    <Open>1.61481</Open>
+    <High>1.68667</High>
+    <Low>1.5938</Low>
+    <Close>1.68467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-28</Date>
+    <Open>1.68467</Open>
+    <High>1.79254</High>
+    <Low>1.6655</Low>
+    <Close>1.68067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-29</Date>
+    <Open>1.68084</Open>
+    <High>1.69468</High>
+    <Low>1.58347</Low>
+    <Close>1.6058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-30</Date>
+    <Open>1.6068</Open>
+    <High>1.70868</High>
+    <Low>1.55262</Low>
+    <Close>1.63149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-03-31</Date>
+    <Open>1.63249</Open>
+    <High>1.68834</High>
+    <Low>1.54431</Low>
+    <Close>1.57131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-01</Date>
+    <Open>1.57247</Open>
+    <High>1.61264</High>
+    <Low>1.49045</Low>
+    <Close>1.59464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-02</Date>
+    <Open>1.59532</Open>
+    <High>1.68467</High>
+    <Low>1.58347</Low>
+    <Close>1.62565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-03</Date>
+    <Open>1.62649</Open>
+    <High>1.67167</High>
+    <Low>1.56147</Low>
+    <Close>1.66166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-04</Date>
+    <Open>1.6675</Open>
+    <High>1.68067</High>
+    <Low>1.50145</Low>
+    <Close>1.57347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-05</Date>
+    <Open>1.57447</Open>
+    <High>1.58848</High>
+    <Low>1.5103</Low>
+    <Close>1.52115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-06</Date>
+    <Open>1.5223</Open>
+    <High>1.52515</High>
+    <Low>1.332</Low>
+    <Close>1.36514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-07</Date>
+    <Open>1.364</Open>
+    <High>1.37314</High>
+    <Low>1.302</Low>
+    <Close>1.36214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-08</Date>
+    <Open>1.36114</Open>
+    <High>1.39014</High>
+    <Low>1.31513</Low>
+    <Close>1.31653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-09</Date>
+    <Open>1.3184</Open>
+    <High>1.3394</High>
+    <Low>1.26138</Low>
+    <Close>1.3274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-10</Date>
+    <Open>1.3274</Open>
+    <High>1.35141</High>
+    <Low>1.30139</Low>
+    <Close>1.32827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-11</Date>
+    <Open>1.32827</Open>
+    <High>1.32913</High>
+    <Low>1.17123</Low>
+    <Close>1.17135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-12</Date>
+    <Open>1.17135</Open>
+    <High>1.26225</High>
+    <Low>1.16035</Low>
+    <Close>1.22237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-13</Date>
+    <Open>1.22237</Open>
+    <High>1.27851</High>
+    <Low>1.21524</Low>
+    <Close>1.26638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-14</Date>
+    <Open>1.27368</Open>
+    <High>1.29446</High>
+    <Low>1.22197</Low>
+    <Close>1.23822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-15</Date>
+    <Open>1.23902</Open>
+    <High>1.27385</High>
+    <Low>1.22665</Low>
+    <Close>1.26615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-16</Date>
+    <Open>1.26585</Open>
+    <High>1.27365</High>
+    <Low>1.24045</Low>
+    <Close>1.25745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-17</Date>
+    <Open>1.25795</Open>
+    <High>1.27055</High>
+    <Low>1.23095</Low>
+    <Close>1.24595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-18</Date>
+    <Open>1.24635</Open>
+    <High>1.36741</High>
+    <Low>1.15652</Low>
+    <Close>1.35041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-19</Date>
+    <Open>1.35141</Open>
+    <High>1.41943</High>
+    <Low>1.3334</Low>
+    <Close>1.38628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-20</Date>
+    <Open>1.38628</Open>
+    <High>1.40128</High>
+    <Low>1.31313</Low>
+    <Close>1.33927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-21</Date>
+    <Open>1.34027</Open>
+    <High>1.35414</High>
+    <Low>1.26425</Low>
+    <Close>1.27125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-22</Date>
+    <Open>1.27926</Open>
+    <High>1.29026</High>
+    <Low>1.24225</Low>
+    <Close>1.25313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-23</Date>
+    <Open>1.26125</Open>
+    <High>1.26265</High>
+    <Low>1.21094</Low>
+    <Close>1.24282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-24</Date>
+    <Open>1.24335</Open>
+    <High>1.24725</High>
+    <Low>1.20622</Low>
+    <Close>1.21754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-25</Date>
+    <Open>1.21754</Open>
+    <High>1.21954</High>
+    <Low>1.1309</Low>
+    <Close>1.17952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-26</Date>
+    <Open>1.17724</Open>
+    <High>1.19824</High>
+    <Low>1.08061</Low>
+    <Close>1.1009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-27</Date>
+    <Open>1.10021</Open>
+    <High>1.135</High>
+    <Low>1.0688</Low>
+    <Close>1.10961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-28</Date>
+    <Open>1.11031</Open>
+    <High>1.14181</High>
+    <Low>1.09741</Low>
+    <Close>1.11601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-29</Date>
+    <Open>1.10511</Open>
+    <High>1.15552</High>
+    <Low>1.034</Low>
+    <Close>1.05111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-04-30</Date>
+    <Open>1.05111</Open>
+    <High>1.07021</High>
+    <Low>1.005</Low>
+    <Close>1.0261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-01</Date>
+    <Open>1.025</Open>
+    <High>1.0311</High>
+    <Low>0.901</Low>
+    <Close>0.981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-02</Date>
+    <Open>0.9811</Open>
+    <High>1.0341</High>
+    <Low>0.962</Low>
+    <Close>1.0161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-03</Date>
+    <Open>1.017</Open>
+    <High>1.06911</High>
+    <Low>0.9998</Low>
+    <Close>1.0379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-04</Date>
+    <Open>1.03779</Open>
+    <High>1.102</High>
+    <Low>1.0138</Low>
+    <Close>1.098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-05</Date>
+    <Open>1.09767</Open>
+    <High>1.11589</High>
+    <Low>0.94191</Low>
+    <Close>0.96581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-06</Date>
+    <Open>0.96481</Open>
+    <High>0.97481</High>
+    <Low>0.92082</Low>
+    <Close>0.94791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-07</Date>
+    <Open>0.94791</Open>
+    <High>0.9644</High>
+    <Low>0.91351</Low>
+    <Close>0.91351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-08</Date>
+    <Open>0.91722</Open>
+    <High>0.92471</High>
+    <Low>0.85266</Low>
+    <Close>0.87974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-09</Date>
+    <Open>0.87874</Open>
+    <High>0.87974</High>
+    <Low>0.70979</Low>
+    <Close>0.72386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-10</Date>
+    <Open>0.72386</Open>
+    <High>0.75977</High>
+    <Low>0.64074</Low>
+    <Close>0.65674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-11</Date>
+    <Open>0.65774</Open>
+    <High>0.70472</High>
+    <Low>0.38446</Low>
+    <Close>0.41645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-12</Date>
+    <Open>0.41342</Open>
+    <High>0.45318</High>
+    <Low>0.29018</Low>
+    <Close>0.381966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-13</Date>
+    <Open>0.38093</Open>
+    <High>0.478569</High>
+    <Low>0.37299</Low>
+    <Close>0.453228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-14</Date>
+    <Open>0.453228</Open>
+    <High>0.475191</High>
+    <Low>0.424107</Low>
+    <Close>0.467298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-15</Date>
+    <Open>0.466346</Open>
+    <High>0.510234</High>
+    <Low>0.466346</Low>
+    <Close>0.490411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-16</Date>
+    <Open>0.490362</Open>
+    <High>0.502396</High>
+    <Low>0.44633</Low>
+    <Close>0.459356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-17</Date>
+    <Open>0.460401</Open>
+    <High>0.489461</High>
+    <Low>0.451367</Low>
+    <Close>0.479376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-18</Date>
+    <Open>0.480375</Open>
+    <High>0.494406</High>
+    <Low>0.426445</Low>
+    <Close>0.431438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-19</Date>
+    <Open>0.433636</Open>
+    <High>0.451593</High>
+    <Low>0.397483</Low>
+    <Close>0.443556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-20</Date>
+    <Open>0.444599</Open>
+    <High>0.469671</High>
+    <Low>0.43044</Low>
+    <Close>0.443767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-21</Date>
+    <Open>0.444166</Open>
+    <High>0.485419</High>
+    <Low>0.443667</Low>
+    <Close>0.454808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-22</Date>
+    <Open>0.454563</Open>
+    <High>0.503595</High>
+    <Low>0.453764</Low>
+    <Close>0.489212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-23</Date>
+    <Open>0.490111</Open>
+    <High>0.52947</High>
+    <Low>0.484218</Low>
+    <Close>0.495605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-24</Date>
+    <Open>0.493358</Open>
+    <High>0.518429</High>
+    <Low>0.473431</Low>
+    <Close>0.50734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-25</Date>
+    <Open>0.50734</Open>
+    <High>0.548396</High>
+    <Low>0.504293</Low>
+    <Close>0.52437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-26</Date>
+    <Open>0.525369</Open>
+    <High>0.541404</High>
+    <Low>0.447462</Low>
+    <Close>0.478521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-27</Date>
+    <Open>0.478521</Open>
+    <High>0.484515</High>
+    <Low>0.441514</Low>
+    <Close>0.452547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-28</Date>
+    <Open>0.450481</Open>
+    <High>0.470524</High>
+    <Low>0.448389</Low>
+    <Close>0.467457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-29</Date>
+    <Open>0.467443</Open>
+    <High>0.480305</High>
+    <Low>0.453541</Low>
+    <Close>0.477474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-30</Date>
+    <Open>0.478069</Open>
+    <High>0.519436</High>
+    <Low>0.4757</Low>
+    <Close>0.512441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-05-31</Date>
+    <Open>0.514739</Open>
+    <High>0.529276</High>
+    <Low>0.496652</Low>
+    <Close>0.513489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-01</Date>
+    <Open>0.513299</Open>
+    <High>0.578679</High>
+    <Low>0.507492</Low>
+    <Close>0.508791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-02</Date>
+    <Open>0.509141</Open>
+    <High>0.578079</High>
+    <Low>0.496952</Low>
+    <Close>0.534419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-03</Date>
+    <Open>0.534519</Open>
+    <High>0.593482</High>
+    <Low>0.528124</Low>
+    <Close>0.58519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-04</Date>
+    <Open>0.585091</Open>
+    <High>0.610008</High>
+    <Low>0.553424</Low>
+    <Close>0.580259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-05</Date>
+    <Open>0.579371</Open>
+    <High>0.593771</High>
+    <Low>0.553351</Low>
+    <Close>0.566067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-06</Date>
+    <Open>0.565768</Open>
+    <High>0.604104</High>
+    <Low>0.562277</Low>
+    <Close>0.57551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-07</Date>
+    <Open>0.574517</Open>
+    <High>0.582499</High>
+    <Low>0.526563</Low>
+    <Close>0.556543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-08</Date>
+    <Open>0.555555</Open>
+    <High>0.56164</High>
+    <Low>0.527657</Low>
+    <Close>0.550642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-09</Date>
+    <Open>0.550642</Open>
+    <High>0.551597</High>
+    <Low>0.528582</Low>
+    <Close>0.534551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-10</Date>
+    <Open>0.534545</Open>
+    <High>0.537543</High>
+    <Low>0.467504</Low>
+    <Close>0.481383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-11</Date>
+    <Open>0.481388</Open>
+    <High>0.485485</High>
+    <Low>0.422471</Low>
+    <Close>0.435507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-12</Date>
+    <Open>0.435503</Open>
+    <High>0.446586</High>
+    <Low>0.386454</Low>
+    <Close>0.412991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-13</Date>
+    <Open>0.412592</Open>
+    <High>0.412592</High>
+    <Low>0.324103</Low>
+    <Close>0.346521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-14</Date>
+    <Open>0.34752</Open>
+    <High>0.358544</High>
+    <Low>0.320519</Low>
+    <Close>0.335597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-15</Date>
+    <Open>0.335604</Open>
+    <High>0.375586</High>
+    <Low>0.312437</Low>
+    <Close>0.373439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-16</Date>
+    <Open>0.380681</Open>
+    <High>0.389072</High>
+    <Low>0.34958</Low>
+    <Close>0.362928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-17</Date>
+    <Open>0.35221</Open>
+    <High>0.375474</High>
+    <Low>0.346418</Low>
+    <Close>0.370255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-18</Date>
+    <Open>0.371154</Open>
+    <High>0.374158</High>
+    <Low>0.320625</Low>
+    <Close>0.336554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-19</Date>
+    <Open>0.332461</Open>
+    <High>0.380643</High>
+    <Low>0.331459</Low>
+    <Close>0.375112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-20</Date>
+    <Open>0.374712</Open>
+    <High>0.429627</High>
+    <Low>0.359532</Low>
+    <Close>0.410648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-21</Date>
+    <Open>0.410607</Open>
+    <High>0.43251</High>
+    <Low>0.398062</Low>
+    <Close>0.414444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-22</Date>
+    <Open>0.415043</Open>
+    <High>0.424475</High>
+    <Low>0.391708</Low>
+    <Close>0.405994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-23</Date>
+    <Open>0.405894</Open>
+    <High>0.426673</High>
+    <Low>0.402297</Low>
+    <Close>0.417782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-24</Date>
+    <Open>0.417882</Open>
+    <High>0.440356</High>
+    <Low>0.417041</Low>
+    <Close>0.436559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-25</Date>
+    <Open>0.437262</Open>
+    <High>0.443585</High>
+    <Low>0.415309</Low>
+    <Close>0.438393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-26</Date>
+    <Open>0.438493</Open>
+    <High>0.44969</High>
+    <Low>0.419844</Low>
+    <Close>0.430733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-27</Date>
+    <Open>0.429642</Open>
+    <High>0.486488</High>
+    <Low>0.409154</Low>
+    <Close>0.431311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-28</Date>
+    <Open>0.431715</Open>
+    <High>0.448745</High>
+    <Low>0.417969</Low>
+    <Close>0.425776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-29</Date>
+    <Open>0.425572</Open>
+    <High>0.425971</High>
+    <Low>0.397447</Low>
+    <Close>0.408205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-06-30</Date>
+    <Open>0.40821</Open>
+    <High>0.409808</High>
+    <Low>0.363826</Low>
+    <Close>0.370954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-01</Date>
+    <Open>0.371853</Open>
+    <High>0.396164</High>
+    <Low>0.368158</Low>
+    <Close>0.370991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-02</Date>
+    <Open>0.371191</Open>
+    <High>0.386336</High>
+    <Low>0.36656</Low>
+    <Close>0.386336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-03</Date>
+    <Open>0.387235</Open>
+    <High>0.388494</High>
+    <Low>0.37611</Low>
+    <Close>0.386896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-04</Date>
+    <Open>0.386858</Open>
+    <High>0.397922</High>
+    <Low>0.377608</Low>
+    <Close>0.396424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-05</Date>
+    <Open>0.396424</Open>
+    <High>0.406212</High>
+    <Low>0.378583</Low>
+    <Close>0.394466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-06</Date>
+    <Open>0.394366</Open>
+    <High>0.396663</High>
+    <Low>0.383739</Low>
+    <Close>0.392867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-07</Date>
+    <Open>0.392468</Open>
+    <High>0.408714</High>
+    <Low>0.392468</Low>
+    <Close>0.403258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-08</Date>
+    <Open>0.402858</Open>
+    <High>0.418365</High>
+    <Low>0.392925</Low>
+    <Close>0.40046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-09</Date>
+    <Open>0.40046</Open>
+    <High>0.412153</High>
+    <Low>0.39922</Low>
+    <Close>0.408755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-10</Date>
+    <Open>0.408655</Open>
+    <High>0.410154</High>
+    <Low>0.389927</Low>
+    <Close>0.396062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-11</Date>
+    <Open>0.395662</Open>
+    <High>0.395662</High>
+    <Low>0.372165</Low>
+    <Close>0.373264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-12</Date>
+    <Open>0.372165</Open>
+    <High>0.372165</High>
+    <Low>0.352148</Low>
+    <Close>0.352647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-13</Date>
+    <Open>0.351562</Open>
+    <High>0.358341</High>
+    <Low>0.331069</Low>
+    <Close>0.349585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-14</Date>
+    <Open>0.349985</Open>
+    <High>0.369141</High>
+    <Low>0.346588</Low>
+    <Close>0.362682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-15</Date>
+    <Open>0.362982</Open>
+    <High>0.377811</High>
+    <Low>0.361983</Low>
+    <Close>0.373088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-16</Date>
+    <Open>0.374388</Open>
+    <High>0.390322</High>
+    <Low>0.36589</Low>
+    <Close>0.384223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-17</Date>
+    <Open>0.384596</Open>
+    <High>0.396593</High>
+    <Low>0.375129</Low>
+    <Close>0.382697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-18</Date>
+    <Open>0.383496</Open>
+    <High>0.408647</High>
+    <Low>0.376887</Low>
+    <Close>0.396909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-19</Date>
+    <Open>0.397081</Open>
+    <High>0.4299</High>
+    <Low>0.396709</Low>
+    <Close>0.424968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-20</Date>
+    <Open>0.4252</Open>
+    <High>0.433626</High>
+    <Low>0.398068</Low>
+    <Close>0.410121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-21</Date>
+    <Open>0.410321</Open>
+    <High>0.410766</High>
+    <Low>0.388039</Low>
+    <Close>0.405501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-22</Date>
+    <Open>0.405197</Open>
+    <High>0.418284</High>
+    <Low>0.391874</Low>
+    <Close>0.396987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-23</Date>
+    <Open>0.3969</Open>
+    <High>0.408733</High>
+    <Low>0.3859</Low>
+    <Close>0.391678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-24</Date>
+    <Open>0.391439</Open>
+    <High>0.407076</High>
+    <Low>0.391039</Low>
+    <Close>0.404881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-25</Date>
+    <Open>0.404377</Open>
+    <High>0.407581</High>
+    <Low>0.371741</Low>
+    <Close>0.37743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-26</Date>
+    <Open>0.377434</Open>
+    <High>0.377545</High>
+    <Low>0.354304</Low>
+    <Close>0.360854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-27</Date>
+    <Open>0.360851</Open>
+    <High>0.393253</High>
+    <Low>0.360851</Low>
+    <Close>0.391294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-28</Date>
+    <Open>0.391594</Open>
+    <High>0.423093</High>
+    <Low>0.38845</Low>
+    <Close>0.417583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-29</Date>
+    <Open>0.418009</Open>
+    <High>0.438436</High>
+    <Low>0.408823</Low>
+    <Close>0.431877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-30</Date>
+    <Open>0.432077</Open>
+    <High>0.447957</High>
+    <Low>0.424144</Low>
+    <Close>0.424144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-07-31</Date>
+    <Open>0.424027</Open>
+    <High>0.464993</High>
+    <Low>0.415921</Low>
+    <Close>0.444902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-01</Date>
+    <Open>0.444802</Open>
+    <High>0.459642</High>
+    <Low>0.430072</Low>
+    <Close>0.439828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-02</Date>
+    <Open>0.439932</Open>
+    <High>0.456373</High>
+    <Low>0.417588</Low>
+    <Close>0.430073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-03</Date>
+    <Open>0.429673</Open>
+    <High>0.439323</High>
+    <Low>0.412003</Low>
+    <Close>0.431308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-04</Date>
+    <Open>0.431103</Open>
+    <High>0.433282</High>
+    <Low>0.417229</Low>
+    <Close>0.421413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-05</Date>
+    <Open>0.421617</Open>
+    <High>0.448781</High>
+    <Low>0.421617</Low>
+    <Close>0.446185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-06</Date>
+    <Open>0.445885</Open>
+    <High>0.487788</High>
+    <Low>0.445885</Low>
+    <Close>0.47771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-07</Date>
+    <Open>0.477505</Open>
+    <High>0.478605</High>
+    <Low>0.45881</Low>
+    <Close>0.469189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-08</Date>
+    <Open>0.469189</Open>
+    <High>0.488278</High>
+    <Low>0.461979</Low>
+    <Close>0.473557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-09</Date>
+    <Open>0.472952</Open>
+    <High>0.482163</High>
+    <Low>0.439183</Low>
+    <Close>0.44929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-10</Date>
+    <Open>0.44989</Open>
+    <High>0.46958</High>
+    <Low>0.435126</Low>
+    <Close>0.466135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-11</Date>
+    <Open>0.466286</Open>
+    <High>0.506197</High>
+    <Low>0.46473</Low>
+    <Close>0.484428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-12</Date>
+    <Open>0.484227</Open>
+    <High>0.49935</High>
+    <Low>0.468587</Low>
+    <Close>0.493922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-13</Date>
+    <Open>0.494327</Open>
+    <High>0.517107</High>
+    <Low>0.487153</Low>
+    <Close>0.510599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-14</Date>
+    <Open>0.510499</Open>
+    <High>0.512095</High>
+    <Low>0.48424</Low>
+    <Close>0.491347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-15</Date>
+    <Open>0.491347</Open>
+    <High>0.520551</High>
+    <Low>0.485326</Low>
+    <Close>0.497219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-16</Date>
+    <Open>0.497624</Open>
+    <High>0.505201</High>
+    <Low>0.474519</Low>
+    <Close>0.478843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-17</Date>
+    <Open>0.478838</Open>
+    <High>0.49606</High>
+    <Low>0.453123</Low>
+    <Close>0.455436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-18</Date>
+    <Open>0.456632</Open>
+    <High>0.461123</High>
+    <Low>0.447137</Low>
+    <Close>0.452405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-19</Date>
+    <Open>0.452445</Open>
+    <High>0.452445</High>
+    <Low>0.3808</Low>
+    <Close>0.382838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-20</Date>
+    <Open>0.383712</Open>
+    <High>0.401636</High>
+    <Low>0.378834</Low>
+    <Close>0.387996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-21</Date>
+    <Open>0.388092</Open>
+    <High>0.40298</High>
+    <Low>0.3864</Low>
+    <Close>0.399192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-22</Date>
+    <Open>0.398188</Open>
+    <High>0.400904</High>
+    <Low>0.36937</Low>
+    <Close>0.388234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-23</Date>
+    <Open>0.388742</Open>
+    <High>0.407076</High>
+    <Low>0.385496</Low>
+    <Close>0.403208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-24</Date>
+    <Open>0.40336</Open>
+    <High>0.418921</High>
+    <Low>0.394484</Low>
+    <Close>0.412841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-25</Date>
+    <Open>0.412637</Open>
+    <High>0.416654</High>
+    <Low>0.401048</Low>
+    <Close>0.409012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-26</Date>
+    <Open>0.409012</Open>
+    <High>0.409633</High>
+    <Low>0.374196</Low>
+    <Close>0.376834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-27</Date>
+    <Open>0.377138</Open>
+    <High>0.377934</High>
+    <Low>0.3557</Low>
+    <Close>0.358011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-28</Date>
+    <Open>0.357507</Open>
+    <High>0.372611</High>
+    <Low>0.357507</Low>
+    <Close>0.3669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-29</Date>
+    <Open>0.366596</Open>
+    <High>0.375423</High>
+    <Low>0.354964</Low>
+    <Close>0.374826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-30</Date>
+    <Open>0.37513</Open>
+    <High>0.382523</High>
+    <Low>0.360229</Low>
+    <Close>0.368233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-08-31</Date>
+    <Open>0.368329</Open>
+    <High>0.381804</High>
+    <Low>0.365444</Low>
+    <Close>0.375796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-01</Date>
+    <Open>0.375696</Open>
+    <High>0.376404</High>
+    <Low>0.359378</Low>
+    <Close>0.373778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-02</Date>
+    <Open>0.374885</Open>
+    <High>0.384469</High>
+    <Low>0.367226</Low>
+    <Close>0.371059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-03</Date>
+    <Open>0.371059</Open>
+    <High>0.375638</High>
+    <Low>0.3681</Low>
+    <Close>0.3712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-04</Date>
+    <Open>0.3724</Open>
+    <High>0.383438</High>
+    <Low>0.371</Low>
+    <Close>0.382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-05</Date>
+    <Open>0.3822</Open>
+    <High>0.386139</High>
+    <Low>0.3666</Low>
+    <Close>0.371937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-06</Date>
+    <Open>0.371837</Open>
+    <High>0.387639</High>
+    <Low>0.342066</Low>
+    <Close>0.3469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-07</Date>
+    <Open>0.3461</Open>
+    <High>0.358896</High>
+    <Low>0.336587</Low>
+    <Close>0.356225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-08</Date>
+    <Open>0.356521</Open>
+    <High>0.367744</High>
+    <Low>0.350807</Low>
+    <Close>0.366755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-09</Date>
+    <Open>0.366959</Open>
+    <High>0.391874</High>
+    <Low>0.365455</Low>
+    <Close>0.384727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-10</Date>
+    <Open>0.384561</Open>
+    <High>0.393453</High>
+    <Low>0.380818</Low>
+    <Close>0.388178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-11</Date>
+    <Open>0.389182</Open>
+    <High>0.394814</High>
+    <Low>0.379348</Low>
+    <Close>0.381695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-12</Date>
+    <Open>0.381795</Open>
+    <High>0.400156</High>
+    <Low>0.380791</Low>
+    <Close>0.390878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-13</Date>
+    <Open>0.38987</Open>
+    <High>0.39968</High>
+    <Low>0.353018</Low>
+    <Close>0.357107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-14</Date>
+    <Open>0.356936</Open>
+    <High>0.361314</High>
+    <Low>0.347114</Low>
+    <Close>0.357693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-15</Date>
+    <Open>0.357693</Open>
+    <High>0.360079</High>
+    <Low>0.340132</Low>
+    <Close>0.345669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-16</Date>
+    <Open>0.345879</Open>
+    <High>0.3484</High>
+    <Low>0.338366</Low>
+    <Close>0.347065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-17</Date>
+    <Open>0.3472</Open>
+    <High>0.359136</High>
+    <Low>0.345565</Low>
+    <Close>0.356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-18</Date>
+    <Open>0.356</Open>
+    <High>0.358836</High>
+    <Low>0.318768</Low>
+    <Close>0.3288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-19</Date>
+    <Open>0.328767</Open>
+    <High>0.333433</High>
+    <Low>0.3181</Low>
+    <Close>0.330566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-20</Date>
+    <Open>0.330433</Open>
+    <High>0.34927</High>
+    <Low>0.325265</Low>
+    <Close>0.3329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-21</Date>
+    <Open>0.332303</Open>
+    <High>0.3486</High>
+    <Low>0.321</Low>
+    <Close>0.3234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-22</Date>
+    <Open>0.3235</Open>
+    <High>0.3443</High>
+    <Low>0.317932</Low>
+    <Close>0.3414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-23</Date>
+    <Open>0.341866</Open>
+    <High>0.3583</High>
+    <Low>0.334267</Low>
+    <Close>0.357564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-24</Date>
+    <Open>0.357579</Open>
+    <High>0.363985</High>
+    <Low>0.347017</Low>
+    <Close>0.348531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-25</Date>
+    <Open>0.3488</Open>
+    <High>0.352218</High>
+    <Low>0.338497</Low>
+    <Close>0.338597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-26</Date>
+    <Open>0.3384</Open>
+    <High>0.35</High>
+    <Low>0.3336</Low>
+    <Close>0.3448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-27</Date>
+    <Open>0.3447</Open>
+    <High>0.364464</High>
+    <Low>0.3439</Low>
+    <Close>0.350665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-28</Date>
+    <Open>0.350565</Open>
+    <High>0.3545</High>
+    <Low>0.334667</Low>
+    <Close>0.3498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-29</Date>
+    <Open>0.3498</Open>
+    <High>0.3599</High>
+    <Low>0.3455</Low>
+    <Close>0.354635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-09-30</Date>
+    <Open>0.3546</Open>
+    <High>0.3609</High>
+    <Low>0.3499</Low>
+    <Close>0.3537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-01</Date>
+    <Open>0.353135</Open>
+    <High>0.364036</High>
+    <Low>0.3453</Low>
+    <Close>0.348835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-02</Date>
+    <Open>0.3484</Open>
+    <High>0.3528</High>
+    <Low>0.341134</Low>
+    <Close>0.3458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-03</Date>
+    <Open>0.345135</Open>
+    <High>0.353071</High>
+    <Low>0.3371</Low>
+    <Close>0.352135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-04</Date>
+    <Open>0.354971</Open>
+    <High>0.363409</High>
+    <Low>0.352735</Low>
+    <Close>0.361308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-05</Date>
+    <Open>0.360772</Open>
+    <High>0.361872</High>
+    <Low>0.352035</Low>
+    <Close>0.355771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-06</Date>
+    <Open>0.355571</Open>
+    <High>0.361058</High>
+    <Low>0.351742</Low>
+    <Close>0.35176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-07</Date>
+    <Open>0.349563</Open>
+    <High>0.352556</High>
+    <Low>0.343503</Low>
+    <Close>0.349538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-08</Date>
+    <Open>0.349535</Open>
+    <High>0.352249</High>
+    <Low>0.345386</Low>
+    <Close>0.345686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-09</Date>
+    <Open>0.345486</Open>
+    <High>0.35017</High>
+    <Low>0.345086</Low>
+    <Close>0.349735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-10</Date>
+    <Open>0.34957</Open>
+    <High>0.35127</High>
+    <Low>0.3423</Low>
+    <Close>0.344566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-11</Date>
+    <Open>0.3433</Open>
+    <High>0.3433</High>
+    <Low>0.322968</Low>
+    <Close>0.324771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-12</Date>
+    <Open>0.324471</Open>
+    <High>0.326735</High>
+    <Low>0.320403</Low>
+    <Close>0.32071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-13</Date>
+    <Open>0.32071</Open>
+    <High>0.321597</High>
+    <Low>0.291877</Low>
+    <Close>0.315432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-14</Date>
+    <Open>0.314828</Open>
+    <High>0.322029</High>
+    <Low>0.306509</Low>
+    <Close>0.306509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-15</Date>
+    <Open>0.306609</Open>
+    <High>0.314613</High>
+    <Low>0.306212</Low>
+    <Close>0.312216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-16</Date>
+    <Open>0.311912</Open>
+    <High>0.319497</High>
+    <Low>0.309825</Low>
+    <Close>0.313016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-17</Date>
+    <Open>0.313016</Open>
+    <High>0.323136</High>
+    <Low>0.312391</Low>
+    <Close>0.319706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-18</Date>
+    <Open>0.319306</Open>
+    <High>0.323813</High>
+    <Low>0.310706</Low>
+    <Close>0.316116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-19</Date>
+    <Open>0.315609</Open>
+    <High>0.317625</High>
+    <Low>0.308903</Low>
+    <Close>0.313703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-20</Date>
+    <Open>0.3132</Open>
+    <High>0.313409</High>
+    <Low>0.302076</Low>
+    <Close>0.306066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-21</Date>
+    <Open>0.305279</Open>
+    <High>0.309303</High>
+    <Low>0.294691</Low>
+    <Close>0.307722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-22</Date>
+    <Open>0.307922</Open>
+    <High>0.312622</High>
+    <Low>0.305821</Low>
+    <Close>0.310928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-23</Date>
+    <Open>0.310525</Open>
+    <High>0.315728</High>
+    <Low>0.305609</Low>
+    <Close>0.315344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-24</Date>
+    <Open>0.315644</Open>
+    <High>0.318425</High>
+    <Low>0.305406</Low>
+    <Close>0.307715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-25</Date>
+    <Open>0.308312</Open>
+    <High>0.329712</High>
+    <Low>0.306715</Low>
+    <Close>0.323403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-26</Date>
+    <Open>0.32291</Open>
+    <High>0.329622</High>
+    <Low>0.319577</Low>
+    <Close>0.326491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-27</Date>
+    <Open>0.326191</Open>
+    <High>0.335264</High>
+    <Low>0.320771</Low>
+    <Close>0.324523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-28</Date>
+    <Open>0.324523</Open>
+    <High>0.333467</High>
+    <Low>0.317429</Low>
+    <Close>0.33207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-29</Date>
+    <Open>0.33297</Open>
+    <High>0.340646</High>
+    <Low>0.328499</Low>
+    <Close>0.336581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-30</Date>
+    <Open>0.336481</Open>
+    <High>0.341665</High>
+    <Low>0.324462</Low>
+    <Close>0.327769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-10-31</Date>
+    <Open>0.327969</Open>
+    <High>0.3334</High>
+    <Low>0.323645</Low>
+    <Close>0.329174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-01</Date>
+    <Open>0.32938</Open>
+    <High>0.33336</High>
+    <Low>0.322742</Low>
+    <Close>0.328867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-02</Date>
+    <Open>0.328967</Open>
+    <High>0.32956</High>
+    <Low>0.308981</Low>
+    <Close>0.313284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-03</Date>
+    <Open>0.312681</Open>
+    <High>0.330164</High>
+    <Low>0.312681</Low>
+    <Close>0.321497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-04</Date>
+    <Open>0.321197</Open>
+    <High>0.345041</High>
+    <Low>0.320697</Low>
+    <Close>0.343724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-05</Date>
+    <Open>0.343924</Open>
+    <High>0.352204</High>
+    <Low>0.341927</Low>
+    <Close>0.348717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-06</Date>
+    <Open>0.349221</Open>
+    <High>0.349221</High>
+    <Low>0.332037</Low>
+    <Close>0.333223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-07</Date>
+    <Open>0.333423</Open>
+    <High>0.333427</High>
+    <Low>0.313328</Low>
+    <Close>0.316541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-08</Date>
+    <Open>0.317095</Open>
+    <High>0.324889</High>
+    <Low>0.240612</Low>
+    <Close>0.253157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-09</Date>
+    <Open>0.253157</Open>
+    <High>0.260917</High>
+    <Low>0.206506</Low>
+    <Close>0.210446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-10</Date>
+    <Open>0.209663</Open>
+    <High>0.262833</High>
+    <Low>0.206449</Low>
+    <Close>0.24382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-11</Date>
+    <Open>0.243969</Open>
+    <High>0.27888</High>
+    <Low>0.222544</Low>
+    <Close>0.228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-12</Date>
+    <Open>0.228446</Open>
+    <High>0.2317</High>
+    <Low>0.21601</Low>
+    <Close>0.220502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-13</Date>
+    <Open>0.220403</Open>
+    <High>0.268504</High>
+    <Low>0.214057</Low>
+    <Close>0.240211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-14</Date>
+    <Open>0.240263</Open>
+    <High>0.312562</High>
+    <Low>0.222765</Low>
+    <Close>0.286569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-15</Date>
+    <Open>0.28647</Open>
+    <High>0.29948</High>
+    <Low>0.260513</Low>
+    <Close>0.260939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-16</Date>
+    <Open>0.260682</Open>
+    <High>0.265975</High>
+    <Low>0.247745</Low>
+    <Close>0.251466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-17</Date>
+    <Open>0.251448</Open>
+    <High>0.252685</High>
+    <Low>0.238678</Low>
+    <Close>0.24281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-18</Date>
+    <Open>0.242708</Open>
+    <High>0.251002</High>
+    <Low>0.236837</Low>
+    <Close>0.238923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-19</Date>
+    <Open>0.239025</Open>
+    <High>0.239905</High>
+    <Low>0.231352</Low>
+    <Close>0.23755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-20</Date>
+    <Open>0.237586</Open>
+    <High>0.246881</High>
+    <Low>0.231229</Low>
+    <Close>0.231947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-21</Date>
+    <Open>0.232049</Open>
+    <High>0.248806</High>
+    <Low>0.20968</Low>
+    <Close>0.216638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-22</Date>
+    <Open>0.21664</Open>
+    <High>0.222311</High>
+    <Low>0.207948</Low>
+    <Close>0.222118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-23</Date>
+    <Open>0.222215</Open>
+    <High>0.235013</High>
+    <Low>0.221907</Low>
+    <Close>0.234741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-24</Date>
+    <Open>0.235545</Open>
+    <High>0.240854</High>
+    <Low>0.231498</Low>
+    <Close>0.234201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-25</Date>
+    <Open>0.2347</Open>
+    <High>0.241219</High>
+    <Low>0.228256</Low>
+    <Close>0.237864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-26</Date>
+    <Open>0.237862</Open>
+    <High>0.248341</High>
+    <Low>0.236356</Low>
+    <Close>0.236858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-27</Date>
+    <Open>0.23746</Open>
+    <High>0.246442</High>
+    <Low>0.235849</Low>
+    <Close>0.244248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-28</Date>
+    <Open>0.243503</Open>
+    <High>0.243546</High>
+    <Low>0.227277</Low>
+    <Close>0.239806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-29</Date>
+    <Open>0.239706</Open>
+    <High>0.24607</High>
+    <Low>0.2372</Low>
+    <Close>0.240511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-11-30</Date>
+    <Open>0.241211</Open>
+    <High>0.247915</High>
+    <Low>0.238898</Low>
+    <Close>0.24791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-01</Date>
+    <Open>0.247707</Open>
+    <High>0.250028</High>
+    <Low>0.242807</Low>
+    <Close>0.245815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-02</Date>
+    <Open>0.245915</Open>
+    <High>0.262424</High>
+    <Low>0.24452</Low>
+    <Close>0.254415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-03</Date>
+    <Open>0.25511</Open>
+    <High>0.256623</High>
+    <Low>0.247225</Low>
+    <Close>0.248525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-04</Date>
+    <Open>0.248425</Open>
+    <High>0.253525</High>
+    <Low>0.245</Low>
+    <Close>0.250125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-05</Date>
+    <Open>0.25045</Open>
+    <High>0.254831</High>
+    <Low>0.24682</Low>
+    <Close>0.247405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-06</Date>
+    <Open>0.247807</Open>
+    <High>0.2527</High>
+    <Low>0.245405</Low>
+    <Close>0.251995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-07</Date>
+    <Open>0.2529</Open>
+    <High>0.254603</High>
+    <Low>0.240702</Low>
+    <Close>0.2435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-08</Date>
+    <Open>0.243402</Open>
+    <High>0.246937</High>
+    <Low>0.2391</Low>
+    <Close>0.24572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-09</Date>
+    <Open>0.245825</Open>
+    <High>0.2481</High>
+    <Low>0.24231</Low>
+    <Close>0.242407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-10</Date>
+    <Open>0.242712</Open>
+    <High>0.2495</High>
+    <Low>0.242405</Low>
+    <Close>0.248795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-11</Date>
+    <Open>0.248398</Open>
+    <High>0.254405</High>
+    <Low>0.245625</Low>
+    <Close>0.246849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-12</Date>
+    <Open>0.246349</Open>
+    <High>0.248325</High>
+    <Low>0.234509</Low>
+    <Close>0.242422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-13</Date>
+    <Open>0.242219</Open>
+    <High>0.261297</High>
+    <Low>0.23086</Low>
+    <Close>0.246338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-14</Date>
+    <Open>0.247541</Open>
+    <High>0.256374</High>
+    <Low>0.2404</Low>
+    <Close>0.244017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-15</Date>
+    <Open>0.244524</Open>
+    <High>0.251425</High>
+    <Low>0.236124</Low>
+    <Close>0.236924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-16</Date>
+    <Open>0.237547</Open>
+    <High>0.239624</High>
+    <Low>0.211721</Low>
+    <Close>0.219722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-17</Date>
+    <Open>0.219322</Open>
+    <High>0.221331</High>
+    <Low>0.206125</Low>
+    <Close>0.217028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-18</Date>
+    <Open>0.21713</Open>
+    <High>0.221609</High>
+    <Low>0.213824</Low>
+    <Close>0.216728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-19</Date>
+    <Open>0.216728</Open>
+    <High>0.219039</High>
+    <Low>0.199106</Low>
+    <Close>0.2017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-20</Date>
+    <Open>0.2019</Open>
+    <High>0.211696</High>
+    <Low>0.201204</Low>
+    <Close>0.211108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-21</Date>
+    <Open>0.211308</Open>
+    <High>0.212106</High>
+    <Low>0.205798</Low>
+    <Close>0.20961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-22</Date>
+    <Open>0.209408</Open>
+    <High>0.2287</High>
+    <Low>0.208983</Low>
+    <Close>0.214266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-23</Date>
+    <Open>0.214264</Open>
+    <High>0.216978</High>
+    <Low>0.213168</Low>
+    <Close>0.213976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-24</Date>
+    <Open>0.213979</Open>
+    <High>0.216285</High>
+    <Low>0.213477</Low>
+    <Close>0.214987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-25</Date>
+    <Open>0.214885</Open>
+    <High>0.215389</High>
+    <Low>0.209181</Low>
+    <Close>0.212068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-26</Date>
+    <Open>0.211975</Open>
+    <High>0.215959</High>
+    <Low>0.211581</Low>
+    <Close>0.215257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-27</Date>
+    <Open>0.215159</Open>
+    <High>0.217941</High>
+    <Low>0.211111</Low>
+    <Close>0.213315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-28</Date>
+    <Open>0.213817</Open>
+    <High>0.215914</High>
+    <Low>0.206338</Low>
+    <Close>0.209487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-29</Date>
+    <Open>0.209689</Open>
+    <High>0.211496</High>
+    <Low>0.20022</Low>
+    <Close>0.202607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-30</Date>
+    <Open>0.202407</Open>
+    <High>0.204106</High>
+    <Low>0.197119</Low>
+    <Close>0.202799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2022-12-31</Date>
+    <Open>0.202896</Open>
+    <High>0.207096</High>
+    <Low>0.195704</Low>
+    <Close>0.200798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-01</Date>
+    <Open>0.200598</Open>
+    <High>0.203614</High>
+    <Low>0.200098</Low>
+    <Close>0.202205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-02</Date>
+    <Open>0.202505</Open>
+    <High>0.206228</High>
+    <Low>0.199414</Low>
+    <Close>0.204137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-03</Date>
+    <Open>0.204832</Open>
+    <High>0.206521</High>
+    <Low>0.203115</Low>
+    <Close>0.206222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-04</Date>
+    <Open>0.20632</Open>
+    <High>0.211913</High>
+    <Low>0.205828</Low>
+    <Close>0.208731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-05</Date>
+    <Open>0.209131</Open>
+    <High>0.211736</High>
+    <Low>0.206334</Low>
+    <Close>0.209926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-06</Date>
+    <Open>0.210737</Open>
+    <High>0.213036</High>
+    <Low>0.204683</Low>
+    <Close>0.213034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-07</Date>
+    <Open>0.213132</Open>
+    <High>0.214633</High>
+    <Low>0.210835</Low>
+    <Close>0.211949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-08</Date>
+    <Open>0.211549</Open>
+    <High>0.217057</High>
+    <Low>0.209267</Low>
+    <Close>0.216274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-09</Date>
+    <Open>0.216174</Open>
+    <High>0.229572</High>
+    <Low>0.216174</Low>
+    <Close>0.224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-10</Date>
+    <Open>0.223798</Open>
+    <High>0.253472</High>
+    <Low>0.220489</Low>
+    <Close>0.23253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-11</Date>
+    <Open>0.233435</Open>
+    <High>0.2356</High>
+    <Low>0.225686</Low>
+    <Close>0.235176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-12</Date>
+    <Open>0.234976</Open>
+    <High>0.243734</High>
+    <Low>0.229784</Low>
+    <Close>0.242327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-13</Date>
+    <Open>0.242124</Open>
+    <High>0.252915</High>
+    <Low>0.241624</Low>
+    <Close>0.248322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-14</Date>
+    <Open>0.249022</Open>
+    <High>0.271138</High>
+    <Low>0.24882</Low>
+    <Close>0.260413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-15</Date>
+    <Open>0.260313</Open>
+    <High>0.268397</High>
+    <Low>0.253663</Low>
+    <Close>0.267678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-16</Date>
+    <Open>0.267578</Open>
+    <High>0.272303</High>
+    <Low>0.255518</Low>
+    <Close>0.263005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-17</Date>
+    <Open>0.263205</Open>
+    <High>0.267803</High>
+    <Low>0.258121</Low>
+    <Close>0.264129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-18</Date>
+    <Open>0.263826</Open>
+    <High>0.281911</High>
+    <Low>0.249288</Low>
+    <Close>0.255787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-19</Date>
+    <Open>0.255687</Open>
+    <High>0.259997</High>
+    <Low>0.250695</Low>
+    <Close>0.25709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-20</Date>
+    <Open>0.257015</Open>
+    <High>0.278158</High>
+    <Low>0.251195</Low>
+    <Close>0.275647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-21</Date>
+    <Open>0.275947</Open>
+    <High>0.28456</High>
+    <Low>0.274824</Low>
+    <Close>0.275855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-22</Date>
+    <Open>0.275241</Open>
+    <High>0.287858</High>
+    <Low>0.272246</Low>
+    <Close>0.277053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-23</Date>
+    <Open>0.277255</Open>
+    <High>0.291044</High>
+    <Low>0.276469</Low>
+    <Close>0.289846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-24</Date>
+    <Open>0.289646</Open>
+    <High>0.327603</High>
+    <Low>0.279145</Low>
+    <Close>0.284709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-25</Date>
+    <Open>0.285209</Open>
+    <High>0.293756</High>
+    <Low>0.273649</Low>
+    <Close>0.285146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-26</Date>
+    <Open>0.285349</Open>
+    <High>0.30624</High>
+    <Low>0.285148</Low>
+    <Close>0.291426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-27</Date>
+    <Open>0.291626</Open>
+    <High>0.303549</High>
+    <Low>0.283465</Low>
+    <Close>0.299429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-28</Date>
+    <Open>0.299714</Open>
+    <High>0.30457</High>
+    <Low>0.289649</Low>
+    <Close>0.291458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-29</Date>
+    <Open>0.291758</Open>
+    <High>0.30363</High>
+    <Low>0.290367</Low>
+    <Close>0.301315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-30</Date>
+    <Open>0.302612</Open>
+    <High>0.303915</High>
+    <Low>0.274414</Low>
+    <Close>0.277517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-01-31</Date>
+    <Open>0.277917</Open>
+    <High>0.286889</High>
+    <Low>0.276211</Low>
+    <Close>0.282828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-01</Date>
+    <Open>0.28272</Open>
+    <High>0.295821</High>
+    <Low>0.2688</Low>
+    <Close>0.292118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-02</Date>
+    <Open>0.292215</Open>
+    <High>0.309943</High>
+    <Low>0.291417</Low>
+    <Close>0.29896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-03</Date>
+    <Open>0.299363</Open>
+    <High>0.311425</High>
+    <Low>0.294329</Low>
+    <Close>0.311022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-04</Date>
+    <Open>0.310725</Open>
+    <High>0.323629</High>
+    <Low>0.308122</Low>
+    <Close>0.318929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-05</Date>
+    <Open>0.319126</Open>
+    <High>0.329763</High>
+    <Low>0.296777</Low>
+    <Close>0.304176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-06</Date>
+    <Open>0.303776</Open>
+    <High>0.316666</High>
+    <Low>0.303476</Low>
+    <Close>0.310612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-07</Date>
+    <Open>0.310212</Open>
+    <High>0.324197</High>
+    <Low>0.303224</Low>
+    <Close>0.323223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-08</Date>
+    <Open>0.323419</Open>
+    <High>0.32963</High>
+    <Low>0.304533</Low>
+    <Close>0.313522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-09</Date>
+    <Open>0.312019</Open>
+    <High>0.318587</High>
+    <Low>0.276455</Low>
+    <Close>0.279428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-10</Date>
+    <Open>0.280425</Open>
+    <High>0.293859</High>
+    <Low>0.276566</Low>
+    <Close>0.28674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-11</Date>
+    <Open>0.2868</Open>
+    <High>0.292629</High>
+    <Low>0.283637</Low>
+    <Close>0.292529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-12</Date>
+    <Open>0.292058</Open>
+    <High>0.373407</High>
+    <Low>0.287455</Low>
+    <Close>0.346235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-13</Date>
+    <Open>0.346835</Open>
+    <High>0.370485</High>
+    <Low>0.321402</Low>
+    <Close>0.326576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-14</Date>
+    <Open>0.327077</Open>
+    <High>0.33835</High>
+    <Low>0.321161</Low>
+    <Close>0.330626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-15</Date>
+    <Open>0.330632</Open>
+    <High>0.345745</High>
+    <Low>0.326734</Low>
+    <Close>0.343062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-16</Date>
+    <Open>0.342962</Open>
+    <High>0.356143</High>
+    <Low>0.325236</Low>
+    <Close>0.325611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-17</Date>
+    <Open>0.325211</Open>
+    <High>0.343127</High>
+    <Low>0.319538</Low>
+    <Close>0.33813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-18</Date>
+    <Open>0.338434</Open>
+    <High>0.340961</High>
+    <Low>0.331236</Low>
+    <Close>0.335157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-19</Date>
+    <Open>0.335254</Open>
+    <High>0.355857</High>
+    <Low>0.331963</Low>
+    <Close>0.344776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-20</Date>
+    <Open>0.344576</Open>
+    <High>0.361433</High>
+    <Low>0.333097</Low>
+    <Close>0.357532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-21</Date>
+    <Open>0.357514</Open>
+    <High>0.368366</High>
+    <Low>0.338468</Low>
+    <Close>0.342562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-22</Date>
+    <Open>0.342462</Open>
+    <High>0.347859</High>
+    <Low>0.325039</Low>
+    <Close>0.335727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-23</Date>
+    <Open>0.335813</Open>
+    <High>0.344131</High>
+    <Low>0.328533</Low>
+    <Close>0.33334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-24</Date>
+    <Open>0.332847</Open>
+    <High>0.343069</High>
+    <Low>0.315422</Low>
+    <Close>0.318097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-25</Date>
+    <Open>0.318594</Open>
+    <High>0.326833</High>
+    <Low>0.308731</Low>
+    <Close>0.316322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-26</Date>
+    <Open>0.316422</Open>
+    <High>0.341527</High>
+    <Low>0.315128</Low>
+    <Close>0.332933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-27</Date>
+    <Open>0.33342</Open>
+    <High>0.33741</High>
+    <Low>0.323529</Low>
+    <Close>0.32692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-02-28</Date>
+    <Open>0.327316</Open>
+    <High>0.32889</High>
+    <Low>0.310325</Low>
+    <Close>0.313663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-01</Date>
+    <Open>0.313063</Open>
+    <High>0.332227</High>
+    <Low>0.31025</Low>
+    <Close>0.327743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-02</Date>
+    <Open>0.327949</Open>
+    <High>0.33054</High>
+    <Low>0.310684</Low>
+    <Close>0.318429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-03</Date>
+    <Open>0.318525</Open>
+    <High>0.319229</High>
+    <Low>0.285037</Low>
+    <Close>0.292018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-04</Date>
+    <Open>0.291923</Open>
+    <High>0.296418</High>
+    <Low>0.280114</Low>
+    <Close>0.28512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-05</Date>
+    <Open>0.28522</Open>
+    <High>0.292515</High>
+    <Low>0.284211</Low>
+    <Close>0.288032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-06</Date>
+    <Open>0.287932</Open>
+    <High>0.287932</High>
+    <Low>0.274322</Low>
+    <Close>0.284183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-07</Date>
+    <Open>0.284163</Open>
+    <High>0.287594</High>
+    <Low>0.269589</Low>
+    <Close>0.273005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-08</Date>
+    <Open>0.272889</Open>
+    <High>0.277703</High>
+    <Low>0.253987</Low>
+    <Close>0.25659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-09</Date>
+    <Open>0.256669</Open>
+    <High>0.266015</High>
+    <Low>0.236648</Low>
+    <Close>0.238821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-10</Date>
+    <Open>0.238426</Open>
+    <High>0.242582</High>
+    <Low>0.226182</Low>
+    <Close>0.242479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-11</Date>
+    <Open>0.241961</Open>
+    <High>0.250625</High>
+    <Low>0.226929</Low>
+    <Close>0.233883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-12</Date>
+    <Open>0.233914</Open>
+    <High>0.255954</High>
+    <Low>0.232775</Low>
+    <Close>0.25238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-13</Date>
+    <Open>0.252383</Open>
+    <High>0.272659</High>
+    <Low>0.249499</Low>
+    <Close>0.271536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-14</Date>
+    <Open>0.271677</Open>
+    <High>0.293423</High>
+    <Low>0.264086</Low>
+    <Close>0.285143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-15</Date>
+    <Open>0.285773</Open>
+    <High>0.290791</High>
+    <Low>0.258676</Low>
+    <Close>0.264506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-16</Date>
+    <Open>0.264298</Open>
+    <High>0.270271</High>
+    <Low>0.259497</Low>
+    <Close>0.265736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-17</Date>
+    <Open>0.266451</Open>
+    <High>0.288947</High>
+    <Low>0.263201</Low>
+    <Close>0.288059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-18</Date>
+    <Open>0.287961</Open>
+    <High>0.302211</High>
+    <Low>0.284162</Low>
+    <Close>0.286958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-19</Date>
+    <Open>0.287259</Open>
+    <High>0.299997</High>
+    <Low>0.284649</Low>
+    <Close>0.297192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-20</Date>
+    <Open>0.297198</Open>
+    <High>0.302262</High>
+    <Low>0.277777</Low>
+    <Close>0.28323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-21</Date>
+    <Open>0.283434</Open>
+    <High>0.286497</High>
+    <Low>0.269906</Low>
+    <Close>0.280595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-22</Date>
+    <Open>0.280595</Open>
+    <High>0.28353</High>
+    <Low>0.25836</Low>
+    <Close>0.265721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-23</Date>
+    <Open>0.265235</Open>
+    <High>0.28196</High>
+    <Low>0.263214</Low>
+    <Close>0.278083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-24</Date>
+    <Open>0.278985</Open>
+    <High>0.281259</High>
+    <Low>0.264688</Low>
+    <Close>0.270578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-25</Date>
+    <Open>0.2704</Open>
+    <High>0.271509</High>
+    <Low>0.259293</Low>
+    <Close>0.262652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-26</Date>
+    <Open>0.262755</Open>
+    <High>0.271642</High>
+    <Low>0.262352</Low>
+    <Close>0.267802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-27</Date>
+    <Open>0.267894</Open>
+    <High>0.271209</High>
+    <Low>0.249369</Low>
+    <Close>0.25512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-28</Date>
+    <Open>0.25502</Open>
+    <High>0.305149</High>
+    <Low>0.252191</Low>
+    <Close>0.286712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-29</Date>
+    <Open>0.286612</Open>
+    <High>0.49958</High>
+    <Low>0.283985</Low>
+    <Close>0.448485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-30</Date>
+    <Open>0.448585</Open>
+    <High>0.58787</High>
+    <Low>0.437531</Low>
+    <Close>0.471232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-03-31</Date>
+    <Open>0.471432</Open>
+    <High>0.68891</High>
+    <Low>0.453632</Low>
+    <Close>0.65033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-01</Date>
+    <Open>0.65033</Open>
+    <High>0.664306</High>
+    <Low>0.592967</Low>
+    <Close>0.61212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-02</Date>
+    <Open>0.612126</Open>
+    <High>0.744413</High>
+    <Low>0.608355</Low>
+    <Close>0.707939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-03</Date>
+    <Open>0.707839</Open>
+    <High>0.92517</High>
+    <Low>0.654349</Low>
+    <Close>0.887046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-04</Date>
+    <Open>0.886454</Open>
+    <High>0.935299</High>
+    <Low>0.780137</Low>
+    <Close>0.81981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-05</Date>
+    <Open>0.81961</Open>
+    <High>0.86225</High>
+    <Low>0.740066</Low>
+    <Close>0.742867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-06</Date>
+    <Open>0.744575</Open>
+    <High>0.790387</High>
+    <Low>0.711106</Low>
+    <Close>0.728155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-07</Date>
+    <Open>0.727955</Open>
+    <High>0.739825</High>
+    <Low>0.676692</Low>
+    <Close>0.683706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-08</Date>
+    <Open>0.684306</Open>
+    <High>0.736349</High>
+    <Low>0.632153</Low>
+    <Close>0.636048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-09</Date>
+    <Open>0.636054</Open>
+    <High>0.650938</High>
+    <Low>0.612767</Low>
+    <Close>0.632223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-10</Date>
+    <Open>0.631942</Open>
+    <High>0.647053</High>
+    <Low>0.603004</Low>
+    <Close>0.632112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-11</Date>
+    <Open>0.632612</Open>
+    <High>0.659207</High>
+    <Low>0.609217</Low>
+    <Close>0.612099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-12</Date>
+    <Open>0.611899</Open>
+    <High>0.616585</High>
+    <Low>0.565541</Low>
+    <Close>0.584956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-13</Date>
+    <Open>0.585556</Open>
+    <High>0.598308</High>
+    <Low>0.574488</Low>
+    <Close>0.582459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-14</Date>
+    <Open>0.582559</Open>
+    <High>0.693365</High>
+    <Low>0.582559</Low>
+    <Close>0.65505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-15</Date>
+    <Open>0.655544</Open>
+    <High>0.727896</High>
+    <Low>0.645267</Low>
+    <Close>0.681913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-16</Date>
+    <Open>0.682607</Open>
+    <High>0.694362</High>
+    <Low>0.651347</Low>
+    <Close>0.675259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-17</Date>
+    <Open>0.675659</Open>
+    <High>0.682038</High>
+    <Low>0.630328</Low>
+    <Close>0.633774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-18</Date>
+    <Open>0.633774</Open>
+    <High>0.645729</High>
+    <Low>0.60913</Low>
+    <Close>0.640009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-19</Date>
+    <Open>0.640096</Open>
+    <High>0.640154</High>
+    <Low>0.579421</Low>
+    <Close>0.597829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-20</Date>
+    <Open>0.597823</Open>
+    <High>0.598499</High>
+    <Low>0.53767</Low>
+    <Close>0.547055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-21</Date>
+    <Open>0.547238</Open>
+    <High>0.598916</High>
+    <Low>0.517269</Low>
+    <Close>0.522043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-22</Date>
+    <Open>0.522043</Open>
+    <High>0.626463</High>
+    <Low>0.522043</Low>
+    <Close>0.623756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-23</Date>
+    <Open>0.623056</Open>
+    <High>0.647458</High>
+    <Low>0.556028</Low>
+    <Close>0.566528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-24</Date>
+    <Open>0.565828</Open>
+    <High>0.578594</High>
+    <Low>0.544503</Low>
+    <Close>0.549911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-25</Date>
+    <Open>0.549911</Open>
+    <High>0.553906</High>
+    <Low>0.525932</Low>
+    <Close>0.552727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-26</Date>
+    <Open>0.552727</Open>
+    <High>0.668207</High>
+    <Low>0.547155</Low>
+    <Close>0.581686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-27</Date>
+    <Open>0.581386</Open>
+    <High>0.600428</High>
+    <Low>0.569382</Low>
+    <Close>0.586505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-28</Date>
+    <Open>0.585893</Open>
+    <High>0.58933</High>
+    <Low>0.555706</Low>
+    <Close>0.562939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-29</Date>
+    <Open>0.563228</Open>
+    <High>0.572652</High>
+    <Low>0.550974</Low>
+    <Close>0.558724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-04-30</Date>
+    <Open>0.55963</Open>
+    <High>0.566226</High>
+    <Low>0.548429</Low>
+    <Close>0.555511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-01</Date>
+    <Open>0.555411</Open>
+    <High>0.561369</High>
+    <Low>0.532461</Low>
+    <Close>0.53794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-02</Date>
+    <Open>0.538645</Open>
+    <High>0.599466</High>
+    <Low>0.537634</Low>
+    <Close>0.563043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-03</Date>
+    <Open>0.563243</Open>
+    <High>0.56485</High>
+    <Low>0.535539</Low>
+    <Close>0.552549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-04</Date>
+    <Open>0.553149</Open>
+    <High>0.560601</High>
+    <Low>0.530865</Low>
+    <Close>0.533692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-05</Date>
+    <Open>0.533592</Open>
+    <High>0.544089</High>
+    <Low>0.523014</Low>
+    <Close>0.542493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-06</Date>
+    <Open>0.542393</Open>
+    <High>0.551067</High>
+    <Low>0.496868</Low>
+    <Close>0.502272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-07</Date>
+    <Open>0.502252</Open>
+    <High>0.507269</High>
+    <Low>0.492781</Low>
+    <Close>0.495684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-08</Date>
+    <Open>0.488981</Open>
+    <High>0.497936</High>
+    <Low>0.441404</Low>
+    <Close>0.449041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-09</Date>
+    <Open>0.449241</Open>
+    <High>0.455528</High>
+    <Low>0.442686</Low>
+    <Close>0.443543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-10</Date>
+    <Open>0.443743</Open>
+    <High>0.45045</High>
+    <Low>0.414997</Low>
+    <Close>0.441997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-11</Date>
+    <Open>0.442842</Open>
+    <High>0.446546</High>
+    <Low>0.409009</Low>
+    <Close>0.416616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-12</Date>
+    <Open>0.416516</Open>
+    <High>0.472389</High>
+    <Low>0.414614</Low>
+    <Close>0.436349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-13</Date>
+    <Open>0.436549</Open>
+    <High>0.442966</High>
+    <Low>0.424855</Low>
+    <Close>0.429458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-14</Date>
+    <Open>0.430215</Open>
+    <High>0.436218</High>
+    <Low>0.419051</Low>
+    <Close>0.429458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-15</Date>
+    <Open>0.429014</Open>
+    <High>0.443666</High>
+    <Low>0.425613</Low>
+    <Close>0.434004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-16</Date>
+    <Open>0.434404</Open>
+    <High>0.435805</High>
+    <Low>0.419926</Low>
+    <Close>0.42617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-17</Date>
+    <Open>0.42617</Open>
+    <High>0.444022</High>
+    <Low>0.413807</Low>
+    <Close>0.438619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-18</Date>
+    <Open>0.44102</Open>
+    <High>0.458638</High>
+    <Low>0.420868</Low>
+    <Close>0.433873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-19</Date>
+    <Open>0.433773</Open>
+    <High>0.444671</High>
+    <Low>0.426334</Low>
+    <Close>0.439832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-20</Date>
+    <Open>0.43962</Open>
+    <High>0.444722</High>
+    <Low>0.433503</Low>
+    <Close>0.441097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-21</Date>
+    <Open>0.441297</Open>
+    <High>0.441941</High>
+    <Low>0.423912</Low>
+    <Close>0.425455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-22</Date>
+    <Open>0.425813</Open>
+    <High>0.428514</High>
+    <Low>0.417108</Low>
+    <Close>0.425555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-23</Date>
+    <Open>0.424847</Open>
+    <High>0.434274</High>
+    <Low>0.420609</Low>
+    <Close>0.424025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-24</Date>
+    <Open>0.424225</Open>
+    <High>0.425647</High>
+    <Low>0.390614</Low>
+    <Close>0.393476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-25</Date>
+    <Open>0.39338</Open>
+    <High>0.394772</High>
+    <Low>0.380915</Low>
+    <Close>0.386108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-26</Date>
+    <Open>0.385754</Open>
+    <High>0.395811</High>
+    <Low>0.380634</Low>
+    <Close>0.39279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-27</Date>
+    <Open>0.392818</Open>
+    <High>0.396451</High>
+    <Low>0.388305</Low>
+    <Close>0.396347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="SXP">
+    <Date>2023-05-28</Date>
+    <Open>0.396258</Open>
+    <High>0.40829</High>
+    <Low>0.395519</Low>
+    <Close>0.407994</Close>
+  </Cryptocurrency>
+</Root>

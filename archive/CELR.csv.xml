@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-14</Date>
+    <Open>0.0174902</Open>
+    <High>0.01764</High>
+    <Low>0.0150384</Low>
+    <Close>0.017274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-15</Date>
+    <Open>0.0173357</Open>
+    <High>0.0186538</High>
+    <Low>0.0167016</Low>
+    <Close>0.0180365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-16</Date>
+    <Open>0.0180483</Open>
+    <High>0.0186376</High>
+    <Low>0.016159</Low>
+    <Close>0.0170578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-17</Date>
+    <Open>0.0172176</Open>
+    <High>0.0186139</High>
+    <Low>0.0165851</Low>
+    <Close>0.018406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-18</Date>
+    <Open>0.018406</Open>
+    <High>0.0192449</High>
+    <Low>0.016119</Low>
+    <Close>0.0163987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-19</Date>
+    <Open>0.016387</Open>
+    <High>0.017814</High>
+    <Low>0.0154099</Low>
+    <Close>0.0174226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-20</Date>
+    <Open>0.0174643</Open>
+    <High>0.0189791</High>
+    <Low>0.0167998</Low>
+    <Close>0.0172276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-21</Date>
+    <Open>0.0172493</Open>
+    <High>0.0190733</High>
+    <Low>0.0171094</Low>
+    <Close>0.0178967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-22</Date>
+    <Open>0.017855</Open>
+    <High>0.020835</High>
+    <Low>0.0177951</Low>
+    <Close>0.019956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-23</Date>
+    <Open>0.020006</Open>
+    <High>0.0206094</High>
+    <Low>0.0188074</Low>
+    <Close>0.0190371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-24</Date>
+    <Open>0.0189872</Open>
+    <High>0.0190091</High>
+    <Low>0.0172593</Low>
+    <Close>0.0183661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-25</Date>
+    <Open>0.0184342</Open>
+    <High>0.0188474</High>
+    <Low>0.0177005</Low>
+    <Close>0.0183698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-26</Date>
+    <Open>0.0183498</Open>
+    <High>0.0184497</High>
+    <Low>0.0156228</Low>
+    <Close>0.0172627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-27</Date>
+    <Open>0.017211</Open>
+    <High>0.0173426</High>
+    <Low>0.0157542</Low>
+    <Close>0.0161422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-28</Date>
+    <Open>0.0161714</Open>
+    <High>0.0170018</High>
+    <Low>0.0157704</Low>
+    <Close>0.0166904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-29</Date>
+    <Open>0.0166502</Open>
+    <High>0.0169324</High>
+    <Low>0.0157144</Low>
+    <Close>0.0168018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-30</Date>
+    <Open>0.0168215</Open>
+    <High>0.0195163</High>
+    <Low>0.0167018</Low>
+    <Close>0.0192246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-05-31</Date>
+    <Open>0.0192846</Open>
+    <High>0.0197042</High>
+    <Low>0.0181155</Low>
+    <Close>0.0190048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-01</Date>
+    <Open>0.0191053</Open>
+    <High>0.0213829</High>
+    <Low>0.0173244</Low>
+    <Close>0.0173244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-02</Date>
+    <Open>0.0173242</Open>
+    <High>0.0184734</High>
+    <Low>0.0169947</Low>
+    <Close>0.0182635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-03</Date>
+    <Open>0.0182436</Open>
+    <High>0.018974</High>
+    <Low>0.0172062</Low>
+    <Close>0.0178445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-04</Date>
+    <Open>0.0178245</Open>
+    <High>0.0179958</High>
+    <Low>0.0170522</Low>
+    <Close>0.0179064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-05</Date>
+    <Open>0.0179164</Open>
+    <High>0.0184452</High>
+    <Low>0.0176557</Low>
+    <Close>0.0181631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-06</Date>
+    <Open>0.0181629</Open>
+    <High>0.0201932</High>
+    <Low>0.0178234</Low>
+    <Close>0.0192738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-07</Date>
+    <Open>0.0192636</Open>
+    <High>0.0193239</High>
+    <Low>0.0176252</Low>
+    <Close>0.0189546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-08</Date>
+    <Open>0.0189548</Open>
+    <High>0.0192653</High>
+    <Low>0.0176471</Low>
+    <Close>0.0180583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-09</Date>
+    <Open>0.0180682</Open>
+    <High>0.0185043</High>
+    <Low>0.0172364</Low>
+    <Close>0.0179949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-10</Date>
+    <Open>0.0179747</Open>
+    <High>0.0180641</High>
+    <Low>0.0160323</Low>
+    <Close>0.0166387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-11</Date>
+    <Open>0.0166488</Open>
+    <High>0.0169818</High>
+    <Low>0.0145719</Low>
+    <Close>0.015053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-12</Date>
+    <Open>0.0151028</Open>
+    <High>0.0152228</High>
+    <Low>0.0132413</Low>
+    <Close>0.0143923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-13</Date>
+    <Open>0.0143723</Open>
+    <High>0.0143723</High>
+    <Low>0.011627</Low>
+    <Close>0.0124627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-14</Date>
+    <Open>0.0124926</Open>
+    <High>0.0132509</High>
+    <Low>0.0114729</Low>
+    <Close>0.0123052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-15</Date>
+    <Open>0.0122854</Open>
+    <High>0.0137349</High>
+    <Low>0.0115791</Low>
+    <Close>0.0136395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-16</Date>
+    <Open>0.0137194</Open>
+    <High>0.0139147</High>
+    <Low>0.0122645</Low>
+    <Close>0.0127244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-17</Date>
+    <Open>0.0125615</Open>
+    <High>0.0137761</High>
+    <Low>0.0124217</Low>
+    <Close>0.0132452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-18</Date>
+    <Open>0.0132621</Open>
+    <High>0.0135838</High>
+    <Low>0.0112935</Low>
+    <Close>0.0121302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-19</Date>
+    <Open>0.0121403</Open>
+    <High>0.0144526</High>
+    <Low>0.0120121</Low>
+    <Close>0.0140217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-20</Date>
+    <Open>0.0140217</Open>
+    <High>0.0148352</High>
+    <Low>0.0134225</Low>
+    <Close>0.0141544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-21</Date>
+    <Open>0.014153</Open>
+    <High>0.016277</High>
+    <Low>0.0139432</Low>
+    <Close>0.015403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-22</Date>
+    <Open>0.015433</Open>
+    <High>0.0164435</High>
+    <Low>0.0146853</Low>
+    <Close>0.0152547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-23</Date>
+    <Open>0.0152847</Open>
+    <High>0.0168431</High>
+    <Low>0.0149535</Low>
+    <Close>0.016382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-24</Date>
+    <Open>0.0164136</Open>
+    <High>0.0249108</High>
+    <Low>0.0163836</Low>
+    <Close>0.0188353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-25</Date>
+    <Open>0.0188611</Open>
+    <High>0.0192471</High>
+    <Low>0.017608</Low>
+    <Close>0.0189167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-26</Date>
+    <Open>0.0189267</Open>
+    <High>0.0195463</High>
+    <Low>0.0176294</Low>
+    <Close>0.0181389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-27</Date>
+    <Open>0.0181387</Open>
+    <High>0.0185579</High>
+    <Low>0.0168843</Low>
+    <Close>0.0172247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-28</Date>
+    <Open>0.0172748</Open>
+    <High>0.0176031</High>
+    <Low>0.0157336</Low>
+    <Close>0.0160602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-29</Date>
+    <Open>0.0160601</Open>
+    <High>0.01607</High>
+    <Low>0.0150793</Low>
+    <Close>0.015681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-06-30</Date>
+    <Open>0.0156911</Open>
+    <High>0.0157511</High>
+    <Low>0.0138327</Low>
+    <Close>0.0142629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-01</Date>
+    <Open>0.0142828</Open>
+    <High>0.015403</High>
+    <Low>0.014133</Low>
+    <Close>0.0146339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-02</Date>
+    <Open>0.0146349</Open>
+    <High>0.0148621</High>
+    <Low>0.0140116</Low>
+    <Close>0.0147723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-03</Date>
+    <Open>0.0147583</Open>
+    <High>0.0147713</High>
+    <Low>0.0140831</Low>
+    <Close>0.0144911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-04</Date>
+    <Open>0.0144937</Open>
+    <High>0.0154938</High>
+    <Low>0.0139978</Low>
+    <Close>0.0152617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-05</Date>
+    <Open>0.0152816</Open>
+    <High>0.0165301</High>
+    <Low>0.014554</Low>
+    <Close>0.0153531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-06</Date>
+    <Open>0.0153731</Open>
+    <High>0.0156128</High>
+    <Low>0.0147723</Low>
+    <Close>0.0155029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-07</Date>
+    <Open>0.0155214</Open>
+    <High>0.0171129</High>
+    <Low>0.0155114</Low>
+    <Close>0.0168299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-08</Date>
+    <Open>0.0167999</Open>
+    <High>0.0173379</High>
+    <Low>0.0160388</Low>
+    <Close>0.0168499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-09</Date>
+    <Open>0.0168699</Open>
+    <High>0.0179092</High>
+    <Low>0.0168099</Low>
+    <Close>0.0171897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-10</Date>
+    <Open>0.0171797</Open>
+    <High>0.0172496</High>
+    <Low>0.0160204</Low>
+    <Close>0.0163302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-11</Date>
+    <Open>0.0163102</Open>
+    <High>0.0164201</High>
+    <Low>0.0151164</Low>
+    <Close>0.0151464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-12</Date>
+    <Open>0.0151594</Open>
+    <High>0.0152348</High>
+    <Low>0.0143042</Low>
+    <Close>0.0146653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-13</Date>
+    <Open>0.0147397</Open>
+    <High>0.0151388</High>
+    <Low>0.0139426</Low>
+    <Close>0.0146228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-14</Date>
+    <Open>0.0146148</Open>
+    <High>0.0161033</High>
+    <Low>0.0146148</Low>
+    <Close>0.0159624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-15</Date>
+    <Open>0.0157725</Open>
+    <High>0.0188197</High>
+    <Low>0.0157116</Low>
+    <Close>0.0164211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-16</Date>
+    <Open>0.0164211</Open>
+    <High>0.0175435</High>
+    <Low>0.0162791</Low>
+    <Close>0.0172158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-17</Date>
+    <Open>0.0172855</Open>
+    <High>0.0179449</High>
+    <Low>0.0167508</Low>
+    <Close>0.0171056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-18</Date>
+    <Open>0.0171054</Open>
+    <High>0.0193108</High>
+    <Low>0.0169224</Low>
+    <Close>0.0182708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-19</Date>
+    <Open>0.0182555</Open>
+    <High>0.0197702</High>
+    <Low>0.0182221</Low>
+    <Close>0.0192181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-20</Date>
+    <Open>0.019437</Open>
+    <High>0.019988</High>
+    <Low>0.0178237</Low>
+    <Close>0.0181049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-21</Date>
+    <Open>0.0181029</Open>
+    <High>0.0181331</High>
+    <Low>0.0169798</Low>
+    <Close>0.0179153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-22</Date>
+    <Open>0.0179263</Open>
+    <High>0.0183745</High>
+    <Low>0.0168625</Low>
+    <Close>0.0170067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-23</Date>
+    <Open>0.0170067</Open>
+    <High>0.0180639</High>
+    <Low>0.0169869</Low>
+    <Close>0.0175923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-24</Date>
+    <Open>0.0175923</Open>
+    <High>0.0196339</High>
+    <Low>0.0174723</Low>
+    <Close>0.0194627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-25</Date>
+    <Open>0.0194657</Open>
+    <High>0.0205331</High>
+    <Low>0.0173404</Low>
+    <Close>0.0177504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-26</Date>
+    <Open>0.0177844</Open>
+    <High>0.0177866</High>
+    <Low>0.0160335</Low>
+    <Close>0.0161564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-27</Date>
+    <Open>0.016156</Open>
+    <High>0.0177071</High>
+    <Low>0.0161283</Low>
+    <Close>0.0177022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-28</Date>
+    <Open>0.0177072</Open>
+    <High>0.0198067</High>
+    <Low>0.0176133</Low>
+    <Close>0.0194329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-29</Date>
+    <Open>0.0194411</Open>
+    <High>0.0206932</High>
+    <Low>0.0191216</Low>
+    <Close>0.0203673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-30</Date>
+    <Open>0.0201242</Open>
+    <High>0.0222248</High>
+    <Low>0.0196947</Low>
+    <Close>0.0208039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-07-31</Date>
+    <Open>0.0207732</Open>
+    <High>0.0219455</High>
+    <Low>0.0202507</Low>
+    <Close>0.0214279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-01</Date>
+    <Open>0.0211263</Open>
+    <High>0.0226845</High>
+    <Low>0.0201504</Low>
+    <Close>0.0224827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-02</Date>
+    <Open>0.0222287</Open>
+    <High>0.0233471</High>
+    <Low>0.0195587</Low>
+    <Close>0.0202214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-03</Date>
+    <Open>0.0202454</Open>
+    <High>0.0212274</High>
+    <Low>0.0193975</Low>
+    <Close>0.0209802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-04</Date>
+    <Open>0.0209743</Open>
+    <High>0.0220165</High>
+    <Low>0.0201566</Low>
+    <Close>0.0217427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-05</Date>
+    <Open>0.0217317</Open>
+    <High>0.0236693</High>
+    <Low>0.0216331</Low>
+    <Close>0.0221722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-06</Date>
+    <Open>0.0221662</Open>
+    <High>0.0228386</High>
+    <Low>0.0220207</Low>
+    <Close>0.0223419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-07</Date>
+    <Open>0.0223419</Open>
+    <High>0.0231674</High>
+    <Low>0.0217654</Low>
+    <Close>0.0230154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-08</Date>
+    <Open>0.0230154</Open>
+    <High>0.0236459</High>
+    <Low>0.0223229</Low>
+    <Close>0.0232828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-09</Date>
+    <Open>0.0232868</Open>
+    <High>0.023996</High>
+    <Low>0.0216821</Low>
+    <Close>0.0221884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-10</Date>
+    <Open>0.0221884</Open>
+    <High>0.0259675</High>
+    <Low>0.0214114</Low>
+    <Close>0.0243311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-11</Date>
+    <Open>0.0243621</Open>
+    <High>0.0265249</High>
+    <Low>0.0241246</Low>
+    <Close>0.0254269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-12</Date>
+    <Open>0.025629</Open>
+    <High>0.0274447</High>
+    <Low>0.0254967</Low>
+    <Close>0.0264792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-13</Date>
+    <Open>0.0264629</Open>
+    <High>0.0268735</High>
+    <Low>0.0255162</Low>
+    <Close>0.025778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-14</Date>
+    <Open>0.025778</Open>
+    <High>0.0279161</High>
+    <Low>0.0255337</Low>
+    <Close>0.0267763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-15</Date>
+    <Open>0.0268721</Open>
+    <High>0.0275738</High>
+    <Low>0.0246119</Low>
+    <Close>0.0246152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-16</Date>
+    <Open>0.0245889</Open>
+    <High>0.0259353</High>
+    <Low>0.0242119</Low>
+    <Close>0.0251433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-17</Date>
+    <Open>0.0251493</Open>
+    <High>0.0257188</High>
+    <Low>0.0221089</Low>
+    <Close>0.0223858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-18</Date>
+    <Open>0.0223766</Open>
+    <High>0.0236842</High>
+    <Low>0.0223618</Low>
+    <Close>0.0225552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-19</Date>
+    <Open>0.0225753</Open>
+    <High>0.0226933</High>
+    <Low>0.019369</Low>
+    <Close>0.019534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-20</Date>
+    <Open>0.019557</Open>
+    <High>0.0204378</High>
+    <Low>0.0187844</Low>
+    <Close>0.018885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-21</Date>
+    <Open>0.0190536</Open>
+    <High>0.0204204</High>
+    <Low>0.0190536</Low>
+    <Close>0.0202166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-22</Date>
+    <Open>0.0203106</Open>
+    <High>0.0203344</High>
+    <Low>0.0185334</Low>
+    <Close>0.0187556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-23</Date>
+    <Open>0.0187562</Open>
+    <High>0.0199306</High>
+    <Low>0.0186916</Low>
+    <Close>0.0196484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-24</Date>
+    <Open>0.01963</Open>
+    <High>0.0203628</High>
+    <Low>0.0192188</Low>
+    <Close>0.0202178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-25</Date>
+    <Open>0.0202298</Open>
+    <High>0.0207327</High>
+    <Low>0.0196932</Low>
+    <Close>0.0202526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-26</Date>
+    <Open>0.0202526</Open>
+    <High>0.0202896</High>
+    <Low>0.0179012</Low>
+    <Close>0.0181098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-27</Date>
+    <Open>0.0181788</Open>
+    <High>0.0184351</High>
+    <Low>0.0175607</Low>
+    <Close>0.0180575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-28</Date>
+    <Open>0.0180925</Open>
+    <High>0.0182577</High>
+    <Low>0.0177512</Low>
+    <Close>0.0178608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-29</Date>
+    <Open>0.017869</Open>
+    <High>0.018033</High>
+    <Low>0.0168953</Low>
+    <Close>0.0178382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-30</Date>
+    <Open>0.0178394</Open>
+    <High>0.0184385</High>
+    <Low>0.0167578</Low>
+    <Close>0.0172846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-08-31</Date>
+    <Open>0.0172994</Open>
+    <High>0.0180893</High>
+    <Low>0.0171642</Low>
+    <Close>0.0176458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-01</Date>
+    <Open>0.0176408</Open>
+    <High>0.0177308</High>
+    <Low>0.0167555</Low>
+    <Close>0.017116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-02</Date>
+    <Open>0.017374</Open>
+    <High>0.0179287</High>
+    <Low>0.0170809</Low>
+    <Close>0.0173113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-03</Date>
+    <Open>0.0172528</Open>
+    <High>0.017483</High>
+    <Low>0.017094</Low>
+    <Close>0.017262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-04</Date>
+    <Open>0.017209</Open>
+    <High>0.0179248</High>
+    <Low>0.017209</Low>
+    <Close>0.017835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-05</Date>
+    <Open>0.017807</Open>
+    <High>0.0181</High>
+    <Low>0.017309</Low>
+    <Close>0.0175878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-06</Date>
+    <Open>0.0175908</Open>
+    <High>0.0182688</High>
+    <Low>0.015856</Low>
+    <Close>0.016047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-07</Date>
+    <Open>0.016051</Open>
+    <High>0.0177355</High>
+    <Low>0.0155301</Low>
+    <Close>0.0176432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-08</Date>
+    <Open>0.0175442</Open>
+    <High>0.0178492</High>
+    <Low>0.0170267</Low>
+    <Close>0.0176238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-09</Date>
+    <Open>0.017621</Open>
+    <High>0.0188648</High>
+    <Low>0.0175803</Low>
+    <Close>0.0184993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-10</Date>
+    <Open>0.0184858</Open>
+    <High>0.019198</High>
+    <Low>0.0184179</Low>
+    <Close>0.0184995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-11</Date>
+    <Open>0.0186085</Open>
+    <High>0.0190639</High>
+    <Low>0.0182699</Low>
+    <Close>0.0183196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-12</Date>
+    <Open>0.0183186</Open>
+    <High>0.0194726</High>
+    <Low>0.0182074</Low>
+    <Close>0.0186747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-13</Date>
+    <Open>0.0185873</Open>
+    <High>0.0185983</High>
+    <Low>0.0168743</Low>
+    <Close>0.0170443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-14</Date>
+    <Open>0.0170217</Open>
+    <High>0.0173839</High>
+    <Low>0.016672</Low>
+    <Close>0.0172533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-15</Date>
+    <Open>0.0172533</Open>
+    <High>0.0174507</High>
+    <Low>0.0162235</Low>
+    <Close>0.0167745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-16</Date>
+    <Open>0.0167678</Open>
+    <High>0.0167782</High>
+    <Low>0.0160162</Low>
+    <Close>0.0163424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-17</Date>
+    <Open>0.016344</Open>
+    <High>0.01712</High>
+    <Low>0.0163384</Low>
+    <Close>0.016878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-18</Date>
+    <Open>0.016878</Open>
+    <High>0.0170047</High>
+    <Low>0.0144706</Low>
+    <Close>0.01527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-19</Date>
+    <Open>0.0152595</Open>
+    <High>0.015595</High>
+    <Low>0.014575</Low>
+    <Close>0.0155071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-20</Date>
+    <Open>0.0155426</Open>
+    <High>0.0155966</High>
+    <Low>0.014859</Low>
+    <Close>0.0149495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-21</Date>
+    <Open>0.014943</Open>
+    <High>0.0156267</High>
+    <Low>0.014316</Low>
+    <Close>0.014369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-22</Date>
+    <Open>0.014369</Open>
+    <High>0.015663</High>
+    <Low>0.014175</Low>
+    <Close>0.015553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-23</Date>
+    <Open>0.015552</Open>
+    <High>0.01581</High>
+    <Low>0.014834</Low>
+    <Close>0.0154145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-24</Date>
+    <Open>0.0154225</Open>
+    <High>0.0157186</High>
+    <Low>0.015235</Low>
+    <Close>0.0152662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-25</Date>
+    <Open>0.015261</Open>
+    <High>0.0153568</High>
+    <Low>0.0145116</Low>
+    <Close>0.014549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-26</Date>
+    <Open>0.014549</Open>
+    <High>0.015085</High>
+    <Low>0.014196</Low>
+    <Close>0.015004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-27</Date>
+    <Open>0.014957</Open>
+    <High>0.016402</High>
+    <Low>0.01491</Low>
+    <Close>0.0152015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-28</Date>
+    <Open>0.015205</Open>
+    <High>0.0155494</High>
+    <Low>0.0146635</Low>
+    <Close>0.015538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-29</Date>
+    <Open>0.015588</Open>
+    <High>0.01565</High>
+    <Low>0.014926</Low>
+    <Close>0.0155266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-09-30</Date>
+    <Open>0.0155256</Open>
+    <High>0.0158472</High>
+    <Low>0.0152135</Low>
+    <Close>0.015215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-01</Date>
+    <Open>0.015221</Open>
+    <High>0.015508</High>
+    <Low>0.0150975</Low>
+    <Close>0.015137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-02</Date>
+    <Open>0.01514</Open>
+    <High>0.015339</High>
+    <Low>0.014809</Low>
+    <Close>0.015244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-03</Date>
+    <Open>0.0151705</Open>
+    <High>0.0156981</High>
+    <Low>0.014662</Low>
+    <Close>0.0156866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-04</Date>
+    <Open>0.0156966</Open>
+    <High>0.0158868</High>
+    <Low>0.0154635</Low>
+    <Close>0.0156697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-05</Date>
+    <Open>0.0157091</Open>
+    <High>0.0157862</High>
+    <Low>0.0152085</Low>
+    <Close>0.0155341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-06</Date>
+    <Open>0.0155381</Open>
+    <High>0.0159235</High>
+    <Low>0.0153901</Low>
+    <Close>0.0154018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-07</Date>
+    <Open>0.0154076</Open>
+    <High>0.0154539</High>
+    <Low>0.0149461</Low>
+    <Close>0.0151641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-08</Date>
+    <Open>0.0150895</Open>
+    <High>0.0153071</High>
+    <Low>0.0150155</Low>
+    <Close>0.0150291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-09</Date>
+    <Open>0.0151419</Open>
+    <High>0.0152581</High>
+    <Low>0.0150135</Low>
+    <Close>0.015184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-10</Date>
+    <Open>0.0151475</Open>
+    <High>0.0153711</High>
+    <Low>0.014891</Low>
+    <Close>0.0150625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-11</Date>
+    <Open>0.015056</Open>
+    <High>0.015074</High>
+    <Low>0.0141836</Low>
+    <Close>0.0142906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-12</Date>
+    <Open>0.0143017</Open>
+    <High>0.0146096</High>
+    <Low>0.0141229</Low>
+    <Close>0.0141584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-13</Date>
+    <Open>0.0142304</Open>
+    <High>0.0143393</High>
+    <Low>0.0128312</Low>
+    <Close>0.0142381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-14</Date>
+    <Open>0.0142381</Open>
+    <High>0.0147302</High>
+    <Low>0.0137903</Low>
+    <Close>0.0139236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-15</Date>
+    <Open>0.0139234</Open>
+    <High>0.0141458</High>
+    <Low>0.01377</Low>
+    <Close>0.0140397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-16</Date>
+    <Open>0.014041</Open>
+    <High>0.0145514</High>
+    <Low>0.0138553</Low>
+    <Close>0.0144666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-17</Date>
+    <Open>0.0144777</Open>
+    <High>0.0147926</High>
+    <Low>0.0141079</Low>
+    <Close>0.0147503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-18</Date>
+    <Open>0.0147534</Open>
+    <High>0.0151525</High>
+    <Low>0.0142093</Low>
+    <Close>0.0144659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-19</Date>
+    <Open>0.0144914</Open>
+    <High>0.0145087</High>
+    <Low>0.0139753</Low>
+    <Close>0.014376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-20</Date>
+    <Open>0.0143819</Open>
+    <High>0.0144244</High>
+    <Low>0.0136558</Low>
+    <Close>0.013774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-21</Date>
+    <Open>0.0137736</Open>
+    <High>0.0140931</High>
+    <Low>0.0131697</Low>
+    <Close>0.0140931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-22</Date>
+    <Open>0.014039</Open>
+    <High>0.0141431</High>
+    <Low>0.0138113</Low>
+    <Close>0.0139613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-23</Date>
+    <Open>0.0139613</Open>
+    <High>0.014905</High>
+    <Low>0.013813</Low>
+    <Close>0.0145149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-24</Date>
+    <Open>0.0145339</Open>
+    <High>0.0147226</High>
+    <Low>0.0142723</Low>
+    <Close>0.0145766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-25</Date>
+    <Open>0.0145766</Open>
+    <High>0.0153144</High>
+    <Low>0.0142764</Low>
+    <Close>0.0148908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-26</Date>
+    <Open>0.0148851</Open>
+    <High>0.0153001</High>
+    <Low>0.0147855</Low>
+    <Close>0.0151042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-27</Date>
+    <Open>0.0151092</Open>
+    <High>0.0158902</High>
+    <Low>0.0149281</Low>
+    <Close>0.0151169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-28</Date>
+    <Open>0.0151249</Open>
+    <High>0.0160767</High>
+    <Low>0.0148107</Low>
+    <Close>0.0159463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-29</Date>
+    <Open>0.015938</Open>
+    <High>0.0162115</High>
+    <Low>0.0154135</Low>
+    <Close>0.0156037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-30</Date>
+    <Open>0.0155997</Open>
+    <High>0.0163943</High>
+    <Low>0.0150873</Low>
+    <Close>0.015229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-10-31</Date>
+    <Open>0.0152382</Open>
+    <High>0.0155404</High>
+    <Low>0.0147646</Low>
+    <Close>0.0153928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-01</Date>
+    <Open>0.0153941</Open>
+    <High>0.0156242</High>
+    <Low>0.0148569</Low>
+    <Close>0.0149174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-02</Date>
+    <Open>0.0149145</Open>
+    <High>0.0150993</High>
+    <Low>0.0140604</Low>
+    <Close>0.0143877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-03</Date>
+    <Open>0.0144021</Open>
+    <High>0.0157922</High>
+    <Low>0.0142803</Low>
+    <Close>0.0156958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-04</Date>
+    <Open>0.0156818</Open>
+    <High>0.0188231</High>
+    <Low>0.015474</Low>
+    <Close>0.0173204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-05</Date>
+    <Open>0.0173312</Open>
+    <High>0.0177534</High>
+    <Low>0.0168945</Low>
+    <Close>0.017088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-06</Date>
+    <Open>0.0170727</Open>
+    <High>0.0173219</High>
+    <Low>0.0161548</Low>
+    <Close>0.0163153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-07</Date>
+    <Open>0.0163161</Open>
+    <High>0.0168282</High>
+    <Low>0.0158963</Low>
+    <Close>0.0161871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-08</Date>
+    <Open>0.0162869</Open>
+    <High>0.0167084</High>
+    <Low>0.0131657</Low>
+    <Close>0.0133951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-09</Date>
+    <Open>0.013379</Open>
+    <High>0.0138845</High>
+    <Low>0.0103681</Low>
+    <Close>0.0108044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-10</Date>
+    <Open>0.0108309</Open>
+    <High>0.0136656</High>
+    <Low>0.0104674</Low>
+    <Close>0.0126903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-11</Date>
+    <Open>0.0126963</Open>
+    <High>0.014227</High>
+    <Low>0.0112833</Low>
+    <Close>0.0118342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-12</Date>
+    <Open>0.0118273</Open>
+    <High>0.0121873</High>
+    <Low>0.0110501</Low>
+    <Close>0.0111479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-13</Date>
+    <Open>0.0111529</Open>
+    <High>0.0114946</High>
+    <Low>0.010719</Low>
+    <Close>0.0108138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-14</Date>
+    <Open>0.0108618</Open>
+    <High>0.0112274</High>
+    <Low>0.0101737</Low>
+    <Close>0.0110015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-15</Date>
+    <Open>0.0110009</Open>
+    <High>0.0115994</High>
+    <Low>0.0109955</Low>
+    <Close>0.0112028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-16</Date>
+    <Open>0.0112093</Open>
+    <High>0.0114336</High>
+    <Low>0.0108052</Low>
+    <Close>0.010957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-17</Date>
+    <Open>0.0109558</Open>
+    <High>0.011235</High>
+    <Low>0.0108037</Low>
+    <Close>0.0110514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-18</Date>
+    <Open>0.0110534</Open>
+    <High>0.0113668</High>
+    <Low>0.0109951</Low>
+    <Close>0.0112201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-19</Date>
+    <Open>0.0112201</Open>
+    <High>0.0114834</High>
+    <Low>0.0109881</Low>
+    <Close>0.011415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-20</Date>
+    <Open>0.0114151</Open>
+    <High>0.011591</High>
+    <Low>0.0107794</Low>
+    <Close>0.0107796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-21</Date>
+    <Open>0.0108139</Open>
+    <High>0.0110418</High>
+    <Low>0.0104242</Low>
+    <Close>0.0109748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-22</Date>
+    <Open>0.0109728</Open>
+    <High>0.0115098</High>
+    <Low>0.0105971</Low>
+    <Close>0.011497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-23</Date>
+    <Open>0.011486</Open>
+    <High>0.0119695</High>
+    <Low>0.0114131</Low>
+    <Close>0.011796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-24</Date>
+    <Open>0.011789</Open>
+    <High>0.0121838</High>
+    <Low>0.011618</Low>
+    <Close>0.0117281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-25</Date>
+    <Open>0.011725</Open>
+    <High>0.0119633</High>
+    <Low>0.0113517</Low>
+    <Close>0.0119083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-26</Date>
+    <Open>0.0118857</Open>
+    <High>0.0133806</High>
+    <Low>0.0117888</Low>
+    <Close>0.011812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-27</Date>
+    <Open>0.011804</Open>
+    <High>0.0124987</High>
+    <Low>0.011783</Low>
+    <Close>0.0122791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-28</Date>
+    <Open>0.0123021</Open>
+    <High>0.0123125</High>
+    <Low>0.0115372</Low>
+    <Close>0.0115956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-29</Date>
+    <Open>0.0115906</Open>
+    <High>0.0122375</High>
+    <Low>0.0114785</Low>
+    <Close>0.0117806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-11-30</Date>
+    <Open>0.0117856</Open>
+    <High>0.0123619</High>
+    <Low>0.0117668</Low>
+    <Close>0.0121975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-01</Date>
+    <Open>0.0121885</Open>
+    <High>0.0122942</High>
+    <Low>0.0119712</Low>
+    <Close>0.0119897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-02</Date>
+    <Open>0.0119837</Open>
+    <High>0.0125036</High>
+    <Low>0.0119662</Low>
+    <Close>0.0123717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-03</Date>
+    <Open>0.0123707</Open>
+    <High>0.012666</High>
+    <Low>0.0121652</Low>
+    <Close>0.0122092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-04</Date>
+    <Open>0.0122042</Open>
+    <High>0.0123167</High>
+    <Low>0.0117822</Low>
+    <Close>0.0120262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-05</Date>
+    <Open>0.0120274</Open>
+    <High>0.0124877</High>
+    <Low>0.0118596</Low>
+    <Close>0.0119634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-06</Date>
+    <Open>0.0119612</Open>
+    <High>0.0129181</High>
+    <Low>0.0119529</Low>
+    <Close>0.0122428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-07</Date>
+    <Open>0.0122428</Open>
+    <High>0.0123151</High>
+    <Low>0.0116267</Low>
+    <Close>0.011976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-08</Date>
+    <Open>0.011976</Open>
+    <High>0.0122128</High>
+    <Low>0.0117422</Low>
+    <Close>0.0120998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-09</Date>
+    <Open>0.012073</Open>
+    <High>0.0124729</High>
+    <Low>0.0120692</Low>
+    <Close>0.0122644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-10</Date>
+    <Open>0.0122679</Open>
+    <High>0.0129681</High>
+    <Low>0.0122629</Low>
+    <Close>0.0124918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-11</Date>
+    <Open>0.0124858</Open>
+    <High>0.0126295</High>
+    <Low>0.0122772</Low>
+    <Close>0.0122785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-12</Date>
+    <Open>0.0122935</Open>
+    <High>0.0123405</High>
+    <Low>0.0117872</Low>
+    <Close>0.0121831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-13</Date>
+    <Open>0.0121701</Open>
+    <High>0.0123371</High>
+    <Low>0.0114772</Low>
+    <Close>0.0123129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-14</Date>
+    <Open>0.012307</Open>
+    <High>0.0124569</High>
+    <Low>0.0118991</Low>
+    <Close>0.0119898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-15</Date>
+    <Open>0.0119898</Open>
+    <High>0.0120844</High>
+    <Low>0.0117752</Low>
+    <Close>0.0117952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-16</Date>
+    <Open>0.0118034</Open>
+    <High>0.0119322</High>
+    <Low>0.010253</Low>
+    <Close>0.0106271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-17</Date>
+    <Open>0.010499</Open>
+    <High>0.0106694</High>
+    <Low>0.0100421</Low>
+    <Close>0.0104604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-18</Date>
+    <Open>0.010462</Open>
+    <High>0.0106624</High>
+    <Low>0.0104414</Low>
+    <Close>0.0106283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-19</Date>
+    <Open>0.0106106</Open>
+    <High>0.0106371</High>
+    <Low>0.0097103</Low>
+    <Close>0.0097769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-20</Date>
+    <Open>0.009776</Open>
+    <High>0.0105892</High>
+    <Low>0.009776</Low>
+    <Close>0.0104804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-21</Date>
+    <Open>0.0104804</Open>
+    <High>0.0105203</High>
+    <Low>0.0101762</Low>
+    <Close>0.0102405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-22</Date>
+    <Open>0.0102405</Open>
+    <High>0.0104001</High>
+    <Low>0.0100565</Low>
+    <Close>0.0102643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-23</Date>
+    <Open>0.0102664</Open>
+    <High>0.010429</High>
+    <Low>0.0102585</Low>
+    <Close>0.010377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-24</Date>
+    <Open>0.010377</Open>
+    <High>0.0104935</High>
+    <Low>0.010313</Low>
+    <Close>0.0104794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-25</Date>
+    <Open>0.0104813</Open>
+    <High>0.0105257</High>
+    <Low>0.010256</Low>
+    <Close>0.0103087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-26</Date>
+    <Open>0.0103118</Open>
+    <High>0.0104081</High>
+    <Low>0.0102499</Low>
+    <Close>0.0103579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-27</Date>
+    <Open>0.0103579</Open>
+    <High>0.0104279</High>
+    <Low>0.0100333</Low>
+    <Close>0.0100681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-28</Date>
+    <Open>0.0100661</Open>
+    <High>0.0102151</High>
+    <Low>0.0096477</Low>
+    <Close>0.0096838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-29</Date>
+    <Open>0.0096769</Open>
+    <High>0.0097549</High>
+    <Low>0.0091962</Low>
+    <Close>0.0093188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-30</Date>
+    <Open>0.0093188</Open>
+    <High>0.0094427</High>
+    <Low>0.00918096</Low>
+    <Close>0.00935623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2022-12-31</Date>
+    <Open>0.00935623</Open>
+    <High>0.00954622</High>
+    <Low>0.00929226</Low>
+    <Close>0.00950125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-01</Date>
+    <Open>0.00950115</Open>
+    <High>0.00959958</High>
+    <Low>0.00941782</Low>
+    <Close>0.0095615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-02</Date>
+    <Open>0.0095615</Open>
+    <High>0.00984326</High>
+    <Low>0.00940895</Low>
+    <Close>0.00983185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-03</Date>
+    <Open>0.00982785</Open>
+    <High>0.00987395</High>
+    <Low>0.00967793</Low>
+    <Close>0.0097402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-04</Date>
+    <Open>0.0097432</Open>
+    <High>0.0101307</High>
+    <Low>0.0097402</Low>
+    <Close>0.00986674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-05</Date>
+    <Open>0.00986674</Open>
+    <High>0.0101538</High>
+    <Low>0.00981307</Low>
+    <Close>0.00993352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-06</Date>
+    <Open>0.00993402</Open>
+    <High>0.0100586</High>
+    <Low>0.00967316</Low>
+    <Close>0.00997191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-07</Date>
+    <Open>0.00997391</Open>
+    <High>0.010199</High>
+    <Low>0.00996781</Low>
+    <Close>0.0100866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-08</Date>
+    <Open>0.010084</Open>
+    <High>0.0105979</High>
+    <Low>0.00994171</Low>
+    <Close>0.0105954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-09</Date>
+    <Open>0.0106017</Open>
+    <High>0.0114821</High>
+    <Low>0.0105674</Low>
+    <Close>0.0109279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-10</Date>
+    <Open>0.010927</Open>
+    <High>0.01138</High>
+    <Low>0.0107699</Low>
+    <Close>0.0112746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-11</Date>
+    <Open>0.0112688</Open>
+    <High>0.0113079</High>
+    <Low>0.0108187</Low>
+    <Close>0.0111669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-12</Date>
+    <Open>0.0111611</Open>
+    <High>0.0118808</High>
+    <Low>0.0111559</Low>
+    <Close>0.0117952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-13</Date>
+    <Open>0.0117951</Open>
+    <High>0.0125449</High>
+    <Low>0.0117364</Low>
+    <Close>0.0124871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-14</Date>
+    <Open>0.012424</Open>
+    <High>0.0141788</High>
+    <Low>0.0123456</Low>
+    <Close>0.0132377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-15</Date>
+    <Open>0.0132343</Open>
+    <High>0.0134623</High>
+    <Low>0.0127748</Low>
+    <Close>0.0131418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-16</Date>
+    <Open>0.0131419</Open>
+    <High>0.0151574</High>
+    <Low>0.0131278</Low>
+    <Close>0.0138003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-17</Date>
+    <Open>0.0138003</Open>
+    <High>0.0142006</High>
+    <Low>0.0134972</Low>
+    <Close>0.0137554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-18</Date>
+    <Open>0.0137595</Open>
+    <High>0.0140481</High>
+    <Low>0.0124839</Low>
+    <Close>0.0128164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-19</Date>
+    <Open>0.0128204</Open>
+    <High>0.0132156</High>
+    <Low>0.0125437</Low>
+    <Close>0.0130715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-20</Date>
+    <Open>0.0130828</Open>
+    <High>0.0147261</High>
+    <Low>0.0129539</Low>
+    <Close>0.0144896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-21</Date>
+    <Open>0.0144856</Open>
+    <High>0.0148398</High>
+    <Low>0.0141595</Low>
+    <Close>0.0143739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-22</Date>
+    <Open>0.0143443</Open>
+    <High>0.0151363</High>
+    <Low>0.0140431</Low>
+    <Close>0.0143229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-23</Date>
+    <Open>0.0143229</Open>
+    <High>0.0179869</High>
+    <Low>0.0142897</Low>
+    <Close>0.0175086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-24</Date>
+    <Open>0.0171071</Open>
+    <High>0.0171451</High>
+    <Low>0.0155763</Low>
+    <Close>0.0160403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-25</Date>
+    <Open>0.0159975</Open>
+    <High>0.016634</High>
+    <Low>0.0152828</Low>
+    <Close>0.0160937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-26</Date>
+    <Open>0.0161077</Open>
+    <High>0.0168364</High>
+    <Low>0.0159435</Low>
+    <Close>0.0164056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-27</Date>
+    <Open>0.0164063</Open>
+    <High>0.0175493</High>
+    <Low>0.0158549</Low>
+    <Close>0.0173746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-28</Date>
+    <Open>0.0173669</Open>
+    <High>0.0178571</High>
+    <Low>0.0169257</Low>
+    <Close>0.0175165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-29</Date>
+    <Open>0.0175165</Open>
+    <High>0.0193052</High>
+    <Low>0.0174178</Low>
+    <Close>0.0186777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-30</Date>
+    <Open>0.0185067</Open>
+    <High>0.0192381</High>
+    <Low>0.0181421</Low>
+    <Close>0.0188053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-01-31</Date>
+    <Open>0.0188131</Open>
+    <High>0.0192467</High>
+    <Low>0.0173951</Low>
+    <Close>0.0182546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-01</Date>
+    <Open>0.0182771</Open>
+    <High>0.0194544</High>
+    <Low>0.0172329</Low>
+    <Close>0.0189481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-02</Date>
+    <Open>0.0189599</Open>
+    <High>0.0202734</High>
+    <Low>0.0188248</Low>
+    <Close>0.0191828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-03</Date>
+    <Open>0.0192118</Open>
+    <High>0.0200812</High>
+    <Low>0.018716</Low>
+    <Close>0.0199286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-04</Date>
+    <Open>0.0199116</Open>
+    <High>0.0204616</High>
+    <Low>0.0194984</Low>
+    <Close>0.0198336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-05</Date>
+    <Open>0.0198506</Open>
+    <High>0.0198506</High>
+    <Low>0.0183748</Low>
+    <Close>0.0195999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-06</Date>
+    <Open>0.0196269</Open>
+    <High>0.0198902</High>
+    <Low>0.0184246</Low>
+    <Close>0.0184417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-07</Date>
+    <Open>0.0184387</Open>
+    <High>0.0195184</High>
+    <Low>0.0180491</Low>
+    <Close>0.0193764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-08</Date>
+    <Open>0.0193682</Open>
+    <High>0.019679</High>
+    <Low>0.0177379</Low>
+    <Close>0.0181163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-09</Date>
+    <Open>0.0181043</Open>
+    <High>0.0188676</High>
+    <Low>0.0154594</Low>
+    <Close>0.0154794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-10</Date>
+    <Open>0.0156354</Open>
+    <High>0.0206973</High>
+    <Low>0.0154655</Low>
+    <Close>0.0172596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-11</Date>
+    <Open>0.0172756</Open>
+    <High>0.0219092</High>
+    <Low>0.0171812</Low>
+    <Close>0.0216069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-12</Date>
+    <Open>0.0216113</Open>
+    <High>0.0240402</High>
+    <Low>0.0210634</Low>
+    <Close>0.0215262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-13</Date>
+    <Open>0.0215322</Open>
+    <High>0.0218297</High>
+    <Low>0.0188704</Low>
+    <Close>0.0191365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-14</Date>
+    <Open>0.0191313</Open>
+    <High>0.0209658</High>
+    <Low>0.0191153</Low>
+    <Close>0.0206112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-15</Date>
+    <Open>0.0206117</Open>
+    <High>0.0239071</High>
+    <Low>0.0202327</Low>
+    <Close>0.0234342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-16</Date>
+    <Open>0.0235728</Open>
+    <High>0.0239821</High>
+    <Low>0.0216716</Low>
+    <Close>0.0216814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-17</Date>
+    <Open>0.0216654</Open>
+    <High>0.0223776</High>
+    <Low>0.0211463</Low>
+    <Close>0.0220002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-18</Date>
+    <Open>0.0220002</Open>
+    <High>0.0225103</High>
+    <Low>0.0213339</Low>
+    <Close>0.0215404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-19</Date>
+    <Open>0.0215324</Open>
+    <High>0.0225636</High>
+    <Low>0.021375</Low>
+    <Close>0.0223351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-20</Date>
+    <Open>0.0223459</Open>
+    <High>0.0240048</High>
+    <Low>0.0218803</Low>
+    <Close>0.0233439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-21</Date>
+    <Open>0.0233089</Open>
+    <High>0.0244329</High>
+    <Low>0.0224694</Low>
+    <Close>0.0235512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-22</Date>
+    <Open>0.0235622</Open>
+    <High>0.0247807</High>
+    <Low>0.0228367</Low>
+    <Close>0.0243292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-23</Date>
+    <Open>0.024368</Open>
+    <High>0.0254211</High>
+    <Low>0.0237402</Low>
+    <Close>0.0238211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-24</Date>
+    <Open>0.0238113</Open>
+    <High>0.0241529</High>
+    <Low>0.0207484</Low>
+    <Close>0.0207858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-25</Date>
+    <Open>0.0207678</Open>
+    <High>0.0214651</High>
+    <Low>0.019664</Low>
+    <Close>0.0203294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-26</Date>
+    <Open>0.0203492</Open>
+    <High>0.0211333</High>
+    <Low>0.0202488</Low>
+    <Close>0.0209643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-27</Date>
+    <Open>0.020965</Open>
+    <High>0.0212846</High>
+    <Low>0.0201046</Low>
+    <Close>0.0205102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-02-28</Date>
+    <Open>0.020508</Open>
+    <High>0.0215456</High>
+    <Low>0.020061</Low>
+    <Close>0.0202949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-01</Date>
+    <Open>0.0203393</Open>
+    <High>0.0214847</High>
+    <Low>0.0200338</Low>
+    <Close>0.0212978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-02</Date>
+    <Open>0.0212448</Open>
+    <High>0.021392</High>
+    <Low>0.0203326</Low>
+    <Close>0.0208387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-03</Date>
+    <Open>0.0208039</Open>
+    <High>0.0209301</High>
+    <Low>0.0183723</Low>
+    <Close>0.0188393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-04</Date>
+    <Open>0.0188551</Open>
+    <High>0.0192675</High>
+    <Low>0.0173229</Low>
+    <Close>0.0174614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-05</Date>
+    <Open>0.0178704</Open>
+    <High>0.0183807</High>
+    <Low>0.0177237</Low>
+    <Close>0.018095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-06</Date>
+    <Open>0.0180862</Open>
+    <High>0.0180862</High>
+    <Low>0.017179</Low>
+    <Close>0.0177859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-07</Date>
+    <Open>0.0177732</Open>
+    <High>0.018235</High>
+    <Low>0.0165458</Low>
+    <Close>0.0165932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-08</Date>
+    <Open>0.0165622</Open>
+    <High>0.016955</High>
+    <Low>0.0152973</Low>
+    <Close>0.0154354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-09</Date>
+    <Open>0.0154315</Open>
+    <High>0.0165079</High>
+    <Low>0.01448</Low>
+    <Close>0.0148143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-10</Date>
+    <Open>0.0147973</Open>
+    <High>0.0159183</High>
+    <Low>0.0144178</Low>
+    <Close>0.0158771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-11</Date>
+    <Open>0.0159019</Open>
+    <High>0.0165516</High>
+    <Low>0.0147623</Low>
+    <Close>0.0151924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-12</Date>
+    <Open>0.0151923</Open>
+    <High>0.016678</High>
+    <Low>0.0151805</Low>
+    <Close>0.0166391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-13</Date>
+    <Open>0.0166552</Open>
+    <High>0.018971</High>
+    <Low>0.016586</Low>
+    <Close>0.0189513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-14</Date>
+    <Open>0.018798</Open>
+    <High>0.020965</High>
+    <Low>0.0187591</Low>
+    <Close>0.0201645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-15</Date>
+    <Open>0.0202097</Open>
+    <High>0.0212047</High>
+    <Low>0.0187548</Low>
+    <Close>0.0189328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-16</Date>
+    <Open>0.018942</Open>
+    <High>0.0195729</High>
+    <Low>0.0186124</Low>
+    <Close>0.0191149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-17</Date>
+    <Open>0.0191151</Open>
+    <High>0.0212081</High>
+    <Low>0.0187159</Low>
+    <Close>0.0208664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-18</Date>
+    <Open>0.0208853</Open>
+    <High>0.0221642</High>
+    <Low>0.0204902</Low>
+    <Close>0.0210899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-19</Date>
+    <Open>0.021074</Open>
+    <High>0.023141</High>
+    <Low>0.0206681</Low>
+    <Close>0.0224017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-20</Date>
+    <Open>0.0224333</Open>
+    <High>0.0226973</High>
+    <Low>0.0207035</Low>
+    <Close>0.0212555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-21</Date>
+    <Open>0.0212372</Open>
+    <High>0.0235277</High>
+    <Low>0.0204133</Low>
+    <Close>0.0230543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-22</Date>
+    <Open>0.0230653</Open>
+    <High>0.02523</High>
+    <Low>0.0230586</Low>
+    <Close>0.0235764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-23</Date>
+    <Open>0.0235634</Open>
+    <High>0.0279185</High>
+    <Low>0.0233325</Low>
+    <Close>0.0268527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-24</Date>
+    <Open>0.0268818</Open>
+    <High>0.0277756</High>
+    <Low>0.0258078</Low>
+    <Close>0.0265223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-25</Date>
+    <Open>0.0265966</Open>
+    <High>0.0295372</High>
+    <Low>0.0257225</Low>
+    <Close>0.0276448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-26</Date>
+    <Open>0.0276498</Open>
+    <High>0.0277397</High>
+    <Low>0.0265849</Low>
+    <Close>0.0269094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-27</Date>
+    <Open>0.0269236</Open>
+    <High>0.0290084</High>
+    <Low>0.0267104</Low>
+    <Close>0.0269617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-28</Date>
+    <Open>0.0269727</Open>
+    <High>0.0275615</High>
+    <Low>0.0228933</Low>
+    <Close>0.023762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-29</Date>
+    <Open>0.0237463</Open>
+    <High>0.0251935</High>
+    <Low>0.0233179</Low>
+    <Close>0.0240783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-30</Date>
+    <Open>0.0240892</Open>
+    <High>0.024705</High>
+    <Low>0.0225826</Low>
+    <Close>0.0232925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-03-31</Date>
+    <Open>0.0232923</Open>
+    <High>0.0236192</High>
+    <Low>0.0224276</Low>
+    <Close>0.0234009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-01</Date>
+    <Open>0.0233367</Open>
+    <High>0.0237859</High>
+    <Low>0.0222716</Low>
+    <Close>0.0224751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-02</Date>
+    <Open>0.0225851</Open>
+    <High>0.0226005</High>
+    <Low>0.0209392</Low>
+    <Close>0.0213412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-03</Date>
+    <Open>0.0213292</Open>
+    <High>0.022481</High>
+    <Low>0.0206949</Low>
+    <Close>0.0218898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-04</Date>
+    <Open>0.0219205</Open>
+    <High>0.0223249</High>
+    <Low>0.0212727</Low>
+    <Close>0.0217991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-05</Date>
+    <Open>0.0219222</Open>
+    <High>0.0223749</High>
+    <Low>0.0211127</Low>
+    <Close>0.0215878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-06</Date>
+    <Open>0.0215617</Open>
+    <High>0.0218613</High>
+    <Low>0.0209532</Low>
+    <Close>0.0212184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-07</Date>
+    <Open>0.0212296</Open>
+    <High>0.0215699</High>
+    <Low>0.0203434</Low>
+    <Close>0.0205522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-08</Date>
+    <Open>0.0205452</Open>
+    <High>0.0212052</High>
+    <Low>0.0204749</Low>
+    <Close>0.0206681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-09</Date>
+    <Open>0.0206212</Open>
+    <High>0.0208307</High>
+    <Low>0.0199235</Low>
+    <Close>0.0203366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-10</Date>
+    <Open>0.0205334</Open>
+    <High>0.0215076</High>
+    <Low>0.0205334</Low>
+    <Close>0.0212732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-11</Date>
+    <Open>0.0213005</Open>
+    <High>0.0221547</High>
+    <Low>0.0213005</Low>
+    <Close>0.0217775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-12</Date>
+    <Open>0.0217875</Open>
+    <High>0.0222183</High>
+    <Low>0.0207666</Low>
+    <Close>0.0220692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-13</Date>
+    <Open>0.0220582</Open>
+    <High>0.0240594</High>
+    <Low>0.0219955</Low>
+    <Close>0.0233504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-14</Date>
+    <Open>0.0232573</Open>
+    <High>0.02403</High>
+    <Low>0.0227657</Low>
+    <Close>0.0236536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-15</Date>
+    <Open>0.0236526</Open>
+    <High>0.0239421</High>
+    <Low>0.0230418</Low>
+    <Close>0.023324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-16</Date>
+    <Open>0.0232747</Open>
+    <High>0.0302849</High>
+    <Low>0.0230747</Low>
+    <Close>0.0287886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-17</Date>
+    <Open>0.0287776</Open>
+    <High>0.0301387</High>
+    <Low>0.0254778</Low>
+    <Close>0.0260334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-18</Date>
+    <Open>0.0259993</Open>
+    <High>0.0269167</High>
+    <Low>0.0256065</Low>
+    <Close>0.0262915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-19</Date>
+    <Open>0.0263102</Open>
+    <High>0.0323947</High>
+    <Low>0.0251708</Low>
+    <Close>0.0266577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-20</Date>
+    <Open>0.0266694</Open>
+    <High>0.029218</High>
+    <Low>0.0254962</Low>
+    <Close>0.0271022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-21</Date>
+    <Open>0.0270569</Open>
+    <High>0.0272596</High>
+    <Low>0.0251447</Low>
+    <Close>0.0259781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-22</Date>
+    <Open>0.0259651</Open>
+    <High>0.0288053</High>
+    <Low>0.0247833</Low>
+    <Close>0.0282025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-23</Date>
+    <Open>0.0281825</Open>
+    <High>0.0294884</High>
+    <Low>0.0267073</Low>
+    <Close>0.0267723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-24</Date>
+    <Open>0.0267883</Open>
+    <High>0.0267918</High>
+    <Low>0.0232154</Low>
+    <Close>0.0233535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-25</Date>
+    <Open>0.0233567</Open>
+    <High>0.0234885</High>
+    <Low>0.022217</Low>
+    <Close>0.0233514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-26</Date>
+    <Open>0.0234004</Open>
+    <High>0.0273183</High>
+    <Low>0.0228618</Low>
+    <Close>0.0236586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-27</Date>
+    <Open>0.0243358</Open>
+    <High>0.026117</High>
+    <Low>0.0240535</Low>
+    <Close>0.0255449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-28</Date>
+    <Open>0.0255444</Open>
+    <High>0.0256774</High>
+    <Low>0.0236012</Low>
+    <Close>0.0239537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-29</Date>
+    <Open>0.0240225</Open>
+    <High>0.0247185</High>
+    <Low>0.023668</Low>
+    <Close>0.0241082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-04-30</Date>
+    <Open>0.0241022</Open>
+    <High>0.0241457</High>
+    <Low>0.0228615</Low>
+    <Close>0.0232272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-01</Date>
+    <Open>0.0232312</Open>
+    <High>0.0239424</High>
+    <Low>0.0222668</Low>
+    <Close>0.0225809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-02</Date>
+    <Open>0.0225941</Open>
+    <High>0.0230255</High>
+    <Low>0.0221808</Low>
+    <Close>0.0227671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-03</Date>
+    <Open>0.0227599</Open>
+    <High>0.0233376</High>
+    <Low>0.0220907</Low>
+    <Close>0.023019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-04</Date>
+    <Open>0.0237214</Open>
+    <High>0.0243801</High>
+    <Low>0.0223956</Low>
+    <Close>0.0226814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-05</Date>
+    <Open>0.0226842</Open>
+    <High>0.0236461</High>
+    <Low>0.0223423</Low>
+    <Close>0.0233192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-06</Date>
+    <Open>0.0233282</Open>
+    <High>0.0234834</High>
+    <Low>0.0213743</Low>
+    <Close>0.0214202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-07</Date>
+    <Open>0.0214173</Open>
+    <High>0.0216923</High>
+    <Low>0.0207925</Low>
+    <Close>0.0210506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-08</Date>
+    <Open>0.0210308</Open>
+    <High>0.0211239</High>
+    <Low>0.0181393</Low>
+    <Close>0.018483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-09</Date>
+    <Open>0.018425</Open>
+    <High>0.0192244</High>
+    <Low>0.018424</Low>
+    <Close>0.0186296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-10</Date>
+    <Open>0.0186336</Open>
+    <High>0.0199499</High>
+    <Low>0.0186234</Low>
+    <Close>0.0197477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-11</Date>
+    <Open>0.0197167</Open>
+    <High>0.01998</High>
+    <Low>0.0183125</Low>
+    <Close>0.0186598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-12</Date>
+    <Open>0.0186416</Open>
+    <High>0.0194167</High>
+    <Low>0.0182834</Low>
+    <Close>0.0188851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-13</Date>
+    <Open>0.0192184</Open>
+    <High>0.0196018</High>
+    <Low>0.0191666</Low>
+    <Close>0.0194357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-14</Date>
+    <Open>0.0194467</Open>
+    <High>0.0203852</High>
+    <Low>0.0192506</Low>
+    <Close>0.0201981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-15</Date>
+    <Open>0.0202011</Open>
+    <High>0.0218941</High>
+    <Low>0.020007</Low>
+    <Close>0.021468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-16</Date>
+    <Open>0.021412</Open>
+    <High>0.0219924</High>
+    <Low>0.0210928</Low>
+    <Close>0.0217529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-17</Date>
+    <Open>0.0216907</Open>
+    <High>0.0228784</High>
+    <Low>0.0212086</Low>
+    <Close>0.0226653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-18</Date>
+    <Open>0.0226631</Open>
+    <High>0.0241672</High>
+    <Low>0.0220216</Low>
+    <Close>0.0228071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-19</Date>
+    <Open>0.0228091</Open>
+    <High>0.023022</High>
+    <Low>0.0221099</Low>
+    <Close>0.0223505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-20</Date>
+    <Open>0.0223382</Open>
+    <High>0.0223479</High>
+    <Low>0.0213421</Low>
+    <Close>0.0218537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-21</Date>
+    <Open>0.0218558</Open>
+    <High>0.0218558</High>
+    <Low>0.0207845</Low>
+    <Close>0.0208835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-22</Date>
+    <Open>0.0208424</Open>
+    <High>0.0218831</High>
+    <Low>0.0206224</Low>
+    <Close>0.0218709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-23</Date>
+    <Open>0.0218889</Open>
+    <High>0.0228035</High>
+    <Low>0.0214739</Low>
+    <Close>0.0216553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-24</Date>
+    <Open>0.0216488</Open>
+    <High>0.0217364</High>
+    <Low>0.0196496</Low>
+    <Close>0.0202028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-25</Date>
+    <Open>0.020204</Open>
+    <High>0.0203702</High>
+    <Low>0.0194926</Low>
+    <Close>0.0202016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-26</Date>
+    <Open>0.0202004</Open>
+    <High>0.0206696</High>
+    <Low>0.019508</Low>
+    <Close>0.0206371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-27</Date>
+    <Open>0.0206142</Open>
+    <High>0.0206167</High>
+    <Low>0.0197585</Low>
+    <Close>0.0198693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CELR">
+    <Date>2023-05-28</Date>
+    <Open>0.019873</Open>
+    <High>0.0206118</High>
+    <Low>0.019873</Low>
+    <Close>0.0204497</Close>
+  </Cryptocurrency>
+</Root>

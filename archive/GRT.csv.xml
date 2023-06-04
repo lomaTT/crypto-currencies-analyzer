@@ -1,0 +1,6254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-18</Date>
+    <Open>0.1757</Open>
+    <High>0.2917</High>
+    <Low>0.1747</Low>
+    <Close>0.2619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-19</Date>
+    <Open>0.5084</Open>
+    <High>0.6021</High>
+    <Low>0.4002</Low>
+    <Close>0.492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-20</Date>
+    <Open>0.492</Open>
+    <High>1.149</High>
+    <Low>0.458</Low>
+    <Close>0.7639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-21</Date>
+    <Open>0.7639</Open>
+    <High>0.7639</High>
+    <Low>0.3671</Low>
+    <Close>0.4901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-22</Date>
+    <Open>0.5564</Open>
+    <High>0.63</High>
+    <Low>0.5026</Low>
+    <Close>0.5454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-23</Date>
+    <Open>0.5454</Open>
+    <High>0.5818</High>
+    <Low>0.3353</Low>
+    <Close>0.4125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-24</Date>
+    <Open>0.4125</Open>
+    <High>0.4567</High>
+    <Low>0.3551</Low>
+    <Close>0.4102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-25</Date>
+    <Open>0.4102</Open>
+    <High>0.4209</High>
+    <Low>0.3342</Low>
+    <Close>0.3591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-26</Date>
+    <Open>0.3591</Open>
+    <High>0.4991</High>
+    <Low>0.32</Low>
+    <Close>0.4841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-27</Date>
+    <Open>0.4841</Open>
+    <High>0.496</High>
+    <Low>0.3779</Low>
+    <Close>0.396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-28</Date>
+    <Open>0.396</Open>
+    <High>0.438</High>
+    <Low>0.3746</Low>
+    <Close>0.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-29</Date>
+    <Open>0.38</Open>
+    <High>0.3859</High>
+    <Low>0.3395</Low>
+    <Close>0.3726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-30</Date>
+    <Open>0.3726</Open>
+    <High>0.405</High>
+    <Low>0.35</Low>
+    <Close>0.3748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2020-12-31</Date>
+    <Open>0.3748</Open>
+    <High>0.3805</High>
+    <Low>0.3415</Low>
+    <Close>0.3512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-01</Date>
+    <Open>0.3512</Open>
+    <High>0.3795</High>
+    <Low>0.3462</Low>
+    <Close>0.3629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-02</Date>
+    <Open>0.3629</Open>
+    <High>0.3629</High>
+    <Low>0.3108</Low>
+    <Close>0.3272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-03</Date>
+    <Open>0.3272</Open>
+    <High>0.3374</High>
+    <Low>0.282</Low>
+    <Close>0.2982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-04</Date>
+    <Open>0.2982</Open>
+    <High>0.3548</High>
+    <Low>0.2914</Low>
+    <Close>0.309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-05</Date>
+    <Open>0.309</Open>
+    <High>0.348</High>
+    <Low>0.2853</Low>
+    <Close>0.3396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-06</Date>
+    <Open>0.3396</Open>
+    <High>0.3998</High>
+    <Low>0.3155</Low>
+    <Close>0.3708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-07</Date>
+    <Open>0.3708</Open>
+    <High>0.4159</High>
+    <Low>0.328</Low>
+    <Close>0.3459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-08</Date>
+    <Open>0.3459</Open>
+    <High>0.3515</High>
+    <Low>0.3107</Low>
+    <Close>0.3293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-09</Date>
+    <Open>0.3293</Open>
+    <High>0.3651</High>
+    <Low>0.3171</Low>
+    <Close>0.3493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-10</Date>
+    <Open>0.3493</Open>
+    <High>0.3788</High>
+    <Low>0.308</Low>
+    <Close>0.327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-11</Date>
+    <Open>0.327</Open>
+    <High>0.3278</High>
+    <Low>0.2327</Low>
+    <Close>0.2913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-12</Date>
+    <Open>0.2913</Open>
+    <High>0.31</High>
+    <Low>0.2646</Low>
+    <Close>0.2774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-13</Date>
+    <Open>0.2774</Open>
+    <High>0.3497</High>
+    <Low>0.2671</Low>
+    <Close>0.3247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-14</Date>
+    <Open>0.3247</Open>
+    <High>0.3616</High>
+    <Low>0.3159</Low>
+    <Close>0.3335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-15</Date>
+    <Open>0.3335</Open>
+    <High>0.392</High>
+    <Low>0.311</Low>
+    <Close>0.3379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-16</Date>
+    <Open>0.3379</Open>
+    <High>0.4781</High>
+    <Low>0.3371</Low>
+    <Close>0.4656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-17</Date>
+    <Open>0.4656</Open>
+    <High>0.575</High>
+    <Low>0.4099</Low>
+    <Close>0.5198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-18</Date>
+    <Open>0.5198</Open>
+    <High>0.6618</High>
+    <Low>0.4956</Low>
+    <Close>0.6185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-19</Date>
+    <Open>0.6185</Open>
+    <High>0.644</High>
+    <Low>0.5252</Low>
+    <Close>0.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-20</Date>
+    <Open>0.54</Open>
+    <High>0.5758</High>
+    <Low>0.4768</Low>
+    <Close>0.5217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-21</Date>
+    <Open>0.5217</Open>
+    <High>0.5598</High>
+    <Low>0.4343</Low>
+    <Close>0.4356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-22</Date>
+    <Open>0.4356</Open>
+    <High>0.5565</High>
+    <Low>0.3862</Low>
+    <Close>0.5109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-23</Date>
+    <Open>0.5109</Open>
+    <High>0.5931</High>
+    <Low>0.4892</Low>
+    <Close>0.5848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-24</Date>
+    <Open>0.5848</Open>
+    <High>0.594</High>
+    <Low>0.5181</Low>
+    <Close>0.5564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-25</Date>
+    <Open>0.5564</Open>
+    <High>0.594</High>
+    <Low>0.5258</Low>
+    <Close>0.5299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-26</Date>
+    <Open>0.5299</Open>
+    <High>0.5509</High>
+    <Low>0.4808</Low>
+    <Close>0.5371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-27</Date>
+    <Open>0.5371</Open>
+    <High>0.5457</High>
+    <Low>0.454</Low>
+    <Close>0.4856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-28</Date>
+    <Open>0.4856</Open>
+    <High>0.5836</High>
+    <Low>0.469</Low>
+    <Close>0.5589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-29</Date>
+    <Open>0.5589</Open>
+    <High>0.66</High>
+    <Low>0.5341</Low>
+    <Close>0.5536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-30</Date>
+    <Open>0.5536</Open>
+    <High>0.6801</High>
+    <Low>0.5522</Low>
+    <Close>0.6367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-01-31</Date>
+    <Open>0.6367</Open>
+    <High>0.8718</High>
+    <Low>0.602</Low>
+    <Close>0.7947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-01</Date>
+    <Open>0.7947</Open>
+    <High>0.8892</High>
+    <Low>0.7535</Low>
+    <Close>0.7843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-02</Date>
+    <Open>0.7843</Open>
+    <High>0.8192</High>
+    <Low>0.7254</Low>
+    <Close>0.754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-03</Date>
+    <Open>0.754</Open>
+    <High>0.8689</High>
+    <Low>0.7261</Low>
+    <Close>0.8266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-04</Date>
+    <Open>0.8266</Open>
+    <High>0.8599</High>
+    <Low>0.7693</Low>
+    <Close>0.8168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-05</Date>
+    <Open>0.8168</Open>
+    <High>1.05</High>
+    <Low>0.807</Low>
+    <Close>0.9523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-06</Date>
+    <Open>0.9523</Open>
+    <High>0.9553</High>
+    <Low>0.8339</Low>
+    <Close>0.8677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-07</Date>
+    <Open>0.8677</Open>
+    <High>0.9598</High>
+    <Low>0.7801</Low>
+    <Close>0.9179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-08</Date>
+    <Open>0.9179</Open>
+    <High>1.045</High>
+    <Low>0.9132</Low>
+    <Close>0.967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-09</Date>
+    <Open>0.967</Open>
+    <High>1.1</High>
+    <Low>0.9428</Low>
+    <Close>1.053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-10</Date>
+    <Open>1.053</Open>
+    <High>1.289</High>
+    <Low>0.9912</Low>
+    <Close>1.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-11</Date>
+    <Open>1.27</Open>
+    <High>2.193</High>
+    <Low>1.202</Low>
+    <Close>2.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-12</Date>
+    <Open>2.03</Open>
+    <High>2.802</High>
+    <Low>1.914</Low>
+    <Close>2.248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-13</Date>
+    <Open>2.248</Open>
+    <High>2.59</High>
+    <Low>2.179</Low>
+    <Close>2.354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-14</Date>
+    <Open>2.354</Open>
+    <High>2.413</High>
+    <Low>1.9</Low>
+    <Close>2.163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-15</Date>
+    <Open>2.163</Open>
+    <High>2.442</High>
+    <Low>1.67</Low>
+    <Close>2.143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-16</Date>
+    <Open>2.143</Open>
+    <High>2.275</High>
+    <Low>2.021</Low>
+    <Close>2.073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-17</Date>
+    <Open>2.073</Open>
+    <High>2.21</High>
+    <Low>1.912</Low>
+    <Close>2.189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-18</Date>
+    <Open>2.189</Open>
+    <High>2.349</High>
+    <Low>2.132</Low>
+    <Close>2.286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-19</Date>
+    <Open>2.286</Open>
+    <High>2.328</High>
+    <Low>2.107</Low>
+    <Close>2.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-20</Date>
+    <Open>2.17</Open>
+    <High>2.66</High>
+    <Low>2.088</Low>
+    <Close>2.296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-21</Date>
+    <Open>2.296</Open>
+    <High>2.387</High>
+    <Low>2.195</Low>
+    <Close>2.299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-22</Date>
+    <Open>2.299</Open>
+    <High>2.43</High>
+    <Low>1.626</Low>
+    <Close>2.026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-23</Date>
+    <Open>2.026</Open>
+    <High>2.026</High>
+    <Low>1.31</Low>
+    <Close>1.702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-24</Date>
+    <Open>1.702</Open>
+    <High>2.03</High>
+    <Low>1.602</Low>
+    <Close>1.888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-25</Date>
+    <Open>1.888</Open>
+    <High>1.998</High>
+    <Low>1.697</Low>
+    <Close>1.697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-26</Date>
+    <Open>1.697</Open>
+    <High>1.867</High>
+    <Low>1.567</Low>
+    <Close>1.728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-27</Date>
+    <Open>1.728</Open>
+    <High>1.814</High>
+    <Low>1.639</Low>
+    <Close>1.684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-02-28</Date>
+    <Open>1.684</Open>
+    <High>1.69</High>
+    <Low>1.429</Low>
+    <Close>1.591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-01</Date>
+    <Open>1.591</Open>
+    <High>1.929</High>
+    <Low>1.591</Low>
+    <Close>1.921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-02</Date>
+    <Open>1.921</Open>
+    <High>1.983</High>
+    <Low>1.722</Low>
+    <Close>1.833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-03</Date>
+    <Open>1.833</Open>
+    <High>2.084</High>
+    <Low>1.8</Low>
+    <Close>1.954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-04</Date>
+    <Open>1.954</Open>
+    <High>2.044</High>
+    <Low>1.792</Low>
+    <Close>1.869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-05</Date>
+    <Open>1.869</Open>
+    <High>1.889</High>
+    <Low>1.724</Low>
+    <Close>1.824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-06</Date>
+    <Open>1.824</Open>
+    <High>1.86</High>
+    <Low>1.751</Low>
+    <Close>1.794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-07</Date>
+    <Open>1.798</Open>
+    <High>2.025</High>
+    <Low>1.798</Low>
+    <Close>1.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-08</Date>
+    <Open>1.878</Open>
+    <High>1.928</High>
+    <Low>1.805</Low>
+    <Close>1.906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-09</Date>
+    <Open>1.906</Open>
+    <High>2.223</High>
+    <Low>1.874</Low>
+    <Close>2.132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-10</Date>
+    <Open>2.132</Open>
+    <High>2.147</High>
+    <Low>1.959</Low>
+    <Close>2.039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-11</Date>
+    <Open>1.987</Open>
+    <High>2.085</High>
+    <Low>1.881</Low>
+    <Close>1.913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-12</Date>
+    <Open>1.913</Open>
+    <High>1.926</High>
+    <Low>1.661</Low>
+    <Close>1.735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-13</Date>
+    <Open>1.735</Open>
+    <High>1.89</High>
+    <Low>1.652</Low>
+    <Close>1.794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-14</Date>
+    <Open>1.794</Open>
+    <High>1.841</High>
+    <Low>1.71</Low>
+    <Close>1.733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-15</Date>
+    <Open>1.733</Open>
+    <High>1.869</High>
+    <Low>1.686</Low>
+    <Close>1.718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-16</Date>
+    <Open>1.718</Open>
+    <High>1.789</High>
+    <Low>1.604</Low>
+    <Close>1.714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-17</Date>
+    <Open>1.714</Open>
+    <High>1.752</High>
+    <Low>1.647</Low>
+    <Close>1.718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-18</Date>
+    <Open>1.718</Open>
+    <High>1.791</High>
+    <Low>1.681</Low>
+    <Close>1.691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-19</Date>
+    <Open>1.691</Open>
+    <High>1.74</High>
+    <Low>1.656</Low>
+    <Close>1.693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-20</Date>
+    <Open>1.693</Open>
+    <High>1.879</High>
+    <Low>1.684</Low>
+    <Close>1.718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-21</Date>
+    <Open>1.718</Open>
+    <High>1.754</High>
+    <Low>1.651</Low>
+    <Close>1.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-22</Date>
+    <Open>1.7</Open>
+    <High>1.709</High>
+    <Low>1.503</Low>
+    <Close>1.544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-23</Date>
+    <Open>1.544</Open>
+    <High>1.595</High>
+    <Low>1.496</Low>
+    <Close>1.503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-24</Date>
+    <Open>1.503</Open>
+    <High>1.591</High>
+    <Low>1.345</Low>
+    <Close>1.403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-25</Date>
+    <Open>1.403</Open>
+    <High>1.419</High>
+    <Low>1.313</Low>
+    <Close>1.338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-26</Date>
+    <Open>1.338</Open>
+    <High>1.562</High>
+    <Low>1.338</Low>
+    <Close>1.552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-27</Date>
+    <Open>1.552</Open>
+    <High>1.584</High>
+    <Low>1.457</Low>
+    <Close>1.469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-28</Date>
+    <Open>1.469</Open>
+    <High>1.819</High>
+    <Low>1.459</Low>
+    <Close>1.814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-29</Date>
+    <Open>1.814</Open>
+    <High>1.853</High>
+    <Low>1.687</Low>
+    <Close>1.772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-30</Date>
+    <Open>1.772</Open>
+    <High>1.892</High>
+    <Low>1.731</Low>
+    <Close>1.761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-03-31</Date>
+    <Open>1.761</Open>
+    <High>1.792</High>
+    <Low>1.656</Low>
+    <Close>1.719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-01</Date>
+    <Open>1.719</Open>
+    <High>1.85</High>
+    <Low>1.683</Low>
+    <Close>1.773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-02</Date>
+    <Open>1.773</Open>
+    <High>1.951</High>
+    <Low>1.734</Low>
+    <Close>1.885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-03</Date>
+    <Open>1.885</Open>
+    <High>1.976</High>
+    <Low>1.675</Low>
+    <Close>1.681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-04</Date>
+    <Open>1.681</Open>
+    <High>1.771</High>
+    <Low>1.654</Low>
+    <Close>1.759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-05</Date>
+    <Open>1.759</Open>
+    <High>1.849</High>
+    <Low>1.691</Low>
+    <Close>1.827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-06</Date>
+    <Open>1.827</Open>
+    <High>1.88</High>
+    <Low>1.734</Low>
+    <Close>1.759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-07</Date>
+    <Open>1.759</Open>
+    <High>1.768</High>
+    <Low>1.548</Low>
+    <Close>1.655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-08</Date>
+    <Open>1.655</Open>
+    <High>1.757</High>
+    <Low>1.641</Low>
+    <Close>1.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-09</Date>
+    <Open>1.75</Open>
+    <High>1.817</High>
+    <Low>1.715</Low>
+    <Close>1.738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-10</Date>
+    <Open>1.738</Open>
+    <High>1.917</High>
+    <Low>1.712</Low>
+    <Close>1.891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-11</Date>
+    <Open>1.891</Open>
+    <High>1.904</High>
+    <Low>1.795</Low>
+    <Close>1.901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-12</Date>
+    <Open>1.901</Open>
+    <High>2.15</High>
+    <Low>1.884</Low>
+    <Close>2.016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-13</Date>
+    <Open>2.016</Open>
+    <High>2.079</High>
+    <Low>1.904</Low>
+    <Close>1.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-14</Date>
+    <Open>1.92</Open>
+    <High>2.125</High>
+    <Low>1.849</Low>
+    <Close>2.026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-15</Date>
+    <Open>2.026</Open>
+    <High>2.191</High>
+    <Low>1.963</Low>
+    <Close>2.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-16</Date>
+    <Open>2.1</Open>
+    <High>2.177</High>
+    <Low>1.911</Low>
+    <Close>1.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-17</Date>
+    <Open>1.99</Open>
+    <High>2.126</High>
+    <Low>1.923</Low>
+    <Close>1.932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-18</Date>
+    <Open>1.932</Open>
+    <High>1.952</High>
+    <Low>1.46</Low>
+    <Close>1.702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-19</Date>
+    <Open>1.702</Open>
+    <High>1.779</High>
+    <Low>1.534</Low>
+    <Close>1.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-20</Date>
+    <Open>1.56</Open>
+    <High>1.643</High>
+    <Low>1.426</Low>
+    <Close>1.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-21</Date>
+    <Open>1.59</Open>
+    <High>1.663</High>
+    <Low>1.491</Low>
+    <Close>1.527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-22</Date>
+    <Open>1.527</Open>
+    <High>1.624</High>
+    <Low>1.411</Low>
+    <Close>1.411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-23</Date>
+    <Open>1.411</Open>
+    <High>1.444</High>
+    <Low>1.119</Low>
+    <Close>1.397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-24</Date>
+    <Open>1.397</Open>
+    <High>1.4</High>
+    <Low>1.249</Low>
+    <Close>1.257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-25</Date>
+    <Open>1.257</Open>
+    <High>1.357</High>
+    <Low>1.196</Low>
+    <Close>1.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-26</Date>
+    <Open>1.26</Open>
+    <High>1.505</High>
+    <Low>1.251</Low>
+    <Close>1.461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-27</Date>
+    <Open>1.461</Open>
+    <High>1.579</High>
+    <Low>1.447</Low>
+    <Close>1.562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-28</Date>
+    <Open>1.562</Open>
+    <High>1.632</High>
+    <Low>1.482</Low>
+    <Close>1.536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-29</Date>
+    <Open>1.536</Open>
+    <High>1.567</High>
+    <Low>1.442</Low>
+    <Close>1.497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-04-30</Date>
+    <Open>1.497</Open>
+    <High>1.597</High>
+    <Low>1.472</Low>
+    <Close>1.558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-01</Date>
+    <Open>1.558</Open>
+    <High>1.729</High>
+    <Low>1.552</Low>
+    <Close>1.675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-02</Date>
+    <Open>1.675</Open>
+    <High>1.687</High>
+    <Low>1.549</Low>
+    <Close>1.611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-03</Date>
+    <Open>1.611</Open>
+    <High>1.681</High>
+    <Low>1.572</Low>
+    <Close>1.589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-04</Date>
+    <Open>1.589</Open>
+    <High>1.593</High>
+    <Low>1.418</Low>
+    <Close>1.432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-05</Date>
+    <Open>1.432</Open>
+    <High>1.556</High>
+    <Low>1.423</Low>
+    <Close>1.536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-06</Date>
+    <Open>1.536</Open>
+    <High>1.668</High>
+    <Low>1.51</Low>
+    <Close>1.606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-07</Date>
+    <Open>1.606</Open>
+    <High>1.725</High>
+    <Low>1.526</Low>
+    <Close>1.602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-08</Date>
+    <Open>1.602</Open>
+    <High>1.655</High>
+    <Low>1.562</Low>
+    <Close>1.588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-09</Date>
+    <Open>1.588</Open>
+    <High>1.601</High>
+    <Low>1.48</Low>
+    <Close>1.538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-10</Date>
+    <Open>1.538</Open>
+    <High>1.578</High>
+    <Low>1.288</Low>
+    <Close>1.384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-11</Date>
+    <Open>1.384</Open>
+    <High>1.479</High>
+    <Low>1.322</Low>
+    <Close>1.461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-12</Date>
+    <Open>1.461</Open>
+    <High>1.539</High>
+    <Low>1.285</Low>
+    <Close>1.287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-13</Date>
+    <Open>1.295</Open>
+    <High>1.406</High>
+    <Low>1.221</Low>
+    <Close>1.315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-14</Date>
+    <Open>1.313</Open>
+    <High>1.397</High>
+    <Low>1.287</Low>
+    <Close>1.365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-15</Date>
+    <Open>1.365</Open>
+    <High>1.526</High>
+    <Low>1.308</Low>
+    <Close>1.317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-16</Date>
+    <Open>1.317</Open>
+    <High>1.423</High>
+    <Low>1.234</Low>
+    <Close>1.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-17</Date>
+    <Open>1.3</Open>
+    <High>1.3</High>
+    <Low>1.168</Low>
+    <Close>1.197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-18</Date>
+    <Open>1.197</Open>
+    <High>1.266</High>
+    <Low>1.179</Low>
+    <Close>1.226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-19</Date>
+    <Open>1.226</Open>
+    <High>1.245</High>
+    <Low>0.5343</Low>
+    <Close>0.7512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-20</Date>
+    <Open>0.7488</Open>
+    <High>0.978</High>
+    <Low>0.6946</Low>
+    <Close>0.9076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-21</Date>
+    <Open>0.9093</Open>
+    <High>0.9486</High>
+    <Low>0.7558</Low>
+    <Close>0.8486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-22</Date>
+    <Open>0.8548</Open>
+    <High>0.8738</High>
+    <Low>0.7615</Low>
+    <Close>0.7908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-23</Date>
+    <Open>0.7894</Open>
+    <High>0.8065</High>
+    <Low>0.5147</Low>
+    <Close>0.6528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-24</Date>
+    <Open>0.6528</Open>
+    <High>0.8532</High>
+    <Low>0.6329</Low>
+    <Close>0.8197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-25</Date>
+    <Open>0.8197</Open>
+    <High>0.8586</High>
+    <Low>0.728</Low>
+    <Close>0.8202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-26</Date>
+    <Open>0.8202</Open>
+    <High>0.8829</High>
+    <Low>0.8045</Low>
+    <Close>0.8427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-27</Date>
+    <Open>0.8427</Open>
+    <High>0.8451</High>
+    <Low>0.7532</Low>
+    <Close>0.7715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-28</Date>
+    <Open>0.7715</Open>
+    <High>0.792</High>
+    <Low>0.6185</Low>
+    <Close>0.6521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-29</Date>
+    <Open>0.6508</Open>
+    <High>0.6991</High>
+    <Low>0.5946</Low>
+    <Close>0.6275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-30</Date>
+    <Open>0.6275</Open>
+    <High>0.7709</High>
+    <Low>0.5901</Low>
+    <Close>0.7388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-05-31</Date>
+    <Open>0.7388</Open>
+    <High>0.8542</High>
+    <Low>0.6918</Low>
+    <Close>0.7942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-01</Date>
+    <Open>0.7942</Open>
+    <High>0.8282</High>
+    <Low>0.7489</Low>
+    <Close>0.7682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-02</Date>
+    <Open>0.7682</Open>
+    <High>0.8126</High>
+    <Low>0.7375</Low>
+    <Close>0.7664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-03</Date>
+    <Open>0.7664</Open>
+    <High>0.9691</High>
+    <Low>0.7541</Low>
+    <Close>0.9503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-04</Date>
+    <Open>0.9503</Open>
+    <High>0.9569</High>
+    <Low>0.7528</Low>
+    <Close>0.8026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-05</Date>
+    <Open>0.8026</Open>
+    <High>0.8482</High>
+    <Low>0.7251</Low>
+    <Close>0.7541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-06</Date>
+    <Open>0.7541</Open>
+    <High>0.8192</High>
+    <Low>0.7468</Low>
+    <Close>0.7836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-07</Date>
+    <Open>0.7836</Open>
+    <High>0.8393</High>
+    <Low>0.6891</Low>
+    <Close>0.699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-08</Date>
+    <Open>0.699</Open>
+    <High>0.7159</High>
+    <Low>0.6301</Low>
+    <Close>0.693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-09</Date>
+    <Open>0.693</Open>
+    <High>0.7307</High>
+    <Low>0.6563</Low>
+    <Close>0.7091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-10</Date>
+    <Open>0.7091</Open>
+    <High>0.7161</High>
+    <Low>0.6547</Low>
+    <Close>0.6621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-11</Date>
+    <Open>0.6621</Open>
+    <High>0.6811</High>
+    <Low>0.6031</Low>
+    <Close>0.6147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-12</Date>
+    <Open>0.6147</Open>
+    <High>0.6249</High>
+    <Low>0.568</Low>
+    <Close>0.6027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-13</Date>
+    <Open>0.6027</Open>
+    <High>0.6933</High>
+    <Low>0.5822</Low>
+    <Close>0.6846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-14</Date>
+    <Open>0.6846</Open>
+    <High>0.7237</High>
+    <Low>0.6628</Low>
+    <Close>0.6827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-15</Date>
+    <Open>0.6827</Open>
+    <High>0.7589</High>
+    <Low>0.6743</Low>
+    <Close>0.7168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-16</Date>
+    <Open>0.7168</Open>
+    <High>0.7932</High>
+    <Low>0.6688</Low>
+    <Close>0.6813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-17</Date>
+    <Open>0.6813</Open>
+    <High>0.7203</High>
+    <Low>0.6588</Low>
+    <Close>0.686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-18</Date>
+    <Open>0.686</Open>
+    <High>0.6923</High>
+    <Low>0.593</Low>
+    <Close>0.6103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-19</Date>
+    <Open>0.6103</Open>
+    <High>0.6298</High>
+    <Low>0.5921</Low>
+    <Close>0.6012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-20</Date>
+    <Open>0.6012</Open>
+    <High>0.6564</High>
+    <Low>0.5658</Low>
+    <Close>0.6428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-21</Date>
+    <Open>0.6428</Open>
+    <High>0.6488</High>
+    <Low>0.501</Low>
+    <Close>0.5052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-22</Date>
+    <Open>0.5049</Open>
+    <High>0.5526</High>
+    <Low>0.4285</Low>
+    <Close>0.494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-23</Date>
+    <Open>0.4938</Open>
+    <High>0.6082</High>
+    <Low>0.4728</Low>
+    <Close>0.6017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-24</Date>
+    <Open>0.6017</Open>
+    <High>0.6252</High>
+    <Low>0.5759</Low>
+    <Close>0.6017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-25</Date>
+    <Open>0.6017</Open>
+    <High>0.6213</High>
+    <Low>0.5221</Low>
+    <Close>0.5258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-26</Date>
+    <Open>0.5258</Open>
+    <High>0.5486</High>
+    <Low>0.5046</Low>
+    <Close>0.5438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-27</Date>
+    <Open>0.5438</Open>
+    <High>0.5595</High>
+    <Low>0.5181</Low>
+    <Close>0.5588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-28</Date>
+    <Open>0.5588</Open>
+    <High>0.588</High>
+    <Low>0.5427</Low>
+    <Close>0.5713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-29</Date>
+    <Open>0.5713</Open>
+    <High>0.6228</High>
+    <Low>0.567</Low>
+    <Close>0.5793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-06-30</Date>
+    <Open>0.5793</Open>
+    <High>0.5916</High>
+    <Low>0.5485</Low>
+    <Close>0.5914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-01</Date>
+    <Open>0.5914</Open>
+    <High>0.592</High>
+    <Low>0.5243</Low>
+    <Close>0.5372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-02</Date>
+    <Open>0.5372</Open>
+    <High>0.6036</High>
+    <Low>0.5203</Low>
+    <Close>0.6019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-03</Date>
+    <Open>0.6025</Open>
+    <High>0.6856</High>
+    <Low>0.5874</Low>
+    <Close>0.6766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-04</Date>
+    <Open>0.6766</Open>
+    <High>0.7589</High>
+    <Low>0.6432</Low>
+    <Close>0.7259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-05</Date>
+    <Open>0.7259</Open>
+    <High>0.7988</High>
+    <Low>0.6965</Low>
+    <Close>0.7327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-06</Date>
+    <Open>0.7329</Open>
+    <High>0.7677</High>
+    <Low>0.6874</Low>
+    <Close>0.7021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-07</Date>
+    <Open>0.7021</Open>
+    <High>0.7564</High>
+    <Low>0.6881</Low>
+    <Close>0.7061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-08</Date>
+    <Open>0.7061</Open>
+    <High>0.7088</High>
+    <Low>0.6325</Low>
+    <Close>0.6546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-09</Date>
+    <Open>0.6546</Open>
+    <High>0.7025</High>
+    <Low>0.6281</Low>
+    <Close>0.6913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-10</Date>
+    <Open>0.6913</Open>
+    <High>0.717</High>
+    <Low>0.6494</Low>
+    <Close>0.6846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-11</Date>
+    <Open>0.6846</Open>
+    <High>0.7489</High>
+    <Low>0.6831</Low>
+    <Close>0.7142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-12</Date>
+    <Open>0.7142</Open>
+    <High>0.741</High>
+    <Low>0.6622</Low>
+    <Close>0.6712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-13</Date>
+    <Open>0.6712</Open>
+    <High>0.6836</High>
+    <Low>0.6267</Low>
+    <Close>0.6331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-14</Date>
+    <Open>0.6331</Open>
+    <High>0.6507</High>
+    <Low>0.5937</Low>
+    <Close>0.6384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-15</Date>
+    <Open>0.6384</Open>
+    <High>0.6516</High>
+    <Low>0.5914</Low>
+    <Close>0.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-16</Date>
+    <Open>0.6</Open>
+    <High>0.6177</High>
+    <Low>0.5771</Low>
+    <Close>0.5806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-17</Date>
+    <Open>0.5806</Open>
+    <High>0.5898</High>
+    <Low>0.557</Low>
+    <Close>0.5592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-18</Date>
+    <Open>0.5592</Open>
+    <High>0.5868</High>
+    <Low>0.5498</Low>
+    <Close>0.5522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-19</Date>
+    <Open>0.5522</Open>
+    <High>0.5564</High>
+    <Low>0.5028</Low>
+    <Close>0.5072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-20</Date>
+    <Open>0.5072</Open>
+    <High>0.5183</High>
+    <Low>0.4761</Low>
+    <Close>0.4921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-21</Date>
+    <Open>0.4921</Open>
+    <High>0.5753</High>
+    <Low>0.4743</Low>
+    <Close>0.5568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-22</Date>
+    <Open>0.5568</Open>
+    <High>0.5617</High>
+    <Low>0.5282</Low>
+    <Close>0.5599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-23</Date>
+    <Open>0.5599</Open>
+    <High>0.568</High>
+    <Low>0.5176</Low>
+    <Close>0.5563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-24</Date>
+    <Open>0.5563</Open>
+    <High>0.5937</High>
+    <Low>0.5354</Low>
+    <Close>0.5499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-25</Date>
+    <Open>0.55</Open>
+    <High>0.5565</High>
+    <Low>0.5255</Low>
+    <Close>0.5411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-26</Date>
+    <Open>0.5428</Open>
+    <High>0.6156</High>
+    <Low>0.5395</Low>
+    <Close>0.5498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-27</Date>
+    <Open>0.5498</Open>
+    <High>0.5918</High>
+    <Low>0.5243</Low>
+    <Close>0.5687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-28</Date>
+    <Open>0.5687</Open>
+    <High>0.5818</High>
+    <Low>0.5464</Low>
+    <Close>0.5603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-29</Date>
+    <Open>0.5603</Open>
+    <High>0.6338</High>
+    <Low>0.5484</Low>
+    <Close>0.5847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-30</Date>
+    <Open>0.5847</Open>
+    <High>0.6026</High>
+    <Low>0.5546</Low>
+    <Close>0.5952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-07-31</Date>
+    <Open>0.5952</Open>
+    <High>0.6397</High>
+    <Low>0.5854</Low>
+    <Close>0.624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-01</Date>
+    <Open>0.624</Open>
+    <High>0.7263</High>
+    <Low>0.6188</Low>
+    <Close>0.6596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-02</Date>
+    <Open>0.6596</Open>
+    <High>0.6999</High>
+    <Low>0.6333</Low>
+    <Close>0.6914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-03</Date>
+    <Open>0.6914</Open>
+    <High>0.7084</High>
+    <Low>0.6381</Low>
+    <Close>0.646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-04</Date>
+    <Open>0.646</Open>
+    <High>0.6841</High>
+    <Low>0.6232</Low>
+    <Close>0.6672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-05</Date>
+    <Open>0.6672</Open>
+    <High>0.7151</High>
+    <Low>0.6398</Low>
+    <Close>0.7006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-06</Date>
+    <Open>0.7006</Open>
+    <High>0.7239</High>
+    <Low>0.6701</Low>
+    <Close>0.7029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-07</Date>
+    <Open>0.7029</Open>
+    <High>0.7598</High>
+    <Low>0.6944</Low>
+    <Close>0.733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-08</Date>
+    <Open>0.733</Open>
+    <High>0.7332</High>
+    <Low>0.658</Low>
+    <Close>0.6721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-09</Date>
+    <Open>0.6721</Open>
+    <High>0.7388</High>
+    <Low>0.6463</Low>
+    <Close>0.7074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-10</Date>
+    <Open>0.7074</Open>
+    <High>0.7704</High>
+    <Low>0.6977</Low>
+    <Close>0.7493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-11</Date>
+    <Open>0.7493</Open>
+    <High>0.8856</High>
+    <Low>0.7445</Low>
+    <Close>0.7904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-12</Date>
+    <Open>0.8338</Open>
+    <High>0.8944</High>
+    <Low>0.7777</Low>
+    <Close>0.8791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-13</Date>
+    <Open>0.8791</Open>
+    <High>0.9486</High>
+    <Low>0.8716</Low>
+    <Close>0.9287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-14</Date>
+    <Open>0.9287</Open>
+    <High>0.9562</High>
+    <Low>0.8698</Low>
+    <Close>0.901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-15</Date>
+    <Open>0.901</Open>
+    <High>0.9157</High>
+    <Low>0.8454</Low>
+    <Close>0.8986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-16</Date>
+    <Open>0.8986</Open>
+    <High>0.9347</High>
+    <Low>0.8518</Low>
+    <Close>0.8554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-17</Date>
+    <Open>0.8554</Open>
+    <High>1.024</High>
+    <Low>0.8211</Low>
+    <Close>0.8696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-18</Date>
+    <Open>0.8696</Open>
+    <High>0.9202</High>
+    <Low>0.8162</Low>
+    <Close>0.8538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-19</Date>
+    <Open>0.8538</Open>
+    <High>0.9841</High>
+    <Low>0.8304</Low>
+    <Close>0.9841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-20</Date>
+    <Open>0.9841</Open>
+    <High>1.092</High>
+    <Low>0.9776</Low>
+    <Close>1.041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-21</Date>
+    <Open>1.041</Open>
+    <High>1.054</High>
+    <Low>0.9854</Low>
+    <Close>0.9896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-22</Date>
+    <Open>0.9896</Open>
+    <High>1.079</High>
+    <Low>0.9682</Low>
+    <Close>1.074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-23</Date>
+    <Open>1.074</Open>
+    <High>1.083</High>
+    <Low>1.003</Low>
+    <Close>1.026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-24</Date>
+    <Open>1.026</Open>
+    <High>1.035</High>
+    <Low>0.9018</Low>
+    <Close>0.9198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-25</Date>
+    <Open>0.9198</Open>
+    <High>0.9785</High>
+    <Low>0.8876</Low>
+    <Close>0.9518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-26</Date>
+    <Open>0.9518</Open>
+    <High>0.9688</High>
+    <Low>0.8478</Low>
+    <Close>0.8654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-27</Date>
+    <Open>0.8654</Open>
+    <High>0.9399</High>
+    <Low>0.8404</Low>
+    <Close>0.9247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-28</Date>
+    <Open>0.9247</Open>
+    <High>0.9494</High>
+    <Low>0.8986</Low>
+    <Close>0.917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-29</Date>
+    <Open>0.917</Open>
+    <High>0.9373</High>
+    <Low>0.8769</Low>
+    <Close>0.9159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-30</Date>
+    <Open>0.9159</Open>
+    <High>0.9159</High>
+    <Low>0.8443</Low>
+    <Close>0.8508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-08-31</Date>
+    <Open>0.8508</Open>
+    <High>0.9093</High>
+    <Low>0.8432</Low>
+    <Close>0.8561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-01</Date>
+    <Open>0.8561</Open>
+    <High>0.9294</High>
+    <Low>0.8274</Low>
+    <Close>0.9209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-02</Date>
+    <Open>0.9209</Open>
+    <High>0.9458</High>
+    <Low>0.8938</Low>
+    <Close>0.9067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-03</Date>
+    <Open>0.9067</Open>
+    <High>0.9367</High>
+    <Low>0.8818</Low>
+    <Close>0.9131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-04</Date>
+    <Open>0.9131</Open>
+    <High>0.9766</High>
+    <Low>0.9057</Low>
+    <Close>0.9505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-05</Date>
+    <Open>0.9505</Open>
+    <High>1.035</High>
+    <Low>0.9343</Low>
+    <Close>1.023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-06</Date>
+    <Open>1.023</Open>
+    <High>1.076</High>
+    <Low>0.9495</Low>
+    <Close>1.065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-07</Date>
+    <Open>1.065</Open>
+    <High>1.065</High>
+    <Low>0.7157</Low>
+    <Close>0.8316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-08</Date>
+    <Open>0.8316</Open>
+    <High>0.8617</High>
+    <Low>0.7439</Low>
+    <Close>0.8218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-09</Date>
+    <Open>0.8218</Open>
+    <High>0.9169</High>
+    <Low>0.7991</Low>
+    <Close>0.8553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-10</Date>
+    <Open>0.8553</Open>
+    <High>0.8946</High>
+    <Low>0.7838</Low>
+    <Close>0.8088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-11</Date>
+    <Open>0.8088</Open>
+    <High>0.9238</High>
+    <Low>0.803</Low>
+    <Close>0.8737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-12</Date>
+    <Open>0.8737</Open>
+    <High>0.934</High>
+    <Low>0.8309</Low>
+    <Close>0.9218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-13</Date>
+    <Open>0.9218</Open>
+    <High>0.9503</High>
+    <Low>0.7944</Low>
+    <Close>0.8399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-14</Date>
+    <Open>0.8399</Open>
+    <High>0.8792</High>
+    <Low>0.8269</Low>
+    <Close>0.8596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-15</Date>
+    <Open>0.8596</Open>
+    <High>0.9209</High>
+    <Low>0.8434</Low>
+    <Close>0.9067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-16</Date>
+    <Open>0.9067</Open>
+    <High>0.9193</High>
+    <Low>0.8366</Low>
+    <Close>0.8565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-17</Date>
+    <Open>0.8565</Open>
+    <High>0.8647</High>
+    <Low>0.8075</Low>
+    <Close>0.8186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-18</Date>
+    <Open>0.8186</Open>
+    <High>0.8476</High>
+    <Low>0.8033</Low>
+    <Close>0.8343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-19</Date>
+    <Open>0.8343</Open>
+    <High>0.8397</High>
+    <Low>0.8002</Low>
+    <Close>0.8136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-20</Date>
+    <Open>0.8136</Open>
+    <High>0.8141</High>
+    <Low>0.6603</Low>
+    <Close>0.6996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-21</Date>
+    <Open>0.6996</Open>
+    <High>0.7357</High>
+    <Low>0.6343</Low>
+    <Close>0.6576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-22</Date>
+    <Open>0.6576</Open>
+    <High>0.7588</High>
+    <Low>0.6528</Low>
+    <Close>0.7448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-23</Date>
+    <Open>0.7448</Open>
+    <High>0.7479</High>
+    <Low>0.7104</Low>
+    <Close>0.7344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-24</Date>
+    <Open>0.7341</Open>
+    <High>0.8232</High>
+    <Low>0.6524</Low>
+    <Close>0.6929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-25</Date>
+    <Open>0.6929</Open>
+    <High>0.7005</High>
+    <Low>0.6567</Low>
+    <Close>0.6832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-26</Date>
+    <Open>0.6832</Open>
+    <High>0.7152</High>
+    <Low>0.6241</Low>
+    <Close>0.6737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-27</Date>
+    <Open>0.6737</Open>
+    <High>0.7199</High>
+    <Low>0.6595</Low>
+    <Close>0.6611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-28</Date>
+    <Open>0.6611</Open>
+    <High>0.6781</High>
+    <Low>0.6252</Low>
+    <Close>0.6281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-29</Date>
+    <Open>0.6281</Open>
+    <High>0.6673</High>
+    <Low>0.6196</Low>
+    <Close>0.633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-09-30</Date>
+    <Open>0.633</Open>
+    <High>0.6579</High>
+    <Low>0.6299</Low>
+    <Close>0.646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-01</Date>
+    <Open>0.646</Open>
+    <High>0.7258</High>
+    <Low>0.6436</Low>
+    <Close>0.7067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-02</Date>
+    <Open>0.7067</Open>
+    <High>0.7582</High>
+    <Low>0.695</Low>
+    <Close>0.7264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-03</Date>
+    <Open>0.7264</Open>
+    <High>0.7571</High>
+    <Low>0.7114</Low>
+    <Close>0.7372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-04</Date>
+    <Open>0.7372</Open>
+    <High>0.7372</High>
+    <Low>0.6982</Low>
+    <Close>0.7152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-05</Date>
+    <Open>0.7152</Open>
+    <High>0.79</High>
+    <Low>0.7098</Low>
+    <Close>0.7576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-06</Date>
+    <Open>0.7576</Open>
+    <High>0.7615</High>
+    <Low>0.6893</Low>
+    <Close>0.7174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-07</Date>
+    <Open>0.7174</Open>
+    <High>0.7408</High>
+    <Low>0.7024</Low>
+    <Close>0.7208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-08</Date>
+    <Open>0.7208</Open>
+    <High>0.7364</High>
+    <Low>0.7052</Low>
+    <Close>0.7112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-09</Date>
+    <Open>0.7112</Open>
+    <High>0.7487</High>
+    <Low>0.7027</Low>
+    <Close>0.7439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-10</Date>
+    <Open>0.7439</Open>
+    <High>0.7442</High>
+    <Low>0.6781</Low>
+    <Close>0.682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-11</Date>
+    <Open>0.682</Open>
+    <High>0.7129</High>
+    <Low>0.6665</Low>
+    <Close>0.6799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-12</Date>
+    <Open>0.6799</Open>
+    <High>0.6829</High>
+    <Low>0.6467</Low>
+    <Close>0.6761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-13</Date>
+    <Open>0.6761</Open>
+    <High>0.7132</High>
+    <Low>0.6632</Low>
+    <Close>0.7071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-14</Date>
+    <Open>0.7071</Open>
+    <High>0.7482</High>
+    <Low>0.6969</Low>
+    <Close>0.7162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-15</Date>
+    <Open>0.7162</Open>
+    <High>0.8342</High>
+    <Low>0.6954</Low>
+    <Close>0.8139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-16</Date>
+    <Open>0.8139</Open>
+    <High>0.8849</High>
+    <Low>0.7918</Low>
+    <Close>0.7996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-17</Date>
+    <Open>0.7996</Open>
+    <High>0.8299</High>
+    <Low>0.7563</Low>
+    <Close>0.7769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-18</Date>
+    <Open>0.7769</Open>
+    <High>0.8</High>
+    <Low>0.7523</Low>
+    <Close>0.769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-19</Date>
+    <Open>0.769</Open>
+    <High>0.7879</High>
+    <Low>0.7545</Low>
+    <Close>0.7794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-20</Date>
+    <Open>0.7794</Open>
+    <High>0.8801</High>
+    <Low>0.7747</Low>
+    <Close>0.8746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-21</Date>
+    <Open>0.8746</Open>
+    <High>0.9561</High>
+    <Low>0.8434</Low>
+    <Close>0.9351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-22</Date>
+    <Open>0.9351</Open>
+    <High>0.9898</High>
+    <Low>0.8817</Low>
+    <Close>0.9025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-23</Date>
+    <Open>0.9025</Open>
+    <High>0.9128</High>
+    <Low>0.8721</Low>
+    <Close>0.8867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-24</Date>
+    <Open>0.8867</Open>
+    <High>0.9456</High>
+    <Low>0.8758</Low>
+    <Close>0.9398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-25</Date>
+    <Open>0.9398</Open>
+    <High>1.072</High>
+    <Low>0.9398</Low>
+    <Close>1.036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-26</Date>
+    <Open>1.036</Open>
+    <High>1.192</High>
+    <Low>1.013</Low>
+    <Close>1.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-27</Date>
+    <Open>1.08</Open>
+    <High>1.124</High>
+    <Low>0.8853</Low>
+    <Close>0.9329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-28</Date>
+    <Open>0.9329</Open>
+    <High>0.9898</High>
+    <Low>0.9122</Low>
+    <Close>0.9405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-29</Date>
+    <Open>0.9405</Open>
+    <High>1.024</High>
+    <Low>0.9349</Low>
+    <Close>0.9732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-30</Date>
+    <Open>0.9732</Open>
+    <High>0.9845</High>
+    <Low>0.9057</Low>
+    <Close>0.9197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-10-31</Date>
+    <Open>0.9197</Open>
+    <High>1.097</High>
+    <Low>0.8943</Low>
+    <Close>1.045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-01</Date>
+    <Open>1.045</Open>
+    <High>1.05</High>
+    <Low>0.9347</Low>
+    <Close>0.9937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-02</Date>
+    <Open>0.9937</Open>
+    <High>1.029</High>
+    <Low>0.9815</Low>
+    <Close>0.992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-03</Date>
+    <Open>0.992</Open>
+    <High>1.015</High>
+    <Low>0.9453</Low>
+    <Close>0.9889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-04</Date>
+    <Open>0.9889</Open>
+    <High>1.071</High>
+    <Low>0.9737</Low>
+    <Close>1.054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-05</Date>
+    <Open>1.054</Open>
+    <High>1.166</High>
+    <Low>1.019</Low>
+    <Close>1.067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-06</Date>
+    <Open>1.067</Open>
+    <High>1.084</High>
+    <Low>1.006</Low>
+    <Close>1.063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-07</Date>
+    <Open>1.063</Open>
+    <High>1.132</High>
+    <Low>1.046</Low>
+    <Close>1.115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-08</Date>
+    <Open>1.115</Open>
+    <High>1.148</High>
+    <Low>1.064</Low>
+    <Close>1.135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-09</Date>
+    <Open>1.135</Open>
+    <High>1.334</High>
+    <Low>1.127</Low>
+    <Close>1.208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-10</Date>
+    <Open>1.208</Open>
+    <High>1.234</High>
+    <Low>0.9942</Low>
+    <Close>1.086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-11</Date>
+    <Open>1.086</Open>
+    <High>1.16</High>
+    <Low>1.062</Low>
+    <Close>1.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-12</Date>
+    <Open>1.11</Open>
+    <High>1.147</High>
+    <Low>1.034</Low>
+    <Close>1.074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-13</Date>
+    <Open>1.074</Open>
+    <High>1.124</High>
+    <Low>1.072</Low>
+    <Close>1.097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-14</Date>
+    <Open>1.097</Open>
+    <High>1.106</High>
+    <Low>1.045</Low>
+    <Close>1.067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-15</Date>
+    <Open>1.067</Open>
+    <High>1.11</High>
+    <Low>1.018</Low>
+    <Close>1.019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-16</Date>
+    <Open>1.019</Open>
+    <High>1.019</High>
+    <Low>0.8484</Low>
+    <Close>0.9206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-17</Date>
+    <Open>0.9206</Open>
+    <High>0.9655</High>
+    <Low>0.8839</Low>
+    <Close>0.9356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-18</Date>
+    <Open>0.9356</Open>
+    <High>1.026</High>
+    <Low>0.847</Low>
+    <Close>0.8677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-19</Date>
+    <Open>0.8677</Open>
+    <High>0.9717</High>
+    <Low>0.8568</Low>
+    <Close>0.956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-20</Date>
+    <Open>0.956</Open>
+    <High>0.9822</High>
+    <Low>0.9172</Low>
+    <Close>0.9661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-21</Date>
+    <Open>0.9661</Open>
+    <High>0.9691</High>
+    <Low>0.9211</Low>
+    <Close>0.922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-22</Date>
+    <Open>0.922</Open>
+    <High>0.9248</High>
+    <Low>0.8561</Low>
+    <Close>0.8772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-23</Date>
+    <Open>0.8772</Open>
+    <High>0.925</High>
+    <Low>0.858</Low>
+    <Close>0.9013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-24</Date>
+    <Open>0.9013</Open>
+    <High>0.903</High>
+    <Low>0.8459</Low>
+    <Close>0.8658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-25</Date>
+    <Open>0.8663</Open>
+    <High>0.9453</High>
+    <Low>0.8556</Low>
+    <Close>0.9097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-26</Date>
+    <Open>0.9094</Open>
+    <High>1.0462</High>
+    <Low>0.8463</Low>
+    <Close>0.8654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-27</Date>
+    <Open>0.8674</Open>
+    <High>1.0821</High>
+    <Low>0.8452</Low>
+    <Close>1.0121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-28</Date>
+    <Open>1.0103</Open>
+    <High>1.0962</High>
+    <Low>0.9273</Low>
+    <Close>0.9768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-29</Date>
+    <Open>0.9758</Open>
+    <High>1.0091</High>
+    <Low>0.948</Low>
+    <Close>0.9725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-11-30</Date>
+    <Open>0.9736</Open>
+    <High>0.9762</High>
+    <Low>0.9083</Low>
+    <Close>0.9287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-01</Date>
+    <Open>0.9278</Open>
+    <High>0.963</High>
+    <Low>0.9056</Low>
+    <Close>0.9171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-02</Date>
+    <Open>0.9161</Open>
+    <High>0.9259</High>
+    <Low>0.8812</Low>
+    <Close>0.9054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-03</Date>
+    <Open>0.9054</Open>
+    <High>0.9241</High>
+    <Low>0.8273</Low>
+    <Close>0.8554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-04</Date>
+    <Open>0.8558</Open>
+    <High>0.8663</High>
+    <Low>0.6062</Low>
+    <Close>0.741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-05</Date>
+    <Open>0.741</Open>
+    <High>0.7536</High>
+    <Low>0.6543</Low>
+    <Close>0.6853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-06</Date>
+    <Open>0.6851</Open>
+    <High>0.7125</High>
+    <Low>0.6062</Low>
+    <Close>0.7093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-07</Date>
+    <Open>0.7086</Open>
+    <High>0.7274</High>
+    <Low>0.678</Low>
+    <Close>0.6787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-08</Date>
+    <Open>0.6788</Open>
+    <High>0.7788</High>
+    <Low>0.6763</Low>
+    <Close>0.7382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-09</Date>
+    <Open>0.7385</Open>
+    <High>0.7676</High>
+    <Low>0.6804</Low>
+    <Close>0.6948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-10</Date>
+    <Open>0.6946</Open>
+    <High>0.7064</High>
+    <Low>0.65</Low>
+    <Close>0.6526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-11</Date>
+    <Open>0.6508</Open>
+    <High>0.675</High>
+    <Low>0.63</Low>
+    <Close>0.6601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-12</Date>
+    <Open>0.6605</Open>
+    <High>0.6965</High>
+    <Low>0.656</Low>
+    <Close>0.6879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-13</Date>
+    <Open>0.6882</Open>
+    <High>0.6906</High>
+    <Low>0.586</Low>
+    <Close>0.6075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-14</Date>
+    <Open>0.6069</Open>
+    <High>0.6495</High>
+    <Low>0.5899</Low>
+    <Close>0.6318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-15</Date>
+    <Open>0.6323</Open>
+    <High>0.663632</High>
+    <Low>0.581691</Low>
+    <Close>0.635481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-16</Date>
+    <Open>0.635181</Open>
+    <High>0.666933</High>
+    <Low>0.614484</Low>
+    <Close>0.621086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-17</Date>
+    <Open>0.621086</Open>
+    <High>0.628088</High>
+    <Low>0.578731</Low>
+    <Close>0.593937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-18</Date>
+    <Open>0.593737</Open>
+    <High>0.615746</High>
+    <Low>0.581074</Low>
+    <Close>0.603741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-19</Date>
+    <Open>0.603841</Open>
+    <High>0.668067</High>
+    <Low>0.5998</Low>
+    <Close>0.644658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-20</Date>
+    <Open>0.644658</Open>
+    <High>0.666933</High>
+    <Low>0.589818</Low>
+    <Close>0.618285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-21</Date>
+    <Open>0.617947</Open>
+    <High>0.714186</High>
+    <Low>0.613884</Low>
+    <Close>0.69918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-22</Date>
+    <Open>0.698879</Open>
+    <High>0.730292</High>
+    <Low>0.691577</Low>
+    <Close>0.712756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-23</Date>
+    <Open>0.712585</Open>
+    <High>0.7504</High>
+    <Low>0.678503</Low>
+    <Close>0.737669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-24</Date>
+    <Open>0.737995</Open>
+    <High>0.749374</High>
+    <Low>0.691045</Low>
+    <Close>0.695948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-25</Date>
+    <Open>0.696518</Open>
+    <High>0.729064</High>
+    <Low>0.68411</Low>
+    <Close>0.719788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-26</Date>
+    <Open>0.720388</Open>
+    <High>0.745272</High>
+    <Low>0.687243</Low>
+    <Close>0.734567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-27</Date>
+    <Open>0.733867</Open>
+    <High>0.777111</High>
+    <Low>0.728564</Low>
+    <Close>0.747424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-28</Date>
+    <Open>0.747249</Open>
+    <High>0.747724</High>
+    <Low>0.660866</Low>
+    <Close>0.669734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-29</Date>
+    <Open>0.670134</Open>
+    <High>0.693839</High>
+    <Low>0.635564</Low>
+    <Close>0.642628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-30</Date>
+    <Open>0.642464</Open>
+    <High>0.661666</High>
+    <Low>0.612261</Low>
+    <Close>0.642428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2021-12-31</Date>
+    <Open>0.642829</Open>
+    <High>0.680068</High>
+    <Low>0.622062</Low>
+    <Close>0.643964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-01</Date>
+    <Open>0.644664</Open>
+    <High>0.661934</High>
+    <Low>0.637636</Low>
+    <Close>0.658832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-02</Date>
+    <Open>0.658932</Open>
+    <High>0.695069</High>
+    <Low>0.64853</Low>
+    <Close>0.677635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-03</Date>
+    <Open>0.678136</Open>
+    <High>0.6948</High>
+    <Low>0.6439</Low>
+    <Close>0.656866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-04</Date>
+    <Open>0.657366</Open>
+    <High>0.705459</High>
+    <Low>0.640436</Low>
+    <Close>0.688831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-05</Date>
+    <Open>0.688731</Open>
+    <High>0.731773</High>
+    <Low>0.59714</Low>
+    <Close>0.632037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-06</Date>
+    <Open>0.632537</Open>
+    <High>0.644971</High>
+    <Low>0.6056</Low>
+    <Close>0.640436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-07</Date>
+    <Open>0.642757</Open>
+    <High>0.644458</High>
+    <Low>0.584542</Low>
+    <Close>0.593941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-08</Date>
+    <Open>0.593541</Open>
+    <High>0.620476</High>
+    <Low>0.547045</Low>
+    <Close>0.5807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-09</Date>
+    <Open>0.5808</Open>
+    <High>0.596</High>
+    <Low>0.5659</Low>
+    <Close>0.5874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-10</Date>
+    <Open>0.5878</Open>
+    <High>0.5948</High>
+    <Low>0.5225</Low>
+    <Close>0.5386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-11</Date>
+    <Open>0.5395</Open>
+    <High>0.572457</High>
+    <Low>0.5366</Low>
+    <Close>0.563656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-12</Date>
+    <Open>0.563669</Open>
+    <High>0.597679</High>
+    <Low>0.562656</Low>
+    <Close>0.591436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-13</Date>
+    <Open>0.591336</Open>
+    <High>0.626413</High>
+    <Low>0.576288</Low>
+    <Close>0.578031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-14</Date>
+    <Open>0.577931</Open>
+    <High>0.586493</High>
+    <Low>0.555978</Low>
+    <Close>0.579874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-15</Date>
+    <Open>0.579932</Open>
+    <High>0.5999</High>
+    <Low>0.570928</Low>
+    <Close>0.597499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-16</Date>
+    <Open>0.597599</Open>
+    <High>0.6002</High>
+    <Low>0.57563</Low>
+    <Close>0.591236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-17</Date>
+    <Open>0.591737</Open>
+    <High>0.593837</High>
+    <Low>0.538415</Low>
+    <Close>0.544818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-18</Date>
+    <Open>0.544918</Open>
+    <High>0.558923</High>
+    <Low>0.515706</Low>
+    <Close>0.53436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-19</Date>
+    <Open>0.53416</Open>
+    <High>0.535514</High>
+    <Low>0.4995</Low>
+    <Close>0.529559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-20</Date>
+    <Open>0.529659</Open>
+    <High>0.561568</High>
+    <Low>0.507251</Low>
+    <Close>0.510702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-21</Date>
+    <Open>0.510502</Open>
+    <High>0.511051</High>
+    <Low>0.422584</Low>
+    <Close>0.434987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-22</Date>
+    <Open>0.435087</Open>
+    <High>0.442488</High>
+    <Low>0.371074</Low>
+    <Close>0.409023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-23</Date>
+    <Open>0.409323</Open>
+    <High>0.43183</High>
+    <Low>0.391978</Low>
+    <Close>0.402881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-24</Date>
+    <Open>0.403081</Open>
+    <High>0.418484</High>
+    <Low>0.344669</Low>
+    <Close>0.388817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-25</Date>
+    <Open>0.389617</Open>
+    <High>0.416208</High>
+    <Low>0.383777</Low>
+    <Close>0.413006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-26</Date>
+    <Open>0.413607</Open>
+    <High>0.461977</High>
+    <Low>0.396338</Low>
+    <Close>0.401141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-27</Date>
+    <Open>0.401541</Open>
+    <High>0.410905</High>
+    <Low>0.383892</Low>
+    <Close>0.398659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-28</Date>
+    <Open>0.398699</Open>
+    <High>0.417625</High>
+    <Low>0.395118</Low>
+    <Close>0.409782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-29</Date>
+    <Open>0.409782</Open>
+    <High>0.423727</High>
+    <Low>0.409023</Low>
+    <Close>0.411523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-30</Date>
+    <Open>0.411323</Open>
+    <High>0.420826</High>
+    <Low>0.395819</Low>
+    <Close>0.398859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-01-31</Date>
+    <Open>0.39896</Open>
+    <High>0.409505</High>
+    <Low>0.379652</Low>
+    <Close>0.408804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-01</Date>
+    <Open>0.408904</Open>
+    <High>0.448624</High>
+    <Low>0.407344</Low>
+    <Close>0.442021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-02</Date>
+    <Open>0.441765</Open>
+    <High>0.443666</High>
+    <Low>0.402541</Low>
+    <Close>0.406225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-03</Date>
+    <Open>0.406666</Open>
+    <High>0.408863</High>
+    <Low>0.391256</Low>
+    <Close>0.401601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-04</Date>
+    <Open>0.401401</Open>
+    <High>0.43745</High>
+    <Low>0.40116</Low>
+    <Close>0.436449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-05</Date>
+    <Open>0.436049</Open>
+    <High>0.464925</High>
+    <Low>0.434404</Low>
+    <Close>0.451471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-06</Date>
+    <Open>0.451471</Open>
+    <High>0.461731</High>
+    <Low>0.438463</Low>
+    <Close>0.458683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-07</Date>
+    <Open>0.458083</Open>
+    <High>0.510459</High>
+    <Low>0.457329</Low>
+    <Close>0.504453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-08</Date>
+    <Open>0.503852</Open>
+    <High>0.522914</High>
+    <Low>0.455018</Low>
+    <Close>0.472325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-09</Date>
+    <Open>0.472125</Open>
+    <High>0.495495</High>
+    <Low>0.458321</Low>
+    <Close>0.492392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-10</Date>
+    <Open>0.492192</Open>
+    <High>0.492192</High>
+    <Low>0.448703</Low>
+    <Close>0.464425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-11</Date>
+    <Open>0.465225</Open>
+    <High>0.468628</High>
+    <Low>0.413665</Low>
+    <Close>0.414924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-12</Date>
+    <Open>0.414824</Open>
+    <High>0.429758</High>
+    <Low>0.405703</Low>
+    <Close>0.41981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-13</Date>
+    <Open>0.420252</Open>
+    <High>0.424354</High>
+    <Low>0.397038</Low>
+    <Close>0.412147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-14</Date>
+    <Open>0.412647</Open>
+    <High>0.412647</High>
+    <Low>0.387332</Low>
+    <Close>0.406844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-15</Date>
+    <Open>0.405643</Open>
+    <High>0.490194</High>
+    <Low>0.404042</Low>
+    <Close>0.481589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-16</Date>
+    <Open>0.481389</Open>
+    <High>0.512507</High>
+    <Low>0.472383</Low>
+    <Close>0.491946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-17</Date>
+    <Open>0.491946</Open>
+    <High>0.495197</High>
+    <Low>0.431159</Low>
+    <Close>0.440808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-18</Date>
+    <Open>0.440464</Open>
+    <High>0.450115</High>
+    <Low>0.409045</Low>
+    <Close>0.409846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-19</Date>
+    <Open>0.410646</Open>
+    <High>0.425713</High>
+    <Low>0.398639</Low>
+    <Close>0.414507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-20</Date>
+    <Open>0.414666</Open>
+    <High>0.418051</High>
+    <Low>0.37625</Low>
+    <Close>0.397799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-21</Date>
+    <Open>0.397599</Open>
+    <High>0.423812</High>
+    <Low>0.363982</Low>
+    <Close>0.367584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-22</Date>
+    <Open>0.367484</Open>
+    <High>0.385154</High>
+    <Low>0.348104</Low>
+    <Close>0.374087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-23</Date>
+    <Open>0.374487</Open>
+    <High>0.393797</High>
+    <Low>0.357579</Low>
+    <Close>0.361817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-24</Date>
+    <Open>0.361817</Open>
+    <High>0.361917</High>
+    <Low>0.303552</Low>
+    <Close>0.346338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-25</Date>
+    <Open>0.346704</Open>
+    <High>0.370211</High>
+    <Low>0.339936</Low>
+    <Close>0.365383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-26</Date>
+    <Open>0.364982</Open>
+    <High>0.372549</High>
+    <Low>0.342637</Low>
+    <Close>0.349375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-27</Date>
+    <Open>0.34924</Open>
+    <High>0.367384</High>
+    <Low>0.328564</Low>
+    <Close>0.343172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-02-28</Date>
+    <Open>0.342737</Open>
+    <High>0.376188</High>
+    <Low>0.327364</Low>
+    <Close>0.371849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-01</Date>
+    <Open>0.371248</Open>
+    <High>0.389256</High>
+    <Low>0.365546</Low>
+    <Close>0.374612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-02</Date>
+    <Open>0.374912</Open>
+    <High>0.394218</High>
+    <Low>0.363409</Low>
+    <Close>0.377175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-03</Date>
+    <Open>0.376413</Open>
+    <High>0.377813</High>
+    <Low>0.353771</Low>
+    <Close>0.365973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-04</Date>
+    <Open>0.36591</Open>
+    <High>0.369411</High>
+    <Low>0.333967</Low>
+    <Close>0.339502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-05</Date>
+    <Open>0.339202</Open>
+    <High>0.347504</High>
+    <Low>0.328699</Low>
+    <Close>0.345904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-06</Date>
+    <Open>0.345704</Open>
+    <High>0.351906</High>
+    <Low>0.335201</Low>
+    <Close>0.337301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-07</Date>
+    <Open>0.337301</Open>
+    <High>0.344469</High>
+    <Low>0.314463</Low>
+    <Close>0.329099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-08</Date>
+    <Open>0.328799</Open>
+    <High>0.361008</High>
+    <Low>0.328166</Low>
+    <Close>0.333967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-09</Date>
+    <Open>0.333767</Open>
+    <High>0.364973</High>
+    <Low>0.333567</Low>
+    <Close>0.343669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-10</Date>
+    <Open>0.344134</Open>
+    <High>0.34847</High>
+    <Low>0.318127</Low>
+    <Close>0.326831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-11</Date>
+    <Open>0.326731</Open>
+    <High>0.339602</High>
+    <Low>0.316026</Low>
+    <Close>0.322464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-12</Date>
+    <Open>0.322264</Open>
+    <High>0.328166</High>
+    <Low>0.318632</Low>
+    <Close>0.321432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-13</Date>
+    <Open>0.321532</Open>
+    <High>0.360108</High>
+    <Low>0.316163</Low>
+    <Close>0.335901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-14</Date>
+    <Open>0.335267</Open>
+    <High>0.377038</High>
+    <Low>0.326465</Low>
+    <Close>0.362172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-15</Date>
+    <Open>0.362436</Open>
+    <High>0.435187</High>
+    <Low>0.352235</Low>
+    <Close>0.425027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-16</Date>
+    <Open>0.424527</Open>
+    <High>0.458938</High>
+    <Low>0.412324</Low>
+    <Close>0.449335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-17</Date>
+    <Open>0.448835</Open>
+    <High>0.455136</High>
+    <Low>0.402561</Low>
+    <Close>0.411706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-18</Date>
+    <Open>0.411665</Open>
+    <High>0.429114</High>
+    <Low>0.397199</Low>
+    <Close>0.406903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-19</Date>
+    <Open>0.406703</Open>
+    <High>0.428314</High>
+    <Low>0.405862</Low>
+    <Close>0.410164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-20</Date>
+    <Open>0.409905</Open>
+    <High>0.421052</High>
+    <Low>0.388255</Low>
+    <Close>0.395458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-21</Date>
+    <Open>0.395258</Open>
+    <High>0.423369</High>
+    <Low>0.380552</Low>
+    <Close>0.410164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-22</Date>
+    <Open>0.410264</Open>
+    <High>0.426213</High>
+    <Low>0.404502</Low>
+    <Close>0.412906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-23</Date>
+    <Open>0.413106</Open>
+    <High>0.432973</High>
+    <Low>0.40116</Low>
+    <Close>0.423069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-24</Date>
+    <Open>0.423069</Open>
+    <High>0.435674</High>
+    <Low>0.410605</Low>
+    <Close>0.429272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-25</Date>
+    <Open>0.429272</Open>
+    <High>0.451981</High>
+    <Low>0.40086</Low>
+    <Close>0.409164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-26</Date>
+    <Open>0.409305</Open>
+    <High>0.417309</High>
+    <Low>0.404962</Low>
+    <Close>0.412165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-27</Date>
+    <Open>0.412365</Open>
+    <High>0.428871</High>
+    <Low>0.406062</Low>
+    <Close>0.427671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-28</Date>
+    <Open>0.427628</Open>
+    <High>0.488695</High>
+    <Low>0.42407</Low>
+    <Close>0.448079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-29</Date>
+    <Open>0.448569</Open>
+    <High>0.494998</High>
+    <Low>0.425027</Low>
+    <Close>0.473337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-30</Date>
+    <Open>0.473537</Open>
+    <High>0.498699</High>
+    <Low>0.457383</Low>
+    <Close>0.482545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-03-31</Date>
+    <Open>0.482245</Open>
+    <High>0.526105</High>
+    <Low>0.462739</Low>
+    <Close>0.476295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-01</Date>
+    <Open>0.476243</Open>
+    <High>0.495298</High>
+    <Low>0.43503</Low>
+    <Close>0.487146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-02</Date>
+    <Open>0.486497</Open>
+    <High>0.55072</High>
+    <Low>0.477395</Low>
+    <Close>0.513405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-03</Date>
+    <Open>0.513605</Open>
+    <High>0.53336</High>
+    <Low>0.493648</Low>
+    <Close>0.522709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-04</Date>
+    <Open>0.523957</Open>
+    <High>0.532613</High>
+    <Low>0.466693</Low>
+    <Close>0.489947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-05</Date>
+    <Open>0.489647</Open>
+    <High>0.50035</High>
+    <Low>0.464446</Low>
+    <Close>0.466893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-06</Date>
+    <Open>0.466993</Open>
+    <High>0.470947</High>
+    <Low>0.413</Low>
+    <Close>0.4266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-07</Date>
+    <Open>0.4266</Open>
+    <High>0.435244</High>
+    <Low>0.4072</Low>
+    <Close>0.423942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-08</Date>
+    <Open>0.424542</Open>
+    <High>0.434843</High>
+    <Low>0.393818</Low>
+    <Close>0.395758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-09</Date>
+    <Open>0.395458</Open>
+    <High>0.408823</High>
+    <Low>0.387716</Low>
+    <Close>0.40062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-10</Date>
+    <Open>0.40102</Open>
+    <High>0.409723</High>
+    <Low>0.392278</Low>
+    <Close>0.39758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-11</Date>
+    <Open>0.397479</Open>
+    <High>0.39854</High>
+    <Low>0.345469</Low>
+    <Close>0.346004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-12</Date>
+    <Open>0.346569</Open>
+    <High>0.375075</High>
+    <Low>0.341803</Low>
+    <Close>0.36731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-13</Date>
+    <Open>0.36731</Open>
+    <High>0.386816</High>
+    <Low>0.362309</Low>
+    <Close>0.382215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-14</Date>
+    <Open>0.382515</Open>
+    <High>0.390117</High>
+    <Low>0.356471</Low>
+    <Close>0.364036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-15</Date>
+    <Open>0.364036</Open>
+    <High>0.371774</High>
+    <Low>0.357936</Low>
+    <Close>0.367874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-16</Date>
+    <Open>0.367774</Open>
+    <High>0.371274</High>
+    <Low>0.355836</Low>
+    <Close>0.363873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-17</Date>
+    <Open>0.364073</Open>
+    <High>0.370374</High>
+    <Low>0.358336</Low>
+    <Close>0.363273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-18</Date>
+    <Open>0.363173</Open>
+    <High>0.363773</High>
+    <Low>0.331933</Low>
+    <Close>0.360108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-19</Date>
+    <Open>0.360008</Open>
+    <High>0.370074</High>
+    <Low>0.356171</Low>
+    <Close>0.361672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-20</Date>
+    <Open>0.361972</Open>
+    <High>0.381076</High>
+    <Low>0.354835</Low>
+    <Close>0.363973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-21</Date>
+    <Open>0.363773</Open>
+    <High>0.395479</High>
+    <Low>0.357872</Low>
+    <Close>0.357972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-22</Date>
+    <Open>0.358036</Open>
+    <High>0.366973</High>
+    <Low>0.34827</Low>
+    <Close>0.354735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-23</Date>
+    <Open>0.354471</Open>
+    <High>0.359272</High>
+    <Low>0.343469</Low>
+    <Close>0.356836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-24</Date>
+    <Open>0.356871</Open>
+    <High>0.363073</High>
+    <Low>0.346869</Low>
+    <Close>0.357471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-25</Date>
+    <Open>0.357672</Open>
+    <High>0.361172</High>
+    <Low>0.3257</Low>
+    <Close>0.354071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-26</Date>
+    <Open>0.354071</Open>
+    <High>0.404181</High>
+    <Low>0.345435</Low>
+    <Close>0.348335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-27</Date>
+    <Open>0.349135</Open>
+    <High>0.3591</High>
+    <Low>0.3328</Low>
+    <Close>0.355936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-28</Date>
+    <Open>0.356136</Open>
+    <High>0.410741</High>
+    <Low>0.355836</Low>
+    <Close>0.367037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-29</Date>
+    <Open>0.366837</Open>
+    <High>0.367337</High>
+    <Low>0.340434</Low>
+    <Close>0.344834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-04-30</Date>
+    <Open>0.344434</Open>
+    <High>0.359636</High>
+    <Low>0.3257</Low>
+    <Close>0.3257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-01</Date>
+    <Open>0.3255</Open>
+    <High>0.3256</High>
+    <Low>0.2905</Low>
+    <Close>0.3101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-02</Date>
+    <Open>0.3101</Open>
+    <High>0.320332</High>
+    <Low>0.29773</Low>
+    <Close>0.307631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-03</Date>
+    <Open>0.307931</Open>
+    <High>0.338234</High>
+    <Low>0.30323</Low>
+    <Close>0.316268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-04</Date>
+    <Open>0.316368</Open>
+    <High>0.3432</High>
+    <Low>0.310769</Low>
+    <Close>0.3378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-05</Date>
+    <Open>0.3378</Open>
+    <High>0.347496</High>
+    <Low>0.288671</Low>
+    <Close>0.296841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-06</Date>
+    <Open>0.296841</Open>
+    <High>0.30347</High>
+    <Low>0.280444</Low>
+    <Close>0.291371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-07</Date>
+    <Open>0.291371</Open>
+    <High>0.30397</High>
+    <Low>0.291371</Low>
+    <Close>0.292971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-08</Date>
+    <Open>0.294641</Open>
+    <High>0.310876</High>
+    <Low>0.281959</Low>
+    <Close>0.305608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-09</Date>
+    <Open>0.305508</Open>
+    <High>0.306639</High>
+    <Low>0.244102</Low>
+    <Close>0.249525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-10</Date>
+    <Open>0.24955</Open>
+    <High>0.269319</High>
+    <Low>0.226609</Low>
+    <Close>0.234606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-11</Date>
+    <Open>0.234106</Open>
+    <High>0.255772</High>
+    <Low>0.141916</Low>
+    <Close>0.154327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-12</Date>
+    <Open>0.15353</Open>
+    <High>0.163145</High>
+    <Low>0.113169</Low>
+    <Close>0.130061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-13</Date>
+    <Open>0.129948</Open>
+    <High>0.166966</High>
+    <Low>0.127654</Low>
+    <Close>0.156733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-14</Date>
+    <Open>0.156733</Open>
+    <High>0.184042</High>
+    <Low>0.143498</Low>
+    <Close>0.182245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-15</Date>
+    <Open>0.182344</Open>
+    <High>0.20691</High>
+    <Low>0.17805</Low>
+    <Close>0.196364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-16</Date>
+    <Open>0.196444</Open>
+    <High>0.203955</High>
+    <Low>0.172541</Low>
+    <Close>0.180265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-17</Date>
+    <Open>0.180665</Open>
+    <High>0.19147</High>
+    <Low>0.168081</Low>
+    <Close>0.179866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-18</Date>
+    <Open>0.179966</Open>
+    <High>0.18426</High>
+    <Low>0.159592</Low>
+    <Close>0.160291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-19</Date>
+    <Open>0.160591</Open>
+    <High>0.165534</High>
+    <Low>0.148152</Low>
+    <Close>0.157043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-20</Date>
+    <Open>0.156943</Open>
+    <High>0.163903</High>
+    <Low>0.145725</Low>
+    <Close>0.14972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-21</Date>
+    <Open>0.14982</Open>
+    <High>0.16169</High>
+    <Low>0.147723</Low>
+    <Close>0.154599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-22</Date>
+    <Open>0.154699</Open>
+    <High>0.167881</High>
+    <Low>0.154199</Low>
+    <Close>0.160092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-23</Date>
+    <Open>0.160307</Open>
+    <High>0.174508</High>
+    <Low>0.156911</Low>
+    <Close>0.159608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-24</Date>
+    <Open>0.159193</Open>
+    <High>0.160923</High>
+    <Low>0.144041</Low>
+    <Close>0.154199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-25</Date>
+    <Open>0.154499</Open>
+    <High>0.158693</High>
+    <Low>0.147837</Low>
+    <Close>0.152217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-26</Date>
+    <Open>0.152232</Open>
+    <High>0.153631</High>
+    <Low>0.132441</Low>
+    <Close>0.141658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-27</Date>
+    <Open>0.141544</Open>
+    <High>0.144256</High>
+    <Low>0.131156</Low>
+    <Close>0.136663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-28</Date>
+    <Open>0.136543</Open>
+    <High>0.142352</High>
+    <Low>0.131437</Low>
+    <Close>0.138038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-29</Date>
+    <Open>0.137962</Open>
+    <High>0.141351</High>
+    <Low>0.133165</Low>
+    <Close>0.140444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-30</Date>
+    <Open>0.140545</Open>
+    <High>0.15739</High>
+    <Low>0.139748</Low>
+    <Close>0.154177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-05-31</Date>
+    <Open>0.154292</Open>
+    <High>0.165667</High>
+    <Low>0.148381</Low>
+    <Close>0.156774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-01</Date>
+    <Open>0.156879</Open>
+    <High>0.165677</High>
+    <Low>0.142044</Low>
+    <Close>0.145169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-02</Date>
+    <Open>0.145268</Open>
+    <High>0.150065</High>
+    <Low>0.140274</Low>
+    <Close>0.148366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-03</Date>
+    <Open>0.148466</Open>
+    <High>0.153062</High>
+    <Low>0.141267</Low>
+    <Close>0.151268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-04</Date>
+    <Open>0.151168</Open>
+    <High>0.174935</High>
+    <Low>0.144848</Low>
+    <Close>0.166373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-05</Date>
+    <Open>0.166873</Open>
+    <High>0.172779</High>
+    <Low>0.156072</Low>
+    <Close>0.15895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-06</Date>
+    <Open>0.15905</Open>
+    <High>0.169461</High>
+    <Low>0.153769</Low>
+    <Close>0.158667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-07</Date>
+    <Open>0.158565</Open>
+    <High>0.159659</High>
+    <Low>0.145079</Low>
+    <Close>0.156372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-08</Date>
+    <Open>0.156375</Open>
+    <High>0.158479</High>
+    <Low>0.147094</Low>
+    <Close>0.149403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-09</Date>
+    <Open>0.149503</Open>
+    <High>0.151975</High>
+    <Low>0.142887</Low>
+    <Close>0.147976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-10</Date>
+    <Open>0.147976</Open>
+    <High>0.149573</High>
+    <Low>0.135251</Low>
+    <Close>0.138722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-11</Date>
+    <Open>0.138724</Open>
+    <High>0.141244</High>
+    <Low>0.11975</Low>
+    <Close>0.124659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-12</Date>
+    <Open>0.124558</Open>
+    <High>0.126459</High>
+    <Low>0.110143</Low>
+    <Close>0.118055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-13</Date>
+    <Open>0.117755</Open>
+    <High>0.117755</High>
+    <Low>0.095037</Low>
+    <Close>0.105453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-14</Date>
+    <Open>0.105553</Open>
+    <High>0.109758</High>
+    <Low>0.09636</Low>
+    <Close>0.10018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-15</Date>
+    <Open>0.10018</Open>
+    <High>0.110778</High>
+    <Low>0.090137</Low>
+    <Close>0.110334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-16</Date>
+    <Open>0.11085</Open>
+    <High>0.1116</High>
+    <Low>0.0976</Low>
+    <Close>0.09996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-17</Date>
+    <Open>0.096865</Open>
+    <High>0.101958</High>
+    <Low>0.095467</Low>
+    <Close>0.098681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-18</Date>
+    <Open>0.0985</Open>
+    <High>0.1002</High>
+    <Low>0.0888701</Low>
+    <Close>0.0957446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-19</Date>
+    <Open>0.0957446</Open>
+    <High>0.104075</High>
+    <Low>0.0923677</Low>
+    <Close>0.103166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-20</Date>
+    <Open>0.10205</Open>
+    <High>0.10847</High>
+    <Low>0.0967837</Low>
+    <Close>0.102088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-21</Date>
+    <Open>0.101588</Open>
+    <High>0.118382</High>
+    <Low>0.10019</Low>
+    <Close>0.10888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-22</Date>
+    <Open>0.10898</Open>
+    <High>0.113486</High>
+    <Low>0.103586</Low>
+    <Close>0.106294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-23</Date>
+    <Open>0.106294</Open>
+    <High>0.114885</High>
+    <Low>0.104196</Low>
+    <Close>0.108392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-24</Date>
+    <Open>0.108392</Open>
+    <High>0.118822</High>
+    <Low>0.108392</Low>
+    <Close>0.117308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-25</Date>
+    <Open>0.117308</Open>
+    <High>0.120216</High>
+    <Low>0.109925</Low>
+    <Close>0.117418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-26</Date>
+    <Open>0.117418</Open>
+    <High>0.123914</High>
+    <Low>0.111732</Low>
+    <Close>0.11383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-27</Date>
+    <Open>0.11383</Open>
+    <High>0.114227</High>
+    <Low>0.106212</Low>
+    <Close>0.108004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-28</Date>
+    <Open>0.108405</Open>
+    <High>0.110494</High>
+    <Low>0.100996</Low>
+    <Close>0.102574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-29</Date>
+    <Open>0.102473</Open>
+    <High>0.102573</High>
+    <Low>0.0962689</Low>
+    <Close>0.097382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-06-30</Date>
+    <Open>0.097383</Open>
+    <High>0.0975828</High>
+    <Low>0.0891848</Low>
+    <Close>0.0916898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-01</Date>
+    <Open>0.0916898</Open>
+    <High>0.0990009</High>
+    <Low>0.0897741</Low>
+    <Close>0.0922984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-02</Date>
+    <Open>0.0922984</Open>
+    <High>0.0946862</High>
+    <Low>0.0899919</Low>
+    <Close>0.0946862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-03</Date>
+    <Open>0.094886</Open>
+    <High>0.0958848</High>
+    <Low>0.0905821</Low>
+    <Close>0.0942773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-04</Date>
+    <Open>0.0942773</Open>
+    <High>0.0976826</High>
+    <Low>0.0911933</Low>
+    <Close>0.0972831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-05</Date>
+    <Open>0.0970834</Open>
+    <High>0.101178</High>
+    <Low>0.0920986</Low>
+    <Close>0.098092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-06</Date>
+    <Open>0.0981919</Open>
+    <High>0.098991</High>
+    <Low>0.0951856</Low>
+    <Close>0.098092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-07</Date>
+    <Open>0.098092</Open>
+    <High>0.103986</High>
+    <Low>0.0980822</Low>
+    <Close>0.101939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-08</Date>
+    <Open>0.102039</Open>
+    <High>0.104527</High>
+    <Low>0.0973416</Low>
+    <Close>0.0997401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-09</Date>
+    <Open>0.0995402</Open>
+    <High>0.110434</High>
+    <Low>0.0992305</Low>
+    <Close>0.107436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-10</Date>
+    <Open>0.107425</Open>
+    <High>0.107835</High>
+    <Low>0.0986309</Low>
+    <Close>0.10064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-11</Date>
+    <Open>0.10074</Open>
+    <High>0.10074</High>
+    <Low>0.093906</Low>
+    <Close>0.0939154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-12</Date>
+    <Open>0.0938155</Open>
+    <High>0.0942057</High>
+    <Low>0.0871041</Low>
+    <Close>0.0885114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-13</Date>
+    <Open>0.0886148</Open>
+    <High>0.0931468</High>
+    <Low>0.0849065</Low>
+    <Close>0.0899789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-14</Date>
+    <Open>0.0899789</Open>
+    <High>0.0969918</High>
+    <Low>0.089968</Low>
+    <Close>0.0957925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-15</Date>
+    <Open>0.0957925</Open>
+    <High>0.1002</High>
+    <Low>0.094903</Low>
+    <Close>0.0984105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-16</Date>
+    <Open>0.0982205</Open>
+    <High>0.103419</High>
+    <Low>0.0962211</Low>
+    <Close>0.09918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-17</Date>
+    <Open>0.09919</Open>
+    <High>0.102915</High>
+    <Low>0.097642</Low>
+    <Close>0.099364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-18</Date>
+    <Open>0.09937</Open>
+    <High>0.114723</High>
+    <Low>0.098028</Low>
+    <Close>0.107135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-19</Date>
+    <Open>0.107128</Open>
+    <High>0.11704</High>
+    <Low>0.10614</Low>
+    <Close>0.114458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-20</Date>
+    <Open>0.11536</Open>
+    <High>0.118149</High>
+    <Low>0.104247</Low>
+    <Close>0.106725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-21</Date>
+    <Open>0.106726</Open>
+    <High>0.108362</High>
+    <Low>0.101355</Low>
+    <Close>0.107776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-22</Date>
+    <Open>0.107476</Open>
+    <High>0.116473</High>
+    <Low>0.10356</Low>
+    <Close>0.103583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-23</Date>
+    <Open>0.10356</Open>
+    <High>0.108449</High>
+    <Low>0.100649</Low>
+    <Close>0.10347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-24</Date>
+    <Open>0.10377</Open>
+    <High>0.108337</High>
+    <Low>0.103453</Low>
+    <Close>0.10566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-25</Date>
+    <Open>0.105661</Open>
+    <High>0.107068</High>
+    <Low>0.099066</Low>
+    <Close>0.101458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-26</Date>
+    <Open>0.101458</Open>
+    <High>0.102059</High>
+    <Low>0.093256</Low>
+    <Close>0.094064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-27</Date>
+    <Open>0.09405</Open>
+    <High>0.108664</High>
+    <Low>0.09405</Low>
+    <Close>0.107876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-28</Date>
+    <Open>0.107876</Open>
+    <High>0.117773</High>
+    <Low>0.105662</Low>
+    <Close>0.115383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-29</Date>
+    <Open>0.115383</Open>
+    <High>0.140657</High>
+    <Low>0.113785</Low>
+    <Close>0.127722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-30</Date>
+    <Open>0.127722</Open>
+    <High>0.14593</High>
+    <Low>0.126119</Low>
+    <Close>0.134714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-07-31</Date>
+    <Open>0.134696</Open>
+    <High>0.140159</High>
+    <Low>0.129806</Low>
+    <Close>0.133361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-01</Date>
+    <Open>0.13251</Open>
+    <High>0.132523</High>
+    <Low>0.123077</Low>
+    <Close>0.124277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-02</Date>
+    <Open>0.123587</Open>
+    <High>0.125379</High>
+    <Low>0.114103</Low>
+    <Close>0.11908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-03</Date>
+    <Open>0.118674</Open>
+    <High>0.12446</High>
+    <Low>0.11449</Low>
+    <Close>0.12177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-04</Date>
+    <Open>0.121807</Open>
+    <High>0.125841</High>
+    <Low>0.117395</Low>
+    <Close>0.119004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-05</Date>
+    <Open>0.119104</Open>
+    <High>0.130474</High>
+    <Low>0.118064</Low>
+    <Close>0.128914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-06</Date>
+    <Open>0.128914</Open>
+    <High>0.133372</High>
+    <Low>0.1278</Low>
+    <Close>0.129128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-07</Date>
+    <Open>0.129128</Open>
+    <High>0.131154</High>
+    <Low>0.1253</Low>
+    <Close>0.130535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-08</Date>
+    <Open>0.130535</Open>
+    <High>0.157432</High>
+    <Low>0.127693</Low>
+    <Close>0.148238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-09</Date>
+    <Open>0.149738</Open>
+    <High>0.152717</High>
+    <Low>0.136023</Low>
+    <Close>0.142248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-10</Date>
+    <Open>0.142248</Open>
+    <High>0.146324</High>
+    <Low>0.1355</Low>
+    <Close>0.144822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-11</Date>
+    <Open>0.144822</Open>
+    <High>0.147891</High>
+    <Low>0.141217</Low>
+    <Close>0.142897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-12</Date>
+    <Open>0.142897</Open>
+    <High>0.146353</High>
+    <Low>0.137809</Low>
+    <Close>0.143556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-13</Date>
+    <Open>0.143566</Open>
+    <High>0.1507</High>
+    <Low>0.141727</Low>
+    <Close>0.144198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-14</Date>
+    <Open>0.144536</Open>
+    <High>0.149877</High>
+    <Low>0.137399</Low>
+    <Close>0.139673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-15</Date>
+    <Open>0.139672</Open>
+    <High>0.144758</High>
+    <Low>0.132664</Low>
+    <Close>0.134972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-16</Date>
+    <Open>0.134974</Open>
+    <High>0.135754</High>
+    <Low>0.129062</Low>
+    <Close>0.131072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-17</Date>
+    <Open>0.131072</Open>
+    <High>0.134547</High>
+    <Low>0.121844</Low>
+    <Close>0.122369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-18</Date>
+    <Open>0.120978</Open>
+    <High>0.125431</High>
+    <Low>0.119261</Low>
+    <Close>0.121664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-19</Date>
+    <Open>0.121342</Open>
+    <High>0.121852</High>
+    <Low>0.10386</Low>
+    <Close>0.107691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-20</Date>
+    <Open>0.107695</Open>
+    <High>0.110563</High>
+    <Low>0.099747</Low>
+    <Close>0.102349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-21</Date>
+    <Open>0.100048</Open>
+    <High>0.110338</High>
+    <Low>0.100047</Low>
+    <Close>0.109338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-22</Date>
+    <Open>0.109338</Open>
+    <High>0.11091</High>
+    <Low>0.100854</Low>
+    <Close>0.108011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-23</Date>
+    <Open>0.108011</Open>
+    <High>0.113424</High>
+    <Low>0.106947</Low>
+    <Close>0.112462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-24</Date>
+    <Open>0.112449</Open>
+    <High>0.118339</High>
+    <Low>0.109961</Low>
+    <Close>0.117181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-25</Date>
+    <Open>0.117181</Open>
+    <High>0.120152</High>
+    <Low>0.113437</Low>
+    <Close>0.116243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-26</Date>
+    <Open>0.116241</Open>
+    <High>0.116658</High>
+    <Low>0.104233</Low>
+    <Close>0.105631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-27</Date>
+    <Open>0.10563</Open>
+    <High>0.105761</High>
+    <Low>0.100454</Low>
+    <Close>0.102933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-28</Date>
+    <Open>0.10335</Open>
+    <High>0.10456</High>
+    <Low>0.101943</Low>
+    <Close>0.103449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-29</Date>
+    <Open>0.10344</Open>
+    <High>0.105351</High>
+    <Low>0.097648</Low>
+    <Close>0.104457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-30</Date>
+    <Open>0.104458</Open>
+    <High>0.108043</High>
+    <Low>0.100445</Low>
+    <Close>0.104259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-08-31</Date>
+    <Open>0.104258</Open>
+    <High>0.107052</High>
+    <Low>0.102447</Low>
+    <Close>0.103859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-01</Date>
+    <Open>0.103859</Open>
+    <High>0.10493</High>
+    <Low>0.100547</Low>
+    <Close>0.104374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-02</Date>
+    <Open>0.103734</Open>
+    <High>0.106669</High>
+    <Low>0.101655</Low>
+    <Close>0.101875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-03</Date>
+    <Open>0.101966</Open>
+    <High>0.103357</High>
+    <Low>0.10093</Low>
+    <Close>0.10136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-04</Date>
+    <Open>0.10135</Open>
+    <High>0.10336</High>
+    <Low>0.10095</Low>
+    <Close>0.10285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-05</Date>
+    <Open>0.10365</Open>
+    <High>0.105261</High>
+    <Low>0.10065</Low>
+    <Close>0.10266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-06</Date>
+    <Open>0.10196</Open>
+    <High>0.10846</High>
+    <Low>0.09754</Low>
+    <Close>0.09914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-07</Date>
+    <Open>0.09914</Open>
+    <High>0.104957</High>
+    <Low>0.096026</Low>
+    <Close>0.104957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-08</Date>
+    <Open>0.10495</Open>
+    <High>0.105461</High>
+    <Low>0.101366</Low>
+    <Close>0.104466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-09</Date>
+    <Open>0.10445</Open>
+    <High>0.113322</High>
+    <Low>0.103669</Low>
+    <Close>0.111528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-10</Date>
+    <Open>0.111512</Open>
+    <High>0.118529</High>
+    <Low>0.111042</Low>
+    <Close>0.116932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-11</Date>
+    <Open>0.117012</Open>
+    <High>0.120833</High>
+    <Low>0.114537</Low>
+    <Close>0.115819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-12</Date>
+    <Open>0.115818</Open>
+    <High>0.133543</High>
+    <Low>0.114131</Low>
+    <Close>0.126843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-13</Date>
+    <Open>0.126888</Open>
+    <High>0.129605</High>
+    <Low>0.108923</Low>
+    <Close>0.109512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-14</Date>
+    <Open>0.109521</Open>
+    <High>0.112399</High>
+    <Low>0.10731</Low>
+    <Close>0.11062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-15</Date>
+    <Open>0.110618</Open>
+    <High>0.115612</High>
+    <Low>0.107751</Low>
+    <Close>0.1094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-16</Date>
+    <Open>0.109452</Open>
+    <High>0.110488</High>
+    <Low>0.103689</Low>
+    <Close>0.105519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-17</Date>
+    <Open>0.105519</Open>
+    <High>0.10889</High>
+    <Low>0.105099</Low>
+    <Close>0.10772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-18</Date>
+    <Open>0.10778</Open>
+    <High>0.109301</High>
+    <Low>0.0963</Low>
+    <Close>0.09999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-19</Date>
+    <Open>0.09991</Open>
+    <High>0.10351</High>
+    <Low>0.0972</Low>
+    <Close>0.10123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-20</Date>
+    <Open>0.1013</Open>
+    <High>0.10203</High>
+    <Low>0.09729</Low>
+    <Close>0.0972997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-21</Date>
+    <Open>0.097481</Open>
+    <High>0.10182</High>
+    <Low>0.09301</Low>
+    <Close>0.09311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-22</Date>
+    <Open>0.09311</Open>
+    <High>0.10131</High>
+    <Low>0.09082</Low>
+    <Close>0.09941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-23</Date>
+    <Open>0.10041</Open>
+    <High>0.10289</High>
+    <Low>0.0973003</Low>
+    <Close>0.10148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-24</Date>
+    <Open>0.101483</Open>
+    <High>0.103984</High>
+    <Low>0.100789</Low>
+    <Close>0.103398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-25</Date>
+    <Open>0.10339</Open>
+    <High>0.108595</High>
+    <Low>0.10043</Low>
+    <Close>0.10308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-26</Date>
+    <Open>0.10221</Open>
+    <High>0.10249</High>
+    <Low>0.0987</Low>
+    <Close>0.10189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-27</Date>
+    <Open>0.10189</Open>
+    <High>0.10559</High>
+    <Low>0.09811</Low>
+    <Close>0.09911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-28</Date>
+    <Open>0.09911</Open>
+    <High>0.1001</High>
+    <Low>0.09558</Low>
+    <Close>0.09991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-29</Date>
+    <Open>0.09991</Open>
+    <High>0.10001</High>
+    <Low>0.0969</Low>
+    <Close>0.09854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-09-30</Date>
+    <Open>0.09854</Open>
+    <High>0.101</High>
+    <Low>0.09715</Low>
+    <Close>0.09871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-01</Date>
+    <Open>0.09871</Open>
+    <High>0.09934</High>
+    <Low>0.09681</Low>
+    <Close>0.09739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-02</Date>
+    <Open>0.09739</Open>
+    <High>0.09819</High>
+    <Low>0.09529</Low>
+    <Close>0.097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-03</Date>
+    <Open>0.0969597</Open>
+    <High>0.0978998</High>
+    <Low>0.09341</Low>
+    <Close>0.0968997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-04</Date>
+    <Open>0.0971997</Open>
+    <High>0.101621</High>
+    <Low>0.0968497</Low>
+    <Close>0.10114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-05</Date>
+    <Open>0.10113</Open>
+    <High>0.10182</High>
+    <Low>0.0971</Low>
+    <Close>0.0997099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-06</Date>
+    <Open>0.0997099</Open>
+    <High>0.103907</High>
+    <Low>0.0989178</Low>
+    <Close>0.100407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-07</Date>
+    <Open>0.100408</Open>
+    <High>0.100607</High>
+    <Low>0.096121</Low>
+    <Close>0.0973036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-08</Date>
+    <Open>0.0972997</Open>
+    <High>0.0987028</High>
+    <Low>0.0970039</Low>
+    <Close>0.0973743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-09</Date>
+    <Open>0.0973753</Open>
+    <High>0.0973753</High>
+    <Low>0.09591</Low>
+    <Close>0.0966193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-10</Date>
+    <Open>0.0966097</Open>
+    <High>0.0972094</High>
+    <Low>0.09281</Low>
+    <Close>0.0939006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-11</Date>
+    <Open>0.09391</Open>
+    <High>0.09391</High>
+    <Low>0.0884012</Low>
+    <Close>0.0889011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-12</Date>
+    <Open>0.0889011</Open>
+    <High>0.0895891</High>
+    <Low>0.0873026</Low>
+    <Close>0.0873026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-13</Date>
+    <Open>0.0873026</Open>
+    <High>0.0886989</High>
+    <Low>0.079506</Low>
+    <Close>0.0883971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-14</Date>
+    <Open>0.0881771</Open>
+    <High>0.0905936</High>
+    <Low>0.0852109</Low>
+    <Close>0.0853826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-15</Date>
+    <Open>0.0853834</Open>
+    <High>0.0875953</High>
+    <Low>0.083515</Low>
+    <Close>0.0862043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-16</Date>
+    <Open>0.0862</Open>
+    <High>0.0867935</High>
+    <Low>0.0842125</Low>
+    <Close>0.0862935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-17</Date>
+    <Open>0.0863935</Open>
+    <High>0.0878061</High>
+    <Low>0.0844117</Low>
+    <Close>0.0862917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-18</Date>
+    <Open>0.0862917</Open>
+    <High>0.0874117</High>
+    <Low>0.0819157</Low>
+    <Close>0.083495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-19</Date>
+    <Open>0.0834983</Open>
+    <High>0.0838942</High>
+    <Low>0.0806108</Low>
+    <Close>0.08091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-20</Date>
+    <Open>0.0809092</Open>
+    <High>0.0812908</High>
+    <Low>0.0778838</Low>
+    <Close>0.0791045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-21</Date>
+    <Open>0.0791045</Open>
+    <High>0.0795972</High>
+    <Low>0.0747963</Low>
+    <Close>0.0785955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-22</Date>
+    <Open>0.0785955</Open>
+    <High>0.0796172</High>
+    <Low>0.0775239</Low>
+    <Close>0.077997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-23</Date>
+    <Open>0.0783971</Open>
+    <High>0.0798236</High>
+    <Low>0.0764246</Low>
+    <Close>0.0796103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-24</Date>
+    <Open>0.0795187</Open>
+    <High>0.0806965</High>
+    <Low>0.0778154</Low>
+    <Close>0.0791932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-25</Date>
+    <Open>0.0799932</Open>
+    <High>0.0842169</High>
+    <Low>0.0788147</Low>
+    <Close>0.081917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-26</Date>
+    <Open>0.0819178</Open>
+    <High>0.0833175</High>
+    <Low>0.0807278</Low>
+    <Close>0.0819329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-27</Date>
+    <Open>0.0819338</Open>
+    <High>0.0856105</High>
+    <Low>0.0796948</Low>
+    <Close>0.0809949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-28</Date>
+    <Open>0.0809949</Open>
+    <High>0.082789</High>
+    <Low>0.0788163</Low>
+    <Close>0.0822264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-29</Date>
+    <Open>0.0822264</Open>
+    <High>0.0864297</High>
+    <Low>0.0821272</Low>
+    <Close>0.0841102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-30</Date>
+    <Open>0.0841102</Open>
+    <High>0.0876075</High>
+    <Low>0.0824065</Low>
+    <Close>0.0845169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-10-31</Date>
+    <Open>0.0834258</Open>
+    <High>0.0864065</High>
+    <Low>0.0816073</Low>
+    <Close>0.0843832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-01</Date>
+    <Open>0.0843849</Open>
+    <High>0.0872725</High>
+    <Low>0.0825943</Low>
+    <Close>0.0826417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-02</Date>
+    <Open>0.0826417</Open>
+    <High>0.0842225</High>
+    <Low>0.0791084</Low>
+    <Close>0.0806052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-03</Date>
+    <Open>0.0806052</Open>
+    <High>0.0971703</High>
+    <Low>0.0802936</Low>
+    <Close>0.0869091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-04</Date>
+    <Open>0.0869091</Open>
+    <High>0.0983292</High>
+    <Low>0.0855032</Low>
+    <Close>0.0952976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-05</Date>
+    <Open>0.0952967</Open>
+    <High>0.104394</High>
+    <Low>0.0943175</Low>
+    <Close>0.099795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-06</Date>
+    <Open>0.099895</Open>
+    <High>0.100696</High>
+    <Low>0.0914991</Low>
+    <Close>0.0923174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-07</Date>
+    <Open>0.0902972</Open>
+    <High>0.0925183</High>
+    <Low>0.0864169</Low>
+    <Close>0.0892007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-08</Date>
+    <Open>0.0889367</Open>
+    <High>0.0921176</High>
+    <Low>0.067529</Low>
+    <Close>0.0743022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-09</Date>
+    <Open>0.0763411</Open>
+    <High>0.0769513</High>
+    <Low>0.0569294</Low>
+    <Close>0.0574139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-10</Date>
+    <Open>0.0580193</Open>
+    <High>0.0777099</High>
+    <Low>0.0576384</Low>
+    <Close>0.0698837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-11</Date>
+    <Open>0.0699395</Open>
+    <High>0.0803894</High>
+    <Low>0.0632163</Low>
+    <Close>0.0644608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-12</Date>
+    <Open>0.0644351</Open>
+    <High>0.0665805</High>
+    <Low>0.0599918</Low>
+    <Close>0.062088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-13</Date>
+    <Open>0.062088</Open>
+    <High>0.0644033</High>
+    <Low>0.0602973</Low>
+    <Close>0.0618133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-14</Date>
+    <Open>0.0618157</Open>
+    <High>0.0638169</High>
+    <Low>0.057913</Low>
+    <Close>0.0629055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-15</Date>
+    <Open>0.0628025</Open>
+    <High>0.0668331</High>
+    <Low>0.062606</Low>
+    <Close>0.0644355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-16</Date>
+    <Open>0.0643314</Open>
+    <High>0.0651526</High>
+    <Low>0.0605894</Low>
+    <Close>0.0617525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-17</Date>
+    <Open>0.0617531</Open>
+    <High>0.0621215</High>
+    <Low>0.0595511</Low>
+    <Close>0.0606527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-18</Date>
+    <Open>0.0606527</Open>
+    <High>0.0617512</High>
+    <Low>0.0596319</Low>
+    <Close>0.0600309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-19</Date>
+    <Open>0.0600309</Open>
+    <High>0.0604347</High>
+    <Low>0.0583234</Low>
+    <Close>0.0601368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-20</Date>
+    <Open>0.0601458</Open>
+    <High>0.0605342</High>
+    <Low>0.0569356</Low>
+    <Close>0.0582014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-21</Date>
+    <Open>0.0571199</Open>
+    <High>0.0574201</High>
+    <Low>0.0521405</Low>
+    <Close>0.0537454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-22</Date>
+    <Open>0.0537454</Open>
+    <High>0.0552331</High>
+    <Low>0.0517373</Low>
+    <Close>0.0544335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-23</Date>
+    <Open>0.0544335</Open>
+    <High>0.0708848</High>
+    <Low>0.0543293</Low>
+    <Close>0.0619318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-24</Date>
+    <Open>0.0619318</Open>
+    <High>0.063336</High>
+    <Low>0.0594429</Low>
+    <Close>0.0604492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-25</Date>
+    <Open>0.0604492</Open>
+    <High>0.0646489</High>
+    <Low>0.0598693</Low>
+    <Close>0.0618747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-26</Date>
+    <Open>0.0618641</Open>
+    <High>0.0658572</High>
+    <Low>0.0617548</Low>
+    <Close>0.0631627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-27</Date>
+    <Open>0.0632627</Open>
+    <High>0.0664674</High>
+    <Low>0.0620596</Low>
+    <Close>0.0648585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-28</Date>
+    <Open>0.0648585</Open>
+    <High>0.0649816</High>
+    <Low>0.0588676</Low>
+    <Close>0.0617765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-29</Date>
+    <Open>0.0619746</Open>
+    <High>0.0638064</High>
+    <Low>0.061571</Low>
+    <Close>0.062177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-11-30</Date>
+    <Open>0.062077</Open>
+    <High>0.0645877</High>
+    <Low>0.0613957</Low>
+    <Close>0.0637025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-01</Date>
+    <Open>0.0637119</Open>
+    <High>0.0652007</High>
+    <Low>0.0630013</Low>
+    <Close>0.0645339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-02</Date>
+    <Open>0.0645339</Open>
+    <High>0.0651124</High>
+    <Low>0.0629063</Low>
+    <Close>0.0650039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-03</Date>
+    <Open>0.0650039</Open>
+    <High>0.0662079</High>
+    <Low>0.0630063</Low>
+    <Close>0.0632063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-04</Date>
+    <Open>0.0631063</Open>
+    <High>0.0645429</High>
+    <Low>0.0627</Low>
+    <Close>0.0634063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-05</Date>
+    <Open>0.0634127</Open>
+    <High>0.0656072</High>
+    <Low>0.0631626</Low>
+    <Close>0.0648013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-06</Date>
+    <Open>0.0648065</Open>
+    <High>0.0649019</High>
+    <Low>0.0632981</Low>
+    <Close>0.0637987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-07</Date>
+    <Open>0.0638</Open>
+    <High>0.0643039</High>
+    <Low>0.06079</Low>
+    <Close>0.0624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-08</Date>
+    <Open>0.0624</Open>
+    <High>0.0632132</High>
+    <Low>0.0612988</Low>
+    <Close>0.0630044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-09</Date>
+    <Open>0.0630044</Open>
+    <High>0.0706028</High>
+    <Low>0.0629938</Low>
+    <Close>0.065402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-10</Date>
+    <Open>0.0654026</Open>
+    <High>0.0752908</High>
+    <Low>0.0651007</Low>
+    <Close>0.0726985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-11</Date>
+    <Open>0.0725985</Open>
+    <High>0.07271</High>
+    <Low>0.0686069</Low>
+    <Close>0.0693139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-12</Date>
+    <Open>0.0693139</Open>
+    <High>0.070114</High>
+    <Low>0.0657993</Low>
+    <Close>0.067106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-13</Date>
+    <Open>0.0675068</Open>
+    <High>0.0692069</High>
+    <Low>0.0654807</Low>
+    <Close>0.066524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-14</Date>
+    <Open>0.066514</Open>
+    <High>0.0683945</High>
+    <Low>0.06421</Low>
+    <Close>0.0658046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-15</Date>
+    <Open>0.0658046</Open>
+    <High>0.0670134</High>
+    <Low>0.0639128</Low>
+    <Close>0.0642128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-16</Date>
+    <Open>0.0642128</Open>
+    <High>0.0647065</High>
+    <Low>0.0566657</Low>
+    <Close>0.0566757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-17</Date>
+    <Open>0.0555111</Open>
+    <High>0.0580075</High>
+    <Low>0.0550061</Low>
+    <Close>0.0571074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-18</Date>
+    <Open>0.0571074</Open>
+    <High>0.0580123</High>
+    <Low>0.0567051</Low>
+    <Close>0.0569074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-19</Date>
+    <Open>0.0576092</Open>
+    <High>0.0587006</High>
+    <Low>0.0542022</Low>
+    <Close>0.05566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-20</Date>
+    <Open>0.0556689</Open>
+    <High>0.0579929</High>
+    <Low>0.0538</Low>
+    <Close>0.0576023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-21</Date>
+    <Open>0.0576029</Open>
+    <High>0.0579994</High>
+    <Low>0.0563039</Low>
+    <Close>0.0571029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-22</Date>
+    <Open>0.0571029</Open>
+    <High>0.0588</High>
+    <Low>0.0563006</Low>
+    <Close>0.0569903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-23</Date>
+    <Open>0.0569903</Open>
+    <High>0.0590035</High>
+    <Low>0.0569815</Low>
+    <Close>0.0578942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-24</Date>
+    <Open>0.0578942</Open>
+    <High>0.0586953</High>
+    <Low>0.0574654</Low>
+    <Close>0.057496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-25</Date>
+    <Open>0.057496</Open>
+    <High>0.0581983</High>
+    <Low>0.0555922</Low>
+    <Close>0.0560927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-26</Date>
+    <Open>0.0560933</Open>
+    <High>0.0609045</High>
+    <Low>0.0560933</Low>
+    <Close>0.0595881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-27</Date>
+    <Open>0.0595881</Open>
+    <High>0.0604861</High>
+    <Low>0.058186</Low>
+    <Close>0.0585871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-28</Date>
+    <Open>0.0585871</Open>
+    <High>0.059882</High>
+    <Low>0.0564774</Low>
+    <Close>0.0572691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-29</Date>
+    <Open>0.0572685</Open>
+    <High>0.0572702</High>
+    <Low>0.0541783</Low>
+    <Close>0.0546648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-30</Date>
+    <Open>0.0546654</Open>
+    <High>0.0555711</High>
+    <Low>0.0537626</Low>
+    <Close>0.0550725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2022-12-31</Date>
+    <Open>0.0550719</Open>
+    <High>0.0561719</High>
+    <Low>0.0547721</Low>
+    <Close>0.056072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-01</Date>
+    <Open>0.056072</Open>
+    <High>0.0562747</High>
+    <Low>0.0551685</Low>
+    <Close>0.055374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-02</Date>
+    <Open>0.055374</Open>
+    <High>0.0596815</High>
+    <Low>0.0551741</Low>
+    <Close>0.0594804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-03</Date>
+    <Open>0.059381</Open>
+    <High>0.0609656</High>
+    <Low>0.0586759</Low>
+    <Close>0.058967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-04</Date>
+    <Open>0.0589676</Open>
+    <High>0.0619846</High>
+    <Low>0.0585754</Low>
+    <Close>0.0614797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-05</Date>
+    <Open>0.0614797</Open>
+    <High>0.0621807</High>
+    <Low>0.0597845</Low>
+    <Close>0.0604788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-06</Date>
+    <Open>0.0604819</Open>
+    <High>0.0625762</High>
+    <Low>0.058078</Low>
+    <Close>0.0616809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-07</Date>
+    <Open>0.0616809</Open>
+    <High>0.0631742</High>
+    <Low>0.0612622</Low>
+    <Close>0.0620751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-08</Date>
+    <Open>0.0620751</Open>
+    <High>0.07109</High>
+    <Low>0.0618913</Low>
+    <Close>0.0695916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-09</Date>
+    <Open>0.0696916</Open>
+    <High>0.0736919</High>
+    <Low>0.0687862</Low>
+    <Close>0.0720993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-10</Date>
+    <Open>0.07197</Open>
+    <High>0.0745082</High>
+    <Low>0.0682952</Low>
+    <Close>0.0727502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-11</Date>
+    <Open>0.0726109</Open>
+    <High>0.0732993</High>
+    <Low>0.0680959</Low>
+    <Close>0.0706936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-12</Date>
+    <Open>0.0707</Open>
+    <High>0.074806</High>
+    <Low>0.0687945</Low>
+    <Close>0.0737074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-13</Date>
+    <Open>0.0736774</Open>
+    <High>0.077897</High>
+    <Low>0.0711907</Low>
+    <Close>0.0765969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-14</Date>
+    <Open>0.0765969</Open>
+    <High>0.0834925</High>
+    <Low>0.073091</Low>
+    <Close>0.080594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-15</Date>
+    <Open>0.080514</Open>
+    <High>0.0892212</High>
+    <Low>0.0777131</Low>
+    <Close>0.0851547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-16</Date>
+    <Open>0.0852156</Open>
+    <High>0.0881335</High>
+    <Low>0.0793216</Low>
+    <Close>0.0814116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-17</Date>
+    <Open>0.0817141</Open>
+    <High>0.08561</High>
+    <Low>0.0799272</Low>
+    <Close>0.081839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-18</Date>
+    <Open>0.081839</Open>
+    <High>0.0821982</High>
+    <Low>0.0740993</Low>
+    <Close>0.0759762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-19</Date>
+    <Open>0.0759054</Open>
+    <High>0.0783924</High>
+    <Low>0.0736912</Low>
+    <Close>0.0779069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-20</Date>
+    <Open>0.0778077</Open>
+    <High>0.0842026</High>
+    <Low>0.0769092</Low>
+    <Close>0.0838251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-21</Date>
+    <Open>0.0838251</Open>
+    <High>0.0864397</High>
+    <Low>0.0825722</Low>
+    <Close>0.0853071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-22</Date>
+    <Open>0.0853062</Open>
+    <High>0.0876075</High>
+    <Low>0.0806245</Low>
+    <Close>0.0813263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-23</Date>
+    <Open>0.082429</Open>
+    <High>0.0928993</High>
+    <Low>0.0822297</Low>
+    <Close>0.0892043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-24</Date>
+    <Open>0.0893125</Open>
+    <High>0.0967564</High>
+    <Low>0.086923</Low>
+    <Close>0.0887918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-25</Date>
+    <Open>0.0887927</Open>
+    <High>0.0957091</High>
+    <Low>0.0849027</Low>
+    <Close>0.0909245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-26</Date>
+    <Open>0.0910055</Open>
+    <High>0.0934031</High>
+    <Low>0.0885118</Low>
+    <Close>0.0915173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-27</Date>
+    <Open>0.0915173</Open>
+    <High>0.0968155</High>
+    <Low>0.0891251</Low>
+    <Close>0.0951666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-28</Date>
+    <Open>0.0951333</Open>
+    <High>0.0978135</High>
+    <Low>0.0918302</Low>
+    <Close>0.0925085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-29</Date>
+    <Open>0.0925085</Open>
+    <High>0.0967129</High>
+    <Low>0.0912282</Low>
+    <Close>0.0963148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-30</Date>
+    <Open>0.0963139</Open>
+    <High>0.0968148</High>
+    <Low>0.0856286</Low>
+    <Close>0.086306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-01-31</Date>
+    <Open>0.086306</Open>
+    <High>0.0903945</High>
+    <Low>0.0852068</Low>
+    <Close>0.0877179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-01</Date>
+    <Open>0.0877179</Open>
+    <High>0.0937847</High>
+    <Low>0.0832117</Low>
+    <Close>0.0930956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-02</Date>
+    <Open>0.0933156</Open>
+    <High>0.101489</High>
+    <Low>0.0928193</Low>
+    <Close>0.0953091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-03</Date>
+    <Open>0.0954091</Open>
+    <High>0.101797</High>
+    <Low>0.0934109</Low>
+    <Close>0.0980978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-04</Date>
+    <Open>0.0980978</Open>
+    <High>0.116046</High>
+    <Low>0.0974068</Low>
+    <Close>0.11242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-05</Date>
+    <Open>0.112319</Open>
+    <High>0.131804</High>
+    <Low>0.110129</Low>
+    <Close>0.129252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-06</Date>
+    <Open>0.129102</Open>
+    <High>0.138283</High>
+    <Low>0.126591</Low>
+    <Close>0.131025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-07</Date>
+    <Open>0.131025</Open>
+    <High>0.230952</High>
+    <Low>0.127089</Low>
+    <Close>0.205704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-08</Date>
+    <Open>0.205512</Open>
+    <High>0.210971</High>
+    <Low>0.175239</Low>
+    <Close>0.176744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-09</Date>
+    <Open>0.176794</Open>
+    <High>0.18656</High>
+    <Low>0.145524</Low>
+    <Close>0.148523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-10</Date>
+    <Open>0.147233</Open>
+    <High>0.174046</High>
+    <Low>0.146016</Low>
+    <Close>0.164205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-11</Date>
+    <Open>0.16424</Open>
+    <High>0.168424</High>
+    <Low>0.155712</Low>
+    <Close>0.161395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-12</Date>
+    <Open>0.161412</Open>
+    <High>0.169142</High>
+    <Low>0.151551</Low>
+    <Close>0.154395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-13</Date>
+    <Open>0.154545</Open>
+    <High>0.156207</High>
+    <Low>0.139523</Low>
+    <Close>0.145599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-14</Date>
+    <Open>0.1456</Open>
+    <High>0.174835</High>
+    <Low>0.145173</Low>
+    <Close>0.168277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-15</Date>
+    <Open>0.168287</Open>
+    <High>0.186802</High>
+    <Low>0.165191</Low>
+    <Close>0.184945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-16</Date>
+    <Open>0.184963</Open>
+    <High>0.186292</High>
+    <Low>0.165076</Low>
+    <Close>0.165076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-17</Date>
+    <Open>0.164976</Open>
+    <High>0.173434</High>
+    <Low>0.162738</Low>
+    <Close>0.168955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-18</Date>
+    <Open>0.169037</Open>
+    <High>0.181905</High>
+    <Low>0.166112</Low>
+    <Close>0.17576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-19</Date>
+    <Open>0.17582</Open>
+    <High>0.184795</High>
+    <Low>0.167889</Low>
+    <Close>0.170427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-20</Date>
+    <Open>0.170217</Open>
+    <High>0.174836</High>
+    <Low>0.163337</Low>
+    <Close>0.170407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-21</Date>
+    <Open>0.170587</Open>
+    <High>0.180485</High>
+    <Low>0.163411</Low>
+    <Close>0.16611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-22</Date>
+    <Open>0.16591</Open>
+    <High>0.168417</High>
+    <Low>0.154749</Low>
+    <Close>0.16406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-23</Date>
+    <Open>0.164127</Open>
+    <High>0.172753</High>
+    <Low>0.158724</Low>
+    <Close>0.161841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-24</Date>
+    <Open>0.160861</Open>
+    <High>0.166005</High>
+    <Low>0.150924</Low>
+    <Close>0.153078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-25</Date>
+    <Open>0.153247</Open>
+    <High>0.15571</High>
+    <Low>0.141524</Low>
+    <Close>0.14679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-26</Date>
+    <Open>0.14674</Open>
+    <High>0.16335</High>
+    <Low>0.146293</Low>
+    <Close>0.1591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-27</Date>
+    <Open>0.159108</Open>
+    <High>0.163525</High>
+    <Low>0.153292</Low>
+    <Close>0.156729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-02-28</Date>
+    <Open>0.156629</Open>
+    <High>0.168028</High>
+    <Low>0.152402</Low>
+    <Close>0.154629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-01</Date>
+    <Open>0.154651</Open>
+    <High>0.162833</High>
+    <Low>0.151301</Low>
+    <Close>0.160221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-02</Date>
+    <Open>0.160221</Open>
+    <High>0.161094</High>
+    <Low>0.150639</Low>
+    <Close>0.155204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-03</Date>
+    <Open>0.155204</Open>
+    <High>0.155262</High>
+    <Low>0.135018</Low>
+    <Close>0.1465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-04</Date>
+    <Open>0.146499</Open>
+    <High>0.148679</High>
+    <Low>0.135127</Low>
+    <Close>0.13883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-05</Date>
+    <Open>0.138891</Open>
+    <High>0.146823</High>
+    <Low>0.138571</Low>
+    <Close>0.140936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-06</Date>
+    <Open>0.140937</Open>
+    <High>0.143913</High>
+    <Low>0.136139</Low>
+    <Close>0.142801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-07</Date>
+    <Open>0.142771</Open>
+    <High>0.14562</High>
+    <Low>0.132876</Low>
+    <Close>0.134183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-08</Date>
+    <Open>0.134173</Open>
+    <High>0.139272</High>
+    <Low>0.121403</Low>
+    <Close>0.122473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-09</Date>
+    <Open>0.122478</Open>
+    <High>0.128388</High>
+    <Low>0.112385</Low>
+    <Close>0.113901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-10</Date>
+    <Open>0.113901</Open>
+    <High>0.118115</High>
+    <Low>0.105202</Low>
+    <Close>0.117003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-11</Date>
+    <Open>0.117083</Open>
+    <High>0.123141</High>
+    <Low>0.109112</Low>
+    <Close>0.113507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-12</Date>
+    <Open>0.113562</Open>
+    <High>0.126465</High>
+    <Low>0.111958</Low>
+    <Close>0.125374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-13</Date>
+    <Open>0.125474</Open>
+    <High>0.148308</High>
+    <Low>0.125394</Low>
+    <Close>0.147195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-14</Date>
+    <Open>0.147564</Open>
+    <High>0.163352</High>
+    <Low>0.139599</Low>
+    <Close>0.152245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-15</Date>
+    <Open>0.152525</Open>
+    <High>0.158323</High>
+    <Low>0.131703</Low>
+    <Close>0.139601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-16</Date>
+    <Open>0.139502</Open>
+    <High>0.159922</High>
+    <Low>0.13882</Low>
+    <Close>0.150754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-17</Date>
+    <Open>0.150952</Open>
+    <High>0.15994</High>
+    <Low>0.147433</Low>
+    <Close>0.159696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-18</Date>
+    <Open>0.159566</Open>
+    <High>0.175493</High>
+    <Low>0.151226</Low>
+    <Close>0.156085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-19</Date>
+    <Open>0.156047</Open>
+    <High>0.168283</High>
+    <Low>0.153098</Low>
+    <Close>0.159502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-20</Date>
+    <Open>0.159502</Open>
+    <High>0.161172</High>
+    <Low>0.145951</Low>
+    <Close>0.150126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-21</Date>
+    <Open>0.150066</Open>
+    <High>0.155747</High>
+    <Low>0.142034</Low>
+    <Close>0.150259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-22</Date>
+    <Open>0.150398</Open>
+    <High>0.154069</High>
+    <Low>0.137961</Low>
+    <Close>0.142489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-23</Date>
+    <Open>0.142509</Open>
+    <High>0.158079</High>
+    <Low>0.14158</Low>
+    <Close>0.151935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-24</Date>
+    <Open>0.151965</Open>
+    <High>0.153499</High>
+    <Low>0.138627</Low>
+    <Close>0.142437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-25</Date>
+    <Open>0.142638</Open>
+    <High>0.143696</High>
+    <Low>0.136074</Low>
+    <Close>0.137513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-26</Date>
+    <Open>0.137613</Open>
+    <High>0.142678</High>
+    <Low>0.136631</Low>
+    <Close>0.139968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-27</Date>
+    <Open>0.139794</Open>
+    <High>0.142339</High>
+    <Low>0.130239</Low>
+    <Close>0.132682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-28</Date>
+    <Open>0.132632</Open>
+    <High>0.140165</High>
+    <Low>0.129071</Low>
+    <Close>0.139134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-29</Date>
+    <Open>0.138514</Open>
+    <High>0.149461</High>
+    <Low>0.138254</Low>
+    <Close>0.146526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-30</Date>
+    <Open>0.146504</Open>
+    <High>0.150845</High>
+    <Low>0.139765</Low>
+    <Close>0.14432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-03-31</Date>
+    <Open>0.144409</Open>
+    <High>0.147096</High>
+    <Low>0.139951</Low>
+    <Close>0.146749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-01</Date>
+    <Open>0.146751</Open>
+    <High>0.148082</High>
+    <Low>0.141545</Low>
+    <Close>0.142851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-02</Date>
+    <Open>0.142993</Open>
+    <High>0.14368</High>
+    <Low>0.136273</Low>
+    <Close>0.137885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-03</Date>
+    <Open>0.138076</Open>
+    <High>0.142984</High>
+    <Low>0.133488</Low>
+    <Close>0.138574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-04</Date>
+    <Open>0.138575</Open>
+    <High>0.143807</High>
+    <Low>0.138067</Low>
+    <Close>0.142051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-05</Date>
+    <Open>0.142061</Open>
+    <High>0.157334</High>
+    <Low>0.142011</Low>
+    <Close>0.147993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-06</Date>
+    <Open>0.148033</Open>
+    <High>0.14878</High>
+    <Low>0.143493</Low>
+    <Close>0.146571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-07</Date>
+    <Open>0.146521</Open>
+    <High>0.146523</High>
+    <Low>0.140509</Low>
+    <Close>0.141585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-08</Date>
+    <Open>0.141585</Open>
+    <High>0.145823</High>
+    <Low>0.14105</Low>
+    <Close>0.141255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-09</Date>
+    <Open>0.141275</Open>
+    <High>0.144235</High>
+    <Low>0.138877</Low>
+    <Close>0.144177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-10</Date>
+    <Open>0.144177</Open>
+    <High>0.14799</High>
+    <Low>0.141717</Low>
+    <Close>0.147409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-11</Date>
+    <Open>0.147441</Open>
+    <High>0.155416</High>
+    <Low>0.147306</Low>
+    <Close>0.148135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-12</Date>
+    <Open>0.148127</Open>
+    <High>0.150103</High>
+    <Low>0.141937</Low>
+    <Close>0.148135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-13</Date>
+    <Open>0.147945</Open>
+    <High>0.151802</High>
+    <Low>0.145561</Low>
+    <Close>0.150334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-14</Date>
+    <Open>0.150384</Open>
+    <High>0.16412</High>
+    <Low>0.149736</Low>
+    <Close>0.163054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-15</Date>
+    <Open>0.163624</Open>
+    <High>0.172346</High>
+    <Low>0.159117</Low>
+    <Close>0.165549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-16</Date>
+    <Open>0.165627</Open>
+    <High>0.170377</High>
+    <Low>0.163018</Low>
+    <Close>0.167604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-17</Date>
+    <Open>0.167492</Open>
+    <High>0.174009</High>
+    <Low>0.161524</Low>
+    <Close>0.16752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-18</Date>
+    <Open>0.168049</Open>
+    <High>0.175276</High>
+    <Low>0.165446</Low>
+    <Close>0.169459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-19</Date>
+    <Open>0.169455</Open>
+    <High>0.171224</High>
+    <Low>0.151755</Low>
+    <Close>0.154695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-20</Date>
+    <Open>0.154565</Open>
+    <High>0.157388</High>
+    <Low>0.143697</Low>
+    <Close>0.144132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-21</Date>
+    <Open>0.14409</Open>
+    <High>0.149214</High>
+    <Low>0.134155</Low>
+    <Close>0.136205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-22</Date>
+    <Open>0.135965</Open>
+    <High>0.1412</High>
+    <Low>0.135015</Low>
+    <Close>0.140033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-23</Date>
+    <Open>0.140033</Open>
+    <High>0.141689</High>
+    <Low>0.134008</Low>
+    <Close>0.136407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-24</Date>
+    <Open>0.136407</Open>
+    <High>0.140521</High>
+    <Low>0.134205</Low>
+    <Close>0.135993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-25</Date>
+    <Open>0.136004</Open>
+    <High>0.140718</High>
+    <Low>0.130257</Low>
+    <Close>0.140232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-26</Date>
+    <Open>0.140252</Open>
+    <High>0.148531</High>
+    <Low>0.131446</Low>
+    <Close>0.137024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-27</Date>
+    <Open>0.137834</Open>
+    <High>0.142395</High>
+    <Low>0.136168</Low>
+    <Close>0.140771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-28</Date>
+    <Open>0.140706</Open>
+    <High>0.141475</High>
+    <Low>0.134478</Low>
+    <Close>0.136685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-29</Date>
+    <Open>0.136925</Open>
+    <High>0.141079</High>
+    <Low>0.136477</Low>
+    <Close>0.139061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-04-30</Date>
+    <Open>0.139121</Open>
+    <High>0.140177</High>
+    <Low>0.134891</Low>
+    <Close>0.136598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-01</Date>
+    <Open>0.136436</Open>
+    <High>0.137084</High>
+    <Low>0.129138</Low>
+    <Close>0.130855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-02</Date>
+    <Open>0.130814</Open>
+    <High>0.132956</High>
+    <Low>0.128583</Low>
+    <Close>0.132381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-03</Date>
+    <Open>0.132441</Open>
+    <High>0.135617</High>
+    <Low>0.128162</Low>
+    <Close>0.135475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-04</Date>
+    <Open>0.135397</Open>
+    <High>0.138045</High>
+    <Low>0.131236</Low>
+    <Close>0.132168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-05</Date>
+    <Open>0.132069</Open>
+    <High>0.135167</High>
+    <Low>0.127477</Low>
+    <Close>0.134702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-06</Date>
+    <Open>0.134773</Open>
+    <High>0.135454</High>
+    <Low>0.12348</Low>
+    <Close>0.126179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-07</Date>
+    <Open>0.126144</Open>
+    <High>0.128683</High>
+    <Low>0.125588</Low>
+    <Close>0.127629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-08</Date>
+    <Open>0.127684</Open>
+    <High>0.127684</High>
+    <Low>0.111156</Low>
+    <Close>0.115738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-09</Date>
+    <Open>0.115778</Open>
+    <High>0.118312</High>
+    <Low>0.112602</Low>
+    <Close>0.114124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-10</Date>
+    <Open>0.114204</Open>
+    <High>0.120755</High>
+    <Low>0.111493</Low>
+    <Close>0.118208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-11</Date>
+    <Open>0.118308</Open>
+    <High>0.120028</High>
+    <Low>0.110269</Low>
+    <Close>0.111942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-12</Date>
+    <Open>0.112012</Open>
+    <High>0.115579</High>
+    <Low>0.108098</Low>
+    <Close>0.115032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-13</Date>
+    <Open>0.115012</Open>
+    <High>0.117249</High>
+    <Low>0.114847</Low>
+    <Close>0.1163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-14</Date>
+    <Open>0.116248</Open>
+    <High>0.118469</High>
+    <Low>0.114459</Low>
+    <Close>0.115689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-15</Date>
+    <Open>0.11624</Open>
+    <High>0.131912</High>
+    <Low>0.115068</Low>
+    <Close>0.129681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-16</Date>
+    <Open>0.129811</Open>
+    <High>0.131152</High>
+    <Low>0.12054</Low>
+    <Close>0.123352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-17</Date>
+    <Open>0.123339</Open>
+    <High>0.126043</High>
+    <Low>0.11915</Low>
+    <Close>0.124352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-18</Date>
+    <Open>0.12434</Open>
+    <High>0.12486</High>
+    <Low>0.118007</Low>
+    <Close>0.122449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-19</Date>
+    <Open>0.122359</Open>
+    <High>0.127143</High>
+    <Low>0.119406</Low>
+    <Close>0.125156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-20</Date>
+    <Open>0.125156</Open>
+    <High>0.125156</High>
+    <Low>0.120198</Low>
+    <Close>0.120819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-21</Date>
+    <Open>0.120819</Open>
+    <High>0.121765</High>
+    <Low>0.116548</Low>
+    <Close>0.11699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-22</Date>
+    <Open>0.117149</Open>
+    <High>0.12039</High>
+    <Low>0.115748</Low>
+    <Close>0.11927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-23</Date>
+    <Open>0.11912</Open>
+    <High>0.122831</High>
+    <Low>0.117788</Low>
+    <Close>0.122247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-24</Date>
+    <Open>0.122217</Open>
+    <High>0.122217</High>
+    <Low>0.112509</Low>
+    <Close>0.116603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-25</Date>
+    <Open>0.116604</Open>
+    <High>0.117509</High>
+    <Low>0.113199</Low>
+    <Close>0.116093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-26</Date>
+    <Open>0.116136</Open>
+    <High>0.117144</High>
+    <Low>0.11441</Low>
+    <Close>0.116723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-27</Date>
+    <Open>0.116583</Open>
+    <High>0.119841</High>
+    <Low>0.115423</Low>
+    <Close>0.118354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GRT">
+    <Date>2023-05-28</Date>
+    <Open>0.118334</Open>
+    <High>0.122044</High>
+    <Low>0.117949</Low>
+    <Close>0.122018</Close>
+  </Cryptocurrency>
+</Root>

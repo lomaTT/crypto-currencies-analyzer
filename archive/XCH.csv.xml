@@ -1,0 +1,2677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-13</Date>
+    <Open>39.5686</Open>
+    <High>39.5726</High>
+    <Low>39.5647</Low>
+    <Close>39.5686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-14</Date>
+    <Open>35.0303</Open>
+    <High>40.5733</High>
+    <Low>35.0303</Low>
+    <Close>39.9766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-15</Date>
+    <Open>39.8469</Open>
+    <High>40.8534</High>
+    <Low>37.6431</Low>
+    <Close>39.9431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-16</Date>
+    <Open>39.9515</Open>
+    <High>39.9935</High>
+    <Low>36.8592</Low>
+    <Close>38.8915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-17</Date>
+    <Open>38.8226</Open>
+    <High>39.199</High>
+    <Low>37.7546</Low>
+    <Close>39.0192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-18</Date>
+    <Open>39.0231</Open>
+    <High>39.4487</High>
+    <Low>36.4625</Low>
+    <Close>38.0167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-19</Date>
+    <Open>38.0005</Open>
+    <High>38.3178</High>
+    <Low>35.9732</Low>
+    <Close>38.0319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-20</Date>
+    <Open>38.0319</Open>
+    <High>38.0857</High>
+    <Low>36.3527</Low>
+    <Close>36.586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-21</Date>
+    <Open>36.586</Open>
+    <High>37.3351</High>
+    <Low>35.5537</Low>
+    <Close>36.0031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-22</Date>
+    <Open>36.0331</Open>
+    <High>37.2453</High>
+    <Low>35.344</Low>
+    <Close>36.3363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-23</Date>
+    <Open>36.3663</Open>
+    <High>37.1428</High>
+    <Low>35.807</Low>
+    <Close>36.0531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-24</Date>
+    <Open>36.0567</Open>
+    <High>36.0903</High>
+    <Low>34.2023</Low>
+    <Close>35.8298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-25</Date>
+    <Open>35.8298</Open>
+    <High>36.1466</High>
+    <Low>33.9626</Low>
+    <Close>34.8916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-26</Date>
+    <Open>34.9081</Open>
+    <High>36.7595</High>
+    <Low>32.4211</Low>
+    <Close>34.7952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-27</Date>
+    <Open>34.7517</Open>
+    <High>34.995</High>
+    <Low>32.5442</Low>
+    <Close>33.0769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-28</Date>
+    <Open>33.0723</Open>
+    <High>33.5927</High>
+    <Low>32.6295</Low>
+    <Close>33.3709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-29</Date>
+    <Open>33.3503</Open>
+    <High>33.7659</High>
+    <Low>32.9374</Low>
+    <Close>33.7325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-30</Date>
+    <Open>33.7122</Open>
+    <High>35.7214</High>
+    <Low>33.3533</Low>
+    <Close>35.3717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-05-31</Date>
+    <Open>35.3552</Open>
+    <High>35.6115</High>
+    <Low>33.9862</Low>
+    <Close>34.5523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-01</Date>
+    <Open>34.5237</Open>
+    <High>34.694</High>
+    <Low>31.7051</Low>
+    <Close>32.3708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-02</Date>
+    <Open>32.3705</Open>
+    <High>33.4998</High>
+    <Low>31.6815</Low>
+    <Close>33.4898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-03</Date>
+    <Open>33.4698</Open>
+    <High>33.5698</High>
+    <Low>31.7685</Low>
+    <Close>32.4717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-04</Date>
+    <Open>32.4717</Open>
+    <High>32.619</High>
+    <Low>31.8281</Low>
+    <Close>32.1056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-05</Date>
+    <Open>32.0962</Open>
+    <High>32.2909</High>
+    <Low>31.7037</Low>
+    <Close>32.0299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-06</Date>
+    <Open>32.1085</Open>
+    <High>32.9326</High>
+    <Low>31.8201</Low>
+    <Close>32.4398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-07</Date>
+    <Open>32.3496</Open>
+    <High>32.9339</High>
+    <Low>30.9646</Low>
+    <Close>31.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-08</Date>
+    <Open>31.8442</Open>
+    <High>31.8442</High>
+    <Low>30.2892</Low>
+    <Close>31.1397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-09</Date>
+    <Open>31.1549</Open>
+    <High>31.1553</High>
+    <Low>30.3074</Low>
+    <Close>30.7695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-10</Date>
+    <Open>30.7492</Open>
+    <High>30.8897</High>
+    <Low>28.5411</Low>
+    <Close>29.9616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-11</Date>
+    <Open>30.0867</Open>
+    <High>30.0867</High>
+    <Low>27.2681</Low>
+    <Close>28.9164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-12</Date>
+    <Open>28.3377</Open>
+    <High>29.2002</High>
+    <Low>26.8421</Low>
+    <Close>28.5448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-13</Date>
+    <Open>28.4447</Open>
+    <High>29.1994</High>
+    <Low>25.8991</Low>
+    <Close>28.4604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-14</Date>
+    <Open>28.5106</Open>
+    <High>28.7565</High>
+    <Low>26.9706</Low>
+    <Close>27.7067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-15</Date>
+    <Open>27.7369</Open>
+    <High>30.9934</High>
+    <Low>27.0315</Low>
+    <Close>30.9934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-16</Date>
+    <Open>31.1677</Open>
+    <High>31.939</High>
+    <Low>28.7754</Low>
+    <Close>29.7183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-17</Date>
+    <Open>30.0488</Open>
+    <High>31.2927</High>
+    <Low>29.489</Low>
+    <Close>31.1126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-18</Date>
+    <Open>31.1129</Open>
+    <High>37.4884</High>
+    <Low>29.6405</Low>
+    <Close>37.1294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-19</Date>
+    <Open>37.0994</Open>
+    <High>50.0299</High>
+    <Low>36.0288</Low>
+    <Close>45.0414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-20</Date>
+    <Open>45.2112</Open>
+    <High>54.7197</High>
+    <Low>42.0894</Low>
+    <Close>49.2258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-21</Date>
+    <Open>49.101</Open>
+    <High>54.6843</High>
+    <Low>43.9816</Low>
+    <Close>44.8007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-22</Date>
+    <Open>44.6808</Open>
+    <High>46.2337</High>
+    <Low>40.6893</Low>
+    <Close>42.0479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-23</Date>
+    <Open>41.998</Open>
+    <High>45.6843</High>
+    <Low>39.99</Low>
+    <Close>41.1188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-24</Date>
+    <Open>40.959</Open>
+    <High>43.8261</High>
+    <Low>40.8891</Low>
+    <Close>42.1871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-25</Date>
+    <Open>42.1771</Open>
+    <High>42.6173</High>
+    <Low>40.2234</Low>
+    <Close>41.3311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-26</Date>
+    <Open>41.391</Open>
+    <High>42.77</High>
+    <Low>40.4798</Low>
+    <Close>40.7547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-27</Date>
+    <Open>40.8451</Open>
+    <High>44.9322</High>
+    <Low>40.2766</Low>
+    <Close>42.3818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-28</Date>
+    <Open>41.8831</Open>
+    <High>42.6694</High>
+    <Low>41.1172</Low>
+    <Close>41.6387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-29</Date>
+    <Open>41.4286</Open>
+    <High>43.6997</High>
+    <Low>41.2218</Low>
+    <Close>42.9679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-06-30</Date>
+    <Open>42.9584</Open>
+    <High>47.2723</High>
+    <Low>1.028</Low>
+    <Close>43.1182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-01</Date>
+    <Open>43.2281</Open>
+    <High>45.8303</High>
+    <Low>42.3748</Low>
+    <Close>45.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-02</Date>
+    <Open>45.41</Open>
+    <High>45.9448</High>
+    <Low>43.632</Low>
+    <Close>45.0858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-03</Date>
+    <Open>45.1158</Open>
+    <High>45.2257</High>
+    <Low>42.6702</Low>
+    <Close>43.8829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-04</Date>
+    <Open>43.9029</Open>
+    <High>44.4366</High>
+    <Low>42.285</Low>
+    <Close>43.4278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-05</Date>
+    <Open>43.4378</Open>
+    <High>45.3455</High>
+    <Low>42.4932</Low>
+    <Close>43.602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-06</Date>
+    <Open>43.602</Open>
+    <High>43.7418</High>
+    <Low>42.8328</Low>
+    <Close>43.4222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-07</Date>
+    <Open>43.4422</Open>
+    <High>44.3212</High>
+    <Low>43.1382</Low>
+    <Close>43.9836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-08</Date>
+    <Open>43.9636</Open>
+    <High>45.1829</High>
+    <Low>43.8505</Low>
+    <Close>44.4933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-09</Date>
+    <Open>44.4333</Open>
+    <High>44.5233</High>
+    <Low>42.9742</Low>
+    <Close>43.8137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-10</Date>
+    <Open>43.7937</Open>
+    <High>43.9136</High>
+    <Low>40.2059</Low>
+    <Close>42.2446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-11</Date>
+    <Open>42.1347</Open>
+    <High>42.1347</High>
+    <Low>37.7735</Low>
+    <Close>38.0857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-12</Date>
+    <Open>38.1824</Open>
+    <High>40.925</High>
+    <Low>35.886</Low>
+    <Close>39.7743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-13</Date>
+    <Open>39.7754</Open>
+    <High>41.8789</High>
+    <Low>38.4616</Low>
+    <Close>40.5746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-14</Date>
+    <Open>40.5218</Open>
+    <High>41.2671</High>
+    <Low>39.2316</Low>
+    <Close>39.9855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-15</Date>
+    <Open>40.0802</Open>
+    <High>42.0744</High>
+    <Low>39.7908</Low>
+    <Close>40.9719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-16</Date>
+    <Open>41.0877</Open>
+    <High>41.5222</High>
+    <Low>40.4314</Low>
+    <Close>40.8877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-17</Date>
+    <Open>40.8418</Open>
+    <High>45.0978</High>
+    <Low>40.8094</Low>
+    <Close>43.1874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-18</Date>
+    <Open>43.3378</Open>
+    <High>46.0831</High>
+    <Low>43.1474</Low>
+    <Close>44.2998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-19</Date>
+    <Open>44.2494</Open>
+    <High>45.5354</High>
+    <Low>42.6974</Low>
+    <Close>44.8072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-20</Date>
+    <Open>44.85</Open>
+    <High>46.1643</High>
+    <Low>42.9656</Low>
+    <Close>43.2222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-21</Date>
+    <Open>43.1952</Open>
+    <High>43.8809</High>
+    <Low>41.8221</Low>
+    <Close>43.2695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-22</Date>
+    <Open>43.2504</Open>
+    <High>43.4322</High>
+    <Low>41.8967</Low>
+    <Close>42.4193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-23</Date>
+    <Open>42.3697</Open>
+    <High>42.9929</High>
+    <Low>41.4212</Low>
+    <Close>41.7079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-24</Date>
+    <Open>41.7642</Open>
+    <High>44.0766</High>
+    <Low>41.5204</Low>
+    <Close>42.048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-25</Date>
+    <Open>41.978</Open>
+    <High>42.7108</High>
+    <Low>40.7657</Low>
+    <Close>41.6633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-26</Date>
+    <Open>41.6142</Open>
+    <High>41.6142</High>
+    <Low>39.1735</Low>
+    <Close>40.7961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-27</Date>
+    <Open>40.7861</Open>
+    <High>43.3578</High>
+    <Low>40.0276</Low>
+    <Close>40.9998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-28</Date>
+    <Open>41.0194</Open>
+    <High>43.8697</High>
+    <Low>40.8718</Low>
+    <Close>42.8686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-29</Date>
+    <Open>42.7711</Open>
+    <High>43.9141</High>
+    <Low>41.3599</Low>
+    <Close>43.0076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-30</Date>
+    <Open>42.9176</Open>
+    <High>46.9669</High>
+    <Low>42.5066</Low>
+    <Close>45.2149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-07-31</Date>
+    <Open>44.9735</Open>
+    <High>45.9392</High>
+    <Low>42.8086</Low>
+    <Close>44.4602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-01</Date>
+    <Open>44.482</Open>
+    <High>44.8034</High>
+    <Low>42.2114</Low>
+    <Close>43.1429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-02</Date>
+    <Open>43.313</Open>
+    <High>43.6666</High>
+    <Low>41.372</Low>
+    <Close>42.8073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-03</Date>
+    <Open>42.9482</Open>
+    <High>43.4217</High>
+    <Low>42.2184</Low>
+    <Close>43.3004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-04</Date>
+    <Open>43.2995</Open>
+    <High>43.7739</High>
+    <Low>42.2685</Low>
+    <Close>43.1213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-05</Date>
+    <Open>43.1413</Open>
+    <High>44.0088</High>
+    <Low>42.9017</Low>
+    <Close>43.8183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-06</Date>
+    <Open>43.8088</Open>
+    <High>43.9488</High>
+    <Low>42.9277</Low>
+    <Close>43.2295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-07</Date>
+    <Open>43.1695</Open>
+    <High>43.7966</High>
+    <Low>42.769</Low>
+    <Close>43.6083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-08</Date>
+    <Open>43.5183</Open>
+    <High>44.5089</High>
+    <Low>42.9177</Low>
+    <Close>43.9553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-09</Date>
+    <Open>44.0253</Open>
+    <High>44.3075</High>
+    <Low>42.5289</Low>
+    <Close>43.3187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-10</Date>
+    <Open>43.3287</Open>
+    <High>43.8027</High>
+    <Low>42.0505</Low>
+    <Close>43.5026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-11</Date>
+    <Open>43.5131</Open>
+    <High>43.9006</High>
+    <Low>43.0529</Low>
+    <Close>43.4904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-12</Date>
+    <Open>43.5117</Open>
+    <High>43.6318</High>
+    <Low>42.3812</Low>
+    <Close>42.7697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-13</Date>
+    <Open>42.7492</Open>
+    <High>43.8615</High>
+    <Low>42.7288</Low>
+    <Close>43.4269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-14</Date>
+    <Open>43.4174</Open>
+    <High>43.4174</High>
+    <Low>42.3323</Low>
+    <Close>42.8329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-15</Date>
+    <Open>42.8133</Open>
+    <High>43.1817</High>
+    <Low>41.8288</Low>
+    <Close>42.4402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-16</Date>
+    <Open>42.4398</Open>
+    <High>42.9256</High>
+    <Low>40.9429</Low>
+    <Close>42.1238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-17</Date>
+    <Open>42.0738</Open>
+    <High>43.1069</High>
+    <Low>41.5796</Low>
+    <Close>42.593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-18</Date>
+    <Open>42.563</Open>
+    <High>42.6838</High>
+    <Low>41.5933</Low>
+    <Close>41.8104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-19</Date>
+    <Open>41.8042</Open>
+    <High>42.0442</High>
+    <Low>39.0039</Low>
+    <Close>39.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-20</Date>
+    <Open>39.3769</Open>
+    <High>39.8179</High>
+    <Low>38.0996</Low>
+    <Close>38.8596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-21</Date>
+    <Open>38.8688</Open>
+    <High>41.3196</High>
+    <Low>38.5934</Low>
+    <Close>40.3892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-22</Date>
+    <Open>40.4092</Open>
+    <High>40.61</High>
+    <Low>38.0677</Low>
+    <Close>39.1433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-23</Date>
+    <Open>39.1441</Open>
+    <High>39.962</High>
+    <Low>38.6996</Low>
+    <Close>39.3408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-24</Date>
+    <Open>39.39</Open>
+    <High>39.642</High>
+    <Low>38.6884</Low>
+    <Close>39.1135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-25</Date>
+    <Open>39.1031</Open>
+    <High>39.452</High>
+    <Low>38.8631</Low>
+    <Close>39.2712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-26</Date>
+    <Open>39.2712</Open>
+    <High>39.4235</High>
+    <Low>37.1804</Low>
+    <Close>38.7239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-27</Date>
+    <Open>38.7135</Open>
+    <High>38.7835</High>
+    <Low>36.6615</Low>
+    <Close>37.3411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-28</Date>
+    <Open>37.3804</Open>
+    <High>37.8373</High>
+    <Low>36.7974</Low>
+    <Close>37.5496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-29</Date>
+    <Open>37.49</Open>
+    <High>37.7007</High>
+    <Low>36.2775</Low>
+    <Close>37.5622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-30</Date>
+    <Open>37.5741</Open>
+    <High>37.8896</High>
+    <Low>36.1107</Low>
+    <Close>36.6733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-08-31</Date>
+    <Open>36.6829</Open>
+    <High>37.06</High>
+    <Low>35.9986</Low>
+    <Close>36.4796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-01</Date>
+    <Open>36.46</Open>
+    <High>36.7274</High>
+    <Low>36.0011</Low>
+    <Close>36.4778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-02</Date>
+    <Open>36.4778</Open>
+    <High>36.8359</High>
+    <Low>35.8722</Low>
+    <Close>36.1147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-03</Date>
+    <Open>36.1658</Open>
+    <High>36.9737</High>
+    <Low>36.0258</Low>
+    <Close>36.8737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-04</Date>
+    <Open>36.89</Open>
+    <High>37.0</High>
+    <Low>36.21</Low>
+    <Close>36.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-05</Date>
+    <Open>36.3836</Open>
+    <High>36.4936</High>
+    <Low>35.1</Low>
+    <Close>35.5936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-06</Date>
+    <Open>35.59</Open>
+    <High>36.1436</High>
+    <Low>34.53</Low>
+    <Close>35.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-07</Date>
+    <Open>35.1732</Open>
+    <High>35.7993</High>
+    <Low>33.9097</Low>
+    <Close>35.4725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-08</Date>
+    <Open>35.4721</Open>
+    <High>35.8072</High>
+    <Low>34.3107</Low>
+    <Close>35.6454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-09</Date>
+    <Open>35.6454</Open>
+    <High>37.7299</High>
+    <Low>35.4374</Low>
+    <Close>37.4555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-10</Date>
+    <Open>37.4405</Open>
+    <High>38.2664</High>
+    <Low>36.6851</Low>
+    <Close>38.2661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-11</Date>
+    <Open>38.188</Open>
+    <High>38.3827</High>
+    <Low>37.3208</Low>
+    <Close>37.5594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-12</Date>
+    <Open>37.619</Open>
+    <High>37.8576</High>
+    <Low>36.6762</Low>
+    <Close>37.6875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-13</Date>
+    <Open>37.6972</Open>
+    <High>37.8772</High>
+    <Low>35.6114</Low>
+    <Close>35.8707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-14</Date>
+    <Open>35.7107</Open>
+    <High>36.3782</High>
+    <Low>34.9014</Low>
+    <Close>35.3192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-15</Date>
+    <Open>35.3292</Open>
+    <High>36.171</High>
+    <Low>34.6212</Low>
+    <Close>35.7645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-16</Date>
+    <Open>35.7825</Open>
+    <High>35.8477</High>
+    <Low>34.0269</Low>
+    <Close>34.7971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-17</Date>
+    <Open>34.6364</Open>
+    <High>35.3735</High>
+    <Low>34.1243</Low>
+    <Close>35.3335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-18</Date>
+    <Open>35.3335</Open>
+    <High>35.4</High>
+    <Low>34.29</Low>
+    <Close>34.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-19</Date>
+    <Open>34.3766</Open>
+    <High>35.3471</High>
+    <Low>32.55</Low>
+    <Close>35.207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-20</Date>
+    <Open>35.1735</Open>
+    <High>35.177</High>
+    <Low>33.5377</Low>
+    <Close>34.0284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-21</Date>
+    <Open>34.0234</Open>
+    <High>35.0035</High>
+    <Low>32.61</Low>
+    <Close>32.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-22</Date>
+    <Open>32.73</Open>
+    <High>35.1635</High>
+    <Low>32.2232</Low>
+    <Close>34.5569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-23</Date>
+    <Open>34.5284</Open>
+    <High>34.9339</High>
+    <Low>33.0367</Low>
+    <Close>34.2866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-24</Date>
+    <Open>34.2973</Open>
+    <High>34.4</High>
+    <Low>33.1683</Low>
+    <Close>33.5127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-25</Date>
+    <Open>33.4734</Open>
+    <High>34.8314</High>
+    <Low>33.2513</Low>
+    <Close>33.8197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-26</Date>
+    <Open>33.8003</Open>
+    <High>34.43</High>
+    <Low>32.9667</Low>
+    <Close>33.4467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-27</Date>
+    <Open>33.48</Open>
+    <High>34.64</High>
+    <Low>33.1</Low>
+    <Close>33.8166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-28</Date>
+    <Open>33.7966</Open>
+    <High>33.8466</High>
+    <Low>32.81</Low>
+    <Close>33.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-29</Date>
+    <Open>33.35</Open>
+    <High>33.94</High>
+    <Low>32.98</Low>
+    <Close>33.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-09-30</Date>
+    <Open>33.5233</Open>
+    <High>33.6833</High>
+    <Low>33.04</Low>
+    <Close>33.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-01</Date>
+    <Open>33.23</Open>
+    <High>33.51</High>
+    <Low>33.05</Low>
+    <Close>33.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-02</Date>
+    <Open>33.41</Open>
+    <High>33.4433</High>
+    <Low>32.93</Low>
+    <Close>33.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-03</Date>
+    <Open>33.06</Open>
+    <High>33.6549</High>
+    <Low>32.74</Low>
+    <Close>33.5153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-04</Date>
+    <Open>33.4506</Open>
+    <High>34.4182</High>
+    <Low>33.3853</Low>
+    <Close>34.3818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-05</Date>
+    <Open>34.4002</Open>
+    <High>34.787</High>
+    <Low>33.5533</Low>
+    <Close>34.3269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-06</Date>
+    <Open>34.2848</Open>
+    <High>34.6755</High>
+    <Low>33.7054</Low>
+    <Close>34.1874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-07</Date>
+    <Open>34.1575</Open>
+    <High>34.2043</High>
+    <Low>33.068</Low>
+    <Close>33.4885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-08</Date>
+    <Open>33.4869</Open>
+    <High>33.4933</High>
+    <Low>32.9039</Low>
+    <Close>33.1002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-09</Date>
+    <Open>33.0166</Open>
+    <High>33.2</High>
+    <Low>32.6733</Low>
+    <Close>32.7565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-10</Date>
+    <Open>32.7533</Open>
+    <High>32.9033</High>
+    <Low>31.8668</Low>
+    <Close>31.9893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-11</Date>
+    <Open>31.9598</Open>
+    <High>31.9598</High>
+    <Low>30.824</Low>
+    <Close>31.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-12</Date>
+    <Open>31.4443</Open>
+    <High>31.8831</High>
+    <Low>31.1287</Low>
+    <Close>31.6322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-13</Date>
+    <Open>31.6301</Open>
+    <High>32.0429</High>
+    <Low>30.0534</Low>
+    <Close>31.9883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-14</Date>
+    <Open>31.9809</Open>
+    <High>32.535</High>
+    <Low>31.1162</Low>
+    <Close>31.5398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-15</Date>
+    <Open>31.5534</Open>
+    <High>32.1499</High>
+    <Low>30.6654</Low>
+    <Close>31.8197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-16</Date>
+    <Open>31.8166</Open>
+    <High>32.2694</High>
+    <Low>31.574</Low>
+    <Close>31.7763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-17</Date>
+    <Open>31.6855</Open>
+    <High>32.0528</High>
+    <Low>31.1121</Low>
+    <Close>31.8699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-18</Date>
+    <Open>31.9072</Open>
+    <High>31.9072</High>
+    <Low>30.9344</Low>
+    <Close>31.4754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-19</Date>
+    <Open>31.4585</Open>
+    <High>31.8154</High>
+    <Low>30.8043</Low>
+    <Close>31.3251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-20</Date>
+    <Open>31.2132</Open>
+    <High>31.8062</High>
+    <Low>30.6845</Low>
+    <Close>30.9583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-21</Date>
+    <Open>31.0103</Open>
+    <High>31.5381</High>
+    <Low>30.4551</Low>
+    <Close>31.435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-22</Date>
+    <Open>31.3655</Open>
+    <High>31.5454</High>
+    <Low>30.7461</Low>
+    <Close>31.2071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-23</Date>
+    <Open>31.1522</Open>
+    <High>31.7755</High>
+    <Low>30.48</Low>
+    <Close>31.5174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-24</Date>
+    <Open>31.5555</Open>
+    <High>31.8248</High>
+    <Low>30.897</Low>
+    <Close>31.0693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-25</Date>
+    <Open>31.0682</Open>
+    <High>31.9963</High>
+    <Low>30.8604</Low>
+    <Close>31.6373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-26</Date>
+    <Open>31.6764</Open>
+    <High>32.1321</High>
+    <Low>31.3695</Low>
+    <Close>31.9167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-27</Date>
+    <Open>31.893</Open>
+    <High>32.0513</High>
+    <Low>31.1186</Low>
+    <Close>31.4492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-28</Date>
+    <Open>31.623</Open>
+    <High>31.6646</High>
+    <Low>30.8812</Low>
+    <Close>31.475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-29</Date>
+    <Open>31.4361</Open>
+    <High>35.0091</High>
+    <Low>31.1866</Low>
+    <Close>33.938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-30</Date>
+    <Open>33.9667</Open>
+    <High>35.1103</High>
+    <Low>32.301</Low>
+    <Close>32.7293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-10-31</Date>
+    <Open>32.6792</Open>
+    <High>32.844</High>
+    <Low>31.5383</Low>
+    <Close>32.4141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-01</Date>
+    <Open>32.431</Open>
+    <High>32.4945</High>
+    <Low>31.8952</Low>
+    <Close>32.2061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-02</Date>
+    <Open>32.2761</Open>
+    <High>32.2958</High>
+    <Low>30.9178</Low>
+    <Close>31.4781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-03</Date>
+    <Open>31.4781</Open>
+    <High>32.0662</High>
+    <Low>31.3775</Low>
+    <Close>31.6997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-04</Date>
+    <Open>31.71</Open>
+    <High>32.8526</High>
+    <Low>31.55</Low>
+    <Close>32.8023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-05</Date>
+    <Open>32.824</Open>
+    <High>34.7187</High>
+    <Low>32.4324</Low>
+    <Close>34.082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-06</Date>
+    <Open>34.001</Open>
+    <High>34.0317</High>
+    <Low>32.5687</Low>
+    <Close>32.892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-07</Date>
+    <Open>32.8826</Open>
+    <High>33.1927</High>
+    <Low>31.8222</Low>
+    <Close>31.9538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-08</Date>
+    <Open>31.9496</Open>
+    <High>32.36</High>
+    <Low>26.7989</Low>
+    <Close>31.1656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-09</Date>
+    <Open>31.0065</Open>
+    <High>31.8644</High>
+    <Low>28.1586</Low>
+    <Close>29.7161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-10</Date>
+    <Open>29.8184</Open>
+    <High>34.8092</High>
+    <Low>29.2887</Low>
+    <Close>32.2726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-11</Date>
+    <Open>32.2553</Open>
+    <High>37.4112</High>
+    <Low>30.4797</Low>
+    <Close>30.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-12</Date>
+    <Open>30.7231</Open>
+    <High>31.4258</High>
+    <Low>30.4351</Low>
+    <Close>30.8943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-13</Date>
+    <Open>30.8843</Open>
+    <High>31.4622</High>
+    <Low>29.6074</Low>
+    <Close>30.9366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-14</Date>
+    <Open>30.9628</Open>
+    <High>31.5857</High>
+    <Low>29.7423</Low>
+    <Close>30.9036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-15</Date>
+    <Open>30.9934</Open>
+    <High>31.3897</High>
+    <Low>30.4795</Low>
+    <Close>30.7692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-16</Date>
+    <Open>30.6834</Open>
+    <High>31.1997</High>
+    <Low>30.2906</Low>
+    <Close>31.0314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-17</Date>
+    <Open>31.0317</Open>
+    <High>31.2565</High>
+    <Low>30.5007</Low>
+    <Close>30.9858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-18</Date>
+    <Open>30.9465</Open>
+    <High>31.0539</High>
+    <Low>30.0747</Low>
+    <Close>30.7743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-19</Date>
+    <Open>30.7746</Open>
+    <High>30.8663</High>
+    <Low>30.0163</Low>
+    <Close>30.8079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-20</Date>
+    <Open>30.7876</Open>
+    <High>30.8642</High>
+    <Low>30.0702</Low>
+    <Close>30.2642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-21</Date>
+    <Open>30.2933</Open>
+    <High>30.9456</High>
+    <Low>29.7888</Low>
+    <Close>30.2933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-22</Date>
+    <Open>30.2736</Open>
+    <High>30.4525</High>
+    <Low>29.3859</Low>
+    <Close>30.4228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-23</Date>
+    <Open>30.4528</Open>
+    <High>30.7165</High>
+    <Low>29.8344</Low>
+    <Close>30.5667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-24</Date>
+    <Open>30.6641</Open>
+    <High>30.8765</High>
+    <Low>30.224</Low>
+    <Close>30.6642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-25</Date>
+    <Open>30.6542</Open>
+    <High>30.7789</High>
+    <Low>30.2282</Low>
+    <Close>30.5429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-26</Date>
+    <Open>30.512</Open>
+    <High>31.0492</High>
+    <Low>30.512</Low>
+    <Close>30.7818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-27</Date>
+    <Open>30.8018</Open>
+    <High>31.2213</High>
+    <Low>30.571</Low>
+    <Close>30.9205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-28</Date>
+    <Open>30.9302</Open>
+    <High>30.9505</High>
+    <Low>29.6843</Low>
+    <Close>30.5081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-29</Date>
+    <Open>30.5381</Open>
+    <High>30.7534</High>
+    <Low>30.327</Low>
+    <Close>30.6986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-11-30</Date>
+    <Open>30.7186</Open>
+    <High>31.4972</High>
+    <Low>30.6276</Low>
+    <Close>31.4216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-01</Date>
+    <Open>31.4319</Open>
+    <High>31.9006</High>
+    <Low>31.0009</Low>
+    <Close>31.1219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-02</Date>
+    <Open>31.1319</Open>
+    <High>31.2331</High>
+    <Low>30.7034</Low>
+    <Close>31.1719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-03</Date>
+    <Open>31.2019</Open>
+    <High>31.2328</High>
+    <Low>30.7231</Low>
+    <Close>30.9631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-04</Date>
+    <Open>30.9662</Open>
+    <High>31.99</High>
+    <Low>30.8531</Low>
+    <Close>31.8932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-05</Date>
+    <Open>31.9764</Open>
+    <High>31.9764</High>
+    <Low>31.2619</Low>
+    <Close>31.611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-06</Date>
+    <Open>31.6006</Open>
+    <High>31.7803</High>
+    <Low>31.3209</Low>
+    <Close>31.3829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-07</Date>
+    <Open>31.4464</Open>
+    <High>31.5381</High>
+    <Low>30.8822</Low>
+    <Close>31.0125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-08</Date>
+    <Open>31.0523</Open>
+    <High>31.744</High>
+    <Low>30.8886</Low>
+    <Close>31.577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-09</Date>
+    <Open>31.5614</Open>
+    <High>32.5103</High>
+    <Low>31.2982</Low>
+    <Close>31.8016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-10</Date>
+    <Open>31.7456</Open>
+    <High>32.2075</High>
+    <Low>31.4075</Low>
+    <Close>31.7997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-11</Date>
+    <Open>31.8264</Open>
+    <High>31.8546</High>
+    <Low>31.4746</Low>
+    <Close>31.6709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-12</Date>
+    <Open>31.7201</Open>
+    <High>32.1423</High>
+    <Low>31.3781</Low>
+    <Close>32.0842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-13</Date>
+    <Open>32.0677</Open>
+    <High>32.3031</High>
+    <Low>31.468</Low>
+    <Close>32.1109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-14</Date>
+    <Open>32.0813</Open>
+    <High>32.6993</High>
+    <Low>31.8429</Low>
+    <Close>32.0422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-15</Date>
+    <Open>32.1299</Open>
+    <High>32.1299</High>
+    <Low>31.4131</Low>
+    <Close>31.5763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-16</Date>
+    <Open>31.6063</Open>
+    <High>31.672</High>
+    <Low>30.3061</Low>
+    <Close>30.5331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-17</Date>
+    <Open>30.5661</Open>
+    <High>31.0931</High>
+    <Low>29.3615</Low>
+    <Close>30.904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-18</Date>
+    <Open>30.914</Open>
+    <High>30.944</High>
+    <Low>30.554</Low>
+    <Close>30.5837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-19</Date>
+    <Open>30.656</Open>
+    <High>30.7625</High>
+    <Low>29.7642</Low>
+    <Close>30.2203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-20</Date>
+    <Open>30.24</Open>
+    <High>30.4118</High>
+    <Low>29.9497</Low>
+    <Close>30.3812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-21</Date>
+    <Open>30.3412</Open>
+    <High>30.4612</High>
+    <Low>29.9897</Low>
+    <Close>30.1715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-22</Date>
+    <Open>30.1812</Open>
+    <High>30.8797</High>
+    <Low>29.647</Low>
+    <Close>30.0749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-23</Date>
+    <Open>30.0949</Open>
+    <High>30.1885</High>
+    <Low>29.9061</Low>
+    <Close>29.9967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-24</Date>
+    <Open>29.9979</Open>
+    <High>30.0582</High>
+    <Low>29.817</Low>
+    <Close>29.9982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-25</Date>
+    <Open>29.9782</Open>
+    <High>30.0582</High>
+    <Low>29.5965</Low>
+    <Close>29.7055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-26</Date>
+    <Open>29.7164</Open>
+    <High>29.874</High>
+    <Low>29.2539</Low>
+    <Close>29.7341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-27</Date>
+    <Open>29.7843</Open>
+    <High>29.834</High>
+    <Low>29.3241</Low>
+    <Close>29.5788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-28</Date>
+    <Open>29.627</Open>
+    <High>29.6378</High>
+    <Low>28.7914</Low>
+    <Close>29.0243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-29</Date>
+    <Open>28.9946</Open>
+    <High>29.1148</High>
+    <Low>27.9585</Low>
+    <Close>28.1073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-30</Date>
+    <Open>28.1173</Open>
+    <High>28.7859</High>
+    <Low>27.416</Low>
+    <Close>28.2056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2022-12-31</Date>
+    <Open>28.3056</Open>
+    <High>28.9264</High>
+    <Low>27.6259</Low>
+    <Close>28.7056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-01</Date>
+    <Open>28.7656</Open>
+    <High>28.7756</High>
+    <Low>28.0951</Low>
+    <Close>28.5269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-02</Date>
+    <Open>28.5769</Open>
+    <High>29.3397</High>
+    <Low>28.1282</Low>
+    <Close>29.1707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-03</Date>
+    <Open>29.2409</Open>
+    <High>29.2983</High>
+    <Low>28.7705</Low>
+    <Close>29.1889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-04</Date>
+    <Open>29.1686</Open>
+    <High>30.1373</High>
+    <Low>28.9381</Low>
+    <Close>29.8801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-05</Date>
+    <Open>29.8701</Open>
+    <High>30.0307</High>
+    <Low>29.268</Low>
+    <Close>29.5993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-06</Date>
+    <Open>29.6922</Open>
+    <High>29.7055</High>
+    <Low>28.9886</Low>
+    <Close>29.6296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-07</Date>
+    <Open>29.6034</Open>
+    <High>29.7156</High>
+    <Low>29.191</Low>
+    <Close>29.4429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-08</Date>
+    <Open>29.5406</Open>
+    <High>30.074</High>
+    <Low>28.9871</Low>
+    <Close>29.7952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-09</Date>
+    <Open>29.8143</Open>
+    <High>30.5394</High>
+    <Low>29.5065</Low>
+    <Close>30.2797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-10</Date>
+    <Open>30.2397</Open>
+    <High>31.2091</High>
+    <Low>29.7076</Low>
+    <Close>30.8943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-11</Date>
+    <Open>30.9786</Open>
+    <High>32.1606</High>
+    <Low>30.5188</Low>
+    <Close>32.0397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-12</Date>
+    <Open>31.9668</Open>
+    <High>32.8739</High>
+    <Low>31.6262</Low>
+    <Close>32.4236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-13</Date>
+    <Open>32.4132</Open>
+    <High>33.0046</High>
+    <Low>32.2032</Low>
+    <Close>32.903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-14</Date>
+    <Open>32.953</Open>
+    <High>38.3834</High>
+    <Low>32.8136</Low>
+    <Close>37.7919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-15</Date>
+    <Open>37.8019</Open>
+    <High>37.9123</High>
+    <Low>34.9428</Low>
+    <Close>35.6307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-16</Date>
+    <Open>35.6003</Open>
+    <High>36.4213</High>
+    <Low>33.5017</Low>
+    <Close>35.3607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-17</Date>
+    <Open>35.3211</Open>
+    <High>37.4753</High>
+    <Low>34.4517</Low>
+    <Close>36.484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-18</Date>
+    <Open>36.5237</Open>
+    <High>36.704</High>
+    <Low>34.5872</Low>
+    <Close>36.0278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-19</Date>
+    <Open>36.1078</Open>
+    <High>41.4688</High>
+    <Low>35.8093</Low>
+    <Close>40.5388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-20</Date>
+    <Open>40.4024</Open>
+    <High>46.2174</High>
+    <Low>39.12</Low>
+    <Close>45.8978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-21</Date>
+    <Open>45.7482</Open>
+    <High>47.9072</High>
+    <Low>43.3143</Low>
+    <Close>46.6693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-22</Date>
+    <Open>46.687</Open>
+    <High>47.0785</High>
+    <Low>44.4484</Low>
+    <Close>45.9687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-23</Date>
+    <Open>45.9387</Open>
+    <High>46.0788</High>
+    <Low>44.0953</Low>
+    <Close>44.9072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-24</Date>
+    <Open>44.9072</Open>
+    <High>45.785</High>
+    <Low>44.7172</Low>
+    <Close>45.0418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-25</Date>
+    <Open>45.0614</Open>
+    <High>47.509</High>
+    <Low>44.2949</Low>
+    <Close>46.6075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-26</Date>
+    <Open>46.5879</Open>
+    <High>48.0091</High>
+    <Low>45.3409</Low>
+    <Close>46.7542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-27</Date>
+    <Open>46.7237</Open>
+    <High>47.9977</High>
+    <Low>45.7191</Low>
+    <Close>46.3227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-28</Date>
+    <Open>46.3162</Open>
+    <High>47.1985</High>
+    <Low>45.7601</Low>
+    <Close>46.2888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-29</Date>
+    <Open>46.2593</Open>
+    <High>47.7072</High>
+    <Low>45.6819</Low>
+    <Close>47.3224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-30</Date>
+    <Open>47.3919</Open>
+    <High>47.7029</High>
+    <Low>44.1326</Low>
+    <Close>44.4331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-01-31</Date>
+    <Open>44.4127</Open>
+    <High>45.6823</High>
+    <Low>42.9966</Low>
+    <Close>45.3441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-01</Date>
+    <Open>45.3041</Open>
+    <High>46.0351</High>
+    <Low>42.9021</Low>
+    <Close>45.5027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-02</Date>
+    <Open>45.5327</Open>
+    <High>46.0032</High>
+    <Low>44.5594</Low>
+    <Close>44.9585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-03</Date>
+    <Open>45.0195</Open>
+    <High>45.3573</High>
+    <Low>43.944</Low>
+    <Close>44.9836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-04</Date>
+    <Open>44.9836</Open>
+    <High>45.5955</High>
+    <Low>44.7431</Low>
+    <Close>45.2841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-05</Date>
+    <Open>45.2536</Open>
+    <High>45.2536</High>
+    <Low>42.5915</Low>
+    <Close>43.6909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-06</Date>
+    <Open>43.6113</Open>
+    <High>43.6614</High>
+    <Low>42.0987</Low>
+    <Close>42.4113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-07</Date>
+    <Open>42.3217</Open>
+    <High>42.8696</High>
+    <Low>41.0196</Low>
+    <Close>42.5826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-08</Date>
+    <Open>42.5425</Open>
+    <High>43.2239</High>
+    <Low>41.08</Low>
+    <Close>41.8433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-09</Date>
+    <Open>41.8733</Open>
+    <High>42.1696</High>
+    <Low>38.8297</Low>
+    <Close>38.9039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-10</Date>
+    <Open>38.9735</Open>
+    <High>40.3628</High>
+    <Low>38.8297</Low>
+    <Close>40.056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-11</Date>
+    <Open>40.046</Open>
+    <High>42.1046</High>
+    <Low>39.8052</Low>
+    <Close>41.8738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-12</Date>
+    <Open>41.9542</Open>
+    <High>42.7921</High>
+    <Low>40.9157</Low>
+    <Close>41.7333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-13</Date>
+    <Open>41.7042</Open>
+    <High>41.7971</High>
+    <Low>40.1586</Low>
+    <Close>41.3723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-14</Date>
+    <Open>41.3627</Open>
+    <High>41.8005</High>
+    <Low>40.1857</Low>
+    <Close>41.2057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-15</Date>
+    <Open>41.1669</Open>
+    <High>43.757</High>
+    <Low>40.5022</Low>
+    <Close>43.3278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-16</Date>
+    <Open>43.2478</Open>
+    <High>44.004</High>
+    <Low>42.0976</Low>
+    <Close>42.5336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-17</Date>
+    <Open>42.4955</Open>
+    <High>43.6957</High>
+    <Low>41.615</Low>
+    <Close>43.2143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-18</Date>
+    <Open>43.2761</Open>
+    <High>45.881</High>
+    <Low>42.7273</Low>
+    <Close>45.2777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-19</Date>
+    <Open>45.2572</Open>
+    <High>45.7078</High>
+    <Low>43.2321</Low>
+    <Close>44.3598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-20</Date>
+    <Open>44.3289</Open>
+    <High>44.5062</High>
+    <Low>43.0482</Low>
+    <Close>44.4918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-21</Date>
+    <Open>44.4631</Open>
+    <High>45.6373</High>
+    <Low>43.3439</Low>
+    <Close>43.7079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-22</Date>
+    <Open>43.5974</Open>
+    <High>44.1148</High>
+    <Low>41.2254</Low>
+    <Close>42.7004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-23</Date>
+    <Open>42.7913</Open>
+    <High>42.9639</High>
+    <Low>40.374</Low>
+    <Close>41.1853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-24</Date>
+    <Open>41.2566</Open>
+    <High>41.4583</High>
+    <Low>38.6939</Low>
+    <Close>38.9496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-25</Date>
+    <Open>39.15</Open>
+    <High>39.94</High>
+    <Low>37.7168</Low>
+    <Close>38.0623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-26</Date>
+    <Open>38.0127</Open>
+    <High>40.7528</High>
+    <Low>38.0027</Low>
+    <Close>39.644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-27</Date>
+    <Open>39.602</Open>
+    <High>40.6224</High>
+    <Low>38.9747</Low>
+    <Close>39.862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-02-28</Date>
+    <Open>40.052</Open>
+    <High>40.08</High>
+    <Low>38.0699</Low>
+    <Close>38.2284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-01</Date>
+    <Open>38.1776</Open>
+    <High>39.3635</High>
+    <Low>37.6553</Low>
+    <Close>38.7747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-02</Date>
+    <Open>38.8658</Open>
+    <High>39.3808</High>
+    <Low>38.3185</Low>
+    <Close>39.2335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-03</Date>
+    <Open>39.2308</Open>
+    <High>39.3031</High>
+    <Low>36.7022</Low>
+    <Close>36.9526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-04</Date>
+    <Open>36.9826</Open>
+    <High>37.5219</High>
+    <Low>36.0018</Low>
+    <Close>36.3325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-05</Date>
+    <Open>36.3229</Open>
+    <High>37.4834</High>
+    <Low>36.1614</Low>
+    <Close>36.7344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-06</Date>
+    <Open>36.7544</Open>
+    <High>37.0044</High>
+    <Low>35.8704</Low>
+    <Close>36.4978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-07</Date>
+    <Open>36.456</Open>
+    <High>36.4578</High>
+    <Low>35.6746</Low>
+    <Close>36.0307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-08</Date>
+    <Open>36.0196</Open>
+    <High>37.0078</High>
+    <Low>35.1082</Low>
+    <Close>35.2186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-09</Date>
+    <Open>35.0979</Open>
+    <High>35.961</High>
+    <Low>33.9522</Low>
+    <Close>35.2632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-10</Date>
+    <Open>35.2035</Open>
+    <High>35.6914</High>
+    <Low>33.1474</Low>
+    <Close>35.3199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-11</Date>
+    <Open>35.3167</Open>
+    <High>36.7326</High>
+    <Low>34.5992</Low>
+    <Close>36.1495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-12</Date>
+    <Open>36.2556</Open>
+    <High>38.6476</High>
+    <Low>35.8362</Low>
+    <Close>37.8513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-13</Date>
+    <Open>37.9078</Open>
+    <High>39.6532</High>
+    <Low>36.7587</Low>
+    <Close>39.0954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-14</Date>
+    <Open>38.883</Open>
+    <High>40.5935</High>
+    <Low>37.7821</Low>
+    <Close>39.1749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-15</Date>
+    <Open>39.2109</Open>
+    <High>39.3373</High>
+    <Low>36.1991</Low>
+    <Close>37.1454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-16</Date>
+    <Open>37.1048</Open>
+    <High>37.6999</High>
+    <Low>36.5712</Low>
+    <Close>37.6825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-17</Date>
+    <Open>37.7122</Open>
+    <High>39.6469</High>
+    <Low>37.4393</Low>
+    <Close>39.3577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-18</Date>
+    <Open>39.4376</Open>
+    <High>40.1622</High>
+    <Low>38.1243</Low>
+    <Close>38.1638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-19</Date>
+    <Open>38.2039</Open>
+    <High>39.8615</High>
+    <Low>37.6578</Low>
+    <Close>39.1868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-20</Date>
+    <Open>39.2378</Open>
+    <High>39.52</High>
+    <Low>37.2231</Low>
+    <Close>37.9082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-21</Date>
+    <Open>37.9279</Open>
+    <High>39.0449</High>
+    <Low>37.0886</Low>
+    <Close>38.7733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-22</Date>
+    <Open>38.8034</Open>
+    <High>38.9893</High>
+    <Low>36.6961</Low>
+    <Close>37.7431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-23</Date>
+    <Open>37.7955</Open>
+    <High>38.6448</High>
+    <Low>37.0917</Low>
+    <Close>38.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-24</Date>
+    <Open>38.4005</Open>
+    <High>38.5223</High>
+    <Low>36.7096</Low>
+    <Close>37.4686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-25</Date>
+    <Open>37.4423</Open>
+    <High>38.4781</High>
+    <Low>37.4222</Low>
+    <Close>37.7762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-26</Date>
+    <Open>37.7666</Open>
+    <High>38.6536</High>
+    <Low>37.5541</Low>
+    <Close>38.6036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-27</Date>
+    <Open>38.6136</Open>
+    <High>38.8427</High>
+    <Low>36.974</Low>
+    <Close>37.3776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-28</Date>
+    <Open>37.3579</Open>
+    <High>38.2303</High>
+    <Low>36.3913</Low>
+    <Close>38.0545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-29</Date>
+    <Open>38.0148</Open>
+    <High>38.8227</High>
+    <Low>37.6039</Low>
+    <Close>38.7374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-30</Date>
+    <Open>38.8016</Open>
+    <High>39.1043</High>
+    <Low>37.9029</Low>
+    <Close>38.8809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-03-31</Date>
+    <Open>38.9205</Open>
+    <High>39.4603</High>
+    <Low>38.173</Low>
+    <Close>39.0282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-01</Date>
+    <Open>38.9848</Open>
+    <High>39.2647</High>
+    <Low>37.9391</Low>
+    <Close>38.5943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-02</Date>
+    <Open>38.5342</Open>
+    <High>38.6162</High>
+    <Low>37.9562</Low>
+    <Close>38.1436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-03</Date>
+    <Open>38.1637</Open>
+    <High>38.4215</High>
+    <Low>37.4138</Low>
+    <Close>37.994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-04</Date>
+    <Open>37.9452</Open>
+    <High>38.3369</High>
+    <Low>37.8259</Low>
+    <Close>38.2495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-05</Date>
+    <Open>38.2395</Open>
+    <High>38.5847</High>
+    <Low>37.9359</Low>
+    <Close>38.4038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-06</Date>
+    <Open>38.4142</Open>
+    <High>38.4142</High>
+    <Low>37.5688</Low>
+    <Close>38.0129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-07</Date>
+    <Open>37.9837</Open>
+    <High>38.1187</High>
+    <Low>37.2682</Low>
+    <Close>37.9881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-08</Date>
+    <Open>37.9481</Open>
+    <High>39.2743</High>
+    <Low>37.7185</Low>
+    <Close>38.605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-09</Date>
+    <Open>38.5154</Open>
+    <High>38.5831</High>
+    <Low>37.888</Low>
+    <Close>38.3222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-10</Date>
+    <Open>38.3768</Open>
+    <High>38.3946</High>
+    <Low>37.4999</Low>
+    <Close>38.1902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-11</Date>
+    <Open>38.1409</Open>
+    <High>38.7344</High>
+    <Low>38.0881</Low>
+    <Close>38.6082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-12</Date>
+    <Open>38.6182</Open>
+    <High>40.0124</High>
+    <Low>37.8174</Low>
+    <Close>39.741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-13</Date>
+    <Open>39.751</Open>
+    <High>40.0096</High>
+    <Low>39.0883</Low>
+    <Close>39.8382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-14</Date>
+    <Open>39.7761</Open>
+    <High>48.8771</High>
+    <Low>39.6592</Low>
+    <Close>47.5494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-15</Date>
+    <Open>47.3583</Open>
+    <High>47.4579</High>
+    <Low>45.2925</Low>
+    <Close>46.4217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-16</Date>
+    <Open>46.2812</Open>
+    <High>46.5714</High>
+    <Low>44.4524</Low>
+    <Close>45.2917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-17</Date>
+    <Open>45.3508</Open>
+    <High>45.4613</High>
+    <Low>42.649</Low>
+    <Close>43.8789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-18</Date>
+    <Open>43.8054</Open>
+    <High>44.7548</High>
+    <Low>43.115</Low>
+    <Close>43.7383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-19</Date>
+    <Open>43.6983</Open>
+    <High>44.1019</High>
+    <Low>41.6229</Low>
+    <Close>42.7435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-20</Date>
+    <Open>42.653</Open>
+    <High>43.006</High>
+    <Low>41.1104</Low>
+    <Close>41.7058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-21</Date>
+    <Open>41.6929</Open>
+    <High>42.4557</High>
+    <Low>40.426</Low>
+    <Close>40.8555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-22</Date>
+    <Open>40.7651</Open>
+    <High>43.0326</High>
+    <Low>39.9404</Low>
+    <Close>42.4943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-23</Date>
+    <Open>42.4838</Open>
+    <High>42.6943</High>
+    <Low>41.159</Low>
+    <Close>41.6021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-24</Date>
+    <Open>41.5808</Open>
+    <High>42.0275</High>
+    <Low>40.9012</Low>
+    <Close>40.9608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-25</Date>
+    <Open>40.9712</Open>
+    <High>41.8959</High>
+    <Low>39.8624</Low>
+    <Close>41.7596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-26</Date>
+    <Open>41.8696</Open>
+    <High>42.2547</High>
+    <Low>39.8088</Low>
+    <Close>41.1444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-27</Date>
+    <Open>41.1432</Open>
+    <High>41.6512</High>
+    <Low>40.3845</Low>
+    <Close>41.1536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-28</Date>
+    <Open>41.1636</Open>
+    <High>41.7571</High>
+    <Low>40.8184</Low>
+    <Close>41.5023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-29</Date>
+    <Open>41.421</Open>
+    <High>41.7592</High>
+    <Low>41.0404</Low>
+    <Close>41.5341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-04-30</Date>
+    <Open>41.5445</Open>
+    <High>41.7129</High>
+    <Low>40.5839</Low>
+    <Close>41.0029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-01</Date>
+    <Open>41.0125</Open>
+    <High>41.0664</High>
+    <Low>38.1415</Low>
+    <Close>38.3704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-02</Date>
+    <Open>38.45</Open>
+    <High>39.6846</High>
+    <Low>38.4196</Low>
+    <Close>39.6742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-03</Date>
+    <Open>39.6846</Open>
+    <High>39.7699</High>
+    <Low>38.5015</Low>
+    <Close>39.6107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-04</Date>
+    <Open>39.6191</Open>
+    <High>39.8672</High>
+    <Low>37.9067</Low>
+    <Close>38.2141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-05</Date>
+    <Open>38.1837</Open>
+    <High>38.4665</High>
+    <Low>37.6358</Low>
+    <Close>38.3248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-06</Date>
+    <Open>38.2057</Open>
+    <High>38.6143</High>
+    <Low>37.0576</Low>
+    <Close>37.3162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-07</Date>
+    <Open>37.5592</Open>
+    <High>37.6256</High>
+    <Low>36.7289</Low>
+    <Close>36.758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-08</Date>
+    <Open>36.803</Open>
+    <High>41.5286</High>
+    <Low>36.0539</Low>
+    <Close>38.2294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-09</Date>
+    <Open>38.2691</Open>
+    <High>39.1128</High>
+    <Low>37.6113</Low>
+    <Close>38.5424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-10</Date>
+    <Open>38.4793</Open>
+    <High>39.1359</High>
+    <Low>37.7562</Low>
+    <Close>38.2182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-11</Date>
+    <Open>38.1291</Open>
+    <High>38.4024</High>
+    <Low>36.6039</Low>
+    <Close>37.3496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-12</Date>
+    <Open>37.3553</Open>
+    <High>37.7609</High>
+    <Low>36.3972</Low>
+    <Close>37.2848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-13</Date>
+    <Open>37.1827</Open>
+    <High>37.3772</High>
+    <Low>36.3418</Low>
+    <Close>36.5809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-14</Date>
+    <Open>36.5743</Open>
+    <High>36.9995</High>
+    <Low>36.3282</Low>
+    <Close>36.626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-15</Date>
+    <Open>36.693</Open>
+    <High>37.11</High>
+    <Low>36.5526</Low>
+    <Close>36.7647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-16</Date>
+    <Open>36.7901</Open>
+    <High>36.8441</High>
+    <Low>36.1144</Low>
+    <Close>36.5256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-17</Date>
+    <Open>36.5663</Open>
+    <High>36.8784</High>
+    <Low>36.0544</Low>
+    <Close>36.5803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-18</Date>
+    <Open>36.6353</Open>
+    <High>36.7447</High>
+    <Low>36.1775</Low>
+    <Close>36.4306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-19</Date>
+    <Open>36.4586</Open>
+    <High>36.4804</High>
+    <Low>36.054</Low>
+    <Close>36.0878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-20</Date>
+    <Open>36.069</Open>
+    <High>36.3181</High>
+    <Low>35.6635</Low>
+    <Close>35.9663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-21</Date>
+    <Open>36.056</Open>
+    <High>36.056</High>
+    <Low>35.3013</Low>
+    <Close>35.4336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-22</Date>
+    <Open>35.4336</Open>
+    <High>35.5036</High>
+    <Low>34.8808</Low>
+    <Close>35.039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-23</Date>
+    <Open>35.0257</Open>
+    <High>35.5392</High>
+    <Low>35.0247</Low>
+    <Close>35.3356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-24</Date>
+    <Open>35.3223</Open>
+    <High>35.6738</High>
+    <Low>34.0051</Low>
+    <Close>34.8162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-25</Date>
+    <Open>34.7135</Open>
+    <High>34.9697</High>
+    <Low>33.9993</Low>
+    <Close>34.2585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-26</Date>
+    <Open>34.2497</Open>
+    <High>34.7264</High>
+    <Low>33.7747</Low>
+    <Close>34.5565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-27</Date>
+    <Open>34.5529</Open>
+    <High>34.9032</High>
+    <Low>34.1921</Low>
+    <Close>34.4817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="XCH">
+    <Date>2023-05-28</Date>
+    <Open>34.4894</Open>
+    <High>35.106</High>
+    <Low>34.4368</Low>
+    <Close>34.9956</Close>
+  </Cryptocurrency>
+</Root>

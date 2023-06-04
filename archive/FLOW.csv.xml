@@ -1,0 +1,5967 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-01-28</Date>
+    <Open>6.55</Open>
+    <High>7.94</High>
+    <Low>6.011</Low>
+    <Close>7.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-01-29</Date>
+    <Open>7.0</Open>
+    <High>7.295</High>
+    <Low>6.228</Low>
+    <Close>6.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-01-30</Date>
+    <Open>6.25</Open>
+    <High>9.361</High>
+    <Low>6.21</Low>
+    <Close>9.023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-01-31</Date>
+    <Open>9.023</Open>
+    <High>12.21</High>
+    <Low>8.526</Low>
+    <Close>9.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-01</Date>
+    <Open>9.74</Open>
+    <High>12.1</High>
+    <Low>9.64</Low>
+    <Close>9.835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-02</Date>
+    <Open>9.835</Open>
+    <High>11.64</High>
+    <Low>8.8</Low>
+    <Close>9.383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-03</Date>
+    <Open>9.383</Open>
+    <High>9.601</High>
+    <Low>8.789</Low>
+    <Close>8.789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-04</Date>
+    <Open>8.789</Open>
+    <High>9.025</High>
+    <Low>7.931</Low>
+    <Close>8.694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-05</Date>
+    <Open>8.694</Open>
+    <High>10.99</High>
+    <Low>8.588</Low>
+    <Close>10.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-06</Date>
+    <Open>10.79</Open>
+    <High>11.0</High>
+    <Low>9.611</Low>
+    <Close>10.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-07</Date>
+    <Open>10.44</Open>
+    <High>10.66</High>
+    <Low>9.917</Low>
+    <Close>10.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-08</Date>
+    <Open>10.09</Open>
+    <High>10.67</High>
+    <Low>9.9</Low>
+    <Close>10.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-09</Date>
+    <Open>10.08</Open>
+    <High>11.37</High>
+    <Low>10.05</Low>
+    <Close>11.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-10</Date>
+    <Open>11.36</Open>
+    <High>12.0</High>
+    <Low>11.1</Low>
+    <Close>11.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-11</Date>
+    <Open>11.42</Open>
+    <High>12.66</High>
+    <Low>11.41</Low>
+    <Close>12.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-12</Date>
+    <Open>12.66</Open>
+    <High>15.0</High>
+    <Low>12.66</Low>
+    <Close>14.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-13</Date>
+    <Open>14.68</Open>
+    <High>15.18</High>
+    <Low>13.9</Low>
+    <Close>14.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-14</Date>
+    <Open>14.77</Open>
+    <High>18.74</High>
+    <Low>14.38</Low>
+    <Close>17.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-15</Date>
+    <Open>17.87</Open>
+    <High>20.17</High>
+    <Low>16.2</Low>
+    <Close>19.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-16</Date>
+    <Open>19.2</Open>
+    <High>19.39</High>
+    <Low>17.33</Low>
+    <Close>19.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-17</Date>
+    <Open>19.18</Open>
+    <High>19.55</High>
+    <Low>16.83</Low>
+    <Close>17.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-18</Date>
+    <Open>17.23</Open>
+    <High>19.79</High>
+    <Low>17.14</Low>
+    <Close>19.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-19</Date>
+    <Open>19.12</Open>
+    <High>19.15</High>
+    <Low>18.42</Low>
+    <Close>18.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-20</Date>
+    <Open>18.82</Open>
+    <High>19.0</High>
+    <Low>18.31</Low>
+    <Close>18.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-21</Date>
+    <Open>18.74</Open>
+    <High>30.0</High>
+    <Low>18.56</Low>
+    <Close>21.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-22</Date>
+    <Open>21.9</Open>
+    <High>23.3</High>
+    <Low>18.5</Low>
+    <Close>22.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-23</Date>
+    <Open>22.63</Open>
+    <High>23.8</High>
+    <Low>18.65</Low>
+    <Close>21.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-24</Date>
+    <Open>21.41</Open>
+    <High>23.0</High>
+    <Low>19.9</Low>
+    <Close>20.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-25</Date>
+    <Open>20.94</Open>
+    <High>21.91</High>
+    <Low>19.42</Low>
+    <Close>20.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-26</Date>
+    <Open>20.33</Open>
+    <High>20.69</High>
+    <Low>18.38</Low>
+    <Close>19.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-27</Date>
+    <Open>19.87</Open>
+    <High>21.3</High>
+    <Low>19.41</Low>
+    <Close>20.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-02-28</Date>
+    <Open>20.54</Open>
+    <High>22.0</High>
+    <Low>19.27</Low>
+    <Close>20.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-01</Date>
+    <Open>20.86</Open>
+    <High>30.0</High>
+    <Low>20.85</Low>
+    <Close>28.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-02</Date>
+    <Open>28.47</Open>
+    <High>30.2</High>
+    <Low>26.7</Low>
+    <Close>29.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-03</Date>
+    <Open>29.82</Open>
+    <High>38.0</High>
+    <Low>28.85</Low>
+    <Close>32.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-04</Date>
+    <Open>32.46</Open>
+    <High>41.28</High>
+    <Low>31.85</Low>
+    <Close>39.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-05</Date>
+    <Open>39.03</Open>
+    <High>39.43</High>
+    <Low>34.61</Low>
+    <Close>34.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-06</Date>
+    <Open>34.75</Open>
+    <High>35.46</High>
+    <Low>30.69</Low>
+    <Close>34.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-07</Date>
+    <Open>34.77</Open>
+    <High>36.5</High>
+    <Low>32.98</Low>
+    <Close>34.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-08</Date>
+    <Open>34.25</Open>
+    <High>35.74</High>
+    <Low>31.67</Low>
+    <Close>32.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-09</Date>
+    <Open>32.1</Open>
+    <High>38.41</High>
+    <Low>32.1</Low>
+    <Close>35.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-10</Date>
+    <Open>35.49</Open>
+    <High>35.59</High>
+    <Low>33.1</Low>
+    <Close>34.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-11</Date>
+    <Open>34.38</Open>
+    <High>34.38</High>
+    <Low>31.17</Low>
+    <Close>32.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-12</Date>
+    <Open>32.46</Open>
+    <High>35.29</High>
+    <Low>30.14</Low>
+    <Close>35.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-13</Date>
+    <Open>35.29</Open>
+    <High>39.02</High>
+    <Low>34.44</Low>
+    <Close>37.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-14</Date>
+    <Open>37.37</Open>
+    <High>37.62</High>
+    <Low>34.06</Low>
+    <Close>36.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-15</Date>
+    <Open>36.27</Open>
+    <High>37.18</High>
+    <Low>32.89</Low>
+    <Close>34.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-16</Date>
+    <Open>34.7</Open>
+    <High>34.81</High>
+    <Low>32.33</Low>
+    <Close>33.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-17</Date>
+    <Open>33.35</Open>
+    <High>34.0</High>
+    <Low>31.09</Low>
+    <Close>32.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-18</Date>
+    <Open>32.11</Open>
+    <High>32.84</High>
+    <Low>31.5</Low>
+    <Close>31.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-19</Date>
+    <Open>31.54</Open>
+    <High>32.7</High>
+    <Low>31.03</Low>
+    <Close>31.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-20</Date>
+    <Open>31.62</Open>
+    <High>32.4</High>
+    <Low>31.31</Low>
+    <Close>31.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-21</Date>
+    <Open>31.31</Open>
+    <High>31.6</High>
+    <Low>29.29</Low>
+    <Close>30.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-22</Date>
+    <Open>30.12</Open>
+    <High>30.13</High>
+    <Low>26.38</Low>
+    <Close>27.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-23</Date>
+    <Open>27.01</Open>
+    <High>28.16</High>
+    <Low>24.18</Low>
+    <Close>26.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-24</Date>
+    <Open>26.25</Open>
+    <High>28.7</High>
+    <Low>25.27</Low>
+    <Close>25.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-25</Date>
+    <Open>25.63</Open>
+    <High>26.29</High>
+    <Low>24.32</Low>
+    <Close>25.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-26</Date>
+    <Open>25.39</Open>
+    <High>33.01</High>
+    <Low>25.27</Low>
+    <Close>29.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-27</Date>
+    <Open>29.79</Open>
+    <High>30.33</High>
+    <Low>27.38</Low>
+    <Close>27.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-28</Date>
+    <Open>27.46</Open>
+    <High>30.68</High>
+    <Low>27.17</Low>
+    <Close>29.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-29</Date>
+    <Open>29.75</Open>
+    <High>33.62</High>
+    <Low>29.64</Low>
+    <Close>32.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-30</Date>
+    <Open>32.65</Open>
+    <High>34.53</High>
+    <Low>31.69</Low>
+    <Close>32.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-03-31</Date>
+    <Open>32.96</Open>
+    <High>36.38</High>
+    <Low>32.77</Low>
+    <Close>34.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-01</Date>
+    <Open>34.27</Open>
+    <High>34.63</High>
+    <Low>30.92</Low>
+    <Close>31.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-02</Date>
+    <Open>31.15</Open>
+    <High>32.32</High>
+    <Low>29.14</Low>
+    <Close>29.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-03</Date>
+    <Open>29.85</Open>
+    <High>32.81</High>
+    <Low>29.61</Low>
+    <Close>30.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-04</Date>
+    <Open>30.19</Open>
+    <High>36.0</High>
+    <Low>30.17</Low>
+    <Close>34.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-05</Date>
+    <Open>34.59</Open>
+    <High>44.11</High>
+    <Low>34.12</Low>
+    <Close>38.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-06</Date>
+    <Open>38.57</Open>
+    <High>38.89</High>
+    <Low>34.22</Low>
+    <Close>36.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-07</Date>
+    <Open>36.08</Open>
+    <High>39.21</High>
+    <Low>32.93</Low>
+    <Close>34.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-08</Date>
+    <Open>34.95</Open>
+    <High>35.73</High>
+    <Low>33.61</Low>
+    <Close>35.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-09</Date>
+    <Open>35.36</Open>
+    <High>36.46</High>
+    <Low>34.63</Low>
+    <Close>35.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-10</Date>
+    <Open>35.22</Open>
+    <High>36.59</High>
+    <Low>34.72</Low>
+    <Close>35.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-11</Date>
+    <Open>35.03</Open>
+    <High>35.37</High>
+    <Low>33.01</Low>
+    <Close>33.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-12</Date>
+    <Open>33.75</Open>
+    <High>39.12</High>
+    <Low>33.28</Low>
+    <Close>38.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-13</Date>
+    <Open>38.09</Open>
+    <High>39.23</High>
+    <Low>36.97</Low>
+    <Close>38.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-14</Date>
+    <Open>38.36</Open>
+    <High>38.79</High>
+    <Low>35.78</Low>
+    <Close>37.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-15</Date>
+    <Open>37.08</Open>
+    <High>38.7</High>
+    <Low>36.7</Low>
+    <Close>38.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-16</Date>
+    <Open>38.3</Open>
+    <High>38.48</High>
+    <Low>34.9</Low>
+    <Close>36.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-17</Date>
+    <Open>36.52</Open>
+    <High>36.54</High>
+    <Low>35.17</Low>
+    <Close>35.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-18</Date>
+    <Open>35.26</Open>
+    <High>36.05</High>
+    <Low>29.82</Low>
+    <Close>32.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-19</Date>
+    <Open>32.36</Open>
+    <High>33.95</High>
+    <Low>31.18</Low>
+    <Close>32.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-20</Date>
+    <Open>32.24</Open>
+    <High>34.58</High>
+    <Low>29.6</Low>
+    <Close>34.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-21</Date>
+    <Open>34.15</Open>
+    <High>35.03</High>
+    <Low>33.21</Low>
+    <Close>33.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-22</Date>
+    <Open>33.3</Open>
+    <High>33.82</High>
+    <Low>29.83</Low>
+    <Close>29.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-23</Date>
+    <Open>29.84</Open>
+    <High>30.16</High>
+    <Low>24.77</Low>
+    <Close>27.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-24</Date>
+    <Open>27.7</Open>
+    <High>29.13</High>
+    <Low>26.33</Low>
+    <Close>26.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-25</Date>
+    <Open>26.93</Open>
+    <High>28.51</High>
+    <Low>25.94</Low>
+    <Close>26.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-26</Date>
+    <Open>27.03</Open>
+    <High>30.48</High>
+    <Low>26.92</Low>
+    <Close>30.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-27</Date>
+    <Open>29.85</Open>
+    <High>33.3</High>
+    <Low>29.7</Low>
+    <Close>32.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-28</Date>
+    <Open>32.78</Open>
+    <High>33.4</High>
+    <Low>30.9</Low>
+    <Close>31.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-29</Date>
+    <Open>31.61</Open>
+    <High>31.61</High>
+    <Low>30.03</Low>
+    <Close>30.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-04-30</Date>
+    <Open>30.56</Open>
+    <High>31.33</High>
+    <Low>30.2</Low>
+    <Close>31.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-01</Date>
+    <Open>31.1</Open>
+    <High>31.55</High>
+    <Low>30.16</Low>
+    <Close>30.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-02</Date>
+    <Open>30.78</Open>
+    <High>30.9</High>
+    <Low>29.49</Low>
+    <Close>30.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-03</Date>
+    <Open>30.1</Open>
+    <High>31.61</High>
+    <Low>30.1</Low>
+    <Close>31.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-04</Date>
+    <Open>31.04</Open>
+    <High>36.65</High>
+    <Low>30.86</Low>
+    <Close>32.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-05</Date>
+    <Open>32.31</Open>
+    <High>33.32</High>
+    <Low>31.65</Low>
+    <Close>33.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-06</Date>
+    <Open>33.25</Open>
+    <High>33.28</High>
+    <Low>29.66</Low>
+    <Close>30.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-07</Date>
+    <Open>30.51</Open>
+    <High>30.62</High>
+    <Low>28.07</Low>
+    <Close>29.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-08</Date>
+    <Open>29.47</Open>
+    <High>31.28</High>
+    <Low>28.54</Low>
+    <Close>28.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-09</Date>
+    <Open>28.67</Open>
+    <High>28.84</High>
+    <Low>25.89</Low>
+    <Close>27.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-10</Date>
+    <Open>27.48</Open>
+    <High>28.78</High>
+    <Low>25.49</Low>
+    <Close>26.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-11</Date>
+    <Open>26.1</Open>
+    <High>27.55</High>
+    <Low>25.62</Low>
+    <Close>27.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-12</Date>
+    <Open>27.45</Open>
+    <High>28.2</High>
+    <Low>25.0</Low>
+    <Close>25.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-13</Date>
+    <Open>25.01</Open>
+    <High>25.21</High>
+    <Low>23.26</Low>
+    <Close>24.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-14</Date>
+    <Open>24.08</Open>
+    <High>25.51</High>
+    <Low>24.08</Low>
+    <Close>24.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-15</Date>
+    <Open>24.97</Open>
+    <High>26.19</High>
+    <Low>24.13</Low>
+    <Close>24.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-16</Date>
+    <Open>24.51</Open>
+    <High>25.52</High>
+    <Low>22.78</Low>
+    <Close>23.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-17</Date>
+    <Open>23.58</Open>
+    <High>24.02</High>
+    <Low>20.05</Low>
+    <Close>20.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-18</Date>
+    <Open>20.27</Open>
+    <High>22.05</High>
+    <Low>19.9</Low>
+    <Close>21.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-19</Date>
+    <Open>21.01</Open>
+    <High>21.17</High>
+    <Low>11.83</Low>
+    <Close>14.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-20</Date>
+    <Open>14.62</Open>
+    <High>16.56</High>
+    <Low>12.69</Low>
+    <Close>16.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-21</Date>
+    <Open>16.22</Open>
+    <High>17.76</High>
+    <Low>13.61</Low>
+    <Close>15.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-22</Date>
+    <Open>15.04</Open>
+    <High>15.1</High>
+    <Low>13.34</Low>
+    <Close>13.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-23</Date>
+    <Open>13.83</Open>
+    <High>14.14</High>
+    <Low>10.69</Low>
+    <Close>11.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-24</Date>
+    <Open>11.59</Open>
+    <High>13.65</High>
+    <Low>11.58</Low>
+    <Close>13.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-25</Date>
+    <Open>13.58</Open>
+    <High>16.78</High>
+    <Low>12.99</Low>
+    <Close>14.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-26</Date>
+    <Open>14.56</Open>
+    <High>16.2</High>
+    <Low>13.97</Low>
+    <Close>15.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-27</Date>
+    <Open>15.19</Open>
+    <High>15.28</High>
+    <Low>14.56</Low>
+    <Close>14.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-28</Date>
+    <Open>14.68</Open>
+    <High>14.83</High>
+    <Low>13.02</Low>
+    <Close>13.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-29</Date>
+    <Open>13.24</Open>
+    <High>14.83</High>
+    <Low>13.14</Low>
+    <Close>13.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-30</Date>
+    <Open>13.37</Open>
+    <High>13.6</High>
+    <Low>12.81</Low>
+    <Close>13.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-05-31</Date>
+    <Open>13.56</Open>
+    <High>13.95</High>
+    <Low>13.03</Low>
+    <Close>13.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-01</Date>
+    <Open>13.92</Open>
+    <High>13.94</High>
+    <Low>13.26</Low>
+    <Close>13.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-02</Date>
+    <Open>13.42</Open>
+    <High>14.53</High>
+    <Low>13.12</Low>
+    <Close>14.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-03</Date>
+    <Open>14.22</Open>
+    <High>15.25</High>
+    <Low>13.75</Low>
+    <Close>14.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-04</Date>
+    <Open>14.85</Open>
+    <High>16.18</High>
+    <Low>14.23</Low>
+    <Close>14.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-05</Date>
+    <Open>14.95</Open>
+    <High>15.59</High>
+    <Low>13.91</Low>
+    <Close>14.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-06</Date>
+    <Open>14.0</Open>
+    <High>14.72</High>
+    <Low>13.89</Low>
+    <Close>14.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-07</Date>
+    <Open>14.2</Open>
+    <High>14.52</High>
+    <Low>13.55</Low>
+    <Close>13.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-08</Date>
+    <Open>13.74</Open>
+    <High>13.78</High>
+    <Low>11.69</Low>
+    <Close>12.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-09</Date>
+    <Open>12.64</Open>
+    <High>13.17</High>
+    <Low>12.04</Low>
+    <Close>13.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-10</Date>
+    <Open>13.12</Open>
+    <High>13.46</High>
+    <Low>12.84</Low>
+    <Close>13.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-11</Date>
+    <Open>13.28</Open>
+    <High>14.8</High>
+    <Low>12.42</Low>
+    <Close>13.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-12</Date>
+    <Open>13.08</Open>
+    <High>13.09</High>
+    <Low>11.76</Low>
+    <Close>12.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-13</Date>
+    <Open>12.3</Open>
+    <High>12.78</High>
+    <Low>11.96</Low>
+    <Close>12.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-14</Date>
+    <Open>12.72</Open>
+    <High>13.33</High>
+    <Low>12.28</Low>
+    <Close>13.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-15</Date>
+    <Open>13.12</Open>
+    <High>13.23</High>
+    <Low>12.07</Low>
+    <Close>12.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-16</Date>
+    <Open>12.35</Open>
+    <High>12.71</High>
+    <Low>11.74</Low>
+    <Close>11.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-17</Date>
+    <Open>11.8</Open>
+    <High>12.37</High>
+    <Low>11.66</Low>
+    <Close>11.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-18</Date>
+    <Open>11.86</Open>
+    <High>11.94</High>
+    <Low>10.01</Low>
+    <Close>10.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-19</Date>
+    <Open>10.28</Open>
+    <High>10.76</High>
+    <Low>9.653</Low>
+    <Close>9.993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-20</Date>
+    <Open>9.993</Open>
+    <High>10.12</High>
+    <Low>8.735</Low>
+    <Close>9.421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-21</Date>
+    <Open>9.421</Open>
+    <High>9.815</High>
+    <Low>7.158</Low>
+    <Close>7.303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-22</Date>
+    <Open>7.303</Open>
+    <High>7.512</High>
+    <Low>6.036</Low>
+    <Close>7.132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-23</Date>
+    <Open>7.132</Open>
+    <High>8.769</High>
+    <Low>7.125</Low>
+    <Close>8.538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-24</Date>
+    <Open>8.538</Open>
+    <High>8.788</High>
+    <Low>8.442</Low>
+    <Close>8.711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-25</Date>
+    <Open>8.711</Open>
+    <High>8.806</High>
+    <Low>7.843</Low>
+    <Close>8.032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-26</Date>
+    <Open>8.032</Open>
+    <High>8.168</High>
+    <Low>7.484</Low>
+    <Close>7.977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-27</Date>
+    <Open>7.977</Open>
+    <High>8.58</High>
+    <Low>7.936</Low>
+    <Close>8.577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-28</Date>
+    <Open>8.577</Open>
+    <High>8.827</High>
+    <Low>8.355</Low>
+    <Close>8.755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-29</Date>
+    <Open>8.755</Open>
+    <High>9.464</High>
+    <Low>8.7</Low>
+    <Close>9.351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-06-30</Date>
+    <Open>9.351</Open>
+    <High>9.628</High>
+    <Low>8.657</Low>
+    <Close>9.597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-01</Date>
+    <Open>9.597</Open>
+    <High>9.78</High>
+    <Low>8.868</Low>
+    <Close>9.144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-02</Date>
+    <Open>9.144</Open>
+    <High>9.768</High>
+    <Low>9.135</Low>
+    <Close>9.659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-03</Date>
+    <Open>9.659</Open>
+    <High>10.74</High>
+    <Low>9.546</Low>
+    <Close>10.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-04</Date>
+    <Open>10.69</Open>
+    <High>11.68</High>
+    <Low>10.52</Low>
+    <Close>11.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-05</Date>
+    <Open>11.06</Open>
+    <High>11.27</High>
+    <Low>10.01</Low>
+    <Close>10.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-06</Date>
+    <Open>10.38</Open>
+    <High>12.28</High>
+    <Low>10.33</Low>
+    <Close>11.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-07</Date>
+    <Open>11.84</Open>
+    <High>16.38</High>
+    <Low>11.29</Low>
+    <Close>16.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-08</Date>
+    <Open>16.07</Open>
+    <High>18.35</High>
+    <Low>13.18</Low>
+    <Close>13.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-09</Date>
+    <Open>13.71</Open>
+    <High>15.49</High>
+    <Low>12.01</Low>
+    <Close>15.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-10</Date>
+    <Open>15.21</Open>
+    <High>18.89</High>
+    <Low>14.83</Low>
+    <Close>18.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-11</Date>
+    <Open>18.68</Open>
+    <High>20.25</High>
+    <Low>17.25</Low>
+    <Close>19.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-12</Date>
+    <Open>19.17</Open>
+    <High>19.45</High>
+    <Low>16.58</Low>
+    <Close>16.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-13</Date>
+    <Open>16.63</Open>
+    <High>18.5</High>
+    <Low>15.86</Low>
+    <Close>16.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-14</Date>
+    <Open>16.91</Open>
+    <High>18.31</High>
+    <Low>15.83</Low>
+    <Close>17.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-15</Date>
+    <Open>17.89</Open>
+    <High>20.59</High>
+    <Low>17.23</Low>
+    <Close>17.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-16</Date>
+    <Open>17.48</Open>
+    <High>19.18</High>
+    <Low>15.95</Low>
+    <Close>17.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-17</Date>
+    <Open>17.09</Open>
+    <High>17.19</High>
+    <Low>14.86</Low>
+    <Close>15.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-18</Date>
+    <Open>15.25</Open>
+    <High>16.24</High>
+    <Low>14.32</Low>
+    <Close>15.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-19</Date>
+    <Open>15.03</Open>
+    <High>15.04</High>
+    <Low>12.89</Low>
+    <Close>13.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-20</Date>
+    <Open>13.56</Open>
+    <High>13.58</High>
+    <Low>11.34</Low>
+    <Close>11.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-21</Date>
+    <Open>11.91</Open>
+    <High>15.09</High>
+    <Low>11.74</Low>
+    <Close>14.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-22</Date>
+    <Open>14.3</Open>
+    <High>16.97</High>
+    <Low>14.07</Low>
+    <Close>16.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-23</Date>
+    <Open>16.47</Open>
+    <High>20.38</High>
+    <Low>16.18</Low>
+    <Close>19.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-24</Date>
+    <Open>19.57</Open>
+    <High>22.2</High>
+    <Low>19.1</Low>
+    <Close>20.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-25</Date>
+    <Open>20.26</Open>
+    <High>20.95</High>
+    <Low>18.49</Low>
+    <Close>19.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-26</Date>
+    <Open>19.96</Open>
+    <High>19.96</High>
+    <Low>17.3</Low>
+    <Close>18.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-27</Date>
+    <Open>18.38</Open>
+    <High>19.77</High>
+    <Low>16.62</Low>
+    <Close>18.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-28</Date>
+    <Open>18.53</Open>
+    <High>19.51</High>
+    <Low>17.66</Low>
+    <Close>18.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-29</Date>
+    <Open>18.13</Open>
+    <High>18.89</High>
+    <Low>17.49</Low>
+    <Close>18.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-30</Date>
+    <Open>18.24</Open>
+    <High>29.31</High>
+    <Low>17.88</Low>
+    <Close>23.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-07-31</Date>
+    <Open>23.91</Open>
+    <High>27.96</High>
+    <Low>22.91</Low>
+    <Close>24.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-01</Date>
+    <Open>24.31</Open>
+    <High>24.41</High>
+    <Low>21.14</Low>
+    <Close>21.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-02</Date>
+    <Open>21.16</Open>
+    <High>22.67</High>
+    <Low>20.77</Low>
+    <Close>22.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-03</Date>
+    <Open>22.16</Open>
+    <High>22.41</High>
+    <Low>20.51</Low>
+    <Close>20.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-04</Date>
+    <Open>20.91</Open>
+    <High>22.42</High>
+    <Low>20.39</Low>
+    <Close>22.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-05</Date>
+    <Open>22.3</Open>
+    <High>23.35</High>
+    <Low>20.95</Low>
+    <Close>22.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-06</Date>
+    <Open>22.34</Open>
+    <High>22.49</High>
+    <Low>21.55</Low>
+    <Close>22.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-07</Date>
+    <Open>22.43</Open>
+    <High>23.45</High>
+    <Low>21.96</Low>
+    <Close>22.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-08</Date>
+    <Open>22.75</Open>
+    <High>23.59</High>
+    <Low>21.41</Low>
+    <Close>21.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-09</Date>
+    <Open>21.63</Open>
+    <High>22.35</High>
+    <Low>20.8</Low>
+    <Close>22.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-10</Date>
+    <Open>22.17</Open>
+    <High>24.06</High>
+    <Low>21.65</Low>
+    <Close>23.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-11</Date>
+    <Open>23.07</Open>
+    <High>26.59</High>
+    <Low>22.96</Low>
+    <Close>23.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-12</Date>
+    <Open>23.23</Open>
+    <High>23.32</High>
+    <Low>21.94</Low>
+    <Close>22.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-13</Date>
+    <Open>22.55</Open>
+    <High>23.91</High>
+    <Low>22.41</Low>
+    <Close>23.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-14</Date>
+    <Open>23.66</Open>
+    <High>23.88</High>
+    <Low>22.58</Low>
+    <Close>23.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-15</Date>
+    <Open>23.33</Open>
+    <High>23.41</High>
+    <Low>22.19</Low>
+    <Close>23.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-16</Date>
+    <Open>23.05</Open>
+    <High>23.7</High>
+    <Low>22.5</Low>
+    <Close>22.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-17</Date>
+    <Open>22.8</Open>
+    <High>25.06</High>
+    <Low>21.9</Low>
+    <Close>22.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-18</Date>
+    <Open>22.22</Open>
+    <High>23.9</High>
+    <Low>21.16</Low>
+    <Close>22.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-19</Date>
+    <Open>22.32</Open>
+    <High>22.9</High>
+    <Low>21.26</Low>
+    <Close>22.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-20</Date>
+    <Open>22.84</Open>
+    <High>23.54</High>
+    <Low>22.3</Low>
+    <Close>23.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-21</Date>
+    <Open>23.41</Open>
+    <High>25.36</High>
+    <Low>23.05</Low>
+    <Close>23.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-22</Date>
+    <Open>23.2</Open>
+    <High>23.37</High>
+    <Low>22.63</Low>
+    <Close>23.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-23</Date>
+    <Open>23.07</Open>
+    <High>24.45</High>
+    <Low>22.81</Low>
+    <Close>23.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-24</Date>
+    <Open>23.94</Open>
+    <High>23.99</High>
+    <Low>21.7</Low>
+    <Close>21.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-25</Date>
+    <Open>21.79</Open>
+    <High>22.96</High>
+    <Low>20.87</Low>
+    <Close>22.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-26</Date>
+    <Open>22.35</Open>
+    <High>22.93</High>
+    <Low>20.98</Low>
+    <Close>21.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-27</Date>
+    <Open>21.29</Open>
+    <High>22.01</High>
+    <Low>20.99</Low>
+    <Close>21.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-28</Date>
+    <Open>21.9</Open>
+    <High>22.18</High>
+    <Low>21.6</Low>
+    <Close>21.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-29</Date>
+    <Open>21.68</Open>
+    <High>28.78</High>
+    <Low>21.58</Low>
+    <Close>27.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-30</Date>
+    <Open>27.67</Open>
+    <High>29.01</High>
+    <Low>24.34</Low>
+    <Close>25.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-08-31</Date>
+    <Open>25.15</Open>
+    <High>27.64</High>
+    <Low>24.01</Low>
+    <Close>25.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-01</Date>
+    <Open>25.1</Open>
+    <High>25.82</High>
+    <Low>24.25</Low>
+    <Close>25.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-02</Date>
+    <Open>25.68</Open>
+    <High>25.72</High>
+    <Low>24.98</Low>
+    <Close>25.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-03</Date>
+    <Open>25.17</Open>
+    <High>25.86</High>
+    <Low>24.79</Low>
+    <Close>25.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-04</Date>
+    <Open>25.44</Open>
+    <High>27.29</High>
+    <Low>25.01</Low>
+    <Close>25.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-05</Date>
+    <Open>25.72</Open>
+    <High>27.27</High>
+    <Low>25.28</Low>
+    <Close>26.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-06</Date>
+    <Open>26.66</Open>
+    <High>26.72</High>
+    <Low>25.38</Low>
+    <Close>25.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-07</Date>
+    <Open>25.87</Open>
+    <High>26.15</High>
+    <Low>20.57</Low>
+    <Close>21.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-08</Date>
+    <Open>21.39</Open>
+    <High>22.8</High>
+    <Low>18.61</Low>
+    <Close>21.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-09</Date>
+    <Open>21.02</Open>
+    <High>22.13</High>
+    <Low>20.54</Low>
+    <Close>21.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-10</Date>
+    <Open>21.48</Open>
+    <High>22.06</High>
+    <Low>19.65</Low>
+    <Close>20.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-11</Date>
+    <Open>20.08</Open>
+    <High>20.7</High>
+    <Low>19.76</Low>
+    <Close>20.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-12</Date>
+    <Open>20.42</Open>
+    <High>20.97</High>
+    <Low>19.81</Low>
+    <Close>20.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-13</Date>
+    <Open>20.75</Open>
+    <High>20.76</High>
+    <Low>18.73</Low>
+    <Close>19.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-14</Date>
+    <Open>19.62</Open>
+    <High>25.29</High>
+    <Low>19.52</Low>
+    <Close>22.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-15</Date>
+    <Open>22.73</Open>
+    <High>23.32</High>
+    <Low>21.38</Low>
+    <Close>22.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-16</Date>
+    <Open>22.03</Open>
+    <High>22.07</High>
+    <Low>20.97</Low>
+    <Close>21.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-17</Date>
+    <Open>21.18</Open>
+    <High>21.3</High>
+    <Low>20.47</Low>
+    <Close>20.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-18</Date>
+    <Open>20.58</Open>
+    <High>21.46</High>
+    <Low>20.44</Low>
+    <Close>20.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-19</Date>
+    <Open>20.71</Open>
+    <High>20.9</High>
+    <Low>19.92</Low>
+    <Close>20.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-20</Date>
+    <Open>20.13</Open>
+    <High>20.15</High>
+    <Low>17.31</Low>
+    <Close>17.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-21</Date>
+    <Open>17.51</Open>
+    <High>17.7</High>
+    <Low>15.53</Low>
+    <Close>15.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-22</Date>
+    <Open>15.69</Open>
+    <High>18.55</High>
+    <Low>15.35</Low>
+    <Close>17.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-23</Date>
+    <Open>17.56</Open>
+    <High>18.49</High>
+    <Low>17.35</Low>
+    <Close>18.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-24</Date>
+    <Open>18.37</Open>
+    <High>18.53</High>
+    <Low>15.89</Low>
+    <Close>16.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-25</Date>
+    <Open>16.78</Open>
+    <High>17.07</High>
+    <Low>16.1</Low>
+    <Close>16.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-26</Date>
+    <Open>16.61</Open>
+    <High>16.74</High>
+    <Low>15.17</Low>
+    <Close>15.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-27</Date>
+    <Open>15.7</Open>
+    <High>16.22</High>
+    <Low>15.6</Low>
+    <Close>15.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-28</Date>
+    <Open>15.6</Open>
+    <High>15.66</High>
+    <Low>14.98</Low>
+    <Close>15.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-29</Date>
+    <Open>15.19</Open>
+    <High>15.83</High>
+    <Low>14.88</Low>
+    <Close>15.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-09-30</Date>
+    <Open>15.12</Open>
+    <High>15.92</High>
+    <Low>15.02</Low>
+    <Close>15.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-01</Date>
+    <Open>15.9</Open>
+    <High>18.08</High>
+    <Low>15.64</Low>
+    <Close>17.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-02</Date>
+    <Open>17.64</Open>
+    <High>19.28</High>
+    <Low>17.64</Low>
+    <Close>18.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-03</Date>
+    <Open>18.64</Open>
+    <High>19.2</High>
+    <Low>18.08</Low>
+    <Close>19.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-04</Date>
+    <Open>19.2</Open>
+    <High>22.02</High>
+    <Low>18.08</Low>
+    <Close>20.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-05</Date>
+    <Open>20.58</Open>
+    <High>21.54</High>
+    <Low>19.38</Low>
+    <Close>20.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-06</Date>
+    <Open>20.01</Open>
+    <High>20.34</High>
+    <Low>18.72</Low>
+    <Close>19.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-07</Date>
+    <Open>19.34</Open>
+    <High>19.41</High>
+    <Low>18.63</Low>
+    <Close>18.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-08</Date>
+    <Open>18.79</Open>
+    <High>19.23</High>
+    <Low>18.34</Low>
+    <Close>18.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-09</Date>
+    <Open>18.54</Open>
+    <High>19.67</High>
+    <Low>18.41</Low>
+    <Close>19.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-10</Date>
+    <Open>19.2</Open>
+    <High>19.82</High>
+    <Low>18.4</Low>
+    <Close>18.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-11</Date>
+    <Open>18.48</Open>
+    <High>19.22</High>
+    <Low>17.5</Low>
+    <Close>17.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-12</Date>
+    <Open>17.76</Open>
+    <High>18.22</High>
+    <Low>16.46</Low>
+    <Close>17.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-13</Date>
+    <Open>17.5</Open>
+    <High>18.62</High>
+    <Low>17.45</Low>
+    <Close>17.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-14</Date>
+    <Open>17.92</Open>
+    <High>18.87</High>
+    <Low>17.84</Low>
+    <Close>18.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-15</Date>
+    <Open>18.65</Open>
+    <High>18.66</High>
+    <Low>17.03</Low>
+    <Close>17.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-16</Date>
+    <Open>17.66</Open>
+    <High>17.76</High>
+    <Low>9.2</Low>
+    <Close>15.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-17</Date>
+    <Open>15.63</Open>
+    <High>15.68</High>
+    <Low>14.1</Low>
+    <Close>14.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-18</Date>
+    <Open>14.87</Open>
+    <High>14.95</High>
+    <Low>13.82</Low>
+    <Close>14.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-19</Date>
+    <Open>14.71</Open>
+    <High>14.72</High>
+    <Low>12.84</Low>
+    <Close>13.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-20</Date>
+    <Open>13.27</Open>
+    <High>14.29</High>
+    <Low>12.22</Low>
+    <Close>14.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-21</Date>
+    <Open>14.24</Open>
+    <High>15.01</High>
+    <Low>13.78</Low>
+    <Close>14.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-22</Date>
+    <Open>14.19</Open>
+    <High>14.47</High>
+    <Low>13.35</Low>
+    <Close>13.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-23</Date>
+    <Open>13.77</Open>
+    <High>13.79</High>
+    <Low>13.18</Low>
+    <Close>13.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-24</Date>
+    <Open>13.37</Open>
+    <High>13.67</High>
+    <Low>12.74</Low>
+    <Close>13.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-25</Date>
+    <Open>13.14</Open>
+    <High>13.63</High>
+    <Low>13.06</Low>
+    <Close>13.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-26</Date>
+    <Open>13.45</Open>
+    <High>13.54</High>
+    <Low>13.04</Low>
+    <Close>13.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-27</Date>
+    <Open>13.15</Open>
+    <High>13.32</High>
+    <Low>11.58</Low>
+    <Close>11.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-28</Date>
+    <Open>11.9</Open>
+    <High>12.8</High>
+    <Low>11.61</Low>
+    <Close>12.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-29</Date>
+    <Open>12.79</Open>
+    <High>14.21</High>
+    <Low>12.71</Low>
+    <Close>13.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-30</Date>
+    <Open>13.74</Open>
+    <High>15.05</High>
+    <Low>13.08</Low>
+    <Close>15.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-10-31</Date>
+    <Open>15.02</Open>
+    <High>16.55</High>
+    <Low>13.47</Low>
+    <Close>14.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-01</Date>
+    <Open>14.01</Open>
+    <High>14.35</High>
+    <Low>13.4</Low>
+    <Close>13.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-02</Date>
+    <Open>13.99</Open>
+    <High>14.79</High>
+    <Low>13.74</Low>
+    <Close>14.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-03</Date>
+    <Open>14.42</Open>
+    <High>14.46</High>
+    <Low>13.55</Low>
+    <Close>13.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-04</Date>
+    <Open>13.92</Open>
+    <High>14.18</High>
+    <Low>13.61</Low>
+    <Close>13.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-05</Date>
+    <Open>13.81</Open>
+    <High>14.4</High>
+    <Low>13.65</Low>
+    <Close>13.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-06</Date>
+    <Open>13.9</Open>
+    <High>13.97</High>
+    <Low>13.36</Low>
+    <Close>13.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-07</Date>
+    <Open>13.84</Open>
+    <High>13.85</High>
+    <Low>13.64</Low>
+    <Close>13.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-08</Date>
+    <Open>13.78</Open>
+    <High>13.98</High>
+    <Low>13.69</Low>
+    <Close>13.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-09</Date>
+    <Open>13.91</Open>
+    <High>13.96</High>
+    <Low>13.6</Low>
+    <Close>13.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-10</Date>
+    <Open>13.69</Open>
+    <High>13.78</High>
+    <Low>12.61</Low>
+    <Close>12.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-11</Date>
+    <Open>12.85</Open>
+    <High>13.23</High>
+    <Low>12.85</Low>
+    <Close>13.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-12</Date>
+    <Open>13.15</Open>
+    <High>13.25</High>
+    <Low>12.52</Low>
+    <Close>12.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-13</Date>
+    <Open>12.87</Open>
+    <High>13.23</High>
+    <Low>12.69</Low>
+    <Close>13.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-14</Date>
+    <Open>13.15</Open>
+    <High>13.18</High>
+    <Low>12.74</Low>
+    <Close>12.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-15</Date>
+    <Open>12.98</Open>
+    <High>14.63</High>
+    <Low>12.92</Low>
+    <Close>13.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-16</Date>
+    <Open>13.28</Open>
+    <High>13.28</High>
+    <Low>12.04</Low>
+    <Close>12.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-17</Date>
+    <Open>12.61</Open>
+    <High>12.79</High>
+    <Low>12.06</Low>
+    <Close>12.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-18</Date>
+    <Open>12.59</Open>
+    <High>12.66</High>
+    <Low>11.67</Low>
+    <Close>11.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-19</Date>
+    <Open>11.72</Open>
+    <High>12.76</High>
+    <Low>11.5</Low>
+    <Close>12.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-20</Date>
+    <Open>12.38</Open>
+    <High>13.24</High>
+    <Low>12.3</Low>
+    <Close>13.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-21</Date>
+    <Open>13.0</Open>
+    <High>15.96</High>
+    <Low>12.74</Low>
+    <Close>14.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-22</Date>
+    <Open>14.31</Open>
+    <High>15.28</High>
+    <Low>13.35</Low>
+    <Close>13.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-23</Date>
+    <Open>13.49</Open>
+    <High>13.71</High>
+    <Low>12.83</Low>
+    <Close>13.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-24</Date>
+    <Open>13.21</Open>
+    <High>13.46</High>
+    <Low>12.69</Low>
+    <Close>13.013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-25</Date>
+    <Open>13.013</Open>
+    <High>14.0</High>
+    <Low>12.812</Low>
+    <Close>13.237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-26</Date>
+    <Open>13.237</Open>
+    <High>13.327</High>
+    <Low>11.458</Low>
+    <Close>11.786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-27</Date>
+    <Open>11.757</Open>
+    <High>12.264</High>
+    <Low>11.661</Low>
+    <Close>11.846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-28</Date>
+    <Open>11.846</Open>
+    <High>12.885</High>
+    <Low>11.463</Low>
+    <Close>12.3051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-29</Date>
+    <Open>12.3171</Open>
+    <High>13.0</High>
+    <Low>12.245</Low>
+    <Close>12.911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-11-30</Date>
+    <Open>12.884</Open>
+    <High>12.902</High>
+    <Low>12.263</Low>
+    <Close>12.524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-01</Date>
+    <Open>12.512</Open>
+    <High>12.644</High>
+    <Low>12.232</Low>
+    <Close>12.273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-02</Date>
+    <Open>12.27</Open>
+    <High>12.297</High>
+    <Low>11.83</Low>
+    <Close>12.126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-03</Date>
+    <Open>12.107</Open>
+    <High>12.237</High>
+    <Low>11.28</Low>
+    <Close>11.497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-04</Date>
+    <Open>11.52</Open>
+    <High>11.599</High>
+    <Low>8.5</Low>
+    <Close>9.958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-05</Date>
+    <Open>9.958</Open>
+    <High>10.154</High>
+    <Low>9.167</Low>
+    <Close>9.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-06</Date>
+    <Open>9.327</Open>
+    <High>9.725</High>
+    <Low>8.655</Low>
+    <Close>9.676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-07</Date>
+    <Open>9.67</Open>
+    <High>10.379</High>
+    <Low>9.585</Low>
+    <Close>10.051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-08</Date>
+    <Open>10.051</Open>
+    <High>10.551</High>
+    <Low>9.678</Low>
+    <Close>9.934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-09</Date>
+    <Open>9.916</Open>
+    <High>10.184</High>
+    <Low>9.366</Low>
+    <Close>9.381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-10</Date>
+    <Open>9.381</Open>
+    <High>9.553</High>
+    <Low>8.811</Low>
+    <Close>8.898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-11</Date>
+    <Open>8.893</Open>
+    <High>9.502</High>
+    <Low>8.768</Low>
+    <Close>9.162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-12</Date>
+    <Open>9.178</Open>
+    <High>9.425</High>
+    <Low>8.956</Low>
+    <Close>9.225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-13</Date>
+    <Open>9.213</Open>
+    <High>9.299</High>
+    <Low>8.542</Low>
+    <Close>8.66437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-14</Date>
+    <Open>8.658</Open>
+    <High>8.69</High>
+    <Low>8.2</Low>
+    <Close>8.641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-15</Date>
+    <Open>8.641</Open>
+    <High>8.90534</High>
+    <Low>8.2041</Low>
+    <Close>8.81529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-16</Date>
+    <Open>8.80528</Open>
+    <High>9.0045</High>
+    <Low>8.64259</Low>
+    <Close>8.6626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-17</Date>
+    <Open>8.6726</Open>
+    <High>8.6726</High>
+    <Low>8.20246</Low>
+    <Close>8.39336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-18</Date>
+    <Open>8.39336</Open>
+    <High>8.58343</High>
+    <Low>8.2533</Low>
+    <Close>8.46338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-19</Date>
+    <Open>8.48324</Open>
+    <High>8.61344</High>
+    <Low>8.3225</Low>
+    <Close>8.37418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-20</Date>
+    <Open>8.37335</Open>
+    <High>8.38335</High>
+    <Low>8.0016</Low>
+    <Close>8.13325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-21</Date>
+    <Open>8.14326</Open>
+    <High>8.38335</High>
+    <Low>8.06322</Low>
+    <Close>8.36334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-22</Date>
+    <Open>8.36334</Open>
+    <High>8.60344</High>
+    <Low>8.30249</Low>
+    <Close>8.54427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-23</Date>
+    <Open>8.54427</Open>
+    <High>9.36187</High>
+    <Low>8.46254</Low>
+    <Close>9.31466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-24</Date>
+    <Open>9.31372</Open>
+    <High>9.58479</High>
+    <Low>9.14366</Low>
+    <Close>9.14548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-25</Date>
+    <Open>9.14548</Open>
+    <High>9.27382</High>
+    <Low>9.03542</Low>
+    <Close>9.21461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-26</Date>
+    <Open>9.20368</Open>
+    <High>9.28464</High>
+    <Low>8.95358</Low>
+    <Close>9.2537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-27</Date>
+    <Open>9.2437</Open>
+    <High>9.71388</High>
+    <Low>9.18275</Low>
+    <Close>9.54286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-28</Date>
+    <Open>9.53286</Open>
+    <High>9.54286</High>
+    <Low>8.69087</Low>
+    <Close>8.75175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-29</Date>
+    <Open>8.76175</Open>
+    <High>8.84177</High>
+    <Low>8.48</Low>
+    <Close>8.75175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-30</Date>
+    <Open>8.75175</Open>
+    <High>8.84177</High>
+    <Low>8.4917</Low>
+    <Close>8.72174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2021-12-31</Date>
+    <Open>8.72174</Open>
+    <High>8.91178</High>
+    <Low>8.68</Low>
+    <Close>8.76088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-01</Date>
+    <Open>8.74087</Open>
+    <High>9.17183</High>
+    <Low>8.74087</Low>
+    <Close>9.16183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-02</Date>
+    <Open>9.16183</Open>
+    <High>9.45189</High>
+    <Low>9.0009</Low>
+    <Close>9.26185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-03</Date>
+    <Open>9.26185</Open>
+    <High>9.30186</High>
+    <Low>8.85088</Low>
+    <Close>8.9609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-04</Date>
+    <Open>8.9491</Open>
+    <High>9.25093</High>
+    <Low>8.72913</Low>
+    <Close>9.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-05</Date>
+    <Open>9.02729</Open>
+    <High>9.28093</High>
+    <Low>8.28917</Low>
+    <Close>8.39916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-06</Date>
+    <Open>8.4</Open>
+    <High>8.53</High>
+    <Low>8.07919</Low>
+    <Close>8.29917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-07</Date>
+    <Open>8.31132</Open>
+    <High>8.32917</High>
+    <Low>7.82843</Low>
+    <Close>7.93841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-08</Date>
+    <Open>7.93921</Open>
+    <High>8.05919</High>
+    <Low>7.54849</Low>
+    <Close>7.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-09</Date>
+    <Open>7.76</Open>
+    <High>7.92</High>
+    <Low>7.65923</Low>
+    <Close>7.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-10</Date>
+    <Open>7.84922</Open>
+    <High>7.93</High>
+    <Low>7.18928</Low>
+    <Close>7.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-11</Date>
+    <Open>7.41</Open>
+    <High>7.65077</High>
+    <Low>7.29927</Low>
+    <Close>7.59076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-12</Date>
+    <Open>7.59076</Open>
+    <High>7.95397</High>
+    <Low>7.59076</Low>
+    <Close>7.90316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-13</Date>
+    <Open>7.91316</Open>
+    <High>8.13406</High>
+    <Low>7.75387</Low>
+    <Close>7.77388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-14</Date>
+    <Open>7.7631</Open>
+    <High>7.88315</High>
+    <Low>7.57378</Low>
+    <Close>7.81234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-15</Date>
+    <Open>7.81312</Open>
+    <High>7.81312</High>
+    <Low>7.58227</Low>
+    <Close>7.73386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-16</Date>
+    <Open>7.73386</Open>
+    <High>7.8139</High>
+    <Low>7.43223</Low>
+    <Close>7.62305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-17</Date>
+    <Open>7.62229</Open>
+    <High>7.63305</High>
+    <Low>7.26218</Low>
+    <Close>7.32293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-18</Date>
+    <Open>7.32293</Open>
+    <High>7.38295</High>
+    <Low>6.7427</Low>
+    <Close>7.02211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-19</Date>
+    <Open>7.03281</Open>
+    <High>7.60228</High>
+    <Low>6.90276</Low>
+    <Close>7.30219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-20</Date>
+    <Open>7.30219</Open>
+    <High>7.58227</High>
+    <Low>6.68067</Low>
+    <Close>6.78136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-21</Date>
+    <Open>6.78136</Open>
+    <High>6.79136</High>
+    <Low>5.59112</Low>
+    <Close>5.70114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-22</Date>
+    <Open>5.72172</Open>
+    <High>5.87176</High>
+    <Low>4.5109</Low>
+    <Close>4.96149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-23</Date>
+    <Open>4.96099</Open>
+    <High>5.3316</High>
+    <Low>4.92098</Low>
+    <Close>5.011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-24</Date>
+    <Open>5.021</Open>
+    <High>5.23105</High>
+    <Low>4.32086</Low>
+    <Close>4.78143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-25</Date>
+    <Open>4.78143</Open>
+    <High>5.05252</High>
+    <Low>4.54136</Low>
+    <Close>4.85242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-26</Date>
+    <Open>4.8429</Open>
+    <High>5.44326</High>
+    <Low>4.72236</Low>
+    <Close>4.88244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-27</Date>
+    <Open>4.88293</Open>
+    <High>5.31265</High>
+    <Low>4.76238</Low>
+    <Close>5.04252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-28</Date>
+    <Open>5.06202</Open>
+    <High>5.78173</High>
+    <Low>5.02151</Low>
+    <Close>5.53166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-29</Date>
+    <Open>5.54111</Open>
+    <High>6.63199</High>
+    <Low>5.53166</Low>
+    <Close>6.3319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-30</Date>
+    <Open>6.3319</Open>
+    <High>7.31219</High>
+    <Low>6.22187</Low>
+    <Close>6.70268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-01-31</Date>
+    <Open>6.70268</Open>
+    <High>7.05352</High>
+    <Low>6.28251</Low>
+    <Close>6.83341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-01</Date>
+    <Open>6.82341</Open>
+    <High>7.25435</High>
+    <Low>6.54327</Low>
+    <Close>6.67333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-02</Date>
+    <Open>6.68334</Open>
+    <High>6.71403</High>
+    <Low>6.13245</Low>
+    <Close>6.18494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-03</Date>
+    <Open>6.19557</Open>
+    <High>6.24437</High>
+    <Low>5.67227</Low>
+    <Close>5.89294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-04</Date>
+    <Open>5.89294</Open>
+    <High>6.30378</High>
+    <Low>5.83291</Low>
+    <Close>6.27502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-05</Date>
+    <Open>6.2844</Open>
+    <High>6.77474</High>
+    <Low>6.27502</Low>
+    <Close>6.59395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-06</Date>
+    <Open>6.57394</Open>
+    <High>7.46373</High>
+    <Low>6.55393</Low>
+    <Close>7.28291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-07</Date>
+    <Open>7.2629</Open>
+    <High>7.87551</High>
+    <Low>7.18574</Low>
+    <Close>7.62533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-08</Date>
+    <Open>7.61533</Open>
+    <High>7.93555</High>
+    <Low>6.97627</Low>
+    <Close>7.27654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-09</Date>
+    <Open>7.27727</Open>
+    <High>8.94894</High>
+    <Low>7.06494</Low>
+    <Close>8.32832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-10</Date>
+    <Open>8.33833</Open>
+    <High>8.74787</High>
+    <Low>7.73618</Low>
+    <Close>8.18573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-11</Date>
+    <Open>8.17572</Open>
+    <High>8.2958</High>
+    <Low>6.93208</Low>
+    <Close>6.9921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-12</Date>
+    <Open>7.0021</Open>
+    <High>7.61457</High>
+    <Low>6.95209</Low>
+    <Close>7.37369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-13</Date>
+    <Open>7.37442</Open>
+    <High>7.59455</High>
+    <Low>6.77406</Low>
+    <Close>7.18431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-14</Date>
+    <Open>7.19431</Open>
+    <High>7.19431</High>
+    <Low>6.68334</Low>
+    <Close>6.91415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-15</Date>
+    <Open>6.93416</Open>
+    <High>7.38443</High>
+    <Low>6.84342</Low>
+    <Close>7.32439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-16</Date>
+    <Open>7.32439</Open>
+    <High>7.61457</High>
+    <Low>6.98419</Low>
+    <Close>7.3444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-17</Date>
+    <Open>7.3344</Open>
+    <High>7.42371</High>
+    <Low>6.5039</Low>
+    <Close>6.63464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-18</Date>
+    <Open>6.63464</Open>
+    <High>6.73471</High>
+    <Low>6.21373</Low>
+    <Close>6.39383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-19</Date>
+    <Open>6.38383</Open>
+    <High>6.45387</High>
+    <Low>5.99299</Low>
+    <Close>6.13368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-20</Date>
+    <Open>6.12306</Open>
+    <High>6.22373</High>
+    <Low>5.62225</Low>
+    <Close>5.8129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-21</Date>
+    <Open>5.8129</Open>
+    <High>6.04302</High>
+    <Low>5.31212</Low>
+    <Close>5.38215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-22</Date>
+    <Open>5.37268</Open>
+    <High>5.54332</High>
+    <Low>5.05151</Low>
+    <Close>5.45327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-23</Date>
+    <Open>5.45327</Open>
+    <High>5.89353</High>
+    <Low>5.4127</Low>
+    <Close>5.52331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-24</Date>
+    <Open>5.51331</Open>
+    <High>5.52331</High>
+    <Low>4.63231</Low>
+    <Close>5.31212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-25</Date>
+    <Open>5.3216</Open>
+    <High>5.70228</High>
+    <Low>5.23157</Low>
+    <Close>5.69285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-26</Date>
+    <Open>5.69285</Open>
+    <High>5.85292</High>
+    <Low>5.56222</Low>
+    <Close>5.70228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-27</Date>
+    <Open>5.70228</Open>
+    <High>6.35317</High>
+    <Low>5.44218</Low>
+    <Close>5.78289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-02-28</Date>
+    <Open>5.80232</Open>
+    <High>6.45322</High>
+    <Low>5.52221</Low>
+    <Close>6.2525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-01</Date>
+    <Open>6.27251</Open>
+    <High>6.89276</High>
+    <Low>6.27251</Low>
+    <Close>6.76203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-02</Date>
+    <Open>6.75202</Open>
+    <High>6.76203</High>
+    <Low>6.31189</Low>
+    <Close>6.47194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-03</Date>
+    <Open>6.46194</Open>
+    <High>6.48194</High>
+    <Low>5.87117</Low>
+    <Close>6.07182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-04</Date>
+    <Open>6.06121</Open>
+    <High>6.25188</High>
+    <Low>5.63113</Low>
+    <Close>5.76173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-05</Date>
+    <Open>5.76173</Open>
+    <High>6.0018</High>
+    <Low>5.5111</Low>
+    <Close>5.86176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-06</Date>
+    <Open>5.85175</Open>
+    <High>5.95179</High>
+    <Low>5.57111</Low>
+    <Close>5.69171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-07</Date>
+    <Open>5.69171</Open>
+    <High>5.96179</High>
+    <Low>5.47109</Low>
+    <Close>5.71171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-08</Date>
+    <Open>5.70114</Open>
+    <High>5.92118</High>
+    <Low>5.62169</Low>
+    <Close>5.72114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-09</Date>
+    <Open>5.72114</Open>
+    <High>6.14123</High>
+    <Low>5.72114</Low>
+    <Close>6.03121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-10</Date>
+    <Open>6.05061</Open>
+    <High>6.16246</High>
+    <Low>5.52166</Low>
+    <Close>5.81232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-11</Date>
+    <Open>5.82233</Open>
+    <High>5.84234</High>
+    <Low>5.52221</Low>
+    <Close>5.63113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-12</Date>
+    <Open>5.63113</Open>
+    <High>5.74057</High>
+    <Low>5.54</Low>
+    <Close>5.60056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-13</Date>
+    <Open>5.59112</Open>
+    <High>5.64169</High>
+    <Low>5.29106</Low>
+    <Close>5.3216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-14</Date>
+    <Open>5.32106</Open>
+    <High>5.47055</High>
+    <Low>5.19052</Low>
+    <Close>5.34107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-15</Date>
+    <Open>5.35053</Open>
+    <High>5.39108</High>
+    <Low>5.13103</Low>
+    <Close>5.31159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-16</Date>
+    <Open>5.32106</Open>
+    <High>5.48164</High>
+    <Low>5.19104</Low>
+    <Close>5.44163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-17</Date>
+    <Open>5.44163</Open>
+    <High>5.79174</High>
+    <Low>5.44163</Low>
+    <Close>5.63181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-18</Date>
+    <Open>5.63225</Open>
+    <High>5.74344</High>
+    <Low>5.44272</Low>
+    <Close>5.65282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-19</Date>
+    <Open>5.65452</Open>
+    <High>5.94356</High>
+    <Low>5.65282</Low>
+    <Close>5.84292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-20</Date>
+    <Open>5.82291</Open>
+    <High>6.26313</High>
+    <Low>5.71285</Low>
+    <Close>5.89236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-21</Date>
+    <Open>5.89294</Open>
+    <High>6.37318</High>
+    <Low>5.83291</Low>
+    <Close>6.06303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-22</Date>
+    <Open>6.06242</Open>
+    <High>6.30252</High>
+    <Low>6.0024</Low>
+    <Close>6.13306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-23</Date>
+    <Open>6.13306</Open>
+    <High>6.27313</High>
+    <Low>5.96298</Low>
+    <Close>6.25312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-24</Date>
+    <Open>6.2525</Open>
+    <High>6.54327</High>
+    <Low>6.16308</Low>
+    <Close>6.47323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-25</Date>
+    <Open>6.49324</Open>
+    <High>6.64332</High>
+    <Low>6.2625</Low>
+    <Close>6.36318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-26</Date>
+    <Open>6.35317</Open>
+    <High>6.66266</High>
+    <Low>6.30252</Low>
+    <Close>6.55262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-27</Date>
+    <Open>6.56262</Open>
+    <High>6.72269</High>
+    <Low>6.38255</Low>
+    <Close>6.71268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-28</Date>
+    <Open>6.71201</Open>
+    <High>7.2429</High>
+    <Low>6.682</Low>
+    <Close>7.0128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-29</Date>
+    <Open>7.0128</Open>
+    <High>7.58303</High>
+    <Low>6.78203</Low>
+    <Close>6.9935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-30</Date>
+    <Open>6.9935</Open>
+    <High>7.26363</High>
+    <Low>6.7527</Low>
+    <Close>7.07212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-03-31</Date>
+    <Open>7.06141</Open>
+    <High>7.33147</High>
+    <Low>6.662</Low>
+    <Close>6.86206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-01</Date>
+    <Open>6.84205</Open>
+    <High>6.97279</High>
+    <Low>6.39128</Low>
+    <Close>6.92277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-02</Date>
+    <Open>6.93208</Open>
+    <High>8.20328</High>
+    <Low>6.89207</Low>
+    <Close>7.52301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-03</Date>
+    <Open>7.53226</Open>
+    <High>7.83313</High>
+    <Low>7.26218</Low>
+    <Close>7.45223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-04</Date>
+    <Open>7.45298</Open>
+    <High>7.60304</High>
+    <Low>6.83137</Low>
+    <Close>7.21144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-05</Date>
+    <Open>7.20144</Open>
+    <High>7.62229</High>
+    <Low>7.14143</Low>
+    <Close>7.34147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-06</Date>
+    <Open>7.33147</Open>
+    <High>7.61152</High>
+    <Low>6.37</Low>
+    <Close>6.65067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-07</Date>
+    <Open>6.64</Open>
+    <High>6.67067</High>
+    <Low>6.19</Low>
+    <Close>6.43064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-08</Date>
+    <Open>6.43064</Open>
+    <High>6.65133</High>
+    <Low>6.22062</Low>
+    <Close>6.2425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-09</Date>
+    <Open>6.24187</Open>
+    <High>6.28188</High>
+    <Low>6.03181</Low>
+    <Close>6.17123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-10</Date>
+    <Open>6.18185</Open>
+    <High>6.39128</High>
+    <Low>6.04181</Low>
+    <Close>6.27125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-11</Date>
+    <Open>6.26125</Open>
+    <High>6.26125</High>
+    <Low>5.37107</Low>
+    <Close>5.37161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-12</Date>
+    <Open>5.38161</Open>
+    <High>5.83117</High>
+    <Low>5.33107</Low>
+    <Close>5.6517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-13</Date>
+    <Open>5.6517</Open>
+    <High>5.98239</High>
+    <Low>5.57167</Low>
+    <Close>5.88176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-14</Date>
+    <Open>5.90177</Open>
+    <High>6.22124</High>
+    <Low>5.70114</Low>
+    <Close>5.80116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-15</Date>
+    <Open>5.79116</Open>
+    <High>6.0012</High>
+    <Low>5.73057</Low>
+    <Close>5.87117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-16</Date>
+    <Open>5.87117</Open>
+    <High>5.97119</High>
+    <Low>5.72057</Low>
+    <Close>5.82116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-17</Date>
+    <Open>5.83117</Open>
+    <High>5.87117</High>
+    <Low>5.73057</Low>
+    <Close>5.79116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-18</Date>
+    <Open>5.78289</Open>
+    <High>5.81174</High>
+    <Low>5.28053</Low>
+    <Close>5.76173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-19</Date>
+    <Open>5.77173</Open>
+    <High>6.05121</High>
+    <Low>5.75115</Low>
+    <Close>5.96119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-20</Date>
+    <Open>5.96119</Open>
+    <High>6.06121</High>
+    <Low>5.74115</Low>
+    <Close>5.84117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-21</Date>
+    <Open>5.86117</Open>
+    <High>6.0012</High>
+    <Low>5.59056</Low>
+    <Close>5.70057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-22</Date>
+    <Open>5.69057</Open>
+    <High>5.79116</High>
+    <Low>5.54055</Low>
+    <Close>5.62056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-23</Date>
+    <Open>5.62112</Open>
+    <High>5.68114</High>
+    <Low>5.47109</Low>
+    <Close>5.63056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-24</Date>
+    <Open>5.63113</Open>
+    <High>5.71114</High>
+    <Low>5.41108</Low>
+    <Close>5.5011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-25</Date>
+    <Open>5.5111</Open>
+    <High>5.53111</High>
+    <Low>5.13</Low>
+    <Close>5.46109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-26</Date>
+    <Open>5.46109</Open>
+    <High>5.62112</High>
+    <Low>5.16103</Low>
+    <Close>5.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-27</Date>
+    <Open>5.26053</Open>
+    <High>5.33</High>
+    <Low>5.08051</Low>
+    <Close>5.27053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-28</Date>
+    <Open>5.27053</Open>
+    <High>5.39054</High>
+    <Low>5.13051</Low>
+    <Close>5.22052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-29</Date>
+    <Open>5.21052</Open>
+    <High>5.32053</High>
+    <Low>4.82</Low>
+    <Close>4.92049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-04-30</Date>
+    <Open>4.93049</Open>
+    <High>4.9605</High>
+    <Low>4.58</Low>
+    <Close>4.62046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-01</Date>
+    <Open>4.62</Open>
+    <High>4.85048</High>
+    <Low>4.31</Low>
+    <Close>4.66047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-02</Date>
+    <Open>4.67047</Open>
+    <High>4.79048</High>
+    <Low>4.41</Low>
+    <Close>4.64046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-03</Date>
+    <Open>4.63</Open>
+    <High>4.72</High>
+    <Low>4.47955</Low>
+    <Close>4.56954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-04</Date>
+    <Open>4.55909</Open>
+    <High>5.18</High>
+    <Low>4.53955</Low>
+    <Close>5.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-05</Date>
+    <Open>5.05899</Open>
+    <High>5.20948</High>
+    <Low>4.42911</Low>
+    <Close>4.53955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-06</Date>
+    <Open>4.54909</Open>
+    <High>4.57954</High>
+    <Low>4.27914</Low>
+    <Close>4.40956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-07</Date>
+    <Open>4.40956</Open>
+    <High>4.57954</High>
+    <Low>4.29914</Low>
+    <Close>4.29914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-08</Date>
+    <Open>4.31914</Open>
+    <High>4.45955</High>
+    <Low>4.17833</Low>
+    <Close>4.3287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-09</Date>
+    <Open>4.3187</Open>
+    <High>4.37912</High>
+    <Low>3.4886</Low>
+    <Close>3.60928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-10</Date>
+    <Open>3.61928</Open>
+    <High>4.4991</High>
+    <Low>3.22871</Low>
+    <Close>3.58856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-11</Date>
+    <Open>3.57857</Open>
+    <High>4.38824</High>
+    <Low>2.77884</Low>
+    <Close>3.00883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-12</Date>
+    <Open>3.00883</Open>
+    <High>3.22704</High>
+    <Low>2.17626</Low>
+    <Close>2.61266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-13</Date>
+    <Open>2.60269</Open>
+    <High>3.15716</High>
+    <Low>2.57303</Low>
+    <Close>2.96495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-14</Date>
+    <Open>2.95497</Open>
+    <High>3.07476</High>
+    <Low>2.67437</Low>
+    <Close>2.88567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-15</Date>
+    <Open>2.89594</Open>
+    <High>3.02636</High>
+    <Low>2.81605</Low>
+    <Close>3.01607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-16</Date>
+    <Open>3.01607</Open>
+    <High>3.09659</High>
+    <Low>2.74588</Low>
+    <Close>2.88624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-17</Date>
+    <Open>2.88624</Open>
+    <High>3.12656</High>
+    <Low>2.79636</Low>
+    <Close>2.98641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-18</Date>
+    <Open>2.98611</Open>
+    <High>3.04634</High>
+    <Low>2.69649</Low>
+    <Close>2.89623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-19</Date>
+    <Open>2.9162</Open>
+    <High>3.00729</High>
+    <Low>2.66653</Low>
+    <Close>2.8874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-20</Date>
+    <Open>2.89739</Open>
+    <High>2.9967</High>
+    <Low>2.6865</Low>
+    <Close>2.75669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-21</Date>
+    <Open>2.75669</Open>
+    <High>2.83631</High>
+    <Low>2.69649</Low>
+    <Close>2.80635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-22</Date>
+    <Open>2.79608</Open>
+    <High>2.9162</High>
+    <Low>2.75641</Low>
+    <Close>2.8463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-23</Date>
+    <Open>2.84658</Open>
+    <High>2.997</High>
+    <Low>2.76668</Low>
+    <Close>2.80663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-24</Date>
+    <Open>2.79664</Open>
+    <High>2.80663</High>
+    <Low>2.53695</Low>
+    <Close>2.75641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-25</Date>
+    <Open>2.74615</Open>
+    <High>2.78693</High>
+    <Low>2.61712</Low>
+    <Close>2.69676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-26</Date>
+    <Open>2.69703</Open>
+    <High>2.76695</High>
+    <Low>2.38713</Low>
+    <Close>2.50724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-27</Date>
+    <Open>2.4975</Open>
+    <High>2.52747</High>
+    <Low>2.30746</Low>
+    <Close>2.36763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-28</Date>
+    <Open>2.35991</Open>
+    <High>2.41758</High>
+    <Low>2.3171</Low>
+    <Close>2.37722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-29</Date>
+    <Open>2.38713</Open>
+    <High>2.4273</High>
+    <Low>2.32741</Low>
+    <Close>2.41731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-30</Date>
+    <Open>2.42725</Open>
+    <High>2.72809</High>
+    <Low>2.39736</Low>
+    <Close>2.67812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-05-31</Date>
+    <Open>2.69784</Open>
+    <High>2.91766</High>
+    <Low>2.64788</Low>
+    <Close>2.68785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-01</Date>
+    <Open>2.69784</Open>
+    <High>2.7478</High>
+    <Low>2.39736</Low>
+    <Close>2.46753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-02</Date>
+    <Open>2.4478</Open>
+    <High>2.52772</High>
+    <Low>2.40633</Low>
+    <Close>2.51773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-03</Date>
+    <Open>2.50774</Open>
+    <High>2.5577</High>
+    <Low>2.37774</Low>
+    <Close>2.42789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-04</Date>
+    <Open>2.42791</Open>
+    <High>2.49798</High>
+    <Low>2.40747</Low>
+    <Close>2.45813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-05</Date>
+    <Open>2.46817</Open>
+    <High>2.48801</High>
+    <Low>2.40798</Low>
+    <Close>2.42772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-06</Date>
+    <Open>2.43771</Open>
+    <High>2.59782</High>
+    <Low>2.4177</Low>
+    <Close>2.4979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-07</Date>
+    <Open>2.50789</Open>
+    <High>2.51793</High>
+    <Low>2.31803</Low>
+    <Close>2.45798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-08</Date>
+    <Open>2.46802</Open>
+    <High>2.50832</High>
+    <Low>2.35847</Low>
+    <Close>2.40843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-09</Date>
+    <Open>2.40843</Open>
+    <High>2.4282</High>
+    <Low>2.36787</Low>
+    <Close>2.38799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-10</Date>
+    <Open>2.38797</Open>
+    <High>2.48788</High>
+    <Low>2.24755</Low>
+    <Close>2.29708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-11</Date>
+    <Open>2.30704</Open>
+    <High>2.33752</High>
+    <Low>2.03763</Low>
+    <Close>2.07763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-12</Date>
+    <Open>2.07763</Open>
+    <High>2.09765</High>
+    <Low>1.79777</Low>
+    <Close>1.91764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-13</Date>
+    <Open>1.89764</Open>
+    <High>1.89764</High>
+    <Low>1.50552</Low>
+    <Close>1.59778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-14</Date>
+    <Open>1.60778</Open>
+    <High>1.61791</High>
+    <Low>1.40789</Low>
+    <Close>1.52816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-15</Date>
+    <Open>1.52818</Open>
+    <High>1.62821</High>
+    <Low>1.39748</Low>
+    <Close>1.61757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-16</Date>
+    <Open>1.6312</Open>
+    <High>1.64819</High>
+    <Low>1.43827</Low>
+    <Close>1.44098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-17</Date>
+    <Open>1.39506</Open>
+    <High>1.45396</High>
+    <Low>1.36919</Low>
+    <Close>1.39432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-18</Date>
+    <Open>1.394</Open>
+    <High>1.41519</High>
+    <Low>1.15828</Low>
+    <Close>1.25796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-19</Date>
+    <Open>1.25796</Open>
+    <High>1.37834</High>
+    <Low>1.2082</Low>
+    <Close>1.34825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-20</Date>
+    <Open>1.35837</Open>
+    <High>1.47822</High>
+    <Low>1.31828</Low>
+    <Close>1.40845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-21</Date>
+    <Open>1.40831</Open>
+    <High>1.54876</High>
+    <Low>1.38833</Low>
+    <Close>1.46838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-22</Date>
+    <Open>1.46838</Open>
+    <High>1.51848</High>
+    <Low>1.40845</Low>
+    <Close>1.46853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-23</Date>
+    <Open>1.47852</Open>
+    <High>1.5984</High>
+    <Low>1.44855</Low>
+    <Close>1.57842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-24</Date>
+    <Open>1.57432</Open>
+    <High>1.70868</High>
+    <Low>1.57243</Low>
+    <Close>1.69866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-25</Date>
+    <Open>1.6983</Open>
+    <High>1.78896</High>
+    <Low>1.65884</Low>
+    <Close>1.77875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-26</Date>
+    <Open>1.78875</Open>
+    <High>1.80899</High>
+    <Low>1.65701</Low>
+    <Close>1.71196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-27</Date>
+    <Open>1.71594</Open>
+    <High>1.76037</High>
+    <Low>1.62701</Low>
+    <Close>1.67571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-28</Date>
+    <Open>1.67747</Open>
+    <High>1.80935</High>
+    <Low>1.67333</Low>
+    <Close>1.71639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-29</Date>
+    <Open>1.71695</Open>
+    <High>1.71774</High>
+    <Low>1.52787</Low>
+    <Close>1.5781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-06-30</Date>
+    <Open>1.5781</Open>
+    <High>1.58809</High>
+    <Low>1.38819</Low>
+    <Close>1.42828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-01</Date>
+    <Open>1.42828</Open>
+    <High>1.55844</High>
+    <Low>1.4183</Low>
+    <Close>1.46838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-02</Date>
+    <Open>1.47837</Open>
+    <High>1.56512</High>
+    <Low>1.44826</Low>
+    <Close>1.56512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-03</Date>
+    <Open>1.56112</Open>
+    <High>1.58378</High>
+    <Low>1.48607</Low>
+    <Close>1.55198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-04</Date>
+    <Open>1.54983</Open>
+    <High>1.59408</High>
+    <Low>1.4949</Low>
+    <Close>1.58909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-05</Date>
+    <Open>1.59219</Open>
+    <High>1.668</High>
+    <Low>1.53815</Low>
+    <Close>1.60823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-06</Date>
+    <Open>1.60823</Open>
+    <High>1.62821</High>
+    <Low>1.53831</Low>
+    <Close>1.59824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-07</Date>
+    <Open>1.59824</Open>
+    <High>1.67899</High>
+    <Low>1.56947</Low>
+    <Close>1.659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-08</Date>
+    <Open>1.659</Open>
+    <High>1.71862</High>
+    <Low>1.58889</Low>
+    <Close>1.659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-09</Date>
+    <Open>1.659</Open>
+    <High>1.71897</High>
+    <Low>1.62902</Low>
+    <Close>1.69898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-10</Date>
+    <Open>1.68882</Open>
+    <High>1.72896</High>
+    <Low>1.60274</Low>
+    <Close>1.64261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-11</Date>
+    <Open>1.63902</Open>
+    <High>1.64581</High>
+    <Low>1.53761</Low>
+    <Close>1.54671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-12</Date>
+    <Open>1.54071</Open>
+    <High>1.54071</High>
+    <Low>1.44551</Low>
+    <Close>1.44575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-13</Date>
+    <Open>1.44691</Open>
+    <High>1.50959</High>
+    <Low>1.38128</Low>
+    <Close>1.47787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-14</Date>
+    <Open>1.48127</Open>
+    <High>1.55067</High>
+    <Low>1.44165</Low>
+    <Close>1.52978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-15</Date>
+    <Open>1.52878</Open>
+    <High>1.59424</High>
+    <Low>1.52833</Low>
+    <Close>1.56113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-16</Date>
+    <Open>1.56433</Open>
+    <High>1.60792</High>
+    <Low>1.51075</Low>
+    <Close>1.56809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-17</Date>
+    <Open>1.56809</Open>
+    <High>1.62673</High>
+    <Low>1.56068</Low>
+    <Close>1.59309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-18</Date>
+    <Open>1.60098</Open>
+    <High>1.71995</High>
+    <Low>1.56695</Low>
+    <Close>1.63162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-19</Date>
+    <Open>1.63231</Open>
+    <High>1.94039</High>
+    <Low>1.62656</Low>
+    <Close>1.93031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-20</Date>
+    <Open>1.93</Open>
+    <High>2.12019</High>
+    <Low>1.79986</Low>
+    <Close>1.9201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-21</Date>
+    <Open>1.9201</Open>
+    <High>1.94033</High>
+    <Low>1.75009</Low>
+    <Close>1.86047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-22</Date>
+    <Open>1.84046</Open>
+    <High>2.00848</High>
+    <Low>1.81014</Low>
+    <Close>1.8404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-23</Date>
+    <Open>1.844</Open>
+    <High>1.90788</High>
+    <Low>1.7585</Low>
+    <Close>1.80766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-24</Date>
+    <Open>1.80768</Open>
+    <High>1.93563</High>
+    <Low>1.80654</Low>
+    <Close>1.84037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-25</Date>
+    <Open>1.84035</Open>
+    <High>1.87037</High>
+    <Low>1.65018</Low>
+    <Close>1.66013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-26</Date>
+    <Open>1.66015</Open>
+    <High>1.67025</High>
+    <Low>1.52308</Low>
+    <Close>1.55023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-27</Date>
+    <Open>1.56023</Open>
+    <High>1.76724</High>
+    <Low>1.55022</Low>
+    <Close>1.74622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-28</Date>
+    <Open>1.74742</Open>
+    <High>1.96252</High>
+    <Low>1.73542</Low>
+    <Close>1.90918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-29</Date>
+    <Open>1.9098</Open>
+    <High>1.964</High>
+    <Low>1.81853</Low>
+    <Close>1.86076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-30</Date>
+    <Open>1.86074</Open>
+    <High>2.06072</High>
+    <Low>1.86063</Low>
+    <Close>1.93066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-07-31</Date>
+    <Open>1.93058</Open>
+    <High>2.10044</High>
+    <Low>1.89055</Low>
+    <Close>1.97045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-01</Date>
+    <Open>1.97047</Open>
+    <High>2.13562</High>
+    <Low>1.90084</Low>
+    <Close>2.0146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-02</Date>
+    <Open>2.0136</Open>
+    <High>2.07181</High>
+    <Low>1.81156</Low>
+    <Close>1.88732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-03</Date>
+    <Open>1.88638</Open>
+    <High>1.94531</High>
+    <Low>1.81645</Low>
+    <Close>1.89245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-04</Date>
+    <Open>1.89257</Open>
+    <High>2.82025</High>
+    <Low>1.82642</Low>
+    <Close>2.54908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-05</Date>
+    <Open>2.54908</Open>
+    <High>2.98939</High>
+    <Low>2.5001</Low>
+    <Close>2.75052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-06</Date>
+    <Open>2.75252</Open>
+    <High>2.88812</High>
+    <Low>2.56946</Low>
+    <Close>2.61958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-07</Date>
+    <Open>2.62558</Open>
+    <High>2.76655</High>
+    <Low>2.50963</Low>
+    <Close>2.62147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-08</Date>
+    <Open>2.6205</Open>
+    <High>3.14263</High>
+    <Low>2.59647</Low>
+    <Close>3.00336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-09</Date>
+    <Open>3.00136</Open>
+    <High>3.14153</High>
+    <Low>2.80762</Low>
+    <Close>3.0166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-10</Date>
+    <Open>3.0216</Open>
+    <High>3.03261</High>
+    <Low>2.78361</Low>
+    <Close>2.97686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-11</Date>
+    <Open>2.97486</Open>
+    <High>3.23549</High>
+    <Low>2.97486</Low>
+    <Close>3.00941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-12</Date>
+    <Open>3.01041</Open>
+    <High>3.02751</High>
+    <Low>2.84742</Low>
+    <Close>2.91234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-13</Date>
+    <Open>2.91234</Open>
+    <High>3.04455</High>
+    <Low>2.90528</Low>
+    <Close>2.94218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-14</Date>
+    <Open>2.94115</Open>
+    <High>2.94706</High>
+    <Low>2.79573</Low>
+    <Close>2.83088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-15</Date>
+    <Open>2.82885</Open>
+    <High>2.94179</High>
+    <Low>2.70259</Low>
+    <Close>2.72165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-16</Date>
+    <Open>2.72165</Open>
+    <High>2.75855</High>
+    <Low>2.63663</Low>
+    <Close>2.70024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-17</Date>
+    <Open>2.70022</Open>
+    <High>2.74736</High>
+    <Low>2.53623</Low>
+    <Close>2.57618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-18</Date>
+    <Open>2.57318</Open>
+    <High>2.8102</High>
+    <Low>2.53705</Low>
+    <Close>2.56603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-19</Date>
+    <Open>2.56626</Open>
+    <High>2.59226</High>
+    <Low>2.159</Low>
+    <Close>2.16322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-20</Date>
+    <Open>2.16707</Open>
+    <High>2.26745</High>
+    <Low>2.03645</Low>
+    <Close>2.107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-21</Date>
+    <Open>2.10796</Open>
+    <High>2.19993</High>
+    <Low>2.08869</Low>
+    <Close>2.17096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-22</Date>
+    <Open>2.16796</Open>
+    <High>2.18209</High>
+    <Low>2.02557</Low>
+    <Close>2.07065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-23</Date>
+    <Open>2.06969</Open>
+    <High>2.16767</High>
+    <Low>2.0339</Low>
+    <Close>2.12702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-24</Date>
+    <Open>2.128</Open>
+    <High>2.23502</High>
+    <Low>2.06692</Low>
+    <Close>2.1842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-25</Date>
+    <Open>2.19018</Open>
+    <High>2.21876</High>
+    <Low>2.12715</Low>
+    <Close>2.14506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-26</Date>
+    <Open>2.14606</Open>
+    <High>2.15398</High>
+    <Low>1.88698</Low>
+    <Close>1.91419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-27</Date>
+    <Open>1.90919</Open>
+    <High>1.90919</High>
+    <Low>1.80405</Low>
+    <Close>1.80405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-28</Date>
+    <Open>1.80504</Open>
+    <High>1.84411</High>
+    <Low>1.717</Low>
+    <Close>1.723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-29</Date>
+    <Open>1.722</Open>
+    <High>2.07112</High>
+    <Low>1.67585</Low>
+    <Close>1.89213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-30</Date>
+    <Open>1.89215</Open>
+    <High>2.0851</High>
+    <Low>1.87209</Low>
+    <Close>2.00618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-08-31</Date>
+    <Open>2.00718</Open>
+    <High>2.16517</High>
+    <Low>1.9782</Low>
+    <Close>2.10198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-01</Date>
+    <Open>2.09998</Open>
+    <High>2.10998</High>
+    <Low>1.98594</Low>
+    <Close>2.01748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-02</Date>
+    <Open>2.04878</Open>
+    <High>2.07428</High>
+    <Low>1.9391</Low>
+    <Close>1.96794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-03</Date>
+    <Open>1.96651</Open>
+    <High>1.97094</High>
+    <Low>1.8876</Low>
+    <Close>1.9393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-04</Date>
+    <Open>1.9439</Open>
+    <High>1.981</High>
+    <Low>1.9177</Low>
+    <Close>1.9403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-05</Date>
+    <Open>1.894</Open>
+    <High>1.919</High>
+    <Low>1.848</Low>
+    <Close>1.90519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-06</Date>
+    <Open>1.90819</Open>
+    <High>1.9702</High>
+    <Low>1.753</Low>
+    <Close>1.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-07</Date>
+    <Open>1.77712</Open>
+    <High>1.88398</High>
+    <Low>1.73393</Low>
+    <Close>1.87119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-08</Date>
+    <Open>1.87413</Open>
+    <High>2.0274</High>
+    <Low>1.84911</Low>
+    <Close>1.92519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-09</Date>
+    <Open>1.9543</Open>
+    <High>2.21406</High>
+    <Low>1.95321</Low>
+    <Close>2.09601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-10</Date>
+    <Open>2.09645</Open>
+    <High>2.19095</High>
+    <Low>2.06402</Low>
+    <Close>2.0881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-11</Date>
+    <Open>2.10722</Open>
+    <High>2.14616</High>
+    <Low>2.0603</Low>
+    <Close>2.08202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-12</Date>
+    <Open>2.0821</Open>
+    <High>2.29697</High>
+    <Low>2.05541</Low>
+    <Close>2.09948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-13</Date>
+    <Open>2.10623</Open>
+    <High>2.10708</High>
+    <Low>1.86032</Low>
+    <Close>1.87784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-14</Date>
+    <Open>1.87379</Open>
+    <High>1.88201</High>
+    <Low>1.79756</Low>
+    <Close>1.85646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-15</Date>
+    <Open>1.85916</Open>
+    <High>1.87713</High>
+    <Low>1.75834</Low>
+    <Close>1.77112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-16</Date>
+    <Open>1.77094</Open>
+    <High>1.7925</High>
+    <Low>1.72427</Low>
+    <Close>1.77422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-17</Date>
+    <Open>1.7743</Open>
+    <High>1.8446</High>
+    <Low>1.76632</Low>
+    <Close>1.8278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-18</Date>
+    <Open>1.8279</Open>
+    <High>1.84768</High>
+    <Low>1.58304</Low>
+    <Close>1.6694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-19</Date>
+    <Open>1.67</Open>
+    <High>1.69694</High>
+    <Low>1.5932</Low>
+    <Close>1.69467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-20</Date>
+    <Open>1.69467</Open>
+    <High>1.718</High>
+    <Low>1.63666</Low>
+    <Close>1.68217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-21</Date>
+    <Open>1.6779</Open>
+    <High>1.76458</High>
+    <Low>1.6079</Low>
+    <Close>1.6132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-22</Date>
+    <Open>1.6137</Open>
+    <High>1.7053</High>
+    <Low>1.5965</Low>
+    <Close>1.6878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-23</Date>
+    <Open>1.6878</Open>
+    <High>1.7592</High>
+    <Low>1.6302</Low>
+    <Close>1.6962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-24</Date>
+    <Open>1.69608</Open>
+    <High>1.73903</High>
+    <Low>1.68942</Low>
+    <Close>1.69694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-25</Date>
+    <Open>1.6972</Open>
+    <High>1.69925</High>
+    <Low>1.62913</Low>
+    <Close>1.6388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-26</Date>
+    <Open>1.6388</Open>
+    <High>1.65667</High>
+    <Low>1.593</Low>
+    <Close>1.6365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-27</Date>
+    <Open>1.6359</Open>
+    <High>1.73007</High>
+    <Low>1.627</Low>
+    <Close>1.64844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-28</Date>
+    <Open>1.6505</Open>
+    <High>1.66853</High>
+    <Low>1.57653</Low>
+    <Close>1.6568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-29</Date>
+    <Open>1.6488</Open>
+    <High>1.78378</High>
+    <Low>1.6044</Low>
+    <Close>1.69637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-09-30</Date>
+    <Open>1.6962</Open>
+    <High>1.73937</High>
+    <Low>1.6638</Low>
+    <Close>1.6792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-01</Date>
+    <Open>1.6797</Open>
+    <High>1.7039</High>
+    <Low>1.6655</Low>
+    <Close>1.6826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-02</Date>
+    <Open>1.6821</Open>
+    <High>1.69554</High>
+    <Low>1.6319</Low>
+    <Close>1.6511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-03</Date>
+    <Open>1.65137</Open>
+    <High>1.69367</High>
+    <Low>1.606</Low>
+    <Close>1.68367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-04</Date>
+    <Open>1.68357</Open>
+    <High>1.72322</High>
+    <Low>1.66367</Low>
+    <Close>1.71912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-05</Date>
+    <Open>1.71244</Open>
+    <High>1.72024</High>
+    <Low>1.6552</Low>
+    <Close>1.68784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-06</Date>
+    <Open>1.68724</Open>
+    <High>1.72364</High>
+    <Low>1.6715</Low>
+    <Close>1.69679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-07</Date>
+    <Open>1.69679</Open>
+    <High>1.69894</High>
+    <Low>1.65963</Low>
+    <Close>1.68434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-08</Date>
+    <Open>1.68337</Open>
+    <High>1.71042</High>
+    <Low>1.67052</Low>
+    <Close>1.67203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-09</Date>
+    <Open>1.67624</Open>
+    <High>1.71007</High>
+    <Low>1.66797</Low>
+    <Close>1.69724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-10</Date>
+    <Open>1.70244</Open>
+    <High>1.71654</High>
+    <Low>1.60494</Low>
+    <Close>1.60734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-11</Date>
+    <Open>1.6075</Open>
+    <High>1.61179</High>
+    <Low>1.52805</Low>
+    <Close>1.58944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-12</Date>
+    <Open>1.58926</Open>
+    <High>1.59906</High>
+    <Low>1.54519</Low>
+    <Close>1.55615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-13</Date>
+    <Open>1.55413</Open>
+    <High>1.5603</High>
+    <Low>1.3972</Low>
+    <Close>1.51682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-14</Date>
+    <Open>1.51752</Open>
+    <High>1.56974</High>
+    <Low>1.46784</Low>
+    <Close>1.47024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-15</Date>
+    <Open>1.46834</Open>
+    <High>1.50174</High>
+    <Low>1.45721</Low>
+    <Close>1.47047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-16</Date>
+    <Open>1.4704</Open>
+    <High>1.51386</High>
+    <Low>1.45697</Low>
+    <Close>1.48766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-17</Date>
+    <Open>1.48647</Open>
+    <High>1.53952</High>
+    <Low>1.47687</Low>
+    <Close>1.53273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-18</Date>
+    <Open>1.53265</Open>
+    <High>1.57846</High>
+    <Low>1.50213</Low>
+    <Close>1.52829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-19</Date>
+    <Open>1.52515</Open>
+    <High>1.54062</High>
+    <Low>1.46013</Low>
+    <Close>1.4757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-20</Date>
+    <Open>1.47509</Open>
+    <High>1.47889</High>
+    <Low>1.41909</Low>
+    <Close>1.4339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-21</Date>
+    <Open>1.4339</Open>
+    <High>1.45092</High>
+    <Low>1.38476</Low>
+    <Close>1.44692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-22</Date>
+    <Open>1.4387</Open>
+    <High>1.47813</High>
+    <Low>1.43607</Low>
+    <Close>1.46932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-23</Date>
+    <Open>1.47213</Open>
+    <High>1.49399</High>
+    <Low>1.43203</Low>
+    <Close>1.48401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-24</Date>
+    <Open>1.48369</Open>
+    <High>1.53894</High>
+    <Low>1.4688</Low>
+    <Close>1.48677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-25</Date>
+    <Open>1.48676</Open>
+    <High>1.58523</High>
+    <Low>1.47677</Low>
+    <Close>1.5523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-26</Date>
+    <Open>1.54673</Open>
+    <High>1.69626</High>
+    <Low>1.54062</Low>
+    <Close>1.62325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-27</Date>
+    <Open>1.62165</Open>
+    <High>1.72104</High>
+    <Low>1.60965</Low>
+    <Close>1.6377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-28</Date>
+    <Open>1.6377</Open>
+    <High>1.7192</High>
+    <Low>1.5914</Low>
+    <Close>1.70716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-29</Date>
+    <Open>1.70912</Open>
+    <High>1.85828</High>
+    <Low>1.68834</Low>
+    <Close>1.80682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-30</Date>
+    <Open>1.80713</Open>
+    <High>1.81831</High>
+    <Low>1.68935</Low>
+    <Close>1.71764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-10-31</Date>
+    <Open>1.71764</Open>
+    <High>1.7362</High>
+    <Low>1.639</Low>
+    <Close>1.66087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-01</Date>
+    <Open>1.661</Open>
+    <High>1.69249</High>
+    <Low>1.61986</Low>
+    <Close>1.62062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-02</Date>
+    <Open>1.62164</Open>
+    <High>1.68546</High>
+    <Low>1.56822</Low>
+    <Close>1.6081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-03</Date>
+    <Open>1.6197</Open>
+    <High>2.05037</High>
+    <Low>1.59305</Low>
+    <Close>1.78028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-04</Date>
+    <Open>1.78028</Open>
+    <High>1.87332</High>
+    <Low>1.71409</Low>
+    <Close>1.83505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-05</Date>
+    <Open>1.83005</Open>
+    <High>1.94038</High>
+    <Low>1.83005</Low>
+    <Close>1.85299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-06</Date>
+    <Open>1.85087</Open>
+    <High>1.85924</High>
+    <Low>1.77991</Low>
+    <Close>1.78544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-07</Date>
+    <Open>1.73606</Open>
+    <High>1.77284</High>
+    <Low>1.68938</Low>
+    <Close>1.71451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-08</Date>
+    <Open>1.70471</Open>
+    <High>1.7358</High>
+    <Low>1.37035</Low>
+    <Close>1.44562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-09</Date>
+    <Open>1.44733</Open>
+    <High>1.48315</High>
+    <Low>1.14137</Low>
+    <Close>1.17705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-10</Date>
+    <Open>1.17439</Open>
+    <High>1.47862</High>
+    <Low>1.14997</Low>
+    <Close>1.35864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-11</Date>
+    <Open>1.35948</Open>
+    <High>1.54665</High>
+    <Low>1.21883</Low>
+    <Close>1.26572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-12</Date>
+    <Open>1.24577</Open>
+    <High>1.30508</High>
+    <Low>1.19594</Low>
+    <Close>1.23607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-13</Date>
+    <Open>1.2173</Open>
+    <High>1.27488</High>
+    <Low>1.17304</Low>
+    <Close>1.2122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-14</Date>
+    <Open>1.2122</Open>
+    <High>1.22121</High>
+    <Low>1.1204</Low>
+    <Close>1.17046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-15</Date>
+    <Open>1.16809</Open>
+    <High>1.27752</High>
+    <Low>1.16715</Low>
+    <Close>1.24066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-16</Date>
+    <Open>1.23939</Open>
+    <High>1.29009</High>
+    <Low>1.18188</Low>
+    <Close>1.19381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-17</Date>
+    <Open>1.19271</Open>
+    <High>1.23004</High>
+    <Low>1.169</Low>
+    <Close>1.19874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-18</Date>
+    <Open>1.19875</Open>
+    <High>1.23102</High>
+    <Low>1.18599</Low>
+    <Close>1.20571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-19</Date>
+    <Open>1.20571</Open>
+    <High>1.24753</High>
+    <Low>1.19172</Low>
+    <Close>1.22761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-20</Date>
+    <Open>1.22472</Open>
+    <High>1.25314</High>
+    <Low>1.16158</Low>
+    <Close>1.16712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-21</Date>
+    <Open>1.15235</Open>
+    <High>1.15342</High>
+    <Low>1.08789</Low>
+    <Close>1.11077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-22</Date>
+    <Open>1.11175</Open>
+    <High>1.14064</High>
+    <Low>1.07369</Low>
+    <Close>1.12872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-23</Date>
+    <Open>1.12572</Open>
+    <High>1.1775</High>
+    <Low>1.12262</Low>
+    <Close>1.15663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-24</Date>
+    <Open>1.15663</Open>
+    <High>1.1827</High>
+    <Low>1.12922</Low>
+    <Close>1.13694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-25</Date>
+    <Open>1.14013</Open>
+    <High>1.15012</High>
+    <Low>1.10329</Low>
+    <Close>1.11827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-26</Date>
+    <Open>1.12265</Open>
+    <High>1.14225</High>
+    <Low>1.11144</Low>
+    <Close>1.11394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-27</Date>
+    <Open>1.11434</Open>
+    <High>1.15382</High>
+    <Low>1.11145</Low>
+    <Close>1.14709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-28</Date>
+    <Open>1.14764</Open>
+    <High>1.1501</High>
+    <Low>1.0794</Low>
+    <Close>1.09149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-29</Date>
+    <Open>1.09147</Open>
+    <High>1.11543</High>
+    <Low>1.07761</Low>
+    <Close>1.0915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-11-30</Date>
+    <Open>1.0941</Open>
+    <High>1.13168</High>
+    <Low>1.09292</Low>
+    <Close>1.12575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-01</Date>
+    <Open>1.12513</Open>
+    <High>1.14201</High>
+    <Low>1.09414</Low>
+    <Close>1.09657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-02</Date>
+    <Open>1.09617</Open>
+    <High>1.11002</High>
+    <Low>1.07552</Low>
+    <Close>1.10097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-03</Date>
+    <Open>1.09947</Open>
+    <High>1.10503</High>
+    <Low>1.07131</Low>
+    <Close>1.08561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-04</Date>
+    <Open>1.08451</Open>
+    <High>1.13403</High>
+    <Low>1.06561</Low>
+    <Close>1.12311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-05</Date>
+    <Open>1.12451</Open>
+    <High>1.16303</High>
+    <Low>1.08971</Low>
+    <Close>1.09533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-06</Date>
+    <Open>1.09101</Open>
+    <High>1.11192</High>
+    <Low>1.08963</Low>
+    <Close>1.09858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-07</Date>
+    <Open>1.09508</Open>
+    <High>1.1119</High>
+    <Low>1.01517</Low>
+    <Close>1.0322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-08</Date>
+    <Open>1.0321</Open>
+    <High>1.04255</High>
+    <Low>1.0022</Low>
+    <Close>1.03437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-09</Date>
+    <Open>1.03267</Open>
+    <High>1.04919</High>
+    <Low>1.01709</Low>
+    <Close>1.01913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-10</Date>
+    <Open>1.01899</Open>
+    <High>1.03201</High>
+    <Low>1.01079</Low>
+    <Close>1.02708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-11</Date>
+    <Open>1.02368</Open>
+    <High>1.03644</High>
+    <Low>0.994</Low>
+    <Close>0.9941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-12</Date>
+    <Open>0.9953</Open>
+    <High>0.9953</High>
+    <Low>0.91709</Low>
+    <Close>0.93668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-13</Date>
+    <Open>0.93458</Open>
+    <High>0.97302</High>
+    <Low>0.88784</Low>
+    <Close>0.93677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-14</Date>
+    <Open>0.93688</Open>
+    <High>0.96755</High>
+    <Low>0.92304</Low>
+    <Close>0.93396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-15</Date>
+    <Open>0.934</Open>
+    <High>0.93409</High>
+    <Low>0.89179</Low>
+    <Close>0.89628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-16</Date>
+    <Open>0.89599</Open>
+    <High>0.90399</High>
+    <Low>0.74815</Low>
+    <Close>0.773277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-17</Date>
+    <Open>0.769377</Open>
+    <High>0.782857</High>
+    <Low>0.718136</Low>
+    <Close>0.747997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-18</Date>
+    <Open>0.748097</Open>
+    <High>0.786639</High>
+    <Low>0.748097</Low>
+    <Close>0.780394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-19</Date>
+    <Open>0.776024</Open>
+    <High>0.776094</High>
+    <Low>0.710428</Low>
+    <Close>0.7363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-20</Date>
+    <Open>0.738993</Open>
+    <High>0.781908</High>
+    <Low>0.708979</Low>
+    <Close>0.769931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-21</Date>
+    <Open>0.769331</Open>
+    <High>0.780323</High>
+    <Low>0.74903</Low>
+    <Close>0.749037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-22</Date>
+    <Open>0.750038</Open>
+    <High>0.7718</High>
+    <Low>0.737963</Low>
+    <Close>0.752887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-23</Date>
+    <Open>0.761186</Open>
+    <High>0.768823</High>
+    <Low>0.750987</Low>
+    <Close>0.758524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-24</Date>
+    <Open>0.761024</Open>
+    <High>0.767839</High>
+    <Low>0.751825</Low>
+    <Close>0.755847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-25</Date>
+    <Open>0.756055</Open>
+    <High>0.762454</High>
+    <Low>0.73456</Low>
+    <Close>0.739904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-26</Date>
+    <Open>0.739911</Open>
+    <High>0.777738</High>
+    <Low>0.739519</Low>
+    <Close>0.760948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-27</Date>
+    <Open>0.760948</Open>
+    <High>0.772146</High>
+    <Low>0.730642</Low>
+    <Close>0.730715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-28</Date>
+    <Open>0.730715</Open>
+    <High>0.740811</High>
+    <Low>0.680505</Low>
+    <Close>0.682631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-29</Date>
+    <Open>0.682538</Open>
+    <High>0.708624</High>
+    <Low>0.669699</Low>
+    <Close>0.671098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-30</Date>
+    <Open>0.671098</Open>
+    <High>0.681886</High>
+    <Low>0.645671</Low>
+    <Close>0.64647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2022-12-31</Date>
+    <Open>0.64647</Open>
+    <High>0.667966</High>
+    <Low>0.64587</Low>
+    <Close>0.648775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-01</Date>
+    <Open>0.649169</Open>
+    <High>0.659736</High>
+    <Low>0.644233</Low>
+    <Close>0.656691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-02</Date>
+    <Open>0.656506</Open>
+    <High>0.674737</High>
+    <Low>0.644829</Low>
+    <Close>0.668279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-03</Date>
+    <Open>0.668386</Open>
+    <High>0.755583</High>
+    <Low>0.665287</Low>
+    <Close>0.720719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-04</Date>
+    <Open>0.720719</Open>
+    <High>0.744695</High>
+    <Low>0.711572</Low>
+    <Close>0.715764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-05</Date>
+    <Open>0.716763</Open>
+    <High>0.730096</High>
+    <Low>0.70062</Low>
+    <Close>0.705953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-06</Date>
+    <Open>0.706288</Open>
+    <High>0.71772</High>
+    <Low>0.673656</Low>
+    <Close>0.690886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-07</Date>
+    <Open>0.691279</Open>
+    <High>0.720098</High>
+    <Low>0.690286</Low>
+    <Close>0.696833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-08</Date>
+    <Open>0.696833</Open>
+    <High>0.726884</High>
+    <Low>0.687197</Low>
+    <Close>0.721513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-09</Date>
+    <Open>0.717914</Open>
+    <High>0.845741</High>
+    <Low>0.717771</Low>
+    <Close>0.787892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-10</Date>
+    <Open>0.7871</Open>
+    <High>0.800308</High>
+    <Low>0.765077</Low>
+    <Close>0.798012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-11</Date>
+    <Open>0.796019</Open>
+    <High>0.80308</High>
+    <Low>0.759709</Low>
+    <Close>0.796128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-12</Date>
+    <Open>0.796128</Open>
+    <High>0.908845</High>
+    <Low>0.796128</Low>
+    <Close>0.877188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-13</Date>
+    <Open>0.877179</Open>
+    <High>0.946795</High>
+    <Low>0.865069</Low>
+    <Close>0.920983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-14</Date>
+    <Open>0.912182</Open>
+    <High>1.08586</High>
+    <Low>0.907964</Low>
+    <Close>0.99915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-15</Date>
+    <Open>0.9996</Open>
+    <High>1.15807</High>
+    <Low>0.99866</Low>
+    <Close>1.08702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-16</Date>
+    <Open>1.08723</Open>
+    <High>1.13655</High>
+    <Low>1.02517</Low>
+    <Close>1.06692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-17</Date>
+    <Open>1.06742</Open>
+    <High>1.07799</High>
+    <Low>1.02905</Low>
+    <Close>1.06721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-18</Date>
+    <Open>1.06722</Open>
+    <High>1.09453</High>
+    <Low>0.96112</Low>
+    <Close>0.99005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-19</Date>
+    <Open>0.99015</Open>
+    <High>1.0344</High>
+    <Low>0.97697</Low>
+    <Close>1.01996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-20</Date>
+    <Open>1.03181</Open>
+    <High>1.0946</High>
+    <Low>0.99109</Low>
+    <Close>1.08949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-21</Date>
+    <Open>1.0894</Open>
+    <High>1.12332</High>
+    <Low>1.04047</Low>
+    <Close>1.07491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-22</Date>
+    <Open>1.07367</Open>
+    <High>1.23704</High>
+    <Low>1.04724</Low>
+    <Close>1.14733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-23</Date>
+    <Open>1.14803</Open>
+    <High>1.27735</High>
+    <Low>1.14002</Low>
+    <Close>1.19299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-24</Date>
+    <Open>1.18694</Open>
+    <High>1.2472</High>
+    <Low>1.06865</Low>
+    <Close>1.08202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-25</Date>
+    <Open>1.08203</Open>
+    <High>1.15432</High>
+    <Low>1.04504</Low>
+    <Close>1.12608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-26</Date>
+    <Open>1.12609</Open>
+    <High>1.16317</High>
+    <Low>1.08813</Low>
+    <Close>1.10301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-27</Date>
+    <Open>1.10269</Open>
+    <High>1.12067</High>
+    <Low>1.05862</Low>
+    <Close>1.06951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-28</Date>
+    <Open>1.06906</Open>
+    <High>1.13307</High>
+    <Low>1.03912</Low>
+    <Close>1.05231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-29</Date>
+    <Open>1.04751</Open>
+    <High>1.11298</High>
+    <Low>1.04612</Low>
+    <Close>1.10848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-30</Date>
+    <Open>1.11686</Open>
+    <High>1.11686</High>
+    <Low>0.95325</Low>
+    <Close>0.97297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-01-31</Date>
+    <Open>0.97236</Open>
+    <High>1.08001</High>
+    <Low>0.96757</Low>
+    <Close>1.04809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-01</Date>
+    <Open>1.05098</Open>
+    <High>1.14085</High>
+    <Low>1.00894</Low>
+    <Close>1.13817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-02</Date>
+    <Open>1.13816</Open>
+    <High>1.19104</High>
+    <Low>1.10221</Low>
+    <Close>1.1144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-03</Date>
+    <Open>1.11482</Open>
+    <High>1.18369</High>
+    <Low>1.10067</Low>
+    <Close>1.17129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-04</Date>
+    <Open>1.17089</Open>
+    <High>1.19458</High>
+    <Low>1.14697</Low>
+    <Close>1.16959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-05</Date>
+    <Open>1.16999</Open>
+    <High>1.17821</High>
+    <Low>1.06917</Low>
+    <Close>1.08478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-06</Date>
+    <Open>1.08377</Open>
+    <High>1.14175</High>
+    <Low>1.08118</Low>
+    <Close>1.10784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-07</Date>
+    <Open>1.10784</Open>
+    <High>1.15615</High>
+    <Low>1.07476</Low>
+    <Close>1.15117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-08</Date>
+    <Open>1.15087</Open>
+    <High>1.2901</High>
+    <Low>1.12505</Low>
+    <Close>1.14328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-09</Date>
+    <Open>1.14188</Open>
+    <High>1.14986</High>
+    <Low>0.96927</Low>
+    <Close>0.97689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-10</Date>
+    <Open>0.9824</Open>
+    <High>1.04735</High>
+    <Low>0.9821</Low>
+    <Close>1.02665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-11</Date>
+    <Open>1.02665</Open>
+    <High>1.04419</High>
+    <Low>1.01021</Low>
+    <Close>1.04289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-12</Date>
+    <Open>1.04301</Open>
+    <High>1.0861</High>
+    <Low>1.01605</Low>
+    <Close>1.02148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-13</Date>
+    <Open>1.0215</Open>
+    <High>1.04394</High>
+    <Low>0.96975</Low>
+    <Close>0.99874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-14</Date>
+    <Open>1.00034</Open>
+    <High>1.05128</High>
+    <Low>0.98058</Low>
+    <Close>1.02491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-15</Date>
+    <Open>1.02931</Open>
+    <High>1.14417</High>
+    <Low>1.01708</Low>
+    <Close>1.13709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-16</Date>
+    <Open>1.13668</Open>
+    <High>1.21103</High>
+    <Low>1.11308</Low>
+    <Close>1.11648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-17</Date>
+    <Open>1.11308</Open>
+    <High>1.36731</High>
+    <Low>1.09802</Low>
+    <Close>1.29733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-18</Date>
+    <Open>1.28863</Open>
+    <High>1.40957</High>
+    <Low>1.2832</Low>
+    <Close>1.31702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-19</Date>
+    <Open>1.31871</Open>
+    <High>1.36946</High>
+    <Low>1.30145</Low>
+    <Close>1.33441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-20</Date>
+    <Open>1.33779</Open>
+    <High>1.44659</High>
+    <Low>1.32637</Low>
+    <Close>1.37105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-21</Date>
+    <Open>1.36985</Open>
+    <High>1.44202</High>
+    <Low>1.28451</Low>
+    <Close>1.29043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-22</Date>
+    <Open>1.29212</Open>
+    <High>1.32904</High>
+    <Low>1.13508</Low>
+    <Close>1.21791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-23</Date>
+    <Open>1.21788</Open>
+    <High>1.29362</High>
+    <Low>1.19955</Low>
+    <Close>1.20226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-24</Date>
+    <Open>1.20099</Open>
+    <High>1.23483</High>
+    <Low>1.14831</Low>
+    <Close>1.15689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-25</Date>
+    <Open>1.15978</Open>
+    <High>1.26193</High>
+    <Low>1.15492</Low>
+    <Close>1.20248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-26</Date>
+    <Open>1.20272</Open>
+    <High>1.2292</High>
+    <Low>1.18582</Low>
+    <Close>1.21257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-27</Date>
+    <Open>1.21356</Open>
+    <High>1.24524</High>
+    <Low>1.18662</Low>
+    <Close>1.20117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-02-28</Date>
+    <Open>1.20117</Open>
+    <High>1.21391</High>
+    <Low>1.15216</Low>
+    <Close>1.16221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-01</Date>
+    <Open>1.16093</Open>
+    <High>1.20744</High>
+    <Low>1.14301</Low>
+    <Close>1.19074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-02</Date>
+    <Open>1.19137</Open>
+    <High>1.21039</High>
+    <Low>1.117</Low>
+    <Close>1.14509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-03</Date>
+    <Open>1.14139</Open>
+    <High>1.15058</High>
+    <Low>1.02724</Low>
+    <Close>1.06617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-04</Date>
+    <Open>1.06497</Open>
+    <High>1.08932</High>
+    <Low>1.02415</Low>
+    <Close>1.03527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-05</Date>
+    <Open>1.04668</Open>
+    <High>1.07638</High>
+    <Low>1.04355</Low>
+    <Close>1.05502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-06</Date>
+    <Open>1.05503</Open>
+    <High>1.07001</High>
+    <Low>1.0141</Low>
+    <Close>1.04984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-07</Date>
+    <Open>1.0498</Open>
+    <High>1.0641</High>
+    <Low>0.99191</Low>
+    <Close>0.99512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-08</Date>
+    <Open>0.99605</Open>
+    <High>1.01764</High>
+    <Low>0.94065</Low>
+    <Close>0.94675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-09</Date>
+    <Open>0.94579</Open>
+    <High>0.9781</High>
+    <Low>0.87112</Low>
+    <Close>0.88898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-10</Date>
+    <Open>0.88928</Open>
+    <High>0.89414</High>
+    <Low>0.81664</Low>
+    <Close>0.86862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-11</Date>
+    <Open>0.86827</Open>
+    <High>0.91364</High>
+    <Low>0.83399</Low>
+    <Close>0.8611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-12</Date>
+    <Open>0.86111</Open>
+    <High>0.926345</High>
+    <Low>0.852736</Low>
+    <Close>0.924124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-13</Date>
+    <Open>0.92584</Open>
+    <High>1.00427</High>
+    <Low>0.912348</Low>
+    <Close>0.995556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-14</Date>
+    <Open>0.987815</Open>
+    <High>1.0822</High>
+    <Low>0.964433</Low>
+    <Close>1.03262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-15</Date>
+    <Open>1.0422</Open>
+    <High>1.06653</High>
+    <Low>0.946823</Low>
+    <Close>0.964945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-16</Date>
+    <Open>0.966232</Open>
+    <High>1.00206</High>
+    <Low>0.961139</Low>
+    <Close>0.996746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-17</Date>
+    <Open>0.996044</Open>
+    <High>1.06508</High>
+    <Low>0.991488</Low>
+    <Close>1.06297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-18</Date>
+    <Open>1.06307</Open>
+    <High>1.10462</High>
+    <Low>1.02936</Low>
+    <Close>1.05345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-19</Date>
+    <Open>1.05345</Open>
+    <High>1.11102</High>
+    <Low>1.03495</Low>
+    <Close>1.07966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-20</Date>
+    <Open>1.07976</Open>
+    <High>1.09878</High>
+    <Low>1.00972</Low>
+    <Close>1.06076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-21</Date>
+    <Open>1.06096</Open>
+    <High>1.13452</High>
+    <Low>1.00534</Low>
+    <Close>1.05908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-22</Date>
+    <Open>1.05937</Open>
+    <High>1.0705</High>
+    <Low>0.95787</Low>
+    <Close>0.984791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-23</Date>
+    <Open>0.984791</Open>
+    <High>1.04675</High>
+    <Low>0.972522</Low>
+    <Close>1.01922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-24</Date>
+    <Open>1.01922</Open>
+    <High>1.02764</High>
+    <Low>0.96373</Low>
+    <Close>0.977806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-25</Date>
+    <Open>0.977984</Open>
+    <High>0.990083</High>
+    <Low>0.941841</Low>
+    <Close>0.955426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-26</Date>
+    <Open>0.955025</Open>
+    <High>0.985987</High>
+    <Low>0.950311</Low>
+    <Close>0.969294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-27</Date>
+    <Open>0.97387</Open>
+    <High>0.979838</High>
+    <Low>0.904727</Low>
+    <Close>0.909427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-28</Date>
+    <Open>0.911028</Open>
+    <High>0.942354</High>
+    <Low>0.899271</Low>
+    <Close>0.937465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-29</Date>
+    <Open>0.936465</Open>
+    <High>1.00929</High>
+    <Low>0.929842</Low>
+    <Close>0.986978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-30</Date>
+    <Open>0.986887</Open>
+    <High>1.00722</High>
+    <Low>0.94928</Low>
+    <Close>0.969362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-03-31</Date>
+    <Open>0.969162</Open>
+    <High>1.02086</High>
+    <Low>0.946469</Low>
+    <Close>1.00411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-01</Date>
+    <Open>1.0043</Open>
+    <High>1.0075</High>
+    <Low>0.980924</Low>
+    <Close>0.998969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-02</Date>
+    <Open>0.997469</Open>
+    <High>1.00238</High>
+    <Low>0.955249</Low>
+    <Close>0.960705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-03</Date>
+    <Open>0.964598</Open>
+    <High>0.994589</High>
+    <Low>0.938194</Low>
+    <Close>0.94958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-04</Date>
+    <Open>0.94837</Open>
+    <High>0.991237</High>
+    <Low>0.946869</Low>
+    <Close>0.9805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-05</Date>
+    <Open>0.986393</Open>
+    <High>1.00845</High>
+    <Low>0.970881</Low>
+    <Close>0.991457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-06</Date>
+    <Open>0.987465</Open>
+    <High>1.04327</High>
+    <Low>0.986227</Low>
+    <Close>1.01045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-07</Date>
+    <Open>1.01136</Open>
+    <High>1.01901</High>
+    <Low>0.977418</Low>
+    <Close>0.983928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-08</Date>
+    <Open>0.984128</Open>
+    <High>0.999389</High>
+    <Low>0.978389</Low>
+    <Close>0.981283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-09</Date>
+    <Open>0.982783</Open>
+    <High>0.995266</High>
+    <Low>0.963478</Low>
+    <Close>0.98418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-10</Date>
+    <Open>0.980786</Open>
+    <High>0.995967</High>
+    <Low>0.97185</Low>
+    <Close>0.990402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-11</Date>
+    <Open>0.991012</Open>
+    <High>1.00891</High>
+    <Low>0.990682</Low>
+    <Close>0.998187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-12</Date>
+    <Open>0.998788</Open>
+    <High>0.999098</High>
+    <Low>0.960064</Low>
+    <Close>0.980164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-13</Date>
+    <Open>0.979163</Open>
+    <High>1.02402</High>
+    <Low>0.97827</Low>
+    <Close>1.01678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-14</Date>
+    <Open>1.01707</Open>
+    <High>1.05756</High>
+    <Low>1.01511</Low>
+    <Close>1.04728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-15</Date>
+    <Open>1.04316</Open>
+    <High>1.0687</High>
+    <Low>1.02943</Low>
+    <Close>1.05704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-16</Date>
+    <Open>1.05404</Open>
+    <High>1.07284</High>
+    <Low>1.03414</Low>
+    <Close>1.07003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-17</Date>
+    <Open>1.06753</Open>
+    <High>1.07646</High>
+    <Low>1.01441</Low>
+    <Close>1.03211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-18</Date>
+    <Open>1.03101</Open>
+    <High>1.06518</High>
+    <Low>1.01743</Low>
+    <Close>1.05448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-19</Date>
+    <Open>1.05447</Open>
+    <High>1.05995</High>
+    <Low>0.94969</Low>
+    <Close>0.95953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-20</Date>
+    <Open>0.95633</Open>
+    <High>0.97099</High>
+    <Low>0.9251</Low>
+    <Close>0.93327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-21</Date>
+    <Open>0.93327</Open>
+    <High>0.95343</High>
+    <Low>0.8917</Low>
+    <Close>0.8951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-22</Date>
+    <Open>0.895</Open>
+    <High>0.92164</High>
+    <Low>0.89479</Low>
+    <Close>0.91898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-23</Date>
+    <Open>0.91899</Open>
+    <High>0.92567</High>
+    <Low>0.87107</Low>
+    <Close>0.88744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-24</Date>
+    <Open>0.88664</Open>
+    <High>0.95889</High>
+    <Low>0.88139</Low>
+    <Close>0.91722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-25</Date>
+    <Open>0.91723</Open>
+    <High>0.92292</High>
+    <Low>0.86684</Low>
+    <Close>0.90341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-26</Date>
+    <Open>0.90291</Open>
+    <High>0.94017</High>
+    <Low>0.8662</Low>
+    <Close>0.86639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-27</Date>
+    <Open>0.87458</Open>
+    <High>0.90995</High>
+    <Low>0.87458</Low>
+    <Close>0.90632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-28</Date>
+    <Open>0.9055</Open>
+    <High>0.90839</High>
+    <Low>0.88731</Low>
+    <Close>0.89451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-29</Date>
+    <Open>0.89459</Open>
+    <High>0.91367</High>
+    <Low>0.89459</Low>
+    <Close>0.90173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-04-30</Date>
+    <Open>0.90173</Open>
+    <High>0.91228</High>
+    <Low>0.88359</Low>
+    <Close>0.88951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-01</Date>
+    <Open>0.8904</Open>
+    <High>0.89714</High>
+    <Low>0.83327</Low>
+    <Close>0.83653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-02</Date>
+    <Open>0.83652</Open>
+    <High>0.868638</High>
+    <Low>0.8361</Low>
+    <Close>0.863026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-03</Date>
+    <Open>0.862726</Open>
+    <High>0.867163</High>
+    <Low>0.828023</Low>
+    <Close>0.848421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-04</Date>
+    <Open>0.85313</Open>
+    <High>0.902998</High>
+    <Low>0.850095</Low>
+    <Close>0.878516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-05</Date>
+    <Open>0.875324</Open>
+    <High>0.891304</High>
+    <Low>0.863245</Low>
+    <Close>0.878499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-06</Date>
+    <Open>0.878499</Open>
+    <High>0.885912</High>
+    <Low>0.833264</Low>
+    <Close>0.842864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-07</Date>
+    <Open>0.844333</Open>
+    <High>0.85852</High>
+    <Low>0.839073</Low>
+    <Close>0.848892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-08</Date>
+    <Open>0.848656</Open>
+    <High>0.851812</High>
+    <Low>0.74372</Low>
+    <Close>0.753873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-09</Date>
+    <Open>0.75997</Open>
+    <High>0.786064</High>
+    <Low>0.757506</Low>
+    <Close>0.772572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-10</Date>
+    <Open>0.772672</Open>
+    <High>0.798077</High>
+    <Low>0.765035</Low>
+    <Close>0.792692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-11</Date>
+    <Open>0.795495</Open>
+    <High>0.795495</High>
+    <Low>0.737964</Low>
+    <Close>0.738364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-12</Date>
+    <Open>0.738738</Open>
+    <High>0.754954</High>
+    <Low>0.725725</Low>
+    <Close>0.741593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-13</Date>
+    <Open>0.744795</Open>
+    <High>0.756378</High>
+    <Low>0.74067</Low>
+    <Close>0.747448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-14</Date>
+    <Open>0.748174</Open>
+    <High>0.763158</High>
+    <Low>0.74137</Low>
+    <Close>0.755253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-15</Date>
+    <Open>0.752751</Open>
+    <High>0.778622</High>
+    <Low>0.743371</Low>
+    <Close>0.765636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-16</Date>
+    <Open>0.766936</Open>
+    <High>0.770516</High>
+    <Low>0.75085</Low>
+    <Close>0.761581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-17</Date>
+    <Open>0.761304</Open>
+    <High>0.8005</High>
+    <Low>0.758403</Low>
+    <Close>0.794297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-18</Date>
+    <Open>0.792317</Open>
+    <High>0.7994</High>
+    <Low>0.759328</Low>
+    <Close>0.771008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-19</Date>
+    <Open>0.771008</Open>
+    <High>0.780055</High>
+    <Low>0.762992</Low>
+    <Close>0.774232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-20</Date>
+    <Open>0.774287</Open>
+    <High>0.777844</High>
+    <Low>0.765488</Low>
+    <Close>0.769692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-21</Date>
+    <Open>0.769492</Open>
+    <High>0.774587</High>
+    <Low>0.743271</Low>
+    <Close>0.745447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-22</Date>
+    <Open>0.745372</Open>
+    <High>0.761557</High>
+    <Low>0.736268</Low>
+    <Close>0.756678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-23</Date>
+    <Open>0.757206</Open>
+    <High>0.772955</High>
+    <Low>0.753621</Low>
+    <Close>0.763538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-24</Date>
+    <Open>0.763882</Open>
+    <High>0.770162</High>
+    <Low>0.726115</Low>
+    <Close>0.742263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-25</Date>
+    <Open>0.742963</Open>
+    <High>0.747167</High>
+    <Low>0.718543</Low>
+    <Close>0.746422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-26</Date>
+    <Open>0.746215</Open>
+    <High>0.754587</High>
+    <Low>0.733659</Low>
+    <Close>0.75265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-27</Date>
+    <Open>0.752426</Open>
+    <High>0.755049</High>
+    <Low>0.739214</Low>
+    <Close>0.742875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLOW">
+    <Date>2023-05-28</Date>
+    <Open>0.744198</Open>
+    <High>0.764306</High>
+    <Low>0.743423</Low>
+    <Close>0.762075</Close>
+  </Cryptocurrency>
+</Root>

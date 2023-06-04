@@ -1,0 +1,2978 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-03-31</Date>
+    <Open>0.0442388</Open>
+    <High>0.046594</High>
+    <Low>0.0418626</Low>
+    <Close>0.0425885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-01</Date>
+    <Open>0.0425428</Open>
+    <High>0.0471994</High>
+    <Low>0.0408823</Low>
+    <Close>0.0429572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-02</Date>
+    <Open>0.0429472</Open>
+    <High>0.043193</High>
+    <Low>0.0387216</Low>
+    <Close>0.0396459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-03</Date>
+    <Open>0.0396358</Open>
+    <High>0.0416867</High>
+    <Low>0.0374112</Low>
+    <Close>0.0394658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-04</Date>
+    <Open>0.0394918</Open>
+    <High>0.0411423</High>
+    <Low>0.034877</Low>
+    <Close>0.0363909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-05</Date>
+    <Open>0.0363909</Open>
+    <High>0.0374212</High>
+    <Low>0.0349335</Low>
+    <Close>0.0355636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-06</Date>
+    <Open>0.0355771</Open>
+    <High>0.0358672</High>
+    <Low>0.03093</Low>
+    <Close>0.0318132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-07</Date>
+    <Open>0.03174</Open>
+    <High>0.0346</High>
+    <Low>0.03109</Low>
+    <Close>0.0332833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-08</Date>
+    <Open>0.0332633</Open>
+    <High>0.0341634</High>
+    <Low>0.0313231</Low>
+    <Close>0.0316827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-09</Date>
+    <Open>0.0316627</Open>
+    <High>0.0326898</High>
+    <Low>0.0307192</Low>
+    <Close>0.0316695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-10</Date>
+    <Open>0.0317095</Open>
+    <High>0.0322497</High>
+    <Low>0.0308993</Low>
+    <Close>0.0314663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-11</Date>
+    <Open>0.0314963</Open>
+    <High>0.0315063</High>
+    <Low>0.026788</Low>
+    <Close>0.0268481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-12</Date>
+    <Open>0.0268754</Open>
+    <High>0.0321897</High>
+    <Low>0.026708</Low>
+    <Close>0.0292588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-13</Date>
+    <Open>0.0292188</Open>
+    <High>0.0308292</High>
+    <Low>0.0286586</Low>
+    <Close>0.0308092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-14</Date>
+    <Open>0.0308793</Open>
+    <High>0.0309393</High>
+    <Low>0.0287157</Low>
+    <Close>0.0295759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-15</Date>
+    <Open>0.029583</Open>
+    <High>0.029946</High>
+    <Low>0.0288058</Low>
+    <Close>0.0293559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-16</Date>
+    <Open>0.0293459</Open>
+    <High>0.029943</High>
+    <Low>0.0286529</Low>
+    <Close>0.0292859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-17</Date>
+    <Open>0.0292859</Open>
+    <High>0.0297559</High>
+    <Low>0.0289029</Low>
+    <Close>0.0291858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-18</Date>
+    <Open>0.0291758</Open>
+    <High>0.0292458</High>
+    <Low>0.0267327</Low>
+    <Close>0.0285286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-19</Date>
+    <Open>0.0285186</Open>
+    <High>0.029856</High>
+    <Low>0.0281956</Low>
+    <Close>0.0292659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-20</Date>
+    <Open>0.0292759</Open>
+    <High>0.0329866</High>
+    <Low>0.0291858</Low>
+    <Close>0.0306061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-21</Date>
+    <Open>0.0305761</Open>
+    <High>0.0314163</High>
+    <Low>0.0281128</Low>
+    <Close>0.0285757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-22</Date>
+    <Open>0.0285429</Open>
+    <High>0.0292258</High>
+    <Low>0.0279056</Low>
+    <Close>0.0284128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-23</Date>
+    <Open>0.0284057</Open>
+    <High>0.0313331</High>
+    <Low>0.0281056</Low>
+    <Close>0.0294459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-24</Date>
+    <Open>0.0294629</Open>
+    <High>0.0313263</High>
+    <Low>0.0283728</Low>
+    <Close>0.0292158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-25</Date>
+    <Open>0.0292258</Open>
+    <High>0.0306061</High>
+    <Low>0.0277228</Low>
+    <Close>0.0297559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-26</Date>
+    <Open>0.029776</Open>
+    <High>0.0304461</High>
+    <Low>0.0273927</Low>
+    <Close>0.0278528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-27</Date>
+    <Open>0.0278828</Open>
+    <High>0.02814</High>
+    <Low>0.0269073</Low>
+    <Close>0.0274927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-28</Date>
+    <Open>0.0274927</Open>
+    <High>0.0277428</High>
+    <Low>0.0264026</Low>
+    <Close>0.0271827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-29</Date>
+    <Open>0.0271927</Open>
+    <High>0.0275</High>
+    <Low>0.0249125</Low>
+    <Close>0.0251625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-04-30</Date>
+    <Open>0.0251725</Open>
+    <High>0.0255726</High>
+    <Low>0.02286</Low>
+    <Close>0.0229923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-01</Date>
+    <Open>0.02297</Open>
+    <High>0.0233623</High>
+    <Low>0.02134</Low>
+    <Close>0.02221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-02</Date>
+    <Open>0.02221</Open>
+    <High>0.0232123</High>
+    <Low>0.02131</Low>
+    <Close>0.0222322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-03</Date>
+    <Open>0.0222522</Open>
+    <High>0.02269</High>
+    <Low>0.0214079</Low>
+    <Close>0.0218878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-04</Date>
+    <Open>0.0218356</Open>
+    <High>0.02414</High>
+    <Low>0.0216678</Low>
+    <Close>0.02385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-05</Date>
+    <Open>0.0238452</Open>
+    <High>0.0261648</High>
+    <Low>0.0213079</Low>
+    <Close>0.0218756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-06</Date>
+    <Open>0.0218256</Open>
+    <High>0.0229054</High>
+    <Low>0.0213257</Low>
+    <Close>0.0223378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-07</Date>
+    <Open>0.0223378</Open>
+    <High>0.0233577</High>
+    <Low>0.0216657</Low>
+    <Close>0.0216657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-08</Date>
+    <Open>0.0217178</Open>
+    <High>0.0219912</High>
+    <Low>0.0210616</Low>
+    <Close>0.0216835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-09</Date>
+    <Open>0.0216435</Open>
+    <High>0.0217656</High>
+    <Low>0.0181945</Low>
+    <Close>0.0190262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-10</Date>
+    <Open>0.0190262</Open>
+    <High>0.0211836</High>
+    <Low>0.0178129</Low>
+    <Close>0.0187225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-11</Date>
+    <Open>0.0187125</Open>
+    <High>0.0202019</High>
+    <Low>0.0147607</Low>
+    <Close>0.0157415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-12</Date>
+    <Open>0.0157615</Open>
+    <High>0.0174844</High>
+    <Low>0.0138262</Low>
+    <Close>0.0162959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-13</Date>
+    <Open>0.0162261</Open>
+    <High>0.0191819</High>
+    <Low>0.0160864</Low>
+    <Close>0.0182389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-14</Date>
+    <Open>0.0182389</Open>
+    <High>0.0186663</High>
+    <Low>0.0165053</Low>
+    <Close>0.0177951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-15</Date>
+    <Open>0.017845</Open>
+    <High>0.0183143</High>
+    <Low>0.0172458</Low>
+    <Close>0.0182762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-16</Date>
+    <Open>0.018298</Open>
+    <High>0.0187256</High>
+    <Low>0.0169346</Low>
+    <Close>0.0176852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-17</Date>
+    <Open>0.017707</Open>
+    <High>0.018298</High>
+    <Low>0.0171094</Low>
+    <Close>0.0182762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-18</Date>
+    <Open>0.0182462</Open>
+    <High>0.018348</High>
+    <Low>0.0161989</Low>
+    <Close>0.0165485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-19</Date>
+    <Open>0.0165568</Open>
+    <High>0.0173926</High>
+    <Low>0.0156996</Low>
+    <Close>0.0169031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-20</Date>
+    <Open>0.0169048</Open>
+    <High>0.0176106</High>
+    <Low>0.0161889</Low>
+    <Close>0.0164786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-21</Date>
+    <Open>0.0164802</Open>
+    <High>0.0172758</High>
+    <Low>0.0162505</Low>
+    <Close>0.0166383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-22</Date>
+    <Open>0.0166184</Open>
+    <High>0.0178885</High>
+    <Low>0.0165668</Low>
+    <Close>0.017459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-23</Date>
+    <Open>0.017479</Open>
+    <High>0.0184615</High>
+    <Low>0.0172093</Low>
+    <Close>0.017489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-24</Date>
+    <Open>0.017469</Open>
+    <High>0.017469</High>
+    <Low>0.0164319</Low>
+    <Close>0.0173175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-25</Date>
+    <Open>0.0173075</Open>
+    <High>0.0176388</High>
+    <Low>0.0167216</Low>
+    <Close>0.0172393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-26</Date>
+    <Open>0.0172393</Open>
+    <High>0.0173809</High>
+    <Low>0.0157527</Low>
+    <Close>0.0164036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-27</Date>
+    <Open>0.0164136</Open>
+    <High>0.0166334</High>
+    <Low>0.0156643</Low>
+    <Close>0.015984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-28</Date>
+    <Open>0.0159916</Open>
+    <High>0.0163829</High>
+    <Low>0.0157685</Low>
+    <Close>0.016231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-29</Date>
+    <Open>0.0162305</Open>
+    <High>0.0166027</High>
+    <Low>0.015824</Low>
+    <Close>0.0166017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-30</Date>
+    <Open>0.0166215</Open>
+    <High>0.0182672</High>
+    <Low>0.0163826</Low>
+    <Close>0.0181173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-05-31</Date>
+    <Open>0.0181255</Open>
+    <High>0.0186551</High>
+    <Low>0.017456</Low>
+    <Close>0.0180655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-01</Date>
+    <Open>0.0180755</Open>
+    <High>0.0194544</High>
+    <Low>0.0162421</Low>
+    <Close>0.0165251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-02</Date>
+    <Open>0.016505</Open>
+    <High>0.0176541</High>
+    <Low>0.0164635</Low>
+    <Close>0.0174443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-03</Date>
+    <Open>0.0174543</Open>
+    <High>0.0175942</High>
+    <Low>0.0166567</Low>
+    <Close>0.0170252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-04</Date>
+    <Open>0.0170352</Open>
+    <High>0.0170452</High>
+    <Low>0.0164928</Low>
+    <Close>0.0169771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-05</Date>
+    <Open>0.0169673</Open>
+    <High>0.0179934</High>
+    <Low>0.0166165</Low>
+    <Close>0.0177333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-06</Date>
+    <Open>0.0177333</Open>
+    <High>0.0183449</High>
+    <Low>0.0173954</Low>
+    <Close>0.0177151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-07</Date>
+    <Open>0.0176851</Open>
+    <High>0.0177747</High>
+    <Low>0.0164963</Low>
+    <Close>0.0174757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-08</Date>
+    <Open>0.0174758</Open>
+    <High>0.0176858</High>
+    <Low>0.0166893</Low>
+    <Close>0.016929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-09</Date>
+    <Open>0.016939</Open>
+    <High>0.017137</High>
+    <Low>0.0166868</Low>
+    <Close>0.0168259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-10</Date>
+    <Open>0.0168257</Open>
+    <High>0.0170848</High>
+    <Low>0.0157428</Low>
+    <Close>0.0159595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-11</Date>
+    <Open>0.0159597</Open>
+    <High>0.0160828</High>
+    <Low>0.0145632</Low>
+    <Close>0.015043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-12</Date>
+    <Open>0.0150528</Open>
+    <High>0.0154889</High>
+    <Low>0.0139518</Low>
+    <Close>0.0149316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-13</Date>
+    <Open>0.0149116</Open>
+    <High>0.0149116</High>
+    <Low>0.0125522</Low>
+    <Close>0.013651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-14</Date>
+    <Open>0.013681</Open>
+    <High>0.0139389</High>
+    <Low>0.0124213</Low>
+    <Close>0.0132441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-15</Date>
+    <Open>0.0132041</Open>
+    <High>0.0142443</High>
+    <Low>0.0124575</Low>
+    <Close>0.0141587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-16</Date>
+    <Open>0.0141487</Open>
+    <High>0.0144641</High>
+    <Low>0.0130147</Low>
+    <Close>0.0131685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-17</Date>
+    <Open>0.0129959</Open>
+    <High>0.0136628</High>
+    <Low>0.0128642</Low>
+    <Close>0.0134169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-18</Date>
+    <Open>0.013429</Open>
+    <High>0.0137834</High>
+    <Low>0.0117926</Low>
+    <Close>0.0124698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-19</Date>
+    <Open>0.0124498</Open>
+    <High>0.0139432</High>
+    <Low>0.0122218</Low>
+    <Close>0.0136922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-20</Date>
+    <Open>0.0136822</Open>
+    <High>0.0142629</High>
+    <Low>0.0131529</Low>
+    <Close>0.0138747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-21</Date>
+    <Open>0.0138733</Open>
+    <High>0.0168032</High>
+    <Low>0.0137449</Low>
+    <Close>0.0158725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-22</Date>
+    <Open>0.0159225</Open>
+    <High>0.0167732</High>
+    <Low>0.0146139</Low>
+    <Close>0.0147852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-23</Date>
+    <Open>0.0147952</Open>
+    <High>0.0150549</High>
+    <Low>0.0143656</Low>
+    <Close>0.0147552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-24</Date>
+    <Open>0.0147552</Open>
+    <High>0.015517</High>
+    <Low>0.0147253</Low>
+    <Close>0.015238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-25</Date>
+    <Open>0.0152348</Open>
+    <High>0.0155196</High>
+    <Low>0.01445</Low>
+    <Close>0.0150495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-26</Date>
+    <Open>0.0150595</Open>
+    <High>0.0153592</High>
+    <Low>0.0145213</Low>
+    <Close>0.014821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-27</Date>
+    <Open>0.0148208</Open>
+    <High>0.014821</High>
+    <Low>0.0141383</Low>
+    <Close>0.0144172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-28</Date>
+    <Open>0.0144264</Open>
+    <High>0.0147366</High>
+    <Low>0.0139256</Low>
+    <Close>0.0140926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-29</Date>
+    <Open>0.0140825</Open>
+    <High>0.0140825</High>
+    <Low>0.0133718</Low>
+    <Close>0.0137434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-06-30</Date>
+    <Open>0.0137635</Open>
+    <High>0.0138434</High>
+    <Low>0.012714</Low>
+    <Close>0.0129045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-01</Date>
+    <Open>0.0129045</Open>
+    <High>0.0137648</High>
+    <Low>0.0127834</Low>
+    <Close>0.0132654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-02</Date>
+    <Open>0.0132554</Open>
+    <High>0.0140881</High>
+    <Low>0.0128985</Low>
+    <Close>0.0139652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-03</Date>
+    <Open>0.0139562</Open>
+    <High>0.0142569</High>
+    <Low>0.0131459</Low>
+    <Close>0.0134685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-04</Date>
+    <Open>0.0134605</Open>
+    <High>0.0138743</High>
+    <Low>0.0131179</Low>
+    <Close>0.0138374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-05</Date>
+    <Open>0.0138434</Open>
+    <High>0.0139732</High>
+    <Low>0.0132041</Low>
+    <Close>0.0136436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-06</Date>
+    <Open>0.013645</Open>
+    <High>0.0136849</High>
+    <Low>0.013324</Low>
+    <Close>0.013585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-07</Date>
+    <Open>0.013595</Open>
+    <High>0.0140773</High>
+    <Low>0.0134851</Low>
+    <Close>0.0139516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-08</Date>
+    <Open>0.0139516</Open>
+    <High>0.0143899</High>
+    <Low>0.0135305</Low>
+    <Close>0.0139516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-09</Date>
+    <Open>0.0139716</Open>
+    <High>0.0146812</High>
+    <Low>0.0138303</Low>
+    <Close>0.0144513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-10</Date>
+    <Open>0.0144413</Open>
+    <High>0.0145313</High>
+    <Low>0.0136618</Low>
+    <Close>0.0138617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-11</Date>
+    <Open>0.0138434</Open>
+    <High>0.0138434</High>
+    <Low>0.0129383</Low>
+    <Close>0.0130083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-12</Date>
+    <Open>0.0130209</Open>
+    <High>0.0130209</High>
+    <Low>0.0126061</Low>
+    <Close>0.0127073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-13</Date>
+    <Open>0.0126978</Open>
+    <High>0.0130469</High>
+    <Low>0.0121966</Low>
+    <Close>0.0129084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-14</Date>
+    <Open>0.0129284</Open>
+    <High>0.0134419</High>
+    <Low>0.0126086</Low>
+    <Close>0.0131721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-15</Date>
+    <Open>0.0131921</Open>
+    <High>0.0136418</High>
+    <Low>0.0131321</Low>
+    <Close>0.013426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-16</Date>
+    <Open>0.013456</Open>
+    <High>0.0137572</High>
+    <Low>0.0131148</Low>
+    <Close>0.013466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-17</Date>
+    <Open>0.0134673</Open>
+    <High>0.0138568</High>
+    <Low>0.0132983</Low>
+    <Close>0.0134965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-18</Date>
+    <Open>0.0135073</Open>
+    <High>0.0144086</High>
+    <Low>0.013336</Low>
+    <Close>0.0138868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-19</Date>
+    <Open>0.0138958</Open>
+    <High>0.0148824</High>
+    <Low>0.0137388</Low>
+    <Close>0.0148024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-20</Date>
+    <Open>0.0148</Open>
+    <High>0.0151108</High>
+    <Low>0.0136488</Low>
+    <Close>0.0140607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-21</Date>
+    <Open>0.0140507</Open>
+    <High>0.0140522</High>
+    <Low>0.0132917</Low>
+    <Close>0.0138333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-22</Date>
+    <Open>0.0138335</Open>
+    <High>0.0142427</High>
+    <Low>0.0134312</Low>
+    <Close>0.013533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-23</Date>
+    <Open>0.0135</Open>
+    <High>0.0139407</High>
+    <Low>0.01329</Low>
+    <Close>0.0134527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-24</Date>
+    <Open>0.0134526</Open>
+    <High>0.0138894</High>
+    <Low>0.0134526</Low>
+    <Close>0.0138228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-25</Date>
+    <Open>0.0138328</Open>
+    <High>0.0139428</High>
+    <Low>0.0128814</Low>
+    <Close>0.013111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-26</Date>
+    <Open>0.0131012</Open>
+    <High>0.0131508</High>
+    <Low>0.0126201</Low>
+    <Close>0.013012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-27</Date>
+    <Open>0.013122</Open>
+    <High>0.0138455</High>
+    <Low>0.0129197</Low>
+    <Close>0.0137933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-28</Date>
+    <Open>0.0138033</Open>
+    <High>0.0151902</High>
+    <Low>0.0136423</Low>
+    <Close>0.014923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-29</Date>
+    <Open>0.0149331</Open>
+    <High>0.0157536</High>
+    <Low>0.0143336</Low>
+    <Close>0.0146559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-30</Date>
+    <Open>0.014656</Open>
+    <High>0.0153354</High>
+    <Low>0.0144249</Low>
+    <Close>0.014595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-07-31</Date>
+    <Open>0.014595</Open>
+    <High>0.0164052</High>
+    <Low>0.0143542</Low>
+    <Close>0.0151035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-01</Date>
+    <Open>0.0151045</Open>
+    <High>0.0153046</High>
+    <Low>0.0145863</Low>
+    <Close>0.0152246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-02</Date>
+    <Open>0.0152346</Open>
+    <High>0.0159056</High>
+    <Low>0.014422</Low>
+    <Close>0.0148225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-03</Date>
+    <Open>0.014843</Open>
+    <High>0.0151953</High>
+    <Low>0.0143133</Low>
+    <Close>0.0150338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-04</Date>
+    <Open>0.0150245</Open>
+    <High>0.0150345</High>
+    <Low>0.014361</Low>
+    <Close>0.0144204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-05</Date>
+    <Open>0.0144104</Open>
+    <High>0.015153</High>
+    <Low>0.0143113</Low>
+    <Close>0.0149928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-06</Date>
+    <Open>0.0150028</Open>
+    <High>0.0157239</High>
+    <Low>0.0150028</Low>
+    <Close>0.0156136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-07</Date>
+    <Open>0.0156136</Open>
+    <High>0.0156436</High>
+    <Low>0.0150236</Low>
+    <Close>0.0154128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-08</Date>
+    <Open>0.0154129</Open>
+    <High>0.015803</High>
+    <Low>0.0151518</Low>
+    <Close>0.015362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-09</Date>
+    <Open>0.0153618</Open>
+    <High>0.0156433</High>
+    <Low>0.014252</Low>
+    <Close>0.0145029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-10</Date>
+    <Open>0.0145029</Open>
+    <High>0.0159842</High>
+    <Low>0.0140639</Low>
+    <Close>0.0157546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-11</Date>
+    <Open>0.0157663</Open>
+    <High>0.0167876</High>
+    <Low>0.0156544</Low>
+    <Close>0.0160275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-12</Date>
+    <Open>0.0160275</Open>
+    <High>0.0171186</High>
+    <Low>0.0157379</Low>
+    <Close>0.0161274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-13</Date>
+    <Open>0.0161174</Open>
+    <High>0.0164079</High>
+    <Low>0.015927</Low>
+    <Close>0.0161463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-14</Date>
+    <Open>0.0161263</Open>
+    <High>0.0165656</High>
+    <Low>0.0156336</Low>
+    <Close>0.0158349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-15</Date>
+    <Open>0.0157947</Open>
+    <High>0.0163044</High>
+    <Low>0.0154436</Low>
+    <Close>0.0158838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-16</Date>
+    <Open>0.0158937</Open>
+    <High>0.0159732</High>
+    <Low>0.0154611</Low>
+    <Close>0.0156014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-17</Date>
+    <Open>0.0155914</Open>
+    <High>0.0161121</High>
+    <Low>0.0145809</Low>
+    <Close>0.014631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-18</Date>
+    <Open>0.014631</Open>
+    <High>0.0150109</High>
+    <Low>0.0145603</Low>
+    <Close>0.0147903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-19</Date>
+    <Open>0.0147815</Open>
+    <High>0.0148115</High>
+    <Low>0.0130613</Low>
+    <Close>0.0131013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-20</Date>
+    <Open>0.0131304</Open>
+    <High>0.0136516</High>
+    <Low>0.0129965</Low>
+    <Close>0.0132899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-21</Date>
+    <Open>0.0132896</Open>
+    <High>0.0137796</High>
+    <Low>0.0131278</Low>
+    <Close>0.0136796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-22</Date>
+    <Open>0.0136797</Open>
+    <High>0.0137303</High>
+    <Low>0.0128291</Low>
+    <Close>0.0130778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-23</Date>
+    <Open>0.0130876</Open>
+    <High>0.0135492</High>
+    <Low>0.0129699</Low>
+    <Close>0.0134203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-24</Date>
+    <Open>0.0134187</Open>
+    <High>0.0137108</High>
+    <Low>0.0131095</Low>
+    <Close>0.0135511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-25</Date>
+    <Open>0.0135711</Open>
+    <High>0.014169</High>
+    <Low>0.0133497</Low>
+    <Close>0.0139404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-26</Date>
+    <Open>0.0139804</Open>
+    <High>0.0140814</High>
+    <Low>0.0129494</Low>
+    <Close>0.0131713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-27</Date>
+    <Open>0.0131712</Open>
+    <High>0.0131812</High>
+    <Low>0.0127315</Low>
+    <Close>0.0129104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-28</Date>
+    <Open>0.0128804</Open>
+    <High>0.0132805</High>
+    <Low>0.0128703</Low>
+    <Close>0.01305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-29</Date>
+    <Open>0.01306</Open>
+    <High>0.0158203</High>
+    <Low>0.0125989</Low>
+    <Close>0.0133409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-30</Date>
+    <Open>0.0133411</Open>
+    <High>0.0137497</High>
+    <Low>0.0128515</Low>
+    <Close>0.0130412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-08-31</Date>
+    <Open>0.013041</Open>
+    <High>0.0137307</High>
+    <Low>0.0129694</Low>
+    <Close>0.0132099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-01</Date>
+    <Open>0.0131999</Open>
+    <High>0.0132389</High>
+    <Low>0.0126394</Low>
+    <Close>0.0130295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-02</Date>
+    <Open>0.0130492</Open>
+    <High>0.0132315</High>
+    <Low>0.0127406</Low>
+    <Close>0.0129119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-03</Date>
+    <Open>0.0129121</Open>
+    <High>0.0129421</High>
+    <Low>0.01266</Low>
+    <Close>0.01282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-04</Date>
+    <Open>0.01282</Open>
+    <High>0.0130813</High>
+    <Low>0.01279</Low>
+    <Close>0.01302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-05</Date>
+    <Open>0.01303</Open>
+    <High>0.01316</High>
+    <Low>0.01272</Low>
+    <Close>0.01282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-06</Date>
+    <Open>0.0128313</Open>
+    <High>0.0132913</High>
+    <Low>0.0121488</Low>
+    <Close>0.01228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-07</Date>
+    <Open>0.01226</Open>
+    <High>0.0128317</High>
+    <Low>0.0118796</Low>
+    <Close>0.0127309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-08</Date>
+    <Open>0.0127409</Open>
+    <High>0.0128319</High>
+    <Low>0.0123902</Low>
+    <Close>0.0127619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-09</Date>
+    <Open>0.0127618</Open>
+    <High>0.0134335</High>
+    <Low>0.0127018</Low>
+    <Close>0.0132645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-10</Date>
+    <Open>0.013245</Open>
+    <High>0.0135258</High>
+    <Low>0.0130754</Low>
+    <Close>0.0132425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-11</Date>
+    <Open>0.0132625</Open>
+    <High>0.0136239</High>
+    <Low>0.0129951</Low>
+    <Close>0.0132033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-12</Date>
+    <Open>0.0132132</Open>
+    <High>0.0137119</High>
+    <Low>0.0131322</Low>
+    <Close>0.0134024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-13</Date>
+    <Open>0.013394</Open>
+    <High>0.0144338</High>
+    <Low>0.0126105</Low>
+    <Close>0.0128103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-14</Date>
+    <Open>0.0128003</Open>
+    <High>0.0128403</High>
+    <Low>0.0124101</Low>
+    <Close>0.0127234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-15</Date>
+    <Open>0.0127132</Open>
+    <High>0.0128029</High>
+    <Low>0.0121473</Low>
+    <Close>0.0123588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-16</Date>
+    <Open>0.0123691</Open>
+    <High>0.01246</High>
+    <Low>0.0121188</Low>
+    <Close>0.0124288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-17</Date>
+    <Open>0.01243</Open>
+    <High>0.0127213</High>
+    <Low>0.01237</Low>
+    <Close>0.0127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-18</Date>
+    <Open>0.0127</Open>
+    <High>0.0127813</High>
+    <Low>0.0116888</Low>
+    <Close>0.01203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-19</Date>
+    <Open>0.0119888</Open>
+    <High>0.0122424</High>
+    <Low>0.0116288</Low>
+    <Close>0.0121712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-20</Date>
+    <Open>0.0121912</Open>
+    <High>0.01227</High>
+    <Low>0.0117423</Low>
+    <Close>0.0120012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-21</Date>
+    <Open>0.0119712</Open>
+    <High>0.01254</High>
+    <Low>0.0114</Low>
+    <Close>0.0115512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-22</Date>
+    <Open>0.01156</Open>
+    <High>0.01243</High>
+    <Low>0.01142</Low>
+    <Close>0.01227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-23</Date>
+    <Open>0.0122788</Open>
+    <High>0.01248</High>
+    <Low>0.0118288</Low>
+    <Close>0.0122888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-24</Date>
+    <Open>0.0122891</Open>
+    <High>0.0123496</High>
+    <Low>0.0120911</Low>
+    <Close>0.0121611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-25</Date>
+    <Open>0.0121412</Open>
+    <High>0.0121912</High>
+    <Low>0.0118504</Low>
+    <Close>0.0118799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-26</Date>
+    <Open>0.01188</Open>
+    <High>0.01206</High>
+    <Low>0.01166</Low>
+    <Close>0.0119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-27</Date>
+    <Open>0.01188</Open>
+    <High>0.01224</High>
+    <Low>0.01157</Low>
+    <Close>0.0116688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-28</Date>
+    <Open>0.0117</Open>
+    <High>0.01189</High>
+    <Low>0.0114089</Low>
+    <Close>0.01181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-29</Date>
+    <Open>0.01182</Open>
+    <High>0.0119012</High>
+    <Low>0.01154</Low>
+    <Close>0.01185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-09-30</Date>
+    <Open>0.01186</Open>
+    <High>0.0120012</High>
+    <Low>0.0117</Low>
+    <Close>0.01173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-01</Date>
+    <Open>0.01173</Open>
+    <High>0.01183</High>
+    <Low>0.0116188</Low>
+    <Close>0.01169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-02</Date>
+    <Open>0.01167</Open>
+    <High>0.0117312</High>
+    <Low>0.0115</Low>
+    <Close>0.01166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-03</Date>
+    <Open>0.0116612</Open>
+    <High>0.0118624</High>
+    <Low>0.01136</Low>
+    <Close>0.0117612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-04</Date>
+    <Open>0.0117712</Open>
+    <High>0.0120936</High>
+    <Low>0.0116712</Low>
+    <Close>0.0120136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-05</Date>
+    <Open>0.0120136</Open>
+    <High>0.0120236</High>
+    <Low>0.01164</Low>
+    <Close>0.0118324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-06</Date>
+    <Open>0.0118224</Open>
+    <High>0.0120319</High>
+    <Low>0.0117321</Low>
+    <Close>0.0117321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-07</Date>
+    <Open>0.0117118</Open>
+    <High>0.0118415</High>
+    <Low>0.0116001</Low>
+    <Close>0.0117416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-08</Date>
+    <Open>0.0117315</Open>
+    <High>0.0119316</High>
+    <Low>0.0116921</Low>
+    <Close>0.0117132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-09</Date>
+    <Open>0.011713</Open>
+    <High>0.0119124</High>
+    <Low>0.0116929</Low>
+    <Close>0.0118724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-10</Date>
+    <Open>0.0118524</Open>
+    <High>0.0119624</High>
+    <Low>0.0116212</Low>
+    <Close>0.0117088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-11</Date>
+    <Open>0.01171</Open>
+    <High>0.01172</High>
+    <Low>0.01145</Low>
+    <Close>0.011559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-12</Date>
+    <Open>0.0115688</Open>
+    <High>0.0116996</High>
+    <Low>0.0115</Low>
+    <Close>0.0116003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-13</Date>
+    <Open>0.0115999</Open>
+    <High>0.01161</High>
+    <Low>0.0107391</Low>
+    <Close>0.0114909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-14</Date>
+    <Open>0.011491</Open>
+    <High>0.011651</High>
+    <Low>0.0111501</Low>
+    <Close>0.0111604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-15</Date>
+    <Open>0.0112304</Open>
+    <High>0.011331</High>
+    <Low>0.0111806</Low>
+    <Close>0.0112106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-16</Date>
+    <Open>0.0112007</Open>
+    <High>0.01147</High>
+    <Low>0.0111208</Low>
+    <Close>0.0112905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-17</Date>
+    <Open>0.0112906</Open>
+    <High>0.0114705</High>
+    <Low>0.01124</Low>
+    <Close>0.0114602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-18</Date>
+    <Open>0.0114803</Open>
+    <High>0.0116613</High>
+    <Low>0.0112501</Low>
+    <Close>0.0113907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-19</Date>
+    <Open>0.0113706</Open>
+    <High>0.011451</High>
+    <Low>0.0111901</Low>
+    <Close>0.01127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-20</Date>
+    <Open>0.0112501</Open>
+    <High>0.0113005</High>
+    <Low>0.010899</Low>
+    <Close>0.0109988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-21</Date>
+    <Open>0.010999</Open>
+    <High>0.0111503</High>
+    <Low>0.0106797</Low>
+    <Close>0.0110808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-22</Date>
+    <Open>0.0110806</Open>
+    <High>0.0111402</High>
+    <Low>0.0109709</Low>
+    <Close>0.011041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-23</Date>
+    <Open>0.0110409</Open>
+    <High>0.0111711</High>
+    <Low>0.0108412</Low>
+    <Close>0.0111414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-24</Date>
+    <Open>0.0111712</Open>
+    <High>0.0112707</High>
+    <Low>0.0108108</Low>
+    <Close>0.0110304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-25</Date>
+    <Open>0.0110304</Open>
+    <High>0.0115438</High>
+    <Low>0.0109807</Low>
+    <Close>0.011374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-26</Date>
+    <Open>0.0113739</Open>
+    <High>0.0115939</High>
+    <Low>0.011263</Low>
+    <Close>0.0114632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-27</Date>
+    <Open>0.0114532</Open>
+    <High>0.0118222</High>
+    <Low>0.0111303</Low>
+    <Close>0.0112607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-28</Date>
+    <Open>0.0112607</Open>
+    <High>0.0115623</High>
+    <Low>0.0110504</Low>
+    <Close>0.0114824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-29</Date>
+    <Open>0.0115022</Open>
+    <High>0.0116739</High>
+    <Low>0.0113533</Low>
+    <Close>0.0115325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-30</Date>
+    <Open>0.0115328</Open>
+    <High>0.011923</High>
+    <Low>0.011302</Low>
+    <Close>0.0114223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-10-31</Date>
+    <Open>0.0114224</Open>
+    <High>0.01162</High>
+    <Low>0.0112626</Low>
+    <Close>0.0113991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-01</Date>
+    <Open>0.0113893</Open>
+    <High>0.0114764</High>
+    <Low>0.0111782</Low>
+    <Close>0.0112489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-02</Date>
+    <Open>0.0112586</Open>
+    <High>0.0113802</High>
+    <Low>0.0108696</Low>
+    <Close>0.0110193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-03</Date>
+    <Open>0.0110194</Open>
+    <High>0.0115687</High>
+    <Low>0.0110093</Low>
+    <Close>0.01115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-04</Date>
+    <Open>0.0111399</Open>
+    <High>0.0119011</High>
+    <Low>0.0110599</Low>
+    <Close>0.011881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-05</Date>
+    <Open>0.0118808</Open>
+    <High>0.0121609</High>
+    <Low>0.0117311</Low>
+    <Close>0.0119706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-06</Date>
+    <Open>0.0119807</Open>
+    <High>0.0121801</High>
+    <Low>0.0114202</Low>
+    <Close>0.0114509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-07</Date>
+    <Open>0.0114409</Open>
+    <High>0.0115208</High>
+    <Low>0.0110309</Low>
+    <Close>0.0112413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-08</Date>
+    <Open>0.0112623</Open>
+    <High>0.0114157</High>
+    <Low>0.0089216</Low>
+    <Close>0.00966892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-09</Date>
+    <Open>0.00968898</Open>
+    <High>0.00998274</High>
+    <Low>0.00793556</Low>
+    <Close>0.00808317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-10</Date>
+    <Open>0.00806942</Open>
+    <High>0.009922</High>
+    <Low>0.00791544</Low>
+    <Close>0.00933999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-11</Date>
+    <Open>0.00932995</Open>
+    <High>0.010716</High>
+    <Low>0.00855171</Low>
+    <Close>0.00876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-12</Date>
+    <Open>0.00877088</Open>
+    <High>0.00893267</High>
+    <Low>0.00839486</Low>
+    <Close>0.0085945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-13</Date>
+    <Open>0.00861447</Open>
+    <High>0.0087959</High>
+    <Low>0.00829587</Low>
+    <Close>0.00846813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-14</Date>
+    <Open>0.00839991</Open>
+    <High>0.00847896</High>
+    <Low>0.00780827</Low>
+    <Close>0.00819769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-15</Date>
+    <Open>0.00822723</Open>
+    <High>0.00865134</High>
+    <Low>0.00819851</Low>
+    <Close>0.0084915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-16</Date>
+    <Open>0.00850961</Open>
+    <High>0.00856263</High>
+    <Low>0.00809166</Low>
+    <Close>0.00821252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-17</Date>
+    <Open>0.00824249</Open>
+    <High>0.00831293</High>
+    <Low>0.00799296</Low>
+    <Close>0.00814364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-18</Date>
+    <Open>0.00815372</Open>
+    <High>0.00823349</High>
+    <Low>0.00803083</Low>
+    <Close>0.00814063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-19</Date>
+    <Open>0.00814063</Open>
+    <High>0.00867019</High>
+    <Low>0.00813973</Low>
+    <Close>0.00854102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-20</Date>
+    <Open>0.00854231</Open>
+    <High>0.0088385</High>
+    <Low>0.00810108</Low>
+    <Close>0.00816757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-21</Date>
+    <Open>0.00818754</Open>
+    <High>0.00825677</High>
+    <Low>0.00774194</Low>
+    <Close>0.00790051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-22</Date>
+    <Open>0.00790051</Open>
+    <High>0.00822995</High>
+    <Low>0.0076608</Low>
+    <Close>0.00820997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-23</Date>
+    <Open>0.00819998</Open>
+    <High>0.00858968</High>
+    <Low>0.00819998</Low>
+    <Close>0.00855058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-24</Date>
+    <Open>0.00857082</Open>
+    <High>0.00899208</High>
+    <Low>0.00857056</Low>
+    <Close>0.00877262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-25</Date>
+    <Open>0.00877254</Open>
+    <High>0.00883293</High>
+    <Low>0.00848338</Low>
+    <Close>0.00872511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-26</Date>
+    <Open>0.00872389</Open>
+    <High>0.00890474</High>
+    <Low>0.00862448</Low>
+    <Close>0.0086449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-27</Date>
+    <Open>0.0086349</Open>
+    <High>0.00872441</High>
+    <Low>0.00862474</Low>
+    <Close>0.00866445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-28</Date>
+    <Open>0.00865446</Open>
+    <High>0.00865654</High>
+    <Low>0.00819557</Low>
+    <Close>0.00830676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-29</Date>
+    <Open>0.00829685</Open>
+    <High>0.00849567</High>
+    <Low>0.00826644</Low>
+    <Close>0.00838681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-11-30</Date>
+    <Open>0.00839689</Open>
+    <High>0.00869052</High>
+    <Low>0.00834733</Low>
+    <Close>0.00866035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-01</Date>
+    <Open>0.00867035</Open>
+    <High>0.00870087</High>
+    <Low>0.00852026</Low>
+    <Close>0.00859052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-02</Date>
+    <Open>0.00857051</Open>
+    <High>0.0087807</High>
+    <Low>0.00848068</Low>
+    <Close>0.00875053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-03</Date>
+    <Open>0.00878035</Open>
+    <High>0.00886071</High>
+    <Low>0.00850085</Low>
+    <Close>0.00854171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-04</Date>
+    <Open>0.00852085</Open>
+    <High>0.00863086</High>
+    <Low>0.00851085</Low>
+    <Close>0.00855085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-05</Date>
+    <Open>0.00857171</Open>
+    <High>0.00873113</High>
+    <Low>0.00846008</Low>
+    <Close>0.00854026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-06</Date>
+    <Open>0.00853085</Open>
+    <High>0.00859017</High>
+    <Low>0.00845983</Low>
+    <Close>0.00849983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-07</Date>
+    <Open>0.0085</Open>
+    <High>0.00857991</High>
+    <Low>0.00816041</Low>
+    <Close>0.00829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-08</Date>
+    <Open>0.00829</Open>
+    <High>0.00857086</High>
+    <Low>0.00824984</Low>
+    <Close>0.0085406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-09</Date>
+    <Open>0.00854085</Open>
+    <High>0.00863009</High>
+    <Low>0.00846983</Low>
+    <Close>0.00852026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-10</Date>
+    <Open>0.00852034</Open>
+    <High>0.00863009</High>
+    <Low>0.00848992</Low>
+    <Close>0.00856983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-11</Date>
+    <Open>0.00855983</Open>
+    <High>0.00868991</High>
+    <Low>0.00840168</Low>
+    <Close>0.00844169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-12</Date>
+    <Open>0.00845169</Open>
+    <High>0.0085017</High>
+    <Low>0.00809065</Low>
+    <Close>0.00821074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-13</Date>
+    <Open>0.00821074</Open>
+    <High>0.00836276</High>
+    <Low>0.00785212</Low>
+    <Close>0.008348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-14</Date>
+    <Open>0.00835799</Open>
+    <High>0.00846822</High>
+    <Low>0.00819</Low>
+    <Close>0.00831058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-15</Date>
+    <Open>0.00831058</Open>
+    <High>0.00832166</High>
+    <Low>0.00808162</Low>
+    <Close>0.00810162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-16</Date>
+    <Open>0.00810162</Open>
+    <High>0.00813163</High>
+    <Low>0.00729219</Low>
+    <Close>0.00741074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-17</Date>
+    <Open>0.00740074</Open>
+    <High>0.00741074</High>
+    <Low>0.00701042</Low>
+    <Close>0.00736096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-18</Date>
+    <Open>0.00737096</Open>
+    <High>0.0074203</High>
+    <Low>0.00726058</Low>
+    <Close>0.00730095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-19</Date>
+    <Open>0.00730088</Open>
+    <High>0.0073611</High>
+    <Low>0.00668013</Low>
+    <Close>0.00677986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-20</Date>
+    <Open>0.00678986</Open>
+    <High>0.00719065</High>
+    <Low>0.00676986</Low>
+    <Close>0.00719029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-21</Date>
+    <Open>0.00721029</Open>
+    <High>0.00723007</High>
+    <Low>0.00701993</Low>
+    <Close>0.00712036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-22</Date>
+    <Open>0.00713029</Open>
+    <High>0.0072</High>
+    <Low>0.00696902</Low>
+    <Close>0.00713879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-23</Date>
+    <Open>0.00713993</Open>
+    <High>0.00721421</High>
+    <Low>0.00712614</Low>
+    <Close>0.00716028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-24</Date>
+    <Open>0.00716128</Open>
+    <High>0.00723242</High>
+    <Low>0.00711536</Low>
+    <Close>0.00712857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-25</Date>
+    <Open>0.00712857</Open>
+    <High>0.00715564</High>
+    <Low>0.00698316</Low>
+    <Close>0.00709494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-26</Date>
+    <Open>0.00710715</Open>
+    <High>0.00715436</High>
+    <Low>0.00705429</Low>
+    <Close>0.00709958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-27</Date>
+    <Open>0.00709865</Open>
+    <High>0.00716471</High>
+    <Low>0.00688983</Low>
+    <Close>0.00701026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-28</Date>
+    <Open>0.00700727</Open>
+    <High>0.007677</High>
+    <Low>0.00674622</Low>
+    <Close>0.00679633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-29</Date>
+    <Open>0.00680632</Open>
+    <High>0.00686657</High>
+    <Low>0.00645729</Low>
+    <Close>0.00661709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-30</Date>
+    <Open>0.00662702</Open>
+    <High>0.00673536</High>
+    <Low>0.00643736</Low>
+    <Close>0.00668159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2022-12-31</Date>
+    <Open>0.0066676</Open>
+    <High>0.00685771</High>
+    <Low>0.00665061</Low>
+    <Close>0.00671058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-01</Date>
+    <Open>0.00671257</Open>
+    <High>0.00693808</High>
+    <Low>0.0066566</Low>
+    <Close>0.00690582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-02</Date>
+    <Open>0.00690575</Open>
+    <High>0.0070983</High>
+    <Low>0.00681127</Low>
+    <Close>0.00705274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-03</Date>
+    <Open>0.00705374</Open>
+    <High>0.00724075</High>
+    <Low>0.00690224</Low>
+    <Close>0.00696628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-04</Date>
+    <Open>0.00697035</Open>
+    <High>0.00717813</High>
+    <Low>0.00697028</Low>
+    <Close>0.00708266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-05</Date>
+    <Open>0.00708159</Open>
+    <High>0.00719612</High>
+    <Low>0.00706274</Low>
+    <Close>0.0071455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-06</Date>
+    <Open>0.00715842</Open>
+    <High>0.00725575</High>
+    <Low>0.0069531</Low>
+    <Close>0.00725475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-07</Date>
+    <Open>0.00725568</Open>
+    <High>0.00731588</High>
+    <Low>0.00717777</Low>
+    <Close>0.00720527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-08</Date>
+    <Open>0.00719827</Open>
+    <High>0.00742289</High>
+    <Low>0.00713786</Low>
+    <Close>0.00741311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-09</Date>
+    <Open>0.00741752</Open>
+    <High>0.00802588</High>
+    <Low>0.00741052</Low>
+    <Close>0.00774392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-10</Date>
+    <Open>0.007748</Open>
+    <High>0.00798084</High>
+    <Low>0.00757362</Low>
+    <Close>0.00792611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-11</Date>
+    <Open>0.00795043</Open>
+    <High>0.00804192</High>
+    <Low>0.00768785</Low>
+    <Close>0.0080352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-12</Date>
+    <Open>0.00802744</Open>
+    <High>0.00828825</High>
+    <Low>0.00788361</Low>
+    <Close>0.00821582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-13</Date>
+    <Open>0.00821482</Open>
+    <High>0.0087647</High>
+    <Low>0.008149</Low>
+    <Close>0.00865778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-14</Date>
+    <Open>0.0086997</Open>
+    <High>0.00958663</High>
+    <Low>0.00868904</Low>
+    <Close>0.00917346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-15</Date>
+    <Open>0.00917246</Open>
+    <High>0.00954319</High>
+    <Low>0.00906672</Low>
+    <Close>0.00939882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-16</Date>
+    <Open>0.00939782</Open>
+    <High>0.00950861</High>
+    <Low>0.00901236</Low>
+    <Close>0.00930319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-17</Date>
+    <Open>0.00930128</Open>
+    <High>0.0098521</High>
+    <Low>0.00916973</Low>
+    <Close>0.00948804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-18</Date>
+    <Open>0.00949104</Open>
+    <High>0.00966077</High>
+    <Low>0.0087793</Low>
+    <Close>0.00897955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-19</Date>
+    <Open>0.00894955</Open>
+    <High>0.009064</High>
+    <Low>0.00879991</Low>
+    <Close>0.00900064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-20</Date>
+    <Open>0.00900854</Open>
+    <High>0.00963793</High>
+    <Low>0.00893791</Low>
+    <Close>0.00957772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-21</Date>
+    <Open>0.00958773</Open>
+    <High>0.0101524</High>
+    <Low>0.00950427</Low>
+    <Close>0.00974156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-22</Date>
+    <Open>0.00969155</Open>
+    <High>0.010122</High>
+    <Low>0.00949161</Low>
+    <Close>0.00976195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-23</Date>
+    <Open>0.00975195</Open>
+    <High>0.0100103</High>
+    <Low>0.00959086</Low>
+    <Close>0.0099715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-24</Date>
+    <Open>0.0099925</Open>
+    <High>0.0103716</High>
+    <Low>0.00974146</Low>
+    <Close>0.0097902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-25</Date>
+    <Open>0.00978029</Open>
+    <High>0.0105925</High>
+    <Low>0.00934168</Low>
+    <Close>0.0102616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-26</Date>
+    <Open>0.0102617</Open>
+    <High>0.0104519</High>
+    <Low>0.00990069</Low>
+    <Close>0.0101108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-27</Date>
+    <Open>0.0101109</Open>
+    <High>0.0107427</High>
+    <Low>0.00989287</Low>
+    <Close>0.010484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-28</Date>
+    <Open>0.0105036</Open>
+    <High>0.010624</High>
+    <Low>0.0099818</Low>
+    <Close>0.010072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-29</Date>
+    <Open>0.010063</Open>
+    <High>0.010374</High>
+    <Low>0.0100443</Low>
+    <Close>0.0103304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-30</Date>
+    <Open>0.0103325</Open>
+    <High>0.0104175</High>
+    <Low>0.0090999</Low>
+    <Close>0.0093306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-01-31</Date>
+    <Open>0.0093207</Open>
+    <High>0.0095902</High>
+    <Low>0.0092701</Low>
+    <Close>0.0094709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-01</Date>
+    <Open>0.0094807</Open>
+    <High>0.00985049</High>
+    <Low>0.00911709</Low>
+    <Close>0.00978068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-02</Date>
+    <Open>0.00980049</Open>
+    <High>0.010331</High>
+    <Low>0.00978039</Low>
+    <Close>0.0099918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-03</Date>
+    <Open>0.0100121</Open>
+    <High>0.010801</High>
+    <Low>0.00991149</Low>
+    <Close>0.0108009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-04</Date>
+    <Open>0.0107909</Open>
+    <High>0.0108916</High>
+    <Low>0.0106007</Low>
+    <Close>0.0108009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-05</Date>
+    <Open>0.010811</Open>
+    <High>0.0114522</High>
+    <Low>0.0104926</Low>
+    <Close>0.0107628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-06</Date>
+    <Open>0.0107228</Open>
+    <High>0.0110897</High>
+    <Low>0.0105109</Low>
+    <Close>0.0109004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-07</Date>
+    <Open>0.0109004</Open>
+    <High>0.0112801</High>
+    <Low>0.0106103</Low>
+    <Close>0.0112208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-08</Date>
+    <Open>0.0112307</Open>
+    <High>0.0117111</High>
+    <Low>0.0109019</Low>
+    <Close>0.0112709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-09</Date>
+    <Open>0.0112507</Open>
+    <High>0.0118102</High>
+    <Low>0.009972</Low>
+    <Close>0.010091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-10</Date>
+    <Open>0.010071</Open>
+    <High>0.0104827</High>
+    <Low>0.010071</Low>
+    <Close>0.0103215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-11</Date>
+    <Open>0.0102915</Open>
+    <High>0.010451</High>
+    <Low>0.0101012</Low>
+    <Close>0.010411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-12</Date>
+    <Open>0.010407</Open>
+    <High>0.0106722</High>
+    <Low>0.0101875</Low>
+    <Close>0.010364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-13</Date>
+    <Open>0.010356</Open>
+    <High>0.010385</High>
+    <Low>0.0095069</Low>
+    <Close>0.0097854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-14</Date>
+    <Open>0.0097854</Open>
+    <High>0.0101441</High>
+    <Low>0.00969388</Low>
+    <Close>0.0101038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-15</Date>
+    <Open>0.010114</Open>
+    <High>0.0109815</High>
+    <Low>0.009994</Low>
+    <Close>0.0108821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-16</Date>
+    <Open>0.0108917</Open>
+    <High>0.0112323</High>
+    <Low>0.0105235</Low>
+    <Close>0.0105336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-17</Date>
+    <Open>0.0105236</Open>
+    <High>0.0111509</High>
+    <Low>0.0104012</Low>
+    <Close>0.011041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-18</Date>
+    <Open>0.0110417</Open>
+    <High>0.0111821</High>
+    <Low>0.0109022</Low>
+    <Close>0.0111318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-19</Date>
+    <Open>0.0111219</Open>
+    <High>0.0118919</High>
+    <Low>0.0109412</Low>
+    <Close>0.0113525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-20</Date>
+    <Open>0.0113525</Open>
+    <High>0.0159616</High>
+    <Low>0.0109532</Low>
+    <Close>0.0145606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-21</Date>
+    <Open>0.0145206</Open>
+    <High>0.014861</High>
+    <Low>0.0124624</Low>
+    <Close>0.0125423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-22</Date>
+    <Open>0.0125421</Open>
+    <High>0.012632</High>
+    <Low>0.0116501</Low>
+    <Close>0.01215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-23</Date>
+    <Open>0.0121307</Open>
+    <High>0.012361</High>
+    <Low>0.0116419</Low>
+    <Close>0.0117314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-24</Date>
+    <Open>0.0117418</Open>
+    <High>0.0118918</High>
+    <Low>0.0109908</Low>
+    <Close>0.0111399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-25</Date>
+    <Open>0.01113</Open>
+    <High>0.011661</High>
+    <Low>0.0109111</Low>
+    <Close>0.0112208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-26</Date>
+    <Open>0.0112208</Open>
+    <High>0.0115613</High>
+    <Low>0.0111509</Low>
+    <Close>0.0114309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-27</Date>
+    <Open>0.0114306</Open>
+    <High>0.0118205</High>
+    <Low>0.0112404</Low>
+    <Close>0.0115206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-02-28</Date>
+    <Open>0.0115306</Open>
+    <High>0.0116306</High>
+    <Low>0.0110809</Low>
+    <Close>0.0112219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-01</Date>
+    <Open>0.0112112</Open>
+    <High>0.0117602</High>
+    <Low>0.0110277</Low>
+    <Close>0.0117385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-02</Date>
+    <Open>0.0117418</Open>
+    <High>0.0129213</High>
+    <Low>0.0113208</Low>
+    <Close>0.012081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-03</Date>
+    <Open>0.012111</Open>
+    <High>0.012181</High>
+    <Low>0.0106714</Low>
+    <Close>0.0110307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-04</Date>
+    <Open>0.0110509</Open>
+    <High>0.0111802</High>
+    <Low>0.0103405</Low>
+    <Close>0.0105507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-05</Date>
+    <Open>0.0105707</Open>
+    <High>0.010751</High>
+    <Low>0.0103912</Low>
+    <Close>0.0103912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-06</Date>
+    <Open>0.0103711</Open>
+    <High>0.0105501</High>
+    <Low>0.0100708</Low>
+    <Close>0.0104494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-07</Date>
+    <Open>0.0104489</Open>
+    <High>0.0106</High>
+    <Low>0.0098585</Low>
+    <Close>0.0099995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-08</Date>
+    <Open>0.0099897</Open>
+    <High>0.0101101</High>
+    <Low>0.0093095</Low>
+    <Close>0.0093896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-09</Date>
+    <Open>0.0093991</Open>
+    <High>0.0097431</High>
+    <Low>0.0086903</Low>
+    <Close>0.0087629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-10</Date>
+    <Open>0.0087608</Open>
+    <High>0.0092218</High>
+    <Low>0.0084993</Low>
+    <Close>0.00921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-11</Date>
+    <Open>0.0092089</Open>
+    <High>0.0095121</High>
+    <Low>0.0087109</Low>
+    <Close>0.0090611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-12</Date>
+    <Open>0.0090462</Open>
+    <High>0.00980898</High>
+    <Low>0.00900397</Low>
+    <Close>0.00972379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-13</Date>
+    <Open>0.00973995</Open>
+    <High>0.0104564</High>
+    <Low>0.00957229</Low>
+    <Close>0.0103857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-14</Date>
+    <Open>0.0104286</Open>
+    <High>0.0111539</High>
+    <Low>0.0101997</Low>
+    <Close>0.0107656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-15</Date>
+    <Open>0.0107698</Open>
+    <High>0.0109415</High>
+    <Low>0.00962794</Low>
+    <Close>0.00982208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-16</Date>
+    <Open>0.00981395</Open>
+    <High>0.0101286</High>
+    <Low>0.00965496</Low>
+    <Close>0.0100241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-17</Date>
+    <Open>0.0100353</Open>
+    <High>0.0107983</High>
+    <Low>0.00995686</Low>
+    <Close>0.0107983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-18</Date>
+    <Open>0.0107943</Open>
+    <High>0.0112396</High>
+    <Low>0.0106356</Low>
+    <Close>0.0108564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-19</Date>
+    <Open>0.0108695</Open>
+    <High>0.0115445</High>
+    <Low>0.0106855</Low>
+    <Close>0.0113242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-20</Date>
+    <Open>0.0113231</Open>
+    <High>0.0115635</High>
+    <Low>0.0106193</Low>
+    <Close>0.0107963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-21</Date>
+    <Open>0.0107984</Open>
+    <High>0.0110118</High>
+    <Low>0.0102492</Low>
+    <Close>0.0109087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-22</Date>
+    <Open>0.0108997</Open>
+    <High>0.0109905</High>
+    <Low>0.0100794</Low>
+    <Close>0.0104433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-23</Date>
+    <Open>0.0104305</Open>
+    <High>0.0110796</High>
+    <Low>0.0104132</Low>
+    <Close>0.0109247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-24</Date>
+    <Open>0.0109337</Open>
+    <High>0.0110394</High>
+    <Low>0.0101541</Low>
+    <Close>0.0103555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-25</Date>
+    <Open>0.0103545</Open>
+    <High>0.0104616</High>
+    <Low>0.0101294</Low>
+    <Close>0.0102168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-26</Date>
+    <Open>0.0101969</Open>
+    <High>0.0105504</High>
+    <Low>0.0101818</Low>
+    <Close>0.0104448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-27</Date>
+    <Open>0.0104475</Open>
+    <High>0.0106421</High>
+    <Low>0.0097387</Low>
+    <Close>0.0098686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-28</Date>
+    <Open>0.0098546</Open>
+    <High>0.0102208</High>
+    <Low>0.0097433</Low>
+    <Close>0.0100959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-29</Date>
+    <Open>0.0101009</Open>
+    <High>0.0108348</High>
+    <Low>0.0100779</Low>
+    <Close>0.0107429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-30</Date>
+    <Open>0.010739</Open>
+    <High>0.0108065</High>
+    <Low>0.0102641</Low>
+    <Close>0.0104569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-03-31</Date>
+    <Open>0.0104498</Open>
+    <High>0.0107282</High>
+    <Low>0.0101975</Low>
+    <Close>0.0106711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-01</Date>
+    <Open>0.0106691</Open>
+    <High>0.0111811</High>
+    <Low>0.0106672</Low>
+    <Close>0.011144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-02</Date>
+    <Open>0.0111411</Open>
+    <High>0.0112007</High>
+    <Low>0.0105562</Low>
+    <Close>0.0106806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-03</Date>
+    <Open>0.0106886</Open>
+    <High>0.0109622</High>
+    <Low>0.0104423</Low>
+    <Close>0.0106943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-04</Date>
+    <Open>0.0107103</Open>
+    <High>0.0114627</High>
+    <Low>0.0106736</Low>
+    <Close>0.0110857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-05</Date>
+    <Open>0.0110905</Open>
+    <High>0.0113713</High>
+    <Low>0.0109473</Low>
+    <Close>0.011189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-06</Date>
+    <Open>0.011185</Open>
+    <High>0.0134544</High>
+    <Low>0.0111253</Low>
+    <Close>0.011345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-07</Date>
+    <Open>0.011344</Open>
+    <High>0.0114356</High>
+    <Low>0.0108671</Low>
+    <Close>0.0109581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-08</Date>
+    <Open>0.0109602</Open>
+    <High>0.0113906</High>
+    <Low>0.010802</Low>
+    <Close>0.0110323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-09</Date>
+    <Open>0.0110734</Open>
+    <High>0.0111575</High>
+    <Low>0.0107169</Low>
+    <Close>0.0110206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-10</Date>
+    <Open>0.0110264</Open>
+    <High>0.0111448</High>
+    <Low>0.0107741</Low>
+    <Close>0.0110541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-11</Date>
+    <Open>0.0110801</Open>
+    <High>0.0115792</High>
+    <Low>0.0110753</Low>
+    <Close>0.011217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-12</Date>
+    <Open>0.0112161</Open>
+    <High>0.011251</High>
+    <Low>0.010703</Low>
+    <Close>0.0110446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-13</Date>
+    <Open>0.0110526</Open>
+    <High>0.0112578</High>
+    <Low>0.0108827</Low>
+    <Close>0.0112488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-14</Date>
+    <Open>0.0112488</Open>
+    <High>0.0116911</High>
+    <Low>0.0112477</Low>
+    <Close>0.0116076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-15</Date>
+    <Open>0.0115974</Open>
+    <High>0.0118448</High>
+    <Low>0.0114923</Low>
+    <Close>0.0117105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-16</Date>
+    <Open>0.0117125</Open>
+    <High>0.0120938</High>
+    <Low>0.0115429</Low>
+    <Close>0.0120441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-17</Date>
+    <Open>0.0120471</Open>
+    <High>0.0120683</High>
+    <Low>0.0113649</Low>
+    <Close>0.0114409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-18</Date>
+    <Open>0.0114538</Open>
+    <High>0.0124086</High>
+    <Low>0.011325</Low>
+    <Close>0.0120742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-19</Date>
+    <Open>0.0120739</Open>
+    <High>0.0126323</High>
+    <Low>0.010934</Low>
+    <Close>0.0111651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-20</Date>
+    <Open>0.011178</Open>
+    <High>0.0111874</High>
+    <Low>0.0105874</Low>
+    <Close>0.0106899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-21</Date>
+    <Open>0.0106836</Open>
+    <High>0.0108101</High>
+    <Low>0.0101869</Low>
+    <Close>0.010287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-22</Date>
+    <Open>0.0102809</Open>
+    <High>0.0105881</High>
+    <Low>0.0102541</Low>
+    <Close>0.0105721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-23</Date>
+    <Open>0.010569</Open>
+    <High>0.0106187</High>
+    <Low>0.0101632</Low>
+    <Close>0.0103345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-24</Date>
+    <Open>0.0103235</Open>
+    <High>0.0105329</High>
+    <Low>0.010155</Low>
+    <Close>0.0103462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-25</Date>
+    <Open>0.0103333</Open>
+    <High>0.0105084</High>
+    <Low>0.0100695</Low>
+    <Close>0.0104994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-26</Date>
+    <Open>0.0105084</Open>
+    <High>0.0108963</High>
+    <Low>0.009856</Low>
+    <Close>0.0104023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-27</Date>
+    <Open>0.0103873</Open>
+    <High>0.0107372</High>
+    <Low>0.0102949</Low>
+    <Close>0.0106105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-28</Date>
+    <Open>0.0106234</Open>
+    <High>0.0106485</High>
+    <Low>0.0102986</Low>
+    <Close>0.010457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-29</Date>
+    <Open>0.0104741</Open>
+    <High>0.0108301</High>
+    <Low>0.010418</Low>
+    <Close>0.0107974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-04-30</Date>
+    <Open>0.0108044</Open>
+    <High>0.010827</High>
+    <Low>0.0104362</Low>
+    <Close>0.01057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-01</Date>
+    <Open>0.0105519</Open>
+    <High>0.0105918</High>
+    <Low>0.0101227</Low>
+    <Close>0.0102348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-02</Date>
+    <Open>0.0102357</Open>
+    <High>0.0104191</High>
+    <Low>0.0101652</Low>
+    <Close>0.0103794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-03</Date>
+    <Open>0.0103773</Open>
+    <High>0.0105468</High>
+    <Low>0.0100927</Low>
+    <Close>0.0105137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-04</Date>
+    <Open>0.0105148</Open>
+    <High>0.0105858</High>
+    <Low>0.0102801</Low>
+    <Close>0.0103328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-05</Date>
+    <Open>0.0103287</Open>
+    <High>0.0106092</High>
+    <Low>0.0102648</Low>
+    <Close>0.0105746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-06</Date>
+    <Open>0.0105766</Open>
+    <High>0.0106545</High>
+    <Low>0.0100648</Low>
+    <Close>0.0101698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-07</Date>
+    <Open>0.0101733</Open>
+    <High>0.0102189</High>
+    <Low>0.0100389</Low>
+    <Close>0.0100628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-08</Date>
+    <Open>0.0100661</Open>
+    <High>0.010117</High>
+    <Low>0.0090271</Low>
+    <Close>0.00921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-09</Date>
+    <Open>0.0092319</Open>
+    <High>0.0094684</High>
+    <Low>0.009219</Low>
+    <Close>0.0093674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-10</Date>
+    <Open>0.0093412</Open>
+    <High>0.0096487</High>
+    <Low>0.009071</Low>
+    <Close>0.0095225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-11</Date>
+    <Open>0.0095225</Open>
+    <High>0.0095766</High>
+    <Low>0.009043</Low>
+    <Close>0.0092172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-12</Date>
+    <Open>0.0092342</Open>
+    <High>0.0093197</High>
+    <Low>0.0089465</Low>
+    <Close>0.0092904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-13</Date>
+    <Open>0.0092944</Open>
+    <High>0.0093596</High>
+    <Low>0.0092065</Low>
+    <Close>0.0092976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-14</Date>
+    <Open>0.0092986</Open>
+    <High>0.0094186</High>
+    <Low>0.0092055</Low>
+    <Close>0.0093277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-15</Date>
+    <Open>0.0093277</Open>
+    <High>0.0095707</High>
+    <Low>0.0092906</Low>
+    <Close>0.0094956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-16</Date>
+    <Open>0.0094966</Open>
+    <High>0.00955477</High>
+    <Low>0.00932959</Low>
+    <Close>0.00955477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-17</Date>
+    <Open>0.00955382</Open>
+    <High>0.00979389</High>
+    <Low>0.00945472</Low>
+    <Close>0.00973889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-18</Date>
+    <Open>0.00973687</Open>
+    <High>0.00980494</High>
+    <Low>0.00946879</Low>
+    <Close>0.00962485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-19</Date>
+    <Open>0.00962385</Open>
+    <High>0.00973589</High>
+    <Low>0.00951486</Low>
+    <Close>0.00959888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-20</Date>
+    <Open>0.00961384</Open>
+    <High>0.00969372</High>
+    <Low>0.00953477</Low>
+    <Close>0.00964964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-21</Date>
+    <Open>0.00965464</Open>
+    <High>0.0096737</High>
+    <Low>0.0093376</Low>
+    <Close>0.00938563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-22</Date>
+    <Open>0.00939964</Open>
+    <High>0.00955573</High>
+    <Low>0.00925555</Low>
+    <Close>0.00954477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-23</Date>
+    <Open>0.00954114</Open>
+    <High>0.0099709</High>
+    <Low>0.00945265</Low>
+    <Close>0.00951057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-24</Date>
+    <Open>0.00950048</Open>
+    <High>0.00954105</High>
+    <Low>0.00897982</Low>
+    <Close>0.00921963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-25</Date>
+    <Open>0.00922954</Open>
+    <High>0.0093</High>
+    <Low>0.00893018</Low>
+    <Close>0.00903018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-26</Date>
+    <Open>0.00903361</Open>
+    <High>0.00919358</High>
+    <Low>0.00895018</Low>
+    <Close>0.0091521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-27</Date>
+    <Open>0.00915275</Open>
+    <High>0.00932363</High>
+    <Low>0.00911292</Low>
+    <Close>0.00928353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="IOST">
+    <Date>2023-05-28</Date>
+    <Open>0.00928371</Open>
+    <High>0.00944217</High>
+    <Low>0.00925213</Low>
+    <Close>0.00944208</Close>
+  </Cryptocurrency>
+</Root>

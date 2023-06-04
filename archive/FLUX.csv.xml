@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-14</Date>
+    <Open>0.728759</Open>
+    <High>0.747652</High>
+    <Low>0.611774</Low>
+    <Close>0.696024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-15</Date>
+    <Open>0.698021</Open>
+    <High>0.86279</High>
+    <Low>0.690962</Low>
+    <Close>0.755093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-16</Date>
+    <Open>0.759088</Open>
+    <High>0.792048</High>
+    <Low>0.693098</Low>
+    <Close>0.728052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-17</Date>
+    <Open>0.729051</Open>
+    <High>0.773993</High>
+    <Low>0.695095</Low>
+    <Close>0.740037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-18</Date>
+    <Open>0.738039</Open>
+    <High>0.758089</High>
+    <Low>0.640167</Low>
+    <Close>0.659142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-19</Date>
+    <Open>0.658077</Open>
+    <High>0.745254</High>
+    <Low>0.629181</Low>
+    <Close>0.703366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-20</Date>
+    <Open>0.700069</Open>
+    <High>0.756842</High>
+    <Low>0.63797</Low>
+    <Close>0.663436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-21</Date>
+    <Open>0.664402</Open>
+    <High>0.706139</High>
+    <Low>0.655313</Low>
+    <Close>0.692299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-22</Date>
+    <Open>0.691001</Open>
+    <High>0.707408</High>
+    <Low>0.670128</Low>
+    <Close>0.68218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-23</Date>
+    <Open>0.688173</Open>
+    <High>0.744255</High>
+    <Low>0.685177</Low>
+    <Close>0.69916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-24</Date>
+    <Open>0.698091</Open>
+    <High>0.749025</High>
+    <Low>0.66327</Low>
+    <Close>0.729051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-25</Date>
+    <Open>0.725982</Open>
+    <High>0.897012</High>
+    <Low>0.721061</Low>
+    <Close>0.734191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-26</Date>
+    <Open>0.735117</Open>
+    <High>0.746104</High>
+    <Low>0.663203</Low>
+    <Close>0.686313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-27</Date>
+    <Open>0.683116</Open>
+    <High>0.68961</High>
+    <Low>0.628308</Low>
+    <Close>0.650184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-28</Date>
+    <Open>0.650358</Open>
+    <High>0.661671</High>
+    <Low>0.635351</Low>
+    <Close>0.651344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-29</Date>
+    <Open>0.650825</Open>
+    <High>0.677488</High>
+    <Low>0.638661</Low>
+    <Close>0.673059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-30</Date>
+    <Open>0.673252</Open>
+    <High>0.730189</High>
+    <Low>0.670269</Low>
+    <Close>0.715499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-05-31</Date>
+    <Open>0.719696</Open>
+    <High>0.735958</High>
+    <Low>0.681255</Low>
+    <Close>0.692246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-01</Date>
+    <Open>0.6933</Open>
+    <High>0.706184</High>
+    <Low>0.641458</Low>
+    <Close>0.656009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-02</Date>
+    <Open>0.652347</Open>
+    <High>0.757318</High>
+    <Low>0.651048</Low>
+    <Close>0.717354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-03</Date>
+    <Open>0.717354</Open>
+    <High>0.746328</High>
+    <Low>0.651387</Low>
+    <Close>0.66642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-04</Date>
+    <Open>0.666426</Open>
+    <High>0.67739</High>
+    <Low>0.650316</Low>
+    <Close>0.675493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-05</Date>
+    <Open>0.6755</Open>
+    <High>0.678389</High>
+    <Low>0.651459</Low>
+    <Close>0.665374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-06</Date>
+    <Open>0.665374</Open>
+    <High>0.694409</High>
+    <Low>0.655521</Low>
+    <Close>0.668431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-07</Date>
+    <Open>0.667432</Open>
+    <High>0.674494</High>
+    <Low>0.635472</Low>
+    <Close>0.674447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-08</Date>
+    <Open>0.673454</Open>
+    <High>0.679463</High>
+    <Low>0.640577</Low>
+    <Close>0.652576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-09</Date>
+    <Open>0.653575</Open>
+    <High>0.661411</High>
+    <Low>0.640494</Low>
+    <Close>0.646457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-10</Date>
+    <Open>0.64645</Open>
+    <High>0.648468</High>
+    <Low>0.583363</Low>
+    <Close>0.608208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-11</Date>
+    <Open>0.608227</Open>
+    <High>0.626254</High>
+    <Low>0.552314</Low>
+    <Close>0.570355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-12</Date>
+    <Open>0.572358</Open>
+    <High>0.576348</High>
+    <Low>0.501297</Low>
+    <Close>0.530342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-13</Date>
+    <Open>0.529348</Open>
+    <High>0.529348</High>
+    <Low>0.399104</Low>
+    <Close>0.422412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-14</Date>
+    <Open>0.422412</Open>
+    <High>0.561191</High>
+    <Low>0.404413</Low>
+    <Close>0.433479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-15</Date>
+    <Open>0.435477</Open>
+    <High>0.476475</High>
+    <Low>0.412257</Low>
+    <Close>0.475286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-16</Date>
+    <Open>0.474288</Open>
+    <High>0.478377</High>
+    <Low>0.437474</Low>
+    <Close>0.445376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-17</Date>
+    <Open>0.426406</Open>
+    <High>0.46041</High>
+    <Low>0.423215</Low>
+    <Close>0.452461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-18</Date>
+    <Open>0.45346</Open>
+    <High>0.460456</High>
+    <Low>0.379468</Low>
+    <Close>0.404344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-19</Date>
+    <Open>0.404344</Open>
+    <High>0.437474</High>
+    <Low>0.394435</Low>
+    <Close>0.433479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-20</Date>
+    <Open>0.43248</Open>
+    <High>0.493407</High>
+    <Low>0.427444</Low>
+    <Close>0.436519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-21</Date>
+    <Open>0.437518</Open>
+    <High>0.492458</High>
+    <Low>0.433523</Low>
+    <Close>0.4545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-22</Date>
+    <Open>0.453501</Open>
+    <High>0.455544</High>
+    <Low>0.430526</Low>
+    <Close>0.435564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-23</Date>
+    <Open>0.43956</Open>
+    <High>0.461538</High>
+    <Low>0.432567</Low>
+    <Close>0.457542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-24</Date>
+    <Open>0.457542</Open>
+    <High>0.480692</High>
+    <Low>0.457542</Low>
+    <Close>0.473626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-25</Date>
+    <Open>0.473526</Open>
+    <High>0.480687</High>
+    <Low>0.450698</Low>
+    <Close>0.474667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-26</Date>
+    <Open>0.474658</Open>
+    <High>0.521645</High>
+    <Low>0.465734</Low>
+    <Close>0.477708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-27</Date>
+    <Open>0.478708</Open>
+    <High>0.478708</High>
+    <Low>0.44559</Low>
+    <Close>0.4546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-28</Date>
+    <Open>0.454586</Open>
+    <High>0.464582</High>
+    <Low>0.439468</Low>
+    <Close>0.443454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-29</Date>
+    <Open>0.443449</Open>
+    <High>0.443449</High>
+    <Low>0.419416</Low>
+    <Close>0.431482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-06-30</Date>
+    <Open>0.431477</Open>
+    <High>0.43248</High>
+    <Low>0.396504</Low>
+    <Close>0.405513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-01</Date>
+    <Open>0.405513</Open>
+    <High>0.441425</High>
+    <Low>0.400519</Low>
+    <Close>0.424532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-02</Date>
+    <Open>0.424532</Open>
+    <High>0.428485</High>
+    <Low>0.411506</Low>
+    <Close>0.428485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-03</Date>
+    <Open>0.428485</Open>
+    <High>0.436432</High>
+    <Low>0.40747</Low>
+    <Close>0.423449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-04</Date>
+    <Open>0.422408</Open>
+    <High>0.43248</High>
+    <Low>0.409467</Low>
+    <Close>0.429484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-05</Date>
+    <Open>0.431482</Open>
+    <High>0.438473</High>
+    <Low>0.415501</Low>
+    <Close>0.434522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-06</Date>
+    <Open>0.434522</Open>
+    <High>0.460493</High>
+    <Low>0.422492</Low>
+    <Close>0.430526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-07</Date>
+    <Open>0.430526</Open>
+    <High>0.46672</High>
+    <Low>0.427486</Low>
+    <Close>0.457725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-08</Date>
+    <Open>0.458725</Open>
+    <High>0.472716</High>
+    <Low>0.434739</Low>
+    <Close>0.458725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-09</Date>
+    <Open>0.458725</Open>
+    <High>0.469718</High>
+    <Low>0.449685</Low>
+    <Close>0.460723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-10</Date>
+    <Open>0.458725</Open>
+    <High>0.460723</High>
+    <Low>0.429742</Low>
+    <Close>0.437737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-11</Date>
+    <Open>0.437737</Open>
+    <High>0.439692</High>
+    <Low>0.418707</Low>
+    <Close>0.419622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-12</Date>
+    <Open>0.418623</Open>
+    <High>0.422577</High>
+    <Low>0.401558</Low>
+    <Close>0.405594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-13</Date>
+    <Open>0.405606</Open>
+    <High>0.450549</High>
+    <Low>0.394566</Low>
+    <Close>0.422619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-14</Date>
+    <Open>0.422619</Open>
+    <High>0.48371</High>
+    <Low>0.416666</Low>
+    <Close>0.452683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-15</Date>
+    <Open>0.453728</Open>
+    <High>0.467719</High>
+    <Low>0.432697</Low>
+    <Close>0.443867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-16</Date>
+    <Open>0.446866</Open>
+    <High>0.455909</High>
+    <Low>0.428871</Low>
+    <Close>0.450865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-17</Date>
+    <Open>0.449978</Open>
+    <High>0.467878</High>
+    <Low>0.440325</Low>
+    <Close>0.457876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-18</Date>
+    <Open>0.460876</Open>
+    <High>0.519922</High>
+    <Low>0.451842</Low>
+    <Close>0.466893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-19</Date>
+    <Open>0.467888</Open>
+    <High>0.503</High>
+    <Low>0.466888</Low>
+    <Close>0.49708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-20</Date>
+    <Open>0.498</Open>
+    <High>0.533165</High>
+    <Low>0.476005</Low>
+    <Close>0.491025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-21</Date>
+    <Open>0.491054</Open>
+    <High>0.491123</High>
+    <Low>0.467023</Low>
+    <Close>0.490118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-22</Date>
+    <Open>0.488817</Open>
+    <High>0.506395</High>
+    <Low>0.479558</Low>
+    <Close>0.487207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-23</Date>
+    <Open>0.4878</Open>
+    <High>0.528016</High>
+    <Low>0.473643</Low>
+    <Close>0.511102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-24</Date>
+    <Open>0.511102</Open>
+    <High>0.51801</High>
+    <Low>0.50303</Low>
+    <Close>0.506096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-25</Date>
+    <Open>0.506501</Open>
+    <High>0.511102</High>
+    <Low>0.468128</Low>
+    <Close>0.475638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-26</Date>
+    <Open>0.474747</Open>
+    <High>0.476943</High>
+    <Low>0.449813</Low>
+    <Close>0.459269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-27</Date>
+    <Open>0.458969</Open>
+    <High>0.507998</High>
+    <Low>0.458364</Low>
+    <Close>0.497019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-28</Date>
+    <Open>0.497824</Open>
+    <High>0.525268</High>
+    <Low>0.489393</Low>
+    <Close>0.512002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-29</Date>
+    <Open>0.511928</Open>
+    <High>0.549066</High>
+    <Low>0.505401</Low>
+    <Close>0.522214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-30</Date>
+    <Open>0.521208</Open>
+    <High>0.579197</High>
+    <Low>0.520208</Low>
+    <Close>0.542184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-07-31</Date>
+    <Open>0.542163</Open>
+    <High>0.648188</High>
+    <Low>0.53415</Low>
+    <Close>0.591136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-01</Date>
+    <Open>0.590142</Open>
+    <High>0.779203</High>
+    <Low>0.563253</Low>
+    <Close>0.669207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-02</Date>
+    <Open>0.6672</Open>
+    <High>0.69525</High>
+    <Low>0.596149</Low>
+    <Close>0.611104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-03</Date>
+    <Open>0.613123</Open>
+    <High>0.641115</High>
+    <Low>0.611128</Low>
+    <Close>0.621149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-04</Date>
+    <Open>0.620143</Open>
+    <High>0.624168</High>
+    <Low>0.575046</Low>
+    <Close>0.581023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-05</Date>
+    <Open>0.581023</Open>
+    <High>0.619124</High>
+    <Low>0.580017</Low>
+    <Close>0.606115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-06</Date>
+    <Open>0.606115</Open>
+    <High>0.619124</High>
+    <Low>0.604079</Low>
+    <Close>0.613135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-07</Date>
+    <Open>0.613141</Open>
+    <High>0.626844</High>
+    <Low>0.591436</Low>
+    <Close>0.623919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-08</Date>
+    <Open>0.623112</Open>
+    <High>0.663133</High>
+    <Low>0.610179</Low>
+    <Close>0.646078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-09</Date>
+    <Open>0.646078</Open>
+    <High>0.646078</High>
+    <Low>0.593101</Low>
+    <Close>0.61813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-10</Date>
+    <Open>0.620724</Open>
+    <High>0.901252</High>
+    <Low>0.616423</Low>
+    <Close>0.750217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-11</Date>
+    <Open>0.750225</Open>
+    <High>0.780343</High>
+    <Low>0.728218</Low>
+    <Close>0.756355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-12</Date>
+    <Open>0.756378</Open>
+    <High>0.980461</High>
+    <Low>0.745298</Low>
+    <Close>0.899414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-13</Date>
+    <Open>0.903415</Open>
+    <High>1.23559</High>
+    <Low>0.903397</Low>
+    <Close>1.00639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-14</Date>
+    <Open>1.00739</Open>
+    <High>1.20646</High>
+    <Low>1.00037</Low>
+    <Close>1.05533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-15</Date>
+    <Open>1.05432</Open>
+    <High>1.08928</High>
+    <Low>0.959221</Low>
+    <Close>0.977234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-16</Date>
+    <Open>0.977225</Open>
+    <High>0.995139</High>
+    <Low>0.917156</Low>
+    <Close>0.928084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-17</Date>
+    <Open>0.929084</Open>
+    <High>1.1051</High>
+    <Low>0.928074</Low>
+    <Close>1.05407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-18</Date>
+    <Open>1.05007</Open>
+    <High>1.15605</High>
+    <Low>0.977932</Low>
+    <Close>1.01701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-19</Date>
+    <Open>1.0141</Open>
+    <High>1.0141</High>
+    <Low>0.824082</Low>
+    <Close>0.825082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-20</Date>
+    <Open>0.828033</Open>
+    <High>0.950048</High>
+    <Low>0.814951</Low>
+    <Close>0.899991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-21</Date>
+    <Open>0.898982</Open>
+    <High>0.924732</High>
+    <Low>0.869861</Low>
+    <Close>0.890973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-22</Date>
+    <Open>0.891973</Open>
+    <High>0.897018</High>
+    <Low>0.820934</Low>
+    <Close>0.83585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-23</Date>
+    <Open>0.835875</Open>
+    <High>0.868087</High>
+    <Low>0.813992</Low>
+    <Close>0.850025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-24</Date>
+    <Open>0.852</Open>
+    <High>0.879947</High>
+    <Low>0.817959</Low>
+    <Close>0.861077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-25</Date>
+    <Open>0.861069</Open>
+    <High>1.00586</High>
+    <Low>0.846992</Low>
+    <Close>0.927028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-26</Date>
+    <Open>0.929028</Open>
+    <High>1.00008</High>
+    <Low>0.892991</Low>
+    <Close>0.904081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-27</Date>
+    <Open>0.90409</Open>
+    <High>1.14306</High>
+    <Low>0.883079</Low>
+    <Close>0.977029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-28</Date>
+    <Open>0.976029</Open>
+    <High>1.12899</High>
+    <Low>0.95501</Low>
+    <Close>1.067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-29</Date>
+    <Open>1.065</Open>
+    <High>1.132</High>
+    <Low>0.984941</Low>
+    <Close>1.03007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-30</Date>
+    <Open>1.0331</Open>
+    <High>1.04498</High>
+    <Low>0.95902</Low>
+    <Close>0.97409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-08-31</Date>
+    <Open>0.97408</Open>
+    <High>1.03504</High>
+    <Low>0.96906</Low>
+    <Close>0.99499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-01</Date>
+    <Open>0.99699</Open>
+    <High>0.99899</High>
+    <Low>0.913973</Low>
+    <Close>0.950943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-02</Date>
+    <Open>0.954952</Open>
+    <High>1.01401</High>
+    <Low>0.948953</Low>
+    <Close>0.99612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-03</Date>
+    <Open>0.996149</Open>
+    <High>1.0331</High>
+    <Low>0.981147</Low>
+    <Close>1.004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-04</Date>
+    <Open>1.003</Open>
+    <High>1.18812</High>
+    <Low>1.0</Low>
+    <Close>1.146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-05</Date>
+    <Open>1.143</Open>
+    <High>1.396</High>
+    <Low>1.088</Low>
+    <Close>1.33413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-06</Date>
+    <Open>1.33313</Open>
+    <High>1.42714</High>
+    <Low>1.22488</Low>
+    <Close>1.237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-07</Date>
+    <Open>1.236</Open>
+    <High>1.32399</High>
+    <Low>1.10397</Low>
+    <Close>1.28009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-08</Date>
+    <Open>1.28108</Open>
+    <High>1.31801</High>
+    <Low>1.225</Low>
+    <Close>1.25923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-09</Date>
+    <Open>1.2602</Open>
+    <High>1.39056</High>
+    <Low>1.23114</Low>
+    <Close>1.34144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-10</Date>
+    <Open>1.3415</Open>
+    <High>1.37845</High>
+    <Low>1.2815</Low>
+    <Close>1.29626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-11</Date>
+    <Open>1.29927</Open>
+    <High>1.3374</High>
+    <Low>1.28346</Low>
+    <Close>1.30731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-12</Date>
+    <Open>1.30733</Open>
+    <High>1.32034</High>
+    <Low>1.16124</Low>
+    <Close>1.19024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-13</Date>
+    <Open>1.18936</Open>
+    <High>1.24126</High>
+    <Low>1.09992</Low>
+    <Close>1.13102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-14</Date>
+    <Open>1.12501</Open>
+    <High>1.29623</High>
+    <Low>1.12001</Low>
+    <Close>1.27232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-15</Date>
+    <Open>1.27332</Open>
+    <High>1.28129</High>
+    <Low>1.1358</Low>
+    <Close>1.17889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-16</Date>
+    <Open>1.17692</Open>
+    <High>1.17793</High>
+    <Low>1.03181</Low>
+    <Close>1.11989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-17</Date>
+    <Open>1.11989</Open>
+    <High>1.122</High>
+    <Low>1.05789</Low>
+    <Close>1.09611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-18</Date>
+    <Open>1.09611</Open>
+    <High>1.10111</High>
+    <Low>0.9559</Low>
+    <Close>0.979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-19</Date>
+    <Open>0.976</Open>
+    <High>0.9929</High>
+    <Low>0.896</Low>
+    <Close>0.972194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-20</Date>
+    <Open>0.972097</Open>
+    <High>0.982196</High>
+    <Low>0.89</Low>
+    <Close>0.891089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-21</Date>
+    <Open>0.891</Open>
+    <High>1.022</High>
+    <Low>0.872087</Low>
+    <Close>0.908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-22</Date>
+    <Open>0.910091</Open>
+    <High>0.955</High>
+    <Low>0.895</Low>
+    <Close>0.907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-23</Date>
+    <Open>0.907</Open>
+    <High>0.94</High>
+    <Low>0.885</Low>
+    <Close>0.917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-24</Date>
+    <Open>0.916927</Open>
+    <High>0.934019</High>
+    <Low>0.905109</Low>
+    <Close>0.913073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-25</Date>
+    <Open>0.912</Open>
+    <High>0.917092</High>
+    <Low>0.867035</Low>
+    <Close>0.869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-26</Date>
+    <Open>0.869991</Open>
+    <High>0.881991</High>
+    <Low>0.826917</Low>
+    <Close>0.863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-27</Date>
+    <Open>0.863</Open>
+    <High>0.91</High>
+    <Low>0.827</Low>
+    <Close>0.840916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-28</Date>
+    <Open>0.841</Open>
+    <High>0.858</High>
+    <Low>0.79992</Low>
+    <Close>0.842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-29</Date>
+    <Open>0.842</Open>
+    <High>0.842</High>
+    <Low>0.79</Low>
+    <Close>0.80208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-09-30</Date>
+    <Open>0.803</Open>
+    <High>0.833083</High>
+    <Low>0.80092</Low>
+    <Close>0.803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-01</Date>
+    <Open>0.804</Open>
+    <High>0.812</High>
+    <Low>0.775</Low>
+    <Close>0.7852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-02</Date>
+    <Open>0.7866</Open>
+    <High>0.883</High>
+    <Low>0.7848</Low>
+    <Close>0.838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-03</Date>
+    <Open>0.835</Open>
+    <High>0.862</High>
+    <Low>0.818082</Low>
+    <Close>0.850085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-04</Date>
+    <Open>0.854085</Open>
+    <High>0.870261</High>
+    <Low>0.837084</Low>
+    <Close>0.863259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-05</Date>
+    <Open>0.861172</Open>
+    <High>0.862259</High>
+    <Low>0.805</Low>
+    <Close>0.821164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-06</Date>
+    <Open>0.820164</Open>
+    <High>0.834142</High>
+    <Low>0.800096</Low>
+    <Close>0.801136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-07</Date>
+    <Open>0.801936</Open>
+    <High>0.833367</High>
+    <Low>0.790942</Low>
+    <Close>0.82259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-08</Date>
+    <Open>0.824899</Open>
+    <High>0.836775</High>
+    <Low>0.80278</Low>
+    <Close>0.810303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-09</Date>
+    <Open>0.810303</Open>
+    <High>0.833867</High>
+    <Low>0.790879</Low>
+    <Close>0.807261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-10</Date>
+    <Open>0.806881</Open>
+    <High>0.809281</High>
+    <Low>0.7674</Low>
+    <Close>0.783222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-11</Date>
+    <Open>0.7846</Open>
+    <High>0.7846</High>
+    <Low>0.725333</Low>
+    <Close>0.728227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-12</Date>
+    <Open>0.728205</Open>
+    <High>0.74937</High>
+    <Low>0.707065</Low>
+    <Close>0.719629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-13</Date>
+    <Open>0.720207</Open>
+    <High>0.728685</High>
+    <Low>0.616563</Low>
+    <Close>0.696056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-14</Date>
+    <Open>0.695063</Open>
+    <High>0.799064</High>
+    <Low>0.690048</Low>
+    <Close>0.780031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-15</Date>
+    <Open>0.777023</Open>
+    <High>0.865069</High>
+    <Low>0.75106</Low>
+    <Close>0.770039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-16</Date>
+    <Open>0.771039</Open>
+    <High>0.780031</High>
+    <Low>0.728007</Low>
+    <Close>0.74303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-17</Date>
+    <Open>0.742037</Open>
+    <High>0.778078</High>
+    <Low>0.739007</Low>
+    <Close>0.745015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-18</Date>
+    <Open>0.746022</Open>
+    <High>0.791087</High>
+    <Low>0.74103</Low>
+    <Close>0.764046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-19</Date>
+    <Open>0.763076</Open>
+    <High>0.763076</High>
+    <Low>0.701056</Low>
+    <Close>0.717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-20</Date>
+    <Open>0.718993</Open>
+    <High>0.731985</High>
+    <Low>0.689945</Low>
+    <Close>0.702951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-21</Date>
+    <Open>0.701951</Open>
+    <High>0.701965</High>
+    <Low>0.656954</Low>
+    <Close>0.691048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-22</Date>
+    <Open>0.692055</Open>
+    <High>0.702014</High>
+    <Low>0.678061</Low>
+    <Close>0.686062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-23</Date>
+    <Open>0.687062</Open>
+    <High>0.691418</High>
+    <Low>0.659933</Low>
+    <Close>0.69109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-24</Date>
+    <Open>0.691383</Open>
+    <High>0.714043</High>
+    <Low>0.680768</Low>
+    <Close>0.697228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-25</Date>
+    <Open>0.697328</Open>
+    <High>0.733876</High>
+    <Low>0.6813</Low>
+    <Close>0.714329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-26</Date>
+    <Open>0.713342</Open>
+    <High>0.755234</High>
+    <Low>0.707798</Low>
+    <Close>0.739207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-27</Date>
+    <Open>0.738207</Open>
+    <High>0.742148</High>
+    <Low>0.702021</Low>
+    <Close>0.712043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-28</Date>
+    <Open>0.71305</Open>
+    <High>0.747149</High>
+    <Low>0.701028</Low>
+    <Close>0.739155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-29</Date>
+    <Open>0.739148</Open>
+    <High>0.811195</High>
+    <Low>0.731212</Low>
+    <Close>0.789189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-30</Date>
+    <Open>0.79119</Open>
+    <High>0.815204</High>
+    <Low>0.757151</Low>
+    <Close>0.764153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-10-31</Date>
+    <Open>0.765168</Open>
+    <High>0.828992</High>
+    <Low>0.725964</Low>
+    <Close>0.734941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-01</Date>
+    <Open>0.734963</Open>
+    <High>0.749857</High>
+    <Low>0.710858</Low>
+    <Close>0.713929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-02</Date>
+    <Open>0.713921</Open>
+    <High>0.725036</High>
+    <Low>0.681973</Low>
+    <Close>0.687986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-03</Date>
+    <Open>0.688959</Open>
+    <High>0.737911</High>
+    <Low>0.688959</Low>
+    <Close>0.703993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-04</Date>
+    <Open>0.704986</Open>
+    <High>0.758053</High>
+    <Low>0.699951</Low>
+    <Close>0.75106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-05</Date>
+    <Open>0.749052</Open>
+    <High>0.762091</High>
+    <Low>0.728015</Low>
+    <Close>0.739037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-06</Date>
+    <Open>0.73903</Open>
+    <High>0.741037</High>
+    <Low>0.708021</Low>
+    <Close>0.709057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-07</Date>
+    <Open>0.709057</Open>
+    <High>0.723007</High>
+    <Low>0.686048</Low>
+    <Close>0.700084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-08</Date>
+    <Open>0.69914</Open>
+    <High>0.710284</High>
+    <Low>0.55088</Low>
+    <Close>0.595782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-09</Date>
+    <Open>0.59177</Open>
+    <High>0.60258</High>
+    <Low>0.465014</Low>
+    <Close>0.486616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-10</Date>
+    <Open>0.484012</Open>
+    <High>0.555387</High>
+    <Low>0.403161</Low>
+    <Close>0.493722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-11</Date>
+    <Open>0.495169</Open>
+    <High>0.53889</High>
+    <Low>0.424607</Low>
+    <Close>0.446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-12</Date>
+    <Open>0.447089</Open>
+    <High>0.485125</High>
+    <Low>0.437212</Low>
+    <Close>0.441204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-13</Date>
+    <Open>0.441204</Open>
+    <High>0.449325</High>
+    <Low>0.420874</Low>
+    <Close>0.426402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-14</Date>
+    <Open>0.426402</Open>
+    <High>0.534251</High>
+    <Low>0.39944</Low>
+    <Close>0.469295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-15</Date>
+    <Open>0.467298</Open>
+    <High>0.47952</High>
+    <Low>0.444511</Low>
+    <Close>0.451548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-16</Date>
+    <Open>0.45045</Open>
+    <High>0.470472</High>
+    <Low>0.428614</Low>
+    <Close>0.437593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-17</Date>
+    <Open>0.4396</Open>
+    <High>0.477632</High>
+    <Low>0.434643</Low>
+    <Close>0.454636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-18</Date>
+    <Open>0.457661</Open>
+    <High>0.491562</High>
+    <Low>0.45454</Low>
+    <Close>0.469459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-19</Date>
+    <Open>0.468456</Open>
+    <High>0.476413</High>
+    <Low>0.457455</Low>
+    <Close>0.462518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-20</Date>
+    <Open>0.464512</Open>
+    <High>0.487356</High>
+    <Low>0.438333</Low>
+    <Close>0.439336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-21</Date>
+    <Open>0.437334</Open>
+    <High>0.474378</High>
+    <Low>0.418359</Low>
+    <Close>0.433479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-22</Date>
+    <Open>0.434474</Open>
+    <High>0.447521</High>
+    <Low>0.419492</Low>
+    <Close>0.442433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-23</Date>
+    <Open>0.44143</Open>
+    <High>0.46545</High>
+    <Low>0.437444</Low>
+    <Close>0.460498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-24</Date>
+    <Open>0.462495</Open>
+    <High>0.469502</High>
+    <Low>0.442597</Low>
+    <Close>0.450626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-25</Date>
+    <Open>0.45261</Open>
+    <High>0.453659</High>
+    <Low>0.438693</Low>
+    <Close>0.444733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-26</Date>
+    <Open>0.444737</Open>
+    <High>0.459669</High>
+    <Low>0.442721</Low>
+    <Close>0.448726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-27</Date>
+    <Open>0.449735</Open>
+    <High>0.785521</High>
+    <Low>0.447736</Low>
+    <Close>0.557643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-28</Date>
+    <Open>0.556644</Open>
+    <High>0.57971</High>
+    <Low>0.499755</Low>
+    <Close>0.515804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-29</Date>
+    <Open>0.514799</Open>
+    <High>0.545667</High>
+    <Low>0.51078</Low>
+    <Close>0.5258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-11-30</Date>
+    <Open>0.526794</Open>
+    <High>0.560101</High>
+    <Low>0.518958</Low>
+    <Close>0.549027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-01</Date>
+    <Open>0.550033</Open>
+    <High>0.597048</High>
+    <Low>0.536048</Low>
+    <Close>0.559034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-02</Date>
+    <Open>0.558028</Open>
+    <High>0.56105</High>
+    <Low>0.535005</Low>
+    <Close>0.541032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-03</Date>
+    <Open>0.541022</Open>
+    <High>0.547049</High>
+    <Low>0.528011</Low>
+    <Close>0.528053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-04</Date>
+    <Open>0.530106</Open>
+    <High>0.604121</High>
+    <Low>0.528053</Low>
+    <Close>0.560112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-05</Date>
+    <Open>0.558112</Open>
+    <High>0.565169</High>
+    <Low>0.534027</Low>
+    <Close>0.537016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-06</Date>
+    <Open>0.537011</Open>
+    <High>0.545027</High>
+    <Low>0.524</Low>
+    <Close>0.527989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-07</Date>
+    <Open>0.526989</Open>
+    <High>0.534</High>
+    <Low>0.50399</Low>
+    <Close>0.510995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-08</Date>
+    <Open>0.512</Open>
+    <High>0.542054</High>
+    <Low>0.509</Low>
+    <Close>0.528037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-09</Date>
+    <Open>0.529042</Open>
+    <High>0.532032</High>
+    <Low>0.512015</Low>
+    <Close>0.513026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-10</Date>
+    <Open>0.51202</Open>
+    <High>0.521005</High>
+    <Low>0.50599</Low>
+    <Close>0.50799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-11</Date>
+    <Open>0.505995</Open>
+    <High>0.534107</High>
+    <Low>0.505995</Low>
+    <Close>0.516052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-12</Date>
+    <Open>0.517103</Open>
+    <High>0.519104</High>
+    <Low>0.480038</Low>
+    <Close>0.49504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-13</Date>
+    <Open>0.494049</Open>
+    <High>0.5251</High>
+    <Low>0.471118</Low>
+    <Close>0.50088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-14</Date>
+    <Open>0.501854</Open>
+    <High>0.509005</High>
+    <Low>0.490907</Low>
+    <Close>0.496035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-15</Date>
+    <Open>0.496</Open>
+    <High>0.49705</High>
+    <Low>0.473095</Low>
+    <Close>0.475047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-16</Date>
+    <Open>0.474047</Open>
+    <High>0.493</High>
+    <Low>0.440088</Low>
+    <Close>0.440088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-17</Date>
+    <Open>0.442088</Open>
+    <High>0.512056</High>
+    <Low>0.428026</Low>
+    <Close>0.471052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-18</Date>
+    <Open>0.472061</Open>
+    <High>0.478057</High>
+    <Low>0.442031</Low>
+    <Close>0.455059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-19</Date>
+    <Open>0.45806</Open>
+    <High>0.45906</High>
+    <Low>0.423004</Low>
+    <Close>0.424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-20</Date>
+    <Open>0.427</Open>
+    <High>0.46</High>
+    <Low>0.424</Low>
+    <Close>0.456018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-21</Date>
+    <Open>0.454018</Open>
+    <High>0.454018</High>
+    <Low>0.434996</Low>
+    <Close>0.442022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-22</Date>
+    <Open>0.443018</Open>
+    <High>0.452995</High>
+    <Low>0.438939</Low>
+    <Close>0.445933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-23</Date>
+    <Open>0.445924</Open>
+    <High>0.473943</High>
+    <Low>0.444929</Low>
+    <Close>0.45495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-24</Date>
+    <Open>0.455968</Open>
+    <High>0.465958</High>
+    <Low>0.453955</Low>
+    <Close>0.457973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-25</Date>
+    <Open>0.457968</Open>
+    <High>0.479962</High>
+    <Low>0.455941</Low>
+    <Close>0.46094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-26</Date>
+    <Open>0.460945</Open>
+    <High>0.472929</High>
+    <Low>0.457954</Low>
+    <Close>0.461908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-27</Date>
+    <Open>0.461912</Open>
+    <High>0.473867</High>
+    <Low>0.45883</Low>
+    <Close>0.45983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-28</Date>
+    <Open>0.461811</Open>
+    <High>0.462824</High>
+    <Low>0.440749</Low>
+    <Close>0.441766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-29</Date>
+    <Open>0.443765</Open>
+    <High>0.505782</High>
+    <Low>0.441757</Low>
+    <Close>0.466785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-30</Date>
+    <Open>0.466795</Open>
+    <High>0.495747</High>
+    <Low>0.456781</Low>
+    <Close>0.464758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2022-12-31</Date>
+    <Open>0.464763</Open>
+    <High>0.470764</High>
+    <Low>0.461769</Low>
+    <Close>0.463763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-01</Date>
+    <Open>0.462769</Open>
+    <High>0.521776</High>
+    <Low>0.462755</Low>
+    <Close>0.497766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-02</Date>
+    <Open>0.497766</Open>
+    <High>0.516783</High>
+    <Low>0.492798</Low>
+    <Close>0.507837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-03</Date>
+    <Open>0.505828</Open>
+    <High>0.506838</High>
+    <Low>0.483802</Low>
+    <Close>0.493807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-04</Date>
+    <Open>0.492813</Open>
+    <High>0.524869</High>
+    <Low>0.492808</Low>
+    <Close>0.510831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-05</Date>
+    <Open>0.510831</Open>
+    <High>0.521843</High>
+    <Low>0.501784</Low>
+    <Close>0.504808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-06</Date>
+    <Open>0.505823</Open>
+    <High>0.5128</High>
+    <Low>0.485742</Low>
+    <Close>0.508842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-07</Date>
+    <Open>0.507832</Open>
+    <High>0.510857</High>
+    <Low>0.492852</Low>
+    <Close>0.495881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-08</Date>
+    <Open>0.494876</Open>
+    <High>0.506924</High>
+    <Low>0.490926</Low>
+    <Close>0.506919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-09</Date>
+    <Open>0.506904</Open>
+    <High>0.548978</High>
+    <Low>0.506899</Low>
+    <Close>0.535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-10</Date>
+    <Open>0.530995</Open>
+    <High>0.542957</High>
+    <Low>0.514938</Low>
+    <Close>0.53507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-11</Date>
+    <Open>0.538081</Open>
+    <High>0.545044</High>
+    <Low>0.511969</Low>
+    <Close>0.522995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-12</Date>
+    <Open>0.522963</Open>
+    <High>0.54706</High>
+    <Low>0.519974</Low>
+    <Close>0.538059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-13</Date>
+    <Open>0.538054</Open>
+    <High>0.586941</High>
+    <Low>0.533053</Low>
+    <Close>0.575057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-14</Date>
+    <Open>0.573052</Open>
+    <High>0.612086</High>
+    <Low>0.5561</Low>
+    <Close>0.584023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-15</Date>
+    <Open>0.588029</Open>
+    <High>0.59918</High>
+    <Low>0.561039</Low>
+    <Close>0.591177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-16</Date>
+    <Open>0.594238</Open>
+    <High>0.699203</High>
+    <Low>0.584169</Low>
+    <Close>0.661013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-17</Date>
+    <Open>0.659013</Open>
+    <High>0.667027</High>
+    <Low>0.619019</Low>
+    <Close>0.63207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-18</Date>
+    <Open>0.632063</Open>
+    <High>0.653059</High>
+    <Low>0.556933</Low>
+    <Close>0.582965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-19</Date>
+    <Open>0.582965</Open>
+    <High>0.679973</High>
+    <Low>0.572006</Low>
+    <Close>0.65998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-20</Date>
+    <Open>0.660046</Open>
+    <High>0.684103</High>
+    <Low>0.625975</Low>
+    <Close>0.678115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-21</Date>
+    <Open>0.679122</Open>
+    <High>0.707205</High>
+    <Low>0.66712</Low>
+    <Close>0.6681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-22</Date>
+    <Open>0.667107</Open>
+    <High>0.685103</High>
+    <Low>0.633114</Low>
+    <Close>0.641122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-23</Date>
+    <Open>0.641128</Open>
+    <High>0.675081</High>
+    <Low>0.639128</Low>
+    <Close>0.671101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-24</Date>
+    <Open>0.671094</Open>
+    <High>0.681109</High>
+    <Low>0.630095</Low>
+    <Close>0.636025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-25</Date>
+    <Open>0.634019</Open>
+    <High>0.668174</High>
+    <Low>0.615031</Low>
+    <Close>0.644103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-26</Date>
+    <Open>0.643109</Open>
+    <High>0.719072</High>
+    <Low>0.643109</Low>
+    <Close>0.682055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-27</Date>
+    <Open>0.681061</Open>
+    <High>0.870104</High>
+    <Low>0.657059</Low>
+    <Close>0.826405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-28</Date>
+    <Open>0.825314</Open>
+    <High>1.12425</High>
+    <Low>0.791142</Low>
+    <Close>0.936178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-29</Date>
+    <Open>0.940188</Open>
+    <High>1.02219</High>
+    <Low>0.892205</Low>
+    <Close>0.923046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-30</Date>
+    <Open>0.920046</Open>
+    <High>1.01708</High>
+    <Low>0.816008</Low>
+    <Close>0.858051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-01-31</Date>
+    <Open>0.858051</Open>
+    <High>0.945057</High>
+    <Low>0.850043</Low>
+    <Close>0.911082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-01</Date>
+    <Open>0.911073</Open>
+    <High>0.981088</High>
+    <Low>0.864009</Low>
+    <Close>0.969058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-02</Date>
+    <Open>0.970049</Open>
+    <High>0.988148</High>
+    <Low>0.910064</Low>
+    <Close>0.925167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-03</Date>
+    <Open>0.923185</Open>
+    <High>1.05506</High>
+    <Low>0.892991</Low>
+    <Close>1.00208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-04</Date>
+    <Open>0.99708</Open>
+    <High>1.03208</High>
+    <Low>0.944057</Low>
+    <Close>0.951095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-05</Date>
+    <Open>0.953076</Open>
+    <High>0.976244</High>
+    <Low>0.885177</Low>
+    <Close>0.910228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-06</Date>
+    <Open>0.910228</Open>
+    <High>0.944991</High>
+    <Low>0.883097</Low>
+    <Close>0.913027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-07</Date>
+    <Open>0.912027</Open>
+    <High>0.956</High>
+    <Low>0.896072</Low>
+    <Close>0.950048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-08</Date>
+    <Open>0.950057</Open>
+    <High>0.993099</High>
+    <Low>0.904018</Low>
+    <Close>0.912064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-09</Date>
+    <Open>0.910064</Open>
+    <High>0.918028</High>
+    <Low>0.7402</Low>
+    <Close>0.747075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-10</Date>
+    <Open>0.748067</Open>
+    <High>0.819123</High>
+    <Low>0.745097</Low>
+    <Close>0.789118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-11</Date>
+    <Open>0.792127</Open>
+    <High>0.846085</High>
+    <Low>0.780109</Low>
+    <Close>0.843084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-12</Date>
+    <Open>0.840076</Open>
+    <High>0.854085</High>
+    <Low>0.765107</Low>
+    <Close>0.786079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-13</Date>
+    <Open>0.783078</Open>
+    <High>0.798231</High>
+    <Low>0.710469</Low>
+    <Close>0.738399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-14</Date>
+    <Open>0.736405</Open>
+    <High>0.808452</High>
+    <Low>0.736405</Low>
+    <Close>0.783282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-15</Date>
+    <Open>0.78336</Open>
+    <High>0.893152</High>
+    <Low>0.770216</Low>
+    <Close>0.866156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-16</Date>
+    <Open>0.868156</Open>
+    <High>0.897161</High>
+    <Low>0.800272</Low>
+    <Close>0.801272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-17</Date>
+    <Open>0.801104</Open>
+    <High>0.937094</High>
+    <Low>0.797231</Low>
+    <Close>0.925092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-18</Date>
+    <Open>0.924092</Open>
+    <High>0.958134</High>
+    <Low>0.882088</Low>
+    <Close>0.890151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-19</Date>
+    <Open>0.892152</Open>
+    <High>0.920166</High>
+    <Low>0.853196</Low>
+    <Close>0.858189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-20</Date>
+    <Open>0.857197</Open>
+    <High>0.900126</High>
+    <Low>0.847229</Low>
+    <Close>0.878079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-21</Date>
+    <Open>0.876035</Open>
+    <High>0.887133</High>
+    <Low>0.811114</Low>
+    <Close>0.827207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-22</Date>
+    <Open>0.825149</Open>
+    <High>0.847008</High>
+    <Low>0.772085</Low>
+    <Close>0.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-23</Date>
+    <Open>0.84005</Open>
+    <High>0.88608</High>
+    <Low>0.819082</Low>
+    <Close>0.824049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-24</Date>
+    <Open>0.827099</Open>
+    <High>0.854162</High>
+    <Low>0.787118</Low>
+    <Close>0.791992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-25</Date>
+    <Open>0.793</Open>
+    <High>0.828</High>
+    <Low>0.790063</Low>
+    <Close>0.822058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-26</Date>
+    <Open>0.823058</Open>
+    <High>0.836075</High>
+    <Low>0.811008</Low>
+    <Close>0.825049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-27</Date>
+    <Open>0.825041</Open>
+    <High>0.876026</High>
+    <Low>0.809</Low>
+    <Close>0.858043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-02-28</Date>
+    <Open>0.859052</Open>
+    <High>0.896982</High>
+    <Low>0.794064</Low>
+    <Close>0.80917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-01</Date>
+    <Open>0.80917</Open>
+    <High>0.833092</High>
+    <Low>0.80208</Low>
+    <Close>0.821123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-02</Date>
+    <Open>0.820115</Open>
+    <High>0.825107</High>
+    <Low>0.762947</Low>
+    <Close>0.786031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-03</Date>
+    <Open>0.787071</Open>
+    <High>0.79504</High>
+    <Low>0.717065</Low>
+    <Close>0.725051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-04</Date>
+    <Open>0.724058</Open>
+    <High>0.734073</High>
+    <Low>0.686034</Low>
+    <Close>0.694056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-05</Date>
+    <Open>0.705056</Open>
+    <High>0.725051</High>
+    <Low>0.696084</Low>
+    <Close>0.699084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-06</Date>
+    <Open>0.698077</Open>
+    <High>0.708979</High>
+    <Low>0.688117</Low>
+    <Close>0.692958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-07</Date>
+    <Open>0.69491</Open>
+    <High>0.706993</High>
+    <Low>0.657901</Low>
+    <Close>0.666033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-08</Date>
+    <Open>0.66698</Open>
+    <High>0.677932</High>
+    <Low>0.633968</Low>
+    <Close>0.635968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-09</Date>
+    <Open>0.634905</Open>
+    <High>0.682816</High>
+    <Low>0.613865</Low>
+    <Close>0.624062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-10</Date>
+    <Open>0.622056</Open>
+    <High>0.627094</High>
+    <Low>0.581953</Low>
+    <Close>0.62326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-11</Date>
+    <Open>0.624283</Open>
+    <High>0.638762</High>
+    <Low>0.578908</Low>
+    <Close>0.595285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-12</Date>
+    <Open>0.595367</Open>
+    <High>0.633947</High>
+    <Low>0.594773</Low>
+    <Close>0.630956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-13</Date>
+    <Open>0.632085</Open>
+    <High>0.691218</High>
+    <Low>0.622573</Low>
+    <Close>0.678044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-14</Date>
+    <Open>0.679647</Open>
+    <High>0.726145</High>
+    <Low>0.652005</Low>
+    <Close>0.682802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-15</Date>
+    <Open>0.683908</Open>
+    <High>0.705615</High>
+    <Low>0.625367</Low>
+    <Close>0.636714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-16</Date>
+    <Open>0.635633</Open>
+    <High>0.657666</High>
+    <Low>0.630192</Low>
+    <Close>0.651554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-17</Date>
+    <Open>0.651593</Open>
+    <High>0.689665</High>
+    <Low>0.646419</Low>
+    <Close>0.684046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-18</Date>
+    <Open>0.687667</Open>
+    <High>0.711917</High>
+    <Low>0.673808</Low>
+    <Close>0.676022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-19</Date>
+    <Open>0.674009</Open>
+    <High>0.681945</High>
+    <Low>0.632887</Low>
+    <Close>0.658905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-20</Date>
+    <Open>0.660997</Open>
+    <High>0.666072</High>
+    <Low>0.619197</Low>
+    <Close>0.626278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-21</Date>
+    <Open>0.628279</Open>
+    <High>0.637908</High>
+    <Low>0.599239</Low>
+    <Close>0.633013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-22</Date>
+    <Open>0.63201</Open>
+    <High>0.641077</High>
+    <Low>0.597591</Low>
+    <Close>0.610742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-23</Date>
+    <Open>0.609702</Open>
+    <High>0.629243</High>
+    <Low>0.604538</Low>
+    <Close>0.623362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-24</Date>
+    <Open>0.625304</Open>
+    <High>0.631355</High>
+    <Low>0.591662</Low>
+    <Close>0.602614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-25</Date>
+    <Open>0.601685</Open>
+    <High>0.610854</High>
+    <Low>0.585661</Low>
+    <Close>0.58857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-26</Date>
+    <Open>0.587569</Open>
+    <High>0.63153</High>
+    <Low>0.585567</Low>
+    <Close>0.622703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-27</Date>
+    <Open>0.625688</Open>
+    <High>0.687543</High>
+    <Low>0.595399</Low>
+    <Close>0.609286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-28</Date>
+    <Open>0.609286</Open>
+    <High>0.619223</High>
+    <Low>0.594184</Low>
+    <Close>0.614239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-29</Date>
+    <Open>0.614239</Open>
+    <High>0.635159</High>
+    <Low>0.613159</Low>
+    <Close>0.634108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-30</Date>
+    <Open>0.63319</Open>
+    <High>0.647078</High>
+    <Low>0.600072</Low>
+    <Close>0.610171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-03-31</Date>
+    <Open>0.610171</Open>
+    <High>0.618167</High>
+    <Low>0.596173</Low>
+    <Close>0.61713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-01</Date>
+    <Open>0.61813</Open>
+    <High>0.626088</High>
+    <Low>0.604187</Low>
+    <Close>0.617228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-02</Date>
+    <Open>0.617228</Open>
+    <High>0.624256</High>
+    <Low>0.596405</Low>
+    <Close>0.598377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-03</Date>
+    <Open>0.598371</Open>
+    <High>0.629252</High>
+    <Low>0.586275</Low>
+    <Close>0.62525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-04</Date>
+    <Open>0.626244</Open>
+    <High>0.714193</High>
+    <Low>0.618111</Low>
+    <Close>0.660337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-05</Date>
+    <Open>0.658336</Open>
+    <High>0.674222</High>
+    <Low>0.642193</Low>
+    <Close>0.657237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-06</Date>
+    <Open>0.657151</Open>
+    <High>0.665193</High>
+    <Low>0.633228</Low>
+    <Close>0.638223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-07</Date>
+    <Open>0.637229</Open>
+    <High>0.643321</High>
+    <Low>0.611452</Low>
+    <Close>0.611458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-08</Date>
+    <Open>0.611458</Open>
+    <High>0.626326</High>
+    <Low>0.606303</Low>
+    <Close>0.609238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-09</Date>
+    <Open>0.610238</Open>
+    <High>0.624412</High>
+    <Low>0.603386</Low>
+    <Close>0.618371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-10</Date>
+    <Open>0.61842</Open>
+    <High>0.637452</High>
+    <Low>0.612483</Low>
+    <Close>0.632512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-11</Date>
+    <Open>0.633519</Open>
+    <High>0.649558</High>
+    <Low>0.632367</Low>
+    <Close>0.63362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-12</Date>
+    <Open>0.632626</Open>
+    <High>0.635597</High>
+    <Low>0.612526</Low>
+    <Close>0.620477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-13</Date>
+    <Open>0.620484</Open>
+    <High>0.643759</High>
+    <Low>0.618544</Low>
+    <Close>0.631606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-14</Date>
+    <Open>0.633601</Open>
+    <High>0.680741</High>
+    <Low>0.631631</Low>
+    <Close>0.656538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-15</Date>
+    <Open>0.656544</Open>
+    <High>0.885841</High>
+    <Low>0.655537</Low>
+    <Close>0.750668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-16</Date>
+    <Open>0.75367</Open>
+    <High>0.755649</High>
+    <Low>0.706586</Low>
+    <Close>0.725515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-17</Date>
+    <Open>0.726501</Open>
+    <High>0.72756</High>
+    <Low>0.678597</Low>
+    <Close>0.68635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-18</Date>
+    <Open>0.690407</Open>
+    <High>0.732183</High>
+    <Low>0.684376</Low>
+    <Close>0.703127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-19</Date>
+    <Open>0.705176</Open>
+    <High>0.711306</High>
+    <Low>0.635324</Low>
+    <Close>0.641327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-20</Date>
+    <Open>0.643354</Open>
+    <High>0.647162</High>
+    <Low>0.609787</Low>
+    <Close>0.618049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-21</Date>
+    <Open>0.618025</Open>
+    <High>0.628937</High>
+    <Low>0.599694</Low>
+    <Close>0.599934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-22</Date>
+    <Open>0.599934</Open>
+    <High>0.641038</High>
+    <Low>0.597006</Low>
+    <Close>0.633057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-23</Date>
+    <Open>0.631057</Open>
+    <High>0.641103</High>
+    <Low>0.599132</Low>
+    <Close>0.60303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-24</Date>
+    <Open>0.603012</Open>
+    <High>0.619</High>
+    <Low>0.599114</Low>
+    <Close>0.609012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-25</Date>
+    <Open>0.608018</Open>
+    <High>0.618043</High>
+    <Low>0.591994</Low>
+    <Close>0.60914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-26</Date>
+    <Open>0.61014</Open>
+    <High>0.636134</High>
+    <Low>0.588071</Low>
+    <Close>0.606194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-27</Date>
+    <Open>0.606194</Open>
+    <High>0.626094</High>
+    <Low>0.601204</Low>
+    <Close>0.620211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-28</Date>
+    <Open>0.619198</Open>
+    <High>0.623237</High>
+    <Low>0.591254</Low>
+    <Close>0.60048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-29</Date>
+    <Open>0.601457</Open>
+    <High>0.608413</High>
+    <Low>0.594392</Low>
+    <Close>0.597358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-04-30</Date>
+    <Open>0.597352</Open>
+    <High>0.628257</High>
+    <Low>0.590389</Low>
+    <Close>0.60335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-01</Date>
+    <Open>0.605333</Open>
+    <High>0.606297</High>
+    <Low>0.572977</Low>
+    <Close>0.579156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-02</Date>
+    <Open>0.579151</Open>
+    <High>0.595351</High>
+    <Low>0.576006</Low>
+    <Close>0.589359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-03</Date>
+    <Open>0.588359</Open>
+    <High>0.594303</High>
+    <Low>0.559184</Low>
+    <Close>0.579151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-04</Date>
+    <Open>0.579139</Open>
+    <High>0.598114</High>
+    <Low>0.574247</Low>
+    <Close>0.575213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-05</Date>
+    <Open>0.575213</Open>
+    <High>0.582437</High>
+    <Low>0.56023</Low>
+    <Close>0.57152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-06</Date>
+    <Open>0.570519</Open>
+    <High>0.581581</High>
+    <Low>0.529815</Low>
+    <Close>0.54094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-07</Date>
+    <Open>0.542948</Open>
+    <High>0.575805</High>
+    <Low>0.539895</Low>
+    <Close>0.545638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-08</Date>
+    <Open>0.545643</Open>
+    <High>0.546644</High>
+    <Low>0.488337</Low>
+    <Close>0.510398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-09</Date>
+    <Open>0.511383</Open>
+    <High>0.519519</High>
+    <Low>0.499449</Low>
+    <Close>0.501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-10</Date>
+    <Open>0.499185</Open>
+    <High>0.518622</High>
+    <Low>0.482908</Low>
+    <Close>0.506485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-11</Date>
+    <Open>0.508537</Open>
+    <High>0.514162</High>
+    <Low>0.47843</Low>
+    <Close>0.486636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-12</Date>
+    <Open>0.486536</Open>
+    <High>0.496908</High>
+    <Low>0.470105</Low>
+    <Close>0.493044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-13</Date>
+    <Open>0.493504</Open>
+    <High>0.498499</High>
+    <Low>0.484212</Low>
+    <Close>0.493056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-14</Date>
+    <Open>0.492425</Open>
+    <High>0.517829</High>
+    <Low>0.487052</Low>
+    <Close>0.502031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-15</Date>
+    <Open>0.50121</Open>
+    <High>0.514311</High>
+    <Low>0.495026</Low>
+    <Close>0.496848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-16</Date>
+    <Open>0.497128</Open>
+    <High>0.504553</High>
+    <Low>0.492897</Low>
+    <Close>0.49989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-17</Date>
+    <Open>0.50003</Open>
+    <High>0.511204</High>
+    <Low>0.490115</Low>
+    <Close>0.510095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-18</Date>
+    <Open>0.510525</Open>
+    <High>0.512906</High>
+    <Low>0.487015</Low>
+    <Close>0.494968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-19</Date>
+    <Open>0.495288</Open>
+    <High>0.497029</High>
+    <Low>0.485743</Low>
+    <Close>0.493793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-20</Date>
+    <Open>0.493777</Open>
+    <High>0.503453</High>
+    <Low>0.489391</Low>
+    <Close>0.499449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-21</Date>
+    <Open>0.498448</Open>
+    <High>0.503302</High>
+    <Low>0.477238</Low>
+    <Close>0.481289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-22</Date>
+    <Open>0.48124</Open>
+    <High>0.490294</High>
+    <Low>0.474284</Low>
+    <Close>0.483241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-23</Date>
+    <Open>0.482223</Open>
+    <High>0.494054</High>
+    <Low>0.477129</Low>
+    <Close>0.492025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-24</Date>
+    <Open>0.491029</Open>
+    <High>0.497005</High>
+    <Low>0.471939</Low>
+    <Close>0.480971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-25</Date>
+    <Open>0.481971</Open>
+    <High>0.489936</High>
+    <Low>0.472943</Low>
+    <Close>0.47701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-26</Date>
+    <Open>0.47701</Open>
+    <High>0.493035</High>
+    <Low>0.474038</Low>
+    <Close>0.483121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-27</Date>
+    <Open>0.484097</Open>
+    <High>0.493158</High>
+    <Low>0.478153</Low>
+    <Close>0.483188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FLUX">
+    <Date>2023-05-28</Date>
+    <Open>0.485194</Open>
+    <High>0.539156</High>
+    <Low>0.484145</Low>
+    <Close>0.517114</Close>
+  </Cryptocurrency>
+</Root>

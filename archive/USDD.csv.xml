@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-14</Date>
+    <Open>0.9983</Open>
+    <High>1.01147</High>
+    <Low>0.987022</Low>
+    <Close>0.999499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-15</Date>
+    <Open>0.999099</Open>
+    <High>1.0025</High>
+    <Low>0.989912</Low>
+    <Close>1.0006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-16</Date>
+    <Open>1.001</Open>
+    <High>1.0044</High>
+    <Low>0.995204</Low>
+    <Close>1.0014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-17</Date>
+    <Open>1.0012</Open>
+    <High>1.00369</High>
+    <Low>0.996103</Low>
+    <Close>1.0005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-18</Date>
+    <Open>1.0005</Open>
+    <High>1.0022</High>
+    <Low>0.997202</Low>
+    <Close>1.0004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-19</Date>
+    <Open>1.0004</Open>
+    <High>1.00329</High>
+    <Low>0.994205</Low>
+    <Close>1.0005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-20</Date>
+    <Open>1.0005</Open>
+    <High>1.0032</High>
+    <Low>0.998501</Low>
+    <Close>0.999799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-21</Date>
+    <Open>1.0001</Open>
+    <High>1.00259</High>
+    <Low>0.9987</Low>
+    <Close>0.999998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-22</Date>
+    <Open>0.999699</Open>
+    <High>1.0011</High>
+    <Low>0.9988</Low>
+    <Close>0.999499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-23</Date>
+    <Open>0.999499</Open>
+    <High>1.0029</High>
+    <Low>0.999299</Low>
+    <Close>1.0004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-24</Date>
+    <Open>1.0002</Open>
+    <High>1.0022</High>
+    <Low>0.999</Low>
+    <Close>1.0014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-25</Date>
+    <Open>1.001</Open>
+    <High>1.0031</High>
+    <Low>0.999099</Low>
+    <Close>1.0006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-26</Date>
+    <Open>1.0001</Open>
+    <High>1.0014</High>
+    <Low>0.9989</Low>
+    <Close>0.999799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-27</Date>
+    <Open>0.999599</Open>
+    <High>1.0001</High>
+    <Low>0.998501</Low>
+    <Close>0.9991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-28</Date>
+    <Open>0.99905</Open>
+    <High>0.999649</High>
+    <Low>0.994095</Low>
+    <Close>0.999469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-29</Date>
+    <Open>0.999409</Open>
+    <High>1.00076</High>
+    <Low>0.998061</Low>
+    <Close>0.999699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-30</Date>
+    <Open>0.999589</Open>
+    <High>1.00195</High>
+    <Low>0.997202</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-05-31</Date>
+    <Open>1.0</Open>
+    <High>1.0004</High>
+    <Low>0.9973</Low>
+    <Close>1.0001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-01</Date>
+    <Open>1.0001</Open>
+    <High>1.00101</High>
+    <Low>0.99835</Low>
+    <Close>0.9994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-02</Date>
+    <Open>0.9995</Open>
+    <High>1.0</High>
+    <Low>0.998</Low>
+    <Close>0.9996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-03</Date>
+    <Open>0.9996</Open>
+    <High>1.00021</High>
+    <Low>0.99867</Low>
+    <Close>0.99954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-04</Date>
+    <Open>0.99953</Open>
+    <High>0.99975</High>
+    <Low>0.99906</Low>
+    <Close>0.99974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-05</Date>
+    <Open>0.99975</Open>
+    <High>1.00138</High>
+    <Low>0.99766</Low>
+    <Close>1.00046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-06</Date>
+    <Open>1.00066</Open>
+    <High>1.00165</High>
+    <Low>0.99807</Low>
+    <Close>0.99956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-07</Date>
+    <Open>0.99955</Open>
+    <High>1.00021</High>
+    <Low>0.99829</Low>
+    <Close>0.99969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-08</Date>
+    <Open>0.9996</Open>
+    <High>1.00036</High>
+    <Low>0.99883</Low>
+    <Close>0.99965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-09</Date>
+    <Open>0.99965</Open>
+    <High>1.00003</High>
+    <Low>0.99937</Low>
+    <Close>0.999759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-10</Date>
+    <Open>0.999759</Open>
+    <High>1.00119</High>
+    <Low>0.995743</Low>
+    <Close>0.999619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-11</Date>
+    <Open>0.999629</Open>
+    <High>1.18661</High>
+    <Low>0.997052</Low>
+    <Close>1.00017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-12</Date>
+    <Open>0.99926</Open>
+    <High>1.00039</High>
+    <Low>0.996153</Low>
+    <Close>0.99867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-13</Date>
+    <Open>0.99867</Open>
+    <High>0.99918</High>
+    <Low>0.971511</Low>
+    <Close>0.989433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-14</Date>
+    <Open>0.989433</Open>
+    <High>0.989903</High>
+    <Low>0.973847</Low>
+    <Close>0.976227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-15</Date>
+    <Open>0.976237</Open>
+    <High>0.979613</High>
+    <Low>0.953776</Low>
+    <Close>0.972339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-16</Date>
+    <Open>0.972439</Open>
+    <High>0.981819</High>
+    <Low>0.971236</Low>
+    <Close>0.971638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-17</Date>
+    <Open>0.96957</Open>
+    <High>0.98403</High>
+    <Low>0.968752</Low>
+    <Close>0.976127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-18</Date>
+    <Open>0.976027</Open>
+    <High>0.980921</High>
+    <Low>0.961458</Low>
+    <Close>0.962438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-19</Date>
+    <Open>0.962529</Open>
+    <High>0.964873</High>
+    <Low>0.920509</Low>
+    <Close>0.95266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-20</Date>
+    <Open>0.95256</Open>
+    <High>0.966838</High>
+    <Low>0.94507</Low>
+    <Close>0.961441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-21</Date>
+    <Open>0.961345</Open>
+    <High>0.978217</High>
+    <Low>0.961142</Low>
+    <Close>0.974127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-22</Date>
+    <Open>0.973927</Open>
+    <High>0.977022</High>
+    <Low>0.970431</Low>
+    <Close>0.976423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-23</Date>
+    <Open>0.976223</Open>
+    <High>0.976622</High>
+    <Low>0.972527</Low>
+    <Close>0.975224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-24</Date>
+    <Open>0.975024</Open>
+    <High>0.979177</High>
+    <Low>0.972424</Low>
+    <Close>0.974439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-25</Date>
+    <Open>0.97414</Open>
+    <High>0.980974</High>
+    <Low>0.973126</Low>
+    <Close>0.977915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-26</Date>
+    <Open>0.977815</Open>
+    <High>0.984719</High>
+    <Low>0.97472</Low>
+    <Close>0.980792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-27</Date>
+    <Open>0.980901</Open>
+    <High>0.989137</High>
+    <Low>0.975924</Low>
+    <Close>0.984723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-28</Date>
+    <Open>0.984733</Open>
+    <High>0.991568</High>
+    <Low>0.983743</Low>
+    <Close>0.989272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-29</Date>
+    <Open>0.989372</Open>
+    <High>0.992448</High>
+    <Low>0.988073</Low>
+    <Close>0.9905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-06-30</Date>
+    <Open>0.9905</Open>
+    <High>0.993017</High>
+    <Low>0.989112</Low>
+    <Close>0.989511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-01</Date>
+    <Open>0.989511</Open>
+    <High>0.993007</High>
+    <Low>0.988412</Low>
+    <Close>0.98971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-02</Date>
+    <Open>0.989311</Open>
+    <High>0.992607</High>
+    <Low>0.986615</Low>
+    <Close>0.988213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-03</Date>
+    <Open>0.988412</Open>
+    <High>0.991808</High>
+    <Low>0.987514</Low>
+    <Close>0.990211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-04</Date>
+    <Open>0.990211</Open>
+    <High>0.992109</High>
+    <Low>0.988714</Low>
+    <Close>0.99021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-05</Date>
+    <Open>0.99021</Open>
+    <High>0.992507</High>
+    <Low>0.989511</Low>
+    <Close>0.991608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-06</Date>
+    <Open>0.991508</Open>
+    <High>0.995504</High>
+    <Low>0.99051</Low>
+    <Close>0.992008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-07</Date>
+    <Open>0.992008</Open>
+    <High>0.995804</High>
+    <Low>0.989611</Low>
+    <Close>0.991605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-08</Date>
+    <Open>0.991605</Open>
+    <High>0.998301</High>
+    <Low>0.989207</Low>
+    <Close>0.996502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-09</Date>
+    <Open>0.996502</Open>
+    <High>0.997401</High>
+    <Low>0.992604</Low>
+    <Close>0.995802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-10</Date>
+    <Open>0.995802</Open>
+    <High>0.997301</High>
+    <Low>0.994203</Low>
+    <Close>0.994803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-11</Date>
+    <Open>0.994803</Open>
+    <High>0.995703</High>
+    <Low>0.991405</Low>
+    <Close>0.994904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-12</Date>
+    <Open>0.994844</Open>
+    <High>0.995803</High>
+    <Low>0.993206</Low>
+    <Close>0.995004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-13</Date>
+    <Open>0.995034</Open>
+    <High>1.04975</High>
+    <Low>0.992896</Low>
+    <Close>0.995303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-14</Date>
+    <Open>0.995303</Open>
+    <High>0.997002</High>
+    <Low>0.994003</Low>
+    <Close>0.995302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-15</Date>
+    <Open>0.995402</Open>
+    <High>0.997401</High>
+    <Low>0.993903</Low>
+    <Close>0.996001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-16</Date>
+    <Open>0.995901</Open>
+    <High>0.9981</High>
+    <Low>0.995102</Low>
+    <Close>0.996301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-17</Date>
+    <Open>0.996301</Open>
+    <High>0.997131</High>
+    <Low>0.989362</Low>
+    <Close>0.995841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-18</Date>
+    <Open>0.996001</Open>
+    <High>0.99625</High>
+    <Low>0.995091</Low>
+    <Close>0.995771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-19</Date>
+    <Open>0.995771</Open>
+    <High>0.99703</High>
+    <Low>0.995501</Low>
+    <Close>0.996659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-20</Date>
+    <Open>0.9965</Open>
+    <High>0.997149</High>
+    <Low>0.99554</Low>
+    <Close>0.99685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-21</Date>
+    <Open>0.99685</Open>
+    <High>0.99795</High>
+    <Low>0.99485</Low>
+    <Close>0.997249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-22</Date>
+    <Open>0.997149</Open>
+    <High>0.99769</High>
+    <Low>0.99671</Low>
+    <Close>0.997219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-23</Date>
+    <Open>0.9971</Open>
+    <High>0.99979</High>
+    <Low>0.996711</Low>
+    <Close>0.99859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-24</Date>
+    <Open>0.99859</Open>
+    <High>0.99874</High>
+    <Low>0.995949</Low>
+    <Close>0.996589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-25</Date>
+    <Open>0.996299</Open>
+    <High>0.99953</High>
+    <Low>0.996089</Low>
+    <Close>0.99918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-26</Date>
+    <Open>0.99919</Open>
+    <High>1.00169</High>
+    <Low>0.99907</Low>
+    <Close>0.99985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-27</Date>
+    <Open>0.99984</Open>
+    <High>1.00166</High>
+    <Low>0.99833</Low>
+    <Close>0.99994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-28</Date>
+    <Open>0.99994</Open>
+    <High>1.00022</High>
+    <Low>0.9994</Low>
+    <Close>0.9998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-29</Date>
+    <Open>0.99981</Open>
+    <High>0.9999</High>
+    <Low>0.9989</Low>
+    <Close>0.99951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-30</Date>
+    <Open>0.99961</Open>
+    <High>0.99997</High>
+    <Low>0.9995</Low>
+    <Close>0.99993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-07-31</Date>
+    <Open>0.99994</Open>
+    <High>1.00039</High>
+    <Low>0.99939</Low>
+    <Close>1.00003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-01</Date>
+    <Open>1.0001</Open>
+    <High>1.00029</High>
+    <Low>0.9997</Low>
+    <Close>0.99998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-02</Date>
+    <Open>1.0</Open>
+    <High>1.00021</High>
+    <Low>0.99964</Low>
+    <Close>0.99977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-03</Date>
+    <Open>0.99989</Open>
+    <High>1.00019</High>
+    <Low>0.99935</Low>
+    <Close>1.00005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-04</Date>
+    <Open>1.0001</Open>
+    <High>1.00027</High>
+    <Low>0.9997</Low>
+    <Close>0.99973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-05</Date>
+    <Open>0.99983</Open>
+    <High>1.0001</High>
+    <Low>0.99956</Low>
+    <Close>0.99989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-06</Date>
+    <Open>0.99989</Open>
+    <High>1.00025</High>
+    <Low>0.9997</Low>
+    <Close>1.00023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-07</Date>
+    <Open>1.00023</Open>
+    <High>1.00025</High>
+    <Low>0.99954</Low>
+    <Close>0.99999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-08</Date>
+    <Open>0.99999</Open>
+    <High>1.00069</High>
+    <Low>0.99932</Low>
+    <Close>1.00012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-09</Date>
+    <Open>1.00012</Open>
+    <High>1.00061</High>
+    <Low>0.99997</Low>
+    <Close>1.0002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-10</Date>
+    <Open>1.0002</Open>
+    <High>1.00086</High>
+    <Low>0.99843</Low>
+    <Close>1.00039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-11</Date>
+    <Open>1.0004</Open>
+    <High>1.00072</High>
+    <Low>1.00005</Low>
+    <Close>1.00047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-12</Date>
+    <Open>1.0005</Open>
+    <High>1.00061</High>
+    <Low>0.9999</Low>
+    <Close>1.00046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-13</Date>
+    <Open>1.00046</Open>
+    <High>1.00054</High>
+    <Low>0.9956</Low>
+    <Close>0.99829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-14</Date>
+    <Open>0.99829</Open>
+    <High>0.9997</High>
+    <Low>0.99574</Low>
+    <Close>0.99781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-15</Date>
+    <Open>0.9978</Open>
+    <High>0.99782</High>
+    <Low>0.9965</Low>
+    <Close>0.99724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-16</Date>
+    <Open>0.99734</Open>
+    <High>1.00212</High>
+    <Low>0.99643</Low>
+    <Close>0.99969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-17</Date>
+    <Open>0.99959</Open>
+    <High>1.00077</High>
+    <Low>0.99955</Low>
+    <Close>1.00007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-18</Date>
+    <Open>0.99997</Open>
+    <High>1.00055</High>
+    <Low>0.99841</Low>
+    <Close>0.99983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-19</Date>
+    <Open>0.9999</Open>
+    <High>1.0097</High>
+    <Low>0.9995</Low>
+    <Close>1.0001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-20</Date>
+    <Open>1.00003</Open>
+    <High>1.00049</High>
+    <Low>0.99928</Low>
+    <Close>0.9999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-21</Date>
+    <Open>0.99998</Open>
+    <High>1.00043</High>
+    <Low>0.99963</Low>
+    <Close>1.00038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-22</Date>
+    <Open>1.00028</Open>
+    <High>1.00117</High>
+    <Low>0.99979</Low>
+    <Close>0.99992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-23</Date>
+    <Open>0.99995</Open>
+    <High>1.00031</High>
+    <Low>0.99899</Low>
+    <Close>1.00012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-24</Date>
+    <Open>1.0</Open>
+    <High>1.00028</High>
+    <Low>0.9989</Low>
+    <Close>1.00008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-25</Date>
+    <Open>0.99998</Open>
+    <High>1.00037</High>
+    <Low>0.99943</Low>
+    <Close>1.00013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-26</Date>
+    <Open>1.00013</Open>
+    <High>1.00034</High>
+    <Low>0.99964</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-27</Date>
+    <Open>1.0001</Open>
+    <High>1.00032</High>
+    <Low>0.99971</Low>
+    <Close>0.99983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-28</Date>
+    <Open>0.99983</Open>
+    <High>1.00024</High>
+    <Low>0.99972</Low>
+    <Close>1.00009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-29</Date>
+    <Open>1.0001</Open>
+    <High>1.00038</High>
+    <Low>0.99961</Low>
+    <Close>0.99997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-30</Date>
+    <Open>0.99998</Open>
+    <High>1.00011</High>
+    <Low>0.99781</Low>
+    <Close>0.99849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-08-31</Date>
+    <Open>0.99849</Open>
+    <High>1.00019</High>
+    <Low>0.99836</Low>
+    <Close>0.99899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-01</Date>
+    <Open>0.99911</Open>
+    <High>0.99968</High>
+    <Low>0.99837</Low>
+    <Close>0.99894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-02</Date>
+    <Open>0.99896</Open>
+    <High>1.00011</High>
+    <Low>0.99766</Low>
+    <Close>0.99913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-03</Date>
+    <Open>0.99905</Open>
+    <High>1.0003</High>
+    <Low>0.9988</Low>
+    <Close>0.9995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-04</Date>
+    <Open>0.9995</Open>
+    <High>0.9998</High>
+    <Low>0.9989</Low>
+    <Close>0.9992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-05</Date>
+    <Open>0.9992</Open>
+    <High>0.99989</High>
+    <Low>0.9982</Low>
+    <Close>0.99969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-06</Date>
+    <Open>0.99968</Open>
+    <High>0.9998</High>
+    <Low>0.99591</Low>
+    <Close>0.9978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-07</Date>
+    <Open>0.9978</Open>
+    <High>0.99974</High>
+    <Low>0.99668</Low>
+    <Close>0.99874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-08</Date>
+    <Open>0.99874</Open>
+    <High>0.99903</High>
+    <Low>0.9969</Low>
+    <Close>0.99838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-09</Date>
+    <Open>0.99864</Open>
+    <High>1.00267</High>
+    <Low>0.997099</Low>
+    <Close>0.99894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-10</Date>
+    <Open>0.998839</Open>
+    <High>1.00347</High>
+    <Low>0.998219</Low>
+    <Close>0.99969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-11</Date>
+    <Open>0.9997</Open>
+    <High>1.00227</High>
+    <Low>0.997669</Low>
+    <Close>0.99948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-12</Date>
+    <Open>0.99947</Open>
+    <High>0.99959</High>
+    <Low>0.99816</Low>
+    <Close>0.99888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-13</Date>
+    <Open>0.99888</Open>
+    <High>0.99986</High>
+    <Low>0.99856</Low>
+    <Close>0.99893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-14</Date>
+    <Open>0.9985</Open>
+    <High>0.99989</High>
+    <Low>0.99463</Low>
+    <Close>0.995829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-15</Date>
+    <Open>0.995859</Open>
+    <High>0.99786</High>
+    <Low>0.99395</Low>
+    <Close>0.9975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-16</Date>
+    <Open>0.99677</Open>
+    <High>1.00103</High>
+    <Low>0.99519</Low>
+    <Close>0.99973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-17</Date>
+    <Open>0.99983</Open>
+    <High>1.00111</High>
+    <Low>0.99973</Low>
+    <Close>0.99994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-18</Date>
+    <Open>0.99983</Open>
+    <High>1.00048</High>
+    <Low>0.99865</Low>
+    <Close>0.99972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-19</Date>
+    <Open>0.99961</Open>
+    <High>0.99982</High>
+    <Low>0.99573</Low>
+    <Close>0.99776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-20</Date>
+    <Open>0.99768</Open>
+    <High>0.99929</High>
+    <Low>0.9974</Low>
+    <Close>0.99888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-21</Date>
+    <Open>0.99879</Open>
+    <High>1.00021</High>
+    <Low>0.99727</Low>
+    <Close>0.99877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-22</Date>
+    <Open>0.99878</Open>
+    <High>1.00093</High>
+    <Low>0.99216</Low>
+    <Close>1.00042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-23</Date>
+    <Open>0.99951</Open>
+    <High>1.00084</High>
+    <Low>0.99898</Low>
+    <Close>0.99951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-24</Date>
+    <Open>0.99942</Open>
+    <High>0.99968</High>
+    <Low>0.99738</Low>
+    <Close>0.99853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-25</Date>
+    <Open>0.99859</Open>
+    <High>1.0002</High>
+    <Low>0.99655</Low>
+    <Close>0.99855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-26</Date>
+    <Open>0.99861</Open>
+    <High>1.0014</High>
+    <Low>0.99624</Low>
+    <Close>0.99985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-27</Date>
+    <Open>0.99986</Open>
+    <High>1.00236</High>
+    <Low>0.99497</Low>
+    <Close>1.00031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-28</Date>
+    <Open>1.00087</Open>
+    <High>1.00398</High>
+    <Low>0.99865</Low>
+    <Close>0.99955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-29</Date>
+    <Open>0.99955</Open>
+    <High>1.0031</High>
+    <Low>0.99944</Low>
+    <Close>1.00021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-09-30</Date>
+    <Open>1.00012</Open>
+    <High>1.00163</High>
+    <Low>0.99907</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-01</Date>
+    <Open>1.00001</Open>
+    <High>1.00194</High>
+    <Low>0.99811</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-02</Date>
+    <Open>1.0</Open>
+    <High>1.00207</High>
+    <Low>0.99814</Low>
+    <Close>0.99999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-03</Date>
+    <Open>1.00009</Open>
+    <High>1.0003</High>
+    <Low>0.99874</Low>
+    <Close>1.0001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-04</Date>
+    <Open>1.0001</Open>
+    <High>1.00505</High>
+    <Low>0.99813</Low>
+    <Close>0.99988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-05</Date>
+    <Open>0.99981</Open>
+    <High>1.00259</High>
+    <Low>0.999</Low>
+    <Close>0.99961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-06</Date>
+    <Open>0.99971</Open>
+    <High>1.00266</High>
+    <Low>0.99924</Low>
+    <Close>0.99999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-07</Date>
+    <Open>0.99998</Open>
+    <High>1.00514</High>
+    <Low>0.99817</Low>
+    <Close>0.99889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-08</Date>
+    <Open>0.99864</Open>
+    <High>1.00178</High>
+    <Low>0.99807</Low>
+    <Close>1.00011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-09</Date>
+    <Open>1.00011</Open>
+    <High>1.00119</High>
+    <Low>0.99924</Low>
+    <Close>0.99995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-10</Date>
+    <Open>0.99996</Open>
+    <High>1.00006</High>
+    <Low>0.99965</Low>
+    <Close>0.99976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-11</Date>
+    <Open>0.99986</Open>
+    <High>1.00056</High>
+    <Low>0.99882</Low>
+    <Close>0.99992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-12</Date>
+    <Open>0.99993</Open>
+    <High>1.00121</High>
+    <Low>0.99858</Low>
+    <Close>0.99977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-13</Date>
+    <Open>0.99977</Open>
+    <High>1.00091</High>
+    <Low>0.9996</Low>
+    <Close>1.00004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-14</Date>
+    <Open>1.00004</Open>
+    <High>1.01495</High>
+    <Low>0.99535</Low>
+    <Close>1.00004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-15</Date>
+    <Open>1.00004</Open>
+    <High>1.00311</High>
+    <Low>1.00001</Low>
+    <Close>1.00007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-16</Date>
+    <Open>1.00007</Open>
+    <High>1.00058</High>
+    <Low>0.99934</Low>
+    <Close>1.00008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-17</Date>
+    <Open>1.00009</Open>
+    <High>1.00085</High>
+    <Low>0.99913</Low>
+    <Close>1.00003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-18</Date>
+    <Open>1.00001</Open>
+    <High>1.00092</High>
+    <Low>0.99837</Low>
+    <Close>0.99906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-19</Date>
+    <Open>0.9991</Open>
+    <High>1.00004</High>
+    <Low>0.99719</Low>
+    <Close>0.99821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-20</Date>
+    <Open>0.99797</Open>
+    <High>0.99936</High>
+    <Low>0.99658</Low>
+    <Close>0.99865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-21</Date>
+    <Open>0.99861</Open>
+    <High>0.99979</High>
+    <Low>0.9978</Low>
+    <Close>0.99833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-22</Date>
+    <Open>0.99835</Open>
+    <High>0.99988</High>
+    <Low>0.99272</Low>
+    <Close>0.99794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-23</Date>
+    <Open>0.99795</Open>
+    <High>0.99869</High>
+    <Low>0.994599</Low>
+    <Close>0.995219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-24</Date>
+    <Open>0.995209</Open>
+    <High>0.99749</High>
+    <Low>0.99477</Low>
+    <Close>0.9971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-25</Date>
+    <Open>0.99709</Open>
+    <High>0.99819</High>
+    <Low>0.99605</Low>
+    <Close>0.996679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-26</Date>
+    <Open>0.996689</Open>
+    <High>0.997409</High>
+    <Low>0.995329</Low>
+    <Close>0.996379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-27</Date>
+    <Open>0.996239</Open>
+    <High>0.99977</High>
+    <Low>0.994559</Low>
+    <Close>0.99911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-28</Date>
+    <Open>0.9991</Open>
+    <High>0.99937</High>
+    <Low>0.99676</Low>
+    <Close>0.996839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-29</Date>
+    <Open>0.996819</Open>
+    <High>0.99933</High>
+    <Low>0.996819</Low>
+    <Close>0.99898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-30</Date>
+    <Open>0.99897</Open>
+    <High>0.99938</High>
+    <Low>0.997399</Low>
+    <Close>0.997599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-10-31</Date>
+    <Open>0.997589</Open>
+    <High>0.99884</High>
+    <Low>0.99535</Low>
+    <Close>0.99772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-01</Date>
+    <Open>0.99794</Open>
+    <High>0.99803</High>
+    <Low>0.993911</Low>
+    <Close>0.99523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-02</Date>
+    <Open>0.995191</Open>
+    <High>0.99692</High>
+    <Low>0.99372</Low>
+    <Close>0.99508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-03</Date>
+    <Open>0.99508</Open>
+    <High>0.99809</High>
+    <Low>0.993291</Low>
+    <Close>0.9953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-04</Date>
+    <Open>0.99535</Open>
+    <High>0.99687</High>
+    <Low>0.99481</Low>
+    <Close>0.99656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-05</Date>
+    <Open>0.99659</Open>
+    <High>0.99986</High>
+    <Low>0.995019</Low>
+    <Close>0.99542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-06</Date>
+    <Open>0.99541</Open>
+    <High>0.99668</High>
+    <Low>0.99459</Low>
+    <Close>0.99522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-07</Date>
+    <Open>0.99522</Open>
+    <High>0.9988</High>
+    <Low>0.99494</Low>
+    <Close>0.99619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-08</Date>
+    <Open>0.996379</Open>
+    <High>1.00522</High>
+    <Low>0.991792</Low>
+    <Close>0.993281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-09</Date>
+    <Open>0.993351</Open>
+    <High>1.00892</High>
+    <Low>0.973514</Low>
+    <Close>0.995329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-10</Date>
+    <Open>0.999982</Open>
+    <High>1.08772</High>
+    <Low>0.949198</Low>
+    <Close>0.978623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-11</Date>
+    <Open>0.978546</Open>
+    <High>1.1785</High>
+    <Low>0.97362</Low>
+    <Close>0.97779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-12</Date>
+    <Open>0.977981</Open>
+    <High>0.987919</High>
+    <Low>0.973644</Low>
+    <Close>0.981859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-13</Date>
+    <Open>0.981859</Open>
+    <High>0.98424</High>
+    <Low>0.978878</Low>
+    <Close>0.979936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-14</Date>
+    <Open>0.980142</Open>
+    <High>0.987317</High>
+    <Low>0.972629</Low>
+    <Close>0.979499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-15</Date>
+    <Open>0.979449</Open>
+    <High>0.987083</High>
+    <Low>0.97923</Low>
+    <Close>0.986812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-16</Date>
+    <Open>0.986333</Open>
+    <High>0.987244</High>
+    <Low>0.983222</Low>
+    <Close>0.983974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-17</Date>
+    <Open>0.983825</Open>
+    <High>0.986262</High>
+    <Low>0.983493</Low>
+    <Close>0.984951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-18</Date>
+    <Open>0.984991</Open>
+    <High>0.99015</High>
+    <Low>0.984754</Low>
+    <Close>0.989501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-19</Date>
+    <Open>0.989531</Open>
+    <High>0.996333</High>
+    <Low>0.985904</Low>
+    <Close>0.992757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-20</Date>
+    <Open>0.992567</Open>
+    <High>0.995014</High>
+    <Low>0.987177</Low>
+    <Close>0.987477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-21</Date>
+    <Open>0.987497</Open>
+    <High>0.991062</High>
+    <Low>0.987116</Low>
+    <Close>0.989082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-22</Date>
+    <Open>0.989321</Open>
+    <High>0.994715</High>
+    <Low>0.988882</Low>
+    <Close>0.993367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-23</Date>
+    <Open>0.993307</Open>
+    <High>0.994366</High>
+    <Low>0.990209</Low>
+    <Close>0.990309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-24</Date>
+    <Open>0.990449</Open>
+    <High>0.992845</High>
+    <Low>0.990178</Low>
+    <Close>0.990188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-25</Date>
+    <Open>0.990128</Open>
+    <High>0.992774</High>
+    <Low>0.989768</Low>
+    <Close>0.992404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-26</Date>
+    <Open>0.992354</Open>
+    <High>0.993253</High>
+    <Low>0.991365</Low>
+    <Close>0.992044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-27</Date>
+    <Open>0.991984</Open>
+    <High>0.992814</High>
+    <Low>0.989666</Low>
+    <Close>0.989996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-28</Date>
+    <Open>0.989996</Open>
+    <High>0.991753</High>
+    <Low>0.988236</Low>
+    <Close>0.990523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-29</Date>
+    <Open>0.990593</Open>
+    <High>0.990783</High>
+    <Low>0.988405</Low>
+    <Close>0.989274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-11-30</Date>
+    <Open>0.989274</Open>
+    <High>0.99199</High>
+    <Low>0.987542</Low>
+    <Close>0.98959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-01</Date>
+    <Open>0.98957</Open>
+    <High>0.989929</High>
+    <Low>0.981378</Low>
+    <Close>0.983809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-02</Date>
+    <Open>0.983799</Open>
+    <High>0.992289</High>
+    <Low>0.983439</Low>
+    <Close>0.987589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-03</Date>
+    <Open>0.987599</Open>
+    <High>0.987929</High>
+    <Low>0.984588</Low>
+    <Close>0.984788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-04</Date>
+    <Open>0.984778</Open>
+    <High>0.985297</High>
+    <Low>0.982086</Low>
+    <Close>0.982136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-05</Date>
+    <Open>0.982148</Open>
+    <High>0.995158</High>
+    <Low>0.978849</Low>
+    <Close>0.98102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-06</Date>
+    <Open>0.981278</Open>
+    <High>0.981278</High>
+    <Low>0.97214</Low>
+    <Close>0.974941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-07</Date>
+    <Open>0.97511</Open>
+    <High>0.98079</High>
+    <Low>0.97448</Low>
+    <Close>0.9792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-08</Date>
+    <Open>0.97919</Open>
+    <High>0.97953</High>
+    <Low>0.974966</Low>
+    <Close>0.976068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-09</Date>
+    <Open>0.976148</Open>
+    <High>0.97738</High>
+    <Low>0.97512</Low>
+    <Close>0.975519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-10</Date>
+    <Open>0.975499</Open>
+    <High>0.97579</High>
+    <Low>0.973381</Low>
+    <Close>0.973381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-11</Date>
+    <Open>0.973281</Open>
+    <High>0.976145</High>
+    <Low>0.97254</Low>
+    <Close>0.975968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-12</Date>
+    <Open>0.975958</Open>
+    <High>0.98087</High>
+    <Low>0.96969</Low>
+    <Close>0.976968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-13</Date>
+    <Open>0.976968</Open>
+    <High>0.992769</High>
+    <Low>0.974326</Low>
+    <Close>0.983394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-14</Date>
+    <Open>0.983274</Open>
+    <High>0.985582</High>
+    <Low>0.975198</Low>
+    <Close>0.979059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-15</Date>
+    <Open>0.979059</Open>
+    <High>0.982366</High>
+    <Low>0.97675</Low>
+    <Close>0.980568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-16</Date>
+    <Open>0.980646</Open>
+    <High>0.982318</High>
+    <Low>0.976228</Low>
+    <Close>0.976228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-17</Date>
+    <Open>0.976218</Open>
+    <High>0.980356</High>
+    <Low>0.973197</Low>
+    <Close>0.979717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-18</Date>
+    <Open>0.979717</Open>
+    <High>0.982229</High>
+    <Low>0.977668</Low>
+    <Close>0.981678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-19</Date>
+    <Open>0.98156</Open>
+    <High>0.982498</High>
+    <Low>0.97931</Low>
+    <Close>0.97967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-20</Date>
+    <Open>0.97961</Open>
+    <High>0.983059</High>
+    <Low>0.97926</Low>
+    <Close>0.982529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-21</Date>
+    <Open>0.982609</Open>
+    <High>0.98519</High>
+    <Low>0.97955</Low>
+    <Close>0.984179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-22</Date>
+    <Open>0.984289</Open>
+    <High>0.985319</High>
+    <Low>0.981673</Low>
+    <Close>0.983933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-23</Date>
+    <Open>0.983923</Open>
+    <High>0.985071</High>
+    <Low>0.982601</Low>
+    <Close>0.984252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-24</Date>
+    <Open>0.984182</Open>
+    <High>0.985101</High>
+    <Low>0.982262</Low>
+    <Close>0.984381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-25</Date>
+    <Open>0.984381</Open>
+    <High>0.986712</High>
+    <Low>0.982831</Low>
+    <Close>0.984242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-26</Date>
+    <Open>0.984262</Open>
+    <High>0.985613</High>
+    <Low>0.983313</Low>
+    <Close>0.983703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-27</Date>
+    <Open>0.983773</Open>
+    <High>0.985193</High>
+    <Low>0.982634</Low>
+    <Close>0.984596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-28</Date>
+    <Open>0.984626</Open>
+    <High>0.984965</High>
+    <Low>0.982498</Low>
+    <Close>0.983918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-29</Date>
+    <Open>0.983978</Open>
+    <High>0.984218</High>
+    <Low>0.981119</Low>
+    <Close>0.982478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-30</Date>
+    <Open>0.982508</Open>
+    <High>0.982828</High>
+    <Low>0.980089</Low>
+    <Close>0.981759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2022-12-31</Date>
+    <Open>0.981769</Open>
+    <High>0.982878</High>
+    <Low>0.980879</Low>
+    <Close>0.981739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-01</Date>
+    <Open>0.981839</Open>
+    <High>0.982958</High>
+    <Low>0.980731</Low>
+    <Close>0.981588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-02</Date>
+    <Open>0.981578</Open>
+    <High>0.982987</High>
+    <Low>0.981208</Low>
+    <Close>0.982196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-03</Date>
+    <Open>0.982166</Open>
+    <High>0.983007</High>
+    <Low>0.979338</Low>
+    <Close>0.980368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-04</Date>
+    <Open>0.980387</Open>
+    <High>0.981596</High>
+    <Low>0.979858</Low>
+    <Close>0.981596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-05</Date>
+    <Open>0.981576</Open>
+    <High>0.981796</High>
+    <Low>0.966738</Low>
+    <Close>0.977778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-06</Date>
+    <Open>0.975277</Open>
+    <High>0.980327</High>
+    <Low>0.970831</Low>
+    <Close>0.972758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-07</Date>
+    <Open>0.972749</Open>
+    <High>0.979986</High>
+    <Low>0.971758</Low>
+    <Close>0.976036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-08</Date>
+    <Open>0.975977</Open>
+    <High>0.978993</High>
+    <Low>0.975414</Low>
+    <Close>0.976603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-09</Date>
+    <Open>0.976643</Open>
+    <High>0.981142</High>
+    <Low>0.976044</Low>
+    <Close>0.97954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-10</Date>
+    <Open>0.9796</Open>
+    <High>0.982392</High>
+    <Low>0.977073</Low>
+    <Close>0.979517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-11</Date>
+    <Open>0.979527</Open>
+    <High>0.980891</High>
+    <Low>0.977305</Low>
+    <Close>0.979582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-12</Date>
+    <Open>0.97977</Open>
+    <High>0.983001</High>
+    <Low>0.977792</Low>
+    <Close>0.979578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-13</Date>
+    <Open>0.979568</Open>
+    <High>0.984368</High>
+    <Low>0.97935</Low>
+    <Close>0.983328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-14</Date>
+    <Open>0.983278</Open>
+    <High>0.98718</High>
+    <Low>0.968255</Low>
+    <Close>0.972719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-15</Date>
+    <Open>0.972739</Open>
+    <High>0.974192</High>
+    <Low>0.971175</Low>
+    <Close>0.973702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-16</Date>
+    <Open>0.973722</Open>
+    <High>0.974992</High>
+    <Low>0.97159</Low>
+    <Close>0.9733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-17</Date>
+    <Open>0.973369</Open>
+    <High>0.98013</High>
+    <Low>0.97203</Low>
+    <Close>0.975718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-18</Date>
+    <Open>0.975657</Open>
+    <High>0.976487</High>
+    <Low>0.971172</Low>
+    <Close>0.973411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-19</Date>
+    <Open>0.973812</Open>
+    <High>0.974882</High>
+    <Low>0.971981</Low>
+    <Close>0.972541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-20</Date>
+    <Open>0.972591</Open>
+    <High>0.974106</High>
+    <Low>0.969321</Low>
+    <Close>0.973275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-21</Date>
+    <Open>0.973225</Open>
+    <High>0.980266</High>
+    <Low>0.971275</Low>
+    <Close>0.977435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-22</Date>
+    <Open>0.977616</Open>
+    <High>0.985237</High>
+    <Low>0.976967</Low>
+    <Close>0.982197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-23</Date>
+    <Open>0.981987</Open>
+    <High>0.991209</High>
+    <Low>0.981118</Low>
+    <Close>0.984368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-24</Date>
+    <Open>0.984828</Open>
+    <High>0.99419</High>
+    <Low>0.984118</Low>
+    <Close>0.98862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-25</Date>
+    <Open>0.98863</Open>
+    <High>0.989728</High>
+    <Low>0.985849</Low>
+    <Close>0.987118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-26</Date>
+    <Open>0.986958</Open>
+    <High>0.99561</High>
+    <Low>0.986738</Low>
+    <Close>0.987729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-27</Date>
+    <Open>0.987809</Open>
+    <High>0.994999</High>
+    <Low>0.987208</Low>
+    <Close>0.990195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-28</Date>
+    <Open>0.990147</Open>
+    <High>0.993968</High>
+    <Low>0.984976</Low>
+    <Close>0.989608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-29</Date>
+    <Open>0.989308</Open>
+    <High>0.997079</High>
+    <Low>0.988607</Low>
+    <Close>0.99323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-30</Date>
+    <Open>0.99334</Open>
+    <High>0.9945</High>
+    <Low>0.990119</Low>
+    <Close>0.991109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-01-31</Date>
+    <Open>0.991099</Open>
+    <High>0.99478</High>
+    <Low>0.990979</Low>
+    <Close>0.992549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-01</Date>
+    <Open>0.992489</Open>
+    <High>0.99725</High>
+    <Low>0.98231</Low>
+    <Close>0.99325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-02</Date>
+    <Open>0.99338</Open>
+    <High>0.99837</High>
+    <Low>0.991939</Low>
+    <Close>0.995349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-03</Date>
+    <Open>0.995379</Open>
+    <High>0.996669</High>
+    <Low>0.993159</Low>
+    <Close>0.99404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-04</Date>
+    <Open>0.99402</Open>
+    <High>0.99548</High>
+    <Low>0.992659</Low>
+    <Close>0.99454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-05</Date>
+    <Open>0.99454</Open>
+    <High>0.994869</High>
+    <Low>0.989758</Low>
+    <Close>0.991568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-06</Date>
+    <Open>0.991718</Open>
+    <High>0.992658</High>
+    <Low>0.989209</Low>
+    <Close>0.99055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-07</Date>
+    <Open>0.99053</Open>
+    <High>0.99323</High>
+    <Low>0.989601</Low>
+    <Close>0.991509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-08</Date>
+    <Open>0.991569</Open>
+    <High>0.9931</High>
+    <Low>0.98951</Low>
+    <Close>0.989949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-09</Date>
+    <Open>0.990189</Open>
+    <High>0.993218</High>
+    <Low>0.989501</Low>
+    <Close>0.990979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-10</Date>
+    <Open>0.991059</Open>
+    <High>0.992948</High>
+    <Low>0.990449</Low>
+    <Close>0.992179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-11</Date>
+    <Open>0.992199</Open>
+    <High>0.992629</High>
+    <Low>0.989459</Low>
+    <Close>0.991819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-12</Date>
+    <Open>0.991928</Open>
+    <High>0.992218</High>
+    <Low>0.990289</Low>
+    <Close>0.991619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-13</Date>
+    <Open>0.991559</Open>
+    <High>0.992992</High>
+    <Low>0.989601</Low>
+    <Close>0.990865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-14</Date>
+    <Open>0.990885</Open>
+    <High>0.992524</High>
+    <Low>0.984504</Low>
+    <Close>0.986785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-15</Date>
+    <Open>0.986835</Open>
+    <High>0.993129</High>
+    <Low>0.985345</Low>
+    <Close>0.991558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-16</Date>
+    <Open>0.991528</Open>
+    <High>1.0007</High>
+    <Low>0.990139</Low>
+    <Close>0.998399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-17</Date>
+    <Open>0.998409</Open>
+    <High>1.00024</High>
+    <Low>0.99801</Low>
+    <Close>0.99965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-18</Date>
+    <Open>0.9996</Open>
+    <High>1.00006</High>
+    <Low>0.995629</Low>
+    <Close>0.99817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-19</Date>
+    <Open>0.99766</Open>
+    <High>1.00033</High>
+    <Low>0.993399</Low>
+    <Close>0.99832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-20</Date>
+    <Open>0.99817</Open>
+    <High>1.00007</High>
+    <Low>0.992838</Low>
+    <Close>0.99768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-21</Date>
+    <Open>0.99761</Open>
+    <High>0.99924</High>
+    <Low>0.995109</Low>
+    <Close>0.99744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-22</Date>
+    <Open>0.99747</Open>
+    <High>0.9982</High>
+    <Low>0.994709</Low>
+    <Close>0.99666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-23</Date>
+    <Open>0.99703</Open>
+    <High>0.99824</High>
+    <Low>0.994909</Low>
+    <Close>0.995779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-24</Date>
+    <Open>0.995789</Open>
+    <High>0.99865</High>
+    <Low>0.994789</Low>
+    <Close>0.99567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-25</Date>
+    <Open>0.99562</Open>
+    <High>0.99762</High>
+    <Low>0.994359</Low>
+    <Close>0.99701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-26</Date>
+    <Open>0.99706</Open>
+    <High>0.99774</High>
+    <Low>0.99498</Low>
+    <Close>0.99634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-27</Date>
+    <Open>0.99631</Open>
+    <High>0.99949</High>
+    <Low>0.9944</Low>
+    <Close>0.99651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-02-28</Date>
+    <Open>0.99651</Open>
+    <High>0.99695</High>
+    <Low>0.99454</Low>
+    <Close>0.996019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-01</Date>
+    <Open>0.996009</Open>
+    <High>0.99707</High>
+    <Low>0.994709</Low>
+    <Close>0.995019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-02</Date>
+    <Open>0.995139</Open>
+    <High>0.99616</High>
+    <Low>0.9946</Low>
+    <Close>0.99571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-03</Date>
+    <Open>0.99571</Open>
+    <High>1.00076</High>
+    <Low>0.994358</Low>
+    <Close>0.99957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-04</Date>
+    <Open>0.99957</Open>
+    <High>1.00115</High>
+    <Low>0.99904</Low>
+    <Close>0.99959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-05</Date>
+    <Open>0.9996</Open>
+    <High>1.00134</High>
+    <Low>0.99955</Low>
+    <Close>0.99963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-06</Date>
+    <Open>0.99963</Open>
+    <High>1.00171</High>
+    <Low>0.99899</Low>
+    <Close>0.99904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-07</Date>
+    <Open>0.99901</Open>
+    <High>0.99976</High>
+    <Low>0.99886</Low>
+    <Close>0.99895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-08</Date>
+    <Open>0.99898</Open>
+    <High>1.00124</High>
+    <Low>0.99887</Low>
+    <Close>0.99956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-09</Date>
+    <Open>0.99959</Open>
+    <High>1.00132</High>
+    <Low>0.99735</Low>
+    <Close>0.9974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-10</Date>
+    <Open>0.99734</Open>
+    <High>1.0028</High>
+    <Low>0.989378</Low>
+    <Close>1.00238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-11</Date>
+    <Open>1.00157</Open>
+    <High>1.00445</High>
+    <Low>0.929493</Low>
+    <Close>0.972047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-12</Date>
+    <Open>0.972131</Open>
+    <High>0.989025</High>
+    <Low>0.966843</Low>
+    <Close>0.986826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-13</Date>
+    <Open>0.987997</Open>
+    <High>0.997858</High>
+    <Low>0.963733</Low>
+    <Close>0.991079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-14</Date>
+    <Open>0.990657</Open>
+    <High>1.00015</High>
+    <Low>0.989987</Low>
+    <Close>0.995204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-15</Date>
+    <Open>0.995372</Open>
+    <High>0.996192</High>
+    <Low>0.98873</Low>
+    <Close>0.995214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-16</Date>
+    <Open>0.995092</Open>
+    <High>0.997281</High>
+    <Low>0.992873</Low>
+    <Close>0.995593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-17</Date>
+    <Open>0.995453</Open>
+    <High>1.00108</High>
+    <Low>0.993911</Low>
+    <Close>1.00022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-18</Date>
+    <Open>0.999901</Open>
+    <High>1.00122</High>
+    <Low>0.997779</Low>
+    <Close>0.998888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-19</Date>
+    <Open>0.998818</Open>
+    <High>1.00567</High>
+    <Low>0.997776</Low>
+    <Close>0.999911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-20</Date>
+    <Open>0.999911</Open>
+    <High>1.00048</High>
+    <Low>0.997707</Low>
+    <Close>0.998752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-21</Date>
+    <Open>0.998782</Open>
+    <High>1.00109</High>
+    <Low>0.997478</Low>
+    <Close>1.00109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-22</Date>
+    <Open>1.00108</Open>
+    <High>1.00213</High>
+    <Low>0.986297</Low>
+    <Close>0.993365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-23</Date>
+    <Open>0.993444</Open>
+    <High>0.99806</High>
+    <Low>0.989213</Low>
+    <Close>0.994264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-24</Date>
+    <Open>0.994244</Open>
+    <High>0.995749</High>
+    <Low>0.989855</Low>
+    <Close>0.991951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-25</Date>
+    <Open>0.99205</Open>
+    <High>0.994742</High>
+    <Low>0.990269</Low>
+    <Close>0.992202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-26</Date>
+    <Open>0.992402</Open>
+    <High>0.993914</High>
+    <Low>0.99059</Low>
+    <Close>0.99222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-27</Date>
+    <Open>0.992461</Open>
+    <High>0.993307</High>
+    <Low>0.989283</Low>
+    <Close>0.990855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-28</Date>
+    <Open>0.991045</Open>
+    <High>0.991986</High>
+    <Low>0.985706</Low>
+    <Close>0.989376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-29</Date>
+    <Open>0.989276</Open>
+    <High>0.990407</High>
+    <Low>0.986427</Low>
+    <Close>0.988988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-30</Date>
+    <Open>0.989068</Open>
+    <High>0.990468</High>
+    <Low>0.986756</Low>
+    <Close>0.988247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-03-31</Date>
+    <Open>0.988357</Open>
+    <High>0.991428</High>
+    <Low>0.986817</Low>
+    <Close>0.989908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-01</Date>
+    <Open>0.989838</Open>
+    <High>0.990534</High>
+    <Low>0.987516</Low>
+    <Close>0.989026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-02</Date>
+    <Open>0.989046</Open>
+    <High>0.990303</High>
+    <Low>0.987515</Low>
+    <Close>0.989443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-03</Date>
+    <Open>0.989263</Open>
+    <High>0.991445</High>
+    <Low>0.987487</Low>
+    <Close>0.988685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-04</Date>
+    <Open>0.988745</Open>
+    <High>0.991246</High>
+    <Low>0.987278</Low>
+    <Close>0.989134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-05</Date>
+    <Open>0.989274</Open>
+    <High>0.990988</High>
+    <Low>0.986197</Low>
+    <Close>0.988596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-06</Date>
+    <Open>0.988606</Open>
+    <High>0.990255</High>
+    <Low>0.987013</Low>
+    <Close>0.988446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-07</Date>
+    <Open>0.988556</Open>
+    <High>0.992783</High>
+    <Low>0.986843</Low>
+    <Close>0.992424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-08</Date>
+    <Open>0.992424</Open>
+    <High>0.992932</High>
+    <Low>0.990706</Low>
+    <Close>0.992217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-09</Date>
+    <Open>0.992317</Open>
+    <High>0.992775</High>
+    <Low>0.990304</Low>
+    <Close>0.991765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-10</Date>
+    <Open>0.991934</Open>
+    <High>0.992714</High>
+    <Low>0.989783</Low>
+    <Close>0.990962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-11</Date>
+    <Open>0.991042</Open>
+    <High>0.993933</High>
+    <Low>0.9892</Low>
+    <Close>0.992802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-12</Date>
+    <Open>0.992802</Open>
+    <High>0.993623</High>
+    <Low>0.987737</Low>
+    <Close>0.991323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-13</Date>
+    <Open>0.991313</Open>
+    <High>0.992462</High>
+    <Low>0.989668</Low>
+    <Close>0.99087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-14</Date>
+    <Open>0.99087</Open>
+    <High>0.993151</High>
+    <Low>0.989673</Low>
+    <Close>0.990311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-15</Date>
+    <Open>0.990361</Open>
+    <High>0.992632</High>
+    <Low>0.988851</Low>
+    <Close>0.98971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-16</Date>
+    <Open>0.98968</Open>
+    <High>0.991874</High>
+    <Low>0.985758</Low>
+    <Close>0.991174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-17</Date>
+    <Open>0.991184</Open>
+    <High>0.992864</High>
+    <Low>0.986414</Low>
+    <Close>0.988263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-18</Date>
+    <Open>0.988273</Open>
+    <High>0.990616</High>
+    <Low>0.986685</Low>
+    <Close>0.989158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-19</Date>
+    <Open>0.989138</Open>
+    <High>0.989866</High>
+    <Low>0.985221</Low>
+    <Close>0.988984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-20</Date>
+    <Open>0.988884</Open>
+    <High>0.989855</High>
+    <Low>0.984493</Low>
+    <Close>0.985679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-21</Date>
+    <Open>0.985189</Open>
+    <High>0.988642</High>
+    <Low>0.983754</Low>
+    <Close>0.986341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-22</Date>
+    <Open>0.986031</Open>
+    <High>0.989789</High>
+    <Low>0.984923</Low>
+    <Close>0.989259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-23</Date>
+    <Open>0.988499</Open>
+    <High>0.991018</High>
+    <Low>0.986829</Low>
+    <Close>0.98757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-24</Date>
+    <Open>0.98759</Open>
+    <High>0.989168</High>
+    <Low>0.987269</Low>
+    <Close>0.9886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-25</Date>
+    <Open>0.98863</Open>
+    <High>0.989099</High>
+    <Low>0.987248</Low>
+    <Close>0.987557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-26</Date>
+    <Open>0.987587</Open>
+    <High>0.99607</High>
+    <Low>0.987508</Low>
+    <Close>0.991907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-27</Date>
+    <Open>0.991727</Open>
+    <High>0.992869</High>
+    <Low>0.990018</Low>
+    <Close>0.991297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-28</Date>
+    <Open>0.991257</Open>
+    <High>0.992617</High>
+    <Low>0.989805</Low>
+    <Close>0.991433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-29</Date>
+    <Open>0.991353</Open>
+    <High>0.992564</High>
+    <Low>0.990723</Low>
+    <Close>0.991715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-04-30</Date>
+    <Open>0.991715</Open>
+    <High>0.992215</High>
+    <Low>0.989746</Low>
+    <Close>0.989914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-01</Date>
+    <Open>0.989914</Open>
+    <High>0.99998</High>
+    <Low>0.989085</Low>
+    <Close>0.99932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-02</Date>
+    <Open>0.99932</Open>
+    <High>1.00059</High>
+    <Low>0.99817</Low>
+    <Close>1.00025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-03</Date>
+    <Open>1.00027</Open>
+    <High>1.00071</High>
+    <Low>0.99847</Low>
+    <Close>0.99847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-04</Date>
+    <Open>0.99855</Open>
+    <High>1.00003</High>
+    <Low>0.99845</Low>
+    <Close>0.998899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-05</Date>
+    <Open>0.998919</Open>
+    <High>1.00132</High>
+    <Low>0.998739</Low>
+    <Close>1.00059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-06</Date>
+    <Open>1.00061</Open>
+    <High>1.00176</High>
+    <Low>0.999599</Low>
+    <Close>1.00051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-07</Date>
+    <Open>1.0005</Open>
+    <High>1.00087</High>
+    <Low>0.999188</Low>
+    <Close>0.999528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-08</Date>
+    <Open>0.999508</Open>
+    <High>1.00039</High>
+    <Low>0.998799</Low>
+    <Close>0.999059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-09</Date>
+    <Open>0.999049</Open>
+    <High>1.00116</High>
+    <Low>0.998989</Low>
+    <Close>0.999318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-10</Date>
+    <Open>0.999308</Open>
+    <High>1.00216</High>
+    <Low>0.998679</Low>
+    <Close>0.999949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-11</Date>
+    <Open>1.00006</Open>
+    <High>1.00088</High>
+    <Low>0.999409</Low>
+    <Close>1.00013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-12</Date>
+    <Open>1.00013</Open>
+    <High>1.00039</High>
+    <Low>0.99856</Low>
+    <Close>0.999799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-13</Date>
+    <Open>0.999809</Open>
+    <High>1.00157</High>
+    <Low>0.998999</Low>
+    <Close>0.99999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-14</Date>
+    <Open>0.99988</Open>
+    <High>1.00055</High>
+    <Low>0.99964</Low>
+    <Close>0.999749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-15</Date>
+    <Open>0.99966</Open>
+    <High>1.00039</High>
+    <Low>0.99958</Low>
+    <Close>1.00011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-16</Date>
+    <Open>1.00011</Open>
+    <High>1.00037</High>
+    <Low>0.995219</Low>
+    <Close>0.9999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-17</Date>
+    <Open>0.99986</Open>
+    <High>1.00031</High>
+    <Low>0.9996</Low>
+    <Close>1.00011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-18</Date>
+    <Open>1.00012</Open>
+    <High>1.00032</High>
+    <Low>0.99971</Low>
+    <Close>1.00005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-19</Date>
+    <Open>1.00003</Open>
+    <High>1.00025</High>
+    <Low>0.99948</Low>
+    <Close>0.99987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-20</Date>
+    <Open>1.00007</Open>
+    <High>1.00058</High>
+    <Low>0.99989</Low>
+    <Close>1.0004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-21</Date>
+    <Open>1.0005</Open>
+    <High>1.00052</High>
+    <Low>0.99974</Low>
+    <Close>1.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-22</Date>
+    <Open>0.99989</Open>
+    <High>1.00028</High>
+    <Low>0.99978</Low>
+    <Close>1.00013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-23</Date>
+    <Open>0.99977</Open>
+    <High>0.99999</High>
+    <Low>0.99946</Low>
+    <Close>0.99976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-24</Date>
+    <Open>0.99966</Open>
+    <High>0.99999</High>
+    <Low>0.99942</Low>
+    <Close>0.99954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-25</Date>
+    <Open>0.99954</Open>
+    <High>0.99979</High>
+    <Low>0.9993</Low>
+    <Close>0.99962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-26</Date>
+    <Open>1.0</Open>
+    <High>1.00012</High>
+    <Low>0.99958</Low>
+    <Close>0.99999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-27</Date>
+    <Open>1.0</Open>
+    <High>1.00016</High>
+    <Low>0.99986</Low>
+    <Close>0.99997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="USDD">
+    <Date>2023-05-28</Date>
+    <Open>0.9999</Open>
+    <High>1.00122</High>
+    <Low>0.99922</Low>
+    <Close>0.99991</Close>
+  </Cryptocurrency>
+</Root>

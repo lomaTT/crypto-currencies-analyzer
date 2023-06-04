@@ -1,0 +1,2964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-02</Date>
+    <Open>4.34674</Open>
+    <High>5.37801</High>
+    <Low>4.22577</Low>
+    <Close>4.88966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-03</Date>
+    <Open>4.89556</Open>
+    <High>5.35214</High>
+    <Low>4.41512</Low>
+    <Close>4.85085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-04</Date>
+    <Open>4.85896</Open>
+    <High>5.9912</High>
+    <Low>4.81724</Low>
+    <Close>5.35531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-05</Date>
+    <Open>5.35851</Open>
+    <High>5.45944</High>
+    <Low>4.4975</Low>
+    <Close>4.63083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-06</Date>
+    <Open>4.63133</Open>
+    <High>4.75075</High>
+    <Low>3.81738</Low>
+    <Close>4.0188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-07</Date>
+    <Open>4.017</Open>
+    <High>4.18682</High>
+    <Low>3.71</Low>
+    <Close>3.87329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-08</Date>
+    <Open>3.87779</Open>
+    <High>4.19592</High>
+    <Low>3.70197</Low>
+    <Close>3.83653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-09</Date>
+    <Open>3.84165</Open>
+    <High>3.97309</High>
+    <Low>3.68287</Low>
+    <Close>3.85916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-10</Date>
+    <Open>3.85986</Open>
+    <High>4.4908</High>
+    <Low>3.85446</Low>
+    <Close>4.15083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-11</Date>
+    <Open>4.14863</Open>
+    <High>4.14931</High>
+    <Low>3.43333</Low>
+    <Close>3.46644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-12</Date>
+    <Open>3.46739</Open>
+    <High>3.78726</High>
+    <Low>3.36841</Low>
+    <Close>3.52966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-13</Date>
+    <Open>3.52906</Open>
+    <High>4.23655</High>
+    <Low>3.43429</Low>
+    <Close>3.9957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-14</Date>
+    <Open>3.9967</Open>
+    <High>4.17845</High>
+    <Low>3.70541</Low>
+    <Close>3.83507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-15</Date>
+    <Open>3.83557</Open>
+    <High>4.14983</High>
+    <Low>3.75215</Low>
+    <Close>3.9961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-16</Date>
+    <Open>3.9954</Open>
+    <High>4.31216</High>
+    <Low>3.96419</Low>
+    <Close>4.13973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-17</Date>
+    <Open>4.13713</Open>
+    <High>4.28086</High>
+    <Low>3.86787</Low>
+    <Close>3.93549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-18</Date>
+    <Open>3.93659</Open>
+    <High>4.16125</High>
+    <Low>3.65507</Low>
+    <Close>4.06452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-19</Date>
+    <Open>4.06272</Open>
+    <High>4.31086</High>
+    <Low>3.9979</Low>
+    <Close>4.15783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-20</Date>
+    <Open>4.15913</Open>
+    <High>4.49045</High>
+    <Low>4.0254</Low>
+    <Close>4.12562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-21</Date>
+    <Open>4.12502</Open>
+    <High>4.24942</High>
+    <Low>3.80778</Low>
+    <Close>3.88238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-22</Date>
+    <Open>3.88239</Open>
+    <High>3.9807</High>
+    <Low>3.63983</Low>
+    <Close>3.75758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-23</Date>
+    <Open>3.75575</Open>
+    <High>3.77916</High>
+    <Low>3.57071</Low>
+    <Close>3.70544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-24</Date>
+    <Open>3.70664</Open>
+    <High>3.71454</High>
+    <Low>3.33487</Low>
+    <Close>3.34827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-25</Date>
+    <Open>3.34927</Open>
+    <High>3.45069</High>
+    <Low>3.0691</Low>
+    <Close>3.40438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-26</Date>
+    <Open>3.40378</Open>
+    <High>3.58112</High>
+    <Low>3.0268</Low>
+    <Close>3.06261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-27</Date>
+    <Open>3.06411</Open>
+    <High>3.10469</High>
+    <Low>2.9185</Low>
+    <Close>2.9851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-28</Date>
+    <Open>2.9864</Open>
+    <High>3.22842</High>
+    <Low>2.9703</Low>
+    <Close>2.9973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-29</Date>
+    <Open>3.0053</Open>
+    <High>3.0298</High>
+    <Low>2.58366</Low>
+    <Close>2.58796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-04-30</Date>
+    <Open>2.58486</Open>
+    <High>2.82158</High>
+    <Low>2.47195</Low>
+    <Close>2.5112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-01</Date>
+    <Open>2.5102</Open>
+    <High>2.55526</High>
+    <Low>2.3088</Low>
+    <Close>2.4822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-02</Date>
+    <Open>2.48235</Open>
+    <High>2.65617</High>
+    <Low>2.43824</Low>
+    <Close>2.536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-03</Date>
+    <Open>2.53645</Open>
+    <High>2.58026</High>
+    <Low>2.41342</Low>
+    <Close>2.44696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-04</Date>
+    <Open>2.44696</Open>
+    <High>2.8523</High>
+    <Low>2.41752</Low>
+    <Close>2.7504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-05</Date>
+    <Open>2.75427</Open>
+    <High>2.91002</High>
+    <Low>2.34963</Low>
+    <Close>2.43591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-06</Date>
+    <Open>2.43606</Open>
+    <High>2.44746</High>
+    <Low>2.25787</Low>
+    <Close>2.32517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-07</Date>
+    <Open>2.32517</Open>
+    <High>2.35206</High>
+    <Low>2.21246</Low>
+    <Close>2.21356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-08</Date>
+    <Open>2.21696</Open>
+    <High>2.23268</High>
+    <Low>2.08367</Low>
+    <Close>2.15945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-09</Date>
+    <Open>2.15895</Open>
+    <High>2.15895</High>
+    <Low>1.72018</Low>
+    <Close>1.84293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-10</Date>
+    <Open>1.82913</Open>
+    <High>1.9815</High>
+    <Low>1.61651</Low>
+    <Close>1.72501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-11</Date>
+    <Open>1.72251</Open>
+    <High>1.79</High>
+    <Low>1.06922</Low>
+    <Close>1.11873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-12</Date>
+    <Open>1.11924</Open>
+    <High>1.29089</High>
+    <Low>1.04378</Low>
+    <Close>1.08775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-13</Date>
+    <Open>1.08785</Open>
+    <High>1.41096</High>
+    <Low>1.08407</Low>
+    <Close>1.27563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-14</Date>
+    <Open>1.2755</Open>
+    <High>1.28528</High>
+    <Low>1.07485</Low>
+    <Close>1.18594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-15</Date>
+    <Open>1.18783</Open>
+    <High>1.32238</High>
+    <Low>1.17675</Low>
+    <Close>1.31299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-16</Date>
+    <Open>1.31309</Open>
+    <High>1.42709</High>
+    <Low>1.23737</Low>
+    <Close>1.32857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-17</Date>
+    <Open>1.33157</Open>
+    <High>1.44371</High>
+    <Low>1.28153</Low>
+    <Close>1.39608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-18</Date>
+    <Open>1.39678</Open>
+    <High>1.42858</High>
+    <Low>1.16558</Low>
+    <Close>1.17667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-19</Date>
+    <Open>1.17827</Open>
+    <High>1.26106</High>
+    <Low>1.08858</Low>
+    <Close>1.19293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-20</Date>
+    <Open>1.19233</Open>
+    <High>1.25092</High>
+    <Low>1.08052</Low>
+    <Close>1.12535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-21</Date>
+    <Open>1.12964</Open>
+    <High>1.20783</High>
+    <Low>1.09957</Low>
+    <Close>1.16488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-22</Date>
+    <Open>1.16309</Open>
+    <High>1.25776</High>
+    <Low>1.15578</Low>
+    <Close>1.22713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-23</Date>
+    <Open>1.22653</Open>
+    <High>1.31016</High>
+    <Low>1.21184</Low>
+    <Close>1.22703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-24</Date>
+    <Open>1.2268</Open>
+    <High>1.47368</High>
+    <Low>1.12495</Low>
+    <Close>1.37052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-25</Date>
+    <Open>1.36942</Open>
+    <High>1.57437</High>
+    <Low>1.273</Low>
+    <Close>1.31422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-26</Date>
+    <Open>1.31355</Open>
+    <High>1.3333</High>
+    <Low>1.14872</Low>
+    <Close>1.19131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-27</Date>
+    <Open>1.19071</Open>
+    <High>1.24116</High>
+    <Low>1.12767</Low>
+    <Close>1.18801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-28</Date>
+    <Open>1.18643</Open>
+    <High>1.23265</High>
+    <Low>1.16362</Low>
+    <Close>1.1938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-29</Date>
+    <Open>1.19337</Open>
+    <High>1.22952</High>
+    <Low>1.16688</Low>
+    <Close>1.20437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-30</Date>
+    <Open>1.20419</Open>
+    <High>1.42336</High>
+    <Low>1.20201</Low>
+    <Close>1.39312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-05-31</Date>
+    <Open>1.39438</Open>
+    <High>1.41067</High>
+    <Low>1.2801</Low>
+    <Close>1.34223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-01</Date>
+    <Open>1.34302</Open>
+    <High>1.3718</High>
+    <Low>1.21398</Low>
+    <Close>1.23379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-02</Date>
+    <Open>1.23339</Open>
+    <High>1.38395</High>
+    <Low>1.22108</Low>
+    <Close>1.36807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-03</Date>
+    <Open>1.37146</Open>
+    <High>1.39113</High>
+    <Low>1.25062</Low>
+    <Close>1.29647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-04</Date>
+    <Open>1.29617</Open>
+    <High>1.34012</High>
+    <Low>1.28302</Low>
+    <Close>1.3156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-05</Date>
+    <Open>1.316</Open>
+    <High>1.36436</High>
+    <Low>1.29425</Low>
+    <Close>1.34623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-06</Date>
+    <Open>1.34633</Open>
+    <High>1.43512</High>
+    <Low>1.31875</Low>
+    <Close>1.34745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-07</Date>
+    <Open>1.34837</Open>
+    <High>1.35065</High>
+    <Low>1.22598</Low>
+    <Close>1.31112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-08</Date>
+    <Open>1.31124</Open>
+    <High>1.35533</High>
+    <Low>1.25129</Low>
+    <Close>1.26907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-09</Date>
+    <Open>1.27087</Open>
+    <High>1.30926</High>
+    <Low>1.2514</Low>
+    <Close>1.27273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-10</Date>
+    <Open>1.27262</Open>
+    <High>1.27949</High>
+    <Low>1.16895</Low>
+    <Close>1.19237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-11</Date>
+    <Open>1.19237</Open>
+    <High>1.19828</High>
+    <Low>1.04379</Low>
+    <Close>1.07139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-12</Date>
+    <Open>1.07008</Open>
+    <High>1.08219</High>
+    <Low>0.9987</Low>
+    <Close>1.01275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-13</Date>
+    <Open>1.01275</Open>
+    <High>1.01275</High>
+    <Low>0.8011</Low>
+    <Close>0.87608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-14</Date>
+    <Open>0.87868</Open>
+    <High>0.9273</High>
+    <Low>0.80779</Low>
+    <Close>0.87005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-15</Date>
+    <Open>0.86855</Open>
+    <High>0.9084</High>
+    <Low>0.77116</Low>
+    <Close>0.90474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-16</Date>
+    <Open>0.90684</Open>
+    <High>0.91461</High>
+    <Low>0.78256</Low>
+    <Close>0.815139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-17</Date>
+    <Open>0.818361</Open>
+    <High>0.821265</High>
+    <Low>0.672791</Low>
+    <Close>0.685077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-18</Date>
+    <Open>0.685676</Open>
+    <High>0.712958</High>
+    <Low>0.549685</Low>
+    <Close>0.599328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-19</Date>
+    <Open>0.599627</Open>
+    <High>0.666999</High>
+    <Low>0.577978</Low>
+    <Close>0.651552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-20</Date>
+    <Open>0.651717</Open>
+    <High>0.692007</High>
+    <Low>0.62189</Low>
+    <Close>0.660672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-21</Date>
+    <Open>0.660407</Open>
+    <High>0.707263</High>
+    <Low>0.646118</Low>
+    <Close>0.659773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-22</Date>
+    <Open>0.659474</Open>
+    <High>0.661138</High>
+    <Low>0.601198</Low>
+    <Close>0.60939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-23</Date>
+    <Open>0.60939</Open>
+    <High>0.672327</High>
+    <Low>0.600099</Low>
+    <Close>0.636563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-24</Date>
+    <Open>0.636399</Open>
+    <High>0.683446</High>
+    <Low>0.634964</Low>
+    <Close>0.680369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-25</Date>
+    <Open>0.683616</Open>
+    <High>0.725214</High>
+    <Low>0.663135</Low>
+    <Close>0.702908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-26</Date>
+    <Open>0.703001</Open>
+    <High>0.814937</High>
+    <Low>0.689324</Low>
+    <Close>0.727856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-27</Date>
+    <Open>0.727856</Open>
+    <High>0.738135</High>
+    <Low>0.677469</Low>
+    <Close>0.688886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-28</Date>
+    <Open>0.689093</Open>
+    <High>0.712751</High>
+    <Low>0.65417</Low>
+    <Close>0.670474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-29</Date>
+    <Open>0.670567</Open>
+    <High>0.671886</High>
+    <Low>0.622134</Low>
+    <Close>0.643826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-06-30</Date>
+    <Open>0.645218</Open>
+    <High>0.645225</High>
+    <Low>0.579845</Low>
+    <Close>0.597083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-01</Date>
+    <Open>0.597582</Open>
+    <High>0.740662</High>
+    <Low>0.595385</Low>
+    <Close>0.645889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-02</Date>
+    <Open>0.645989</Open>
+    <High>0.708549</High>
+    <Low>0.625311</Low>
+    <Close>0.677286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-03</Date>
+    <Open>0.678085</Open>
+    <High>0.697063</High>
+    <Low>0.651886</Low>
+    <Close>0.672624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-04</Date>
+    <Open>0.672425</Open>
+    <High>0.704953</High>
+    <Low>0.654748</Low>
+    <Close>0.689871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-05</Date>
+    <Open>0.690071</Open>
+    <High>0.708748</High>
+    <Low>0.656477</Low>
+    <Close>0.682548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-06</Date>
+    <Open>0.682548</Open>
+    <High>0.683947</High>
+    <Low>0.651982</Low>
+    <Close>0.669663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-07</Date>
+    <Open>0.670761</Open>
+    <High>0.700809</High>
+    <Low>0.655079</Low>
+    <Close>0.691285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-08</Date>
+    <Open>0.691285</Open>
+    <High>0.710302</High>
+    <Low>0.664501</Low>
+    <Close>0.68269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-09</Date>
+    <Open>0.682622</Open>
+    <High>0.698481</High>
+    <Low>0.674795</Low>
+    <Close>0.687687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-10</Date>
+    <Open>0.687618</Open>
+    <High>0.690485</High>
+    <Low>0.639852</Low>
+    <Close>0.654607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-11</Date>
+    <Open>0.654607</Open>
+    <High>0.654607</High>
+    <Low>0.611349</Low>
+    <Close>0.611349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-12</Date>
+    <Open>0.611149</Open>
+    <High>0.611149</High>
+    <Low>0.582858</Low>
+    <Close>0.586713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-13</Date>
+    <Open>0.58673</Open>
+    <High>0.605394</High>
+    <Low>0.555289</Low>
+    <Close>0.58787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-14</Date>
+    <Open>0.58807</Open>
+    <High>0.618828</High>
+    <Low>0.57394</Low>
+    <Close>0.602139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-15</Date>
+    <Open>0.602238</Open>
+    <High>0.630721</High>
+    <Low>0.601239</Low>
+    <Close>0.616615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-16</Date>
+    <Open>0.615315</Open>
+    <High>0.639172</High>
+    <Low>0.589964</Low>
+    <Close>0.619614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-17</Date>
+    <Open>0.617539</Open>
+    <High>0.629362</High>
+    <Low>0.60813</Low>
+    <Close>0.617739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-18</Date>
+    <Open>0.617939</Open>
+    <High>0.692538</High>
+    <Low>0.609087</Low>
+    <Close>0.660448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-19</Date>
+    <Open>0.660348</Open>
+    <High>0.8079</High>
+    <Low>0.656929</Low>
+    <Close>0.768723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-20</Date>
+    <Open>0.768623</Open>
+    <High>0.796708</High>
+    <Low>0.693286</Low>
+    <Close>0.718736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-21</Date>
+    <Open>0.718736</Open>
+    <High>0.738255</High>
+    <Low>0.676234</Low>
+    <Close>0.732383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-22</Date>
+    <Open>0.732383</Open>
+    <High>0.780164</High>
+    <Low>0.712035</Low>
+    <Close>0.722559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-23</Date>
+    <Open>0.723266</Open>
+    <High>0.734573</High>
+    <Low>0.677439</Low>
+    <Close>0.689931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-24</Date>
+    <Open>0.690169</Open>
+    <High>0.735532</High>
+    <Low>0.689931</Low>
+    <Close>0.727846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-25</Date>
+    <Open>0.729146</Open>
+    <High>0.740341</High>
+    <Low>0.666273</Low>
+    <Close>0.688055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-26</Date>
+    <Open>0.688055</Open>
+    <High>0.688055</High>
+    <Low>0.62675</Low>
+    <Close>0.633695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-27</Date>
+    <Open>0.6337</Open>
+    <High>0.698893</High>
+    <Low>0.6337</Low>
+    <Close>0.684864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-28</Date>
+    <Open>0.684864</Open>
+    <High>0.768969</High>
+    <Low>0.684678</Low>
+    <Close>0.753751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-29</Date>
+    <Open>0.753858</Open>
+    <High>0.790855</High>
+    <Low>0.730783</Low>
+    <Close>0.762212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-30</Date>
+    <Open>0.762212</Open>
+    <High>0.880908</High>
+    <Low>0.759304</Low>
+    <Close>0.822671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-07-31</Date>
+    <Open>0.820946</Open>
+    <High>0.860086</High>
+    <Low>0.792622</Low>
+    <Close>0.822489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-01</Date>
+    <Open>0.822947</Open>
+    <High>0.850613</High>
+    <Low>0.777025</Low>
+    <Close>0.786036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-02</Date>
+    <Open>0.785936</Open>
+    <High>0.810308</High>
+    <Low>0.598179</Low>
+    <Close>0.70772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-03</Date>
+    <Open>0.70692</Open>
+    <High>0.72516</High>
+    <Low>0.670174</Low>
+    <Close>0.692173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-04</Date>
+    <Open>0.692408</Open>
+    <High>0.73651</High>
+    <Low>0.678275</Low>
+    <Close>0.710928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-05</Date>
+    <Open>0.710921</Open>
+    <High>0.78451</High>
+    <Low>0.708328</Low>
+    <Close>0.73904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-06</Date>
+    <Open>0.73944</Open>
+    <High>0.791242</High>
+    <Low>0.737925</Low>
+    <Close>0.766676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-07</Date>
+    <Open>0.766769</Open>
+    <High>0.774847</High>
+    <Low>0.742778</Low>
+    <Close>0.767846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-08</Date>
+    <Open>0.767646</Open>
+    <High>0.806526</High>
+    <Low>0.757836</Low>
+    <Close>0.771693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-09</Date>
+    <Open>0.771793</Open>
+    <High>0.775832</High>
+    <Low>0.695818</Low>
+    <Close>0.720044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-10</Date>
+    <Open>0.720044</Open>
+    <High>0.770839</High>
+    <Low>0.693787</Low>
+    <Close>0.756919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-11</Date>
+    <Open>0.756919</Open>
+    <High>0.789239</High>
+    <Low>0.745728</Low>
+    <Close>0.748752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-12</Date>
+    <Open>0.749552</Open>
+    <High>0.7496</High>
+    <Low>0.712385</Low>
+    <Close>0.731436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-13</Date>
+    <Open>0.731429</Open>
+    <High>0.771817</High>
+    <Low>0.729785</Low>
+    <Close>0.738188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-14</Date>
+    <Open>0.738188</Open>
+    <High>0.744375</High>
+    <Low>0.686758</Low>
+    <Close>0.702918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-15</Date>
+    <Open>0.702981</Open>
+    <High>0.72929</High>
+    <Low>0.676476</Low>
+    <Close>0.70837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-16</Date>
+    <Open>0.708477</Open>
+    <High>0.739948</High>
+    <Low>0.692966</Low>
+    <Close>0.700363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-17</Date>
+    <Open>0.700363</Open>
+    <High>0.719658</High>
+    <Low>0.660774</Low>
+    <Close>0.670047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-18</Date>
+    <Open>0.670147</Open>
+    <High>0.686141</High>
+    <Low>0.655139</Low>
+    <Close>0.666407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-19</Date>
+    <Open>0.666367</Open>
+    <High>0.669867</High>
+    <Low>0.5972</Low>
+    <Close>0.6044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-20</Date>
+    <Open>0.603318</Open>
+    <High>0.638428</High>
+    <Low>0.59424</Low>
+    <Close>0.603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-21</Date>
+    <Open>0.603088</Open>
+    <High>0.643381</High>
+    <Low>0.603088</Low>
+    <Close>0.638081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-22</Date>
+    <Open>0.638087</Open>
+    <High>0.6411</High>
+    <Low>0.598558</Low>
+    <Close>0.606697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-23</Date>
+    <Open>0.606709</Open>
+    <High>0.624463</High>
+    <Low>0.596</Low>
+    <Close>0.613412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-24</Date>
+    <Open>0.613339</Open>
+    <High>0.624637</High>
+    <Low>0.585359</Low>
+    <Close>0.605554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-25</Date>
+    <Open>0.605655</Open>
+    <High>0.613369</High>
+    <Low>0.59676</Low>
+    <Close>0.600618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-26</Date>
+    <Open>0.600618</Open>
+    <High>0.603706</High>
+    <Low>0.555356</Low>
+    <Close>0.556256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-27</Date>
+    <Open>0.55625</Open>
+    <High>0.562989</High>
+    <Low>0.535248</Low>
+    <Close>0.544416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-28</Date>
+    <Open>0.544111</Open>
+    <High>0.556617</High>
+    <Low>0.539962</Low>
+    <Close>0.5449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-29</Date>
+    <Open>0.5449</Open>
+    <High>0.562584</High>
+    <Low>0.523063</Low>
+    <Close>0.548933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-30</Date>
+    <Open>0.548944</Open>
+    <High>0.560294</High>
+    <Low>0.513641</Low>
+    <Close>0.524147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-08-31</Date>
+    <Open>0.524142</Open>
+    <High>0.534805</High>
+    <Low>0.513179</Low>
+    <Close>0.533595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-01</Date>
+    <Open>0.533695</Open>
+    <High>0.534316</High>
+    <Low>0.511115</Low>
+    <Close>0.524169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-02</Date>
+    <Open>0.524169</Open>
+    <High>0.573603</High>
+    <Low>0.5194</Low>
+    <Close>0.53568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-03</Date>
+    <Open>0.536086</Open>
+    <High>0.539997</High>
+    <Low>0.5204</Low>
+    <Close>0.525953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-04</Date>
+    <Open>0.5259</Open>
+    <High>0.5297</High>
+    <Low>0.5175</Low>
+    <Close>0.5248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-05</Date>
+    <Open>0.5248</Open>
+    <High>0.529453</High>
+    <Low>0.5104</Low>
+    <Close>0.516052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-06</Date>
+    <Open>0.516052</Open>
+    <High>0.5272</High>
+    <Low>0.480452</Low>
+    <Close>0.4844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-07</Date>
+    <Open>0.4844</Open>
+    <High>0.504866</High>
+    <Low>0.470509</Low>
+    <Close>0.500825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-08</Date>
+    <Open>0.501335</Open>
+    <High>0.504371</High>
+    <Low>0.481243</Low>
+    <Close>0.493474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-09</Date>
+    <Open>0.4936</Open>
+    <High>0.574895</High>
+    <Low>0.490654</Low>
+    <Close>0.570594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-10</Date>
+    <Open>0.570014</Open>
+    <High>0.625375</High>
+    <Low>0.542606</Low>
+    <Close>0.560707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-11</Date>
+    <Open>0.560606</Open>
+    <High>0.612878</High>
+    <Low>0.560606</Low>
+    <Close>0.588647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-12</Date>
+    <Open>0.586647</Open>
+    <High>0.628526</High>
+    <Low>0.568114</Low>
+    <Close>0.568114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-13</Date>
+    <Open>0.568102</Open>
+    <High>0.571237</High>
+    <Low>0.515726</Low>
+    <Close>0.52211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-14</Date>
+    <Open>0.521852</Open>
+    <High>0.52371</High>
+    <Low>0.49272</Low>
+    <Close>0.510428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-15</Date>
+    <Open>0.513028</Open>
+    <High>0.517645</High>
+    <Low>0.484618</Low>
+    <Close>0.493456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-16</Date>
+    <Open>0.493456</Open>
+    <High>0.49555</High>
+    <Low>0.475452</Low>
+    <Close>0.493451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-17</Date>
+    <Open>0.4935</Open>
+    <High>0.5297</High>
+    <Low>0.4862</Low>
+    <Close>0.510651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-18</Date>
+    <Open>0.5106</Open>
+    <High>0.5231</High>
+    <Low>0.4731</Low>
+    <Close>0.4771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-19</Date>
+    <Open>0.4771</Open>
+    <High>0.4851</High>
+    <Low>0.454645</Low>
+    <Close>0.475895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-20</Date>
+    <Open>0.475548</Open>
+    <High>0.480296</High>
+    <Low>0.4567</Low>
+    <Close>0.4651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-21</Date>
+    <Open>0.464909</Open>
+    <High>0.4765</High>
+    <Low>0.4378</Low>
+    <Close>0.4396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-22</Date>
+    <Open>0.4395</Open>
+    <High>0.467247</High>
+    <Low>0.4359</Low>
+    <Close>0.4603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-23</Date>
+    <Open>0.4603</Open>
+    <High>0.4745</High>
+    <Low>0.445355</Low>
+    <Close>0.4621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-24</Date>
+    <Open>0.462054</Open>
+    <High>0.468714</High>
+    <Low>0.454291</Low>
+    <Close>0.455141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-25</Date>
+    <Open>0.4551</Open>
+    <High>0.48882</High>
+    <Low>0.4507</Low>
+    <Close>0.465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-26</Date>
+    <Open>0.465</Open>
+    <High>0.4813</High>
+    <Low>0.446145</Low>
+    <Close>0.461354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-27</Date>
+    <Open>0.4614</Open>
+    <High>0.488349</High>
+    <Low>0.451055</Low>
+    <Close>0.456954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-28</Date>
+    <Open>0.456954</Open>
+    <High>0.462</High>
+    <Low>0.439656</Low>
+    <Close>0.4533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-29</Date>
+    <Open>0.4533</Open>
+    <High>0.471553</High>
+    <Low>0.444</Low>
+    <Close>0.452245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-09-30</Date>
+    <Open>0.452245</Open>
+    <High>0.4582</High>
+    <Low>0.4249</Low>
+    <Close>0.4396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-01</Date>
+    <Open>0.439644</Open>
+    <High>0.4722</High>
+    <Low>0.4375</Low>
+    <Close>0.4551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-02</Date>
+    <Open>0.4547</Open>
+    <High>0.4855</High>
+    <Low>0.4509</Low>
+    <Close>0.4543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-03</Date>
+    <Open>0.4543</Open>
+    <High>0.463993</High>
+    <Low>0.4385</Low>
+    <Close>0.462046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-04</Date>
+    <Open>0.462046</Open>
+    <High>0.481296</High>
+    <Low>0.455891</Low>
+    <Close>0.472942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-05</Date>
+    <Open>0.472942</Open>
+    <High>0.473542</High>
+    <Low>0.452245</Low>
+    <Close>0.465893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-06</Date>
+    <Open>0.465993</Open>
+    <High>0.538375</High>
+    <Low>0.465993</Low>
+    <Close>0.485683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-07</Date>
+    <Open>0.485683</Open>
+    <High>0.487893</High>
+    <Low>0.462323</Low>
+    <Close>0.470566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-08</Date>
+    <Open>0.470666</Open>
+    <High>0.50952</High>
+    <Low>0.470661</Low>
+    <Close>0.484421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-09</Date>
+    <Open>0.484426</Open>
+    <High>0.505851</High>
+    <Low>0.483263</Low>
+    <Close>0.495299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-10</Date>
+    <Open>0.49525</Open>
+    <High>0.5</High>
+    <Low>0.472</Low>
+    <Close>0.484752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-11</Date>
+    <Open>0.4848</Open>
+    <High>0.4848</High>
+    <Low>0.451855</Low>
+    <Close>0.454059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-12</Date>
+    <Open>0.454059</Open>
+    <High>0.46454</High>
+    <Low>0.447664</Low>
+    <Close>0.459114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-13</Date>
+    <Open>0.459114</Open>
+    <High>0.459614</High>
+    <Low>0.416146</Low>
+    <Close>0.440235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-14</Date>
+    <Open>0.44024</Open>
+    <High>0.449104</High>
+    <Low>0.427534</Low>
+    <Close>0.429309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-15</Date>
+    <Open>0.429117</Open>
+    <High>0.466023</High>
+    <Low>0.426734</Low>
+    <Close>0.452623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-16</Date>
+    <Open>0.452227</Open>
+    <High>0.550817</High>
+    <Low>0.448422</Low>
+    <Close>0.467319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-17</Date>
+    <Open>0.467319</Open>
+    <High>0.486849</High>
+    <Low>0.454014</Low>
+    <Close>0.48071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-18</Date>
+    <Open>0.480814</Open>
+    <High>0.483519</High>
+    <Low>0.462437</Low>
+    <Close>0.478529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-19</Date>
+    <Open>0.478448</Open>
+    <High>0.484419</High>
+    <Low>0.467509</Low>
+    <Close>0.474505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-20</Date>
+    <Open>0.474495</Open>
+    <High>0.475071</High>
+    <Low>0.459663</Low>
+    <Close>0.469053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-21</Date>
+    <Open>0.469067</Open>
+    <High>0.474372</High>
+    <Low>0.445496</Low>
+    <Close>0.452536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-22</Date>
+    <Open>0.452532</Open>
+    <High>0.463342</High>
+    <Low>0.452236</Low>
+    <Close>0.458337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-23</Date>
+    <Open>0.458341</Open>
+    <High>0.462642</High>
+    <Low>0.449736</Low>
+    <Close>0.46096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-24</Date>
+    <Open>0.46096</Open>
+    <High>0.463946</High>
+    <Low>0.450632</Low>
+    <Close>0.454318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-25</Date>
+    <Open>0.454414</Open>
+    <High>0.47821</High>
+    <Low>0.447704</Low>
+    <Close>0.467063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-26</Date>
+    <Open>0.467159</Open>
+    <High>0.495603</High>
+    <Low>0.461825</Low>
+    <Close>0.478534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-27</Date>
+    <Open>0.478639</Open>
+    <High>0.492908</High>
+    <Low>0.463928</Low>
+    <Close>0.464833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-28</Date>
+    <Open>0.464528</Open>
+    <High>0.471299</High>
+    <Low>0.453136</Low>
+    <Close>0.468594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-29</Date>
+    <Open>0.468589</Open>
+    <High>0.497414</High>
+    <Low>0.468584</Low>
+    <Close>0.496914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-30</Date>
+    <Open>0.496919</Open>
+    <High>0.498125</High>
+    <Low>0.472313</Low>
+    <Close>0.481496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-10-31</Date>
+    <Open>0.481096</Open>
+    <High>0.490005</High>
+    <Low>0.470804</Low>
+    <Close>0.477462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-01</Date>
+    <Open>0.477471</Open>
+    <High>0.492662</High>
+    <Low>0.470206</Low>
+    <Close>0.485751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-02</Date>
+    <Open>0.485851</Open>
+    <High>0.488622</High>
+    <Low>0.467281</Low>
+    <Close>0.468872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-03</Date>
+    <Open>0.469677</Open>
+    <High>0.505534</High>
+    <Low>0.468872</Low>
+    <Close>0.496495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-04</Date>
+    <Open>0.4965</Open>
+    <High>0.540049</High>
+    <Low>0.491185</Low>
+    <Close>0.532143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-05</Date>
+    <Open>0.532537</Open>
+    <High>0.543027</High>
+    <Low>0.521321</Low>
+    <Close>0.539427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-06</Date>
+    <Open>0.539422</Open>
+    <High>0.539427</High>
+    <Low>0.506215</Low>
+    <Close>0.507035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-07</Date>
+    <Open>0.506935</Open>
+    <High>0.513015</High>
+    <Low>0.489549</Low>
+    <Close>0.505666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-08</Date>
+    <Open>0.505852</Open>
+    <High>0.517759</High>
+    <Low>0.405627</Low>
+    <Close>0.442724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-09</Date>
+    <Open>0.442423</Open>
+    <High>0.450347</High>
+    <Low>0.358541</Low>
+    <Close>0.373327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-10</Date>
+    <Open>0.37258</Open>
+    <High>0.441945</High>
+    <Low>0.366169</Low>
+    <Close>0.409328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-11</Date>
+    <Open>0.409795</Open>
+    <High>0.459824</High>
+    <Low>0.3623</Low>
+    <Close>0.369774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-12</Date>
+    <Open>0.369848</Open>
+    <High>0.381013</High>
+    <Low>0.35506</Low>
+    <Close>0.375223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-13</Date>
+    <Open>0.375124</Open>
+    <High>0.377919</High>
+    <Low>0.353405</Low>
+    <Close>0.354403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-14</Date>
+    <Open>0.354374</Open>
+    <High>0.366596</High>
+    <Low>0.336161</Low>
+    <Close>0.351672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-15</Date>
+    <Open>0.351554</Open>
+    <High>0.384115</High>
+    <Low>0.351554</Low>
+    <Close>0.373826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-16</Date>
+    <Open>0.366145</Open>
+    <High>0.367687</High>
+    <Low>0.351313</Low>
+    <Close>0.358384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-17</Date>
+    <Open>0.35847</Open>
+    <High>0.361358</High>
+    <Low>0.352072</Low>
+    <Close>0.356322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-18</Date>
+    <Open>0.356525</Open>
+    <High>0.363213</High>
+    <Low>0.355408</Low>
+    <Close>0.357984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-19</Date>
+    <Open>0.358188</Open>
+    <High>0.363603</High>
+    <Low>0.353204</Low>
+    <Close>0.357628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-20</Date>
+    <Open>0.357778</Open>
+    <High>0.36602</High>
+    <Low>0.336691</Low>
+    <Close>0.337187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-21</Date>
+    <Open>0.336884</Open>
+    <High>0.337383</High>
+    <Low>0.319613</Low>
+    <Close>0.323411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-22</Date>
+    <Open>0.323411</Open>
+    <High>0.355266</High>
+    <Low>0.315795</Low>
+    <Close>0.331379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-23</Date>
+    <Open>0.331395</Open>
+    <High>0.366959</High>
+    <Low>0.329997</Low>
+    <Close>0.34482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-24</Date>
+    <Open>0.344824</Open>
+    <High>0.359861</High>
+    <Low>0.343732</Low>
+    <Close>0.352008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-25</Date>
+    <Open>0.352097</Open>
+    <High>0.354819</High>
+    <Low>0.340521</Low>
+    <Close>0.345706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-26</Date>
+    <Open>0.345699</Open>
+    <High>0.355372</High>
+    <Low>0.342687</Low>
+    <Close>0.346096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-27</Date>
+    <Open>0.345996</Open>
+    <High>0.373961</High>
+    <Low>0.345699</Low>
+    <Close>0.362372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-28</Date>
+    <Open>0.362068</Open>
+    <High>0.362068</High>
+    <Low>0.336112</Low>
+    <Close>0.340371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-29</Date>
+    <Open>0.340274</Open>
+    <High>0.355205</High>
+    <Low>0.337462</Low>
+    <Close>0.35167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-11-30</Date>
+    <Open>0.351566</Open>
+    <High>0.362651</High>
+    <Low>0.351167</Low>
+    <Close>0.358722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-01</Date>
+    <Open>0.359311</Open>
+    <High>0.373196</High>
+    <Low>0.353665</Low>
+    <Close>0.368322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-02</Date>
+    <Open>0.368318</Open>
+    <High>0.475352</High>
+    <Low>0.365233</Low>
+    <Close>0.405424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-03</Date>
+    <Open>0.405416</Open>
+    <High>0.45585</High>
+    <Low>0.39804</Low>
+    <Close>0.39978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-04</Date>
+    <Open>0.39964</Open>
+    <High>0.410682</High>
+    <Low>0.394139</Low>
+    <Close>0.40024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-05</Date>
+    <Open>0.40024</Open>
+    <High>0.421542</High>
+    <Low>0.397004</Low>
+    <Close>0.399112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-06</Date>
+    <Open>0.399508</Open>
+    <High>0.44684</High>
+    <Low>0.397912</Low>
+    <Close>0.413892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-07</Date>
+    <Open>0.4137</Open>
+    <High>0.431709</High>
+    <Low>0.395924</Low>
+    <Close>0.4162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-08</Date>
+    <Open>0.4158</Open>
+    <High>0.434852</High>
+    <Low>0.413158</Low>
+    <Close>0.420329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-09</Date>
+    <Open>0.420629</Open>
+    <High>0.424321</High>
+    <Low>0.406924</Low>
+    <Close>0.408912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-10</Date>
+    <Open>0.409016</Open>
+    <High>0.4157</High>
+    <Low>0.402396</Low>
+    <Close>0.405092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-11</Date>
+    <Open>0.405192</Open>
+    <High>0.412308</High>
+    <Low>0.40304</Low>
+    <Close>0.40304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-12</Date>
+    <Open>0.40224</Open>
+    <High>0.4026</High>
+    <Low>0.381834</Low>
+    <Close>0.391035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-13</Date>
+    <Open>0.390931</Open>
+    <High>0.410098</High>
+    <Low>0.374501</Low>
+    <Close>0.390302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-14</Date>
+    <Open>0.390083</Open>
+    <High>0.393</High>
+    <Low>0.381089</Low>
+    <Close>0.384027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-15</Date>
+    <Open>0.384038</Open>
+    <High>0.384577</High>
+    <Low>0.365873</Low>
+    <Close>0.367337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-16</Date>
+    <Open>0.367473</Open>
+    <High>0.3728</High>
+    <Low>0.341234</Low>
+    <Close>0.341668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-17</Date>
+    <Open>0.341434</Open>
+    <High>0.347345</High>
+    <Low>0.338544</Low>
+    <Close>0.347245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-18</Date>
+    <Open>0.347245</Open>
+    <High>0.353032</High>
+    <Low>0.345135</Low>
+    <Close>0.350045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-19</Date>
+    <Open>0.350246</Open>
+    <High>0.351742</High>
+    <Low>0.334113</Low>
+    <Close>0.3354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-20</Date>
+    <Open>0.3356</Open>
+    <High>0.350493</High>
+    <Low>0.3355</Low>
+    <Close>0.343514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-21</Date>
+    <Open>0.343514</Open>
+    <High>0.34461</High>
+    <Low>0.335297</Low>
+    <Close>0.336117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-22</Date>
+    <Open>0.336117</Open>
+    <High>0.339646</High>
+    <Low>0.332353</Low>
+    <Close>0.339449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-23</Date>
+    <Open>0.339542</Open>
+    <High>0.341235</High>
+    <Low>0.333273</Low>
+    <Close>0.335163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-24</Date>
+    <Open>0.335266</Open>
+    <High>0.337183</High>
+    <Low>0.333263</Low>
+    <Close>0.335876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-25</Date>
+    <Open>0.335983</Open>
+    <High>0.34179</High>
+    <Low>0.332863</Low>
+    <Close>0.33635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-26</Date>
+    <Open>0.336466</Open>
+    <High>0.356332</High>
+    <Low>0.336366</Low>
+    <Close>0.353329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-27</Date>
+    <Open>0.353429</Open>
+    <High>0.356229</High>
+    <Low>0.346761</Low>
+    <Close>0.348164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-28</Date>
+    <Open>0.348064</Open>
+    <High>0.349849</High>
+    <Low>0.341712</Low>
+    <Close>0.342318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-29</Date>
+    <Open>0.342418</Open>
+    <High>0.34979</High>
+    <Low>0.335656</Low>
+    <Close>0.337648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-30</Date>
+    <Open>0.337648</Open>
+    <High>0.345338</High>
+    <Low>0.332657</Low>
+    <Close>0.334929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2022-12-31</Date>
+    <Open>0.334733</Open>
+    <High>0.336538</High>
+    <Low>0.328836</Low>
+    <Close>0.328836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-01</Date>
+    <Open>0.329332</Open>
+    <High>0.331228</High>
+    <Low>0.324728</Low>
+    <Close>0.329348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-02</Date>
+    <Open>0.329049</Open>
+    <High>0.340467</High>
+    <Low>0.32516</Low>
+    <Close>0.33329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-03</Date>
+    <Open>0.33319</Open>
+    <High>0.3341</High>
+    <Low>0.317966</Low>
+    <Close>0.319875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-04</Date>
+    <Open>0.319875</Open>
+    <High>0.334916</High>
+    <Low>0.319875</Low>
+    <Close>0.329591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-05</Date>
+    <Open>0.329591</Open>
+    <High>0.333996</High>
+    <Low>0.319169</Low>
+    <Close>0.320788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-06</Date>
+    <Open>0.320688</Open>
+    <High>0.321375</High>
+    <Low>0.311938</Low>
+    <Close>0.319101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-07</Date>
+    <Open>0.319098</Open>
+    <High>0.323606</High>
+    <Low>0.315802</Low>
+    <Close>0.316524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-08</Date>
+    <Open>0.316221</Open>
+    <High>0.327851</High>
+    <Low>0.314059</Low>
+    <Close>0.327761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-09</Date>
+    <Open>0.327734</Open>
+    <High>0.346776</High>
+    <Low>0.326728</Low>
+    <Close>0.328997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-10</Date>
+    <Open>0.3291</Open>
+    <High>0.3418</High>
+    <Low>0.328697</Low>
+    <Close>0.337747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-11</Date>
+    <Open>0.337751</Open>
+    <High>0.340586</High>
+    <Low>0.328144</Low>
+    <Close>0.337466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-12</Date>
+    <Open>0.338963</Open>
+    <High>0.356736</High>
+    <Low>0.33346</Low>
+    <Close>0.356736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-13</Date>
+    <Open>0.355736</Open>
+    <High>0.377642</High>
+    <Low>0.353689</Low>
+    <Close>0.372137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-14</Date>
+    <Open>0.37223</Open>
+    <High>0.411662</High>
+    <Low>0.371348</Low>
+    <Close>0.39722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-15</Date>
+    <Open>0.39782</Open>
+    <High>0.444138</High>
+    <Low>0.389874</Low>
+    <Close>0.409223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-16</Date>
+    <Open>0.408723</Open>
+    <High>0.416658</High>
+    <Low>0.383727</Low>
+    <Close>0.396408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-17</Date>
+    <Open>0.396108</Open>
+    <High>0.413754</High>
+    <Low>0.391786</Low>
+    <Close>0.405345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-18</Date>
+    <Open>0.405345</Open>
+    <High>0.422334</High>
+    <Low>0.375989</Low>
+    <Close>0.381777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-19</Date>
+    <Open>0.381681</Open>
+    <High>0.393588</High>
+    <Low>0.3778</Low>
+    <Close>0.392984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-20</Date>
+    <Open>0.392924</Open>
+    <High>0.415287</High>
+    <Low>0.388592</Low>
+    <Close>0.410074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-21</Date>
+    <Open>0.410374</Open>
+    <High>0.446749</High>
+    <Low>0.409982</Low>
+    <Close>0.433669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-22</Date>
+    <Open>0.432869</Open>
+    <High>0.476295</High>
+    <Low>0.419584</Low>
+    <Close>0.447785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-23</Date>
+    <Open>0.446789</Open>
+    <High>0.511751</High>
+    <Low>0.446789</Low>
+    <Close>0.481072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-24</Date>
+    <Open>0.480877</Open>
+    <High>0.486283</High>
+    <Low>0.445771</Low>
+    <Close>0.449113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-25</Date>
+    <Open>0.449013</Open>
+    <High>0.482092</High>
+    <Low>0.437079</Low>
+    <Close>0.454773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-26</Date>
+    <Open>0.455377</Open>
+    <High>0.478743</High>
+    <Low>0.455377</Low>
+    <Close>0.478438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-27</Date>
+    <Open>0.478838</Open>
+    <High>0.490193</High>
+    <Low>0.463942</Low>
+    <Close>0.480235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-28</Date>
+    <Open>0.480563</Open>
+    <High>0.489727</High>
+    <Low>0.456982</Low>
+    <Close>0.458492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-29</Date>
+    <Open>0.458392</Open>
+    <High>0.482824</High>
+    <Low>0.45641</Low>
+    <Close>0.482824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-30</Date>
+    <Open>0.483024</Open>
+    <High>0.48591</High>
+    <Low>0.4282</Low>
+    <Close>0.43573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-01-31</Date>
+    <Open>0.43573</Open>
+    <High>0.449722</High>
+    <Low>0.43377</Low>
+    <Close>0.44454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-01</Date>
+    <Open>0.444227</Open>
+    <High>0.465042</High>
+    <Low>0.423308</Low>
+    <Close>0.461328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-02</Date>
+    <Open>0.461723</Open>
+    <High>0.492249</High>
+    <Low>0.459564</Low>
+    <Close>0.464884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-03</Date>
+    <Open>0.464893</Open>
+    <High>0.505471</High>
+    <Low>0.457473</Low>
+    <Close>0.493739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-04</Date>
+    <Open>0.493644</Open>
+    <High>0.495245</High>
+    <Low>0.475824</Low>
+    <Close>0.485339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-05</Date>
+    <Open>0.485444</Open>
+    <High>0.493399</High>
+    <Low>0.449421</Low>
+    <Close>0.459515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-06</Date>
+    <Open>0.459519</Open>
+    <High>0.468517</High>
+    <Low>0.448745</Low>
+    <Close>0.457218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-07</Date>
+    <Open>0.456818</Open>
+    <High>0.483719</High>
+    <Low>0.450132</Low>
+    <Close>0.481929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-08</Date>
+    <Open>0.483124</Open>
+    <High>0.544495</High>
+    <Low>0.479714</Low>
+    <Close>0.50294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-09</Date>
+    <Open>0.502535</Open>
+    <High>0.557911</High>
+    <Low>0.440088</Low>
+    <Close>0.440844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-10</Date>
+    <Open>0.44134</Open>
+    <High>0.465007</High>
+    <Low>0.439344</Low>
+    <Close>0.444167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-11</Date>
+    <Open>0.442966</Open>
+    <High>0.451336</High>
+    <Low>0.440348</Low>
+    <Close>0.44804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-12</Date>
+    <Open>0.44814</Open>
+    <High>0.456209</High>
+    <Low>0.430365</Low>
+    <Close>0.434126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-13</Date>
+    <Open>0.433043</Open>
+    <High>0.434839</High>
+    <Low>0.399792</Low>
+    <Close>0.410922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-14</Date>
+    <Open>0.410626</Open>
+    <High>0.453877</High>
+    <Low>0.4005</Low>
+    <Close>0.44737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-15</Date>
+    <Open>0.44761</Open>
+    <High>0.475986</High>
+    <Low>0.435526</Low>
+    <Close>0.467884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-16</Date>
+    <Open>0.468675</Open>
+    <High>0.479743</High>
+    <Low>0.433952</Low>
+    <Close>0.43654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-17</Date>
+    <Open>0.436561</Open>
+    <High>0.496995</High>
+    <Low>0.425251</Low>
+    <Close>0.473943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-18</Date>
+    <Open>0.474147</Open>
+    <High>0.522199</High>
+    <Low>0.469747</Low>
+    <Close>0.50258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-19</Date>
+    <Open>0.50248</Open>
+    <High>0.535286</High>
+    <Low>0.488737</Low>
+    <Close>0.504116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-20</Date>
+    <Open>0.503316</Open>
+    <High>0.570857</High>
+    <Low>0.484845</Low>
+    <Close>0.548722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-21</Date>
+    <Open>0.548022</Open>
+    <High>0.550555</High>
+    <Low>0.490979</Low>
+    <Close>0.499085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-22</Date>
+    <Open>0.49869</Open>
+    <High>0.509351</High>
+    <Low>0.463146</Low>
+    <Close>0.4942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-23</Date>
+    <Open>0.49461</Open>
+    <High>0.510346</High>
+    <Low>0.482792</Low>
+    <Close>0.492654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-24</Date>
+    <Open>0.492079</Open>
+    <High>0.501555</High>
+    <Low>0.448031</Low>
+    <Close>0.452595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-25</Date>
+    <Open>0.452695</Open>
+    <High>0.459346</High>
+    <Low>0.417079</Low>
+    <Close>0.433426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-26</Date>
+    <Open>0.43323</Open>
+    <High>0.464833</High>
+    <Low>0.43213</Low>
+    <Close>0.455446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-27</Date>
+    <Open>0.45605</Open>
+    <High>0.463614</High>
+    <Low>0.434522</Low>
+    <Close>0.444327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-02-28</Date>
+    <Open>0.444127</Open>
+    <High>0.448613</High>
+    <Low>0.421638</Low>
+    <Close>0.425089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-01</Date>
+    <Open>0.425989</Open>
+    <High>0.44244</High>
+    <Low>0.422459</Low>
+    <Close>0.429756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-02</Date>
+    <Open>0.430465</Open>
+    <High>0.436052</High>
+    <Low>0.416483</Low>
+    <Close>0.434039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-03</Date>
+    <Open>0.434539</Open>
+    <High>0.435831</High>
+    <Low>0.401852</Low>
+    <Close>0.410429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-04</Date>
+    <Open>0.411229</Open>
+    <High>0.412033</High>
+    <Low>0.39502</Low>
+    <Close>0.402432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-05</Date>
+    <Open>0.403132</Open>
+    <High>0.417638</High>
+    <Low>0.402528</Low>
+    <Close>0.407545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-06</Date>
+    <Open>0.407745</Open>
+    <High>0.409404</High>
+    <Low>0.396428</Low>
+    <Close>0.402876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-07</Date>
+    <Open>0.40256</Open>
+    <High>0.405996</High>
+    <Low>0.382446</Low>
+    <Close>0.39048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-08</Date>
+    <Open>0.39028</Open>
+    <High>0.395496</High>
+    <Low>0.378781</Low>
+    <Close>0.380981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-09</Date>
+    <Open>0.382739</Open>
+    <High>0.388126</High>
+    <Low>0.359921</Low>
+    <Close>0.366737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-10</Date>
+    <Open>0.365433</Open>
+    <High>0.370426</High>
+    <Low>0.335773</Low>
+    <Close>0.356683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-11</Date>
+    <Open>0.356081</Open>
+    <High>0.372512</High>
+    <Low>0.340944</Low>
+    <Close>0.352981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-12</Date>
+    <Open>0.353153</Open>
+    <High>0.373603</High>
+    <Low>0.348001</Low>
+    <Close>0.37009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-13</Date>
+    <Open>0.37119</Open>
+    <High>0.415442</High>
+    <Low>0.370567</Low>
+    <Close>0.406817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-14</Date>
+    <Open>0.407315</Open>
+    <High>0.442675</High>
+    <Low>0.391771</Low>
+    <Close>0.424712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-15</Date>
+    <Open>0.424806</Open>
+    <High>0.433198</High>
+    <Low>0.40165</Low>
+    <Close>0.40873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-16</Date>
+    <Open>0.408191</Open>
+    <High>0.410673</High>
+    <Low>0.388188</Low>
+    <Close>0.399452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-17</Date>
+    <Open>0.397973</Open>
+    <High>0.425141</High>
+    <Low>0.394963</Low>
+    <Close>0.423567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-18</Date>
+    <Open>0.424265</Open>
+    <High>0.445834</High>
+    <Low>0.415118</Low>
+    <Close>0.416361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-19</Date>
+    <Open>0.416446</Open>
+    <High>0.435302</High>
+    <Low>0.410117</Low>
+    <Close>0.425167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-20</Date>
+    <Open>0.425272</Open>
+    <High>0.43047</High>
+    <Low>0.389084</Low>
+    <Close>0.394226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-21</Date>
+    <Open>0.393937</Open>
+    <High>0.401986</High>
+    <Low>0.381823</Low>
+    <Close>0.397267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-22</Date>
+    <Open>0.397665</Open>
+    <High>0.401252</High>
+    <Low>0.365282</Low>
+    <Close>0.376922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-23</Date>
+    <Open>0.380139</Open>
+    <High>0.398379</High>
+    <Low>0.375757</Low>
+    <Close>0.391856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-24</Date>
+    <Open>0.392222</Open>
+    <High>0.393802</High>
+    <Low>0.373503</Low>
+    <Close>0.376487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-25</Date>
+    <Open>0.376925</Open>
+    <High>0.379566</High>
+    <Low>0.365112</Low>
+    <Close>0.367856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-26</Date>
+    <Open>0.367556</Open>
+    <High>0.381139</High>
+    <Low>0.367256</Low>
+    <Close>0.377526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-27</Date>
+    <Open>0.377515</Open>
+    <High>0.382425</High>
+    <Low>0.356339</Low>
+    <Close>0.36267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-28</Date>
+    <Open>0.36267</Open>
+    <High>0.364498</High>
+    <Low>0.350891</Low>
+    <Close>0.35904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-29</Date>
+    <Open>0.35944</Open>
+    <High>0.376694</High>
+    <Low>0.35914</Low>
+    <Close>0.375168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-30</Date>
+    <Open>0.375471</Open>
+    <High>0.379876</High>
+    <Low>0.359436</Low>
+    <Close>0.365402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-03-31</Date>
+    <Open>0.365099</Open>
+    <High>0.3834</High>
+    <Low>0.362105</Low>
+    <Close>0.38268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-01</Date>
+    <Open>0.382176</Open>
+    <High>0.386635</High>
+    <Low>0.375094</Low>
+    <Close>0.37774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-02</Date>
+    <Open>0.378436</Open>
+    <High>0.385862</High>
+    <Low>0.366553</Low>
+    <Close>0.368532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-03</Date>
+    <Open>0.368829</Open>
+    <High>0.380253</High>
+    <Low>0.361172</Low>
+    <Close>0.369344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-04</Date>
+    <Open>0.369644</Open>
+    <High>0.389671</High>
+    <Low>0.369644</Low>
+    <Close>0.387694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-05</Date>
+    <Open>0.387994</Open>
+    <High>0.391625</High>
+    <Low>0.380114</Low>
+    <Close>0.390441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-06</Date>
+    <Open>0.390344</Open>
+    <High>0.39178</High>
+    <Low>0.377232</Low>
+    <Close>0.380233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-07</Date>
+    <Open>0.379837</Open>
+    <High>0.382191</High>
+    <Low>0.369106</Low>
+    <Close>0.371378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-08</Date>
+    <Open>0.370778</Open>
+    <High>0.376073</High>
+    <Low>0.368925</Low>
+    <Close>0.369544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-09</Date>
+    <Open>0.369644</Open>
+    <High>0.375536</High>
+    <Low>0.364715</Low>
+    <Close>0.37265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-10</Date>
+    <Open>0.373157</Open>
+    <High>0.377541</High>
+    <Low>0.368125</Low>
+    <Close>0.376597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-11</Date>
+    <Open>0.377009</Open>
+    <High>0.383687</High>
+    <Low>0.375323</Low>
+    <Close>0.379275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-12</Date>
+    <Open>0.379275</Open>
+    <High>0.385185</High>
+    <Low>0.368112</Low>
+    <Close>0.376994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-13</Date>
+    <Open>0.376493</Open>
+    <High>0.394514</High>
+    <Low>0.375426</Low>
+    <Close>0.388773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-14</Date>
+    <Open>0.389073</Open>
+    <High>0.402843</High>
+    <Low>0.380369</Low>
+    <Close>0.390424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-15</Date>
+    <Open>0.39052</Open>
+    <High>0.41358</High>
+    <Low>0.38286</Low>
+    <Close>0.403963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-16</Date>
+    <Open>0.404059</Open>
+    <High>0.411929</High>
+    <Low>0.399739</Low>
+    <Close>0.409678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-17</Date>
+    <Open>0.409478</Open>
+    <High>0.413397</High>
+    <Low>0.390832</Low>
+    <Close>0.401137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-18</Date>
+    <Open>0.401141</Open>
+    <High>0.409206</High>
+    <Low>0.394473</Low>
+    <Close>0.404585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-19</Date>
+    <Open>0.404861</Open>
+    <High>0.406502</High>
+    <Low>0.367587</Low>
+    <Close>0.371004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-20</Date>
+    <Open>0.3711</Open>
+    <High>0.372212</High>
+    <Low>0.349337</Low>
+    <Close>0.352735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-21</Date>
+    <Open>0.352621</Open>
+    <High>0.397668</High>
+    <Low>0.338736</Low>
+    <Close>0.380258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-22</Date>
+    <Open>0.380058</Open>
+    <High>0.381811</High>
+    <Low>0.356714</Low>
+    <Close>0.368437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-23</Date>
+    <Open>0.368733</Open>
+    <High>0.369937</High>
+    <Low>0.352978</Low>
+    <Close>0.357918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-24</Date>
+    <Open>0.357714</Open>
+    <High>0.363896</High>
+    <Low>0.349266</Low>
+    <Close>0.354707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-25</Date>
+    <Open>0.354796</Open>
+    <High>0.360969</High>
+    <Low>0.346321</Low>
+    <Close>0.360783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-26</Date>
+    <Open>0.360883</Open>
+    <High>0.36877</High>
+    <Low>0.341344</Low>
+    <Close>0.353413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-27</Date>
+    <Open>0.352513</Open>
+    <High>0.359243</High>
+    <Low>0.349554</Low>
+    <Close>0.356432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-28</Date>
+    <Open>0.356514</Open>
+    <High>0.356621</High>
+    <Low>0.345473</Low>
+    <Close>0.351681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-29</Date>
+    <Open>0.35166</Open>
+    <High>0.357025</High>
+    <Low>0.349451</Low>
+    <Close>0.355209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-04-30</Date>
+    <Open>0.355209</Open>
+    <High>0.356446</High>
+    <Low>0.343903</Low>
+    <Close>0.346197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-01</Date>
+    <Open>0.346094</Open>
+    <High>0.350368</High>
+    <Low>0.327933</Low>
+    <Close>0.331286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-02</Date>
+    <Open>0.331193</Open>
+    <High>0.335698</High>
+    <Low>0.329356</Low>
+    <Close>0.334004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-03</Date>
+    <Open>0.333803</Open>
+    <High>0.33469</High>
+    <Low>0.32402</Low>
+    <Close>0.33419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-04</Date>
+    <Open>0.33468</Open>
+    <High>0.335904</High>
+    <Low>0.326621</Low>
+    <Close>0.326821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-05</Date>
+    <Open>0.326818</Open>
+    <High>0.33853</High>
+    <Low>0.326143</Low>
+    <Close>0.334004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-06</Date>
+    <Open>0.333807</Open>
+    <High>0.335131</High>
+    <Low>0.3171</Low>
+    <Close>0.321562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-07</Date>
+    <Open>0.321061</Open>
+    <High>0.324531</High>
+    <Low>0.317626</Low>
+    <Close>0.32278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-08</Date>
+    <Open>0.32258</Open>
+    <High>0.324082</High>
+    <Low>0.287498</Low>
+    <Close>0.293626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-09</Date>
+    <Open>0.293723</Open>
+    <High>0.29709</High>
+    <Low>0.290519</Low>
+    <Close>0.294294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-10</Date>
+    <Open>0.294494</Open>
+    <High>0.303333</High>
+    <Low>0.288817</Low>
+    <Close>0.294895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-11</Date>
+    <Open>0.295265</Open>
+    <High>0.296596</High>
+    <Low>0.277049</Low>
+    <Close>0.281481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-12</Date>
+    <Open>0.281581</Open>
+    <High>0.288053</High>
+    <Low>0.273947</Low>
+    <Close>0.2879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-13</Date>
+    <Open>0.28793</Open>
+    <High>0.291455</High>
+    <Low>0.286643</Low>
+    <Close>0.289754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-14</Date>
+    <Open>0.289674</Open>
+    <High>0.295497</High>
+    <Low>0.289023</Low>
+    <Close>0.293076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-15</Date>
+    <Open>0.293276</Open>
+    <High>0.297708</High>
+    <Low>0.291404</Low>
+    <Close>0.292004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-16</Date>
+    <Open>0.292173</Open>
+    <High>0.295318</High>
+    <Low>0.286715</Low>
+    <Close>0.289445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-17</Date>
+    <Open>0.289745</Open>
+    <High>0.294147</High>
+    <Low>0.283113</Low>
+    <Close>0.292746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-18</Date>
+    <Open>0.292546</Open>
+    <High>0.294218</High>
+    <Low>0.280584</Low>
+    <Close>0.285914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-19</Date>
+    <Open>0.286014</Open>
+    <High>0.290145</High>
+    <Low>0.28187</Low>
+    <Close>0.283882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-20</Date>
+    <Open>0.283642</Open>
+    <High>0.286558</High>
+    <Low>0.281669</Low>
+    <Close>0.284156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-21</Date>
+    <Open>0.284456</Open>
+    <High>0.285228</High>
+    <Low>0.278667</Low>
+    <Close>0.280068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-22</Date>
+    <Open>0.27994</Open>
+    <High>0.28347</High>
+    <Low>0.277439</Low>
+    <Close>0.281169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-23</Date>
+    <Open>0.280464</Open>
+    <High>0.287432</High>
+    <Low>0.27985</Low>
+    <Close>0.283817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-24</Date>
+    <Open>0.28322</Open>
+    <High>0.283728</High>
+    <Low>0.269403</Low>
+    <Close>0.270884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-25</Date>
+    <Open>0.270884</Open>
+    <High>0.272073</High>
+    <Low>0.265195</Low>
+    <Close>0.269508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-26</Date>
+    <Open>0.269808</Open>
+    <High>0.273801</High>
+    <Low>0.267921</Low>
+    <Close>0.27366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-27</Date>
+    <Open>0.273555</Open>
+    <High>0.278484</High>
+    <Low>0.271779</Low>
+    <Close>0.276202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GLMR">
+    <Date>2023-05-28</Date>
+    <Open>0.276383</Open>
+    <High>0.286663</High>
+    <Low>0.276183</Low>
+    <Close>0.285363</Close>
+  </Cryptocurrency>
+</Root>

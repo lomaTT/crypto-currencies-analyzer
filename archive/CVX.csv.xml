@@ -1,0 +1,3419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-01-27</Date>
+    <Open>27.381</Open>
+    <High>27.4537</High>
+    <Low>21.7087</Low>
+    <Close>22.6813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-01-28</Date>
+    <Open>22.6691</Open>
+    <High>24.9975</High>
+    <Low>22.0766</Low>
+    <Close>24.2773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-01-29</Date>
+    <Open>24.2949</Open>
+    <High>28.2285</High>
+    <Low>24.2549</Low>
+    <Close>27.2882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-01-30</Date>
+    <Open>27.2882</Open>
+    <High>29.0187</High>
+    <Low>25.1875</Low>
+    <Close>26.1478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-01-31</Date>
+    <Open>26.1505</Open>
+    <High>27.5338</High>
+    <Low>25.3026</Low>
+    <Close>27.0762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-01</Date>
+    <Open>27.0735</Open>
+    <High>29.5748</High>
+    <Low>26.4959</Low>
+    <Close>27.6766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-02</Date>
+    <Open>27.7366</Open>
+    <High>29.2146</High>
+    <Low>26.023</Low>
+    <Close>26.6013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-03</Date>
+    <Open>26.6039</Open>
+    <High>26.8188</High>
+    <Low>23.8219</Low>
+    <Close>26.053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-04</Date>
+    <Open>26.023</Open>
+    <High>29.955</High>
+    <Low>25.5753</Low>
+    <Close>28.0925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-05</Date>
+    <Open>28.1097</Open>
+    <High>29.0703</High>
+    <Low>27.8895</Low>
+    <Close>28.7301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-06</Date>
+    <Open>28.8673</Open>
+    <High>28.8702</High>
+    <Low>25.4827</Low>
+    <Close>25.9304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-07</Date>
+    <Open>25.913</Open>
+    <High>28.2654</High>
+    <Low>25.8429</Low>
+    <Close>27.5693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-08</Date>
+    <Open>27.5993</Open>
+    <High>28.9102</High>
+    <Low>26.4638</Low>
+    <Close>27.6348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-09</Date>
+    <Open>27.6449</Open>
+    <High>30.7777</High>
+    <Low>27.6449</Low>
+    <Close>30.1731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-10</Date>
+    <Open>30.1902</Open>
+    <High>30.7546</High>
+    <Low>26.3785</Low>
+    <Close>27.199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-11</Date>
+    <Open>27.0695</Open>
+    <High>27.1983</High>
+    <Low>24.1072</Low>
+    <Close>24.1096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-12</Date>
+    <Open>24.4271</Open>
+    <High>25.8429</High>
+    <Low>24.0644</Low>
+    <Close>25.7629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-13</Date>
+    <Open>25.8629</Open>
+    <High>28.317</High>
+    <Low>25.1025</Low>
+    <Close>25.2726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-14</Date>
+    <Open>25.2952</Open>
+    <High>26.2958</High>
+    <Low>24.7548</Low>
+    <Close>26.0656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-15</Date>
+    <Open>26.1157</Open>
+    <High>28.9373</High>
+    <Low>25.9029</Low>
+    <Close>28.417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-16</Date>
+    <Open>28.4871</Open>
+    <High>30.041</High>
+    <Low>27.9167</Low>
+    <Close>29.5477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-17</Date>
+    <Open>29.5077</Open>
+    <High>29.5977</High>
+    <Low>26.5359</Low>
+    <Close>26.6686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-18</Date>
+    <Open>26.6486</Open>
+    <High>28.2798</High>
+    <Low>25.9582</Low>
+    <Close>26.0056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-19</Date>
+    <Open>26.0056</Open>
+    <High>26.8561</High>
+    <Low>25.0125</Low>
+    <Close>25.3227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-20</Date>
+    <Open>25.2701</Open>
+    <High>25.4212</High>
+    <Low>22.5193</Low>
+    <Close>23.0885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-21</Date>
+    <Open>23.0885</Open>
+    <High>24.073</High>
+    <Low>21.5886</Low>
+    <Close>22.2389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-22</Date>
+    <Open>22.2211</Open>
+    <High>22.4312</High>
+    <Low>19.8579</Low>
+    <Close>20.7704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-23</Date>
+    <Open>20.8125</Open>
+    <High>22.0732</High>
+    <Low>20.4202</Low>
+    <Close>20.6624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-24</Date>
+    <Open>20.6724</Open>
+    <High>20.7324</High>
+    <Low>16.1781</Low>
+    <Close>18.6074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-25</Date>
+    <Open>18.5156</Open>
+    <High>20.3561</High>
+    <Low>18.5056</Low>
+    <Close>19.6398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-26</Date>
+    <Open>19.6598</Open>
+    <High>21.2485</High>
+    <Low>19.6598</Low>
+    <Close>20.1801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-27</Date>
+    <Open>20.1681</Open>
+    <High>20.1681</High>
+    <Low>17.6371</Low>
+    <Close>17.6588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-02-28</Date>
+    <Open>17.6591</Open>
+    <High>25.9015</High>
+    <Low>16.2167</Low>
+    <Close>19.5966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-01</Date>
+    <Open>19.6879</Open>
+    <High>20.0</High>
+    <Low>18.2727</Low>
+    <Close>18.8156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-02</Date>
+    <Open>18.6826</Open>
+    <High>32.1701</High>
+    <Low>18.634</Low>
+    <Close>21.2273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-03</Date>
+    <Open>21.2264</Open>
+    <High>22.1066</High>
+    <Low>19.4939</Low>
+    <Close>19.876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-04</Date>
+    <Open>19.8702</Open>
+    <High>19.9496</High>
+    <Low>15.4792</Low>
+    <Close>17.8263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-05</Date>
+    <Open>18.0254</Open>
+    <High>18.1054</High>
+    <Low>16.4633</Low>
+    <Close>17.5353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-06</Date>
+    <Open>17.5053</Open>
+    <High>18.2055</High>
+    <Low>17.0034</Low>
+    <Close>17.1651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-07</Date>
+    <Open>17.3052</Open>
+    <High>17.3052</High>
+    <Low>15.1145</Low>
+    <Close>15.6247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-08</Date>
+    <Open>15.6031</Open>
+    <High>16.2016</High>
+    <Low>15.4346</Low>
+    <Close>15.8532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-09</Date>
+    <Open>15.8632</Open>
+    <High>17.4335</High>
+    <Low>15.8432</Low>
+    <Close>16.9717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-10</Date>
+    <Open>16.9634</Open>
+    <High>17.1417</High>
+    <Low>15.8263</Low>
+    <Close>16.1264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-11</Date>
+    <Open>16.2165</Open>
+    <High>16.9051</High>
+    <Low>15.9032</Low>
+    <Close>16.1132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-12</Date>
+    <Open>16.1132</Open>
+    <High>16.7917</High>
+    <Low>16.0116</Low>
+    <Close>16.4416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-13</Date>
+    <Open>16.4449</Open>
+    <High>16.5149</High>
+    <Low>15.7832</Low>
+    <Close>15.8547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-14</Date>
+    <Open>15.8463</Open>
+    <High>16.2533</High>
+    <Low>15.2615</Low>
+    <Close>16.0532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-15</Date>
+    <Open>16.0632</Open>
+    <High>18.4455</High>
+    <Low>15.7331</Low>
+    <Close>17.3635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-16</Date>
+    <Open>17.3635</Open>
+    <High>20.7262</High>
+    <Low>17.2535</Low>
+    <Close>18.2855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-17</Date>
+    <Open>18.2755</Open>
+    <High>19.4258</High>
+    <Low>18.0854</Low>
+    <Close>18.5973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-18</Date>
+    <Open>18.6525</Open>
+    <High>20.7825</High>
+    <Low>18.3473</Low>
+    <Close>19.8479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-19</Date>
+    <Open>19.7658</Open>
+    <High>20.3122</High>
+    <Low>19.4278</Low>
+    <Close>19.5478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-20</Date>
+    <Open>19.5678</Open>
+    <High>19.7799</High>
+    <Low>18.0172</Low>
+    <Close>19.1376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-21</Date>
+    <Open>19.0595</Open>
+    <High>21.8487</High>
+    <Low>18.7775</Low>
+    <Close>20.4602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-22</Date>
+    <Open>20.4282</Open>
+    <High>21.0705</High>
+    <Low>20.058</Low>
+    <Close>20.8804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-23</Date>
+    <Open>20.8804</Open>
+    <High>21.5708</High>
+    <Low>20.1881</Low>
+    <Close>20.8704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-24</Date>
+    <Open>20.8904</Open>
+    <High>23.8119</High>
+    <Low>20.8783</Low>
+    <Close>22.9892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-25</Date>
+    <Open>23.0192</Open>
+    <High>25.7803</High>
+    <Low>22.8691</Low>
+    <Close>24.1096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-26</Date>
+    <Open>24.1096</Open>
+    <High>28.2341</High>
+    <Low>23.972</Low>
+    <Close>27.521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-27</Date>
+    <Open>27.481</Open>
+    <High>32.543</High>
+    <Low>27.471</Low>
+    <Close>30.8523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-28</Date>
+    <Open>30.8423</Open>
+    <High>32.1193</High>
+    <Low>29.5118</Low>
+    <Close>30.8323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-29</Date>
+    <Open>30.8754</Open>
+    <High>32.1228</High>
+    <Low>28.7115</Low>
+    <Close>28.8744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-30</Date>
+    <Open>28.8544</Open>
+    <High>30.8593</High>
+    <Low>28.5914</Low>
+    <Close>29.906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-03-31</Date>
+    <Open>29.856</Open>
+    <High>31.4563</High>
+    <Low>28.4357</Low>
+    <Close>28.8558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-01</Date>
+    <Open>28.8386</Open>
+    <High>31.9828</High>
+    <Low>27.9084</Low>
+    <Close>30.059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-02</Date>
+    <Open>30.046</Open>
+    <High>35.2006</High>
+    <Low>29.7289</Low>
+    <Close>33.1833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-03</Date>
+    <Open>33.2</Open>
+    <High>37.6213</High>
+    <Low>32.553</Low>
+    <Close>36.3509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-04</Date>
+    <Open>36.4746</Open>
+    <High>39.8859</High>
+    <Low>35.2806</Low>
+    <Close>36.9811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-05</Date>
+    <Open>36.9474</Open>
+    <High>38.6116</High>
+    <Low>36.0636</Low>
+    <Close>36.3836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-06</Date>
+    <Open>36.3873</Open>
+    <High>36.5873</High>
+    <Low>33.77</Low>
+    <Close>34.4734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-07</Date>
+    <Open>34.4635</Open>
+    <High>34.6935</High>
+    <Low>33.5533</Low>
+    <Close>34.2434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-08</Date>
+    <Open>34.2534</Open>
+    <High>36.1672</High>
+    <Low>34.1034</Low>
+    <Close>34.984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-09</Date>
+    <Open>35.004</Open>
+    <High>35.1441</High>
+    <Low>34.1702</Low>
+    <Close>34.6204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-10</Date>
+    <Open>34.6204</Open>
+    <High>35.9608</High>
+    <Low>34.4503</Low>
+    <Close>35.087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-11</Date>
+    <Open>35.107</Open>
+    <High>35.137</High>
+    <Low>29.5689</Low>
+    <Close>29.5689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-12</Date>
+    <Open>29.5759</Open>
+    <High>30.5361</High>
+    <Low>28.3457</Low>
+    <Close>28.5986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-13</Date>
+    <Open>28.5986</Open>
+    <High>29.989</High>
+    <Low>28.2056</Low>
+    <Close>29.7189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-14</Date>
+    <Open>29.7489</Open>
+    <High>30.2961</High>
+    <Low>28.0056</Low>
+    <Close>28.4228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-15</Date>
+    <Open>28.4057</Open>
+    <High>28.7558</High>
+    <Low>28.0456</Low>
+    <Close>28.5857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-16</Date>
+    <Open>28.6257</Open>
+    <High>28.6377</High>
+    <Low>27.9256</Low>
+    <Close>28.0256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-17</Date>
+    <Open>28.0328</Open>
+    <High>28.2857</High>
+    <Low>26.9654</Low>
+    <Close>27.0954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-18</Date>
+    <Open>27.0754</Open>
+    <High>28.5686</High>
+    <Low>25.2851</Low>
+    <Close>28.0584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-19</Date>
+    <Open>28.0584</Open>
+    <High>29.3588</High>
+    <Low>27.3155</Low>
+    <Close>28.1856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-20</Date>
+    <Open>28.2156</Open>
+    <High>29.806</High>
+    <Low>27.7856</Low>
+    <Close>29.5559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-21</Date>
+    <Open>29.5559</Open>
+    <High>30.4861</High>
+    <Low>28.1656</Low>
+    <Close>28.9258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-22</Date>
+    <Open>28.9029</Open>
+    <High>28.9529</High>
+    <Low>23.4047</Low>
+    <Close>25.9026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-23</Date>
+    <Open>25.8352</Open>
+    <High>26.3453</High>
+    <Low>25.4351</Low>
+    <Close>25.6651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-24</Date>
+    <Open>25.7852</Open>
+    <High>26.1252</High>
+    <Low>25.3151</Low>
+    <Close>25.6251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-25</Date>
+    <Open>25.6351</Open>
+    <High>26.2453</High>
+    <Low>24.1648</Low>
+    <Close>26.0052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-26</Date>
+    <Open>26.0352</Open>
+    <High>26.5853</High>
+    <Low>24.24</Low>
+    <Close>24.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-27</Date>
+    <Open>24.54</Open>
+    <High>27.6928</High>
+    <Low>24.13</Low>
+    <Close>27.1627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-28</Date>
+    <Open>27.2127</Open>
+    <High>27.9528</High>
+    <Low>26.48</Low>
+    <Close>27.0027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-29</Date>
+    <Open>26.9727</Open>
+    <High>27.0927</High>
+    <Low>25.0</Low>
+    <Close>25.0925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-04-30</Date>
+    <Open>25.0925</Open>
+    <High>25.1525</High>
+    <Low>23.51</Low>
+    <Close>23.5424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-01</Date>
+    <Open>23.51</Open>
+    <High>24.3624</High>
+    <Low>21.8822</Low>
+    <Close>22.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-02</Date>
+    <Open>22.62</Open>
+    <High>23.4223</High>
+    <Low>21.98</Low>
+    <Close>22.4622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-03</Date>
+    <Open>22.46</Open>
+    <High>23.6824</High>
+    <Low>22.0856</Low>
+    <Close>22.5378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-04</Date>
+    <Open>22.5255</Open>
+    <High>25.95</High>
+    <Low>22.2178</Low>
+    <Close>25.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-05</Date>
+    <Open>25.5749</Open>
+    <High>25.8423</High>
+    <Low>22.3155</Low>
+    <Close>23.2154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-06</Date>
+    <Open>23.2253</Open>
+    <High>23.4876</High>
+    <Low>21.7478</Low>
+    <Close>23.2477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-07</Date>
+    <Open>23.1777</Open>
+    <High>23.4277</High>
+    <Low>22.5655</Low>
+    <Close>22.5955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-08</Date>
+    <Open>22.5755</Open>
+    <High>23.0954</High>
+    <Low>20.6497</Low>
+    <Close>21.9834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-09</Date>
+    <Open>21.9734</Open>
+    <High>21.9734</High>
+    <Low>19.0543</Low>
+    <Close>19.5361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-10</Date>
+    <Open>19.2642</Open>
+    <High>22.1556</High>
+    <Low>18.4944</Low>
+    <Close>20.012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-11</Date>
+    <Open>20.062</Open>
+    <High>21.8191</High>
+    <Low>12.9553</Low>
+    <Close>14.1161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-12</Date>
+    <Open>14.1788</Open>
+    <High>15.0052</High>
+    <Low>9.66318</Low>
+    <Close>12.0997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-13</Date>
+    <Open>12.0562</Open>
+    <High>15.2832</High>
+    <Low>11.2695</Low>
+    <Close>13.0478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-14</Date>
+    <Open>13.0864</Open>
+    <High>13.1276</High>
+    <Low>10.7795</Low>
+    <Close>11.3241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-15</Date>
+    <Open>11.3541</Open>
+    <High>11.9932</High>
+    <Low>10.7838</Low>
+    <Close>11.8857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-16</Date>
+    <Open>11.9257</Open>
+    <High>12.1754</High>
+    <Low>10.6083</Low>
+    <Close>11.1255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-17</Date>
+    <Open>11.1155</Open>
+    <High>13.4811</High>
+    <Low>10.9846</Low>
+    <Close>12.2241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-18</Date>
+    <Open>12.304</Open>
+    <High>12.5549</High>
+    <Low>10.807</Low>
+    <Close>10.9657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-19</Date>
+    <Open>10.9857</Open>
+    <High>11.1555</High>
+    <Low>9.92907</Low>
+    <Close>10.2997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-20</Date>
+    <Open>10.3007</Open>
+    <High>10.6525</High>
+    <Low>9.75024</Low>
+    <Close>9.88812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-21</Date>
+    <Open>9.88812</Open>
+    <High>10.0769</High>
+    <Low>9.44676</Low>
+    <Close>9.47766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-22</Date>
+    <Open>9.46673</Open>
+    <High>10.4874</High>
+    <Low>9.41774</Low>
+    <Close>10.4075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-23</Date>
+    <Open>10.4075</Open>
+    <High>11.1788</High>
+    <Low>10.0779</Low>
+    <Close>10.2377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-24</Date>
+    <Open>10.2277</Open>
+    <High>10.5284</High>
+    <Low>9.86913</Low>
+    <Close>10.4364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-25</Date>
+    <Open>10.4364</Open>
+    <High>10.827</High>
+    <Low>10.2088</Low>
+    <Close>10.7282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-26</Date>
+    <Open>10.7271</Open>
+    <High>10.8081</High>
+    <Low>9.41868</Low>
+    <Close>9.87012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-27</Date>
+    <Open>9.87012</Open>
+    <High>9.91008</High>
+    <Low>9.17989</Low>
+    <Close>9.30975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-28</Date>
+    <Open>9.30938</Open>
+    <High>9.51952</High>
+    <Low>9.02879</Low>
+    <Close>9.28921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-29</Date>
+    <Open>9.25897</Open>
+    <High>9.80939</High>
+    <Low>9.1571</Low>
+    <Close>9.51952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-30</Date>
+    <Open>9.50934</Open>
+    <High>10.5326</High>
+    <Low>9.41963</Low>
+    <Close>10.4416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-05-31</Date>
+    <Open>10.4427</Open>
+    <High>10.8813</High>
+    <Low>10.1309</Low>
+    <Close>10.1918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-01</Date>
+    <Open>10.1922</Open>
+    <High>10.4026</High>
+    <Low>9.09998</Low>
+    <Close>9.2117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-02</Date>
+    <Open>9.19209</Open>
+    <High>9.34159</High>
+    <Low>8.60225</Low>
+    <Close>8.882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-03</Date>
+    <Open>8.85203</Open>
+    <High>8.97282</High>
+    <Low>8.23341</Low>
+    <Close>8.36272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-04</Date>
+    <Open>8.37271</Open>
+    <High>8.58175</High>
+    <Low>8.24134</Low>
+    <Close>8.45357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-05</Date>
+    <Open>8.47356</Open>
+    <High>8.66306</High>
+    <Low>8.26297</Low>
+    <Close>8.502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-06</Date>
+    <Open>8.50209</Open>
+    <High>8.9126</High>
+    <Low>8.36297</Low>
+    <Close>8.45289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-07</Date>
+    <Open>8.46322</Open>
+    <High>8.49295</High>
+    <Low>7.42354</Low>
+    <Close>7.87354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-08</Date>
+    <Open>7.89392</Open>
+    <High>7.92389</High>
+    <Low>7.43524</Low>
+    <Close>7.59506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-09</Date>
+    <Open>7.60505</Open>
+    <High>7.75496</High>
+    <Low>7.29452</Low>
+    <Close>7.50369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-10</Date>
+    <Open>7.48363</Open>
+    <High>7.5239</High>
+    <Low>6.2925</Low>
+    <Close>6.40186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-11</Date>
+    <Open>6.39181</Open>
+    <High>6.41281</High>
+    <Low>5.35335</Low>
+    <Close>5.51376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-12</Date>
+    <Open>5.5237</Open>
+    <High>5.65372</High>
+    <Low>4.96294</Low>
+    <Close>5.24354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-13</Date>
+    <Open>5.24354</Open>
+    <High>5.2436</High>
+    <Low>4.09328</Low>
+    <Close>4.1642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-14</Date>
+    <Open>4.16425</Open>
+    <High>4.17419</High>
+    <Low>3.64438</Low>
+    <Close>3.86536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-15</Date>
+    <Open>3.84534</Open>
+    <High>4.21515</High>
+    <Low>3.42317</Low>
+    <Close>4.08387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-16</Date>
+    <Open>4.13</Open>
+    <High>4.1725</High>
+    <Low>3.35</Low>
+    <Close>3.5325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-17</Date>
+    <Open>3.4482</Open>
+    <High>3.9175</High>
+    <Low>3.37527</Low>
+    <Close>3.60667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-18</Date>
+    <Open>3.6057</Open>
+    <High>3.66167</High>
+    <Low>3.10534</Low>
+    <Close>3.2647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-19</Date>
+    <Open>3.25472</Open>
+    <High>5.21374</High>
+    <Low>3.2447</Low>
+    <Close>4.08468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-20</Date>
+    <Open>4.0425</Open>
+    <High>4.545</High>
+    <Low>3.76</Low>
+    <Close>4.27486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-21</Date>
+    <Open>4.27529</Open>
+    <High>4.88511</High>
+    <Low>4.18539</Low>
+    <Close>4.45509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-22</Date>
+    <Open>4.45509</Open>
+    <High>4.47552</High>
+    <Low>4.11588</Low>
+    <Close>4.27572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-23</Date>
+    <Open>4.26573</Open>
+    <High>4.62537</High>
+    <Low>4.18539</Low>
+    <Close>4.37562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-24</Date>
+    <Open>4.37562</Open>
+    <High>5.04616</High>
+    <Low>4.37562</Low>
+    <Close>4.89618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-25</Date>
+    <Open>4.91508</Open>
+    <High>5.25474</High>
+    <Low>4.68672</Low>
+    <Close>4.90656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-26</Date>
+    <Open>4.90656</Open>
+    <High>5.46577</High>
+    <Low>4.46872</Low>
+    <Close>4.73711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-27</Date>
+    <Open>4.71722</Open>
+    <High>4.72721</High>
+    <Low>4.16612</Low>
+    <Close>4.31616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-28</Date>
+    <Open>4.31616</Open>
+    <High>4.3559</High>
+    <Low>3.89516</Low>
+    <Close>3.9451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-29</Date>
+    <Open>3.95509</Open>
+    <High>3.95509</High>
+    <Low>3.55502</Low>
+    <Close>3.61562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-06-30</Date>
+    <Open>3.60567</Open>
+    <High>4.72432</High>
+    <Low>3.50579</Low>
+    <Close>4.23491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-01</Date>
+    <Open>4.23491</Open>
+    <High>4.83468</High>
+    <Low>3.85498</Low>
+    <Close>4.13545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-02</Date>
+    <Open>4.13545</Open>
+    <High>4.22535</High>
+    <Low>3.86297</Low>
+    <Close>3.97822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-03</Date>
+    <Open>3.97622</Open>
+    <High>4.26345</High>
+    <Low>3.89094</Low>
+    <Close>4.11065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-04</Date>
+    <Open>4.10466</Open>
+    <High>4.43867</High>
+    <Low>4.00479</Low>
+    <Close>4.41669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-05</Date>
+    <Open>4.38473</Open>
+    <High>6.47287</High>
+    <Low>4.34478</Low>
+    <Close>5.95344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-06</Date>
+    <Open>5.97342</Open>
+    <High>6.1732</High>
+    <Low>5.50339</Low>
+    <Close>5.88352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-07</Date>
+    <Open>5.89351</Open>
+    <High>6.45289</High>
+    <Low>5.68374</Low>
+    <Close>6.1563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-08</Date>
+    <Open>6.1663</Open>
+    <High>6.1663</High>
+    <Low>5.55611</Low>
+    <Close>5.8265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-09</Date>
+    <Open>5.83591</Open>
+    <High>6.89517</High>
+    <Low>5.80651</Low>
+    <Close>6.55606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-10</Date>
+    <Open>6.54541</Open>
+    <High>6.71597</High>
+    <Low>5.86589</Low>
+    <Close>5.95642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-11</Date>
+    <Open>5.93644</Open>
+    <High>5.93644</High>
+    <Low>5.50449</Low>
+    <Close>5.50504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-12</Date>
+    <Open>5.50504</Open>
+    <High>5.56443</High>
+    <Low>5.14485</Low>
+    <Close>5.15484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-13</Date>
+    <Open>5.17498</Open>
+    <High>6.2937</High>
+    <Low>5.10458</Low>
+    <Close>6.15446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-14</Date>
+    <Open>6.17444</Open>
+    <High>6.63602</High>
+    <Low>5.65547</Low>
+    <Close>6.22626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-15</Date>
+    <Open>6.22626</Open>
+    <High>6.9965</High>
+    <Low>6.1563</Low>
+    <Close>6.73798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-16</Date>
+    <Open>6.74798</Open>
+    <High>6.78796</High>
+    <Low>5.96821</Low>
+    <Close>6.36809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-17</Date>
+    <Open>6.38834</Open>
+    <High>6.56882</High>
+    <Low>6.14877</Low>
+    <Close>6.36834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-18</Date>
+    <Open>6.38834</Open>
+    <High>7.88984</High>
+    <Low>6.18783</Low>
+    <Close>7.30832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-19</Date>
+    <Open>7.30832</Open>
+    <High>7.86835</High>
+    <Low>7.0905</Low>
+    <Close>7.63122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-20</Date>
+    <Open>7.65</Open>
+    <High>7.83204</High>
+    <Low>7.18942</Low>
+    <Close>7.38037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-21</Date>
+    <Open>7.38044</Open>
+    <High>7.83157</High>
+    <Low>6.8298</Low>
+    <Close>7.78195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-22</Date>
+    <Open>7.79187</Open>
+    <High>8.32225</High>
+    <Low>7.58068</Low>
+    <Close>7.65168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-23</Date>
+    <Open>7.69</Open>
+    <High>8.69078</High>
+    <Low>7.39926</Low>
+    <Close>7.56144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-24</Date>
+    <Open>7.56144</Open>
+    <High>8.13081</High>
+    <Low>7.53105</Low>
+    <Close>7.82149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-25</Date>
+    <Open>7.81148</Open>
+    <High>7.84157</High>
+    <Low>6.66073</Low>
+    <Close>6.97056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-26</Date>
+    <Open>6.93069</Open>
+    <High>6.93076</High>
+    <Low>5.75023</Low>
+    <Close>5.83082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-27</Date>
+    <Open>5.83</Open>
+    <High>7.17179</High>
+    <Low>5.82081</Low>
+    <Close>7.0717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-28</Date>
+    <Open>7.0917</Open>
+    <High>8.24058</High>
+    <Low>6.76074</Low>
+    <Close>7.84157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-29</Date>
+    <Open>7.85165</Open>
+    <High>8.22197</High>
+    <Low>7.45216</Low>
+    <Close>7.70316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-30</Date>
+    <Open>7.70316</Open>
+    <High>7.92277</High>
+    <Low>7.40207</Low>
+    <Close>7.58258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-07-31</Date>
+    <Open>7.58258</Open>
+    <High>7.78124</High>
+    <Low>7.45164</Low>
+    <Close>7.54173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-01</Date>
+    <Open>7.50195</Open>
+    <High>7.55279</High>
+    <Low>7.05197</Low>
+    <Close>7.05211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-02</Date>
+    <Open>7.05211</Open>
+    <High>7.30285</High>
+    <Low>6.52202</Low>
+    <Close>6.88124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-03</Date>
+    <Open>6.91131</Open>
+    <High>7.10248</High>
+    <Low>6.57171</Low>
+    <Close>6.91173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-04</Date>
+    <Open>6.93159</Open>
+    <High>6.97153</High>
+    <Low>6.5872</Low>
+    <Close>6.6802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-05</Date>
+    <Open>6.6652</Open>
+    <High>7.30246</High>
+    <Low>6.60066</Low>
+    <Close>7.03334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-06</Date>
+    <Open>7.03141</Open>
+    <High>7.42052</High>
+    <Low>6.96805</Low>
+    <Close>7.09963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-07</Date>
+    <Open>7.12764</Open>
+    <High>7.13757</High>
+    <Low>6.84975</Low>
+    <Close>7.09228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-08</Date>
+    <Open>7.09428</Open>
+    <High>7.61645</High>
+    <Low>6.90497</Low>
+    <Close>7.41889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-09</Date>
+    <Open>7.41111</Open>
+    <High>7.54358</High>
+    <Low>6.95539</Low>
+    <Close>7.04848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-10</Date>
+    <Open>7.04448</Open>
+    <High>7.67684</High>
+    <Low>6.84478</Low>
+    <Close>7.62821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-11</Date>
+    <Open>7.61228</Open>
+    <High>7.84935</High>
+    <Low>7.32264</Low>
+    <Close>7.37346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-12</Date>
+    <Open>7.37369</Open>
+    <High>7.44327</High>
+    <Low>7.13356</Low>
+    <Close>7.32337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-13</Date>
+    <Open>7.31536</Open>
+    <High>7.64374</High>
+    <Low>7.1793</Low>
+    <Close>7.21881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-14</Date>
+    <Open>7.21581</Open>
+    <High>7.37988</High>
+    <Low>6.91121</Low>
+    <Close>6.93815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-15</Date>
+    <Open>6.95916</Open>
+    <High>7.16193</High>
+    <Low>6.58984</Low>
+    <Close>6.69867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-16</Date>
+    <Open>6.70454</Open>
+    <High>6.76929</High>
+    <Low>6.15031</Low>
+    <Close>6.24056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-17</Date>
+    <Open>6.25056</Open>
+    <High>6.4609</High>
+    <Low>5.85994</Low>
+    <Close>5.91047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-18</Date>
+    <Open>5.91047</Open>
+    <High>6.02048</High>
+    <Low>5.76017</Low>
+    <Close>5.77006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-19</Date>
+    <Open>5.75858</Open>
+    <High>5.79358</High>
+    <Low>5.09051</Low>
+    <Close>5.25052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-20</Date>
+    <Open>5.25021</Open>
+    <High>5.38978</High>
+    <Low>4.84869</Low>
+    <Close>4.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-21</Date>
+    <Open>4.98985</Open>
+    <High>5.49005</High>
+    <Low>4.98965</Low>
+    <Close>5.40989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-22</Date>
+    <Open>5.38989</Open>
+    <High>5.38989</High>
+    <Low>4.90966</Low>
+    <Close>5.10908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-23</Date>
+    <Open>5.09918</Open>
+    <High>5.88912</High>
+    <Low>5.09908</Low>
+    <Close>5.70011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-24</Date>
+    <Open>5.68</Open>
+    <High>5.90059</High>
+    <Low>5.44984</Low>
+    <Close>5.89053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-25</Date>
+    <Open>5.88041</Open>
+    <High>5.9993</High>
+    <Low>5.68783</Low>
+    <Close>5.90918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-26</Date>
+    <Open>5.89988</Open>
+    <High>5.95883</High>
+    <Low>5.214</Low>
+    <Close>5.32653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-27</Date>
+    <Open>5.33048</Open>
+    <High>5.34053</High>
+    <Low>5.0002</Low>
+    <Close>5.00315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-28</Date>
+    <Open>5.0051</Open>
+    <High>5.30416</High>
+    <Low>4.97715</Low>
+    <Close>5.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-29</Date>
+    <Open>5.11195</Open>
+    <High>5.17316</High>
+    <Low>4.90866</Low>
+    <Close>5.04035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-30</Date>
+    <Open>5.0305</Open>
+    <High>5.2299</High>
+    <Low>4.91015</Low>
+    <Close>5.07046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-08-31</Date>
+    <Open>5.06046</Open>
+    <High>5.42005</High>
+    <Low>4.9201</Low>
+    <Close>5.10995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-01</Date>
+    <Open>5.10995</Open>
+    <High>5.28963</High>
+    <Low>4.9697</Low>
+    <Close>5.22979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-02</Date>
+    <Open>5.22969</Open>
+    <High>5.43087</High>
+    <Low>5.1102</Low>
+    <Close>5.20068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-03</Date>
+    <Open>5.21083</Open>
+    <High>5.3108</High>
+    <Low>5.09</Low>
+    <Close>5.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-04</Date>
+    <Open>5.1</Open>
+    <High>5.32053</High>
+    <Low>5.06</Low>
+    <Close>5.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-05</Date>
+    <Open>5.25</Open>
+    <High>5.35053</High>
+    <Low>5.12</Low>
+    <Close>5.25052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-06</Date>
+    <Open>5.26053</Open>
+    <High>5.75</High>
+    <Low>5.14949</Low>
+    <Close>5.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-07</Date>
+    <Open>5.22</Open>
+    <High>5.41989</High>
+    <Low>4.9998</Low>
+    <Close>5.37038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-08</Date>
+    <Open>5.36038</Open>
+    <High>5.42</High>
+    <Low>5.18005</Low>
+    <Close>5.30085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-09</Date>
+    <Open>5.30085</Open>
+    <High>5.64196</High>
+    <Low>5.26053</Low>
+    <Close>5.49187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-10</Date>
+    <Open>5.49203</Open>
+    <High>5.71128</High>
+    <Low>5.43157</Low>
+    <Close>5.62307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-11</Date>
+    <Open>5.64218</Open>
+    <High>5.78156</High>
+    <Low>5.50138</Low>
+    <Close>5.50832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-12</Date>
+    <Open>5.51832</Open>
+    <High>5.64002</High>
+    <Low>5.30306</Low>
+    <Close>5.34907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-13</Date>
+    <Open>5.3336</Open>
+    <High>5.55155</High>
+    <Low>4.9973</Low>
+    <Close>5.1081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-14</Date>
+    <Open>5.11105</Open>
+    <High>5.1201</High>
+    <Low>4.75019</Low>
+    <Close>4.92223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-15</Date>
+    <Open>4.92223</Open>
+    <High>5.0452</High>
+    <Low>4.59754</Low>
+    <Close>4.87651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-16</Date>
+    <Open>4.88071</Open>
+    <High>4.91795</High>
+    <Low>4.68853</Low>
+    <Close>4.79552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-17</Date>
+    <Open>4.79</Open>
+    <High>4.84452</High>
+    <Low>4.701</Low>
+    <Close>4.80448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-18</Date>
+    <Open>4.804</Open>
+    <High>4.883</High>
+    <Low>4.54955</Low>
+    <Close>4.554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-19</Date>
+    <Open>4.553</Open>
+    <High>4.9545</High>
+    <Low>4.501</Low>
+    <Close>4.84748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-20</Date>
+    <Open>4.83948</Open>
+    <High>4.90149</High>
+    <Low>4.64746</Low>
+    <Close>4.78848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-21</Date>
+    <Open>4.786</Open>
+    <High>5.12851</High>
+    <Low>4.457</Low>
+    <Close>4.463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-22</Date>
+    <Open>4.47</Open>
+    <High>4.801</High>
+    <Low>4.45</Low>
+    <Close>4.695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-23</Date>
+    <Open>4.68347</Open>
+    <High>4.867</High>
+    <Low>4.59954</Low>
+    <Close>4.77152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-24</Date>
+    <Open>4.78471</Open>
+    <High>4.95985</High>
+    <Low>4.73252</Low>
+    <Close>4.74738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-25</Date>
+    <Open>4.742</Open>
+    <High>4.78514</High>
+    <Low>4.59109</Low>
+    <Close>4.601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-26</Date>
+    <Open>4.61105</Open>
+    <High>4.795</High>
+    <Low>4.59995</Low>
+    <Close>4.74253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-27</Date>
+    <Open>4.744</Open>
+    <High>5.088</High>
+    <Low>4.73</Low>
+    <Close>4.86451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-28</Date>
+    <Open>4.86351</Open>
+    <High>4.979</High>
+    <Low>4.68453</Low>
+    <Close>4.928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-29</Date>
+    <Open>4.928</Open>
+    <High>5.0235</High>
+    <Low>4.762</Low>
+    <Close>4.946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-09-30</Date>
+    <Open>4.94949</Open>
+    <High>5.07951</High>
+    <Low>4.871</Low>
+    <Close>4.914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-01</Date>
+    <Open>4.897</Open>
+    <High>4.9605</High>
+    <Low>4.687</Low>
+    <Close>4.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-02</Date>
+    <Open>4.798</Open>
+    <High>4.93049</High>
+    <Low>4.645</Low>
+    <Close>4.775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-03</Date>
+    <Open>4.772</Open>
+    <High>5.013</High>
+    <Low>4.58054</Low>
+    <Close>4.93449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-04</Date>
+    <Open>4.90849</Open>
+    <High>5.4861</High>
+    <Low>4.79448</Low>
+    <Close>5.39562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-05</Date>
+    <Open>5.39908</Open>
+    <High>5.66657</High>
+    <Low>5.28706</Low>
+    <Close>5.59312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-06</Date>
+    <Open>5.57011</Open>
+    <High>5.59901</High>
+    <Low>5.45482</Low>
+    <Close>5.46893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-07</Date>
+    <Open>5.46093</Open>
+    <High>5.74852</High>
+    <Low>5.3088</Low>
+    <Close>5.59078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-08</Date>
+    <Open>5.58967</Open>
+    <High>5.72363</High>
+    <Low>5.35464</Low>
+    <Close>5.5894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-09</Date>
+    <Open>5.57545</Open>
+    <High>5.68657</High>
+    <Low>5.35754</Low>
+    <Close>5.46709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-10</Date>
+    <Open>5.46955</Open>
+    <High>5.74743</High>
+    <Low>5.33607</Low>
+    <Close>5.677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-11</Date>
+    <Open>5.654</Open>
+    <High>5.74337</High>
+    <Low>5.429</Low>
+    <Close>5.62549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-12</Date>
+    <Open>5.62732</Open>
+    <High>6.33054</High>
+    <Low>5.56922</Low>
+    <Close>5.95518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-13</Date>
+    <Open>5.96818</Open>
+    <High>5.97324</High>
+    <Low>5.08014</Low>
+    <Close>5.42349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-14</Date>
+    <Open>5.42449</Open>
+    <High>5.53517</High>
+    <Low>5.27737</Low>
+    <Close>5.31321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-15</Date>
+    <Open>5.31116</Open>
+    <High>5.59639</High>
+    <Low>5.25237</Low>
+    <Close>5.35727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-16</Date>
+    <Open>5.358</Open>
+    <High>5.53644</High>
+    <Low>5.21916</Low>
+    <Close>5.39022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-17</Date>
+    <Open>5.36821</Open>
+    <High>5.75952</High>
+    <Low>5.31532</Low>
+    <Close>5.61011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-18</Date>
+    <Open>5.61717</Open>
+    <High>5.80258</High>
+    <Low>5.12315</Low>
+    <Close>5.23831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-19</Date>
+    <Open>5.23226</Open>
+    <High>5.24321</High>
+    <Low>4.97565</Low>
+    <Close>5.035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-20</Date>
+    <Open>5.03495</Open>
+    <High>5.18916</High>
+    <Low>4.81176</Low>
+    <Close>5.04465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-21</Date>
+    <Open>5.04065</Open>
+    <High>5.205</High>
+    <Low>4.84685</Low>
+    <Close>5.09541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-22</Date>
+    <Open>5.09741</Open>
+    <High>5.17831</High>
+    <Low>4.99135</Low>
+    <Close>5.04645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-23</Date>
+    <Open>5.04745</Open>
+    <High>5.21468</High>
+    <Low>4.89454</Low>
+    <Close>5.12172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-24</Date>
+    <Open>5.12651</Open>
+    <High>5.35443</High>
+    <Low>4.96345</Low>
+    <Close>5.0872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-25</Date>
+    <Open>5.0982</Open>
+    <High>5.54689</High>
+    <Low>4.931</Low>
+    <Close>5.54477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-26</Date>
+    <Open>5.52188</Open>
+    <High>5.98032</High>
+    <Low>5.42947</Low>
+    <Close>5.88865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-27</Date>
+    <Open>5.89565</Open>
+    <High>5.97555</High>
+    <Low>5.57806</Low>
+    <Close>5.67834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-28</Date>
+    <Open>5.6784</Open>
+    <High>5.858</High>
+    <Low>5.49038</Low>
+    <Close>5.67825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-29</Date>
+    <Open>5.65702</Open>
+    <High>5.97979</High>
+    <Low>5.59268</Low>
+    <Close>5.68525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-30</Date>
+    <Open>5.68336</Open>
+    <High>5.73666</High>
+    <Low>5.29832</Low>
+    <Close>5.35507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-10-31</Date>
+    <Open>5.36702</Open>
+    <High>5.52033</High>
+    <Low>5.09974</Low>
+    <Close>5.31368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-01</Date>
+    <Open>5.32468</Open>
+    <High>5.33768</High>
+    <Low>5.16612</Low>
+    <Close>5.19748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-02</Date>
+    <Open>5.19443</Open>
+    <High>5.27411</High>
+    <Low>4.93275</Low>
+    <Close>4.9787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-03</Date>
+    <Open>4.97275</Open>
+    <High>5.23332</High>
+    <Low>4.97175</Low>
+    <Close>5.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-04</Date>
+    <Open>5.06895</Open>
+    <High>5.59006</High>
+    <Low>5.06495</Low>
+    <Close>5.49144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-05</Date>
+    <Open>5.49638</Open>
+    <High>5.57039</High>
+    <Low>5.40027</Low>
+    <Close>5.44233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-06</Date>
+    <Open>5.44327</Open>
+    <High>5.47078</High>
+    <Low>5.29126</Low>
+    <Close>5.33543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-07</Date>
+    <Open>5.33643</Open>
+    <High>5.37027</High>
+    <Low>5.18347</Low>
+    <Close>5.22668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-08</Date>
+    <Open>5.23705</Open>
+    <High>5.302</High>
+    <Low>4.34098</Low>
+    <Close>4.42423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-09</Date>
+    <Open>4.4132</Open>
+    <High>4.48052</High>
+    <Low>3.71202</Low>
+    <Close>3.73124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-10</Date>
+    <Open>3.72313</Open>
+    <High>4.5854</High>
+    <Low>3.65635</Low>
+    <Close>4.26986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-11</Date>
+    <Open>4.2456</Open>
+    <High>4.77998</High>
+    <Low>3.90617</Low>
+    <Close>4.029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-12</Date>
+    <Open>4.03921</Open>
+    <High>4.08634</High>
+    <Low>3.74125</Low>
+    <Close>3.85305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-13</Date>
+    <Open>3.86303</Open>
+    <High>11.9998</High>
+    <Low>3.61684</Low>
+    <Close>4.41569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-14</Date>
+    <Open>4.39384</Open>
+    <High>4.82121</High>
+    <Low>3.995</Low>
+    <Close>4.04392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-15</Date>
+    <Open>4.04672</Open>
+    <High>4.32267</High>
+    <Low>4.02636</Low>
+    <Close>4.04195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-16</Date>
+    <Open>4.05605</Open>
+    <High>4.124</High>
+    <Low>3.87404</Low>
+    <Close>4.03541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-17</Date>
+    <Open>4.04332</Open>
+    <High>4.06454</High>
+    <Low>3.84657</Low>
+    <Close>3.95491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-18</Date>
+    <Open>3.94796</Open>
+    <High>3.9978</High>
+    <Low>3.81384</Low>
+    <Close>3.82959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-19</Date>
+    <Open>3.81956</Open>
+    <High>3.96272</High>
+    <Low>3.81956</Low>
+    <Close>3.92891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-20</Date>
+    <Open>3.92591</Open>
+    <High>3.95388</High>
+    <Low>3.62101</Low>
+    <Close>3.66342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-21</Date>
+    <Open>3.67241</Open>
+    <High>3.70832</High>
+    <Low>3.47286</Low>
+    <Close>3.54774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-22</Date>
+    <Open>3.55373</Open>
+    <High>4.24029</High>
+    <Low>3.48178</Low>
+    <Close>3.90423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-23</Date>
+    <Open>3.90995</Open>
+    <High>4.41374</High>
+    <Low>3.90995</Low>
+    <Close>4.32228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-24</Date>
+    <Open>4.3053</Open>
+    <High>4.48536</High>
+    <Low>4.24077</Low>
+    <Close>4.30638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-25</Date>
+    <Open>4.31033</Open>
+    <High>4.36738</High>
+    <Low>4.17774</Low>
+    <Close>4.31654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-26</Date>
+    <Open>4.31698</Open>
+    <High>4.46146</High>
+    <Low>4.25532</Low>
+    <Close>4.27148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-27</Date>
+    <Open>4.27552</Open>
+    <High>4.43534</High>
+    <Low>4.26253</Low>
+    <Close>4.37724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-28</Date>
+    <Open>4.36134</Open>
+    <High>4.36134</High>
+    <Low>3.91304</Low>
+    <Close>3.94046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-29</Date>
+    <Open>3.9355</Open>
+    <High>4.3978</High>
+    <Low>3.89025</Low>
+    <Close>3.95354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-11-30</Date>
+    <Open>3.96453</Open>
+    <High>4.19834</High>
+    <Low>3.9487</Low>
+    <Close>4.17717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-01</Date>
+    <Open>4.17517</Open>
+    <High>4.19742</High>
+    <Low>3.994</Low>
+    <Close>3.99924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-02</Date>
+    <Open>4.00724</Open>
+    <High>4.01728</High>
+    <Low>3.90643</Low>
+    <Close>4.00424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-03</Date>
+    <Open>4.00916</Open>
+    <High>4.03236</High>
+    <Low>3.86239</Low>
+    <Close>3.88239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-04</Date>
+    <Open>3.87839</Open>
+    <High>3.97419</High>
+    <Low>3.85139</Low>
+    <Close>3.94879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-05</Date>
+    <Open>3.94839</Open>
+    <High>4.04036</High>
+    <Low>3.87404</Low>
+    <Close>3.92812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-06</Date>
+    <Open>3.93312</Open>
+    <High>3.97996</High>
+    <Low>3.88092</Low>
+    <Close>3.89192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-07</Date>
+    <Open>3.89292</Open>
+    <High>3.961</High>
+    <Low>3.78223</Low>
+    <Close>3.862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-08</Date>
+    <Open>3.86</Open>
+    <High>4.01364</High>
+    <Low>3.82996</Low>
+    <Close>3.92827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-09</Date>
+    <Open>3.93932</Open>
+    <High>3.95516</High>
+    <Low>3.84319</Low>
+    <Close>3.85112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-10</Date>
+    <Open>3.85515</Open>
+    <High>3.883</High>
+    <Low>3.83504</Low>
+    <Close>3.86292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-11</Date>
+    <Open>3.86892</Open>
+    <High>3.931</High>
+    <Low>3.84738</Low>
+    <Close>3.88478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-12</Date>
+    <Open>3.87277</Open>
+    <High>3.90731</High>
+    <Low>3.77504</Low>
+    <Close>3.87331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-13</Date>
+    <Open>3.88435</Open>
+    <High>4.09086</High>
+    <Low>3.80168</Low>
+    <Close>4.015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-14</Date>
+    <Open>4.01871</Open>
+    <High>4.037</High>
+    <Low>3.90377</Low>
+    <Close>3.91227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-15</Date>
+    <Open>3.914</Open>
+    <High>3.92378</High>
+    <Low>3.70837</Low>
+    <Close>3.71537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-16</Date>
+    <Open>3.71674</Open>
+    <High>3.76438</High>
+    <Low>3.28899</Low>
+    <Close>3.40934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-17</Date>
+    <Open>3.39834</Open>
+    <High>3.47352</High>
+    <Low>3.31933</Low>
+    <Close>3.44448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-18</Date>
+    <Open>3.45045</Open>
+    <High>3.53642</High>
+    <Low>3.41517</Low>
+    <Close>3.51942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-19</Date>
+    <Open>3.511</Open>
+    <High>3.558</High>
+    <Low>3.33707</Low>
+    <Close>3.369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-20</Date>
+    <Open>3.37397</Open>
+    <High>3.52911</High>
+    <Low>3.33797</Low>
+    <Close>3.52814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-21</Date>
+    <Open>3.52214</Open>
+    <High>3.56325</High>
+    <Low>3.47107</Low>
+    <Close>3.53518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-22</Date>
+    <Open>3.54214</Open>
+    <High>3.5755</High>
+    <Low>3.47865</Low>
+    <Close>3.56743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-23</Date>
+    <Open>3.56739</Open>
+    <High>3.58868</High>
+    <Low>3.54065</Low>
+    <Close>3.54561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-24</Date>
+    <Open>3.54765</Open>
+    <High>3.59868</High>
+    <Low>3.54479</Low>
+    <Close>3.57279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-25</Date>
+    <Open>3.56979</Open>
+    <High>3.62542</High>
+    <Low>3.52544</Low>
+    <Close>3.59153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-26</Date>
+    <Open>3.58764</Open>
+    <High>3.62064</High>
+    <Low>3.55068</Low>
+    <Close>3.58028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-27</Date>
+    <Open>3.58332</Open>
+    <High>3.61524</High>
+    <Low>3.44255</Low>
+    <Close>3.45065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-28</Date>
+    <Open>3.45065</Open>
+    <High>3.46754</High>
+    <Low>3.17819</Low>
+    <Close>3.18528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-29</Date>
+    <Open>3.18631</Open>
+    <High>3.30161</High>
+    <Low>3.18631</Low>
+    <Close>3.19559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-30</Date>
+    <Open>3.19756</Open>
+    <High>3.25334</High>
+    <Low>3.1914</Low>
+    <Close>3.2074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2022-12-31</Date>
+    <Open>3.20736</Open>
+    <High>3.28536</High>
+    <Low>3.17938</Low>
+    <Close>3.2054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-01</Date>
+    <Open>3.20237</Open>
+    <High>3.20868</High>
+    <Low>3.18112</Low>
+    <Close>3.20449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-02</Date>
+    <Open>3.20449</Open>
+    <High>3.27569</High>
+    <Low>3.16664</Low>
+    <Close>3.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-03</Date>
+    <Open>3.22494</Open>
+    <High>3.27159</High>
+    <Low>3.14471</Low>
+    <Close>3.17976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-04</Date>
+    <Open>3.18076</Open>
+    <High>3.34959</High>
+    <Low>3.15471</Low>
+    <Close>3.18295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-05</Date>
+    <Open>3.18392</Open>
+    <High>3.24606</High>
+    <Low>3.06871</Low>
+    <Close>3.09392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-06</Date>
+    <Open>3.08889</Open>
+    <High>3.10879</High>
+    <Low>2.98436</Low>
+    <Close>3.09804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-07</Date>
+    <Open>3.10101</Open>
+    <High>3.1822</High>
+    <Low>3.08011</Low>
+    <Close>3.16124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-08</Date>
+    <Open>3.16105</Open>
+    <High>3.25251</High>
+    <Low>3.14134</Low>
+    <Close>3.24051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-09</Date>
+    <Open>3.24161</Open>
+    <High>3.49544</High>
+    <Low>3.23638</Low>
+    <Close>3.39097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-10</Date>
+    <Open>3.39497</Open>
+    <High>3.44279</High>
+    <Low>3.33167</Low>
+    <Close>3.39448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-11</Date>
+    <Open>3.38754</Open>
+    <High>3.40731</High>
+    <Low>3.29244</Low>
+    <Close>3.39197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-12</Date>
+    <Open>3.393</Open>
+    <High>3.59389</High>
+    <Low>3.38966</Low>
+    <Close>3.56539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-13</Date>
+    <Open>3.56228</Open>
+    <High>3.82946</High>
+    <Low>3.48458</Low>
+    <Close>3.78334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-14</Date>
+    <Open>3.79234</Open>
+    <High>4.17954</High>
+    <Low>3.78738</Low>
+    <Close>4.0082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-15</Date>
+    <Open>3.9962</Open>
+    <High>4.55828</High>
+    <Low>3.81838</Low>
+    <Close>4.46329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-16</Date>
+    <Open>4.46334</Open>
+    <High>5.19302</High>
+    <Low>4.27928</Low>
+    <Close>4.8481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-17</Date>
+    <Open>4.8481</Open>
+    <High>5.09076</High>
+    <Low>4.73609</Low>
+    <Close>4.97055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-18</Date>
+    <Open>4.96755</Open>
+    <High>5.18684</High>
+    <Low>4.69462</Low>
+    <Close>4.84876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-19</Date>
+    <Open>4.84871</Open>
+    <High>4.91951</High>
+    <Low>4.71167</Low>
+    <Close>4.83286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-20</Date>
+    <Open>4.83034</Open>
+    <High>5.28642</High>
+    <Low>4.79405</Low>
+    <Close>5.25389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-21</Date>
+    <Open>5.25395</Open>
+    <High>5.30611</High>
+    <Low>4.94032</Low>
+    <Close>5.07081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-22</Date>
+    <Open>5.03681</Open>
+    <High>5.56306</High>
+    <Low>4.96784</Low>
+    <Close>5.274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-23</Date>
+    <Open>5.278</Open>
+    <High>5.45082</High>
+    <Low>5.15046</Low>
+    <Close>5.3328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-24</Date>
+    <Open>5.32475</Open>
+    <High>5.56795</High>
+    <Low>5.0178</Low>
+    <Close>5.0541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-25</Date>
+    <Open>5.05815</Open>
+    <High>5.251</High>
+    <Low>4.90178</Low>
+    <Close>5.07881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-26</Date>
+    <Open>5.06891</Open>
+    <High>5.23568</High>
+    <Low>5.06891</Low>
+    <Close>5.13746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-27</Date>
+    <Open>5.14446</Open>
+    <High>5.51149</High>
+    <Low>5.02215</Low>
+    <Close>5.42966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-28</Date>
+    <Open>5.43707</Open>
+    <High>6.02138</High>
+    <Low>5.4023</Low>
+    <Close>5.93919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-29</Date>
+    <Open>5.93225</Open>
+    <High>6.36825</High>
+    <Low>5.83734</Low>
+    <Close>6.22825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-30</Date>
+    <Open>6.24525</Open>
+    <High>6.32219</High>
+    <Low>5.863</Low>
+    <Close>6.03236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-01-31</Date>
+    <Open>6.01942</Open>
+    <High>6.23656</High>
+    <Low>5.72366</Low>
+    <Close>5.87653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-01</Date>
+    <Open>5.88547</Open>
+    <High>6.7952</High>
+    <Low>5.674</Low>
+    <Close>6.47439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-02</Date>
+    <Open>6.48032</Open>
+    <High>7.22223</High>
+    <Low>6.4047</Low>
+    <Close>6.76222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-03</Date>
+    <Open>6.74548</Open>
+    <High>7.09606</High>
+    <Low>6.55359</Low>
+    <Close>6.72454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-04</Date>
+    <Open>6.73814</Open>
+    <High>6.78774</High>
+    <Low>6.48465</Low>
+    <Close>6.49602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-05</Date>
+    <Open>6.50379</Open>
+    <High>6.62019</High>
+    <Low>5.95951</Low>
+    <Close>6.10943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-06</Date>
+    <Open>6.11083</Open>
+    <High>6.5541</High>
+    <Low>6.04509</Low>
+    <Close>6.36485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-07</Date>
+    <Open>6.36475</Open>
+    <High>6.69287</High>
+    <Low>6.2405</Low>
+    <Close>6.63696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-08</Date>
+    <Open>6.6412</Open>
+    <High>6.7215</High>
+    <Low>6.31192</Low>
+    <Close>6.39245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-09</Date>
+    <Open>6.37538</Open>
+    <High>6.3773</High>
+    <Low>5.52616</Low>
+    <Close>5.59556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-10</Date>
+    <Open>5.64556</Open>
+    <High>5.85123</High>
+    <Low>5.62279</Low>
+    <Close>5.76386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-11</Date>
+    <Open>5.76306</Open>
+    <High>5.88799</High>
+    <Low>5.74287</Low>
+    <Close>5.87199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-12</Date>
+    <Open>5.87049</Open>
+    <High>5.89921</High>
+    <Low>5.49682</Low>
+    <Close>5.62826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-13</Date>
+    <Open>5.62586</Open>
+    <High>6.45865</High>
+    <Low>5.49163</Low>
+    <Close>6.13631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-14</Date>
+    <Open>6.12931</Open>
+    <High>6.21047</High>
+    <Low>5.90495</Low>
+    <Close>6.13739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-15</Date>
+    <Open>6.13882</Open>
+    <High>6.48964</High>
+    <Low>6.1025</Low>
+    <Close>6.38138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-16</Date>
+    <Open>6.37672</Open>
+    <High>6.82641</High>
+    <Low>6.36104</Low>
+    <Close>6.38401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-17</Date>
+    <Open>6.37509</Open>
+    <High>6.85732</High>
+    <Low>6.3414</Low>
+    <Close>6.7029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-18</Date>
+    <Open>6.70534</Open>
+    <High>6.76538</High>
+    <Low>6.5231</Low>
+    <Close>6.57615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-19</Date>
+    <Open>6.57515</Open>
+    <High>6.6753</High>
+    <Low>6.38749</Low>
+    <Close>6.48199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-20</Date>
+    <Open>6.48229</Open>
+    <High>6.66727</High>
+    <Low>6.34341</Low>
+    <Close>6.58726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-21</Date>
+    <Open>6.58546</Open>
+    <High>6.82919</High>
+    <Low>6.21868</Low>
+    <Close>6.34868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-22</Date>
+    <Open>6.34198</Open>
+    <High>6.38409</High>
+    <Low>6.03522</Low>
+    <Close>6.17436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-23</Date>
+    <Open>6.17485</Open>
+    <High>6.33141</High>
+    <Low>6.10576</Low>
+    <Close>6.20421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-24</Date>
+    <Open>6.20537</Open>
+    <High>6.26394</High>
+    <Low>5.71936</Low>
+    <Close>5.77064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-25</Date>
+    <Open>5.7658</Open>
+    <High>5.84413</High>
+    <Low>5.58129</Low>
+    <Close>5.7031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-26</Date>
+    <Open>5.70024</Open>
+    <High>5.93092</High>
+    <Low>5.69723</Low>
+    <Close>5.86739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-27</Date>
+    <Open>5.86685</Open>
+    <High>6.04726</High>
+    <Low>5.77705</Low>
+    <Close>6.04086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-02-28</Date>
+    <Open>6.04196</Open>
+    <High>6.17262</High>
+    <Low>6.01698</Low>
+    <Close>6.10332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-01</Date>
+    <Open>6.10556</Open>
+    <High>6.57902</High>
+    <Low>6.04389</Low>
+    <Close>6.38033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-02</Date>
+    <Open>6.38049</Open>
+    <High>6.44447</High>
+    <Low>5.98584</Low>
+    <Close>6.09935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-03</Date>
+    <Open>6.09849</Open>
+    <High>6.14069</High>
+    <Low>5.65649</Low>
+    <Close>5.83091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-04</Date>
+    <Open>5.83235</Open>
+    <High>5.93327</High>
+    <Low>5.72529</Low>
+    <Close>5.80721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-05</Date>
+    <Open>5.81021</Open>
+    <High>5.97348</High>
+    <Low>5.78512</Low>
+    <Close>5.85254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-06</Date>
+    <Open>5.8523</Open>
+    <High>6.01838</High>
+    <Low>5.8039</Low>
+    <Close>6.00434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-07</Date>
+    <Open>6.00086</Open>
+    <High>6.07015</High>
+    <Low>5.83389</Low>
+    <Close>5.88929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-08</Date>
+    <Open>5.88976</Open>
+    <High>6.07866</High>
+    <Low>5.48383</Low>
+    <Close>5.52838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-09</Date>
+    <Open>5.52515</Open>
+    <High>5.54174</High>
+    <Low>4.96586</Low>
+    <Close>5.09586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-10</Date>
+    <Open>5.09466</Open>
+    <High>5.1986</High>
+    <Low>4.82586</Low>
+    <Close>5.00405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-11</Date>
+    <Open>5.00089</Open>
+    <High>5.24096</High>
+    <Low>4.81595</Low>
+    <Close>4.96695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-12</Date>
+    <Open>4.96936</Open>
+    <High>5.51035</High>
+    <Low>4.88423</Low>
+    <Close>5.32204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-13</Date>
+    <Open>5.34467</Open>
+    <High>5.79523</High>
+    <Low>5.34467</Low>
+    <Close>5.70969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-14</Date>
+    <Open>5.70502</Open>
+    <High>6.03779</High>
+    <Low>5.50032</Low>
+    <Close>5.94473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-15</Date>
+    <Open>5.94257</Open>
+    <High>6.03551</High>
+    <Low>5.36206</Low>
+    <Close>5.49609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-16</Date>
+    <Open>5.48904</Open>
+    <High>5.58071</High>
+    <Low>5.12007</Low>
+    <Close>5.20337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-17</Date>
+    <Open>5.20518</Open>
+    <High>5.66546</High>
+    <Low>5.12425</Low>
+    <Close>5.57187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-18</Date>
+    <Open>5.57106</Open>
+    <High>5.89268</High>
+    <Low>5.53656</Low>
+    <Close>5.53656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-19</Date>
+    <Open>5.54343</Open>
+    <High>5.8356</High>
+    <Low>5.48837</Low>
+    <Close>5.73904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-20</Date>
+    <Open>5.73806</Open>
+    <High>5.76553</High>
+    <Low>5.43498</Low>
+    <Close>5.4458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-21</Date>
+    <Open>5.44335</Open>
+    <High>5.60103</High>
+    <Low>5.29307</Low>
+    <Close>5.56585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-22</Date>
+    <Open>5.56796</Open>
+    <High>5.65996</High>
+    <Low>5.20771</Low>
+    <Close>5.28496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-23</Date>
+    <Open>5.27879</Open>
+    <High>5.52297</High>
+    <Low>5.25287</Low>
+    <Close>5.3948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-24</Date>
+    <Open>5.3977</Open>
+    <High>5.43313</High>
+    <Low>5.003</Low>
+    <Close>5.04209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-25</Date>
+    <Open>5.04069</Open>
+    <High>5.14107</High>
+    <Low>5.01826</Low>
+    <Close>5.08793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-26</Date>
+    <Open>5.09324</Open>
+    <High>5.23581</High>
+    <Low>5.07787</Low>
+    <Close>5.11728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-27</Date>
+    <Open>5.10921</Open>
+    <High>5.16164</High>
+    <Low>4.85</Low>
+    <Close>4.93122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-28</Date>
+    <Open>4.92987</Open>
+    <High>5.11933</High>
+    <Low>4.8581</Low>
+    <Close>5.02686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-29</Date>
+    <Open>5.02911</Open>
+    <High>5.46667</High>
+    <Low>5.02911</Low>
+    <Close>5.43123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-30</Date>
+    <Open>5.43393</Open>
+    <High>5.49448</High>
+    <Low>5.2617</Low>
+    <Close>5.31079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-03-31</Date>
+    <Open>5.30953</Open>
+    <High>5.50693</High>
+    <Low>5.26663</Low>
+    <Close>5.32887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-01</Date>
+    <Open>5.32852</Open>
+    <High>5.36558</High>
+    <Low>5.10342</Low>
+    <Close>5.132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-02</Date>
+    <Open>5.1338</Open>
+    <High>5.24112</High>
+    <Low>5.02131</Low>
+    <Close>5.05568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-03</Date>
+    <Open>5.05263</Open>
+    <High>5.16305</High>
+    <Low>4.91777</Low>
+    <Close>5.0073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-04</Date>
+    <Open>5.00905</Open>
+    <High>5.37572</High>
+    <Low>5.0077</Low>
+    <Close>5.32686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-05</Date>
+    <Open>5.32431</Open>
+    <High>5.47019</High>
+    <Low>5.24473</Low>
+    <Close>5.37954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-06</Date>
+    <Open>5.38138</Open>
+    <High>5.43353</High>
+    <Low>5.21908</Low>
+    <Close>5.30876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-07</Date>
+    <Open>5.2924</Open>
+    <High>5.32441</High>
+    <Low>5.17706</Low>
+    <Close>5.21566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-08</Date>
+    <Open>5.21671</Open>
+    <High>5.28439</High>
+    <Low>5.17874</Low>
+    <Close>5.19328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-09</Date>
+    <Open>5.19483</Open>
+    <High>5.36516</High>
+    <Low>5.1654</Low>
+    <Close>5.36159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-10</Date>
+    <Open>5.36135</Open>
+    <High>5.45167</High>
+    <Low>5.26288</Low>
+    <Close>5.40898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-11</Date>
+    <Open>5.41374</Open>
+    <High>5.60821</High>
+    <Low>5.40823</Low>
+    <Close>5.46601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-12</Date>
+    <Open>5.46095</Open>
+    <High>5.53333</High>
+    <Low>5.32059</Low>
+    <Close>5.52521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-13</Date>
+    <Open>5.51454</Open>
+    <High>5.91464</High>
+    <Low>5.48268</Low>
+    <Close>5.82088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-14</Date>
+    <Open>5.7998</Open>
+    <High>6.21377</High>
+    <Low>5.79951</Low>
+    <Close>6.00648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-15</Date>
+    <Open>6.0065</Open>
+    <High>6.05386</High>
+    <Low>5.92777</Low>
+    <Close>5.99019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-16</Date>
+    <Open>5.98863</Open>
+    <High>6.13763</High>
+    <Low>5.88502</Low>
+    <Close>6.12906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-17</Date>
+    <Open>6.1184</Open>
+    <High>6.14354</High>
+    <Low>5.93221</Low>
+    <Close>6.1062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-18</Date>
+    <Open>6.08339</Open>
+    <High>6.38575</High>
+    <Low>5.96702</Low>
+    <Close>6.21416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-19</Date>
+    <Open>6.21766</Open>
+    <High>6.26279</High>
+    <Low>5.64678</Low>
+    <Close>5.77599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-20</Date>
+    <Open>5.78341</Open>
+    <High>5.79044</High>
+    <Low>5.35903</Low>
+    <Close>5.47365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-21</Date>
+    <Open>5.46448</Open>
+    <High>5.59336</High>
+    <Low>5.17556</Low>
+    <Close>5.19523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-22</Date>
+    <Open>5.19428</Open>
+    <High>5.41846</High>
+    <Low>5.1831</Low>
+    <Close>5.38634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-23</Date>
+    <Open>5.41829</Open>
+    <High>5.43857</High>
+    <Low>5.25736</Low>
+    <Close>5.34307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-24</Date>
+    <Open>5.34297</Open>
+    <High>5.44433</High>
+    <Low>5.21119</Low>
+    <Close>5.27071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-25</Date>
+    <Open>5.26506</Open>
+    <High>5.38979</High>
+    <Low>5.18434</Low>
+    <Close>5.38614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-26</Date>
+    <Open>5.38904</Open>
+    <High>5.5643</High>
+    <Low>5.06901</Low>
+    <Close>5.26698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-27</Date>
+    <Open>5.27269</Open>
+    <High>5.43585</High>
+    <Low>5.22088</Low>
+    <Close>5.37399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-28</Date>
+    <Open>5.35771</Open>
+    <High>5.37467</High>
+    <Low>5.24125</Low>
+    <Close>5.27021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-29</Date>
+    <Open>5.28096</Open>
+    <High>5.33852</High>
+    <Low>5.24862</Low>
+    <Close>5.27611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-04-30</Date>
+    <Open>5.28111</Open>
+    <High>5.30992</High>
+    <Low>5.15004</Low>
+    <Close>5.19596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-01</Date>
+    <Open>5.20191</Open>
+    <High>5.21714</High>
+    <Low>4.95735</Low>
+    <Close>5.0063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-02</Date>
+    <Open>5.01435</Open>
+    <High>5.13097</High>
+    <Low>5.0018</Low>
+    <Close>5.11312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-03</Date>
+    <Open>5.11412</Open>
+    <High>5.27548</High>
+    <Low>5.05477</Low>
+    <Close>5.26542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-04</Date>
+    <Open>5.26542</Open>
+    <High>5.31601</High>
+    <Low>5.15442</Low>
+    <Close>5.17491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-05</Date>
+    <Open>5.17892</Open>
+    <High>5.43645</High>
+    <Low>5.16022</Low>
+    <Close>5.42899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-06</Date>
+    <Open>5.41993</Open>
+    <High>5.48148</High>
+    <Low>5.12709</Low>
+    <Close>5.18801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-07</Date>
+    <Open>5.181</Open>
+    <High>5.24817</High>
+    <Low>5.14106</Low>
+    <Close>5.15603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-08</Date>
+    <Open>5.15223</Open>
+    <High>5.19512</High>
+    <Low>4.65321</Low>
+    <Close>4.72263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-09</Date>
+    <Open>4.7305</Open>
+    <High>4.95161</High>
+    <Low>4.60306</Low>
+    <Close>4.63663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-10</Date>
+    <Open>4.63004</Open>
+    <High>4.77925</High>
+    <Low>4.46491</Low>
+    <Close>4.68021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-11</Date>
+    <Open>4.70123</Open>
+    <High>4.71624</High>
+    <Low>4.27084</Low>
+    <Close>4.37337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-12</Date>
+    <Open>4.37093</Open>
+    <High>4.51571</High>
+    <Low>4.28928</Low>
+    <Close>4.48514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-13</Date>
+    <Open>4.50915</Open>
+    <High>4.53427</High>
+    <Low>4.44122</Low>
+    <Close>4.51941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-14</Date>
+    <Open>4.51771</Open>
+    <High>4.6662</High>
+    <Low>4.47113</Low>
+    <Close>4.61167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-15</Date>
+    <Open>4.61076</Open>
+    <High>4.73031</High>
+    <Low>4.57274</Low>
+    <Close>4.71643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-16</Date>
+    <Open>4.7176</Open>
+    <High>4.73337</High>
+    <Low>4.63464</Low>
+    <Close>4.73249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-17</Date>
+    <Open>4.73837</Open>
+    <High>4.82941</High>
+    <Low>4.61831</Low>
+    <Close>4.8064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-18</Date>
+    <Open>4.79792</Open>
+    <High>4.81192</High>
+    <Low>4.59684</Low>
+    <Close>4.69188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-19</Date>
+    <Open>4.69988</Open>
+    <High>4.70988</High>
+    <Low>4.58129</Low>
+    <Close>4.61934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-20</Date>
+    <Open>4.62931</Open>
+    <High>4.68121</High>
+    <Low>4.60968</Low>
+    <Close>4.64217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-21</Date>
+    <Open>4.64518</Open>
+    <High>4.65572</High>
+    <Low>4.46268</Low>
+    <Close>4.5037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-22</Date>
+    <Open>4.5027</Open>
+    <High>4.57674</High>
+    <Low>4.46123</Low>
+    <Close>4.57374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-23</Date>
+    <Open>4.5685</Open>
+    <High>4.68289</High>
+    <Low>4.52527</Low>
+    <Close>4.62328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-24</Date>
+    <Open>4.62331</Open>
+    <High>4.63951</High>
+    <Low>4.38569</Low>
+    <Close>4.47478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-25</Date>
+    <Open>4.47278</Open>
+    <High>4.47869</High>
+    <Low>4.34743</Low>
+    <Close>4.43813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-26</Date>
+    <Open>4.43209</Open>
+    <High>4.51026</High>
+    <Low>4.3954</Low>
+    <Close>4.45311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-27</Date>
+    <Open>4.46189</Open>
+    <High>4.58019</High>
+    <Low>4.4362</Low>
+    <Close>4.48275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CVX">
+    <Date>2023-05-28</Date>
+    <Open>4.48479</Open>
+    <High>4.54127</High>
+    <Low>4.45229</Low>
+    <Close>4.51699</Close>
+  </Cryptocurrency>
+</Root>

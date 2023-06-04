@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-14</Date>
+    <Open>6.61174</Open>
+    <High>6.61174</High>
+    <Low>6.51326</Low>
+    <Close>6.52124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-15</Date>
+    <Open>6.30216</Open>
+    <High>7.43558</High>
+    <Low>6.09945</Low>
+    <Close>7.0658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-16</Date>
+    <Open>7.0648</Open>
+    <High>7.38886</High>
+    <Low>5.78731</Low>
+    <Close>6.10805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-17</Date>
+    <Open>6.146</Open>
+    <High>6.86176</High>
+    <Low>5.81643</Low>
+    <Close>6.35772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-18</Date>
+    <Open>6.35772</Open>
+    <High>6.74989</High>
+    <Low>5.29564</Low>
+    <Close>5.55577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-19</Date>
+    <Open>5.56875</Open>
+    <High>6.31768</High>
+    <Low>5.00848</Low>
+    <Close>6.0949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-20</Date>
+    <Open>6.0929</Open>
+    <High>6.37362</High>
+    <Low>5.37454</Low>
+    <Close>5.60427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-21</Date>
+    <Open>5.62025</Open>
+    <High>6.30779</High>
+    <Low>5.47143</Low>
+    <Close>6.16897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-22</Date>
+    <Open>6.16697</Open>
+    <High>7.16939</High>
+    <Low>5.80245</Low>
+    <Close>6.69895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-23</Date>
+    <Open>6.69995</Open>
+    <High>7.14214</High>
+    <Low>5.90391</Low>
+    <Close>5.98681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-24</Date>
+    <Open>5.98321</Open>
+    <High>6.06432</High>
+    <Low>5.44401</Low>
+    <Close>5.97922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-25</Date>
+    <Open>5.9912</Open>
+    <High>6.04174</High>
+    <Low>5.61681</Low>
+    <Close>5.74809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-26</Date>
+    <Open>5.74887</Open>
+    <High>5.75429</High>
+    <Low>4.40459</Low>
+    <Close>4.62237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-27</Date>
+    <Open>4.61938</Open>
+    <High>4.99001</High>
+    <Low>4.11988</Low>
+    <Close>4.38217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-28</Date>
+    <Open>4.37297</Open>
+    <High>4.82664</High>
+    <Low>4.35803</Low>
+    <Close>4.71048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-29</Date>
+    <Open>4.70649</Open>
+    <High>4.88362</High>
+    <Low>4.2557</Low>
+    <Close>4.64688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-30</Date>
+    <Open>4.64983</Open>
+    <High>5.3953</High>
+    <Low>4.54717</Low>
+    <Close>5.12789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-05-31</Date>
+    <Open>5.12441</Open>
+    <High>5.6205</High>
+    <Low>4.74468</Low>
+    <Close>4.83113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-01</Date>
+    <Open>4.83613</Open>
+    <High>5.08293</High>
+    <Low>4.31425</Low>
+    <Close>4.438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-02</Date>
+    <Open>4.43471</Open>
+    <High>4.6661</High>
+    <Low>4.24877</Low>
+    <Close>4.57568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-03</Date>
+    <Open>4.57898</Open>
+    <High>4.64961</High>
+    <Low>4.23537</Low>
+    <Close>4.41915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-04</Date>
+    <Open>4.42079</Open>
+    <High>4.44593</High>
+    <Low>4.16692</Low>
+    <Close>4.35319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-05</Date>
+    <Open>4.34874</Open>
+    <High>4.43649</High>
+    <Low>4.24403</Low>
+    <Close>4.37488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-06</Date>
+    <Open>4.38288</Open>
+    <High>4.69619</High>
+    <Low>4.31533</Low>
+    <Close>4.45725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-07</Date>
+    <Open>4.45121</Open>
+    <High>4.52619</High>
+    <Low>4.02861</Low>
+    <Close>4.31046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-08</Date>
+    <Open>4.31155</Open>
+    <High>4.34265</High>
+    <Low>4.04737</Low>
+    <Close>4.11732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-09</Date>
+    <Open>4.12232</Open>
+    <High>4.13435</High>
+    <Low>3.83455</Low>
+    <Close>3.87175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-10</Date>
+    <Open>3.87071</Open>
+    <High>3.9908</High>
+    <Low>3.37928</Low>
+    <Close>3.49252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-11</Date>
+    <Open>3.49655</Open>
+    <High>3.64106</High>
+    <Low>3.01047</Low>
+    <Close>3.15543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-12</Date>
+    <Open>3.1554</Open>
+    <High>3.39396</High>
+    <Low>2.66027</Low>
+    <Close>3.04325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-13</Date>
+    <Open>3.04125</Open>
+    <High>3.37534</High>
+    <Low>2.5928</Low>
+    <Close>3.02279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-14</Date>
+    <Open>3.03278</Open>
+    <High>3.17897</High>
+    <Low>2.80363</Low>
+    <Close>2.83959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-15</Date>
+    <Open>2.84356</Open>
+    <High>3.05027</High>
+    <Low>2.61828</Low>
+    <Close>2.9975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-16</Date>
+    <Open>2.9977</Open>
+    <High>3.06193</High>
+    <Low>2.70505</Low>
+    <Close>2.77621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-17</Date>
+    <Open>2.66988</Open>
+    <High>2.81288</High>
+    <Low>2.62787</Low>
+    <Close>2.73042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-18</Date>
+    <Open>2.73674</Open>
+    <High>2.75674</High>
+    <Low>2.23376</Low>
+    <Close>2.41209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-19</Date>
+    <Open>2.41808</Open>
+    <High>2.90422</High>
+    <Low>2.30173</Low>
+    <Close>2.81534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-20</Date>
+    <Open>2.81262</Open>
+    <High>2.94505</High>
+    <Low>2.59189</Low>
+    <Close>2.68105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-21</Date>
+    <Open>2.67905</Open>
+    <High>3.01828</High>
+    <Low>2.62984</Low>
+    <Close>2.76595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-22</Date>
+    <Open>2.76895</Open>
+    <High>2.80519</High>
+    <Low>2.58941</Low>
+    <Close>2.65035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-23</Date>
+    <Open>2.65035</Open>
+    <High>2.88231</High>
+    <Low>2.56014</Low>
+    <Close>2.78461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-24</Date>
+    <Open>2.78122</Open>
+    <High>3.07981</High>
+    <Low>2.76104</Low>
+    <Close>3.00605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-25</Date>
+    <Open>3.001</Open>
+    <High>3.0904</High>
+    <Low>2.7925</Low>
+    <Close>3.04906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-26</Date>
+    <Open>3.04627</Open>
+    <High>3.3263</High>
+    <Low>2.87613</Low>
+    <Close>2.93938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-27</Date>
+    <Open>2.93951</Open>
+    <High>2.98989</High>
+    <Low>2.73888</Low>
+    <Close>2.83348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-28</Date>
+    <Open>2.8361</Open>
+    <High>3.26473</High>
+    <Low>2.77695</Low>
+    <Close>3.03366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-29</Date>
+    <Open>3.03323</Open>
+    <High>3.08438</High>
+    <Low>2.74621</Low>
+    <Close>3.02227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-06-30</Date>
+    <Open>3.01997</Open>
+    <High>3.12106</High>
+    <Low>2.65068</Low>
+    <Close>2.68238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-01</Date>
+    <Open>2.68487</Open>
+    <High>2.902</High>
+    <Low>2.6646</Low>
+    <Close>2.73129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-02</Date>
+    <Open>2.73099</Open>
+    <High>2.78573</High>
+    <Low>2.67569</Low>
+    <Close>2.74181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-03</Date>
+    <Open>2.74083</Open>
+    <High>2.77351</High>
+    <Low>2.6857</Low>
+    <Close>2.73085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-04</Date>
+    <Open>2.73167</Open>
+    <High>2.87884</High>
+    <Low>2.7128</Low>
+    <Close>2.87215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-05</Date>
+    <Open>2.87315</Open>
+    <High>2.97123</High>
+    <Low>2.71761</Low>
+    <Close>2.84668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-06</Date>
+    <Open>2.84726</Open>
+    <High>2.87404</High>
+    <Low>2.7469</Low>
+    <Close>2.84327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-07</Date>
+    <Open>2.84637</Open>
+    <High>3.02017</High>
+    <Low>2.82649</Low>
+    <Close>2.94733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-08</Date>
+    <Open>2.94803</Open>
+    <High>3.13342</High>
+    <Low>2.8489</Low>
+    <Close>2.90106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-09</Date>
+    <Open>2.90296</Open>
+    <High>2.96402</High>
+    <Low>2.86228</Low>
+    <Close>2.93014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-10</Date>
+    <Open>2.92985</Open>
+    <High>2.93784</High>
+    <Low>2.71067</Low>
+    <Close>2.76494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-11</Date>
+    <Open>2.75884</Open>
+    <High>2.76474</High>
+    <Low>2.61744</Low>
+    <Close>2.65051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-12</Date>
+    <Open>2.64532</Open>
+    <High>2.64692</High>
+    <Low>2.46663</Low>
+    <Close>2.5012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-13</Date>
+    <Open>2.5012</Open>
+    <High>2.56823</High>
+    <Low>2.29547</Low>
+    <Close>2.49206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-14</Date>
+    <Open>2.49295</Open>
+    <High>2.6575</High>
+    <Low>2.45573</Low>
+    <Close>2.60873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-15</Date>
+    <Open>2.60993</Open>
+    <High>2.73046</High>
+    <Low>2.57116</Low>
+    <Close>2.63881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-16</Date>
+    <Open>2.63891</Open>
+    <High>2.74598</High>
+    <Low>2.5146</Low>
+    <Close>2.68216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-17</Date>
+    <Open>2.68106</Open>
+    <High>2.86151</High>
+    <Low>2.64885</Low>
+    <Close>2.72689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-18</Date>
+    <Open>2.72755</Open>
+    <High>3.23586</High>
+    <Low>2.70109</Low>
+    <Close>2.97742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-19</Date>
+    <Open>2.97609</Open>
+    <High>3.39537</High>
+    <Low>2.9724</Low>
+    <Close>3.36764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-20</Date>
+    <Open>3.36784</Open>
+    <High>3.45028</High>
+    <Low>2.93814</Low>
+    <Close>3.07605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-21</Date>
+    <Open>3.07545</Open>
+    <High>3.15106</High>
+    <Low>2.86229</Low>
+    <Close>3.11165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-22</Date>
+    <Open>3.11558</Open>
+    <High>3.19224</High>
+    <Low>2.91472</Low>
+    <Close>2.96852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-23</Date>
+    <Open>2.9641</Open>
+    <High>3.35103</High>
+    <Low>2.90656</Low>
+    <Close>3.22841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-24</Date>
+    <Open>3.22802</Open>
+    <High>3.62307</High>
+    <Low>3.20016</Low>
+    <Close>3.29646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-25</Date>
+    <Open>3.29613</Open>
+    <High>3.33147</High>
+    <Low>2.93135</Low>
+    <Close>2.97324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-26</Date>
+    <Open>2.97314</Open>
+    <High>2.9733</High>
+    <Low>2.6644</Low>
+    <Close>2.73721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-27</Date>
+    <Open>2.7313</Open>
+    <High>3.0388</High>
+    <Low>2.70878</Low>
+    <Close>3.02193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-28</Date>
+    <Open>3.02122</Open>
+    <High>3.36751</High>
+    <Low>2.91941</Low>
+    <Close>3.26855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-29</Date>
+    <Open>3.26869</Open>
+    <High>3.59885</High>
+    <Low>3.1332</Low>
+    <Close>3.25293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-30</Date>
+    <Open>3.25503</Open>
+    <High>4.24574</High>
+    <Low>3.2278</Low>
+    <Close>3.69296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-07-31</Date>
+    <Open>3.71826</Open>
+    <High>4.59315</High>
+    <Low>3.51302</Low>
+    <Close>3.93691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-01</Date>
+    <Open>3.93718</Open>
+    <High>4.26353</High>
+    <Low>3.5685</Low>
+    <Close>3.60108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-02</Date>
+    <Open>3.60308</Open>
+    <High>3.82088</High>
+    <Low>3.38505</Low>
+    <Close>3.69163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-03</Date>
+    <Open>3.69163</Open>
+    <High>4.01364</High>
+    <Low>3.49787</Low>
+    <Close>3.95395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-04</Date>
+    <Open>3.95719</Open>
+    <High>4.14608</High>
+    <Low>3.58525</Low>
+    <Close>3.62311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-05</Date>
+    <Open>3.61311</Open>
+    <High>4.00544</High>
+    <Low>3.60414</Low>
+    <Close>3.85973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-06</Date>
+    <Open>3.86273</Open>
+    <High>3.9838</High>
+    <Low>3.79857</Low>
+    <Close>3.84785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-07</Date>
+    <Open>3.84889</Open>
+    <High>3.85789</High>
+    <Low>3.66192</Low>
+    <Close>3.79972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-08</Date>
+    <Open>3.80172</Open>
+    <High>3.94375</High>
+    <Low>3.68663</Low>
+    <Close>3.82446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-09</Date>
+    <Open>3.82146</Open>
+    <High>4.07281</High>
+    <Low>3.38964</Low>
+    <Close>3.56471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-10</Date>
+    <Open>3.56671</Open>
+    <High>3.75121</High>
+    <Low>3.40995</Low>
+    <Close>3.69407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-11</Date>
+    <Open>3.69611</Open>
+    <High>3.84558</High>
+    <Low>3.5143</Low>
+    <Close>3.56568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-12</Date>
+    <Open>3.56668</Open>
+    <High>3.63181</High>
+    <Low>3.45238</Low>
+    <Close>3.54763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-13</Date>
+    <Open>3.54563</Open>
+    <High>3.68877</High>
+    <Low>3.49657</Low>
+    <Close>3.54038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-14</Date>
+    <Open>3.54142</Open>
+    <High>3.63438</High>
+    <Low>3.27382</Low>
+    <Close>3.34804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-15</Date>
+    <Open>3.346</Open>
+    <High>3.47794</High>
+    <Low>3.22577</Low>
+    <Close>3.3258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-16</Date>
+    <Open>3.33077</Open>
+    <High>3.38154</High>
+    <Low>3.24529</Low>
+    <Close>3.3003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-17</Date>
+    <Open>3.3003</Open>
+    <High>3.41844</High>
+    <Low>2.98015</Low>
+    <Close>3.03121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-18</Date>
+    <Open>3.03121</Open>
+    <High>3.11703</High>
+    <Low>3.00727</Low>
+    <Close>3.04703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-19</Date>
+    <Open>3.05231</Open>
+    <High>3.05231</High>
+    <Low>2.506</Low>
+    <Close>2.63726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-20</Date>
+    <Open>2.64413</Open>
+    <High>3.02945</High>
+    <Low>2.6063</Low>
+    <Close>2.67097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-21</Date>
+    <Open>2.67095</Open>
+    <High>2.8526</High>
+    <Low>2.66087</Low>
+    <Close>2.80292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-22</Date>
+    <Open>2.80094</Open>
+    <High>2.81708</High>
+    <Low>2.57982</Low>
+    <Close>2.64455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-23</Date>
+    <Open>2.64358</Open>
+    <High>2.75797</High>
+    <Low>2.59997</Low>
+    <Close>2.73105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-24</Date>
+    <Open>2.73</Open>
+    <High>2.82234</High>
+    <Low>2.66787</Low>
+    <Close>2.75822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-25</Date>
+    <Open>2.76522</Open>
+    <High>2.82489</High>
+    <Low>2.69197</Low>
+    <Close>2.73708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-26</Date>
+    <Open>2.74008</Open>
+    <High>2.75189</High>
+    <Low>2.45798</Low>
+    <Close>2.51525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-27</Date>
+    <Open>2.51625</Open>
+    <High>2.52125</High>
+    <Low>2.39224</Low>
+    <Close>2.43007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-28</Date>
+    <Open>2.42407</Open>
+    <High>2.5071</High>
+    <Low>2.42205</Low>
+    <Close>2.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-29</Date>
+    <Open>2.456</Open>
+    <High>2.55813</High>
+    <Low>2.32581</Low>
+    <Close>2.55618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-30</Date>
+    <Open>2.55526</Open>
+    <High>2.60495</High>
+    <Low>2.39826</Low>
+    <Close>2.45722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-08-31</Date>
+    <Open>2.4572</Open>
+    <High>2.591</High>
+    <Low>2.4432</Low>
+    <Close>2.55897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-01</Date>
+    <Open>2.55697</Open>
+    <High>2.56303</High>
+    <Low>2.41907</Low>
+    <Close>2.51485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-02</Date>
+    <Open>2.51685</Open>
+    <High>2.57241</High>
+    <Low>2.45312</Low>
+    <Close>2.49137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-03</Date>
+    <Open>2.4904</Open>
+    <High>2.50828</High>
+    <Low>2.45</Low>
+    <Close>2.463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-04</Date>
+    <Open>2.465</Open>
+    <High>2.521</High>
+    <Low>2.421</Low>
+    <Close>2.509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-05</Date>
+    <Open>2.509</Open>
+    <High>2.548</High>
+    <Low>2.414</Low>
+    <Close>2.43224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-06</Date>
+    <Open>2.43024</Open>
+    <High>2.876</High>
+    <Low>2.42224</Low>
+    <Close>2.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-07</Date>
+    <Open>2.57</Open>
+    <High>2.68905</High>
+    <Low>2.32891</Low>
+    <Close>2.53218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-08</Date>
+    <Open>2.534</Open>
+    <High>2.596</High>
+    <Low>2.42524</Low>
+    <Close>2.48137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-09</Date>
+    <Open>2.482</Open>
+    <High>3.3137</High>
+    <Low>2.47335</Low>
+    <Close>3.21606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-10</Date>
+    <Open>3.21919</Open>
+    <High>3.39092</High>
+    <Low>2.88718</Low>
+    <Close>2.99057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-11</Date>
+    <Open>2.99457</Open>
+    <High>3.34987</High>
+    <Low>2.93073</Low>
+    <Close>2.95774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-12</Date>
+    <Open>2.95974</Open>
+    <High>3.13763</High>
+    <Low>2.83048</Low>
+    <Close>2.96259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-13</Date>
+    <Open>2.96353</Open>
+    <High>2.97754</High>
+    <Low>2.66711</Low>
+    <Close>2.82606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-14</Date>
+    <Open>2.81903</Open>
+    <High>2.8404</High>
+    <Low>2.57603</Low>
+    <Close>2.67167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-15</Date>
+    <Open>2.67169</Open>
+    <High>2.7236</High>
+    <Low>2.50277</Low>
+    <Close>2.56677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-16</Date>
+    <Open>2.56677</Open>
+    <High>2.684</High>
+    <Low>2.48575</Low>
+    <Close>2.67073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-17</Date>
+    <Open>2.66973</Open>
+    <High>2.68</High>
+    <Low>2.579</Low>
+    <Close>2.63526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-18</Date>
+    <Open>2.635</Open>
+    <High>2.76728</High>
+    <Low>2.36676</Low>
+    <Close>2.407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-19</Date>
+    <Open>2.405</Open>
+    <High>2.54651</High>
+    <Low>2.337</Low>
+    <Close>2.52225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-20</Date>
+    <Open>2.52225</Open>
+    <High>2.56526</High>
+    <Low>2.40248</Low>
+    <Close>2.45425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-21</Date>
+    <Open>2.441</Open>
+    <High>2.59626</High>
+    <Low>2.37724</Low>
+    <Close>2.454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-22</Date>
+    <Open>2.451</Open>
+    <High>2.732</High>
+    <Low>2.408</Low>
+    <Close>2.692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-23</Date>
+    <Open>2.692</Open>
+    <High>2.962</High>
+    <Low>2.605</Low>
+    <Close>2.839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-24</Date>
+    <Open>2.8438</Open>
+    <High>2.88177</High>
+    <Low>2.68797</Low>
+    <Close>2.70222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-25</Date>
+    <Open>2.703</Open>
+    <High>2.87491</High>
+    <Low>2.61897</Low>
+    <Close>2.61997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-26</Date>
+    <Open>2.623</Open>
+    <High>2.71473</High>
+    <Low>2.57697</Low>
+    <Close>2.673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-27</Date>
+    <Open>2.671</Open>
+    <High>2.801</High>
+    <Low>2.588</Low>
+    <Close>2.63274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-28</Date>
+    <Open>2.62774</Open>
+    <High>2.661</High>
+    <Low>2.49075</Low>
+    <Close>2.637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-29</Date>
+    <Open>2.638</Open>
+    <High>2.68373</High>
+    <Low>2.553</Low>
+    <Close>2.605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-09-30</Date>
+    <Open>2.607</Open>
+    <High>2.64826</High>
+    <Low>2.573</Low>
+    <Close>2.582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-01</Date>
+    <Open>2.57926</Open>
+    <High>2.6</High>
+    <Low>2.551</Low>
+    <Close>2.574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-02</Date>
+    <Open>2.571</Open>
+    <High>2.61126</High>
+    <Low>2.494</Low>
+    <Close>2.539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-03</Date>
+    <Open>2.53525</Open>
+    <High>2.64226</High>
+    <Low>2.446</Low>
+    <Close>2.58926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-04</Date>
+    <Open>2.59226</Open>
+    <High>2.6678</High>
+    <Low>2.59026</Low>
+    <Close>2.64279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-05</Date>
+    <Open>2.64653</Open>
+    <High>2.6538</High>
+    <Low>2.54325</Low>
+    <Close>2.59026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-06</Date>
+    <Open>2.58952</Open>
+    <High>2.6964</High>
+    <Low>2.58634</Low>
+    <Close>2.63447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-07</Date>
+    <Open>2.63445</Open>
+    <High>2.65832</High>
+    <Low>2.56405</Low>
+    <Close>2.61737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-08</Date>
+    <Open>2.61831</Open>
+    <High>2.66951</High>
+    <Low>2.57667</Low>
+    <Close>2.57967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-09</Date>
+    <Open>2.57864</Open>
+    <High>2.62152</High>
+    <Low>2.57449</Low>
+    <Close>2.61826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-10</Date>
+    <Open>2.61452</Open>
+    <High>2.66127</High>
+    <Low>2.51575</Low>
+    <Close>2.534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-11</Date>
+    <Open>2.536</Open>
+    <High>2.536</High>
+    <Low>2.39</Low>
+    <Close>2.40778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-12</Date>
+    <Open>2.40776</Open>
+    <High>2.43456</High>
+    <Low>2.31991</Low>
+    <Close>2.39007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-13</Date>
+    <Open>2.39402</Open>
+    <High>2.39598</High>
+    <Low>2.1297</Low>
+    <Close>2.37619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-14</Date>
+    <Open>2.37719</Open>
+    <High>2.4161</High>
+    <Low>2.22909</Low>
+    <Close>2.23609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-15</Date>
+    <Open>2.24109</Open>
+    <High>2.29707</High>
+    <Low>2.21122</Low>
+    <Close>2.24811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-16</Date>
+    <Open>2.24641</Open>
+    <High>2.32498</High>
+    <Low>2.21415</Low>
+    <Close>2.28109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-17</Date>
+    <Open>2.27911</Open>
+    <High>2.36519</High>
+    <Low>2.27409</Low>
+    <Close>2.33005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-18</Date>
+    <Open>2.33602</Open>
+    <High>2.36907</High>
+    <Low>2.16496</Low>
+    <Close>2.20811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-19</Date>
+    <Open>2.20522</Open>
+    <High>2.21318</High>
+    <Low>2.13504</Low>
+    <Close>2.174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-20</Date>
+    <Open>2.16998</Open>
+    <High>2.17207</High>
+    <Low>2.03686</Low>
+    <Close>2.06277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-21</Date>
+    <Open>2.06381</Open>
+    <High>2.06486</High>
+    <Low>1.92996</Low>
+    <Close>2.01416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-22</Date>
+    <Open>2.02114</Open>
+    <High>2.0342</High>
+    <Low>1.9532</Low>
+    <Close>1.99218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-23</Date>
+    <Open>1.98916</Open>
+    <High>2.04368</High>
+    <Low>1.94304</Low>
+    <Close>2.01866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-24</Date>
+    <Open>2.02304</Open>
+    <High>2.05822</High>
+    <Low>1.93334</Low>
+    <Close>1.95738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-25</Date>
+    <Open>1.95768</Open>
+    <High>2.0967</High>
+    <Low>1.94508</Low>
+    <Close>2.06436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-26</Date>
+    <Open>2.05518</Open>
+    <High>2.12448</High>
+    <Low>2.02837</Low>
+    <Close>2.06958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-27</Date>
+    <Open>2.0646</Open>
+    <High>2.2124</High>
+    <Low>2.04859</Low>
+    <Close>2.11913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-28</Date>
+    <Open>2.12313</Open>
+    <High>2.18239</High>
+    <Low>2.03014</Low>
+    <Close>2.15243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-29</Date>
+    <Open>2.15641</Open>
+    <High>2.3437</High>
+    <Low>2.13841</Low>
+    <Close>2.1815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-30</Date>
+    <Open>2.1775</Open>
+    <High>2.35945</High>
+    <Low>2.15239</Low>
+    <Close>2.18344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-10-31</Date>
+    <Open>2.18146</Open>
+    <High>2.22642</High>
+    <Low>2.10992</Low>
+    <Close>2.13883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-01</Date>
+    <Open>2.14187</Open>
+    <High>2.17572</High>
+    <Low>2.07459</Low>
+    <Close>2.09379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-02</Date>
+    <Open>2.09279</Open>
+    <High>2.14357</High>
+    <Low>1.9799</Low>
+    <Close>2.04988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-03</Date>
+    <Open>2.0449</Open>
+    <High>2.5799</High>
+    <Low>2.04188</Low>
+    <Close>2.40998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-04</Date>
+    <Open>2.416</Open>
+    <High>2.50022</High>
+    <Low>2.31579</Low>
+    <Close>2.4802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-05</Date>
+    <Open>2.4762</Open>
+    <High>2.64813</High>
+    <Low>2.37407</Low>
+    <Close>2.41214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-06</Date>
+    <Open>2.41212</Open>
+    <High>2.4399</High>
+    <Low>2.23525</Low>
+    <Close>2.25418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-07</Date>
+    <Open>2.24718</Open>
+    <High>2.26218</High>
+    <Low>2.13109</Low>
+    <Close>2.15326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-08</Date>
+    <Open>2.15565</Open>
+    <High>2.19344</High>
+    <Low>1.57398</Low>
+    <Close>1.72917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-09</Date>
+    <Open>1.72616</Open>
+    <High>1.78788</High>
+    <Low>1.32654</Low>
+    <Close>1.34889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-10</Date>
+    <Open>1.34814</Open>
+    <High>1.74259</High>
+    <Low>1.31755</Low>
+    <Close>1.61174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-11</Date>
+    <Open>1.60889</Open>
+    <High>1.83153</High>
+    <Low>1.46147</Low>
+    <Close>1.5487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-12</Date>
+    <Open>1.54615</Open>
+    <High>1.56555</High>
+    <Low>1.41744</Low>
+    <Close>1.45937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-13</Date>
+    <Open>1.45937</Open>
+    <High>1.50689</High>
+    <Low>1.37865</Low>
+    <Close>1.43599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-14</Date>
+    <Open>1.43599</Open>
+    <High>1.47238</High>
+    <Low>1.329</Low>
+    <Close>1.43599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-15</Date>
+    <Open>1.43677</Open>
+    <High>1.56181</High>
+    <Low>1.43099</Low>
+    <Close>1.47752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-16</Date>
+    <Open>1.48818</Open>
+    <High>1.51323</High>
+    <Low>1.41557</Low>
+    <Close>1.46065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-17</Date>
+    <Open>1.46264</Open>
+    <High>1.49072</High>
+    <Low>1.40867</Low>
+    <Close>1.42589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-18</Date>
+    <Open>1.42387</Open>
+    <High>1.43586</High>
+    <Low>1.38547</Low>
+    <Close>1.40239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-19</Date>
+    <Open>1.40437</Open>
+    <High>1.41747</High>
+    <Low>1.35455</Low>
+    <Close>1.40652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-20</Date>
+    <Open>1.40852</Open>
+    <High>1.45725</High>
+    <Low>1.35748</Low>
+    <Close>1.37391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-21</Date>
+    <Open>1.3779</Open>
+    <High>1.38503</High>
+    <Low>1.23172</Low>
+    <Close>1.26848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-22</Date>
+    <Open>1.26748</Open>
+    <High>1.32639</High>
+    <Low>1.22851</Low>
+    <Close>1.31439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-23</Date>
+    <Open>1.31495</Open>
+    <High>1.66899</High>
+    <Low>1.29644</Low>
+    <Close>1.45541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-24</Date>
+    <Open>1.4534</Open>
+    <High>1.52743</High>
+    <Low>1.43167</Low>
+    <Close>1.51271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-25</Date>
+    <Open>1.51471</Open>
+    <High>1.54587</High>
+    <Low>1.42898</Low>
+    <Close>1.46217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-26</Date>
+    <Open>1.46198</Open>
+    <High>1.531</High>
+    <Low>1.45815</Low>
+    <Close>1.48612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-27</Date>
+    <Open>1.48512</Open>
+    <High>1.55008</High>
+    <Low>1.47603</Low>
+    <Close>1.52203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-28</Date>
+    <Open>1.52003</Open>
+    <High>1.56736</High>
+    <Low>1.41526</Low>
+    <Close>1.55141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-29</Date>
+    <Open>1.54741</Open>
+    <High>1.59506</High>
+    <Low>1.51249</Low>
+    <Close>1.52842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-11-30</Date>
+    <Open>1.53043</Open>
+    <High>1.60236</High>
+    <Low>1.50697</Low>
+    <Close>1.58806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-01</Date>
+    <Open>1.58805</Open>
+    <High>1.73009</High>
+    <Low>1.56088</Low>
+    <Close>1.5931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-02</Date>
+    <Open>1.5951</Open>
+    <High>1.59708</High>
+    <Low>1.52617</Low>
+    <Close>1.57509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-03</Date>
+    <Open>1.57809</Open>
+    <High>1.61319</High>
+    <Low>1.4923</Low>
+    <Close>1.49915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-04</Date>
+    <Open>1.50015</Open>
+    <High>1.53815</High>
+    <Low>1.49315</Low>
+    <Close>1.50815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-05</Date>
+    <Open>1.50715</Open>
+    <High>1.56919</High>
+    <Low>1.48301</Low>
+    <Close>1.50903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-06</Date>
+    <Open>1.51003</Open>
+    <High>1.53411</High>
+    <Low>1.49513</Low>
+    <Close>1.502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-07</Date>
+    <Open>1.501</Open>
+    <High>1.534</High>
+    <Low>1.4151</Low>
+    <Close>1.429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-08</Date>
+    <Open>1.429</Open>
+    <High>1.4581</High>
+    <Low>1.37514</Low>
+    <Close>1.4341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-09</Date>
+    <Open>1.43511</Open>
+    <High>1.44309</High>
+    <Low>1.40307</Low>
+    <Close>1.41304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-10</Date>
+    <Open>1.41604</Open>
+    <High>1.46703</High>
+    <Low>1.41294</Low>
+    <Close>1.42397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-11</Date>
+    <Open>1.42599</Open>
+    <High>1.44106</High>
+    <Low>1.38228</Low>
+    <Close>1.38814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-12</Date>
+    <Open>1.38728</Open>
+    <High>1.40414</High>
+    <Low>1.31612</Low>
+    <Close>1.39613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-13</Date>
+    <Open>1.3971</Open>
+    <High>1.41779</High>
+    <Low>1.31435</Low>
+    <Close>1.40066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-14</Date>
+    <Open>1.40466</Open>
+    <High>1.45077</High>
+    <Low>1.37201</Low>
+    <Close>1.4061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-15</Date>
+    <Open>1.406</Open>
+    <High>1.40828</High>
+    <Low>1.36727</Low>
+    <Close>1.37227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-16</Date>
+    <Open>1.37127</Open>
+    <High>1.39614</High>
+    <Low>1.08611</Low>
+    <Close>1.16412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-17</Date>
+    <Open>1.16412</Open>
+    <High>1.17312</High>
+    <Low>1.0731</Low>
+    <Close>1.11414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-18</Date>
+    <Open>1.11616</Open>
+    <High>1.13011</High>
+    <Low>1.0651</Low>
+    <Close>1.08313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-19</Date>
+    <Open>1.08314</Open>
+    <High>1.10219</High>
+    <Low>1.00002</Low>
+    <Close>1.01598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-20</Date>
+    <Open>1.016</Open>
+    <High>1.10198</High>
+    <Low>1.01199</Low>
+    <Close>1.07904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-21</Date>
+    <Open>1.08004</Open>
+    <High>1.08704</High>
+    <Low>1.023</Low>
+    <Close>1.03505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-22</Date>
+    <Open>1.03604</Open>
+    <High>1.06784</High>
+    <Low>1.01791</Low>
+    <Close>1.05782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-23</Date>
+    <Open>1.05983</Open>
+    <High>1.09487</High>
+    <Low>1.05384</Low>
+    <Close>1.07989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-24</Date>
+    <Open>1.07889</Open>
+    <High>1.08791</High>
+    <Low>1.0679</Low>
+    <Close>1.08393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-25</Date>
+    <Open>1.08294</Open>
+    <High>1.09587</High>
+    <Low>1.04485</Low>
+    <Close>1.07484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-26</Date>
+    <Open>1.07287</Open>
+    <High>1.08888</High>
+    <Low>1.06089</Low>
+    <Close>1.07578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-27</Date>
+    <Open>1.07678</Open>
+    <High>1.09774</High>
+    <Low>1.0516</Low>
+    <Close>1.06758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-28</Date>
+    <Open>1.06758</Open>
+    <High>1.08158</High>
+    <Low>1.01669</Low>
+    <Close>1.03044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-29</Date>
+    <Open>1.02945</Open>
+    <High>1.04957</High>
+    <Low>1.01357</Low>
+    <Close>1.02255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-30</Date>
+    <Open>1.02354</Open>
+    <High>1.03352</High>
+    <Low>0.99355</Low>
+    <Close>1.01729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2022-12-31</Date>
+    <Open>1.01848</Open>
+    <High>1.04146</High>
+    <Low>1.00958</Low>
+    <Close>1.02239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-01</Date>
+    <Open>1.02289</Open>
+    <High>1.04253</High>
+    <Low>1.01056</Low>
+    <Close>1.03841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-02</Date>
+    <Open>1.03841</Open>
+    <High>1.08657</High>
+    <Low>1.02688</Low>
+    <Close>1.06545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-03</Date>
+    <Open>1.06595</Open>
+    <High>1.08172</High>
+    <Low>1.02897</Low>
+    <Close>1.03771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-04</Date>
+    <Open>1.0375</Open>
+    <High>1.10706</High>
+    <Low>1.0375</Low>
+    <Close>1.08214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-05</Date>
+    <Open>1.08194</Open>
+    <High>1.20604</High>
+    <Low>1.08183</Low>
+    <Close>1.12621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-06</Date>
+    <Open>1.12746</Open>
+    <High>1.15964</High>
+    <Low>1.07745</Low>
+    <Close>1.15924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-07</Date>
+    <Open>1.15843</Open>
+    <High>1.17197</High>
+    <Low>1.11745</Low>
+    <Close>1.13153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-08</Date>
+    <Open>1.13086</Open>
+    <High>1.27478</High>
+    <Low>1.11745</Low>
+    <Close>1.22035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-09</Date>
+    <Open>1.22565</Open>
+    <High>1.41646</High>
+    <Low>1.20701</Low>
+    <Close>1.26729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-10</Date>
+    <Open>1.2688</Open>
+    <High>1.31799</High>
+    <Low>1.24254</Low>
+    <Close>1.26958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-11</Date>
+    <Open>1.2702</Open>
+    <High>1.31102</High>
+    <Low>1.20597</Low>
+    <Close>1.25619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-12</Date>
+    <Open>1.257</Open>
+    <High>1.3442</High>
+    <Low>1.24488</Low>
+    <Close>1.33413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-13</Date>
+    <Open>1.33413</Open>
+    <High>1.43311</High>
+    <Low>1.31612</Low>
+    <Close>1.40713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-14</Date>
+    <Open>1.41213</Open>
+    <High>1.5652</High>
+    <Low>1.40517</Low>
+    <Close>1.49607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-15</Date>
+    <Open>1.49607</Open>
+    <High>1.7186</High>
+    <Low>1.4531</Low>
+    <Close>1.58946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-16</Date>
+    <Open>1.58964</Open>
+    <High>1.61161</High>
+    <Low>1.4741</Low>
+    <Close>1.54903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-17</Date>
+    <Open>1.55002</Open>
+    <High>1.59218</High>
+    <Low>1.521</Low>
+    <Close>1.53515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-18</Date>
+    <Open>1.53615</Open>
+    <High>1.9912</High>
+    <Low>1.52321</Low>
+    <Close>1.65292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-19</Date>
+    <Open>1.65092</Open>
+    <High>1.74881</High>
+    <Low>1.59794</Low>
+    <Close>1.70993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-20</Date>
+    <Open>1.7101</Open>
+    <High>1.93635</High>
+    <Low>1.66998</Low>
+    <Close>1.91234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-21</Date>
+    <Open>1.91334</Open>
+    <High>2.0293</High>
+    <Low>1.8331</Low>
+    <Close>1.88338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-22</Date>
+    <Open>1.88028</Open>
+    <High>1.97237</High>
+    <Low>1.83744</Low>
+    <Close>1.89538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-23</Date>
+    <Open>1.89636</Open>
+    <High>2.18322</High>
+    <Low>1.88836</Low>
+    <Close>1.98632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-24</Date>
+    <Open>1.99028</Open>
+    <High>2.04122</High>
+    <Low>1.77227</Low>
+    <Close>1.85406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-25</Date>
+    <Open>1.85206</Open>
+    <High>2.01926</High>
+    <Low>1.81334</Low>
+    <Close>1.95833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-26</Date>
+    <Open>1.95733</Open>
+    <High>2.17528</High>
+    <Low>1.95033</Low>
+    <Close>2.14724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-27</Date>
+    <Open>2.14519</Open>
+    <High>2.29232</High>
+    <Low>2.0576</Low>
+    <Close>2.21609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-28</Date>
+    <Open>2.21678</Open>
+    <High>2.27168</High>
+    <Low>2.14549</Low>
+    <Close>2.21944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-29</Date>
+    <Open>2.22645</Open>
+    <High>2.29648</High>
+    <Low>2.16117</Low>
+    <Close>2.19311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-30</Date>
+    <Open>2.19009</Open>
+    <High>2.22611</High>
+    <Low>1.95798</Low>
+    <Close>2.02314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-01-31</Date>
+    <Open>2.02112</Open>
+    <High>2.09719</High>
+    <Low>1.9809</Low>
+    <Close>2.08319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-01</Date>
+    <Open>2.08419</Open>
+    <High>2.49702</High>
+    <Low>2.07506</Low>
+    <Close>2.38814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-02</Date>
+    <Open>2.39612</Open>
+    <High>2.6834</High>
+    <Low>2.3791</Low>
+    <Close>2.61552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-03</Date>
+    <Open>2.61352</Open>
+    <High>2.62858</High>
+    <Low>2.44117</Low>
+    <Close>2.5172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-04</Date>
+    <Open>2.51623</Open>
+    <High>2.61921</High>
+    <Low>2.4402</Low>
+    <Close>2.5052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-05</Date>
+    <Open>2.5072</Open>
+    <High>2.58123</High>
+    <Low>2.27659</Low>
+    <Close>2.32458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-06</Date>
+    <Open>2.3226</Open>
+    <High>2.37157</High>
+    <Low>2.22827</Low>
+    <Close>2.25907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-07</Date>
+    <Open>2.25809</Open>
+    <High>2.5639</High>
+    <Low>2.21218</Low>
+    <Close>2.50018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-08</Date>
+    <Open>2.50015</Open>
+    <High>2.76817</High>
+    <Low>2.36914</Low>
+    <Close>2.41619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-09</Date>
+    <Open>2.42217</Open>
+    <High>2.48798</High>
+    <Low>1.94341</Low>
+    <Close>1.99818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-10</Date>
+    <Open>2.00418</Open>
+    <High>2.0685</High>
+    <Low>1.9952</Low>
+    <Close>2.0193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-11</Date>
+    <Open>2.0213</Open>
+    <High>2.15419</High>
+    <Low>1.99728</Low>
+    <Close>2.14121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-12</Date>
+    <Open>2.14043</Open>
+    <High>2.17717</High>
+    <Low>2.05829</Low>
+    <Close>2.12217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-13</Date>
+    <Open>2.12221</Open>
+    <High>2.12421</High>
+    <Low>1.85619</Low>
+    <Close>1.92304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-14</Date>
+    <Open>1.92006</Open>
+    <High>2.09984</High>
+    <Low>1.8883</Low>
+    <Close>2.08185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-15</Date>
+    <Open>2.08183</Open>
+    <High>2.29941</High>
+    <Low>2.06174</Low>
+    <Close>2.27741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-16</Date>
+    <Open>2.27941</Open>
+    <High>2.31742</High>
+    <Low>2.13466</Low>
+    <Close>2.13873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-17</Date>
+    <Open>2.14426</Open>
+    <High>2.25511</High>
+    <Low>2.09025</Low>
+    <Close>2.2352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-18</Date>
+    <Open>2.2322</Open>
+    <High>2.3384</High>
+    <Low>2.22538</Low>
+    <Close>2.27036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-19</Date>
+    <Open>2.27336</Open>
+    <High>2.4775</High>
+    <Low>2.26632</Low>
+    <Close>2.31551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-20</Date>
+    <Open>2.31551</Open>
+    <High>2.37667</High>
+    <Low>2.24365</Low>
+    <Close>2.32707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-21</Date>
+    <Open>2.32709</Open>
+    <High>2.43415</High>
+    <Low>2.18642</Low>
+    <Close>2.22438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-22</Date>
+    <Open>2.2244</Open>
+    <High>2.26823</High>
+    <Low>2.13332</Low>
+    <Close>2.23402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-23</Date>
+    <Open>2.23303</Open>
+    <High>2.29118</High>
+    <Low>2.14524</Low>
+    <Close>2.17028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-24</Date>
+    <Open>2.1693</Open>
+    <High>2.19935</High>
+    <Low>1.94816</Low>
+    <Close>1.98196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-25</Date>
+    <Open>1.98096</Open>
+    <High>2.00008</High>
+    <Low>1.80434</Low>
+    <Close>1.85413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-26</Date>
+    <Open>1.85211</Open>
+    <High>1.99006</High>
+    <Low>1.85018</Low>
+    <Close>1.94516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-27</Date>
+    <Open>1.9481</Open>
+    <High>1.99048</High>
+    <Low>1.88383</Low>
+    <Close>1.94432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-02-28</Date>
+    <Open>1.94702</Open>
+    <High>1.96472</High>
+    <Low>1.86297</Low>
+    <Close>1.90232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-01</Date>
+    <Open>1.90076</Open>
+    <High>1.97634</High>
+    <Low>1.8752</Low>
+    <Close>1.96906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-02</Date>
+    <Open>1.96796</Open>
+    <High>1.98084</High>
+    <Low>1.87277</Low>
+    <Close>1.93836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-03</Date>
+    <Open>1.94177</Open>
+    <High>1.94177</High>
+    <Low>1.67603</Low>
+    <Close>1.7036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-04</Date>
+    <Open>1.70612</Open>
+    <High>1.7401</High>
+    <Low>1.58538</Low>
+    <Close>1.61263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-05</Date>
+    <Open>1.61273</Open>
+    <High>1.69875</High>
+    <Low>1.61205</Low>
+    <Close>1.65328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-06</Date>
+    <Open>1.65418</Open>
+    <High>1.6951</High>
+    <Low>1.60817</Low>
+    <Close>1.6724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-07</Date>
+    <Open>1.67208</Open>
+    <High>1.696</High>
+    <Low>1.57846</Low>
+    <Close>1.61232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-08</Date>
+    <Open>1.61164</Open>
+    <High>1.6417</High>
+    <Low>1.46003</Low>
+    <Close>1.47584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-09</Date>
+    <Open>1.47625</Open>
+    <High>1.55014</High>
+    <Low>1.36703</Low>
+    <Close>1.37624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-10</Date>
+    <Open>1.37594</Open>
+    <High>1.42971</High>
+    <Low>1.3025</Low>
+    <Close>1.42713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-11</Date>
+    <Open>1.4268</Open>
+    <High>1.47347</High>
+    <Low>1.31107</Low>
+    <Close>1.37487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-12</Date>
+    <Open>1.37607</Open>
+    <High>1.53825</High>
+    <Low>1.36312</Low>
+    <Close>1.52762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-13</Date>
+    <Open>1.53055</Open>
+    <High>1.66156</High>
+    <Low>1.47876</Low>
+    <Close>1.65809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-14</Date>
+    <Open>1.65687</Open>
+    <High>1.78534</High>
+    <Low>1.58469</Low>
+    <Close>1.69956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-15</Date>
+    <Open>1.70018</Open>
+    <High>1.77047</High>
+    <Low>1.53345</Low>
+    <Close>1.56314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-16</Date>
+    <Open>1.56599</Open>
+    <High>1.83163</High>
+    <Low>1.53325</Low>
+    <Close>1.7107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-17</Date>
+    <Open>1.70823</Open>
+    <High>1.84517</High>
+    <Low>1.66666</Low>
+    <Close>1.82644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-18</Date>
+    <Open>1.8389</Open>
+    <High>2.1979</High>
+    <Low>1.83878</Low>
+    <Close>2.00097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-19</Date>
+    <Open>2.007</Open>
+    <High>2.19437</High>
+    <Low>1.96262</Low>
+    <Close>2.02111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-20</Date>
+    <Open>2.02107</Open>
+    <High>2.04516</High>
+    <Low>1.84845</Low>
+    <Close>1.85274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-21</Date>
+    <Open>1.85575</Open>
+    <High>1.91234</High>
+    <Low>1.74049</Low>
+    <Close>1.85291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-22</Date>
+    <Open>1.85291</Open>
+    <High>1.87574</High>
+    <Low>1.69798</Low>
+    <Close>1.74978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-23</Date>
+    <Open>1.74778</Open>
+    <High>1.87574</High>
+    <Low>1.73573</Low>
+    <Close>1.83581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-24</Date>
+    <Open>1.83771</Open>
+    <High>1.90536</High>
+    <Low>1.69933</Low>
+    <Close>1.73287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-25</Date>
+    <Open>1.72775</Open>
+    <High>1.7511</High>
+    <Low>1.66221</Low>
+    <Close>1.67923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-26</Date>
+    <Open>1.67803</Open>
+    <High>1.75476</High>
+    <Low>1.66431</Low>
+    <Close>1.71283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-27</Date>
+    <Open>1.71468</Open>
+    <High>1.73048</High>
+    <Low>1.55711</Low>
+    <Close>1.58845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-28</Date>
+    <Open>1.58625</Open>
+    <High>1.68502</High>
+    <Low>1.56675</Low>
+    <Close>1.67095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-29</Date>
+    <Open>1.67065</Open>
+    <High>1.81337</High>
+    <Low>1.66675</Low>
+    <Close>1.79954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-30</Date>
+    <Open>1.79984</Open>
+    <High>1.8316</High>
+    <Low>1.72066</Low>
+    <Close>1.74227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-03-31</Date>
+    <Open>1.74207</Open>
+    <High>1.785</High>
+    <Low>1.69559</Low>
+    <Close>1.77315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-01</Date>
+    <Open>1.77277</Open>
+    <High>1.80682</High>
+    <Low>1.76508</Low>
+    <Close>1.78206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-02</Date>
+    <Open>1.78334</Open>
+    <High>1.8348</High>
+    <Low>1.70856</Low>
+    <Close>1.72308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-03</Date>
+    <Open>1.72337</Open>
+    <High>1.8175</High>
+    <Low>1.68609</Low>
+    <Close>1.79042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-04</Date>
+    <Open>1.79012</Open>
+    <High>1.92079</High>
+    <Low>1.78577</Low>
+    <Close>1.88196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-05</Date>
+    <Open>1.88196</Open>
+    <High>1.92471</High>
+    <Low>1.82487</Low>
+    <Close>1.86217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-06</Date>
+    <Open>1.86049</Open>
+    <High>1.93424</High>
+    <Low>1.81313</Low>
+    <Close>1.83664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-07</Date>
+    <Open>1.83626</Open>
+    <High>1.88644</High>
+    <Low>1.81108</Low>
+    <Close>1.86009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-08</Date>
+    <Open>1.86098</Open>
+    <High>1.92451</High>
+    <Low>1.84388</Low>
+    <Close>1.90064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-09</Date>
+    <Open>1.90074</Open>
+    <High>1.91941</High>
+    <Low>1.83447</Low>
+    <Close>1.88063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-10</Date>
+    <Open>1.88322</Open>
+    <High>1.96171</High>
+    <Low>1.8405</Low>
+    <Close>1.9524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-11</Date>
+    <Open>1.953</Open>
+    <High>2.01613</High>
+    <Low>1.9419</Low>
+    <Close>1.96152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-12</Date>
+    <Open>1.95984</Open>
+    <High>2.19191</High>
+    <Low>1.88396</Low>
+    <Close>2.10664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-13</Date>
+    <Open>2.10764</Open>
+    <High>2.10764</High>
+    <Low>2.00927</Low>
+    <Close>2.03295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-14</Date>
+    <Open>2.03293</Open>
+    <High>2.17996</High>
+    <Low>2.02794</Low>
+    <Close>2.15279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-15</Date>
+    <Open>2.14676</Open>
+    <High>2.17598</High>
+    <Low>2.08656</Low>
+    <Close>2.13089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-16</Date>
+    <Open>2.12599</Open>
+    <High>2.1397</High>
+    <Low>2.04296</Low>
+    <Close>2.11416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-17</Date>
+    <Open>2.11724</Open>
+    <High>2.13175</High>
+    <Low>2.02672</Low>
+    <Close>2.05801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-18</Date>
+    <Open>2.05921</Open>
+    <High>2.14106</High>
+    <Low>2.03159</Low>
+    <Close>2.09866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-19</Date>
+    <Open>2.09864</Open>
+    <High>2.14308</High>
+    <Low>1.85267</Low>
+    <Close>1.89104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-20</Date>
+    <Open>1.89202</Open>
+    <High>1.91125</High>
+    <Low>1.76323</Low>
+    <Close>1.77218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-21</Date>
+    <Open>1.77211</Open>
+    <High>1.80284</High>
+    <Low>1.62784</Low>
+    <Close>1.62784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-22</Date>
+    <Open>1.63562</Open>
+    <High>1.6792</High>
+    <Low>1.63063</Low>
+    <Close>1.67197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-23</Date>
+    <Open>1.67215</Open>
+    <High>1.68223</High>
+    <Low>1.58565</Low>
+    <Close>1.63838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-24</Date>
+    <Open>1.63628</Open>
+    <High>1.68918</High>
+    <Low>1.61941</Low>
+    <Close>1.66503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-25</Date>
+    <Open>1.66393</Open>
+    <High>1.71179</High>
+    <Low>1.59273</Low>
+    <Close>1.71029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-26</Date>
+    <Open>1.71049</Open>
+    <High>1.80116</High>
+    <Low>1.6</Low>
+    <Close>1.69054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-27</Date>
+    <Open>1.68804</Open>
+    <High>1.80233</High>
+    <Low>1.66953</Low>
+    <Close>1.78734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-28</Date>
+    <Open>1.78755</Open>
+    <High>1.80697</High>
+    <Low>1.75186</Low>
+    <Close>1.78479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-29</Date>
+    <Open>1.78477</Open>
+    <High>1.87794</High>
+    <Low>1.77988</Low>
+    <Close>1.83368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-04-30</Date>
+    <Open>1.83586</Open>
+    <High>1.84571</High>
+    <Low>1.76506</Low>
+    <Close>1.79322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-01</Date>
+    <Open>1.7929</Open>
+    <High>1.80714</High>
+    <Low>1.65283</Low>
+    <Close>1.66693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-02</Date>
+    <Open>1.66753</Open>
+    <High>1.70585</High>
+    <Low>1.66017</Low>
+    <Close>1.69033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-03</Date>
+    <Open>1.69023</Open>
+    <High>1.73145</High>
+    <Low>1.60207</Low>
+    <Close>1.72945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-04</Date>
+    <Open>1.73187</Open>
+    <High>1.7607</High>
+    <Low>1.66613</Low>
+    <Close>1.68181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-05</Date>
+    <Open>1.68171</Open>
+    <High>1.72577</High>
+    <Low>1.66777</Low>
+    <Close>1.70315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-06</Date>
+    <Open>1.70515</Open>
+    <High>1.7194</High>
+    <Low>1.58343</Low>
+    <Close>1.59909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-07</Date>
+    <Open>1.59901</Open>
+    <High>1.61204</High>
+    <Low>1.56514</Low>
+    <Close>1.56925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-08</Date>
+    <Open>1.5679</Open>
+    <High>1.58959</High>
+    <Low>1.34391</Low>
+    <Close>1.35183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-09</Date>
+    <Open>1.35413</Open>
+    <High>1.39439</High>
+    <Low>1.32309</Low>
+    <Close>1.37798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-10</Date>
+    <Open>1.37798</Open>
+    <High>1.54019</High>
+    <Low>1.36701</Low>
+    <Close>1.4974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-11</Date>
+    <Open>1.49649</Open>
+    <High>1.51536</High>
+    <Low>1.38939</Low>
+    <Close>1.42198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-12</Date>
+    <Open>1.42242</Open>
+    <High>1.45226</High>
+    <Low>1.37077</Low>
+    <Close>1.45066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-13</Date>
+    <Open>1.45166</Open>
+    <High>1.46508</High>
+    <Low>1.42391</Low>
+    <Close>1.42996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-14</Date>
+    <Open>1.43122</Open>
+    <High>1.46298</High>
+    <Low>1.39854</Low>
+    <Close>1.44627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-15</Date>
+    <Open>1.44612</Open>
+    <High>1.48279</High>
+    <Low>1.42621</Low>
+    <Close>1.46272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-16</Date>
+    <Open>1.46342</Open>
+    <High>1.46848</High>
+    <Low>1.3931</Low>
+    <Close>1.40396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-17</Date>
+    <Open>1.40586</Open>
+    <High>1.50045</High>
+    <Low>1.37399</Low>
+    <Close>1.47959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-18</Date>
+    <Open>1.47994</Open>
+    <High>1.48874</High>
+    <Low>1.40536</Low>
+    <Close>1.43928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-19</Date>
+    <Open>1.43928</Open>
+    <High>1.47344</High>
+    <Low>1.42633</Low>
+    <Close>1.46122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-20</Date>
+    <Open>1.46343</Open>
+    <High>1.46693</High>
+    <Low>1.43214</Low>
+    <Close>1.4469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-21</Date>
+    <Open>1.44955</Open>
+    <High>1.4502</High>
+    <Low>1.38853</Low>
+    <Close>1.39574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-22</Date>
+    <Open>1.396</Open>
+    <High>1.40594</High>
+    <Low>1.36748</Low>
+    <Close>1.38389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-23</Date>
+    <Open>1.38207</Open>
+    <High>1.43619</High>
+    <Low>1.37047</Low>
+    <Close>1.39668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-24</Date>
+    <Open>1.3973</Open>
+    <High>1.40265</High>
+    <Low>1.30927</Low>
+    <Close>1.33702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-25</Date>
+    <Open>1.33792</Open>
+    <High>1.36652</High>
+    <Low>1.31617</Low>
+    <Close>1.36564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-26</Date>
+    <Open>1.36345</Open>
+    <High>1.38293</High>
+    <Low>1.35896</Low>
+    <Close>1.3756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-27</Date>
+    <Open>1.37758</Open>
+    <High>1.39545</High>
+    <Low>1.33743</Low>
+    <Close>1.34252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GAL">
+    <Date>2023-05-28</Date>
+    <Open>1.34354</Open>
+    <High>1.40832</High>
+    <Low>1.33667</Low>
+    <Close>1.40832</Close>
+  </Cryptocurrency>
+</Root>

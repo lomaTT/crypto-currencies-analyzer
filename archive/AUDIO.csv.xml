@@ -1,0 +1,6093 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-08</Date>
+    <Open>0.1806</Open>
+    <High>0.192</High>
+    <Low>0.1766</Low>
+    <Close>0.1917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-09</Date>
+    <Open>0.1917</Open>
+    <High>0.1951</High>
+    <Low>0.1744</Low>
+    <Close>0.1833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-10</Date>
+    <Open>0.1833</Open>
+    <High>0.2095</High>
+    <Low>0.1822</Low>
+    <Close>0.1931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-11</Date>
+    <Open>0.1931</Open>
+    <High>0.1954</High>
+    <Low>0.1612</Low>
+    <Close>0.1681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-12</Date>
+    <Open>0.1681</Open>
+    <High>0.1812</High>
+    <Low>0.166</Low>
+    <Close>0.1694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-13</Date>
+    <Open>0.1694</Open>
+    <High>0.178</High>
+    <Low>0.1626</Low>
+    <Close>0.1741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-14</Date>
+    <Open>0.1741</Open>
+    <High>0.1822</High>
+    <Low>0.1684</Low>
+    <Close>0.1745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-15</Date>
+    <Open>0.1745</Open>
+    <High>0.1898</High>
+    <Low>0.1668</Low>
+    <Close>0.1835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-16</Date>
+    <Open>0.1835</Open>
+    <High>0.2</High>
+    <Low>0.178</Low>
+    <Close>0.1879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-17</Date>
+    <Open>0.1879</Open>
+    <High>0.19</High>
+    <Low>0.1683</Low>
+    <Close>0.1827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-18</Date>
+    <Open>0.1827</Open>
+    <High>0.2152</High>
+    <Low>0.1806</Low>
+    <Close>0.2082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-19</Date>
+    <Open>0.2082</Open>
+    <High>0.2147</High>
+    <Low>0.187</Low>
+    <Close>0.1943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-20</Date>
+    <Open>0.1943</Open>
+    <High>0.1956</High>
+    <Low>0.1748</Low>
+    <Close>0.1873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-21</Date>
+    <Open>0.1873</Open>
+    <High>0.22</High>
+    <Low>0.1801</Low>
+    <Close>0.2073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-22</Date>
+    <Open>0.2073</Open>
+    <High>0.2402</High>
+    <Low>0.2012</Low>
+    <Close>0.2152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-23</Date>
+    <Open>0.2152</Open>
+    <High>0.2191</High>
+    <Low>0.1995</Low>
+    <Close>0.2048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-24</Date>
+    <Open>0.2048</Open>
+    <High>0.2161</High>
+    <Low>0.1997</Low>
+    <Close>0.2067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-25</Date>
+    <Open>0.2067</Open>
+    <High>0.21</High>
+    <Low>0.196</Low>
+    <Close>0.1968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-26</Date>
+    <Open>0.1968</Open>
+    <High>0.2563</High>
+    <Low>0.1892</Low>
+    <Close>0.2487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-27</Date>
+    <Open>0.2487</Open>
+    <High>0.2864</High>
+    <Low>0.2141</Low>
+    <Close>0.217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-28</Date>
+    <Open>0.217</Open>
+    <High>0.244</High>
+    <Low>0.2099</Low>
+    <Close>0.2224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-29</Date>
+    <Open>0.2224</Open>
+    <High>0.2239</High>
+    <Low>0.2025</Low>
+    <Close>0.209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-30</Date>
+    <Open>0.209</Open>
+    <High>0.2202</High>
+    <Low>0.207</Low>
+    <Close>0.2144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-01-31</Date>
+    <Open>0.2144</Open>
+    <High>0.2292</High>
+    <Low>0.2075</Low>
+    <Close>0.2137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-01</Date>
+    <Open>0.2137</Open>
+    <High>0.2173</High>
+    <Low>0.2051</Low>
+    <Close>0.2121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-02</Date>
+    <Open>0.2121</Open>
+    <High>0.2204</High>
+    <Low>0.2054</Low>
+    <Close>0.2146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-03</Date>
+    <Open>0.2146</Open>
+    <High>0.2352</High>
+    <Low>0.2113</Low>
+    <Close>0.2264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-04</Date>
+    <Open>0.2264</Open>
+    <High>0.2572</High>
+    <Low>0.2202</Low>
+    <Close>0.2456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-05</Date>
+    <Open>0.2456</Open>
+    <High>0.282</High>
+    <Low>0.2452</Low>
+    <Close>0.275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-06</Date>
+    <Open>0.275</Open>
+    <High>0.2773</High>
+    <Low>0.2446</Low>
+    <Close>0.2494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-07</Date>
+    <Open>0.2494</Open>
+    <High>0.3331</High>
+    <Low>0.2475</Low>
+    <Close>0.2945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-08</Date>
+    <Open>0.2945</Open>
+    <High>0.3556</High>
+    <Low>0.2873</Low>
+    <Close>0.2991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-09</Date>
+    <Open>0.2991</Open>
+    <High>0.3408</High>
+    <Low>0.2907</Low>
+    <Close>0.3212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-10</Date>
+    <Open>0.3212</Open>
+    <High>0.4004</High>
+    <Low>0.3153</Low>
+    <Close>0.3831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-11</Date>
+    <Open>0.3831</Open>
+    <High>0.4033</High>
+    <Low>0.373</Low>
+    <Close>0.3903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-12</Date>
+    <Open>0.3903</Open>
+    <High>0.4079</High>
+    <Low>0.3607</Low>
+    <Close>0.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-13</Date>
+    <Open>0.4</Open>
+    <High>0.4257</High>
+    <Low>0.3926</Low>
+    <Close>0.4006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-14</Date>
+    <Open>0.4006</Open>
+    <High>0.4036</High>
+    <Low>0.3527</Low>
+    <Close>0.3594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-15</Date>
+    <Open>0.3594</Open>
+    <High>0.3647</High>
+    <Low>0.3186</Low>
+    <Close>0.3494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-16</Date>
+    <Open>0.3494</Open>
+    <High>0.3568</High>
+    <Low>0.339</Low>
+    <Close>0.3464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-17</Date>
+    <Open>0.3464</Open>
+    <High>0.3642</High>
+    <Low>0.3375</Low>
+    <Close>0.3582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-18</Date>
+    <Open>0.3582</Open>
+    <High>0.4536</High>
+    <Low>0.34</Low>
+    <Close>0.446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-19</Date>
+    <Open>0.446</Open>
+    <High>0.5</High>
+    <Low>0.4262</Low>
+    <Close>0.4559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-20</Date>
+    <Open>0.4559</Open>
+    <High>0.4572</High>
+    <Low>0.401</Low>
+    <Close>0.4087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-21</Date>
+    <Open>0.4087</Open>
+    <High>0.4453</High>
+    <Low>0.4068</Low>
+    <Close>0.4245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-22</Date>
+    <Open>0.4245</Open>
+    <High>0.4493</High>
+    <Low>0.3395</Low>
+    <Close>0.413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-23</Date>
+    <Open>0.413</Open>
+    <High>0.4154</High>
+    <Low>0.3607</Low>
+    <Close>0.3843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-24</Date>
+    <Open>0.3843</Open>
+    <High>0.4294</High>
+    <Low>0.3765</Low>
+    <Close>0.426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-25</Date>
+    <Open>0.426</Open>
+    <High>0.4885</High>
+    <Low>0.4247</Low>
+    <Close>0.465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-26</Date>
+    <Open>0.465</Open>
+    <High>0.5399</High>
+    <Low>0.4454</Low>
+    <Close>0.4567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-27</Date>
+    <Open>0.4567</Open>
+    <High>0.4724</High>
+    <Low>0.3917</Low>
+    <Close>0.406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-02-28</Date>
+    <Open>0.406</Open>
+    <High>0.4083</High>
+    <Low>0.3477</Low>
+    <Close>0.3804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-01</Date>
+    <Open>0.3804</Open>
+    <High>0.42</High>
+    <Low>0.375</Low>
+    <Close>0.4027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-02</Date>
+    <Open>0.4027</Open>
+    <High>0.4581</High>
+    <Low>0.4013</Low>
+    <Close>0.4571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-03</Date>
+    <Open>0.4571</Open>
+    <High>0.5268</High>
+    <Low>0.4558</Low>
+    <Close>0.4983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-04</Date>
+    <Open>0.4983</Open>
+    <High>0.79</High>
+    <Low>0.4568</Low>
+    <Close>0.6087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-05</Date>
+    <Open>0.6087</Open>
+    <High>0.7307</High>
+    <Low>0.5477</Low>
+    <Close>0.6006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-06</Date>
+    <Open>0.6006</Open>
+    <High>1.259</High>
+    <Low>0.5981</Low>
+    <Close>1.026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-07</Date>
+    <Open>1.026</Open>
+    <High>1.029</High>
+    <Low>0.8451</Low>
+    <Close>0.879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-08</Date>
+    <Open>0.879</Open>
+    <High>0.963</High>
+    <Low>0.8667</Low>
+    <Close>0.9427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-09</Date>
+    <Open>0.9427</Open>
+    <High>1.374</High>
+    <Low>0.9161</Low>
+    <Close>1.087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-10</Date>
+    <Open>1.087</Open>
+    <High>1.155</High>
+    <Low>0.9415</Low>
+    <Close>1.013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-11</Date>
+    <Open>1.013</Open>
+    <High>1.13</High>
+    <Low>0.9371</Low>
+    <Close>1.078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-12</Date>
+    <Open>1.078</Open>
+    <High>1.137</High>
+    <Low>0.9546</Low>
+    <Close>1.012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-13</Date>
+    <Open>1.012</Open>
+    <High>1.598</High>
+    <Low>0.9762</Low>
+    <Close>1.463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-14</Date>
+    <Open>1.463</Open>
+    <High>1.536</High>
+    <Low>1.303</Low>
+    <Close>1.408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-15</Date>
+    <Open>1.408</Open>
+    <High>1.904</High>
+    <Low>1.18</Low>
+    <Close>1.767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-16</Date>
+    <Open>1.767</Open>
+    <High>2.057</High>
+    <Low>1.6</Low>
+    <Close>1.729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-17</Date>
+    <Open>1.729</Open>
+    <High>1.749</High>
+    <Low>1.427</Low>
+    <Close>1.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-18</Date>
+    <Open>1.63</Open>
+    <High>1.775</High>
+    <Low>1.477</Low>
+    <Close>1.506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-19</Date>
+    <Open>1.506</Open>
+    <High>1.618</High>
+    <Low>1.467</Low>
+    <Close>1.536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-20</Date>
+    <Open>1.536</Open>
+    <High>1.61</High>
+    <Low>1.395</Low>
+    <Close>1.399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-21</Date>
+    <Open>1.399</Open>
+    <High>1.561</High>
+    <Low>1.288</Low>
+    <Close>1.554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-22</Date>
+    <Open>1.554</Open>
+    <High>1.988</High>
+    <Low>1.54</Low>
+    <Close>1.752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-23</Date>
+    <Open>1.752</Open>
+    <High>1.89</High>
+    <Low>1.639</Low>
+    <Close>1.876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-24</Date>
+    <Open>1.876</Open>
+    <High>2.458</High>
+    <Low>1.717</Low>
+    <Close>2.054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-25</Date>
+    <Open>2.054</Open>
+    <High>2.55</High>
+    <Low>1.85</Low>
+    <Close>2.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-26</Date>
+    <Open>2.38</Open>
+    <High>3.475</High>
+    <Low>2.326</Low>
+    <Close>2.997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-27</Date>
+    <Open>2.997</Open>
+    <High>4.99</High>
+    <Low>2.917</Low>
+    <Close>4.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-28</Date>
+    <Open>4.03</Open>
+    <High>4.211</High>
+    <Low>3.402</Low>
+    <Close>3.672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-29</Date>
+    <Open>3.672</Open>
+    <High>3.77</High>
+    <Low>3.241</Low>
+    <Close>3.326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-30</Date>
+    <Open>3.326</Open>
+    <High>3.645</High>
+    <Low>3.143</Low>
+    <Close>3.424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-03-31</Date>
+    <Open>3.424</Open>
+    <High>3.47</High>
+    <Low>2.992</Low>
+    <Close>3.164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-01</Date>
+    <Open>3.164</Open>
+    <High>3.459</High>
+    <Low>3.012</Low>
+    <Close>3.127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-02</Date>
+    <Open>3.127</Open>
+    <High>3.436</High>
+    <Low>3.031</Low>
+    <Close>3.185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-03</Date>
+    <Open>3.185</Open>
+    <High>3.43</High>
+    <Low>3.006</Low>
+    <Close>3.086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-04</Date>
+    <Open>3.086</Open>
+    <High>3.192</High>
+    <Low>3.027</Low>
+    <Close>3.051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-05</Date>
+    <Open>3.051</Open>
+    <High>3.075</High>
+    <Low>2.73</Low>
+    <Close>2.756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-06</Date>
+    <Open>2.756</Open>
+    <High>2.77</High>
+    <Low>2.38</Low>
+    <Close>2.394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-07</Date>
+    <Open>2.394</Open>
+    <High>2.696</High>
+    <Low>2.119</Low>
+    <Close>2.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-08</Date>
+    <Open>2.47</Open>
+    <High>2.767</High>
+    <Low>2.23</Low>
+    <Close>2.431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-09</Date>
+    <Open>2.431</Open>
+    <High>2.599</High>
+    <Low>2.352</Low>
+    <Close>2.388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-10</Date>
+    <Open>2.388</Open>
+    <High>2.55</High>
+    <Low>2.27</Low>
+    <Close>2.353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-11</Date>
+    <Open>2.353</Open>
+    <High>2.368</High>
+    <Low>2.178</Low>
+    <Close>2.264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-12</Date>
+    <Open>2.264</Open>
+    <High>3.186</High>
+    <Low>2.236</Low>
+    <Close>2.631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-13</Date>
+    <Open>2.631</Open>
+    <High>2.848</High>
+    <Low>2.447</Low>
+    <Close>2.611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-14</Date>
+    <Open>2.611</Open>
+    <High>2.697</High>
+    <Low>2.37</Low>
+    <Close>2.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-15</Date>
+    <Open>2.5</Open>
+    <High>2.693</High>
+    <Low>2.438</Low>
+    <Close>2.618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-16</Date>
+    <Open>2.618</Open>
+    <High>2.633</High>
+    <Low>2.346</Low>
+    <Close>2.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-17</Date>
+    <Open>2.48</Open>
+    <High>2.504</High>
+    <Low>2.361</Low>
+    <Close>2.368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-18</Date>
+    <Open>2.368</Open>
+    <High>2.385</High>
+    <Low>1.998</Low>
+    <Close>2.166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-19</Date>
+    <Open>2.166</Open>
+    <High>2.291</High>
+    <Low>1.923</Low>
+    <Close>1.926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-20</Date>
+    <Open>1.926</Open>
+    <High>2.052</High>
+    <Low>1.762</Low>
+    <Close>1.897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-21</Date>
+    <Open>1.897</Open>
+    <High>1.981</High>
+    <Low>1.738</Low>
+    <Close>1.753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-22</Date>
+    <Open>1.753</Open>
+    <High>2.13</High>
+    <Low>1.672</Low>
+    <Close>1.702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-23</Date>
+    <Open>1.702</Open>
+    <High>1.749</High>
+    <Low>1.421</Low>
+    <Close>1.606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-24</Date>
+    <Open>1.606</Open>
+    <High>2.102</High>
+    <Low>1.53</Low>
+    <Close>1.929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-25</Date>
+    <Open>1.929</Open>
+    <High>2.272</High>
+    <Low>1.766</Low>
+    <Close>1.942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-26</Date>
+    <Open>1.942</Open>
+    <High>2.502</High>
+    <Low>1.92</Low>
+    <Close>2.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-27</Date>
+    <Open>2.28</Open>
+    <High>2.488</High>
+    <Low>2.165</Low>
+    <Close>2.441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-28</Date>
+    <Open>2.441</Open>
+    <High>2.467</High>
+    <Low>2.107</Low>
+    <Close>2.268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-29</Date>
+    <Open>2.268</Open>
+    <High>2.394</High>
+    <Low>2.114</Low>
+    <Close>2.215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-04-30</Date>
+    <Open>2.215</Open>
+    <High>2.397</High>
+    <Low>2.168</Low>
+    <Close>2.275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-01</Date>
+    <Open>2.275</Open>
+    <High>2.85</High>
+    <Low>2.229</Low>
+    <Close>2.665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-02</Date>
+    <Open>2.665</Open>
+    <High>3.093</High>
+    <Low>2.492</Low>
+    <Close>2.684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-03</Date>
+    <Open>2.684</Open>
+    <High>2.87</High>
+    <Low>2.558</Low>
+    <Close>2.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-04</Date>
+    <Open>2.63</Open>
+    <High>2.637</High>
+    <Low>2.199</Low>
+    <Close>2.271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-05</Date>
+    <Open>2.271</Open>
+    <High>2.464</High>
+    <Low>2.231</Low>
+    <Close>2.433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-06</Date>
+    <Open>2.433</Open>
+    <High>2.553</High>
+    <Low>2.302</Low>
+    <Close>2.347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-07</Date>
+    <Open>2.347</Open>
+    <High>2.399</High>
+    <Low>2.228</Low>
+    <Close>2.281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-08</Date>
+    <Open>2.281</Open>
+    <High>2.382</High>
+    <Low>2.171</Low>
+    <Close>2.226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-09</Date>
+    <Open>2.226</Open>
+    <High>2.325</High>
+    <Low>2.054</Low>
+    <Close>2.154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-10</Date>
+    <Open>2.154</Open>
+    <High>2.566</High>
+    <Low>1.993</Low>
+    <Close>2.079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-11</Date>
+    <Open>2.079</Open>
+    <High>2.173</High>
+    <Low>1.967</Low>
+    <Close>2.148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-12</Date>
+    <Open>2.148</Open>
+    <High>2.186</High>
+    <Low>1.8</Low>
+    <Close>1.802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-13</Date>
+    <Open>1.802</Open>
+    <High>1.948</High>
+    <Low>1.7</Low>
+    <Close>1.813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-14</Date>
+    <Open>1.813</Open>
+    <High>2.106</High>
+    <Low>1.802</Low>
+    <Close>2.001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-15</Date>
+    <Open>2.001</Open>
+    <High>2.023</High>
+    <Low>1.758</Low>
+    <Close>1.802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-16</Date>
+    <Open>1.802</Open>
+    <High>1.932</High>
+    <Low>1.622</Low>
+    <Close>1.717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-17</Date>
+    <Open>1.717</Open>
+    <High>1.816</High>
+    <Low>1.714</Low>
+    <Close>1.816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-18</Date>
+    <Open>1.816</Open>
+    <High>2.059</High>
+    <Low>1.816</Low>
+    <Close>2.059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-19</Date>
+    <Open>2.059</Open>
+    <High>2.062</High>
+    <Low>0.982</Low>
+    <Close>1.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-20</Date>
+    <Open>1.26</Open>
+    <High>1.505</High>
+    <Low>1.162</Low>
+    <Close>1.427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-21</Date>
+    <Open>1.427</Open>
+    <High>1.5</High>
+    <Low>1.079</Low>
+    <Close>1.212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-22</Date>
+    <Open>1.212</Open>
+    <High>1.237</High>
+    <Low>1.066</Low>
+    <Close>1.097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-23</Date>
+    <Open>1.097</Open>
+    <High>1.138</High>
+    <Low>0.7335</Low>
+    <Close>0.9157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-24</Date>
+    <Open>0.9157</Open>
+    <High>1.171</High>
+    <Low>0.8863</Low>
+    <Close>1.162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-25</Date>
+    <Open>1.162</Open>
+    <High>1.197</High>
+    <Low>1.019</Low>
+    <Close>1.176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-26</Date>
+    <Open>1.176</Open>
+    <High>1.294</High>
+    <Low>1.143</Low>
+    <Close>1.269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-27</Date>
+    <Open>1.269</Open>
+    <High>1.36</High>
+    <Low>1.153</Low>
+    <Close>1.225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-28</Date>
+    <Open>1.225</Open>
+    <High>1.235</High>
+    <Low>1.024</Low>
+    <Close>1.055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-29</Date>
+    <Open>1.055</Open>
+    <High>1.099</High>
+    <Low>0.9221</Low>
+    <Close>0.9611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-30</Date>
+    <Open>0.9611</Open>
+    <High>1.093</High>
+    <Low>0.9018</Low>
+    <Close>1.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-05-31</Date>
+    <Open>1.003</Open>
+    <High>1.079</High>
+    <Low>0.943</Low>
+    <Close>1.067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-01</Date>
+    <Open>1.067</Open>
+    <High>1.2</High>
+    <Low>1.024</Low>
+    <Close>1.109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-02</Date>
+    <Open>1.109</Open>
+    <High>1.188</High>
+    <Low>1.093</Low>
+    <Close>1.173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-03</Date>
+    <Open>1.173</Open>
+    <High>1.27</High>
+    <Low>1.146</Low>
+    <Close>1.174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-04</Date>
+    <Open>1.174</Open>
+    <High>1.186</High>
+    <Low>1.04</Low>
+    <Close>1.078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-05</Date>
+    <Open>1.078</Open>
+    <High>1.133</High>
+    <Low>1.015</Low>
+    <Close>1.039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-06</Date>
+    <Open>1.039</Open>
+    <High>1.1</High>
+    <Low>1.032</Low>
+    <Close>1.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-07</Date>
+    <Open>1.09</Open>
+    <High>1.132</High>
+    <Low>0.9909</Low>
+    <Close>0.9983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-08</Date>
+    <Open>0.9983</Open>
+    <High>1.094</High>
+    <Low>0.9087</Low>
+    <Close>0.9982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-09</Date>
+    <Open>0.9982</Open>
+    <High>1.062</High>
+    <Low>0.9636</Low>
+    <Close>1.054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-10</Date>
+    <Open>1.054</Open>
+    <High>1.064</High>
+    <Low>0.9793</Low>
+    <Close>0.9971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-11</Date>
+    <Open>0.9971</Open>
+    <High>1.237</High>
+    <Low>0.9734</Low>
+    <Close>1.034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-12</Date>
+    <Open>1.034</Open>
+    <High>1.06</High>
+    <Low>0.9618</Low>
+    <Close>0.9851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-13</Date>
+    <Open>0.9851</Open>
+    <High>1.04</High>
+    <Low>0.967</Low>
+    <Close>1.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-14</Date>
+    <Open>1.03</Open>
+    <High>1.217</High>
+    <Low>1.021</Low>
+    <Close>1.118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-15</Date>
+    <Open>1.118</Open>
+    <High>1.129</High>
+    <Low>1.063</Low>
+    <Close>1.073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-16</Date>
+    <Open>1.073</Open>
+    <High>1.134</High>
+    <Low>1.011</Low>
+    <Close>1.017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-17</Date>
+    <Open>1.017</Open>
+    <High>1.085</High>
+    <Low>0.9666</Low>
+    <Close>1.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-18</Date>
+    <Open>1.02</Open>
+    <High>1.046</High>
+    <Low>0.883</Low>
+    <Close>0.9142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-19</Date>
+    <Open>0.9142</Open>
+    <High>0.9427</High>
+    <Low>0.8885</Low>
+    <Close>0.8896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-20</Date>
+    <Open>0.8896</Open>
+    <High>0.9107</High>
+    <Low>0.8157</Low>
+    <Close>0.8938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-21</Date>
+    <Open>0.8938</Open>
+    <High>0.9034</High>
+    <Low>0.7407</Low>
+    <Close>0.7448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-22</Date>
+    <Open>0.7448</Open>
+    <High>0.7997</High>
+    <Low>0.5906</Low>
+    <Close>0.6647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-23</Date>
+    <Open>0.6647</Open>
+    <High>0.78</High>
+    <Low>0.6485</Low>
+    <Close>0.728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-24</Date>
+    <Open>0.728</Open>
+    <High>0.7475</High>
+    <Low>0.7001</Low>
+    <Close>0.7295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-25</Date>
+    <Open>0.7295</Open>
+    <High>0.7446</High>
+    <Low>0.6515</Low>
+    <Close>0.6582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-26</Date>
+    <Open>0.6582</Open>
+    <High>0.7352</High>
+    <Low>0.6379</Low>
+    <Close>0.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-27</Date>
+    <Open>0.71</Open>
+    <High>0.7617</High>
+    <Low>0.6654</Low>
+    <Close>0.7463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-28</Date>
+    <Open>0.7463</Open>
+    <High>0.8694</High>
+    <Low>0.732</Low>
+    <Close>0.7682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-29</Date>
+    <Open>0.7682</Open>
+    <High>0.8426</High>
+    <Low>0.763</Low>
+    <Close>0.7983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-06-30</Date>
+    <Open>0.7983</Open>
+    <High>0.8137</High>
+    <Low>0.7383</Low>
+    <Close>0.7848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-01</Date>
+    <Open>0.7848</Open>
+    <High>0.8083</High>
+    <Low>0.7344</Low>
+    <Close>0.7583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-02</Date>
+    <Open>0.7583</Open>
+    <High>0.8537</High>
+    <Low>0.7512</Low>
+    <Close>0.8245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-03</Date>
+    <Open>0.8245</Open>
+    <High>0.8836</High>
+    <Low>0.8184</Low>
+    <Close>0.8682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-04</Date>
+    <Open>0.8682</Open>
+    <High>0.8988</High>
+    <Low>0.8418</Low>
+    <Close>0.8489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-05</Date>
+    <Open>0.8489</Open>
+    <High>0.8595</High>
+    <Low>0.7815</Low>
+    <Close>0.789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-06</Date>
+    <Open>0.789</Open>
+    <High>0.8521</High>
+    <Low>0.7861</Low>
+    <Close>0.8506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-07</Date>
+    <Open>0.8506</Open>
+    <High>1.06</High>
+    <Low>0.8319</Low>
+    <Close>0.9121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-08</Date>
+    <Open>0.9121</Open>
+    <High>0.9274</High>
+    <Low>0.8097</Low>
+    <Close>0.8289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-09</Date>
+    <Open>0.8289</Open>
+    <High>0.8647</High>
+    <Low>0.7854</Low>
+    <Close>0.8485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-10</Date>
+    <Open>0.8485</Open>
+    <High>0.8665</High>
+    <Low>0.8004</Low>
+    <Close>0.8226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-11</Date>
+    <Open>0.8226</Open>
+    <High>1.083</High>
+    <Low>0.8108</Low>
+    <Close>1.005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-12</Date>
+    <Open>1.005</Open>
+    <High>1.044</High>
+    <Low>0.9084</Low>
+    <Close>0.928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-13</Date>
+    <Open>0.928</Open>
+    <High>1.412</High>
+    <Low>0.91</Low>
+    <Close>1.266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-14</Date>
+    <Open>1.266</Open>
+    <High>1.407</High>
+    <Low>1.092</Low>
+    <Close>1.281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-15</Date>
+    <Open>1.281</Open>
+    <High>1.34</High>
+    <Low>1.089</Low>
+    <Close>1.141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-16</Date>
+    <Open>1.141</Open>
+    <High>1.16</High>
+    <Low>0.9556</Low>
+    <Close>0.9638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-17</Date>
+    <Open>0.9638</Open>
+    <High>0.9794</High>
+    <Low>0.9009</Low>
+    <Close>0.9086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-18</Date>
+    <Open>0.9086</Open>
+    <High>1.171</High>
+    <Low>0.9067</Low>
+    <Close>1.044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-19</Date>
+    <Open>1.044</Open>
+    <High>1.062</High>
+    <Low>0.8866</Low>
+    <Close>0.8896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-20</Date>
+    <Open>0.8896</Open>
+    <High>0.9185</High>
+    <Low>0.79</Low>
+    <Close>0.8269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-21</Date>
+    <Open>0.8269</Open>
+    <High>0.9743</High>
+    <Low>0.8083</Low>
+    <Close>0.9269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-22</Date>
+    <Open>0.9269</Open>
+    <High>1.03</High>
+    <Low>0.8953</Low>
+    <Close>0.9476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-23</Date>
+    <Open>0.9476</Open>
+    <High>1.03</High>
+    <Low>0.8921</Low>
+    <Close>1.027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-24</Date>
+    <Open>1.027</Open>
+    <High>1.268</High>
+    <Low>0.9992</Low>
+    <Close>1.111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-25</Date>
+    <Open>1.111</Open>
+    <High>1.3</High>
+    <Low>1.041</Low>
+    <Close>1.253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-26</Date>
+    <Open>1.253</Open>
+    <High>1.334</High>
+    <Low>1.1</Low>
+    <Close>1.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-27</Date>
+    <Open>1.12</Open>
+    <High>1.243</High>
+    <Low>1.047</Low>
+    <Close>1.207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-28</Date>
+    <Open>1.207</Open>
+    <High>1.22</High>
+    <Low>1.097</Low>
+    <Close>1.126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-29</Date>
+    <Open>1.126</Open>
+    <High>1.194</High>
+    <Low>1.104</Low>
+    <Close>1.125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-30</Date>
+    <Open>1.125</Open>
+    <High>1.141</High>
+    <Low>1.059</Low>
+    <Close>1.122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-07-31</Date>
+    <Open>1.122</Open>
+    <High>1.215</High>
+    <Low>1.109</Low>
+    <Close>1.162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-01</Date>
+    <Open>1.162</Open>
+    <High>1.201</High>
+    <Low>1.103</Low>
+    <Close>1.123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-02</Date>
+    <Open>1.123</Open>
+    <High>1.165</High>
+    <Low>1.106</Low>
+    <Close>1.121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-03</Date>
+    <Open>1.121</Open>
+    <High>1.135</High>
+    <Low>1.051</Low>
+    <Close>1.075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-04</Date>
+    <Open>1.075</Open>
+    <High>1.167</High>
+    <Low>1.052</Low>
+    <Close>1.141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-05</Date>
+    <Open>1.141</Open>
+    <High>1.172</High>
+    <Low>1.081</Low>
+    <Close>1.172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-06</Date>
+    <Open>1.172</Open>
+    <High>1.4</High>
+    <Low>1.163</Low>
+    <Close>1.348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-07</Date>
+    <Open>1.348</Open>
+    <High>1.449</High>
+    <Low>1.273</Low>
+    <Close>1.346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-08</Date>
+    <Open>1.346</Open>
+    <High>1.358</High>
+    <Low>1.202</Low>
+    <Close>1.266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-09</Date>
+    <Open>1.266</Open>
+    <High>1.438</High>
+    <Low>1.224</Low>
+    <Close>1.353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-10</Date>
+    <Open>1.353</Open>
+    <High>1.483</High>
+    <Low>1.323</Low>
+    <Close>1.462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-11</Date>
+    <Open>1.462</Open>
+    <High>1.749</High>
+    <Low>1.45</Low>
+    <Close>1.562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-12</Date>
+    <Open>1.531</Open>
+    <High>1.54</High>
+    <Low>1.41</Low>
+    <Close>1.478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-13</Date>
+    <Open>1.478</Open>
+    <High>1.762</High>
+    <Low>1.453</Low>
+    <Close>1.702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-14</Date>
+    <Open>1.702</Open>
+    <High>1.745</High>
+    <Low>1.552</Low>
+    <Close>1.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-15</Date>
+    <Open>1.59</Open>
+    <High>1.638</High>
+    <Low>1.508</Low>
+    <Close>1.604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-16</Date>
+    <Open>1.604</Open>
+    <High>2.989</High>
+    <Low>1.58</Low>
+    <Close>2.735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-17</Date>
+    <Open>2.735</Open>
+    <High>4.069</High>
+    <Low>2.503</Low>
+    <Close>2.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-18</Date>
+    <Open>2.87</Open>
+    <High>3.559</High>
+    <Low>2.605</Low>
+    <Close>3.064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-19</Date>
+    <Open>3.064</Open>
+    <High>3.689</High>
+    <Low>2.973</Low>
+    <Close>3.294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-20</Date>
+    <Open>3.294</Open>
+    <High>3.439</High>
+    <Low>3.125</Low>
+    <Close>3.156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-21</Date>
+    <Open>3.156</Open>
+    <High>3.163</High>
+    <Low>2.862</Low>
+    <Close>2.872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-22</Date>
+    <Open>2.872</Open>
+    <High>2.989</High>
+    <Low>2.703</Low>
+    <Close>2.823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-23</Date>
+    <Open>2.823</Open>
+    <High>3.249</High>
+    <Low>2.813</Low>
+    <Close>3.084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-24</Date>
+    <Open>3.084</Open>
+    <High>3.09</High>
+    <Low>2.658</Low>
+    <Close>2.715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-25</Date>
+    <Open>2.715</Open>
+    <High>2.882</High>
+    <Low>2.551</Low>
+    <Close>2.747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-26</Date>
+    <Open>2.747</Open>
+    <High>2.82</High>
+    <Low>2.362</Low>
+    <Close>2.427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-27</Date>
+    <Open>2.427</Open>
+    <High>2.639</High>
+    <Low>2.241</Low>
+    <Close>2.548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-28</Date>
+    <Open>2.548</Open>
+    <High>3.149</High>
+    <Low>2.455</Low>
+    <Close>2.935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-29</Date>
+    <Open>2.935</Open>
+    <High>3.102</High>
+    <Low>2.693</Low>
+    <Close>2.832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-30</Date>
+    <Open>2.832</Open>
+    <High>2.832</High>
+    <Low>2.48</Low>
+    <Close>2.513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-08-31</Date>
+    <Open>2.513</Open>
+    <High>2.746</High>
+    <Low>2.387</Low>
+    <Close>2.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-01</Date>
+    <Open>2.46</Open>
+    <High>2.577</High>
+    <Low>2.35</Low>
+    <Close>2.541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-02</Date>
+    <Open>2.541</Open>
+    <High>2.76</High>
+    <Low>2.469</Low>
+    <Close>2.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-03</Date>
+    <Open>2.63</Open>
+    <High>3.086</High>
+    <Low>2.553</Low>
+    <Close>2.848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-04</Date>
+    <Open>2.848</Open>
+    <High>2.93</High>
+    <Low>2.719</Low>
+    <Close>2.774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-05</Date>
+    <Open>2.774</Open>
+    <High>2.922</High>
+    <Low>2.734</Low>
+    <Close>2.868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-06</Date>
+    <Open>2.868</Open>
+    <High>3.019</High>
+    <Low>2.517</Low>
+    <Close>2.682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-07</Date>
+    <Open>2.682</Open>
+    <High>2.825</High>
+    <Low>1.833</Low>
+    <Close>2.086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-08</Date>
+    <Open>2.086</Open>
+    <High>2.25</High>
+    <Low>1.858</Low>
+    <Close>2.144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-09</Date>
+    <Open>2.144</Open>
+    <High>2.549</High>
+    <Low>2.108</Low>
+    <Close>2.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-10</Date>
+    <Open>2.45</Open>
+    <High>2.519</High>
+    <Low>2.133</Low>
+    <Close>2.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-11</Date>
+    <Open>2.2</Open>
+    <High>2.342</High>
+    <Low>2.177</Low>
+    <Close>2.281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-12</Date>
+    <Open>2.281</Open>
+    <High>2.425</High>
+    <Low>2.218</Low>
+    <Close>2.294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-13</Date>
+    <Open>2.294</Open>
+    <High>2.318</High>
+    <Low>2.003</Low>
+    <Close>2.139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-14</Date>
+    <Open>2.139</Open>
+    <High>2.257</High>
+    <Low>2.126</Low>
+    <Close>2.193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-15</Date>
+    <Open>2.193</Open>
+    <High>2.268</High>
+    <Low>2.103</Low>
+    <Close>2.258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-16</Date>
+    <Open>2.258</Open>
+    <High>3.025</High>
+    <Low>2.234</Low>
+    <Close>2.962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-17</Date>
+    <Open>2.962</Open>
+    <High>3.216</High>
+    <Low>2.587</Low>
+    <Close>2.694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-18</Date>
+    <Open>2.694</Open>
+    <High>2.897</High>
+    <Low>2.632</Low>
+    <Close>2.725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-19</Date>
+    <Open>2.725</Open>
+    <High>3.144</High>
+    <Low>2.629</Low>
+    <Close>3.056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-20</Date>
+    <Open>3.056</Open>
+    <High>3.149</High>
+    <Low>2.211</Low>
+    <Close>2.308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-21</Date>
+    <Open>2.308</Open>
+    <High>2.546</High>
+    <Low>1.933</Low>
+    <Close>1.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-22</Date>
+    <Open>1.99</Open>
+    <High>2.38</High>
+    <Low>1.955</Low>
+    <Close>2.299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-23</Date>
+    <Open>2.299</Open>
+    <High>2.405</High>
+    <Low>2.177</Low>
+    <Close>2.301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-24</Date>
+    <Open>2.301</Open>
+    <High>2.307</High>
+    <Low>1.932</Low>
+    <Close>2.123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-25</Date>
+    <Open>2.123</Open>
+    <High>2.182</High>
+    <Low>2.015</Low>
+    <Close>2.081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-26</Date>
+    <Open>2.081</Open>
+    <High>2.166</High>
+    <Low>1.917</Low>
+    <Close>2.062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-27</Date>
+    <Open>2.062</Open>
+    <High>2.196</High>
+    <Low>2.001</Low>
+    <Close>2.006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-28</Date>
+    <Open>2.006</Open>
+    <High>2.114</High>
+    <Low>1.91</Low>
+    <Close>1.924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-29</Date>
+    <Open>1.924</Open>
+    <High>2.068</High>
+    <Low>1.905</Low>
+    <Close>1.964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-09-30</Date>
+    <Open>1.964</Open>
+    <High>2.159</High>
+    <Low>1.949</Low>
+    <Close>2.098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-01</Date>
+    <Open>2.098</Open>
+    <High>2.372</High>
+    <Low>2.092</Low>
+    <Close>2.355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-02</Date>
+    <Open>2.355</Open>
+    <High>2.462</High>
+    <Low>2.256</Low>
+    <Close>2.307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-03</Date>
+    <Open>2.307</Open>
+    <High>2.573</High>
+    <Low>2.236</Low>
+    <Close>2.378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-04</Date>
+    <Open>2.378</Open>
+    <High>2.379</High>
+    <Low>2.215</Low>
+    <Close>2.244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-05</Date>
+    <Open>2.244</Open>
+    <High>2.325</High>
+    <Low>2.157</Low>
+    <Close>2.212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-06</Date>
+    <Open>2.212</Open>
+    <High>2.352</High>
+    <Low>2.016</Low>
+    <Close>2.152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-07</Date>
+    <Open>2.152</Open>
+    <High>2.225</High>
+    <Low>2.073</Low>
+    <Close>2.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-08</Date>
+    <Open>2.11</Open>
+    <High>2.173</High>
+    <Low>2.069</Low>
+    <Close>2.105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-09</Date>
+    <Open>2.105</Open>
+    <High>2.169</High>
+    <Low>2.076</Low>
+    <Close>2.122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-10</Date>
+    <Open>2.122</Open>
+    <High>2.125</High>
+    <Low>1.963</Low>
+    <Close>1.973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-11</Date>
+    <Open>1.973</Open>
+    <High>2.084</High>
+    <Low>1.928</Low>
+    <Close>2.018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-12</Date>
+    <Open>2.018</Open>
+    <High>2.018</High>
+    <Low>1.83</Low>
+    <Close>1.961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-13</Date>
+    <Open>1.961</Open>
+    <High>2.038</High>
+    <Low>1.889</Low>
+    <Close>2.004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-14</Date>
+    <Open>2.004</Open>
+    <High>2.123</High>
+    <Low>1.996</Low>
+    <Close>2.034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-15</Date>
+    <Open>2.034</Open>
+    <High>2.129</High>
+    <Low>1.953</Low>
+    <Close>2.048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-16</Date>
+    <Open>2.048</Open>
+    <High>2.174</High>
+    <Low>2.019</Low>
+    <Close>2.038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-17</Date>
+    <Open>2.038</Open>
+    <High>2.085</High>
+    <Low>1.908</Low>
+    <Close>1.969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-18</Date>
+    <Open>1.969</Open>
+    <High>2.087</High>
+    <Low>1.933</Low>
+    <Close>1.945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-19</Date>
+    <Open>1.945</Open>
+    <High>1.988</High>
+    <Low>1.909</Low>
+    <Close>1.952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-20</Date>
+    <Open>1.952</Open>
+    <High>2.05</High>
+    <Low>1.912</Low>
+    <Close>2.034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-21</Date>
+    <Open>2.034</Open>
+    <High>2.121</High>
+    <Low>1.946</Low>
+    <Close>1.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-22</Date>
+    <Open>1.97</Open>
+    <High>2.117</High>
+    <Low>1.966</Low>
+    <Close>2.052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-23</Date>
+    <Open>2.052</Open>
+    <High>2.236</High>
+    <Low>2.033</Low>
+    <Close>2.135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-24</Date>
+    <Open>2.135</Open>
+    <High>2.378</High>
+    <Low>2.12</Low>
+    <Close>2.214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-25</Date>
+    <Open>2.214</Open>
+    <High>2.406</High>
+    <Low>2.198</Low>
+    <Close>2.386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-26</Date>
+    <Open>2.386</Open>
+    <High>2.415</High>
+    <Low>2.182</Low>
+    <Close>2.223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-27</Date>
+    <Open>2.223</Open>
+    <High>2.278</High>
+    <Low>1.807</Low>
+    <Close>1.928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-28</Date>
+    <Open>1.928</Open>
+    <High>2.033</High>
+    <Low>1.903</Low>
+    <Close>1.974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-29</Date>
+    <Open>1.974</Open>
+    <High>2.12</High>
+    <Low>1.959</Low>
+    <Close>2.052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-30</Date>
+    <Open>2.052</Open>
+    <High>2.39</High>
+    <Low>1.967</Low>
+    <Close>2.316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-10-31</Date>
+    <Open>2.316</Open>
+    <High>2.701</High>
+    <Low>2.156</Low>
+    <Close>2.225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-01</Date>
+    <Open>2.225</Open>
+    <High>2.514</High>
+    <Low>2.12</Low>
+    <Close>2.298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-02</Date>
+    <Open>2.298</Open>
+    <High>2.919</High>
+    <Low>2.27</Low>
+    <Close>2.571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-03</Date>
+    <Open>2.571</Open>
+    <High>2.784</High>
+    <Low>2.458</Low>
+    <Close>2.635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-04</Date>
+    <Open>2.635</Open>
+    <High>2.766</High>
+    <Low>2.483</Low>
+    <Close>2.622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-05</Date>
+    <Open>2.622</Open>
+    <High>2.935</High>
+    <Low>2.549</Low>
+    <Close>2.591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-06</Date>
+    <Open>2.591</Open>
+    <High>2.706</High>
+    <Low>2.445</Low>
+    <Close>2.541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-07</Date>
+    <Open>2.541</Open>
+    <High>2.663</High>
+    <Low>2.525</Low>
+    <Close>2.589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-08</Date>
+    <Open>2.589</Open>
+    <High>2.695</High>
+    <Low>2.502</Low>
+    <Close>2.679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-09</Date>
+    <Open>2.679</Open>
+    <High>2.826</High>
+    <Low>2.561</Low>
+    <Close>2.619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-10</Date>
+    <Open>2.619</Open>
+    <High>2.643</High>
+    <Low>2.17</Low>
+    <Close>2.341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-11</Date>
+    <Open>2.341</Open>
+    <High>2.424</High>
+    <Low>2.272</Low>
+    <Close>2.349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-12</Date>
+    <Open>2.349</Open>
+    <High>2.379</High>
+    <Low>2.184</Low>
+    <Close>2.262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-13</Date>
+    <Open>2.262</Open>
+    <High>2.484</High>
+    <Low>2.262</Low>
+    <Close>2.385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-14</Date>
+    <Open>2.385</Open>
+    <High>2.624</High>
+    <Low>2.377</Low>
+    <Close>2.534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-15</Date>
+    <Open>2.534</Open>
+    <High>2.55</High>
+    <Low>2.364</Low>
+    <Close>2.386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-16</Date>
+    <Open>2.386</Open>
+    <High>2.388</High>
+    <Low>2.001</Low>
+    <Close>2.159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-17</Date>
+    <Open>2.159</Open>
+    <High>2.291</High>
+    <Low>2.038</Low>
+    <Close>2.284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-18</Date>
+    <Open>2.284</Open>
+    <High>4.121</High>
+    <Low>2.105</Low>
+    <Close>2.147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-19</Date>
+    <Open>2.147</Open>
+    <High>2.307</High>
+    <Low>2.076</Low>
+    <Close>2.176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-20</Date>
+    <Open>2.176</Open>
+    <High>2.308</High>
+    <Low>2.133</Low>
+    <Close>2.249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-21</Date>
+    <Open>2.249</Open>
+    <High>2.38</High>
+    <Low>2.167</Low>
+    <Close>2.234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-22</Date>
+    <Open>2.234</Open>
+    <High>2.259</High>
+    <Low>2.036</Low>
+    <Close>2.082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-23</Date>
+    <Open>2.082</Open>
+    <High>3.078</High>
+    <Low>2.046</Low>
+    <Close>2.789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-24</Date>
+    <Open>2.801</Open>
+    <High>3.036</High>
+    <Low>2.452</Low>
+    <Close>2.56345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-25</Date>
+    <Open>2.5658</Open>
+    <High>2.75425</High>
+    <Low>2.44325</Low>
+    <Close>2.4623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-26</Date>
+    <Open>2.4692</Open>
+    <High>2.49985</High>
+    <Low>2.14255</Low>
+    <Close>2.23765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-27</Date>
+    <Open>2.23555</Open>
+    <High>2.63555</High>
+    <Low>2.18365</Low>
+    <Close>2.4428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-28</Date>
+    <Open>2.4428</Open>
+    <High>2.4895</High>
+    <Low>2.21785</Low>
+    <Close>2.3851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-29</Date>
+    <Open>2.392</Open>
+    <High>2.5773</High>
+    <Low>2.3751</Low>
+    <Close>2.43775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-11-30</Date>
+    <Open>2.42865</Open>
+    <High>2.48195</High>
+    <Low>2.3184</Low>
+    <Close>2.32615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-01</Date>
+    <Open>2.32615</Open>
+    <High>2.57395</High>
+    <Low>2.29015</Low>
+    <Close>2.3755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-02</Date>
+    <Open>2.3711</Open>
+    <High>2.3722</High>
+    <Low>2.2094</Low>
+    <Close>2.2861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-03</Date>
+    <Open>2.27785</Open>
+    <High>2.33695</High>
+    <Low>2.07</Low>
+    <Close>2.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-04</Date>
+    <Open>2.16</Open>
+    <High>2.1938</High>
+    <Low>1.46255</Low>
+    <Close>1.90275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-05</Date>
+    <Open>1.90855</Open>
+    <High>1.931</High>
+    <Low>1.6908</Low>
+    <Close>1.71615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-06</Date>
+    <Open>1.7194</Open>
+    <High>1.8501</High>
+    <Low>1.5466</Low>
+    <Close>1.75465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-07</Date>
+    <Open>1.75675</Open>
+    <High>1.8579</High>
+    <Low>1.698</Low>
+    <Close>1.69805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-08</Date>
+    <Open>1.70015</Open>
+    <High>1.8682</High>
+    <Low>1.62</Low>
+    <Close>1.76195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-09</Date>
+    <Open>1.75525</Open>
+    <High>1.878</High>
+    <Low>1.6098</Low>
+    <Close>1.63955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-10</Date>
+    <Open>1.6446</Open>
+    <High>1.7551</High>
+    <Low>1.56895</Low>
+    <Close>1.6066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-11</Date>
+    <Open>1.60065</Open>
+    <High>1.64405</High>
+    <Low>1.5325</Low>
+    <Close>1.6227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-12</Date>
+    <Open>1.62015</Open>
+    <High>1.65525</High>
+    <Low>1.57525</Low>
+    <Close>1.6339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-13</Date>
+    <Open>1.6337</Open>
+    <High>1.63905</High>
+    <Low>1.4</Low>
+    <Close>1.44125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-14</Date>
+    <Open>1.4377</Open>
+    <High>1.46565</High>
+    <Low>1.3736</Low>
+    <Close>1.4426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-15</Date>
+    <Open>1.4426</Open>
+    <High>1.52676</High>
+    <Low>1.33967</Low>
+    <Close>1.48589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-16</Date>
+    <Open>1.48689</Open>
+    <High>1.55278</High>
+    <Low>1.45429</Low>
+    <Close>1.47044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-17</Date>
+    <Open>1.46944</Open>
+    <High>1.5036</High>
+    <Low>1.35254</Low>
+    <Close>1.40356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-18</Date>
+    <Open>1.40456</Open>
+    <High>1.44558</High>
+    <Low>1.36054</Low>
+    <Close>1.40956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-19</Date>
+    <Open>1.4107</Open>
+    <High>1.73569</High>
+    <Low>1.39756</Low>
+    <Close>1.53061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-20</Date>
+    <Open>1.52976</Open>
+    <High>1.56047</High>
+    <Low>1.37141</Low>
+    <Close>1.45944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-21</Date>
+    <Open>1.45844</Open>
+    <High>1.54462</High>
+    <Low>1.44643</Low>
+    <Close>1.54162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-22</Date>
+    <Open>1.54262</Open>
+    <High>1.62981</High>
+    <Low>1.51961</Low>
+    <Close>1.60864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-23</Date>
+    <Open>1.60364</Open>
+    <High>1.77289</High>
+    <Low>1.53946</Low>
+    <Close>1.71969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-24</Date>
+    <Open>1.71986</Open>
+    <High>1.85511</High>
+    <Low>1.64082</Low>
+    <Close>1.72804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-25</Date>
+    <Open>1.72704</Open>
+    <High>1.85111</High>
+    <Low>1.69702</Low>
+    <Close>1.79472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-26</Date>
+    <Open>1.79472</Open>
+    <High>2.03602</High>
+    <Low>1.78389</Low>
+    <Close>1.89976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-27</Date>
+    <Open>1.89995</Open>
+    <High>2.13207</High>
+    <Low>1.87675</Low>
+    <Close>2.03161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-28</Date>
+    <Open>2.02761</Open>
+    <High>2.09242</High>
+    <Low>1.76418</Low>
+    <Close>1.80736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-29</Date>
+    <Open>1.80736</Open>
+    <High>1.85637</High>
+    <Low>1.67517</Low>
+    <Close>1.69834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-30</Date>
+    <Open>1.70134</Open>
+    <High>1.71334</High>
+    <Low>1.61616</Low>
+    <Close>1.65617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2021-12-31</Date>
+    <Open>1.66133</Open>
+    <High>1.73317</High>
+    <Low>1.56216</Low>
+    <Close>1.60416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-01</Date>
+    <Open>1.60516</Open>
+    <High>1.65617</High>
+    <Low>1.59284</Low>
+    <Close>1.63516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-02</Date>
+    <Open>1.63716</Open>
+    <High>1.68434</High>
+    <Low>1.62316</Low>
+    <Close>1.64133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-03</Date>
+    <Open>1.64233</Open>
+    <High>1.69217</High>
+    <Low>1.578</Low>
+    <Close>1.60216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-04</Date>
+    <Open>1.60684</Open>
+    <High>1.65983</High>
+    <Low>1.55784</Low>
+    <Close>1.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-05</Date>
+    <Open>1.60868</Open>
+    <High>1.633</High>
+    <Low>1.36086</Low>
+    <Close>1.45285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-06</Date>
+    <Open>1.45185</Open>
+    <High>1.475</High>
+    <Low>1.38686</Low>
+    <Close>1.46485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-07</Date>
+    <Open>1.46359</Open>
+    <High>1.46785</High>
+    <Low>1.3376</Low>
+    <Close>1.37186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-08</Date>
+    <Open>1.37186</Open>
+    <High>1.42</High>
+    <Low>1.28274</Low>
+    <Close>1.346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-09</Date>
+    <Open>1.344</Open>
+    <High>1.371</High>
+    <Low>1.303</Low>
+    <Close>1.342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-10</Date>
+    <Open>1.344</Open>
+    <High>1.35514</High>
+    <Low>1.21388</Low>
+    <Close>1.278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-11</Date>
+    <Open>1.278</Open>
+    <High>1.40014</High>
+    <Low>1.275</Low>
+    <Close>1.37114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-12</Date>
+    <Open>1.37114</Open>
+    <High>1.51661</High>
+    <Low>1.37114</Low>
+    <Close>1.4986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-13</Date>
+    <Open>1.4946</Open>
+    <High>1.53261</High>
+    <Low>1.3947</Low>
+    <Close>1.4007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-14</Date>
+    <Open>1.39956</Open>
+    <High>1.44258</High>
+    <Low>1.35854</Low>
+    <Close>1.43943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-15</Date>
+    <Open>1.43958</Open>
+    <High>1.4886</High>
+    <Low>1.41357</Low>
+    <Close>1.44572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-16</Date>
+    <Open>1.44858</Open>
+    <High>1.48459</High>
+    <Low>1.41871</Low>
+    <Close>1.45358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-17</Date>
+    <Open>1.44958</Open>
+    <High>1.45758</High>
+    <Low>1.31052</Low>
+    <Close>1.32753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-18</Date>
+    <Open>1.32753</Open>
+    <High>1.34854</High>
+    <Low>1.26238</Low>
+    <Close>1.31853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-19</Date>
+    <Open>1.31753</Open>
+    <High>1.3274</High>
+    <Low>1.24037</Low>
+    <Close>1.27938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-20</Date>
+    <Open>1.27838</Open>
+    <High>1.32927</High>
+    <Low>1.21312</Low>
+    <Close>1.22024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-21</Date>
+    <Open>1.21924</Open>
+    <High>1.21924</High>
+    <Low>0.97219</Low>
+    <Close>0.9942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-22</Date>
+    <Open>0.9982</Open>
+    <High>1.03831</High>
+    <Low>0.82016</Low>
+    <Close>0.87326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-23</Date>
+    <Open>0.87017</Open>
+    <High>0.97319</High>
+    <Low>0.86717</Low>
+    <Close>0.916183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-24</Date>
+    <Open>0.918184</Open>
+    <High>0.947189</High>
+    <Low>0.765153</Low>
+    <Close>0.837167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-25</Date>
+    <Open>0.839252</Open>
+    <High>0.882441</High>
+    <Low>0.812244</Low>
+    <Close>0.857428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-26</Date>
+    <Open>0.856428</Open>
+    <High>0.972583</High>
+    <Low>0.849509</Low>
+    <Close>0.872523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-27</Date>
+    <Open>0.869521</Open>
+    <High>0.905452</High>
+    <Low>0.813325</Low>
+    <Close>0.831332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-28</Date>
+    <Open>0.832416</Open>
+    <High>0.889267</High>
+    <Low>0.830332</Low>
+    <Close>0.875175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-29</Date>
+    <Open>0.877263</Open>
+    <High>0.925277</High>
+    <Low>0.876175</Low>
+    <Close>0.908272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-30</Date>
+    <Open>0.905272</Open>
+    <High>0.959288</High>
+    <Low>0.875262</Low>
+    <Close>0.892357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-01-31</Date>
+    <Open>0.892357</Open>
+    <High>0.931559</High>
+    <Low>0.846338</Low>
+    <Close>0.920552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-01</Date>
+    <Open>0.921276</Open>
+    <High>1.02051</High>
+    <Low>0.915549</Low>
+    <Close>0.980588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-02</Date>
+    <Open>0.978587</Open>
+    <High>1.02851</High>
+    <Low>0.90036</Low>
+    <Close>0.911729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-03</Date>
+    <Open>0.91182</Open>
+    <High>0.920368</High>
+    <Low>0.882353</Low>
+    <Close>0.909364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-04</Date>
+    <Open>0.908454</Open>
+    <High>1.02051</High>
+    <Low>0.907363</Low>
+    <Close>1.0068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-05</Date>
+    <Open>1.0058</Open>
+    <High>1.08065</High>
+    <Low>0.993794</Low>
+    <Close>1.02572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-06</Date>
+    <Open>1.02461</Open>
+    <High>1.12768</High>
+    <Low>1.01151</Low>
+    <Close>1.05442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-07</Date>
+    <Open>1.05353</Open>
+    <High>1.16805</High>
+    <Low>1.05242</Low>
+    <Close>1.1428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-08</Date>
+    <Open>1.1428</Open>
+    <High>1.17682</High>
+    <Low>1.04383</Low>
+    <Close>1.08508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-09</Date>
+    <Open>1.08397</Open>
+    <High>1.18495</High>
+    <Low>1.05774</Low>
+    <Close>1.16717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-10</Date>
+    <Open>1.16328</Open>
+    <High>1.25112</High>
+    <Low>1.08287</Low>
+    <Close>1.21185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-11</Date>
+    <Open>1.20784</Open>
+    <High>1.28077</High>
+    <Low>1.06242</Low>
+    <Close>1.06632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-12</Date>
+    <Open>1.06675</Open>
+    <High>1.13168</High>
+    <Low>1.04152</Low>
+    <Close>1.07854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-13</Date>
+    <Open>1.08054</Open>
+    <High>1.10166</High>
+    <Low>1.02862</Low>
+    <Close>1.04863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-14</Date>
+    <Open>1.04752</Open>
+    <High>1.04963</High>
+    <Low>0.96848</Low>
+    <Close>0.9966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-15</Date>
+    <Open>0.9976</Open>
+    <High>1.09065</High>
+    <Low>0.9935</Low>
+    <Close>1.08365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-16</Date>
+    <Open>1.08276</Open>
+    <High>1.17983</High>
+    <Low>1.03962</Low>
+    <Close>1.11767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-17</Date>
+    <Open>1.11956</Open>
+    <High>1.12756</High>
+    <Low>0.97058</Low>
+    <Close>0.98769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-18</Date>
+    <Open>0.98559</Open>
+    <High>1.01471</High>
+    <Low>0.932559</Low>
+    <Close>0.959479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-19</Date>
+    <Open>0.958575</Open>
+    <High>0.997498</High>
+    <Low>0.929465</Low>
+    <Close>0.953572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-20</Date>
+    <Open>0.947568</Open>
+    <High>0.959575</High>
+    <Low>0.863345</Low>
+    <Close>0.894447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-21</Date>
+    <Open>0.896448</Open>
+    <High>0.946473</High>
+    <Low>0.836418</Low>
+    <Close>0.842421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-22</Date>
+    <Open>0.842421</Open>
+    <High>0.847423</High>
+    <Low>0.777233</Low>
+    <Close>0.812487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-23</Date>
+    <Open>0.81649</Open>
+    <High>0.868521</High>
+    <Low>0.794397</Low>
+    <Close>0.807484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-24</Date>
+    <Open>0.805483</Open>
+    <High>0.808404</High>
+    <Low>0.656328</Low>
+    <Close>0.755302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-25</Date>
+    <Open>0.757303</Open>
+    <High>0.814407</High>
+    <Low>0.746224</Low>
+    <Close>0.812325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-26</Date>
+    <Open>0.811406</Open>
+    <High>0.831415</High>
+    <Low>0.771385</Low>
+    <Close>0.784392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-27</Date>
+    <Open>0.784314</Open>
+    <High>0.8014</High>
+    <Low>0.716358</Low>
+    <Close>0.737295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-02-28</Date>
+    <Open>0.737295</Open>
+    <High>0.817408</High>
+    <Low>0.718287</Low>
+    <Close>0.807323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-01</Date>
+    <Open>0.809324</Open>
+    <High>0.877351</High>
+    <Low>0.807323</Low>
+    <Close>0.820246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-02</Date>
+    <Open>0.819164</Open>
+    <High>0.862259</High>
+    <Low>0.805242</Low>
+    <Close>0.828248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-03</Date>
+    <Open>0.826248</Open>
+    <High>0.831249</High>
+    <Low>0.769631</Low>
+    <Close>0.783257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-04</Date>
+    <Open>0.783157</Open>
+    <High>0.797239</High>
+    <Low>0.714443</Low>
+    <Close>0.723245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-05</Date>
+    <Open>0.724217</Open>
+    <High>0.762229</High>
+    <Low>0.706141</Low>
+    <Close>0.759228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-06</Date>
+    <Open>0.760228</Open>
+    <High>0.761228</High>
+    <Low>0.715143</Low>
+    <Close>0.719216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-07</Date>
+    <Open>0.719216</Open>
+    <High>0.743223</High>
+    <Low>0.673202</Low>
+    <Close>0.70121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-08</Date>
+    <Open>0.702211</Open>
+    <High>0.744223</High>
+    <Low>0.695139</Low>
+    <Close>0.717143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-09</Date>
+    <Open>0.716143</Open>
+    <High>0.797159</High>
+    <Low>0.716143</Low>
+    <Close>0.767153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-10</Date>
+    <Open>0.767153</Open>
+    <High>0.780156</High>
+    <Low>0.705211</Low>
+    <Close>0.723289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-11</Date>
+    <Open>0.72529</Open>
+    <High>0.743297</High>
+    <Low>0.70114</Low>
+    <Close>0.709142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-12</Date>
+    <Open>0.708142</Open>
+    <High>0.724145</High>
+    <Low>0.701</Low>
+    <Close>0.708071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-13</Date>
+    <Open>0.708142</Open>
+    <High>0.732146</High>
+    <Low>0.680136</Low>
+    <Close>0.684205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-14</Date>
+    <Open>0.682136</Open>
+    <High>0.710071</High>
+    <Low>0.672067</Low>
+    <Close>0.70214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-15</Date>
+    <Open>0.70214</Open>
+    <High>0.721216</High>
+    <Low>0.685137</Low>
+    <Close>0.712214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-16</Date>
+    <Open>0.713214</Open>
+    <High>0.743223</High>
+    <Low>0.69921</Low>
+    <Close>0.73422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-17</Date>
+    <Open>0.732146</Open>
+    <High>0.759304</High>
+    <Low>0.731146</Low>
+    <Close>0.735294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-18</Date>
+    <Open>0.735367</Open>
+    <High>0.769461</High>
+    <Low>0.72036</Low>
+    <Close>0.762381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-19</Date>
+    <Open>0.763534</Open>
+    <High>1.27164</High>
+    <Low>0.761533</Low>
+    <Close>1.09344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-20</Date>
+    <Open>1.09755</Open>
+    <High>1.18948</High>
+    <Low>1.0076</Low>
+    <Close>1.06943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-21</Date>
+    <Open>1.06653</Open>
+    <High>1.17959</High>
+    <Low>0.993397</Low>
+    <Close>1.0025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-22</Date>
+    <Open>1.0014</Open>
+    <High>1.05052</High>
+    <Low>0.995398</Low>
+    <Close>1.0105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-23</Date>
+    <Open>1.0095</Open>
+    <High>1.07154</High>
+    <Low>0.96748</Low>
+    <Close>1.01441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-24</Date>
+    <Open>1.01541</Open>
+    <High>1.09455</High>
+    <Low>0.9954</Low>
+    <Close>1.06843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-25</Date>
+    <Open>1.06843</Open>
+    <High>1.08654</High>
+    <Low>0.98239</Low>
+    <Close>0.9984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-26</Date>
+    <Open>0.9975</Open>
+    <High>1.02351</High>
+    <Low>0.97749</Low>
+    <Close>1.01641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-27</Date>
+    <Open>1.01551</Open>
+    <High>1.07943</High>
+    <Low>1.0085</Low>
+    <Close>1.05542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-28</Date>
+    <Open>1.05542</Open>
+    <High>1.15746</High>
+    <Low>1.03831</Low>
+    <Close>1.07843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-29</Date>
+    <Open>1.07754</Open>
+    <High>1.20648</High>
+    <Low>1.0063</Low>
+    <Close>1.08854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-30</Date>
+    <Open>1.08354</Open>
+    <High>1.28739</High>
+    <Low>1.06242</Low>
+    <Close>1.19036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-03-31</Date>
+    <Open>1.19236</Open>
+    <High>1.32026</High>
+    <Low>1.10722</Low>
+    <Close>1.14023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-01</Date>
+    <Open>1.14234</Open>
+    <High>1.22061</High>
+    <Low>1.07321</Low>
+    <Close>1.17835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-02</Date>
+    <Open>1.18024</Open>
+    <High>1.25838</High>
+    <Low>1.16535</Low>
+    <Close>1.19248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-03</Date>
+    <Open>1.19248</Open>
+    <High>1.56963</High>
+    <Low>1.12745</Low>
+    <Close>1.39756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-04</Date>
+    <Open>1.39842</Open>
+    <High>1.76835</High>
+    <Low>1.34754</Low>
+    <Close>1.75735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-05</Date>
+    <Open>1.75553</Open>
+    <High>1.82155</High>
+    <Low>1.47129</Low>
+    <Close>1.5193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-06</Date>
+    <Open>1.5183</Open>
+    <High>1.59132</High>
+    <Low>1.308</Low>
+    <Close>1.34013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-07</Date>
+    <Open>1.341</Open>
+    <High>1.341</High>
+    <Low>1.225</Low>
+    <Close>1.26713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-08</Date>
+    <Open>1.26713</Open>
+    <High>1.338</High>
+    <Low>1.16135</Low>
+    <Close>1.16747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-09</Date>
+    <Open>1.16847</Open>
+    <High>1.24037</High>
+    <Low>1.13934</Low>
+    <Close>1.18235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-10</Date>
+    <Open>1.18135</Open>
+    <High>1.20836</High>
+    <Low>1.14334</Low>
+    <Close>1.17023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-11</Date>
+    <Open>1.17023</Open>
+    <High>1.17423</High>
+    <Low>0.9992</Low>
+    <Close>1.0023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-12</Date>
+    <Open>1.0023</Open>
+    <High>1.10022</High>
+    <Low>0.9942</Low>
+    <Close>1.03431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-13</Date>
+    <Open>1.03331</Open>
+    <High>1.12345</High>
+    <Low>1.0163</Low>
+    <Close>1.10433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-14</Date>
+    <Open>1.10433</Open>
+    <High>1.3184</High>
+    <Low>1.10122</Low>
+    <Close>1.20924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-15</Date>
+    <Open>1.20612</Open>
+    <High>1.32226</High>
+    <Low>1.17924</Low>
+    <Close>1.26525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-16</Date>
+    <Open>1.26525</Open>
+    <High>1.33327</High>
+    <Low>1.25525</Low>
+    <Close>1.30726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-17</Date>
+    <Open>1.30826</Open>
+    <High>1.44929</High>
+    <Low>1.22925</Low>
+    <Close>1.37828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-18</Date>
+    <Open>1.37828</Open>
+    <High>1.41728</High>
+    <Low>1.25012</Low>
+    <Close>1.35941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-19</Date>
+    <Open>1.35941</Open>
+    <High>1.43343</High>
+    <Low>1.31513</Low>
+    <Close>1.32727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-20</Date>
+    <Open>1.32827</Open>
+    <High>1.36427</High>
+    <Low>1.25125</Low>
+    <Close>1.28726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-21</Date>
+    <Open>1.28926</Open>
+    <High>1.32927</High>
+    <Low>1.17524</Low>
+    <Close>1.20612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-22</Date>
+    <Open>1.20312</Open>
+    <High>1.24025</High>
+    <Low>1.15912</Low>
+    <Close>1.18012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-23</Date>
+    <Open>1.17924</Open>
+    <High>1.23925</High>
+    <Low>1.14011</Low>
+    <Close>1.22412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-24</Date>
+    <Open>1.23025</Open>
+    <High>1.29526</High>
+    <Low>1.17524</Low>
+    <Close>1.19324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-25</Date>
+    <Open>1.19524</Open>
+    <High>1.20024</High>
+    <Low>1.07822</Low>
+    <Close>1.14811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-26</Date>
+    <Open>1.14723</Open>
+    <High>1.21624</High>
+    <Low>1.0331</Low>
+    <Close>1.05611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-27</Date>
+    <Open>1.05611</Open>
+    <High>1.13189</High>
+    <Low>1.0251</Low>
+    <Close>1.10111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-28</Date>
+    <Open>1.10211</Open>
+    <High>1.12611</High>
+    <Low>1.049</Low>
+    <Close>1.067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-29</Date>
+    <Open>1.069</Open>
+    <High>1.08311</High>
+    <Low>0.952</Low>
+    <Close>0.9591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-04-30</Date>
+    <Open>0.9581</Open>
+    <High>0.9941</High>
+    <Low>0.869</Low>
+    <Close>0.87109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-01</Date>
+    <Open>0.86909</Open>
+    <High>0.95009</High>
+    <Low>0.784</Low>
+    <Close>0.857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-02</Date>
+    <Open>0.85909</Open>
+    <High>0.90009</High>
+    <Low>0.82</Low>
+    <Close>0.84908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-03</Date>
+    <Open>0.85008</Open>
+    <High>0.88209</High>
+    <Low>0.806839</Low>
+    <Close>0.826917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-04</Date>
+    <Open>0.825917</Open>
+    <High>0.929907</High>
+    <Low>0.815918</Low>
+    <Close>0.899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-05</Date>
+    <Open>0.899</Open>
+    <High>0.941812</High>
+    <Low>0.770923</Low>
+    <Close>0.804839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-06</Date>
+    <Open>0.80492</Open>
+    <High>0.831834</High>
+    <Low>0.760848</Low>
+    <Close>0.79992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-07</Date>
+    <Open>0.80092</Open>
+    <High>0.810919</High>
+    <Low>0.753849</Low>
+    <Close>0.753849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-08</Date>
+    <Open>0.75185</Open>
+    <High>0.783765</High>
+    <Low>0.729854</Low>
+    <Close>0.770769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-09</Date>
+    <Open>0.769769</Open>
+    <High>0.771768</High>
+    <Low>0.596821</Low>
+    <Close>0.620876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-10</Date>
+    <Open>0.621876</Open>
+    <High>0.70086</High>
+    <Low>0.566773</Low>
+    <Close>0.580768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-11</Date>
+    <Open>0.581767</Open>
+    <High>0.62475</High>
+    <Low>0.36258</Low>
+    <Close>0.394535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-12</Date>
+    <Open>0.396488</Open>
+    <High>0.431268</High>
+    <Low>0.283691</Low>
+    <Close>0.352082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-13</Date>
+    <Open>0.352012</Open>
+    <High>0.464628</High>
+    <Low>0.343071</Low>
+    <Close>0.432221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-14</Date>
+    <Open>0.432221</Open>
+    <High>0.446285</High>
+    <Low>0.373252</Low>
+    <Close>0.418413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-15</Date>
+    <Open>0.419412</Open>
+    <High>0.490411</High>
+    <Low>0.41342</Low>
+    <Close>0.490411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-16</Date>
+    <Open>0.49136</Open>
+    <High>0.506442</High>
+    <Low>0.418539</Low>
+    <Close>0.448371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-17</Date>
+    <Open>0.448416</Open>
+    <High>0.488462</High>
+    <Low>0.427401</Low>
+    <Close>0.462398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-18</Date>
+    <Open>0.462444</Open>
+    <High>0.486416</High>
+    <Low>0.403475</Low>
+    <Close>0.410466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-19</Date>
+    <Open>0.412463</Open>
+    <High>0.444599</High>
+    <Low>0.390492</Low>
+    <Close>0.424575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-20</Date>
+    <Open>0.424575</Open>
+    <High>0.446508</High>
+    <Low>0.392489</Low>
+    <Close>0.404514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-21</Date>
+    <Open>0.404514</Open>
+    <High>0.460401</High>
+    <Low>0.394487</Low>
+    <Close>0.432437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-22</Date>
+    <Open>0.432437</Open>
+    <High>0.481373</High>
+    <Low>0.431438</Low>
+    <Close>0.454454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-23</Date>
+    <Open>0.455453</Open>
+    <High>0.505494</High>
+    <Low>0.455453</Low>
+    <Close>0.464442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-24</Date>
+    <Open>0.463443</Open>
+    <High>0.464489</High>
+    <Low>0.423491</Low>
+    <Close>0.455407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-25</Date>
+    <Open>0.456406</Open>
+    <High>0.512436</High>
+    <Low>0.448371</Low>
+    <Close>0.487414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-26</Date>
+    <Open>0.488462</Open>
+    <High>0.492408</High>
+    <Low>0.396524</Low>
+    <Close>0.411588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-27</Date>
+    <Open>0.411588</Open>
+    <High>0.420579</High>
+    <Low>0.361602</Low>
+    <Close>0.373626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-28</Date>
+    <Open>0.373574</Open>
+    <High>0.386512</High>
+    <Low>0.357556</Low>
+    <Close>0.370566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-29</Date>
+    <Open>0.368594</Open>
+    <High>0.388595</High>
+    <Low>0.352643</Low>
+    <Close>0.383578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-30</Date>
+    <Open>0.382571</Open>
+    <High>0.447601</High>
+    <Low>0.380585</Low>
+    <Close>0.431654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-05-31</Date>
+    <Open>0.432654</Open>
+    <High>0.494653</High>
+    <Low>0.409672</Low>
+    <Close>0.46263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-01</Date>
+    <Open>0.46163</Open>
+    <High>0.489579</High>
+    <Low>0.392407</Low>
+    <Close>0.400839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-02</Date>
+    <Open>0.39994</Open>
+    <High>0.412728</High>
+    <Low>0.390809</Low>
+    <Close>0.410031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-03</Date>
+    <Open>0.41073</Open>
+    <High>0.420821</High>
+    <Low>0.374696</Low>
+    <Close>0.393557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-04</Date>
+    <Open>0.395556</Open>
+    <High>0.415584</High>
+    <Low>0.379801</Low>
+    <Close>0.403693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-05</Date>
+    <Open>0.402702</Open>
+    <High>0.409672</High>
+    <Low>0.389669</Low>
+    <Close>0.400623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-06</Date>
+    <Open>0.400623</Open>
+    <High>0.436637</High>
+    <Low>0.394625</Low>
+    <Close>0.41665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-07</Date>
+    <Open>0.416646</Open>
+    <High>0.418652</High>
+    <Low>0.38068</Low>
+    <Close>0.416662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-08</Date>
+    <Open>0.416666</Open>
+    <High>0.460714</High>
+    <Low>0.391706</Low>
+    <Close>0.439714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-09</Date>
+    <Open>0.439714</Open>
+    <High>0.455653</High>
+    <Low>0.422636</Low>
+    <Close>0.429639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-10</Date>
+    <Open>0.428635</Open>
+    <High>0.439635</High>
+    <Low>0.386574</Low>
+    <Close>0.401489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-11</Date>
+    <Open>0.401485</Open>
+    <High>0.41056</High>
+    <Low>0.355559</Low>
+    <Close>0.366585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-12</Date>
+    <Open>0.366582</Open>
+    <High>0.369586</High>
+    <Low>0.325544</Low>
+    <Close>0.344576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-13</Date>
+    <Open>0.344576</Open>
+    <High>0.344576</High>
+    <Low>0.268258</Low>
+    <Close>0.296587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-14</Date>
+    <Open>0.29659</Open>
+    <High>0.316544</High>
+    <Low>0.272593</Low>
+    <Close>0.287654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-15</Date>
+    <Open>0.287654</Open>
+    <High>0.322645</High>
+    <Low>0.2775</Low>
+    <Close>0.31952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-16</Date>
+    <Open>0.3224</Open>
+    <High>0.337428</High>
+    <Low>0.2967</Low>
+    <Close>0.303505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-17</Date>
+    <Open>0.297788</Open>
+    <High>0.3122</High>
+    <Low>0.150246</Low>
+    <Close>0.306532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-18</Date>
+    <Open>0.305633</Open>
+    <High>0.310633</High>
+    <Low>0.259615</Low>
+    <Close>0.276548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-19</Date>
+    <Open>0.276551</Open>
+    <High>0.30763</High>
+    <Low>0.267601</Low>
+    <Close>0.300609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-20</Date>
+    <Open>0.30355</Open>
+    <High>0.31975</High>
+    <Low>0.28985</Low>
+    <Close>0.305633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-21</Date>
+    <Open>0.303666</Open>
+    <High>0.35558</High>
+    <Low>0.301638</Low>
+    <Close>0.322645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-22</Date>
+    <Open>0.322677</Open>
+    <High>0.400099</High>
+    <Low>0.304964</Low>
+    <Close>0.356643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-23</Date>
+    <Open>0.356643</Open>
+    <High>0.374625</High>
+    <Low>0.335664</Low>
+    <Close>0.366633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-24</Date>
+    <Open>0.366633</Open>
+    <High>0.391608</High>
+    <Low>0.364635</Low>
+    <Close>0.382697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-25</Date>
+    <Open>0.382617</Open>
+    <High>0.396722</High>
+    <Low>0.362757</Low>
+    <Close>0.38573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-26</Date>
+    <Open>0.38573</Open>
+    <High>0.413852</High>
+    <Low>0.368075</Low>
+    <Close>0.377966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-27</Date>
+    <Open>0.377873</Open>
+    <High>0.385738</High>
+    <Low>0.357403</Low>
+    <Close>0.367473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-28</Date>
+    <Open>0.367465</Open>
+    <High>0.414918</High>
+    <Low>0.366958</Low>
+    <Close>0.380232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-29</Date>
+    <Open>0.380528</Open>
+    <High>0.396484</High>
+    <Low>0.361435</Low>
+    <Close>0.379144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-06-30</Date>
+    <Open>0.379944</Open>
+    <High>0.38274</High>
+    <Low>0.324078</Low>
+    <Close>0.336695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-01</Date>
+    <Open>0.3369</Open>
+    <High>0.36175</High>
+    <Low>0.32885</Low>
+    <Close>0.33865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-02</Date>
+    <Open>0.33865</Open>
+    <High>0.3441</High>
+    <Low>0.3306</Low>
+    <Close>0.3429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-05</Date>
+    <Open>0.336396</Open>
+    <High>0.341324</High>
+    <Low>0.323444</Low>
+    <Close>0.337528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-06</Date>
+    <Open>0.337528</Open>
+    <High>0.338827</High>
+    <Low>0.325941</Low>
+    <Close>0.33583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-07</Date>
+    <Open>0.335331</Open>
+    <High>0.377946</High>
+    <Low>0.332833</Low>
+    <Close>0.357785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-08</Date>
+    <Open>0.357985</Open>
+    <High>0.367642</High>
+    <Low>0.343559</Low>
+    <Close>0.353588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-09</Date>
+    <Open>0.353987</Open>
+    <High>0.370777</High>
+    <Low>0.348491</Low>
+    <Close>0.364181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-10</Date>
+    <Open>0.363745</Open>
+    <High>0.36578</High>
+    <Low>0.335065</Low>
+    <Close>0.342794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-11</Date>
+    <Open>0.342394</Open>
+    <High>0.342794</High>
+    <Low>0.321111</Low>
+    <Close>0.323309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-12</Date>
+    <Open>0.323274</Open>
+    <High>0.323573</High>
+    <Low>0.308691</Low>
+    <Close>0.30949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-13</Date>
+    <Open>0.309203</Open>
+    <High>0.317182</High>
+    <Low>0.29078</Low>
+    <Close>0.31122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-14</Date>
+    <Open>0.311519</Open>
+    <High>0.330768</High>
+    <Low>0.307953</Low>
+    <Close>0.322806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-15</Date>
+    <Open>0.323106</Open>
+    <High>0.335432</High>
+    <Low>0.321607</Low>
+    <Close>0.331101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-16</Date>
+    <Open>0.331001</Open>
+    <High>0.342132</High>
+    <Low>0.320972</Low>
+    <Close>0.336433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-17</Date>
+    <Open>0.336809</Open>
+    <High>0.381205</High>
+    <Low>0.336109</Low>
+    <Close>0.364105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-18</Date>
+    <Open>0.363905</Open>
+    <High>0.399852</High>
+    <Low>0.35399</Low>
+    <Close>0.382412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-19</Date>
+    <Open>0.382312</Open>
+    <High>0.417967</High>
+    <Low>0.381697</Low>
+    <Close>0.407665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-20</Date>
+    <Open>0.4074</Open>
+    <High>0.425847</High>
+    <Low>0.375996</Low>
+    <Close>0.39102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-21</Date>
+    <Open>0.39112</Open>
+    <High>0.396648</High>
+    <Low>0.362543</Low>
+    <Close>0.390521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-22</Date>
+    <Open>0.390494</Open>
+    <High>0.403056</High>
+    <Low>0.364569</Low>
+    <Close>0.370481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-23</Date>
+    <Open>0.3703</Open>
+    <High>0.379134</High>
+    <Low>0.349169</Low>
+    <Close>0.357271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-24</Date>
+    <Open>0.357268</Open>
+    <High>0.36624</High>
+    <Low>0.304046</Low>
+    <Close>0.344065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-25</Date>
+    <Open>0.344069</Open>
+    <High>0.355032</High>
+    <Low>0.318022</Low>
+    <Close>0.325026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-26</Date>
+    <Open>0.324929</Open>
+    <High>0.325742</High>
+    <Low>0.302515</Low>
+    <Close>0.308146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-27</Date>
+    <Open>0.308443</Open>
+    <High>0.336341</High>
+    <Low>0.308443</Low>
+    <Close>0.331279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-28</Date>
+    <Open>0.33138</Open>
+    <High>0.35411</High>
+    <Low>0.325536</Low>
+    <Close>0.34887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-29</Date>
+    <Open>0.34877</Open>
+    <High>0.366582</High>
+    <Low>0.335497</Low>
+    <Close>0.346542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-30</Date>
+    <Open>0.346542</Open>
+    <High>0.37133</High>
+    <Low>0.339919</Low>
+    <Close>0.351219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-07-31</Date>
+    <Open>0.351219</Open>
+    <High>0.367173</High>
+    <Low>0.3433</Low>
+    <Close>0.354482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-01</Date>
+    <Open>0.354242</Open>
+    <High>0.360119</High>
+    <Low>0.338435</Low>
+    <Close>0.357107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-02</Date>
+    <Open>0.357107</Open>
+    <High>0.371115</High>
+    <Low>0.328125</Low>
+    <Close>0.342058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-03</Date>
+    <Open>0.342568</Open>
+    <High>0.356368</High>
+    <Low>0.327972</Low>
+    <Close>0.344986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-04</Date>
+    <Open>0.34588</Open>
+    <High>0.353053</High>
+    <Low>0.335477</Low>
+    <Close>0.34051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-05</Date>
+    <Open>0.34071</Open>
+    <High>0.368944</High>
+    <Low>0.339914</Low>
+    <Close>0.362369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-06</Date>
+    <Open>0.362269</Open>
+    <High>0.376504</High>
+    <Low>0.362269</Low>
+    <Close>0.369181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-07</Date>
+    <Open>0.368981</Open>
+    <High>0.382073</High>
+    <Low>0.357186</Low>
+    <Close>0.379868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-08</Date>
+    <Open>0.379672</Open>
+    <High>0.392955</High>
+    <Low>0.372767</Low>
+    <Close>0.379145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-09</Date>
+    <Open>0.379045</Open>
+    <High>0.38677</High>
+    <Low>0.35306</Low>
+    <Close>0.362172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-10</Date>
+    <Open>0.362472</Open>
+    <High>0.380665</High>
+    <Low>0.351202</Low>
+    <Close>0.376009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-11</Date>
+    <Open>0.376409</Open>
+    <High>0.438488</High>
+    <Low>0.375009</Low>
+    <Close>0.409292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-12</Date>
+    <Open>0.409292</Open>
+    <High>0.409405</High>
+    <Low>0.389995</Low>
+    <Close>0.402485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-13</Date>
+    <Open>0.402785</Open>
+    <High>0.412247</High>
+    <Low>0.395282</Low>
+    <Close>0.398155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-14</Date>
+    <Open>0.398055</Open>
+    <High>0.409923</High>
+    <Low>0.373797</Low>
+    <Close>0.378017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-15</Date>
+    <Open>0.378313</Open>
+    <High>0.390101</High>
+    <Low>0.368892</Low>
+    <Close>0.371689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-16</Date>
+    <Open>0.370889</Open>
+    <High>0.376149</High>
+    <Low>0.362758</Low>
+    <Close>0.367733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-17</Date>
+    <Open>0.368133</Open>
+    <High>0.38085</High>
+    <Low>0.341631</Low>
+    <Close>0.344028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-18</Date>
+    <Open>0.344028</Open>
+    <High>0.352821</High>
+    <Low>0.340907</Low>
+    <Close>0.347703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-19</Date>
+    <Open>0.347635</Open>
+    <High>0.347635</High>
+    <Low>0.30003</Low>
+    <Close>0.30043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-20</Date>
+    <Open>0.300809</Open>
+    <High>0.31565</High>
+    <Low>0.287935</Low>
+    <Close>0.296397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-21</Date>
+    <Open>0.296694</Open>
+    <High>0.313987</High>
+    <Low>0.296591</Low>
+    <Close>0.310394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-22</Date>
+    <Open>0.309429</Open>
+    <High>0.311911</High>
+    <Low>0.289149</Low>
+    <Close>0.299079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-23</Date>
+    <Open>0.299076</Open>
+    <High>0.313086</High>
+    <Low>0.294012</Low>
+    <Close>0.309925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-24</Date>
+    <Open>0.30877</Open>
+    <High>0.337734</High>
+    <Low>0.3038</Low>
+    <Close>0.32983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-25</Date>
+    <Open>0.33003</Open>
+    <High>0.33003</High>
+    <Low>0.309437</Low>
+    <Close>0.315709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-26</Date>
+    <Open>0.316303</Open>
+    <High>0.319126</High>
+    <Low>0.284991</Low>
+    <Close>0.290129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-27</Date>
+    <Open>0.290329</Open>
+    <High>0.290817</High>
+    <Low>0.278925</Low>
+    <Close>0.280423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-28</Date>
+    <Open>0.280257</Open>
+    <High>0.293974</High>
+    <Low>0.279054</Low>
+    <Close>0.287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-29</Date>
+    <Open>0.2868</Open>
+    <High>0.296618</High>
+    <Low>0.275278</Low>
+    <Close>0.295521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-30</Date>
+    <Open>0.295424</Open>
+    <High>0.303697</High>
+    <Low>0.278406</Low>
+    <Close>0.284126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-08-31</Date>
+    <Open>0.284826</Open>
+    <High>0.2928</High>
+    <Low>0.279206</Low>
+    <Close>0.2834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-01</Date>
+    <Open>0.284097</Open>
+    <High>0.284303</High>
+    <Low>0.272081</Low>
+    <Close>0.282183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-02</Date>
+    <Open>0.282183</Open>
+    <High>0.288532</High>
+    <Low>0.276414</Low>
+    <Close>0.279734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-03</Date>
+    <Open>0.279742</Open>
+    <High>0.286429</High>
+    <Low>0.278122</Low>
+    <Close>0.2848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-04</Date>
+    <Open>0.284828</Open>
+    <High>0.2944</High>
+    <Low>0.2835</Low>
+    <Close>0.2922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-05</Date>
+    <Open>0.2923</Open>
+    <High>0.29663</High>
+    <Low>0.2789</Low>
+    <Close>0.281528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-06</Date>
+    <Open>0.281528</Open>
+    <High>0.2891</High>
+    <Low>0.256374</Low>
+    <Close>0.2599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-07</Date>
+    <Open>0.2597</Open>
+    <High>0.283643</High>
+    <Low>0.254692</Low>
+    <Close>0.28132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-08</Date>
+    <Open>0.281528</Open>
+    <High>0.288491</High>
+    <Low>0.272108</Low>
+    <Close>0.279842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-09</Date>
+    <Open>0.2804</Open>
+    <High>0.298757</High>
+    <Low>0.279745</Low>
+    <Close>0.288501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-10</Date>
+    <Open>0.288801</Open>
+    <High>0.296124</High>
+    <Low>0.283299</Low>
+    <Close>0.285654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-11</Date>
+    <Open>0.285654</Open>
+    <High>0.293105</High>
+    <Low>0.27957</Low>
+    <Close>0.280567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-12</Date>
+    <Open>0.281067</Open>
+    <High>0.318767</High>
+    <Low>0.275647</Low>
+    <Close>0.293059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-13</Date>
+    <Open>0.292988</Open>
+    <High>0.293756</High>
+    <Low>0.25361</Low>
+    <Close>0.259105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-14</Date>
+    <Open>0.258905</Open>
+    <High>0.26159</High>
+    <Low>0.2453</Low>
+    <Close>0.251963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-15</Date>
+    <Open>0.251965</Open>
+    <High>0.254648</High>
+    <Low>0.240852</Low>
+    <Close>0.244176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-16</Date>
+    <Open>0.243978</Open>
+    <High>0.245175</High>
+    <Low>0.238176</Low>
+    <Close>0.243176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-17</Date>
+    <Open>0.243176</Open>
+    <High>0.251625</High>
+    <Low>0.242776</Low>
+    <Close>0.248125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-18</Date>
+    <Open>0.2482</Open>
+    <High>0.250725</High>
+    <Low>0.209379</Low>
+    <Close>0.2232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-19</Date>
+    <Open>0.223865</Open>
+    <High>0.229923</High>
+    <Low>0.212679</Low>
+    <Close>0.227145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-20</Date>
+    <Open>0.227523</Open>
+    <High>0.229423</High>
+    <Low>0.217844</Low>
+    <Close>0.218622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-21</Date>
+    <Open>0.218404</Open>
+    <High>0.2312</High>
+    <Low>0.211921</Low>
+    <Close>0.2142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-22</Date>
+    <Open>0.2142</Open>
+    <High>0.2277</High>
+    <Low>0.2121</Low>
+    <Close>0.2232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-23</Date>
+    <Open>0.2234</Open>
+    <High>0.2308</High>
+    <Low>0.212179</Low>
+    <Close>0.221378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-24</Date>
+    <Open>0.221484</Open>
+    <High>0.224078</High>
+    <Low>0.218291</Low>
+    <Close>0.218517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-25</Date>
+    <Open>0.2185</Open>
+    <High>0.228007</High>
+    <Low>0.211008</Low>
+    <Close>0.2122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-26</Date>
+    <Open>0.212</Open>
+    <High>0.2185</High>
+    <Low>0.2075</Low>
+    <Close>0.2149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-27</Date>
+    <Open>0.2149</Open>
+    <High>0.2289</High>
+    <Low>0.2087</Low>
+    <Close>0.211779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-28</Date>
+    <Open>0.211279</Open>
+    <High>0.2156</High>
+    <Low>0.205579</Low>
+    <Close>0.2147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-29</Date>
+    <Open>0.2145</Open>
+    <High>0.2165</High>
+    <Low>0.2067</Low>
+    <Close>0.2121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-09-30</Date>
+    <Open>0.2122</Open>
+    <High>0.225145</High>
+    <Low>0.2111</Low>
+    <Close>0.2127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-01</Date>
+    <Open>0.2126</Open>
+    <High>0.2171</High>
+    <Low>0.2114</Low>
+    <Close>0.2138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-02</Date>
+    <Open>0.2139</Open>
+    <High>0.2161</High>
+    <Low>0.208121</Low>
+    <Close>0.2114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-03</Date>
+    <Open>0.210921</Open>
+    <High>0.217322</High>
+    <Low>0.20342</Low>
+    <Close>0.214121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-04</Date>
+    <Open>0.214121</Open>
+    <High>0.222767</High>
+    <Low>0.213943</Low>
+    <Close>0.220366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-05</Date>
+    <Open>0.220366</Open>
+    <High>0.222567</High>
+    <Low>0.2089</Low>
+    <Close>0.212721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-06</Date>
+    <Open>0.212442</Open>
+    <High>0.218428</High>
+    <Low>0.207535</Low>
+    <Close>0.207535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-07</Date>
+    <Open>0.207637</Open>
+    <High>0.211342</High>
+    <Low>0.205008</Low>
+    <Close>0.206529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-08</Date>
+    <Open>0.206621</Open>
+    <High>0.207625</High>
+    <Low>0.20064</Low>
+    <Close>0.202055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-09</Date>
+    <Open>0.201952</Open>
+    <High>0.20392</High>
+    <Low>0.19812</Low>
+    <Close>0.20164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-10</Date>
+    <Open>0.20144</Open>
+    <High>0.20312</High>
+    <Low>0.189419</Low>
+    <Close>0.191681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-11</Date>
+    <Open>0.1918</Open>
+    <High>0.1919</High>
+    <Low>0.1764</Low>
+    <Close>0.185483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-12</Date>
+    <Open>0.185581</Open>
+    <High>0.189898</High>
+    <Low>0.184176</Low>
+    <Close>0.186206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-13</Date>
+    <Open>0.186206</Open>
+    <High>0.188396</High>
+    <Low>0.165988</Low>
+    <Close>0.183015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-14</Date>
+    <Open>0.183417</Open>
+    <High>0.190717</High>
+    <Low>0.178902</Low>
+    <Close>0.179107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-15</Date>
+    <Open>0.179105</Open>
+    <High>0.189715</High>
+    <Low>0.178905</Low>
+    <Close>0.183509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-16</Date>
+    <Open>0.1835</Open>
+    <High>0.192898</High>
+    <Low>0.182115</Low>
+    <Close>0.189308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-17</Date>
+    <Open>0.189309</Open>
+    <High>0.195102</High>
+    <Low>0.188702</Low>
+    <Close>0.193704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-18</Date>
+    <Open>0.193804</Open>
+    <High>0.195508</High>
+    <Low>0.185902</Low>
+    <Close>0.189809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-19</Date>
+    <Open>0.189809</Open>
+    <High>0.191306</High>
+    <Low>0.182804</Low>
+    <Close>0.1848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-20</Date>
+    <Open>0.184898</Open>
+    <High>0.185707</High>
+    <Low>0.177189</Low>
+    <Close>0.180287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-21</Date>
+    <Open>0.180182</Open>
+    <High>0.181307</High>
+    <Low>0.172995</Low>
+    <Close>0.180314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-22</Date>
+    <Open>0.180313</Open>
+    <High>0.183113</High>
+    <Low>0.177814</Low>
+    <Close>0.180316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-23</Date>
+    <Open>0.180216</Open>
+    <High>0.182518</High>
+    <Low>0.176505</Low>
+    <Close>0.181525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-24</Date>
+    <Open>0.181724</Open>
+    <High>0.184911</High>
+    <Low>0.178825</Low>
+    <Close>0.182707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-25</Date>
+    <Open>0.182707</Open>
+    <High>0.194635</High>
+    <Low>0.181584</Low>
+    <Close>0.190561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-26</Date>
+    <Open>0.190663</Open>
+    <High>0.194062</High>
+    <Low>0.188832</Low>
+    <Close>0.192254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-27</Date>
+    <Open>0.192154</Open>
+    <High>0.202739</High>
+    <Low>0.188711</Low>
+    <Close>0.189713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-28</Date>
+    <Open>0.189611</Open>
+    <High>0.19754</High>
+    <Low>0.184909</Low>
+    <Close>0.195441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-29</Date>
+    <Open>0.195637</Open>
+    <High>0.206578</High>
+    <Low>0.195137</Low>
+    <Close>0.201348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-30</Date>
+    <Open>0.201348</Open>
+    <High>0.21274</High>
+    <Low>0.195835</Low>
+    <Close>0.19824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-10-31</Date>
+    <Open>0.198242</Open>
+    <High>0.202096</High>
+    <Low>0.193746</Low>
+    <Close>0.200284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-01</Date>
+    <Open>0.200288</Open>
+    <High>0.219032</High>
+    <Low>0.199584</Low>
+    <Close>0.211279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-02</Date>
+    <Open>0.210979</Open>
+    <High>0.219356</High>
+    <Low>0.196884</Low>
+    <Close>0.206088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-03</Date>
+    <Open>0.20569</Open>
+    <High>0.231381</High>
+    <Low>0.20569</Low>
+    <Close>0.215298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-04</Date>
+    <Open>0.215398</Open>
+    <High>0.244917</High>
+    <Low>0.2148</Low>
+    <Close>0.229618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-05</Date>
+    <Open>0.229718</Open>
+    <High>0.273808</High>
+    <Low>0.227009</Low>
+    <Close>0.243812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-06</Date>
+    <Open>0.244015</Open>
+    <High>0.244015</High>
+    <Low>0.226816</Low>
+    <Close>0.226816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-07</Date>
+    <Open>0.227316</Open>
+    <High>0.230307</High>
+    <Low>0.211419</Low>
+    <Close>0.214426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-08</Date>
+    <Open>0.214464</Open>
+    <High>0.218065</High>
+    <Low>0.16191</Low>
+    <Close>0.175525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-09</Date>
+    <Open>0.175023</Open>
+    <High>0.17977</High>
+    <Low>0.138792</Low>
+    <Close>0.144422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-10</Date>
+    <Open>0.143705</Open>
+    <High>0.181655</High>
+    <Low>0.141854</Low>
+    <Close>0.167601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-11</Date>
+    <Open>0.167685</Open>
+    <High>0.187956</High>
+    <Low>0.152534</Low>
+    <Close>0.159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-12</Date>
+    <Open>0.159011</Open>
+    <High>0.161894</High>
+    <Low>0.148532</Low>
+    <Close>0.151028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-13</Date>
+    <Open>0.151028</Open>
+    <High>0.155644</High>
+    <Low>0.144454</Low>
+    <Close>0.148092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-14</Date>
+    <Open>0.147593</Open>
+    <High>0.150105</High>
+    <Low>0.137979</Low>
+    <Close>0.145382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-15</Date>
+    <Open>0.145374</Open>
+    <High>0.162572</High>
+    <Low>0.145374</Low>
+    <Close>0.148851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-16</Date>
+    <Open>0.149218</Open>
+    <High>0.152328</High>
+    <Low>0.14445</Low>
+    <Close>0.145867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-17</Date>
+    <Open>0.145966</Open>
+    <High>0.14897</High>
+    <Low>0.141774</Low>
+    <Close>0.148884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-18</Date>
+    <Open>0.148884</Open>
+    <High>0.154576</High>
+    <Low>0.144538</Low>
+    <Close>0.146332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-19</Date>
+    <Open>0.146531</Open>
+    <High>0.152829</High>
+    <Low>0.14503</Low>
+    <Close>0.150841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-20</Date>
+    <Open>0.151164</Open>
+    <High>0.155605</High>
+    <Low>0.140237</Low>
+    <Close>0.142882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-21</Date>
+    <Open>0.142684</Open>
+    <High>0.145387</High>
+    <Low>0.137193</Low>
+    <Close>0.141329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-22</Date>
+    <Open>0.14133</Open>
+    <High>0.148219</High>
+    <Low>0.136335</Low>
+    <Close>0.14742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-23</Date>
+    <Open>0.147509</Open>
+    <High>0.157909</High>
+    <Low>0.147314</Low>
+    <Close>0.155329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-24</Date>
+    <Open>0.155828</Open>
+    <High>0.157539</High>
+    <Low>0.151968</Low>
+    <Close>0.156369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-25</Date>
+    <Open>0.156467</Open>
+    <High>0.156871</High>
+    <Low>0.149583</Low>
+    <Close>0.153013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-26</Date>
+    <Open>0.15281</Open>
+    <High>0.158702</High>
+    <Low>0.15181</Low>
+    <Close>0.153011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-27</Date>
+    <Open>0.153011</Open>
+    <High>0.162095</High>
+    <Low>0.15301</Low>
+    <Close>0.160197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-28</Date>
+    <Open>0.160199</Open>
+    <High>0.160199</High>
+    <Low>0.146716</Low>
+    <Close>0.150144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-29</Date>
+    <Open>0.150241</Open>
+    <High>0.154718</High>
+    <Low>0.148038</Low>
+    <Close>0.151244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-11-30</Date>
+    <Open>0.151442</Open>
+    <High>0.1632</High>
+    <Low>0.15055</Low>
+    <Close>0.161106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-01</Date>
+    <Open>0.161105</Open>
+    <High>0.161802</High>
+    <Low>0.156411</Low>
+    <Close>0.158309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-02</Date>
+    <Open>0.15891</Open>
+    <High>0.16592</High>
+    <Low>0.156714</Low>
+    <Close>0.16431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-03</Date>
+    <Open>0.16411</Open>
+    <High>0.164715</High>
+    <Low>0.158232</Low>
+    <Close>0.158632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-04</Date>
+    <Open>0.158816</Open>
+    <High>0.168334</High>
+    <Low>0.158216</Low>
+    <Close>0.163916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-05</Date>
+    <Open>0.164116</Open>
+    <High>0.168934</High>
+    <Low>0.159098</Low>
+    <Close>0.159303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-06</Date>
+    <Open>0.159303</Open>
+    <High>0.162918</High>
+    <Low>0.1584</Low>
+    <Close>0.158997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-07</Date>
+    <Open>0.1591</Open>
+    <High>0.161402</High>
+    <Low>0.150983</Low>
+    <Close>0.1515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-08</Date>
+    <Open>0.1514</Open>
+    <High>0.158313</High>
+    <Low>0.149715</Low>
+    <Close>0.155011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-09</Date>
+    <Open>0.154611</Open>
+    <High>0.158903</High>
+    <Low>0.1522</Low>
+    <Close>0.153105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-10</Date>
+    <Open>0.153606</Open>
+    <High>0.1562</High>
+    <Low>0.153098</Low>
+    <Close>0.153997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-11</Date>
+    <Open>0.153897</Open>
+    <High>0.1553</High>
+    <Low>0.149315</Low>
+    <Close>0.14963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-12</Date>
+    <Open>0.149515</Open>
+    <High>0.15033</High>
+    <Low>0.144314</Low>
+    <Close>0.149113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-13</Date>
+    <Open>0.149012</Open>
+    <High>0.154077</High>
+    <Low>0.144938</Low>
+    <Close>0.152263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-14</Date>
+    <Open>0.152765</Open>
+    <High>0.155774</High>
+    <Low>0.149696</Low>
+    <Close>0.151111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-15</Date>
+    <Open>0.151011</Open>
+    <High>0.151415</High>
+    <Low>0.145115</Low>
+    <Close>0.145215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-16</Date>
+    <Open>0.145129</Open>
+    <High>0.146915</High>
+    <Low>0.126813</Low>
+    <Close>0.129826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-17</Date>
+    <Open>0.130013</Open>
+    <High>0.131518</High>
+    <Low>0.123715</Low>
+    <Close>0.131517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-18</Date>
+    <Open>0.131517</Open>
+    <High>0.132816</High>
+    <Low>0.127713</Low>
+    <Close>0.131316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-19</Date>
+    <Open>0.130917</Open>
+    <High>0.13262</High>
+    <Low>0.121801</Low>
+    <Close>0.1236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-20</Date>
+    <Open>0.1239</Open>
+    <High>0.130099</High>
+    <Low>0.1234</Low>
+    <Close>0.129405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-21</Date>
+    <Open>0.129505</Open>
+    <High>0.130404</High>
+    <Low>0.1261</Low>
+    <Close>0.127605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-22</Date>
+    <Open>0.127606</Open>
+    <High>0.130697</High>
+    <Low>0.126587</Low>
+    <Close>0.13028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-23</Date>
+    <Open>0.130278</Open>
+    <High>0.131892</High>
+    <Low>0.129482</Low>
+    <Close>0.131286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-24</Date>
+    <Open>0.130892</Open>
+    <High>0.131691</High>
+    <Low>0.130886</Low>
+    <Close>0.131092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-25</Date>
+    <Open>0.130652</Open>
+    <High>0.131629</High>
+    <Low>0.127722</Low>
+    <Close>0.129785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-26</Date>
+    <Open>0.129819</Open>
+    <High>0.131075</High>
+    <Low>0.128583</Low>
+    <Close>0.129472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-27</Date>
+    <Open>0.129875</Open>
+    <High>0.132573</High>
+    <Low>0.128945</Low>
+    <Close>0.130749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-28</Date>
+    <Open>0.131049</Open>
+    <High>0.135843</High>
+    <Low>0.127631</Low>
+    <Close>0.127932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-29</Date>
+    <Open>0.128132</Open>
+    <High>0.132346</High>
+    <Low>0.126446</Low>
+    <Close>0.128041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-30</Date>
+    <Open>0.128138</Open>
+    <High>0.129542</High>
+    <Low>0.123649</Low>
+    <Close>0.125237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2022-12-31</Date>
+    <Open>0.125339</Open>
+    <High>0.127936</High>
+    <Low>0.124936</Low>
+    <Close>0.127336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-01</Date>
+    <Open>0.127033</Open>
+    <High>0.133736</High>
+    <Low>0.125833</Low>
+    <Close>0.131838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-02</Date>
+    <Open>0.131638</Open>
+    <High>0.137047</High>
+    <Low>0.130445</Low>
+    <Close>0.134656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-03</Date>
+    <Open>0.134657</Open>
+    <High>0.135759</High>
+    <Low>0.131642</Low>
+    <Close>0.13265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-04</Date>
+    <Open>0.133447</Open>
+    <High>0.139843</High>
+    <Low>0.133445</Low>
+    <Close>0.135855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-05</Date>
+    <Open>0.136055</Open>
+    <High>0.140449</High>
+    <Low>0.135245</Low>
+    <Close>0.137251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-06</Date>
+    <Open>0.137052</Open>
+    <High>0.159747</High>
+    <Low>0.133025</Low>
+    <Close>0.141756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-07</Date>
+    <Open>0.141856</Open>
+    <High>0.148955</High>
+    <Low>0.13766</Low>
+    <Close>0.141266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-08</Date>
+    <Open>0.141657</Open>
+    <High>0.149782</High>
+    <Low>0.139876</Low>
+    <Close>0.149782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-09</Date>
+    <Open>0.14967</Open>
+    <High>0.163787</High>
+    <Low>0.14907</Low>
+    <Close>0.155998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-10</Date>
+    <Open>0.156</Open>
+    <High>0.164384</High>
+    <Low>0.154278</Low>
+    <Close>0.157922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-11</Date>
+    <Open>0.158024</Open>
+    <High>0.159703</High>
+    <Low>0.153291</Low>
+    <Close>0.1597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-12</Date>
+    <Open>0.15979</Open>
+    <High>0.168324</High>
+    <Low>0.158091</Low>
+    <Close>0.166717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-13</Date>
+    <Open>0.166513</Open>
+    <High>0.175414</High>
+    <Low>0.1652</Low>
+    <Close>0.172716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-14</Date>
+    <Open>0.173216</Open>
+    <High>0.197026</High>
+    <Low>0.173014</Low>
+    <Close>0.182909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-15</Date>
+    <Open>0.183118</Open>
+    <High>0.193568</High>
+    <Low>0.177618</Low>
+    <Close>0.192658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-16</Date>
+    <Open>0.192458</Open>
+    <High>0.196875</High>
+    <Low>0.182011</Low>
+    <Close>0.186004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-17</Date>
+    <Open>0.186104</Open>
+    <High>0.190802</High>
+    <Low>0.184211</Low>
+    <Close>0.18442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-18</Date>
+    <Open>0.18432</Open>
+    <High>0.186115</High>
+    <Low>0.166387</Low>
+    <Close>0.168792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-19</Date>
+    <Open>0.16899</Open>
+    <High>0.174398</High>
+    <Low>0.164885</Low>
+    <Close>0.170395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-20</Date>
+    <Open>0.17041</Open>
+    <High>0.192813</High>
+    <Low>0.167798</Low>
+    <Close>0.190434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-21</Date>
+    <Open>0.191134</Open>
+    <High>0.196947</High>
+    <Low>0.185789</Low>
+    <Close>0.188038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-22</Date>
+    <Open>0.187228</Open>
+    <High>0.19863</High>
+    <Low>0.184231</Low>
+    <Close>0.190238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-23</Date>
+    <Open>0.190536</Open>
+    <High>0.222724</High>
+    <Low>0.189836</Low>
+    <Close>0.206533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-24</Date>
+    <Open>0.206929</Open>
+    <High>0.365004</High>
+    <Low>0.20203</Low>
+    <Close>0.282208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-25</Date>
+    <Open>0.281008</Open>
+    <High>0.308062</High>
+    <Low>0.256746</Low>
+    <Close>0.283845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-26</Date>
+    <Open>0.283848</Open>
+    <High>0.348163</High>
+    <Low>0.27895</Low>
+    <Close>0.315025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-27</Date>
+    <Open>0.314725</Open>
+    <High>0.325923</High>
+    <Low>0.293947</Low>
+    <Close>0.301615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-28</Date>
+    <Open>0.300814</Open>
+    <High>0.31927</High>
+    <Low>0.288864</Low>
+    <Close>0.29866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-29</Date>
+    <Open>0.29846</Open>
+    <High>0.307071</High>
+    <Low>0.294276</Low>
+    <Close>0.299215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-30</Date>
+    <Open>0.299412</Open>
+    <High>0.313319</High>
+    <Low>0.260097</Low>
+    <Close>0.266919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-01-31</Date>
+    <Open>0.266119</Open>
+    <High>0.296982</High>
+    <Low>0.264484</Low>
+    <Close>0.275525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-01</Date>
+    <Open>0.274216</Open>
+    <High>0.299418</High>
+    <Low>0.258503</Low>
+    <Close>0.288217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-02</Date>
+    <Open>0.288914</Open>
+    <High>0.30387</High>
+    <Low>0.28252</Low>
+    <Close>0.286652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-03</Date>
+    <Open>0.286357</Open>
+    <High>0.293641</High>
+    <Low>0.276828</Low>
+    <Close>0.290323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-04</Date>
+    <Open>0.290223</Open>
+    <High>0.292523</High>
+    <Low>0.281111</Low>
+    <Close>0.282025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-05</Date>
+    <Open>0.281823</Open>
+    <High>0.285666</High>
+    <Low>0.257167</Low>
+    <Close>0.264266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-06</Date>
+    <Open>0.264369</Open>
+    <High>0.32631</High>
+    <Low>0.258105</Low>
+    <Close>0.299212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-07</Date>
+    <Open>0.299212</Open>
+    <High>0.313681</High>
+    <Low>0.291212</Low>
+    <Close>0.306618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-08</Date>
+    <Open>0.306718</Open>
+    <High>0.349328</High>
+    <Low>0.284509</Low>
+    <Close>0.290923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-09</Date>
+    <Open>0.290017</Open>
+    <High>0.299306</High>
+    <Low>0.250248</Low>
+    <Close>0.253825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-10</Date>
+    <Open>0.253825</Open>
+    <High>0.261847</High>
+    <Low>0.248745</Low>
+    <Close>0.254738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-11</Date>
+    <Open>0.2546</Open>
+    <High>0.301327</High>
+    <Low>0.251138</Low>
+    <Close>0.278125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-12</Date>
+    <Open>0.278828</Open>
+    <High>0.280742</High>
+    <Low>0.263237</Low>
+    <Close>0.268619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-13</Date>
+    <Open>0.268627</Open>
+    <High>0.273279</High>
+    <Low>0.250035</Low>
+    <Close>0.256639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-14</Date>
+    <Open>0.256441</Open>
+    <High>0.305362</High>
+    <Low>0.255276</Low>
+    <Close>0.279112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-15</Date>
+    <Open>0.279012</Open>
+    <High>0.294041</High>
+    <Low>0.271784</Low>
+    <Close>0.290052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-16</Date>
+    <Open>0.290549</Open>
+    <High>0.342631</High>
+    <Low>0.290052</Low>
+    <Close>0.304403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-17</Date>
+    <Open>0.304503</Open>
+    <High>0.368822</High>
+    <Low>0.293335</Low>
+    <Close>0.33863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-18</Date>
+    <Open>0.338734</Open>
+    <High>0.363169</High>
+    <Low>0.327652</Low>
+    <Close>0.343858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-19</Date>
+    <Open>0.344855</Open>
+    <High>0.353457</High>
+    <Low>0.320154</Low>
+    <Close>0.329376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-20</Date>
+    <Open>0.329572</Open>
+    <High>0.349838</High>
+    <Low>0.315091</Low>
+    <Close>0.335613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-21</Date>
+    <Open>0.336413</Open>
+    <High>0.341109</High>
+    <Low>0.311559</Low>
+    <Close>0.316854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-22</Date>
+    <Open>0.316557</Open>
+    <High>0.322955</High>
+    <Low>0.298127</Low>
+    <Close>0.314225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-23</Date>
+    <Open>0.314113</Open>
+    <High>0.393247</High>
+    <Low>0.301757</Low>
+    <Close>0.372345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-24</Date>
+    <Open>0.372852</Open>
+    <High>0.402072</High>
+    <Low>0.337924</Low>
+    <Close>0.338493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-25</Date>
+    <Open>0.338893</Open>
+    <High>0.367633</High>
+    <Low>0.327329</Low>
+    <Close>0.354625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-26</Date>
+    <Open>0.354321</Open>
+    <High>0.356336</High>
+    <Low>0.33186</Low>
+    <Close>0.345621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-27</Date>
+    <Open>0.345717</Open>
+    <High>0.354607</High>
+    <Low>0.328126</Low>
+    <Close>0.334417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-02-28</Date>
+    <Open>0.334617</Open>
+    <High>0.335417</High>
+    <Low>0.310428</Low>
+    <Close>0.311553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-01</Date>
+    <Open>0.311062</Open>
+    <High>0.3276</High>
+    <Low>0.305661</Low>
+    <Close>0.318041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-02</Date>
+    <Open>0.318541</Open>
+    <High>0.320142</High>
+    <Low>0.294597</Low>
+    <Close>0.302421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-03</Date>
+    <Open>0.302527</Open>
+    <High>0.302824</High>
+    <Low>0.266935</Low>
+    <Close>0.27902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-04</Date>
+    <Open>0.27902</Open>
+    <High>0.286917</High>
+    <Low>0.259713</Low>
+    <Close>0.267019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-05</Date>
+    <Open>0.267719</Open>
+    <High>0.284328</High>
+    <Low>0.266324</Low>
+    <Close>0.27153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-06</Date>
+    <Open>0.270432</Open>
+    <High>0.272595</High>
+    <Low>0.26195</Low>
+    <Close>0.270884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-07</Date>
+    <Open>0.270884</Open>
+    <High>0.277</High>
+    <Low>0.25439</Low>
+    <Close>0.258287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-08</Date>
+    <Open>0.258097</Open>
+    <High>0.2638</High>
+    <Low>0.236691</Low>
+    <Close>0.23929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-09</Date>
+    <Open>0.239576</Open>
+    <High>0.25082</High>
+    <Low>0.21725</Low>
+    <Close>0.21782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-10</Date>
+    <Open>0.217622</Open>
+    <High>0.225602</High>
+    <Low>0.205784</Low>
+    <Close>0.224909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-11</Date>
+    <Open>0.224392</Open>
+    <High>0.231679</High>
+    <Low>0.207099</Low>
+    <Close>0.220259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-12</Date>
+    <Open>0.220715</Open>
+    <High>0.244813</High>
+    <Low>0.21526</Low>
+    <Close>0.241578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-13</Date>
+    <Open>0.241782</Open>
+    <High>0.261608</High>
+    <Low>0.235617</Low>
+    <Close>0.260389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-14</Date>
+    <Open>0.260432</Open>
+    <High>0.284</High>
+    <Low>0.250597</Low>
+    <Close>0.272719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-15</Date>
+    <Open>0.273037</Open>
+    <High>0.278817</High>
+    <Low>0.237784</Low>
+    <Close>0.243815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-16</Date>
+    <Open>0.243408</Open>
+    <High>0.250231</High>
+    <Low>0.237324</Low>
+    <Close>0.247119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-17</Date>
+    <Open>0.247507</Open>
+    <High>0.273466</High>
+    <Low>0.243857</Low>
+    <Close>0.271309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-18</Date>
+    <Open>0.271412</Open>
+    <High>0.28954</High>
+    <Low>0.268921</Low>
+    <Close>0.276702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-19</Date>
+    <Open>0.276427</Open>
+    <High>0.319245</High>
+    <Low>0.271211</Low>
+    <Close>0.297392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-20</Date>
+    <Open>0.297499</Open>
+    <High>0.30863</High>
+    <Low>0.278884</Low>
+    <Close>0.282126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-21</Date>
+    <Open>0.282831</Open>
+    <High>0.294266</High>
+    <Low>0.276631</Low>
+    <Close>0.286009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-22</Date>
+    <Open>0.28631</Open>
+    <High>0.291792</High>
+    <Low>0.263707</Low>
+    <Close>0.275252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-23</Date>
+    <Open>0.275171</Open>
+    <High>0.290754</High>
+    <Low>0.273206</Low>
+    <Close>0.282286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-24</Date>
+    <Open>0.282386</Open>
+    <High>0.285885</High>
+    <Low>0.263587</Low>
+    <Close>0.265968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-25</Date>
+    <Open>0.265795</Open>
+    <High>0.271666</High>
+    <Low>0.262396</Low>
+    <Close>0.268861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-26</Date>
+    <Open>0.26866</Open>
+    <High>0.274947</High>
+    <Low>0.26816</Low>
+    <Close>0.270597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-27</Date>
+    <Open>0.271298</Open>
+    <High>0.273863</High>
+    <Low>0.252769</Low>
+    <Close>0.261523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-28</Date>
+    <Open>0.261223</Open>
+    <High>0.297465</High>
+    <Low>0.259601</Low>
+    <Close>0.287312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-29</Date>
+    <Open>0.287412</Open>
+    <High>0.293794</High>
+    <Low>0.283902</Low>
+    <Close>0.287237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-30</Date>
+    <Open>0.287486</Open>
+    <High>0.294456</High>
+    <Low>0.273741</Low>
+    <Close>0.275874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-03-31</Date>
+    <Open>0.275774</Open>
+    <High>0.285909</High>
+    <Low>0.27333</Low>
+    <Close>0.282359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-01</Date>
+    <Open>0.282456</Open>
+    <High>0.291005</High>
+    <Low>0.278892</Low>
+    <Close>0.282204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-02</Date>
+    <Open>0.282404</Open>
+    <High>0.284136</High>
+    <Low>0.268685</Low>
+    <Close>0.271471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-03</Date>
+    <Open>0.271468</Open>
+    <High>0.279556</High>
+    <Low>0.265985</Low>
+    <Close>0.272103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-04</Date>
+    <Open>0.272306</Open>
+    <High>0.282218</High>
+    <Low>0.271954</Low>
+    <Close>0.278539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-05</Date>
+    <Open>0.278942</Open>
+    <High>0.287818</High>
+    <Low>0.275902</Low>
+    <Close>0.282902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-06</Date>
+    <Open>0.282702</Open>
+    <High>0.332239</High>
+    <Low>0.277497</Low>
+    <Close>0.312509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-07</Date>
+    <Open>0.312109</Open>
+    <High>0.324872</High>
+    <Low>0.29495</Low>
+    <Close>0.302624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-08</Date>
+    <Open>0.302223</Open>
+    <High>0.310052</High>
+    <Low>0.290722</Low>
+    <Close>0.291013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-09</Date>
+    <Open>0.291116</Open>
+    <High>0.30498</High>
+    <Low>0.286183</Low>
+    <Close>0.300601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-10</Date>
+    <Open>0.30071</Open>
+    <High>0.310029</High>
+    <Low>0.299176</Low>
+    <Close>0.307249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-11</Date>
+    <Open>0.307452</Open>
+    <High>0.325822</High>
+    <Low>0.303658</Low>
+    <Close>0.324321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-12</Date>
+    <Open>0.32392</Open>
+    <High>0.327211</High>
+    <Low>0.304838</Low>
+    <Close>0.312043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-13</Date>
+    <Open>0.312844</Open>
+    <High>0.324705</High>
+    <Low>0.309169</Low>
+    <Close>0.317404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-14</Date>
+    <Open>0.317401</Open>
+    <High>0.329025</High>
+    <Low>0.31087</Low>
+    <Close>0.320566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-15</Date>
+    <Open>0.320963</Open>
+    <High>0.354691</High>
+    <Low>0.320963</Low>
+    <Close>0.335098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-16</Date>
+    <Open>0.335101</Open>
+    <High>0.339378</High>
+    <Low>0.327882</Low>
+    <Close>0.338033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-17</Date>
+    <Open>0.338226</Open>
+    <High>0.520811</High>
+    <Low>0.335241</Low>
+    <Close>0.371419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-18</Date>
+    <Open>0.371419</Open>
+    <High>0.386505</High>
+    <Low>0.362838</Low>
+    <Close>0.372063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-19</Date>
+    <Open>0.371859</Open>
+    <High>0.372067</High>
+    <Low>0.325348</Low>
+    <Close>0.336782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-20</Date>
+    <Open>0.336482</Open>
+    <High>0.337201</High>
+    <Low>0.310431</Low>
+    <Close>0.310631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-21</Date>
+    <Open>0.311622</Open>
+    <High>0.318803</High>
+    <Low>0.288671</Low>
+    <Close>0.288868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-22</Date>
+    <Open>0.289168</Open>
+    <High>0.300227</High>
+    <Low>0.287626</Low>
+    <Close>0.29903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-23</Date>
+    <Open>0.299227</Open>
+    <High>0.317067</High>
+    <Low>0.291964</Low>
+    <Close>0.298215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-24</Date>
+    <Open>0.297215</Open>
+    <High>0.318341</High>
+    <Low>0.289106</Low>
+    <Close>0.312706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-25</Date>
+    <Open>0.313409</Open>
+    <High>0.317332</High>
+    <Low>0.296294</Low>
+    <Close>0.312272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-26</Date>
+    <Open>0.312572</Open>
+    <High>0.323661</High>
+    <Low>0.288158</Low>
+    <Close>0.300799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-27</Date>
+    <Open>0.300896</Open>
+    <High>0.314035</High>
+    <Low>0.297998</Low>
+    <Close>0.306904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-28</Date>
+    <Open>0.308099</Open>
+    <High>0.308499</High>
+    <Low>0.295012</Low>
+    <Close>0.29913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-29</Date>
+    <Open>0.29893</Open>
+    <High>0.305086</High>
+    <Low>0.29712</Low>
+    <Close>0.300277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-04-30</Date>
+    <Open>0.300277</Open>
+    <High>0.302421</High>
+    <Low>0.289871</Low>
+    <Close>0.293667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-01</Date>
+    <Open>0.293464</Open>
+    <High>0.29493</High>
+    <Low>0.279517</Low>
+    <Close>0.283374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-02</Date>
+    <Open>0.283071</Open>
+    <High>0.286466</High>
+    <Low>0.279503</Low>
+    <Close>0.283173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-03</Date>
+    <Open>0.283273</Open>
+    <High>0.286777</High>
+    <Low>0.269762</Low>
+    <Close>0.286477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-04</Date>
+    <Open>0.286077</Open>
+    <High>0.294053</High>
+    <Low>0.274929</Low>
+    <Close>0.277303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-05</Date>
+    <Open>0.277503</Open>
+    <High>0.288702</High>
+    <Low>0.275813</Low>
+    <Close>0.283358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-06</Date>
+    <Open>0.283761</Open>
+    <High>0.286183</High>
+    <Low>0.268012</Low>
+    <Close>0.270069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-07</Date>
+    <Open>0.270359</Open>
+    <High>0.272259</High>
+    <Low>0.264309</Low>
+    <Close>0.264912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-08</Date>
+    <Open>0.264823</Open>
+    <High>0.266717</High>
+    <Low>0.233261</Low>
+    <Close>0.23668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-09</Date>
+    <Open>0.236855</Open>
+    <High>0.241241</High>
+    <Low>0.235759</Low>
+    <Close>0.238738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-10</Date>
+    <Open>0.238738</Open>
+    <High>0.249049</High>
+    <Low>0.231454</Low>
+    <Close>0.245745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-11</Date>
+    <Open>0.246321</Open>
+    <High>0.248123</High>
+    <Low>0.221621</Low>
+    <Close>0.227047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-12</Date>
+    <Open>0.227717</Open>
+    <High>0.233997</High>
+    <Low>0.221341</Low>
+    <Close>0.233286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-13</Date>
+    <Open>0.233587</Open>
+    <High>0.236842</High>
+    <Low>0.228514</Low>
+    <Close>0.230515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-14</Date>
+    <Open>0.230188</Open>
+    <High>0.238019</High>
+    <Low>0.227116</Low>
+    <Close>0.235218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-15</Date>
+    <Open>0.234841</Open>
+    <High>0.244771</High>
+    <Low>0.231339</Low>
+    <Close>0.24317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-16</Date>
+    <Open>0.24317</Open>
+    <High>0.25035</High>
+    <Low>0.236966</Low>
+    <Close>0.246223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-17</Date>
+    <Open>0.246699</Open>
+    <High>0.259404</High>
+    <Low>0.243822</Low>
+    <Close>0.258629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-18</Date>
+    <Open>0.259004</Open>
+    <High>0.25933</High>
+    <Low>0.242097</Low>
+    <Close>0.250775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-19</Date>
+    <Open>0.2509</Open>
+    <High>0.252826</High>
+    <Low>0.245323</Low>
+    <Close>0.247874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-20</Date>
+    <Open>0.248424</Open>
+    <High>0.249124</High>
+    <Low>0.241369</Low>
+    <Close>0.246622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-21</Date>
+    <Open>0.247022</Open>
+    <High>0.247347</High>
+    <Low>0.237242</Low>
+    <Close>0.238443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-22</Date>
+    <Open>0.238843</Open>
+    <High>0.245823</High>
+    <Low>0.234017</Low>
+    <Close>0.243121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-23</Date>
+    <Open>0.243134</Open>
+    <High>0.24884</High>
+    <Low>0.239667</Low>
+    <Close>0.243715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-24</Date>
+    <Open>0.244122</Open>
+    <High>0.245225</High>
+    <Low>0.231563</Low>
+    <Close>0.238686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-25</Date>
+    <Open>0.239183</Open>
+    <High>0.241269</High>
+    <Low>0.232795</Low>
+    <Close>0.237705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-26</Date>
+    <Open>0.237607</Open>
+    <High>0.240875</High>
+    <Low>0.234919</Low>
+    <Close>0.23946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-27</Date>
+    <Open>0.239746</Open>
+    <High>0.242275</High>
+    <Low>0.236873</Low>
+    <Close>0.238991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AUDIO">
+    <Date>2023-05-28</Date>
+    <Open>0.240272</Open>
+    <High>0.246923</High>
+    <Low>0.239896</Low>
+    <Close>0.245456</Close>
+  </Cryptocurrency>
+</Root>

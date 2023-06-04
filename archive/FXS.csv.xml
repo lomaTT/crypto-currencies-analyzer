@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-14</Date>
+    <Open>11.2858</Open>
+    <High>11.3137</High>
+    <Low>8.86868</Low>
+    <Close>9.04741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-15</Date>
+    <Open>9.06729</Open>
+    <High>9.59555</High>
+    <Low>8.2774</Low>
+    <Close>9.19004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-16</Date>
+    <Open>9.18904</Open>
+    <High>9.43666</High>
+    <Low>8.12979</Low>
+    <Close>8.36212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-17</Date>
+    <Open>8.36012</Open>
+    <High>8.66372</High>
+    <Low>8.21431</Low>
+    <Close>8.40007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-18</Date>
+    <Open>8.4039</Open>
+    <High>8.43187</High>
+    <Low>7.0708</Low>
+    <Close>7.09676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-19</Date>
+    <Open>7.10204</Open>
+    <High>7.24375</High>
+    <Low>6.3253</Low>
+    <Close>6.64901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-20</Date>
+    <Open>6.662</Open>
+    <High>6.71728</High>
+    <Low>5.9898</Low>
+    <Close>6.22153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-21</Date>
+    <Open>6.22153</Open>
+    <High>6.49055</High>
+    <Low>6.16136</Low>
+    <Close>6.40167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-22</Date>
+    <Open>6.38269</Open>
+    <High>7.8266</High>
+    <Low>6.3757</Low>
+    <Close>7.66879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-23</Date>
+    <Open>7.69076</Open>
+    <High>8.29886</High>
+    <Low>7.1781</Low>
+    <Close>7.21833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-24</Date>
+    <Open>7.19536</Open>
+    <High>7.31994</High>
+    <Low>6.75556</Low>
+    <Close>6.96493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-25</Date>
+    <Open>6.93697</Open>
+    <High>7.53071</High>
+    <Low>6.86706</Low>
+    <Close>7.42982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-26</Date>
+    <Open>7.43007</Open>
+    <High>7.51972</High>
+    <Low>6.658</Low>
+    <Close>6.77522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-27</Date>
+    <Open>6.77522</Open>
+    <High>6.86413</High>
+    <Low>6.5914</Low>
+    <Close>6.64169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-28</Date>
+    <Open>6.65141</Open>
+    <High>6.88642</High>
+    <Low>6.58668</Low>
+    <Close>6.84698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-29</Date>
+    <Open>6.83985</Open>
+    <High>6.86585</High>
+    <Low>6.64781</Low>
+    <Close>6.81549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-30</Date>
+    <Open>6.81618</Open>
+    <High>7.37883</High>
+    <Low>6.81164</Low>
+    <Close>7.37084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-05-31</Date>
+    <Open>7.45103</Open>
+    <High>7.65987</High>
+    <Low>7.16426</Low>
+    <Close>7.52298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-01</Date>
+    <Open>7.53265</Open>
+    <High>7.71137</High>
+    <Low>6.56808</Low>
+    <Close>6.58407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-02</Date>
+    <Open>6.56708</Open>
+    <High>6.7709</High>
+    <Low>6.54345</Low>
+    <Close>6.656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-03</Date>
+    <Open>6.65401</Open>
+    <High>6.81286</High>
+    <Low>6.49789</Low>
+    <Close>6.5453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-04</Date>
+    <Open>6.54637</Open>
+    <High>6.55629</High>
+    <Low>5.50465</Low>
+    <Close>5.63977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-05</Date>
+    <Open>5.64171</Open>
+    <High>5.7404</High>
+    <Low>5.48539</Low>
+    <Close>5.69264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-06</Date>
+    <Open>5.68665</Open>
+    <High>5.96504</High>
+    <Low>5.60484</Low>
+    <Close>5.79707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-07</Date>
+    <Open>5.78608</Open>
+    <High>5.79619</High>
+    <Low>4.78188</Low>
+    <Close>5.02892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-08</Date>
+    <Open>5.03292</Open>
+    <High>6.21683</High>
+    <Low>4.83685</Low>
+    <Close>5.75326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-09</Date>
+    <Open>5.74926</Open>
+    <High>6.66267</High>
+    <Low>5.66252</Low>
+    <Close>6.13484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-10</Date>
+    <Open>6.1389</Open>
+    <High>6.1389</High>
+    <Low>5.68152</Low>
+    <Close>5.70275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-11</Date>
+    <Open>5.69775</Open>
+    <High>5.76765</High>
+    <Low>5.11859</Low>
+    <Close>5.18114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-12</Date>
+    <Open>5.13919</Open>
+    <High>5.57141</High>
+    <Low>5.07775</Low>
+    <Close>5.36639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-13</Date>
+    <Open>5.36434</Open>
+    <High>5.47326</High>
+    <Low>4.78938</Low>
+    <Close>4.79632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-14</Date>
+    <Open>4.80331</Open>
+    <High>4.88556</High>
+    <Low>4.50804</Low>
+    <Close>4.53056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-15</Date>
+    <Open>4.53056</Open>
+    <High>4.62472</High>
+    <Low>4.20553</Low>
+    <Close>4.55715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-16</Date>
+    <Open>4.54717</Open>
+    <High>4.57958</High>
+    <Low>4.31695</Low>
+    <Close>4.35933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-17</Date>
+    <Open>4.32702</Open>
+    <High>4.35207</High>
+    <Low>4.03267</Low>
+    <Close>4.06412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-18</Date>
+    <Open>4.06212</Open>
+    <High>4.12812</High>
+    <Low>3.90552</Low>
+    <Close>3.98154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-19</Date>
+    <Open>3.98453</Open>
+    <High>4.2449</High>
+    <Low>3.9553</Low>
+    <Close>4.21394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-20</Date>
+    <Open>4.22</Open>
+    <High>5.33712</High>
+    <Low>4.1</Low>
+    <Close>5.06542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-21</Date>
+    <Open>5.09639</Open>
+    <High>5.53646</High>
+    <Low>4.9955</Low>
+    <Close>5.24722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-22</Date>
+    <Open>5.23776</Open>
+    <High>5.28171</High>
+    <Low>4.9925</Low>
+    <Close>5.14485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-23</Date>
+    <Open>5.15233</Open>
+    <High>5.30669</High>
+    <Low>5.07792</Low>
+    <Close>5.18881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-24</Date>
+    <Open>5.18281</Open>
+    <High>5.43398</High>
+    <Low>5.10189</Low>
+    <Close>5.40778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-25</Date>
+    <Open>5.40958</Open>
+    <High>5.54006</High>
+    <Low>5.23454</Low>
+    <Close>5.35025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-26</Date>
+    <Open>5.34026</Open>
+    <High>5.85848</High>
+    <Low>5.33731</Low>
+    <Close>5.65355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-27</Date>
+    <Open>5.65955</Open>
+    <High>5.91133</High>
+    <Low>5.3404</Low>
+    <Close>5.39609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-28</Date>
+    <Open>5.39303</Open>
+    <High>5.42978</High>
+    <Low>4.9969</Low>
+    <Close>5.03675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-29</Date>
+    <Open>5.03874</Open>
+    <High>5.03895</High>
+    <Low>4.62393</Low>
+    <Close>4.69931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-06-30</Date>
+    <Open>4.69636</Open>
+    <High>4.96529</High>
+    <Low>4.59479</Low>
+    <Close>4.78425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-01</Date>
+    <Open>4.7453</Open>
+    <High>4.9425</High>
+    <Low>4.7413</Low>
+    <Close>4.8875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-02</Date>
+    <Open>4.875</Open>
+    <High>4.94</High>
+    <Low>4.77</Low>
+    <Close>4.8725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-03</Date>
+    <Open>4.87914</Open>
+    <High>4.89212</High>
+    <Low>4.78377</Low>
+    <Close>4.78877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-04</Date>
+    <Open>4.78829</Open>
+    <High>4.89911</High>
+    <Low>4.7638</Low>
+    <Close>4.87215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-05</Date>
+    <Open>4.86515</Open>
+    <High>5.29017</High>
+    <Low>4.83967</Low>
+    <Close>5.28019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-06</Date>
+    <Open>5.28019</Open>
+    <High>5.38607</High>
+    <Low>5.18329</Low>
+    <Close>5.28718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-07</Date>
+    <Open>5.32114</Open>
+    <High>5.34312</High>
+    <Low>5.16831</Low>
+    <Close>5.28683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-08</Date>
+    <Open>5.285</Open>
+    <High>5.55455</High>
+    <Low>5.13891</Low>
+    <Close>5.1599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-09</Date>
+    <Open>5.1609</Open>
+    <High>5.25584</High>
+    <Low>5.13092</Low>
+    <Close>5.24685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-10</Date>
+    <Open>5.24185</Open>
+    <High>5.24185</High>
+    <Low>5.11742</Low>
+    <Close>5.1639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-11</Date>
+    <Open>5.14191</Open>
+    <High>5.20435</High>
+    <Low>5.08491</Low>
+    <Close>5.1024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-12</Date>
+    <Open>5.09941</Open>
+    <High>5.11239</High>
+    <Low>4.79672</Low>
+    <Close>4.82317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-13</Date>
+    <Open>4.80239</Open>
+    <High>4.85214</High>
+    <Low>4.71281</Low>
+    <Close>4.7707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-14</Date>
+    <Open>4.7727</Open>
+    <High>5.21387</High>
+    <Low>4.76771</Low>
+    <Close>5.13991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-15</Date>
+    <Open>5.13991</Open>
+    <High>5.34679</High>
+    <Low>5.10893</Low>
+    <Close>5.28042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-16</Date>
+    <Open>5.27842</Open>
+    <High>5.54589</High>
+    <Low>5.15645</Low>
+    <Close>5.48835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-17</Date>
+    <Open>5.48857</Open>
+    <High>5.68203</High>
+    <Low>5.48152</Low>
+    <Close>5.53456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-18</Date>
+    <Open>5.54456</Open>
+    <High>6.20414</High>
+    <Low>5.52351</Low>
+    <Close>6.04861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-19</Date>
+    <Open>6.03819</Open>
+    <High>7.174</High>
+    <Low>5.95776</Low>
+    <Close>6.78509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-20</Date>
+    <Open>6.789</Open>
+    <High>6.98516</High>
+    <Low>6.55087</Low>
+    <Close>6.64133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-21</Date>
+    <Open>6.65433</Open>
+    <High>6.7048</High>
+    <Low>6.424</Low>
+    <Close>6.63759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-22</Date>
+    <Open>6.63766</Open>
+    <High>7.11242</High>
+    <Low>6.59232</Low>
+    <Close>6.75849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-23</Date>
+    <Open>6.75755</Open>
+    <High>6.83662</High>
+    <Low>6.50533</Low>
+    <Close>6.51224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-24</Date>
+    <Open>6.5003</Open>
+    <High>6.74693</High>
+    <Low>6.49178</Low>
+    <Close>6.70334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-25</Date>
+    <Open>6.69934</Open>
+    <High>6.76028</High>
+    <Low>6.14686</Low>
+    <Close>6.2235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-26</Date>
+    <Open>6.20856</Open>
+    <High>6.22062</High>
+    <Low>5.75723</Low>
+    <Close>5.81587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-27</Date>
+    <Open>5.80587</Open>
+    <High>6.24656</High>
+    <Low>5.78135</Low>
+    <Close>6.2365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-28</Date>
+    <Open>6.2375</Open>
+    <High>7.37237</High>
+    <Low>6.17163</Low>
+    <Close>7.13143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-29</Date>
+    <Open>7.1265</Open>
+    <High>7.1485</High>
+    <Low>6.77591</Low>
+    <Close>6.78978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-30</Date>
+    <Open>6.78978</Open>
+    <High>7.45476</High>
+    <Low>6.7487</Low>
+    <Close>7.24546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-07-31</Date>
+    <Open>7.23167</Open>
+    <High>8.01716</High>
+    <Low>7.15958</Low>
+    <Close>7.71677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-01</Date>
+    <Open>7.74186</Open>
+    <High>7.74409</High>
+    <Low>7.26232</Low>
+    <Close>7.45924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-02</Date>
+    <Open>7.46924</Open>
+    <High>7.47817</High>
+    <Low>6.85506</Low>
+    <Close>7.0892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-03</Date>
+    <Open>7.09135</Open>
+    <High>7.67653</High>
+    <Low>6.85389</Low>
+    <Close>7.45786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-04</Date>
+    <Open>7.46364</Open>
+    <High>7.50628</High>
+    <Low>7.21422</Low>
+    <Close>7.21522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-05</Date>
+    <Open>7.21522</Open>
+    <High>7.55976</High>
+    <Low>7.14357</Low>
+    <Close>7.3504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-06</Date>
+    <Open>7.3474</Open>
+    <High>7.50813</High>
+    <Low>7.1445</Low>
+    <Close>7.21366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-07</Date>
+    <Open>7.22759</Open>
+    <High>7.36625</High>
+    <Low>6.98561</Low>
+    <Close>7.28338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-08</Date>
+    <Open>7.28738</Open>
+    <High>7.89458</High>
+    <Low>7.2183</Low>
+    <Close>7.73693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-09</Date>
+    <Open>7.73993</Open>
+    <High>7.82517</High>
+    <Low>6.8333</Low>
+    <Close>6.83737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-10</Date>
+    <Open>6.83137</Open>
+    <High>7.30541</High>
+    <Low>6.79617</Low>
+    <Close>6.99603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-11</Date>
+    <Open>7.0081</Open>
+    <High>7.28906</High>
+    <Low>6.73442</Low>
+    <Close>6.76318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-12</Date>
+    <Open>6.77138</Open>
+    <High>6.8014</High>
+    <Low>6.42421</Low>
+    <Close>6.75711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-13</Date>
+    <Open>6.7531</Open>
+    <High>6.99263</High>
+    <Low>6.62205</Low>
+    <Close>6.63759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-14</Date>
+    <Open>6.62265</Open>
+    <High>6.75757</High>
+    <Low>6.44493</Low>
+    <Close>6.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-15</Date>
+    <Open>6.45294</Open>
+    <High>6.58497</High>
+    <Low>6.11241</Low>
+    <Close>6.20043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-16</Date>
+    <Open>6.20155</Open>
+    <High>6.20912</High>
+    <Low>5.82583</Low>
+    <Close>5.94554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-17</Date>
+    <Open>5.93753</Open>
+    <High>6.28569</High>
+    <Low>5.83853</Low>
+    <Close>5.84041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-18</Date>
+    <Open>5.86253</Open>
+    <High>6.04172</High>
+    <Low>5.83347</Low>
+    <Close>6.02306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-19</Date>
+    <Open>6.0196</Open>
+    <High>6.61066</High>
+    <Low>5.983</Low>
+    <Close>6.42964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-20</Date>
+    <Open>6.45019</Open>
+    <High>6.82075</High>
+    <Low>6.22381</Low>
+    <Close>6.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-21</Date>
+    <Open>6.30687</Open>
+    <High>6.75807</High>
+    <Low>6.29894</Low>
+    <Close>6.7078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-22</Date>
+    <Open>6.69487</Open>
+    <High>6.86007</High>
+    <Low>6.36562</Low>
+    <Close>6.52483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-23</Date>
+    <Open>6.51389</Open>
+    <High>6.64894</High>
+    <Low>6.37094</Low>
+    <Close>6.43313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-24</Date>
+    <Open>6.45294</Open>
+    <High>6.6134</High>
+    <Low>6.09312</Low>
+    <Close>6.38257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-25</Date>
+    <Open>6.38051</Open>
+    <High>6.56261</High>
+    <Low>6.20712</Low>
+    <Close>6.37719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-26</Date>
+    <Open>6.38794</Open>
+    <High>6.42155</High>
+    <Low>5.85971</Low>
+    <Close>5.91159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-27</Date>
+    <Open>5.90853</Open>
+    <High>6.03484</High>
+    <Low>5.59256</Low>
+    <Close>5.67317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-28</Date>
+    <Open>5.67606</Open>
+    <High>5.86594</High>
+    <Low>5.50239</Low>
+    <Close>5.793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-29</Date>
+    <Open>5.79694</Open>
+    <High>5.8507</High>
+    <Low>5.56483</Low>
+    <Close>5.7694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-30</Date>
+    <Open>5.77558</Open>
+    <High>6.0603</High>
+    <Low>5.66928</Low>
+    <Close>5.89047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-08-31</Date>
+    <Open>5.90147</Open>
+    <High>6.05606</High>
+    <Low>5.74906</Low>
+    <Close>5.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-01</Date>
+    <Open>5.84688</Open>
+    <High>5.986</High>
+    <Low>5.61</Low>
+    <Close>5.69566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-02</Date>
+    <Open>5.69677</Open>
+    <High>6.22806</High>
+    <Low>5.63106</Low>
+    <Close>6.06373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-03</Date>
+    <Open>6.06097</Open>
+    <High>6.2095</High>
+    <Low>5.91359</Low>
+    <Close>6.012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-04</Date>
+    <Open>6.0336</Open>
+    <High>6.325</High>
+    <Low>5.9736</Low>
+    <Close>6.254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-05</Date>
+    <Open>6.256</Open>
+    <High>6.57266</High>
+    <Low>6.118</Low>
+    <Close>6.388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-06</Date>
+    <Open>6.40464</Open>
+    <High>7.016</High>
+    <Low>6.20538</Low>
+    <Close>6.245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-07</Date>
+    <Open>6.23244</Open>
+    <High>6.2575</High>
+    <Low>5.9017</Low>
+    <Close>6.19343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-08</Date>
+    <Open>6.21944</Open>
+    <High>6.38657</High>
+    <Low>6.15855</Low>
+    <Close>6.25694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-09</Date>
+    <Open>6.285</Open>
+    <High>6.97553</High>
+    <Low>6.16786</Low>
+    <Close>6.51221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-10</Date>
+    <Open>6.4994</Open>
+    <High>6.54996</High>
+    <Low>6.36634</Low>
+    <Close>6.48523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-11</Date>
+    <Open>6.48036</Open>
+    <High>6.66333</High>
+    <Low>6.36635</Low>
+    <Close>6.49056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-12</Date>
+    <Open>6.48456</Open>
+    <High>6.62106</High>
+    <Low>6.2807</Low>
+    <Close>6.32627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-13</Date>
+    <Open>6.31914</Open>
+    <High>6.32026</High>
+    <Low>5.68151</Low>
+    <Close>5.71611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-14</Date>
+    <Open>5.71711</Open>
+    <High>5.71711</High>
+    <Low>5.47689</Low>
+    <Close>5.54439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-15</Date>
+    <Open>5.55339</Open>
+    <High>5.58929</High>
+    <Low>5.30767</Low>
+    <Close>5.40451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-16</Date>
+    <Open>5.40362</Open>
+    <High>5.42984</High>
+    <Low>5.07749</Low>
+    <Close>5.16148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-17</Date>
+    <Open>5.16848</Open>
+    <High>5.371</High>
+    <Low>5.145</Low>
+    <Close>5.32753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-18</Date>
+    <Open>5.337</Open>
+    <High>5.59444</High>
+    <Low>5.20248</Low>
+    <Close>5.328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-19</Date>
+    <Open>5.31947</Open>
+    <High>5.40254</High>
+    <Low>5.177</Low>
+    <Close>5.32653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-20</Date>
+    <Open>5.30153</Open>
+    <High>5.347</High>
+    <Low>5.08651</Low>
+    <Close>5.08651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-21</Date>
+    <Open>5.14</Open>
+    <High>5.14</High>
+    <Low>4.35644</Low>
+    <Close>4.399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-22</Date>
+    <Open>4.394</Open>
+    <High>4.47845</High>
+    <Low>4.34</Low>
+    <Close>4.417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-23</Date>
+    <Open>4.41844</Open>
+    <High>4.535</High>
+    <Low>4.249</Low>
+    <Close>4.31457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-24</Date>
+    <Open>4.30983</Open>
+    <High>4.364</High>
+    <Low>4.19896</Low>
+    <Close>4.31335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-25</Date>
+    <Open>4.315</Open>
+    <High>4.36413</High>
+    <Low>4.227</Low>
+    <Close>4.299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-26</Date>
+    <Open>4.29709</Open>
+    <High>4.41944</High>
+    <Low>4.25</Low>
+    <Close>4.306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-27</Date>
+    <Open>4.30557</Open>
+    <High>4.429</High>
+    <Low>4.18</Low>
+    <Close>4.22358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-28</Date>
+    <Open>4.22258</Open>
+    <High>4.257</High>
+    <Low>4.0006</Low>
+    <Close>4.106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-29</Date>
+    <Open>4.104</Open>
+    <High>4.177</High>
+    <Low>4.023</Low>
+    <Close>4.08541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-09-30</Date>
+    <Open>4.08241</Open>
+    <High>4.343</High>
+    <Low>4.0434</Low>
+    <Close>4.116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-01</Date>
+    <Open>4.104</Open>
+    <High>4.534</High>
+    <Low>4.065</Low>
+    <Close>4.262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-02</Date>
+    <Open>4.262</Open>
+    <High>4.361</High>
+    <Low>4.145</Low>
+    <Close>4.275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-03</Date>
+    <Open>4.27543</Open>
+    <High>4.55246</High>
+    <Low>4.178</Low>
+    <Close>4.47245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-04</Date>
+    <Open>4.46645</Open>
+    <High>4.69341</High>
+    <Low>4.44989</Low>
+    <Close>4.6814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-05</Date>
+    <Open>4.67894</Open>
+    <High>4.88747</High>
+    <Low>4.61946</Low>
+    <Close>4.71347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-06</Date>
+    <Open>4.71594</Open>
+    <High>4.86554</High>
+    <Low>4.67075</Low>
+    <Close>4.74481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-07</Date>
+    <Open>4.74585</Open>
+    <High>4.89164</High>
+    <Low>4.67384</Low>
+    <Close>4.88068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-08</Date>
+    <Open>4.87649</Open>
+    <High>5.13521</High>
+    <Low>4.80138</Low>
+    <Close>5.05036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-09</Date>
+    <Open>5.04531</Open>
+    <High>5.23105</High>
+    <Low>4.92449</Low>
+    <Close>5.09402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-10</Date>
+    <Open>5.09202</Open>
+    <High>5.24348</High>
+    <Low>4.93399</Low>
+    <Close>5.14249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-11</Date>
+    <Open>5.144</Open>
+    <High>5.166</High>
+    <Low>4.94601</Low>
+    <Close>4.98355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-12</Date>
+    <Open>4.9865</Open>
+    <High>5.03785</High>
+    <Low>4.73086</Low>
+    <Close>4.81314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-13</Date>
+    <Open>4.81614</Open>
+    <High>5.0899</High>
+    <Low>4.60468</Low>
+    <Close>4.87039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-14</Date>
+    <Open>4.87044</Open>
+    <High>5.16531</High>
+    <Low>4.84358</Low>
+    <Close>5.08515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-15</Date>
+    <Open>5.0842</Open>
+    <High>6.10112</High>
+    <Low>5.08315</Low>
+    <Close>5.95036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-16</Date>
+    <Open>5.9583</Open>
+    <High>6.32938</High>
+    <Low>5.84212</Low>
+    <Close>5.97424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-17</Date>
+    <Open>5.9783</Open>
+    <High>6.17462</High>
+    <Low>5.85223</Low>
+    <Close>6.09612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-18</Date>
+    <Open>6.11212</Open>
+    <High>7.08964</High>
+    <Low>6.02118</Low>
+    <Close>6.6944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-19</Date>
+    <Open>6.68633</Open>
+    <High>6.8022</High>
+    <Low>6.06194</Low>
+    <Close>6.185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-20</Date>
+    <Open>6.185</Open>
+    <High>6.22669</High>
+    <Low>6.01324</Low>
+    <Close>6.12939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-21</Date>
+    <Open>6.13557</Open>
+    <High>6.36906</High>
+    <Low>6.057</Low>
+    <Close>6.2045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-22</Date>
+    <Open>6.20525</Open>
+    <High>6.2695</High>
+    <Low>5.95836</Low>
+    <Close>6.02254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-23</Date>
+    <Open>6.02754</Open>
+    <High>6.07897</High>
+    <Low>5.62417</Low>
+    <Close>6.06585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-24</Date>
+    <Open>6.06379</Open>
+    <High>6.28357</High>
+    <Low>5.80417</Low>
+    <Close>5.87229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-25</Date>
+    <Open>5.90524</Open>
+    <High>6.14884</High>
+    <Low>5.694</Low>
+    <Close>6.01993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-26</Date>
+    <Open>6.02005</Open>
+    <High>6.2008</High>
+    <Low>5.91071</Low>
+    <Close>6.09177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-27</Date>
+    <Open>6.0877</Open>
+    <High>6.27169</High>
+    <Low>6.00308</Low>
+    <Close>6.10537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-28</Date>
+    <Open>6.10637</Open>
+    <High>6.15506</High>
+    <Low>5.88647</Low>
+    <Close>6.03227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-29</Date>
+    <Open>6.03215</Open>
+    <High>7.16251</High>
+    <Low>6.0242</Low>
+    <Close>6.95167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-30</Date>
+    <Open>6.95267</Open>
+    <High>7.11864</High>
+    <Low>6.63113</Low>
+    <Close>6.65033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-10-31</Date>
+    <Open>6.65927</Open>
+    <High>6.842</High>
+    <Low>6.46897</Low>
+    <Close>6.65247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-01</Date>
+    <Open>6.6496</Open>
+    <High>6.91459</High>
+    <Low>6.53976</Low>
+    <Close>6.56428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-02</Date>
+    <Open>6.57228</Open>
+    <High>6.59468</High>
+    <Low>6.30468</Low>
+    <Close>6.31262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-03</Date>
+    <Open>6.31968</Open>
+    <High>6.6296</High>
+    <Low>6.31962</Low>
+    <Close>6.53193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-04</Date>
+    <Open>6.54193</Open>
+    <High>7.22443</High>
+    <Low>6.49668</Low>
+    <Close>6.89655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-05</Date>
+    <Open>6.89655</Open>
+    <High>7.15457</High>
+    <Low>6.89062</Low>
+    <Close>7.00035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-06</Date>
+    <Open>7.00021</Open>
+    <High>7.29722</High>
+    <Low>6.89921</Low>
+    <Close>6.93721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-07</Date>
+    <Open>6.92755</Open>
+    <High>6.92862</High>
+    <Low>6.6766</Low>
+    <Close>6.69674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-08</Date>
+    <Open>6.68</Open>
+    <High>6.722</High>
+    <Low>5.38016</Low>
+    <Close>5.54659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-09</Date>
+    <Open>5.56163</Open>
+    <High>5.6223</High>
+    <Low>5.20509</Low>
+    <Close>5.33461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-10</Date>
+    <Open>5.36833</Open>
+    <High>6.04566</High>
+    <Low>5.13808</Low>
+    <Close>5.4518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-11</Date>
+    <Open>5.43427</Open>
+    <High>6.4188</High>
+    <Low>4.90723</Low>
+    <Close>4.957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-12</Date>
+    <Open>4.971</Open>
+    <High>4.98887</High>
+    <Low>4.33219</Low>
+    <Close>4.42602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-13</Date>
+    <Open>4.439</Open>
+    <High>5.41803</High>
+    <Low>4.40206</Low>
+    <Close>4.58357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-14</Date>
+    <Open>4.58757</Open>
+    <High>4.78178</High>
+    <Low>4.45486</Low>
+    <Close>4.70493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-15</Date>
+    <Open>4.70294</Open>
+    <High>4.8137</High>
+    <Low>4.67332</Low>
+    <Close>4.68284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-16</Date>
+    <Open>4.69526</Open>
+    <High>4.75733</High>
+    <Low>4.56325</Low>
+    <Close>4.57583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-17</Date>
+    <Open>4.57579</Open>
+    <High>4.69419</High>
+    <Low>4.30291</Low>
+    <Close>4.44253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-18</Date>
+    <Open>4.44475</Open>
+    <High>4.49931</High>
+    <Low>4.39811</Low>
+    <Close>4.41787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-19</Date>
+    <Open>4.41942</Open>
+    <High>4.58523</High>
+    <Low>4.41752</Low>
+    <Close>4.58523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-20</Date>
+    <Open>4.59286</Open>
+    <High>4.66193</High>
+    <Low>4.44921</Low>
+    <Close>4.4662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-21</Date>
+    <Open>4.45721</Open>
+    <High>4.45726</High>
+    <Low>4.26139</Low>
+    <Close>4.33379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-22</Date>
+    <Open>4.33879</Open>
+    <High>4.35273</High>
+    <Low>4.22435</Low>
+    <Close>4.28646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-23</Date>
+    <Open>4.29766</Open>
+    <High>6.86792</High>
+    <Low>4.28738</Low>
+    <Close>4.46808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-24</Date>
+    <Open>4.47516</Open>
+    <High>4.55817</High>
+    <Low>4.42708</Low>
+    <Close>4.55322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-25</Date>
+    <Open>4.54513</Open>
+    <High>4.63684</High>
+    <Low>4.47513</Low>
+    <Close>4.59838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-26</Date>
+    <Open>4.59938</Open>
+    <High>4.67457</High>
+    <Low>4.58011</Low>
+    <Close>4.60833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-27</Date>
+    <Open>4.60328</Open>
+    <High>4.64712</High>
+    <Low>4.58002</Low>
+    <Close>4.5971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-28</Date>
+    <Open>4.59615</Open>
+    <High>4.77437</High>
+    <Low>4.51452</Low>
+    <Close>4.65818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-29</Date>
+    <Open>4.65623</Open>
+    <High>4.95937</High>
+    <Low>4.61501</Low>
+    <Close>4.62829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-11-30</Date>
+    <Open>4.62929</Open>
+    <High>4.9233</High>
+    <Low>4.60543</Low>
+    <Close>4.90825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-01</Date>
+    <Open>4.91939</Open>
+    <High>4.95745</High>
+    <Low>4.8241</Low>
+    <Close>4.86234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-02</Date>
+    <Open>4.86829</Open>
+    <High>4.92149</High>
+    <Low>4.82153</Low>
+    <Close>4.90129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-03</Date>
+    <Open>4.88029</Open>
+    <High>4.88424</High>
+    <Low>4.82148</Low>
+    <Close>4.82697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-04</Date>
+    <Open>4.82448</Open>
+    <High>4.96299</High>
+    <Low>4.82048</Low>
+    <Close>4.91898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-05</Date>
+    <Open>4.91998</Open>
+    <High>5.37959</High>
+    <Low>4.91998</Low>
+    <Close>5.26616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-06</Date>
+    <Open>5.26616</Open>
+    <High>5.43889</High>
+    <Low>5.16105</Low>
+    <Close>5.33289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-07</Date>
+    <Open>5.332</Open>
+    <High>6.233</High>
+    <Low>5.33195</Low>
+    <Close>5.66606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-08</Date>
+    <Open>5.673</Open>
+    <High>6.32463</High>
+    <Low>5.673</Low>
+    <Close>5.95242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-09</Date>
+    <Open>5.95942</Open>
+    <High>6.236</High>
+    <Low>5.95442</Low>
+    <Close>6.10018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-10</Date>
+    <Open>6.12525</Open>
+    <High>6.35994</High>
+    <Low>6.05088</Low>
+    <Close>6.05594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-11</Date>
+    <Open>6.05594</Open>
+    <High>6.09712</High>
+    <Low>5.856</Low>
+    <Close>5.87059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-12</Date>
+    <Open>5.86759</Open>
+    <High>5.87217</High>
+    <Low>5.55044</Low>
+    <Close>5.6664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-13</Date>
+    <Open>5.66768</Open>
+    <High>5.89106</High>
+    <Low>5.4014</Low>
+    <Close>5.6377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-14</Date>
+    <Open>5.63625</Open>
+    <High>5.87147</High>
+    <Low>5.63625</Low>
+    <Close>5.6744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-15</Date>
+    <Open>5.674</Open>
+    <High>5.73315</High>
+    <Low>5.36807</Low>
+    <Close>5.42954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-16</Date>
+    <Open>5.43554</Open>
+    <High>5.49755</High>
+    <Low>5.18952</Low>
+    <Close>5.22352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-17</Date>
+    <Open>5.22404</Open>
+    <High>5.22404</High>
+    <Low>5.08402</Low>
+    <Close>5.13667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-18</Date>
+    <Open>5.13551</Open>
+    <High>5.32753</High>
+    <Low>5.12821</Low>
+    <Close>5.30469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-19</Date>
+    <Open>5.30769</Open>
+    <High>5.35575</High>
+    <Low>5.10805</Low>
+    <Close>5.142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-20</Date>
+    <Open>5.16</Open>
+    <High>5.27084</High>
+    <Low>4.98495</Low>
+    <Close>5.00535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-21</Date>
+    <Open>5.01915</Open>
+    <High>5.137</High>
+    <Low>4.8811</Low>
+    <Close>4.9412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-22</Date>
+    <Open>4.9392</Open>
+    <High>4.962</High>
+    <Low>4.61354</Low>
+    <Close>4.6623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-23</Date>
+    <Open>4.65921</Open>
+    <High>4.79142</High>
+    <Low>4.6354</Low>
+    <Close>4.71853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-24</Date>
+    <Open>4.71862</Open>
+    <High>4.77252</High>
+    <Low>4.70362</Low>
+    <Close>4.74667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-25</Date>
+    <Open>4.74476</Open>
+    <High>4.79186</High>
+    <Low>4.73934</Low>
+    <Close>4.76229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-26</Date>
+    <Open>4.75743</Open>
+    <High>4.79323</High>
+    <Low>4.73315</Low>
+    <Close>4.73796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-27</Date>
+    <Open>4.74215</Open>
+    <High>4.76005</High>
+    <Low>4.51337</Low>
+    <Close>4.53419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-28</Date>
+    <Open>4.53523</Open>
+    <High>4.54414</High>
+    <Low>4.27365</Low>
+    <Close>4.29872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-29</Date>
+    <Open>4.29976</Open>
+    <High>4.42383</High>
+    <Low>4.28429</Low>
+    <Close>4.32297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-30</Date>
+    <Open>4.32905</Open>
+    <High>4.36104</High>
+    <Low>4.19582</Low>
+    <Close>4.20181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2022-12-31</Date>
+    <Open>4.2009</Open>
+    <High>4.23388</High>
+    <Low>4.1099</Low>
+    <Close>4.13593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-01</Date>
+    <Open>4.12889</Open>
+    <High>4.56494</High>
+    <Low>4.10191</Low>
+    <Close>4.41992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-02</Date>
+    <Open>4.42592</Open>
+    <High>4.68213</High>
+    <Low>4.41197</Low>
+    <Close>4.64747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-03</Date>
+    <Open>4.64151</Open>
+    <High>4.87919</High>
+    <Low>4.52519</Low>
+    <Close>4.83816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-04</Date>
+    <Open>4.83911</Open>
+    <High>5.17788</High>
+    <Low>4.83911</Low>
+    <Close>5.01834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-05</Date>
+    <Open>5.02234</Open>
+    <High>5.06248</High>
+    <Low>4.97286</Low>
+    <Close>5.0042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-06</Date>
+    <Open>4.98525</Open>
+    <High>5.14851</High>
+    <Low>4.85767</Low>
+    <Close>5.1474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-07</Date>
+    <Open>5.14341</Open>
+    <High>5.27158</High>
+    <Low>5.08073</Low>
+    <Close>5.09978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-08</Date>
+    <Open>5.09972</Open>
+    <High>5.84989</High>
+    <Low>5.08424</Low>
+    <Close>5.62116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-09</Date>
+    <Open>5.61399</Open>
+    <High>5.94329</High>
+    <Low>5.53934</Low>
+    <Close>5.54394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-10</Date>
+    <Open>5.55394</Open>
+    <High>5.58055</High>
+    <Low>5.43624</Low>
+    <Close>5.44271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-11</Date>
+    <Open>5.43898</Open>
+    <High>5.59483</High>
+    <Low>5.37584</Low>
+    <Close>5.53189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-12</Date>
+    <Open>5.54767</Open>
+    <High>6.80075</High>
+    <Low>5.51839</Low>
+    <Close>6.53159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-13</Date>
+    <Open>6.53465</Open>
+    <High>6.92555</High>
+    <Low>6.28057</Low>
+    <Close>6.77168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-14</Date>
+    <Open>6.76554</Open>
+    <High>7.58476</High>
+    <Low>6.58379</Low>
+    <Close>6.85734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-15</Date>
+    <Open>6.88369</Open>
+    <High>8.85674</High>
+    <Low>6.61899</Low>
+    <Close>8.47446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-16</Date>
+    <Open>8.47254</Open>
+    <High>9.89896</High>
+    <Low>8.33942</Low>
+    <Close>8.89918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-17</Date>
+    <Open>8.94818</Open>
+    <High>10.055</High>
+    <Low>8.83603</Low>
+    <Close>9.078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-18</Date>
+    <Open>9.07691</Open>
+    <High>9.23282</High>
+    <Low>8.23726</Low>
+    <Close>8.84656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-19</Date>
+    <Open>8.84665</Open>
+    <High>10.3807</High>
+    <Low>8.52766</Low>
+    <Close>9.9336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-20</Date>
+    <Open>9.9536</Open>
+    <High>11.4008</High>
+    <Low>9.8028</Low>
+    <Close>10.7468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-21</Date>
+    <Open>10.7709</Open>
+    <High>11.4025</High>
+    <Low>10.4248</Low>
+    <Close>10.5201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-22</Date>
+    <Open>10.5016</Open>
+    <High>10.8547</High>
+    <Low>9.80267</Low>
+    <Close>10.047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-23</Date>
+    <Open>10.035</Open>
+    <High>10.8312</High>
+    <Low>9.71278</Low>
+    <Close>10.4228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-24</Date>
+    <Open>10.4616</Open>
+    <High>11.2019</High>
+    <Low>9.72136</Low>
+    <Close>9.75529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-25</Date>
+    <Open>9.77678</Open>
+    <High>10.8251</High>
+    <Low>9.50281</Low>
+    <Close>10.3787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-26</Date>
+    <Open>10.3958</Open>
+    <High>11.2758</High>
+    <Low>10.0748</Low>
+    <Close>10.1498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-27</Date>
+    <Open>10.1488</Open>
+    <High>11.0657</High>
+    <Low>9.85387</Low>
+    <Close>10.7122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-28</Date>
+    <Open>10.7317</Open>
+    <High>11.8806</High>
+    <Low>10.6193</Low>
+    <Close>10.9222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-29</Date>
+    <Open>10.9312</Open>
+    <High>11.3516</High>
+    <Low>10.8326</Low>
+    <Close>11.2354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-30</Date>
+    <Open>11.2295</Open>
+    <High>11.3154</High>
+    <Low>9.8891</Low>
+    <Close>10.0976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-01-31</Date>
+    <Open>10.1027</Open>
+    <High>10.5103</High>
+    <Low>10.0205</Low>
+    <Close>10.2689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-01</Date>
+    <Open>10.2738</Open>
+    <High>10.9239</High>
+    <Low>9.5799</Low>
+    <Close>10.8646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-02</Date>
+    <Open>10.8765</Open>
+    <High>11.7351</High>
+    <Low>10.577</Low>
+    <Close>10.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-03</Date>
+    <Open>10.8763</Open>
+    <High>11.4741</High>
+    <Low>10.3169</Low>
+    <Close>10.9769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-04</Date>
+    <Open>10.9769</Open>
+    <High>11.1347</High>
+    <Low>10.5754</Low>
+    <Close>10.6649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-05</Date>
+    <Open>10.6529</Open>
+    <High>10.6708</High>
+    <Low>9.79855</Low>
+    <Close>9.91558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-06</Date>
+    <Open>9.90648</Open>
+    <High>12.8335</High>
+    <Low>9.88357</Low>
+    <Close>12.2345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-07</Date>
+    <Open>12.3015</Open>
+    <High>13.6491</High>
+    <Low>11.9011</Low>
+    <Close>12.6258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-08</Date>
+    <Open>12.6338</Open>
+    <High>13.1238</High>
+    <Low>11.3472</Low>
+    <Close>11.5789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-09</Date>
+    <Open>11.5719</Open>
+    <High>14.246</High>
+    <Low>11.4806</Low>
+    <Close>12.0502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-10</Date>
+    <Open>12.0382</Open>
+    <High>12.6371</High>
+    <Low>10.2677</Low>
+    <Close>10.4585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-11</Date>
+    <Open>10.455</Open>
+    <High>10.5641</High>
+    <Low>10.0537</Low>
+    <Close>10.5421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-12</Date>
+    <Open>10.5561</Open>
+    <High>10.981</High>
+    <Low>10.0875</Low>
+    <Close>10.2468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-13</Date>
+    <Open>10.238</Open>
+    <High>10.8758</High>
+    <Low>9.34911</Low>
+    <Close>9.77928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-14</Date>
+    <Open>9.79038</Open>
+    <High>10.4128</High>
+    <Low>9.65295</Low>
+    <Close>10.0429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-15</Date>
+    <Open>10.0704</Open>
+    <High>11.5867</High>
+    <Low>9.82344</Low>
+    <Close>11.301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-16</Date>
+    <Open>11.336</Open>
+    <High>11.6969</High>
+    <Low>10.1653</Low>
+    <Close>10.1955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-17</Date>
+    <Open>10.1835</Open>
+    <High>11.5008</High>
+    <Low>10.0419</Low>
+    <Close>11.0511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-18</Date>
+    <Open>11.0609</Open>
+    <High>11.7824</High>
+    <Low>10.9667</Low>
+    <Close>11.3728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-19</Date>
+    <Open>11.3508</Open>
+    <High>11.4628</High>
+    <Low>10.5131</Low>
+    <Close>10.7674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-20</Date>
+    <Open>10.7504</Open>
+    <High>11.0292</High>
+    <Low>10.353</Low>
+    <Close>10.6906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-21</Date>
+    <Open>10.6944</Open>
+    <High>11.1491</High>
+    <Low>10.074</Low>
+    <Close>10.1958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-22</Date>
+    <Open>10.2017</Open>
+    <High>10.6476</High>
+    <Low>9.75356</Low>
+    <Close>10.536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-23</Date>
+    <Open>10.5324</Open>
+    <High>11.4591</High>
+    <Low>10.4387</Low>
+    <Close>10.8814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-24</Date>
+    <Open>10.8677</Open>
+    <High>10.9925</High>
+    <Low>9.9819</Low>
+    <Close>10.0869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-25</Date>
+    <Open>10.08</Open>
+    <High>10.5921</High>
+    <Low>9.70546</Low>
+    <Close>10.0387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-26</Date>
+    <Open>10.0596</Open>
+    <High>10.5599</High>
+    <Low>10.0256</Low>
+    <Close>10.4246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-27</Date>
+    <Open>10.4265</Open>
+    <High>11.2436</High>
+    <Low>10.1424</Low>
+    <Close>11.0915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-02-28</Date>
+    <Open>11.1186</Open>
+    <High>11.615</High>
+    <Low>10.5422</Low>
+    <Close>11.2552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-01</Date>
+    <Open>11.2694</Open>
+    <High>12.2707</High>
+    <Low>11.2246</Low>
+    <Close>12.0716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-02</Date>
+    <Open>12.0846</Open>
+    <High>12.1772</High>
+    <Low>11.0277</Low>
+    <Close>11.1825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-03</Date>
+    <Open>11.1839</Open>
+    <High>11.1869</High>
+    <Low>9.92389</Low>
+    <Close>10.1136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-04</Date>
+    <Open>10.1137</Open>
+    <High>10.2001</High>
+    <Low>9.40047</Low>
+    <Close>9.58367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-05</Date>
+    <Open>9.58277</Open>
+    <High>10.0244</High>
+    <Low>9.58277</Low>
+    <Close>9.67906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-06</Date>
+    <Open>9.67916</Open>
+    <High>9.90021</High>
+    <Low>9.43185</Low>
+    <Close>9.78341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-07</Date>
+    <Open>9.77892</Open>
+    <High>9.9629</High>
+    <Low>9.05928</Low>
+    <Close>9.26746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-08</Date>
+    <Open>9.26263</Open>
+    <High>9.46405</High>
+    <Low>8.87265</Low>
+    <Close>8.95164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-09</Date>
+    <Open>8.92166</Open>
+    <High>9.01328</High>
+    <Low>8.12129</Low>
+    <Close>8.29483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-10</Date>
+    <Open>8.27932</Open>
+    <High>8.59</High>
+    <Low>7.89664</Low>
+    <Close>7.90488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-11</Date>
+    <Open>7.90589</Open>
+    <High>8.21876</High>
+    <Low>6.59192</Low>
+    <Close>7.58459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-12</Date>
+    <Open>7.60464</Open>
+    <High>8.24031</High>
+    <Low>7.21249</Low>
+    <Close>8.12066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-13</Date>
+    <Open>8.12975</Open>
+    <High>9.21075</High>
+    <Low>8.11057</Low>
+    <Close>9.00679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-14</Date>
+    <Open>9.01483</Open>
+    <High>9.57423</High>
+    <Low>8.47524</Low>
+    <Close>8.96478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-15</Date>
+    <Open>8.97592</Open>
+    <High>9.47407</High>
+    <Low>7.97457</Low>
+    <Close>8.18263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-16</Date>
+    <Open>8.1731</Open>
+    <High>8.44097</High>
+    <Low>7.97775</Low>
+    <Close>8.25176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-17</Date>
+    <Open>8.25626</Open>
+    <High>8.77898</High>
+    <Low>8.237</Low>
+    <Close>8.68096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-18</Date>
+    <Open>8.6869</Open>
+    <High>9.20868</High>
+    <Low>8.57609</Low>
+    <Close>8.71139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-19</Date>
+    <Open>8.70595</Open>
+    <High>8.88319</High>
+    <Low>8.29858</Low>
+    <Close>8.52123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-20</Date>
+    <Open>8.52475</Open>
+    <High>8.59889</High>
+    <Low>7.96534</Low>
+    <Close>8.03422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-21</Date>
+    <Open>8.02418</Open>
+    <High>8.4028</High>
+    <Low>7.75953</Low>
+    <Close>8.11087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-22</Date>
+    <Open>8.1128</Open>
+    <High>8.47386</High>
+    <Low>7.64967</Low>
+    <Close>7.89373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-23</Date>
+    <Open>7.88987</Open>
+    <High>8.25949</High>
+    <Low>7.83309</Low>
+    <Close>8.14992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-24</Date>
+    <Open>8.15108</Open>
+    <High>8.22944</High>
+    <Low>7.69938</Low>
+    <Close>7.86009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-25</Date>
+    <Open>7.87789</Open>
+    <High>7.9955</High>
+    <Low>7.61761</Low>
+    <Close>7.69346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-26</Date>
+    <Open>7.65742</Open>
+    <High>8.06417</High>
+    <Low>7.64441</Low>
+    <Close>7.82583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-27</Date>
+    <Open>7.84862</Open>
+    <High>7.97029</High>
+    <Low>7.3818</Low>
+    <Close>7.46658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-28</Date>
+    <Open>7.47151</Open>
+    <High>8.1632</High>
+    <Low>7.32834</Low>
+    <Close>7.99804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-29</Date>
+    <Open>8.01512</Open>
+    <High>9.19339</High>
+    <Low>8.00304</Low>
+    <Close>8.74757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-30</Date>
+    <Open>8.74462</Open>
+    <High>9.02671</High>
+    <Low>8.30833</Low>
+    <Close>8.46637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-03-31</Date>
+    <Open>8.46529</Open>
+    <High>8.93759</High>
+    <Low>8.33667</Low>
+    <Close>8.88287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-01</Date>
+    <Open>8.88287</Open>
+    <High>9.06108</High>
+    <Low>8.71009</Low>
+    <Close>8.84727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-02</Date>
+    <Open>8.83418</Open>
+    <High>8.92355</High>
+    <Low>8.48885</Low>
+    <Close>8.74751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-03</Date>
+    <Open>8.74042</Open>
+    <High>9.29793</High>
+    <Low>8.47147</Low>
+    <Close>8.86037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-04</Date>
+    <Open>8.86955</Open>
+    <High>9.66796</High>
+    <Low>8.82297</Low>
+    <Close>9.54787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-05</Date>
+    <Open>9.55187</Open>
+    <High>10.1114</High>
+    <Low>9.39357</Low>
+    <Close>9.7335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-06</Date>
+    <Open>9.70149</Open>
+    <High>9.78193</High>
+    <Low>9.2175</Low>
+    <Close>9.61236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-07</Date>
+    <Open>9.60746</Open>
+    <High>9.74687</High>
+    <Low>9.28438</Low>
+    <Close>9.36202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-08</Date>
+    <Open>9.36001</Open>
+    <High>9.8041</High>
+    <Low>9.10764</Low>
+    <Close>9.17258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-09</Date>
+    <Open>9.16157</Open>
+    <High>9.27063</High>
+    <Low>8.58498</Low>
+    <Close>8.87723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-10</Date>
+    <Open>8.87621</Open>
+    <High>9.11201</High>
+    <Low>8.7271</Low>
+    <Close>9.0304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-11</Date>
+    <Open>9.0344</Open>
+    <High>9.17352</High>
+    <Low>8.68581</Low>
+    <Close>8.72154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-12</Date>
+    <Open>8.71762</Open>
+    <High>9.00465</High>
+    <Low>8.41975</Low>
+    <Close>8.71779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-13</Date>
+    <Open>8.74582</Open>
+    <High>9.16261</High>
+    <Low>8.53344</Low>
+    <Close>9.13376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-14</Date>
+    <Open>9.14368</Open>
+    <High>10.2594</High>
+    <Low>9.12475</Low>
+    <Close>10.1104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-15</Date>
+    <Open>10.1884</Open>
+    <High>10.6991</High>
+    <Low>9.95385</Low>
+    <Close>10.3163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-16</Date>
+    <Open>10.3312</Open>
+    <High>10.6318</High>
+    <Low>10.0315</Low>
+    <Close>10.4391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-17</Date>
+    <Open>10.443</Open>
+    <High>10.4473</High>
+    <Low>9.94394</Low>
+    <Close>10.0965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-18</Date>
+    <Open>10.109</Open>
+    <High>10.9039</High>
+    <Low>10.0268</Low>
+    <Close>10.1447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-19</Date>
+    <Open>10.1489</Open>
+    <High>10.2323</High>
+    <Low>9.01924</Low>
+    <Close>9.13402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-20</Date>
+    <Open>9.13902</Open>
+    <High>9.15074</High>
+    <Low>8.55103</Low>
+    <Close>8.77588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-21</Date>
+    <Open>8.76561</Open>
+    <High>9.27146</High>
+    <Low>8.22027</Low>
+    <Close>8.23609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-22</Date>
+    <Open>8.22909</Open>
+    <High>8.34141</High>
+    <Low>7.98572</Low>
+    <Close>8.15182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-23</Date>
+    <Open>8.16082</Open>
+    <High>8.25625</High>
+    <Low>7.83819</Low>
+    <Close>8.0164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-24</Date>
+    <Open>8.0134</Open>
+    <High>8.34067</High>
+    <Low>7.94756</Low>
+    <Close>8.22625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-25</Date>
+    <Open>8.23725</Open>
+    <High>8.47395</High>
+    <Low>7.89263</Low>
+    <Close>8.46495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-26</Date>
+    <Open>8.47795</Open>
+    <High>8.79467</High>
+    <Low>7.92458</Low>
+    <Close>8.32083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-27</Date>
+    <Open>8.31766</Open>
+    <High>8.53688</High>
+    <Low>8.20656</Low>
+    <Close>8.4132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-28</Date>
+    <Open>8.42061</Open>
+    <High>8.4533</High>
+    <Low>7.79574</Low>
+    <Close>7.87914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-29</Date>
+    <Open>7.87206</Open>
+    <High>8.05431</High>
+    <Low>7.8137</Low>
+    <Close>8.00664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-04-30</Date>
+    <Open>8.00672</Open>
+    <High>8.04174</High>
+    <Low>7.65159</Low>
+    <Close>7.67837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-01</Date>
+    <Open>7.67129</Open>
+    <High>7.73409</High>
+    <Low>7.49787</Low>
+    <Close>7.55704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-02</Date>
+    <Open>7.57805</Open>
+    <High>7.94948</High>
+    <Low>7.57805</Low>
+    <Close>7.83886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-03</Date>
+    <Open>7.86379</Open>
+    <High>8.13011</High>
+    <Low>7.54249</Low>
+    <Close>8.06218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-04</Date>
+    <Open>8.09218</Open>
+    <High>8.15228</High>
+    <Low>7.59619</Low>
+    <Close>7.62782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-05</Date>
+    <Open>7.62574</Open>
+    <High>7.98599</High>
+    <Low>7.58126</Low>
+    <Close>7.90819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-06</Date>
+    <Open>7.90519</Open>
+    <High>7.98113</High>
+    <Low>7.35731</Low>
+    <Close>7.47398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-07</Date>
+    <Open>7.46797</Open>
+    <High>7.56197</High>
+    <Low>7.34324</Low>
+    <Close>7.40766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-08</Date>
+    <Open>7.41166</Open>
+    <High>7.49791</High>
+    <Low>6.60455</Low>
+    <Close>6.77328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-09</Date>
+    <Open>6.78609</Open>
+    <High>6.95395</High>
+    <Low>6.72372</Low>
+    <Close>6.73773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-10</Date>
+    <Open>6.72803</Open>
+    <High>6.93963</High>
+    <Low>6.5091</Low>
+    <Close>6.73573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-11</Date>
+    <Open>6.76276</Open>
+    <High>6.79579</High>
+    <Low>5.87587</Low>
+    <Close>5.93693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-12</Date>
+    <Open>5.95895</Open>
+    <High>6.5089</High>
+    <Low>5.88288</Low>
+    <Close>6.46417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-13</Date>
+    <Open>6.46617</Open>
+    <High>6.58195</High>
+    <Low>6.31979</Low>
+    <Close>6.5089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-14</Date>
+    <Open>6.52426</Open>
+    <High>6.74404</High>
+    <Low>6.43686</Low>
+    <Close>6.679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-15</Date>
+    <Open>6.68301</Open>
+    <High>7.28337</High>
+    <Low>6.64498</Low>
+    <Close>7.16101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-16</Date>
+    <Open>7.145</Open>
+    <High>7.38517</High>
+    <Low>6.96387</Low>
+    <Close>7.22961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-17</Date>
+    <Open>7.21689</Open>
+    <High>7.511</High>
+    <Low>6.92077</Low>
+    <Close>7.3977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-18</Date>
+    <Open>7.4027</Open>
+    <High>7.4087</High>
+    <Low>7.04782</Low>
+    <Close>7.21188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-19</Date>
+    <Open>7.21116</Open>
+    <High>7.35494</High>
+    <Low>7.14257</Low>
+    <Close>7.24917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-20</Date>
+    <Open>7.25663</Open>
+    <High>7.35962</High>
+    <Low>7.12598</Low>
+    <Close>7.20748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-21</Date>
+    <Open>7.21949</Open>
+    <High>7.32766</High>
+    <Low>6.99049</Low>
+    <Close>7.03622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-22</Date>
+    <Open>7.03452</Open>
+    <High>7.6058</High>
+    <Low>6.98119</Low>
+    <Close>7.09726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-23</Date>
+    <Open>7.09555</Open>
+    <High>7.2798</High>
+    <Low>6.9088</Low>
+    <Close>7.02442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-24</Date>
+    <Open>7.02049</Open>
+    <High>7.06778</High>
+    <Low>6.78325</Low>
+    <Close>6.93058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-25</Date>
+    <Open>6.93265</Open>
+    <High>6.94644</High>
+    <Low>6.69226</Low>
+    <Close>6.7592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-26</Date>
+    <Open>6.7487</Open>
+    <High>6.95136</High>
+    <Low>6.72561</Low>
+    <Close>6.91552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-27</Date>
+    <Open>6.92008</Open>
+    <High>6.96037</High>
+    <Low>6.79397</Low>
+    <Close>6.95957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="FXS">
+    <Date>2023-05-28</Date>
+    <Open>6.96579</Open>
+    <High>7.01896</High>
+    <Low>6.91607</Low>
+    <Close>6.99661</Close>
+  </Cryptocurrency>
+</Root>

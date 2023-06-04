@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-14</Date>
+    <Open>0.509632</Open>
+    <High>0.518565</High>
+    <Low>0.443644</Low>
+    <Close>0.491511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-15</Date>
+    <Open>0.490412</Open>
+    <High>0.520123</High>
+    <Low>0.48043</Low>
+    <Close>0.520123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-16</Date>
+    <Open>0.523319</Open>
+    <High>0.535403</High>
+    <Low>0.474083</Low>
+    <Close>0.493708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-17</Date>
+    <Open>0.495505</Open>
+    <High>0.559584</High>
+    <Low>0.487417</Low>
+    <Close>0.536555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-18</Date>
+    <Open>0.536402</Open>
+    <High>0.569359</High>
+    <Low>0.479476</Low>
+    <Close>0.486318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-19</Date>
+    <Open>0.484769</Open>
+    <High>0.489059</High>
+    <Low>0.44562</Low>
+    <Close>0.485862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-20</Date>
+    <Open>0.485063</Open>
+    <High>0.502248</High>
+    <Low>0.457405</Low>
+    <Close>0.472385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-21</Date>
+    <Open>0.473731</Open>
+    <High>0.486167</High>
+    <Low>0.464296</Low>
+    <Close>0.482971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-22</Date>
+    <Open>0.481573</Open>
+    <High>0.580403</High>
+    <Low>0.481026</Low>
+    <Close>0.517678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-23</Date>
+    <Open>0.517878</Open>
+    <High>0.551393</High>
+    <Low>0.510686</Low>
+    <Close>0.513483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-24</Date>
+    <Open>0.514182</Open>
+    <High>0.514182</High>
+    <Low>0.456352</Low>
+    <Close>0.484469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-25</Date>
+    <Open>0.48482</Open>
+    <High>0.500099</High>
+    <Low>0.471581</Low>
+    <Close>0.486065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-26</Date>
+    <Open>0.486915</Open>
+    <High>0.496553</High>
+    <Low>0.44127</Low>
+    <Close>0.466233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-27</Date>
+    <Open>0.465035</Open>
+    <High>0.471328</High>
+    <Low>0.442757</Low>
+    <Close>0.453446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-28</Date>
+    <Open>0.45208</Open>
+    <High>0.510187</High>
+    <Low>0.445607</Low>
+    <Close>0.475947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-29</Date>
+    <Open>0.474834</Open>
+    <High>0.479533</High>
+    <Low>0.449654</Low>
+    <Close>0.46641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-30</Date>
+    <Open>0.466482</Open>
+    <High>0.506046</High>
+    <Low>0.464993</Low>
+    <Close>0.505846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-05-31</Date>
+    <Open>0.506794</Open>
+    <High>0.597981</High>
+    <Low>0.501898</Low>
+    <Close>0.546508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-01</Date>
+    <Open>0.547678</Open>
+    <High>0.58003</High>
+    <Low>0.514685</Low>
+    <Close>0.514736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-02</Date>
+    <Open>0.514657</Open>
+    <High>0.612149</High>
+    <Low>0.49945</Low>
+    <Close>0.568888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-03</Date>
+    <Open>0.566789</Open>
+    <High>0.611449</High>
+    <Low>0.526384</Low>
+    <Close>0.546824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-04</Date>
+    <Open>0.546025</Open>
+    <High>0.554867</High>
+    <Low>0.52356</Low>
+    <Close>0.532495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-05</Date>
+    <Open>0.532606</Open>
+    <High>0.583803</High>
+    <Low>0.520478</Low>
+    <Close>0.551781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-06</Date>
+    <Open>0.553479</Open>
+    <High>0.582222</High>
+    <Low>0.546486</Low>
+    <Close>0.560928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-07</Date>
+    <Open>0.560123</Open>
+    <High>0.673634</High>
+    <Low>0.560123</Low>
+    <Close>0.602905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-08</Date>
+    <Open>0.603017</Open>
+    <High>0.603747</High>
+    <Low>0.556249</Low>
+    <Close>0.563533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-09</Date>
+    <Open>0.563533</Open>
+    <High>0.590533</High>
+    <Low>0.537696</Low>
+    <Close>0.543843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-10</Date>
+    <Open>0.542039</Open>
+    <High>0.560129</High>
+    <Low>0.492312</Low>
+    <Close>0.507954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-11</Date>
+    <Open>0.508354</Open>
+    <High>0.512835</High>
+    <Low>0.467819</Low>
+    <Close>0.483443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-12</Date>
+    <Open>0.484447</Open>
+    <High>0.496728</High>
+    <Low>0.424401</Low>
+    <Close>0.449742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-13</Date>
+    <Open>0.448743</Open>
+    <High>0.448743</High>
+    <Low>0.345381</Low>
+    <Close>0.363893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-14</Date>
+    <Open>0.36659</Open>
+    <High>0.38405</High>
+    <Low>0.314531</Low>
+    <Close>0.339992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-15</Date>
+    <Open>0.342688</Open>
+    <High>0.367059</High>
+    <Low>0.31074</Low>
+    <Close>0.36369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-16</Date>
+    <Open>0.364453</Open>
+    <High>0.4164</High>
+    <Low>0.340425</Low>
+    <Close>0.366523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-17</Date>
+    <Open>0.342523</Open>
+    <High>0.36629</High>
+    <Low>0.334631</Low>
+    <Close>0.360367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-18</Date>
+    <Open>0.36097</Open>
+    <High>0.403239</High>
+    <Low>0.327243</Low>
+    <Close>0.341546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-19</Date>
+    <Open>0.341546</Open>
+    <High>0.368357</High>
+    <Low>0.327731</Low>
+    <Close>0.366423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-20</Date>
+    <Open>0.36646</Open>
+    <High>0.379368</High>
+    <Low>0.351777</Low>
+    <Close>0.371591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-21</Date>
+    <Open>0.371391</Open>
+    <High>0.408273</High>
+    <Low>0.370991</Low>
+    <Close>0.407152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-22</Date>
+    <Open>0.405953</Open>
+    <High>0.405953</High>
+    <Low>0.377023</Low>
+    <Close>0.383117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-23</Date>
+    <Open>0.381518</Open>
+    <High>0.3996</High>
+    <Low>0.37972</Low>
+    <Close>0.396103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-24</Date>
+    <Open>0.396403</Open>
+    <High>0.412282</High>
+    <Low>0.394505</Low>
+    <Close>0.412282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-25</Date>
+    <Open>0.412187</Open>
+    <High>0.417882</High>
+    <Low>0.392445</Low>
+    <Close>0.412311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-26</Date>
+    <Open>0.411716</Open>
+    <High>0.415213</High>
+    <Low>0.40247</Low>
+    <Close>0.405648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-27</Date>
+    <Open>0.404265</Open>
+    <High>0.561816</High>
+    <Low>0.394167</Low>
+    <Close>0.453396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-28</Date>
+    <Open>0.453496</Open>
+    <High>0.661324</High>
+    <Low>0.417307</Low>
+    <Close>0.57679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-29</Date>
+    <Open>0.579704</Open>
+    <High>0.716454</High>
+    <Low>0.559821</Low>
+    <Close>0.576538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-06-30</Date>
+    <Open>0.575708</Open>
+    <High>0.658709</High>
+    <Low>0.519376</Low>
+    <Close>0.530762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-01</Date>
+    <Open>0.523371</Open>
+    <High>0.52397</High>
+    <Low>0.46375</Low>
+    <Close>0.472879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-02</Date>
+    <Open>0.47228</Open>
+    <High>0.477774</High>
+    <Low>0.442568</Low>
+    <Close>0.460347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-03</Date>
+    <Open>0.461446</Open>
+    <High>0.461446</High>
+    <Low>0.429341</Low>
+    <Close>0.447118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-04</Date>
+    <Open>0.443523</Open>
+    <High>0.447063</High>
+    <Low>0.426345</Low>
+    <Close>0.446963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-05</Date>
+    <Open>0.447263</Open>
+    <High>0.454854</High>
+    <Low>0.428928</Low>
+    <Close>0.443711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-06</Date>
+    <Open>0.44461</Open>
+    <High>0.454754</High>
+    <Low>0.433922</Low>
+    <Close>0.4539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-07</Date>
+    <Open>0.4538</Open>
+    <High>0.467572</High>
+    <Low>0.447208</Low>
+    <Close>0.464121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-08</Date>
+    <Open>0.465421</Open>
+    <High>0.504597</High>
+    <Low>0.461377</Low>
+    <Close>0.488707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-09</Date>
+    <Open>0.487108</Open>
+    <High>0.495303</High>
+    <Low>0.473416</Low>
+    <Close>0.488607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-10</Date>
+    <Open>0.489557</Open>
+    <High>0.505696</High>
+    <Low>0.459524</Low>
+    <Close>0.469018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-11</Date>
+    <Open>0.46632</Open>
+    <High>0.496902</High>
+    <Low>0.437793</Low>
+    <Close>0.43976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-12</Date>
+    <Open>0.43966</Open>
+    <High>0.45954</High>
+    <Low>0.413386</Low>
+    <Close>0.416483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-13</Date>
+    <Open>0.4163</Open>
+    <High>0.420479</High>
+    <Low>0.385514</Low>
+    <Close>0.412828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-14</Date>
+    <Open>0.414626</Open>
+    <High>0.423718</High>
+    <Low>0.398881</Low>
+    <Close>0.418749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-15</Date>
+    <Open>0.418449</Open>
+    <High>0.434383</High>
+    <Low>0.414851</Low>
+    <Close>0.432327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-16</Date>
+    <Open>0.43437</Open>
+    <High>0.46566</High>
+    <Low>0.43217</Low>
+    <Close>0.45121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-17</Date>
+    <Open>0.451678</Open>
+    <High>0.457763</High>
+    <Low>0.440177</Low>
+    <Close>0.44558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-18</Date>
+    <Open>0.44528</Open>
+    <High>0.475919</High>
+    <Low>0.437247</Low>
+    <Close>0.459894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-19</Date>
+    <Open>0.460294</Open>
+    <High>0.481</High>
+    <Low>0.457363</Low>
+    <Close>0.479772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-20</Date>
+    <Open>0.479</Open>
+    <High>0.486744</High>
+    <Low>0.45905</Low>
+    <Close>0.464223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-21</Date>
+    <Open>0.463556</Open>
+    <High>0.50541</High>
+    <Low>0.448158</Low>
+    <Close>0.470503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-22</Date>
+    <Open>0.470017</Open>
+    <High>0.47339</High>
+    <Low>0.454896</Low>
+    <Close>0.459351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-23</Date>
+    <Open>0.456705</Open>
+    <High>0.465442</High>
+    <Low>0.441931</Low>
+    <Close>0.451154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-24</Date>
+    <Open>0.452891</Open>
+    <High>0.475028</High>
+    <Low>0.452891</Low>
+    <Close>0.460287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-25</Date>
+    <Open>0.460892</Open>
+    <High>0.570051</High>
+    <Low>0.4296</Low>
+    <Close>0.539543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-26</Date>
+    <Open>0.540449</Open>
+    <High>0.59123</High>
+    <Low>0.484124</Low>
+    <Close>0.486673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-27</Date>
+    <Open>0.487968</Open>
+    <High>0.539527</High>
+    <Low>0.487968</Low>
+    <Close>0.524626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-28</Date>
+    <Open>0.52182</Open>
+    <High>0.558979</High>
+    <Low>0.511961</Low>
+    <Close>0.540408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-29</Date>
+    <Open>0.543436</Open>
+    <High>0.565119</High>
+    <Low>0.522046</Low>
+    <Close>0.531723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-30</Date>
+    <Open>0.532018</Open>
+    <High>0.540584</High>
+    <Low>0.525594</Low>
+    <Close>0.53018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-07-31</Date>
+    <Open>0.529791</Open>
+    <High>0.540408</High>
+    <Low>0.523052</Low>
+    <Close>0.530827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-01</Date>
+    <Open>0.531327</Open>
+    <High>0.975024</High>
+    <Low>0.524404</Low>
+    <Close>0.889667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-02</Date>
+    <Open>0.887648</Open>
+    <High>0.887648</High>
+    <Low>0.601862</Low>
+    <Close>0.608303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-03</Date>
+    <Open>0.609116</Open>
+    <High>0.628594</High>
+    <Low>0.559045</Low>
+    <Close>0.598049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-04</Date>
+    <Open>0.598144</Open>
+    <High>0.624456</High>
+    <Low>0.56924</Low>
+    <Close>0.574734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-05</Date>
+    <Open>0.573817</Open>
+    <High>0.587618</High>
+    <Low>0.567368</Low>
+    <Close>0.584417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-06</Date>
+    <Open>0.584111</Open>
+    <High>0.590918</High>
+    <Low>0.581616</Low>
+    <Close>0.582934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-07</Date>
+    <Open>0.584829</Open>
+    <High>0.63996</High>
+    <Low>0.580622</Low>
+    <Close>0.599608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-08</Date>
+    <Open>0.598514</Open>
+    <High>0.604651</High>
+    <Low>0.585376</Low>
+    <Close>0.599878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-09</Date>
+    <Open>0.599914</Open>
+    <High>0.647936</High>
+    <Low>0.581716</Low>
+    <Close>0.602921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-10</Date>
+    <Open>0.601826</Open>
+    <High>0.622187</High>
+    <Low>0.582563</Low>
+    <Close>0.62098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-11</Date>
+    <Open>0.620886</Open>
+    <High>0.640288</High>
+    <Low>0.617116</Low>
+    <Close>0.627282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-12</Date>
+    <Open>0.628914</Open>
+    <High>0.665032</High>
+    <Low>0.611606</Low>
+    <Close>0.627388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-13</Date>
+    <Open>0.627489</Open>
+    <High>0.644835</High>
+    <Low>0.625788</Low>
+    <Close>0.630139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-14</Date>
+    <Open>0.630046</Open>
+    <High>0.635348</High>
+    <Low>0.616136</Low>
+    <Close>0.620392</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-15</Date>
+    <Open>0.62028</Open>
+    <High>0.663379</High>
+    <Low>0.610959</Low>
+    <Close>0.622349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-16</Date>
+    <Open>0.622343</Open>
+    <High>0.625231</High>
+    <Low>0.603921</Low>
+    <Close>0.608837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-17</Date>
+    <Open>0.608855</Open>
+    <High>0.61558</High>
+    <Low>0.5845</Low>
+    <Close>0.592871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-18</Date>
+    <Open>0.593042</Open>
+    <High>0.599736</High>
+    <Low>0.587512</Low>
+    <Close>0.593906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-19</Date>
+    <Open>0.5953</Open>
+    <High>0.630863</High>
+    <Low>0.544854</Low>
+    <Close>0.555056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-20</Date>
+    <Open>0.557217</Open>
+    <High>0.569651</High>
+    <Low>0.526768</Low>
+    <Close>0.534895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-21</Date>
+    <Open>0.534484</Open>
+    <High>0.577548</High>
+    <Low>0.530373</Low>
+    <Close>0.556783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-22</Date>
+    <Open>0.555922</Open>
+    <High>0.565806</High>
+    <Low>0.535541</Low>
+    <Close>0.542424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-23</Date>
+    <Open>0.541413</Open>
+    <High>0.56546</High>
+    <Low>0.535284</Low>
+    <Close>0.552711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-24</Date>
+    <Open>0.554</Open>
+    <High>0.561356</High>
+    <Low>0.5407</Low>
+    <Close>0.55915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-25</Date>
+    <Open>0.558139</Open>
+    <High>0.574254</High>
+    <Low>0.550728</Low>
+    <Close>0.567245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-26</Date>
+    <Open>0.566066</Open>
+    <High>0.579906</High>
+    <Low>0.5384</Low>
+    <Close>0.545249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-27</Date>
+    <Open>0.543654</Open>
+    <High>0.544244</High>
+    <Low>0.521563</Low>
+    <Close>0.530016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-28</Date>
+    <Open>0.528716</Open>
+    <High>0.553806</High>
+    <Low>0.526716</Low>
+    <Close>0.541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-29</Date>
+    <Open>0.5405</Open>
+    <High>0.5411</High>
+    <Low>0.513626</Low>
+    <Close>0.540222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-30</Date>
+    <Open>0.541643</Open>
+    <High>0.560228</High>
+    <Low>0.525932</Low>
+    <Close>0.542549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-08-31</Date>
+    <Open>0.539949</Open>
+    <High>0.563906</High>
+    <Low>0.538743</Low>
+    <Close>0.556117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-01</Date>
+    <Open>0.557089</Open>
+    <High>0.558994</High>
+    <Low>0.527916</Low>
+    <Close>0.544667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-02</Date>
+    <Open>0.545067</Open>
+    <High>0.582394</High>
+    <Low>0.542143</Low>
+    <Close>0.548993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-03</Date>
+    <Open>0.548488</Open>
+    <High>0.554839</High>
+    <Low>0.5375</Low>
+    <Close>0.5424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-04</Date>
+    <Open>0.5424</Open>
+    <High>0.547755</High>
+    <Low>0.5334</Low>
+    <Close>0.5423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-05</Date>
+    <Open>0.5423</Open>
+    <High>0.5456</High>
+    <Low>0.527</Low>
+    <Close>0.535554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-06</Date>
+    <Open>0.535454</Open>
+    <High>0.5553</High>
+    <Low>0.5178</Low>
+    <Close>0.5185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-07</Date>
+    <Open>0.518531</Open>
+    <High>0.529484</High>
+    <Low>0.499985</Low>
+    <Close>0.527226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-08</Date>
+    <Open>0.527737</Open>
+    <High>0.554961</High>
+    <Low>0.520005</Low>
+    <Close>0.546598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-09</Date>
+    <Open>0.546787</Open>
+    <High>0.571254</High>
+    <Low>0.542381</Low>
+    <Close>0.568888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-10</Date>
+    <Open>0.571034</Open>
+    <High>0.579426</High>
+    <Low>0.560424</Low>
+    <Close>0.571391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-11</Date>
+    <Open>0.571549</Open>
+    <High>0.613935</High>
+    <Low>0.563431</Low>
+    <Close>0.571437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-12</Date>
+    <Open>0.571643</Open>
+    <High>0.594949</High>
+    <Low>0.566125</Low>
+    <Close>0.577315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-13</Date>
+    <Open>0.576904</Open>
+    <High>0.617999</High>
+    <Low>0.539043</Low>
+    <Close>0.542611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-14</Date>
+    <Open>0.542611</Open>
+    <High>0.556328</High>
+    <Low>0.538505</Low>
+    <Close>0.549104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-15</Date>
+    <Open>0.551649</Open>
+    <High>0.595983</High>
+    <Low>0.530694</Low>
+    <Close>0.542284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-16</Date>
+    <Open>0.542573</Open>
+    <High>0.572348</High>
+    <Low>0.537446</Low>
+    <Close>0.551145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-17</Date>
+    <Open>0.5517</Open>
+    <High>0.5706</High>
+    <Low>0.548545</Low>
+    <Close>0.559656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-18</Date>
+    <Open>0.561</Open>
+    <High>0.565257</High>
+    <Low>0.516748</Low>
+    <Close>0.5194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-19</Date>
+    <Open>0.5142</Open>
+    <High>0.5208</High>
+    <Low>0.482452</Low>
+    <Close>0.519204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-20</Date>
+    <Open>0.519604</Open>
+    <High>0.5298</High>
+    <Low>0.50465</Low>
+    <Close>0.5114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-21</Date>
+    <Open>0.5105</Open>
+    <High>0.517</High>
+    <Low>0.4831</Low>
+    <Close>0.4856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-22</Date>
+    <Open>0.4857</Open>
+    <High>0.5074</High>
+    <Low>0.4817</Low>
+    <Close>0.5048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-23</Date>
+    <Open>0.5055</Open>
+    <High>0.521</High>
+    <Low>0.49</Low>
+    <Close>0.5031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-24</Date>
+    <Open>0.503675</Open>
+    <High>0.509554</High>
+    <Low>0.4988</Low>
+    <Close>0.501445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-25</Date>
+    <Open>0.503</Open>
+    <High>0.50473</High>
+    <Low>0.492885</Low>
+    <Close>0.492885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-26</Date>
+    <Open>0.491795</Open>
+    <High>0.497505</High>
+    <Low>0.4774</Low>
+    <Close>0.491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-27</Date>
+    <Open>0.491049</Open>
+    <High>0.50165</High>
+    <Low>0.4827</Low>
+    <Close>0.487451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-28</Date>
+    <Open>0.4871</Open>
+    <High>0.4907</High>
+    <Low>0.473153</Low>
+    <Close>0.4867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-29</Date>
+    <Open>0.4867</Open>
+    <High>0.489549</High>
+    <Low>0.4766</Low>
+    <Close>0.486649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-09-30</Date>
+    <Open>0.487449</Open>
+    <High>0.490949</High>
+    <Low>0.4799</Low>
+    <Close>0.4837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-01</Date>
+    <Open>0.4829</Open>
+    <High>0.495</High>
+    <Low>0.480952</Low>
+    <Close>0.487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-02</Date>
+    <Open>0.4876</Open>
+    <High>0.4903</High>
+    <Low>0.4768</Low>
+    <Close>0.4811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-03</Date>
+    <Open>0.4804</Open>
+    <High>0.485849</High>
+    <Low>0.4755</Low>
+    <Close>0.483145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-04</Date>
+    <Open>0.483397</Open>
+    <High>0.510902</High>
+    <Low>0.481348</Low>
+    <Close>0.49935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-05</Date>
+    <Open>0.4992</Open>
+    <High>0.520856</High>
+    <Low>0.497249</Low>
+    <Close>0.50325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-06</Date>
+    <Open>0.503586</Open>
+    <High>0.507681</High>
+    <Low>0.493779</Low>
+    <Close>0.494764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-07</Date>
+    <Open>0.494574</Open>
+    <High>0.674513</High>
+    <Low>0.48891</Low>
+    <Close>0.568768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-08</Date>
+    <Open>0.56848</Open>
+    <High>0.628744</High>
+    <Low>0.531069</Low>
+    <Close>0.536729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-09</Date>
+    <Open>0.535739</Open>
+    <High>0.53727</High>
+    <Low>0.50495</Low>
+    <Close>0.512451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-10</Date>
+    <Open>0.512803</Open>
+    <High>0.563056</High>
+    <Low>0.510351</Low>
+    <Close>0.534747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-11</Date>
+    <Open>0.5322</Open>
+    <High>0.590141</High>
+    <Low>0.5208</Low>
+    <Close>0.524048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-12</Date>
+    <Open>0.523448</Open>
+    <High>0.539814</High>
+    <Low>0.50497</Low>
+    <Close>0.511515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-13</Date>
+    <Open>0.510695</Open>
+    <High>0.512295</High>
+    <Low>0.455064</Low>
+    <Close>0.490649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-14</Date>
+    <Open>0.490939</Open>
+    <High>0.499235</High>
+    <Low>0.479929</Low>
+    <Close>0.480205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-15</Date>
+    <Open>0.481619</Open>
+    <High>0.500015</High>
+    <Low>0.478729</Low>
+    <Close>0.480934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-16</Date>
+    <Open>0.480124</Open>
+    <High>0.49361</High>
+    <Low>0.480024</Low>
+    <Close>0.481424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-17</Date>
+    <Open>0.481624</Open>
+    <High>0.48871</High>
+    <Low>0.47651</Low>
+    <Close>0.484415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-18</Date>
+    <Open>0.484815</Open>
+    <High>0.498225</High>
+    <Low>0.477405</Low>
+    <Close>0.483824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-19</Date>
+    <Open>0.482229</Open>
+    <High>0.485244</High>
+    <Low>0.467405</Low>
+    <Close>0.4702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-20</Date>
+    <Open>0.470305</Open>
+    <High>0.474128</High>
+    <Low>0.457663</Low>
+    <Close>0.461149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-21</Date>
+    <Open>0.460859</Open>
+    <High>0.461632</High>
+    <Low>0.439396</Low>
+    <Close>0.461414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-22</Date>
+    <Open>0.461028</Open>
+    <High>0.51191</High>
+    <Low>0.460237</Low>
+    <Close>0.465333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-23</Date>
+    <Open>0.465137</Open>
+    <High>0.467814</High>
+    <Low>0.458937</Low>
+    <Close>0.46577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-24</Date>
+    <Open>0.467151</Open>
+    <High>0.537454</High>
+    <Low>0.462437</Low>
+    <Close>0.474524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-25</Date>
+    <Open>0.475019</Open>
+    <High>0.487161</High>
+    <Low>0.465491</Low>
+    <Close>0.480182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-26</Date>
+    <Open>0.479453</Open>
+    <High>0.485855</High>
+    <Low>0.47499</Low>
+    <Close>0.48343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-27</Date>
+    <Open>0.483731</Open>
+    <High>0.488993</High>
+    <Low>0.474676</Low>
+    <Close>0.476924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-28</Date>
+    <Open>0.476524</Open>
+    <High>0.478191</High>
+    <Low>0.464919</Low>
+    <Close>0.47651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-29</Date>
+    <Open>0.476895</Open>
+    <High>0.48295</High>
+    <Low>0.473942</Low>
+    <Close>0.47651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-30</Date>
+    <Open>0.475419</Open>
+    <High>0.483216</High>
+    <Low>0.473004</Low>
+    <Close>0.47529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-10-31</Date>
+    <Open>0.475095</Open>
+    <High>0.504395</High>
+    <Low>0.470403</Low>
+    <Close>0.481457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-01</Date>
+    <Open>0.483971</Open>
+    <High>0.504824</High>
+    <Low>0.482666</Low>
+    <Close>0.49914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-02</Date>
+    <Open>0.50034</Open>
+    <High>0.504844</High>
+    <Low>0.470395</Low>
+    <Close>0.472191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-03</Date>
+    <Open>0.472172</Open>
+    <High>0.492151</High>
+    <Low>0.471986</Low>
+    <Close>0.482395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-04</Date>
+    <Open>0.482295</Open>
+    <High>0.503145</High>
+    <Low>0.480586</Low>
+    <Close>0.502735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-05</Date>
+    <Open>0.50354</Open>
+    <High>0.507625</High>
+    <Low>0.49942</Low>
+    <Close>0.50373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-06</Date>
+    <Open>0.502815</Open>
+    <High>0.515731</High>
+    <Low>0.495925</Low>
+    <Close>0.496535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-07</Date>
+    <Open>0.496735</Open>
+    <High>0.496735</High>
+    <Low>0.478267</Low>
+    <Close>0.481558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-08</Date>
+    <Open>0.483397</Open>
+    <High>0.4865</High>
+    <Low>0.381911</Low>
+    <Close>0.404109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-09</Date>
+    <Open>0.402905</Open>
+    <High>0.409171</High>
+    <Low>0.286085</Low>
+    <Close>0.292478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-10</Date>
+    <Open>0.29432</Open>
+    <High>0.374425</High>
+    <Low>0.287834</Low>
+    <Close>0.35528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-11</Date>
+    <Open>0.355221</Open>
+    <High>0.400733</High>
+    <Low>0.321964</Low>
+    <Close>0.3318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-12</Date>
+    <Open>0.332098</Open>
+    <High>0.370225</High>
+    <Low>0.330173</Low>
+    <Close>0.339288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-13</Date>
+    <Open>0.339887</Open>
+    <High>0.34378</High>
+    <Low>0.313943</Low>
+    <Close>0.324046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-14</Date>
+    <Open>0.323447</Open>
+    <High>0.367921</High>
+    <Low>0.292161</Low>
+    <Close>0.318921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-15</Date>
+    <Open>0.318306</Open>
+    <High>0.335364</High>
+    <Low>0.315757</Low>
+    <Close>0.330569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-16</Date>
+    <Open>0.331195</Open>
+    <High>0.335917</High>
+    <Low>0.315877</Low>
+    <Close>0.327202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-17</Date>
+    <Open>0.327801</Open>
+    <High>0.32971</High>
+    <Low>0.313817</Low>
+    <Close>0.322542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-18</Date>
+    <Open>0.322751</Open>
+    <High>0.338522</High>
+    <Low>0.32073</Low>
+    <Close>0.330619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-19</Date>
+    <Open>0.330519</Open>
+    <High>0.394562</High>
+    <Low>0.328582</Low>
+    <Close>0.347435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-20</Date>
+    <Open>0.348138</Open>
+    <High>0.393059</High>
+    <Low>0.330407</Low>
+    <Close>0.330796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-21</Date>
+    <Open>0.331898</Open>
+    <High>0.336261</High>
+    <Low>0.311822</Low>
+    <Close>0.320515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-22</Date>
+    <Open>0.320715</Open>
+    <High>0.335284</High>
+    <Low>0.3122</Low>
+    <Close>0.333166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-23</Date>
+    <Open>0.334082</Open>
+    <High>0.371214</High>
+    <Low>0.333762</Low>
+    <Close>0.355209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-24</Date>
+    <Open>0.356315</Open>
+    <High>0.365301</High>
+    <Low>0.339604</Low>
+    <Close>0.359198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-25</Date>
+    <Open>0.359095</Open>
+    <High>0.378908</High>
+    <Low>0.345923</Low>
+    <Close>0.364585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-26</Date>
+    <Open>0.364392</Open>
+    <High>0.366487</High>
+    <Low>0.357271</Low>
+    <Close>0.360687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-27</Date>
+    <Open>0.360687</Open>
+    <High>0.364111</High>
+    <Low>0.358074</Low>
+    <Close>0.362575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-28</Date>
+    <Open>0.36088</Open>
+    <High>0.36088</High>
+    <Low>0.338614</Low>
+    <Close>0.345665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-29</Date>
+    <Open>0.346268</Open>
+    <High>0.35328</High>
+    <Low>0.343059</Low>
+    <Close>0.352166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-11-30</Date>
+    <Open>0.352869</Open>
+    <High>0.366837</High>
+    <Low>0.351184</Low>
+    <Close>0.365822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-01</Date>
+    <Open>0.365011</Open>
+    <High>0.368029</High>
+    <Low>0.357196</Low>
+    <Close>0.360522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-02</Date>
+    <Open>0.360322</Open>
+    <High>0.363751</High>
+    <Low>0.349538</Low>
+    <Close>0.361822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-03</Date>
+    <Open>0.362222</Open>
+    <High>0.369326</High>
+    <Low>0.355943</Low>
+    <Close>0.361772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-04</Date>
+    <Open>0.361536</Open>
+    <High>0.377075</High>
+    <Low>0.357571</Low>
+    <Close>0.368737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-05</Date>
+    <Open>0.369274</Open>
+    <High>0.380538</High>
+    <Low>0.358321</Low>
+    <Close>0.361011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-06</Date>
+    <Open>0.360911</Open>
+    <High>0.362311</High>
+    <Low>0.356032</Low>
+    <Close>0.359096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-07</Date>
+    <Open>0.3599</Open>
+    <High>0.3626</High>
+    <Low>0.337124</Low>
+    <Close>0.3412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-08</Date>
+    <Open>0.342603</Open>
+    <High>0.362336</High>
+    <Low>0.3382</Low>
+    <Close>0.348224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-09</Date>
+    <Open>0.348524</Open>
+    <High>0.354225</High>
+    <Low>0.347717</Low>
+    <Close>0.348717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-10</Date>
+    <Open>0.348617</Open>
+    <High>0.3571</High>
+    <Low>0.347197</Low>
+    <Close>0.355393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-11</Date>
+    <Open>0.356896</Open>
+    <High>0.3576</High>
+    <Low>0.35017</Low>
+    <Close>0.35017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-12</Date>
+    <Open>0.349935</Open>
+    <High>0.352135</High>
+    <Low>0.332607</Low>
+    <Close>0.341424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-13</Date>
+    <Open>0.341724</Open>
+    <High>0.348335</High>
+    <Low>0.328785</Low>
+    <Close>0.347313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-14</Date>
+    <Open>0.347417</Open>
+    <High>0.351633</High>
+    <Low>0.34162</Low>
+    <Close>0.345024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-15</Date>
+    <Open>0.3441</Open>
+    <High>0.345435</High>
+    <Low>0.333933</Low>
+    <Close>0.333933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-16</Date>
+    <Open>0.333533</Open>
+    <High>0.337434</High>
+    <Low>0.30063</Low>
+    <Close>0.30063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-17</Date>
+    <Open>0.30013</Open>
+    <High>0.30106</High>
+    <Low>0.274236</Low>
+    <Close>0.287737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-18</Date>
+    <Open>0.288135</Open>
+    <High>0.298015</High>
+    <Low>0.28412</Low>
+    <Close>0.291838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-19</Date>
+    <Open>0.291438</Open>
+    <High>0.308749</High>
+    <Low>0.2619</Low>
+    <Close>0.264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-20</Date>
+    <Open>0.263997</Open>
+    <High>0.293832</High>
+    <Low>0.263003</Low>
+    <Close>0.288523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-21</Date>
+    <Open>0.290512</Open>
+    <High>0.32</High>
+    <Low>0.285509</Low>
+    <Close>0.291415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-22</Date>
+    <Open>0.290915</Open>
+    <High>0.304403</High>
+    <Low>0.28396</Low>
+    <Close>0.29115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-23</Date>
+    <Open>0.291353</Open>
+    <High>0.301215</High>
+    <Low>0.288554</Low>
+    <Close>0.298067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-24</Date>
+    <Open>0.298967</Open>
+    <High>0.349469</High>
+    <Low>0.297179</Low>
+    <Close>0.312587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-25</Date>
+    <Open>0.311078</Open>
+    <High>0.311781</High>
+    <Low>0.297567</Low>
+    <Close>0.300061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-26</Date>
+    <Open>0.300164</Open>
+    <High>0.301067</High>
+    <Low>0.289071</Low>
+    <Close>0.292436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-27</Date>
+    <Open>0.293347</Open>
+    <High>0.294438</High>
+    <Low>0.28259</Low>
+    <Close>0.284098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-28</Date>
+    <Open>0.283884</Open>
+    <High>0.285183</High>
+    <Low>0.263776</Low>
+    <Close>0.265459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-29</Date>
+    <Open>0.264657</Open>
+    <High>0.267364</High>
+    <Low>0.25437</Low>
+    <Close>0.26118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-30</Date>
+    <Open>0.260683</Open>
+    <High>0.263179</High>
+    <Low>0.249075</Low>
+    <Close>0.255167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2022-12-31</Date>
+    <Open>0.255275</Open>
+    <High>0.266167</High>
+    <Low>0.253576</Low>
+    <Close>0.258268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-01</Date>
+    <Open>0.258768</Open>
+    <High>0.260393</High>
+    <Low>0.25507</Low>
+    <Close>0.26008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-02</Date>
+    <Open>0.260783</Open>
+    <High>0.265089</High>
+    <Low>0.256597</Low>
+    <Close>0.264315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-03</Date>
+    <Open>0.264615</Open>
+    <High>0.265412</High>
+    <Low>0.259691</Low>
+    <Close>0.263702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-04</Date>
+    <Open>0.264397</Open>
+    <High>0.282784</High>
+    <Low>0.263897</Low>
+    <Close>0.271908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-05</Date>
+    <Open>0.27211</Open>
+    <High>0.273812</High>
+    <Low>0.266415</Low>
+    <Close>0.269198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-06</Date>
+    <Open>0.269403</Open>
+    <High>0.269892</High>
+    <Low>0.258297</Low>
+    <Close>0.267217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-07</Date>
+    <Open>0.267414</Open>
+    <High>0.270524</High>
+    <Low>0.267412</Low>
+    <Close>0.26833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-08</Date>
+    <Open>0.268433</Open>
+    <High>0.273945</High>
+    <Low>0.267055</Low>
+    <Close>0.272959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-09</Date>
+    <Open>0.273051</Open>
+    <High>0.291083</High>
+    <Low>0.272848</Low>
+    <Close>0.287997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-10</Date>
+    <Open>0.2878</Open>
+    <High>0.312372</High>
+    <Low>0.281786</Low>
+    <Close>0.289641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-11</Date>
+    <Open>0.289941</Open>
+    <High>0.313094</High>
+    <Low>0.289343</Low>
+    <Close>0.302997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-12</Date>
+    <Open>0.302982</Open>
+    <High>0.309122</High>
+    <Low>0.292885</Low>
+    <Close>0.306231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-13</Date>
+    <Open>0.305631</Open>
+    <High>0.321742</High>
+    <Low>0.304354</Low>
+    <Close>0.319329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-14</Date>
+    <Open>0.319122</Open>
+    <High>0.349149</High>
+    <Low>0.316732</Low>
+    <Close>0.339314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-15</Date>
+    <Open>0.338534</Open>
+    <High>0.399056</High>
+    <Low>0.338534</Low>
+    <Close>0.355307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-16</Date>
+    <Open>0.356003</Open>
+    <High>0.394718</High>
+    <Low>0.343928</Low>
+    <Close>0.358504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-17</Date>
+    <Open>0.358707</Open>
+    <High>0.363704</High>
+    <Low>0.348077</Low>
+    <Close>0.36134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-18</Date>
+    <Open>0.360436</Open>
+    <High>0.461769</High>
+    <Low>0.35845</Low>
+    <Close>0.368778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-19</Date>
+    <Open>0.370678</Open>
+    <High>0.370678</High>
+    <Low>0.34529</Low>
+    <Close>0.364889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-20</Date>
+    <Open>0.364426</Open>
+    <High>0.380869</High>
+    <Low>0.357589</Low>
+    <Close>0.380265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-21</Date>
+    <Open>0.380368</Open>
+    <High>0.390763</High>
+    <Low>0.376664</Low>
+    <Close>0.384261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-22</Date>
+    <Open>0.383861</Open>
+    <High>0.400076</High>
+    <Low>0.378068</Low>
+    <Close>0.389078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-23</Date>
+    <Open>0.388678</Open>
+    <High>0.395251</High>
+    <Low>0.383735</Low>
+    <Close>0.393059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-24</Date>
+    <Open>0.393163</Open>
+    <High>0.405941</High>
+    <Low>0.385015</Low>
+    <Close>0.385512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-25</Date>
+    <Open>0.385631</Open>
+    <High>0.394771</High>
+    <Low>0.362269</Low>
+    <Close>0.384365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-26</Date>
+    <Open>0.386566</Open>
+    <High>0.392359</High>
+    <Low>0.380827</Low>
+    <Close>0.388123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-27</Date>
+    <Open>0.388135</Open>
+    <High>0.430912</High>
+    <Low>0.386658</Low>
+    <Close>0.418646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-28</Date>
+    <Open>0.419843</Open>
+    <High>0.430172</High>
+    <Low>0.401292</Low>
+    <Close>0.407481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-29</Date>
+    <Open>0.40779</Open>
+    <High>0.419288</High>
+    <Low>0.403077</Low>
+    <Close>0.412121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-30</Date>
+    <Open>0.413308</Open>
+    <High>0.417013</High>
+    <Low>0.377719</Low>
+    <Close>0.382827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-01-31</Date>
+    <Open>0.382327</Open>
+    <High>0.391912</High>
+    <Low>0.377274</Low>
+    <Close>0.389939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-01</Date>
+    <Open>0.389023</Open>
+    <High>0.404128</High>
+    <Low>0.372204</Low>
+    <Close>0.403924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-02</Date>
+    <Open>0.403524</Open>
+    <High>0.426077</High>
+    <Low>0.40006</Low>
+    <Close>0.408278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-03</Date>
+    <Open>0.41079</Open>
+    <High>0.425609</High>
+    <Low>0.406241</Low>
+    <Close>0.42313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-04</Date>
+    <Open>0.423238</Open>
+    <High>0.626031</High>
+    <Low>0.422334</Low>
+    <Close>0.542149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-05</Date>
+    <Open>0.542343</Open>
+    <High>0.552644</High>
+    <Low>0.456923</Low>
+    <Close>0.468217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-06</Date>
+    <Open>0.469617</Open>
+    <High>0.47932</High>
+    <Low>0.441909</Low>
+    <Close>0.450118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-07</Date>
+    <Open>0.450018</Open>
+    <High>0.455932</High>
+    <Low>0.437217</Low>
+    <Close>0.452532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-08</Date>
+    <Open>0.456995</Open>
+    <High>0.461428</High>
+    <Low>0.4461</Low>
+    <Close>0.448022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-09</Date>
+    <Open>0.4421</Open>
+    <High>0.456582</High>
+    <Low>0.413107</Low>
+    <Close>0.414741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-10</Date>
+    <Open>0.414941</Open>
+    <High>0.43841</High>
+    <Low>0.414541</Low>
+    <Close>0.43206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-11</Date>
+    <Open>0.432169</Open>
+    <High>0.439853</High>
+    <Low>0.430052</Low>
+    <Close>0.438344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-12</Date>
+    <Open>0.438244</Open>
+    <High>0.443235</High>
+    <Low>0.428964</Low>
+    <Close>0.432326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-13</Date>
+    <Open>0.432043</Open>
+    <High>0.432882</High>
+    <Low>0.398195</Low>
+    <Close>0.409125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-14</Date>
+    <Open>0.408925</Open>
+    <High>0.423182</High>
+    <Low>0.39946</Low>
+    <Close>0.421664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-15</Date>
+    <Open>0.421368</Open>
+    <High>0.451577</High>
+    <Low>0.419413</Low>
+    <Close>0.450277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-16</Date>
+    <Open>0.449881</Open>
+    <High>0.469366</High>
+    <Low>0.436083</Low>
+    <Close>0.437449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-17</Date>
+    <Open>0.436657</Open>
+    <High>0.462042</High>
+    <Low>0.433143</Low>
+    <Close>0.457641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-18</Date>
+    <Open>0.45896</Open>
+    <High>0.465784</High>
+    <Low>0.452181</Low>
+    <Close>0.462074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-19</Date>
+    <Open>0.462179</Open>
+    <High>0.466975</High>
+    <Low>0.452227</Low>
+    <Close>0.465107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-20</Date>
+    <Open>0.464702</Open>
+    <High>0.488493</High>
+    <Low>0.454223</Low>
+    <Close>0.487444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-21</Date>
+    <Open>0.487434</Open>
+    <High>0.508763</High>
+    <Low>0.464193</Low>
+    <Close>0.471785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-22</Date>
+    <Open>0.470985</Open>
+    <High>0.484282</High>
+    <Low>0.449245</Low>
+    <Close>0.463937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-23</Date>
+    <Open>0.464105</Open>
+    <High>0.470638</High>
+    <Low>0.455891</Low>
+    <Close>0.463128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-24</Date>
+    <Open>0.463674</Open>
+    <High>0.571214</High>
+    <Low>0.463674</Low>
+    <Close>0.484695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-25</Date>
+    <Open>0.48529</Open>
+    <High>0.50682</High>
+    <Low>0.451959</Low>
+    <Close>0.463132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-26</Date>
+    <Open>0.462932</Open>
+    <High>0.464933</High>
+    <Low>0.452941</Low>
+    <Close>0.459537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-27</Date>
+    <Open>0.460141</Open>
+    <High>0.462128</High>
+    <Low>0.445145</Low>
+    <Close>0.453223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-02-28</Date>
+    <Open>0.452523</Open>
+    <High>0.458637</High>
+    <Low>0.446204</Low>
+    <Close>0.449299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-01</Date>
+    <Open>0.44889</Open>
+    <High>0.461318</High>
+    <Low>0.444658</Low>
+    <Close>0.458255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-02</Date>
+    <Open>0.458769</Open>
+    <High>0.460551</High>
+    <Low>0.430987</Low>
+    <Close>0.44154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-03</Date>
+    <Open>0.441809</Open>
+    <High>0.450541</High>
+    <Low>0.39746</Low>
+    <Close>0.419029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-04</Date>
+    <Open>0.419538</Open>
+    <High>0.422834</High>
+    <Low>0.408837</Low>
+    <Close>0.413933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-05</Date>
+    <Open>0.414133</Open>
+    <High>0.421021</High>
+    <Low>0.412121</Low>
+    <Close>0.415046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-06</Date>
+    <Open>0.41335</Open>
+    <High>0.415004</High>
+    <Low>0.395132</Low>
+    <Close>0.405176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-07</Date>
+    <Open>0.407259</Open>
+    <High>0.4076</High>
+    <Low>0.382985</Low>
+    <Close>0.385615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-08</Date>
+    <Open>0.385388</Open>
+    <High>0.39804</High>
+    <Low>0.375185</Low>
+    <Close>0.375185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-09</Date>
+    <Open>0.375447</Open>
+    <High>0.376866</High>
+    <Low>0.336329</Low>
+    <Close>0.343234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-10</Date>
+    <Open>0.342734</Open>
+    <High>0.345624</High>
+    <Low>0.323974</Low>
+    <Close>0.343643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-11</Date>
+    <Open>0.344332</Open>
+    <High>0.36043</High>
+    <Low>0.3327</Low>
+    <Close>0.342679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-12</Date>
+    <Open>0.342415</Open>
+    <High>0.361996</High>
+    <Low>0.334879</Low>
+    <Close>0.359595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-13</Date>
+    <Open>0.359359</Open>
+    <High>0.397235</High>
+    <Low>0.35768</Low>
+    <Close>0.393178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-14</Date>
+    <Open>0.392842</Open>
+    <High>0.419697</High>
+    <Low>0.383451</Low>
+    <Close>0.409155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-15</Date>
+    <Open>0.411249</Open>
+    <High>0.417209</High>
+    <Low>0.380832</Low>
+    <Close>0.393298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-16</Date>
+    <Open>0.392619</Open>
+    <High>0.404945</High>
+    <Low>0.390981</Low>
+    <Close>0.404865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-17</Date>
+    <Open>0.404088</Open>
+    <High>0.429986</High>
+    <Low>0.402123</Low>
+    <Close>0.429986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-18</Date>
+    <Open>0.429846</Open>
+    <High>0.433102</High>
+    <Low>0.413614</Low>
+    <Close>0.421875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-19</Date>
+    <Open>0.42136</Open>
+    <High>0.434177</High>
+    <Low>0.412327</Low>
+    <Close>0.433204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-20</Date>
+    <Open>0.432699</Open>
+    <High>0.542585</High>
+    <Low>0.432188</Low>
+    <Close>0.456054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-21</Date>
+    <Open>0.455456</Open>
+    <High>0.456652</High>
+    <Low>0.394366</Low>
+    <Close>0.413716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-22</Date>
+    <Open>0.413916</Open>
+    <High>0.415455</High>
+    <Low>0.383132</Low>
+    <Close>0.386649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-23</Date>
+    <Open>0.38668</Open>
+    <High>0.403867</High>
+    <Low>0.385766</Low>
+    <Close>0.40074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-24</Date>
+    <Open>0.401137</Open>
+    <High>0.403141</High>
+    <Low>0.385797</Low>
+    <Close>0.387106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-25</Date>
+    <Open>0.38753</Open>
+    <High>0.397789</High>
+    <Low>0.38577</Low>
+    <Close>0.390979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-26</Date>
+    <Open>0.39039</Open>
+    <High>0.396861</High>
+    <Low>0.387776</Low>
+    <Close>0.394245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-27</Date>
+    <Open>0.394451</Open>
+    <High>0.397341</High>
+    <Low>0.366846</Low>
+    <Close>0.373876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-28</Date>
+    <Open>0.372975</Open>
+    <High>0.383604</High>
+    <Low>0.368647</Low>
+    <Close>0.379344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-29</Date>
+    <Open>0.379548</Open>
+    <High>0.3999</High>
+    <Low>0.378959</Low>
+    <Close>0.399252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-30</Date>
+    <Open>0.39878</Open>
+    <High>0.463202</High>
+    <Low>0.398115</Low>
+    <Close>0.421018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-03-31</Date>
+    <Open>0.421518</Open>
+    <High>0.422014</High>
+    <Low>0.395319</Low>
+    <Close>0.411886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-01</Date>
+    <Open>0.412582</Open>
+    <High>0.424061</High>
+    <Low>0.410285</Low>
+    <Close>0.416254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-02</Date>
+    <Open>0.417171</Open>
+    <High>0.419072</High>
+    <Low>0.400872</Low>
+    <Close>0.406656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-03</Date>
+    <Open>0.406652</Open>
+    <High>0.449293</High>
+    <Low>0.394878</Low>
+    <Close>0.400556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-04</Date>
+    <Open>0.402369</Open>
+    <High>0.412169</High>
+    <Low>0.398479</Low>
+    <Close>0.408904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-05</Date>
+    <Open>0.409204</Open>
+    <High>0.425257</High>
+    <Low>0.404433</Low>
+    <Close>0.424857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-06</Date>
+    <Open>0.424348</Open>
+    <High>0.498244</High>
+    <Low>0.424306</Low>
+    <Close>0.434752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-07</Date>
+    <Open>0.434456</Open>
+    <High>0.437018</High>
+    <Low>0.413168</Low>
+    <Close>0.421616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-08</Date>
+    <Open>0.421412</Open>
+    <High>0.424075</High>
+    <Low>0.415712</Low>
+    <Close>0.417867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-09</Date>
+    <Open>0.418363</Open>
+    <High>0.419414</High>
+    <Low>0.409319</Low>
+    <Close>0.418647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-10</Date>
+    <Open>0.419089</Open>
+    <High>0.423596</High>
+    <Low>0.411289</Low>
+    <Close>0.421841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-11</Date>
+    <Open>0.422333</Open>
+    <High>0.426667</High>
+    <Low>0.420698</Low>
+    <Close>0.423519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-12</Date>
+    <Open>0.423419</Open>
+    <High>0.429216</High>
+    <Low>0.412075</Low>
+    <Close>0.418126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-13</Date>
+    <Open>0.418022</Open>
+    <High>0.430869</High>
+    <Low>0.414456</Low>
+    <Close>0.426822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-14</Date>
+    <Open>0.427306</Open>
+    <High>0.438882</High>
+    <Low>0.426324</Low>
+    <Close>0.435935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-15</Date>
+    <Open>0.436153</Open>
+    <High>0.439931</High>
+    <Low>0.431605</Low>
+    <Close>0.438694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-16</Date>
+    <Open>0.43839</Open>
+    <High>0.458171</High>
+    <Low>0.437176</Low>
+    <Close>0.456215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-17</Date>
+    <Open>0.456014</Open>
+    <High>0.48665</High>
+    <Low>0.443044</Low>
+    <Close>0.447606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-18</Date>
+    <Open>0.447364</Open>
+    <High>0.490279</High>
+    <Low>0.447364</Low>
+    <Close>0.466279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-19</Date>
+    <Open>0.465875</Open>
+    <High>0.487817</High>
+    <Low>0.43076</Low>
+    <Close>0.434922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-20</Date>
+    <Open>0.435435</Open>
+    <High>0.438557</High>
+    <Low>0.418863</Low>
+    <Close>0.422734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-21</Date>
+    <Open>0.42283</Open>
+    <High>0.433943</High>
+    <Low>0.41285</Low>
+    <Close>0.416858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-22</Date>
+    <Open>0.416154</Open>
+    <High>0.419295</High>
+    <Low>0.408608</Low>
+    <Close>0.417838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-23</Date>
+    <Open>0.418138</Open>
+    <High>0.423334</High>
+    <Low>0.407794</Low>
+    <Close>0.411021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-24</Date>
+    <Open>0.410804</Open>
+    <High>0.425634</High>
+    <Low>0.39362</Low>
+    <Close>0.404412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-25</Date>
+    <Open>0.405212</Open>
+    <High>0.410878</High>
+    <Low>0.391427</Low>
+    <Close>0.409694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-26</Date>
+    <Open>0.409598</Open>
+    <High>0.421287</High>
+    <Low>0.391251</Low>
+    <Close>0.404141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-27</Date>
+    <Open>0.404529</Open>
+    <High>0.412045</High>
+    <Low>0.39924</Low>
+    <Close>0.410156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-28</Date>
+    <Open>0.409931</Open>
+    <High>0.428037</High>
+    <Low>0.401993</Low>
+    <Close>0.410116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-29</Date>
+    <Open>0.410011</Open>
+    <High>0.413048</High>
+    <Low>0.406004</Low>
+    <Close>0.413039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-04-30</Date>
+    <Open>0.413444</Open>
+    <High>0.421027</High>
+    <Low>0.408845</Low>
+    <Close>0.412535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-01</Date>
+    <Open>0.412231</Open>
+    <High>0.41407</High>
+    <Low>0.394316</Low>
+    <Close>0.396403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-02</Date>
+    <Open>0.396207</Open>
+    <High>0.401937</High>
+    <Low>0.390904</Low>
+    <Close>0.401149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-03</Date>
+    <Open>0.400844</Open>
+    <High>0.402153</High>
+    <Low>0.388559</Low>
+    <Close>0.398508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-04</Date>
+    <Open>0.398892</Open>
+    <High>0.413879</High>
+    <Low>0.396235</Low>
+    <Close>0.402349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-05</Date>
+    <Open>0.402849</Open>
+    <High>0.410589</High>
+    <Low>0.399696</Low>
+    <Close>0.409172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-06</Date>
+    <Open>0.406874</Open>
+    <High>0.410949</High>
+    <Low>0.393417</Low>
+    <Close>0.398893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-07</Date>
+    <Open>0.399394</Open>
+    <High>0.400399</High>
+    <Low>0.391649</Low>
+    <Close>0.396363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-08</Date>
+    <Open>0.395566</Open>
+    <High>0.39577</High>
+    <Low>0.365774</Low>
+    <Close>0.368999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-09</Date>
+    <Open>0.36908</Open>
+    <High>0.374011</High>
+    <Low>0.3643</Low>
+    <Close>0.371471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-10</Date>
+    <Open>0.370567</Open>
+    <High>0.392031</High>
+    <Low>0.370567</Low>
+    <Close>0.381982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-11</Date>
+    <Open>0.381481</Open>
+    <High>0.384246</High>
+    <Low>0.357357</Low>
+    <Close>0.361625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-12</Date>
+    <Open>0.361361</Open>
+    <High>0.363863</High>
+    <Low>0.346546</Low>
+    <Close>0.360588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-13</Date>
+    <Open>0.360688</Open>
+    <High>0.37959</High>
+    <Low>0.360688</Low>
+    <Close>0.369285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-14</Date>
+    <Open>0.371486</Open>
+    <High>0.371523</High>
+    <Low>0.358215</Low>
+    <Close>0.362717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-15</Date>
+    <Open>0.364118</Open>
+    <High>0.369796</High>
+    <Low>0.363482</Low>
+    <Close>0.367457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-16</Date>
+    <Open>0.367257</Open>
+    <High>0.380066</High>
+    <Low>0.359816</Low>
+    <Close>0.364646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-17</Date>
+    <Open>0.364846</Open>
+    <High>0.371386</High>
+    <Low>0.361781</Low>
+    <Close>0.370248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-18</Date>
+    <Open>0.369585</Open>
+    <High>0.373049</High>
+    <Low>0.363445</Low>
+    <Close>0.366447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-19</Date>
+    <Open>0.365346</Open>
+    <High>0.36831</High>
+    <Low>0.364582</Low>
+    <Close>0.366406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-20</Date>
+    <Open>0.366483</Open>
+    <High>0.379152</High>
+    <Low>0.366056</Low>
+    <Close>0.368568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-21</Date>
+    <Open>0.368832</Open>
+    <High>0.368832</High>
+    <Low>0.363118</Low>
+    <Close>0.363718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-22</Date>
+    <Open>0.364118</Open>
+    <High>0.364519</High>
+    <Low>0.352676</Low>
+    <Close>0.360916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-23</Date>
+    <Open>0.36074</Open>
+    <High>0.367437</High>
+    <Low>0.357786</Low>
+    <Close>0.363522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-24</Date>
+    <Open>0.363433</Open>
+    <High>0.364129</High>
+    <Low>0.342366</Low>
+    <Close>0.345983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-25</Date>
+    <Open>0.346679</Open>
+    <High>0.347697</High>
+    <Low>0.340366</Low>
+    <Close>0.34591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-26</Date>
+    <Open>0.345607</Open>
+    <High>0.348808</High>
+    <Low>0.343531</Low>
+    <Close>0.34678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-27</Date>
+    <Open>0.34668</Open>
+    <High>0.349436</High>
+    <Low>0.345924</Low>
+    <Close>0.349436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="HIVE">
+    <Date>2023-05-28</Date>
+    <Open>0.34934</Open>
+    <High>0.354281</High>
+    <Low>0.348139</Low>
+    <Close>0.354081</Close>
+  </Cryptocurrency>
+</Root>

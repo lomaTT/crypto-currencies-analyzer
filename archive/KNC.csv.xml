@@ -1,0 +1,2880 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-11</Date>
+    <Open>3.92918</Open>
+    <High>4.14424</High>
+    <Low>3.87716</Low>
+    <Close>4.04821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-12</Date>
+    <Open>4.04721</Open>
+    <High>4.43833</High>
+    <Low>3.78276</Low>
+    <Close>3.84515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-13</Date>
+    <Open>3.84315</Open>
+    <High>3.9982</High>
+    <Low>3.6531</Low>
+    <Close>3.9862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-14</Date>
+    <Open>3.9922</Open>
+    <High>4.85246</High>
+    <Low>3.80614</Low>
+    <Close>4.4829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-15</Date>
+    <Open>4.48445</Open>
+    <High>4.70694</High>
+    <Low>4.28686</Low>
+    <Close>4.65193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-16</Date>
+    <Open>4.63393</Open>
+    <High>4.72594</High>
+    <Low>4.32086</Low>
+    <Close>4.37487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-17</Date>
+    <Open>4.37387</Open>
+    <High>4.79296</High>
+    <Low>4.11282</Low>
+    <Close>4.16683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-18</Date>
+    <Open>4.16808</Open>
+    <High>4.38988</High>
+    <Low>3.9808</Low>
+    <Close>4.36231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-19</Date>
+    <Open>4.35931</Open>
+    <High>4.51235</High>
+    <Low>4.21684</Low>
+    <Close>4.26185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-20</Date>
+    <Open>4.26085</Open>
+    <High>4.62192</High>
+    <Low>4.12041</Low>
+    <Close>4.32887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-21</Date>
+    <Open>4.32787</Open>
+    <High>5.07601</High>
+    <Low>4.25285</Low>
+    <Close>4.9615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-22</Date>
+    <Open>4.9625</Open>
+    <High>4.9685</High>
+    <Low>4.42889</Low>
+    <Close>4.80048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-23</Date>
+    <Open>4.80996</Open>
+    <High>5.28306</High>
+    <Low>4.61692</Low>
+    <Close>5.17852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-24</Date>
+    <Open>5.18504</Open>
+    <High>5.31053</High>
+    <Low>4.74447</Low>
+    <Close>4.84397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-25</Date>
+    <Open>4.84597</Open>
+    <High>5.10302</High>
+    <Low>4.57046</Low>
+    <Close>5.0455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-26</Date>
+    <Open>5.04901</Open>
+    <High>5.69914</High>
+    <Low>5.013</Low>
+    <Close>5.30453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-27</Date>
+    <Open>5.30553</Open>
+    <High>5.584</High>
+    <Low>5.09051</Low>
+    <Close>5.457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-28</Date>
+    <Open>5.45655</Open>
+    <High>5.75858</High>
+    <Low>5.181</Low>
+    <Close>5.595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-29</Date>
+    <Open>5.593</Open>
+    <High>5.738</High>
+    <Low>5.131</Low>
+    <Close>5.16052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-04-30</Date>
+    <Open>5.16052</Open>
+    <High>5.38854</High>
+    <Low>4.90749</Low>
+    <Close>5.06151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-01</Date>
+    <Open>5.06</Open>
+    <High>5.19852</High>
+    <Low>4.41444</Low>
+    <Close>4.499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-02</Date>
+    <Open>4.5</Open>
+    <High>4.69147</High>
+    <Low>3.927</Low>
+    <Close>4.0334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-03</Date>
+    <Open>4.037</Open>
+    <High>4.11</High>
+    <Low>3.55529</Low>
+    <Close>3.59164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-04</Date>
+    <Open>3.59064</Open>
+    <High>3.674</High>
+    <Low>3.20668</Low>
+    <Close>3.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-05</Date>
+    <Open>3.617</Open>
+    <High>3.81524</High>
+    <Low>2.9934</Low>
+    <Close>3.09638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-06</Date>
+    <Open>3.09738</Open>
+    <High>3.09969</High>
+    <Low>2.70946</Low>
+    <Close>2.9917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-07</Date>
+    <Open>2.9897</Open>
+    <High>3.11538</High>
+    <Low>2.63447</Low>
+    <Close>2.63447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-08</Date>
+    <Open>2.64474</Open>
+    <High>2.65647</High>
+    <Low>2.28209</Low>
+    <Close>2.40928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-09</Date>
+    <Open>2.40928</Open>
+    <High>2.5235</High>
+    <Low>2.08537</Low>
+    <Close>2.19856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-10</Date>
+    <Open>2.20556</Open>
+    <High>2.30654</High>
+    <Low>1.89724</Low>
+    <Close>1.91024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-11</Date>
+    <Open>1.90424</Open>
+    <High>2.05397</High>
+    <Low>1.3288</Low>
+    <Close>1.43069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-12</Date>
+    <Open>1.43666</Open>
+    <High>1.53284</High>
+    <Low>1.06713</Low>
+    <Close>1.25872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-13</Date>
+    <Open>1.2576</Open>
+    <High>1.88492</High>
+    <Low>1.23266</Low>
+    <Close>1.62423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-14</Date>
+    <Open>1.61225</Open>
+    <High>1.77997</High>
+    <Low>1.44396</Low>
+    <Close>1.57379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-15</Date>
+    <Open>1.57779</Open>
+    <High>1.68164</High>
+    <Low>1.54668</Low>
+    <Close>1.67399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-16</Date>
+    <Open>1.67599</Open>
+    <High>1.71711</High>
+    <Low>1.48292</Low>
+    <Close>1.59077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-17</Date>
+    <Open>1.59592</Open>
+    <High>2.01238</High>
+    <Low>1.51887</Low>
+    <Close>1.98941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-18</Date>
+    <Open>1.99141</Open>
+    <High>2.34395</High>
+    <Low>1.97643</Low>
+    <Close>2.14121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-19</Date>
+    <Open>2.14121</Open>
+    <High>2.45654</High>
+    <Low>1.9948</Low>
+    <Close>2.40459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-20</Date>
+    <Open>2.40559</Open>
+    <High>2.84372</High>
+    <Low>2.38062</Low>
+    <Close>2.62185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-21</Date>
+    <Open>2.61586</Open>
+    <High>2.69676</High>
+    <Low>2.45381</Low>
+    <Close>2.53071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-22</Date>
+    <Open>2.52571</Open>
+    <High>2.66553</High>
+    <Low>2.50274</Low>
+    <Close>2.53795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-23</Date>
+    <Open>2.54394</Open>
+    <High>2.59814</High>
+    <Low>2.30246</Low>
+    <Close>2.31821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-24</Date>
+    <Open>2.31722</Open>
+    <High>2.31898</High>
+    <Low>1.97163</Low>
+    <Close>2.17617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-25</Date>
+    <Open>2.17717</Open>
+    <High>2.31199</High>
+    <Low>2.02377</Low>
+    <Close>2.15541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-26</Date>
+    <Open>2.15841</Open>
+    <High>2.1604</High>
+    <Low>1.82998</Low>
+    <Close>1.99081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-27</Date>
+    <Open>1.98981</Open>
+    <High>2.01199</High>
+    <Low>1.75007</Low>
+    <Close>1.81518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-28</Date>
+    <Open>1.80794</Open>
+    <High>1.96758</High>
+    <Low>1.78156</Low>
+    <Close>1.90577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-29</Date>
+    <Open>1.90074</Open>
+    <High>1.93285</High>
+    <Low>1.7942</Low>
+    <Close>1.89192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-30</Date>
+    <Open>1.89311</Open>
+    <High>2.31338</High>
+    <Low>1.86095</Low>
+    <Close>2.25819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-05-31</Date>
+    <Open>2.26042</Open>
+    <High>2.47477</High>
+    <Low>2.1213</Low>
+    <Close>2.15228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-01</Date>
+    <Open>2.15232</Open>
+    <High>2.28433</High>
+    <Low>1.91889</Low>
+    <Close>1.94705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-02</Date>
+    <Open>1.94625</Open>
+    <High>2.01718</High>
+    <Low>1.89329</Low>
+    <Close>2.01718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-03</Date>
+    <Open>2.01918</Open>
+    <High>2.06314</High>
+    <Low>1.8483</Low>
+    <Close>1.93831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-04</Date>
+    <Open>1.93931</Open>
+    <High>1.94331</High>
+    <Low>1.83709</Low>
+    <Close>1.90155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-05</Date>
+    <Open>1.89957</Open>
+    <High>1.97442</High>
+    <Low>1.86047</Low>
+    <Close>1.92419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-06</Date>
+    <Open>1.92619</Open>
+    <High>2.06426</High>
+    <Low>1.88426</Low>
+    <Close>1.96934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-07</Date>
+    <Open>1.96635</Open>
+    <High>1.97534</High>
+    <Low>1.8055</Low>
+    <Close>1.94141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-08</Date>
+    <Open>1.94145</Open>
+    <High>1.95671</High>
+    <Low>1.84462</Low>
+    <Close>1.88677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-09</Date>
+    <Open>1.88777</Open>
+    <High>1.90355</High>
+    <Low>1.84154</Low>
+    <Close>1.89241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-10</Date>
+    <Open>1.89239</Open>
+    <High>1.89942</High>
+    <Low>1.73419</Low>
+    <Close>1.78871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-11</Date>
+    <Open>1.7907</Open>
+    <High>1.814</High>
+    <Low>1.57915</Low>
+    <Close>1.69109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-12</Date>
+    <Open>1.68909</Open>
+    <High>1.70108</High>
+    <Low>1.44895</Low>
+    <Close>1.50415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-13</Date>
+    <Open>1.50215</Open>
+    <High>1.50215</High>
+    <Low>1.16725</Low>
+    <Close>1.23228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-14</Date>
+    <Open>1.2313</Open>
+    <High>1.38753</High>
+    <Low>1.10934</Low>
+    <Close>1.31742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-15</Date>
+    <Open>1.31541</Open>
+    <High>1.48706</High>
+    <Low>1.28433</Low>
+    <Close>1.4618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-16</Date>
+    <Open>1.47379</Open>
+    <High>1.53116</High>
+    <Low>1.3324</Low>
+    <Close>1.3863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-17</Date>
+    <Open>1.34832</Open>
+    <High>1.4236</High>
+    <Low>1.32996</Low>
+    <Close>1.35757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-18</Date>
+    <Open>1.35788</Open>
+    <High>1.38152</High>
+    <Low>1.12736</Low>
+    <Close>1.20904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-19</Date>
+    <Open>1.20804</Open>
+    <High>1.32541</High>
+    <Low>1.15633</Low>
+    <Close>1.3033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-20</Date>
+    <Open>1.3061</Open>
+    <High>1.33</High>
+    <Low>1.2199</Low>
+    <Close>1.2736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-21</Date>
+    <Open>1.2716</Open>
+    <High>1.46439</High>
+    <Low>1.26361</Low>
+    <Close>1.38647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-22</Date>
+    <Open>1.38761</Open>
+    <High>1.3986</High>
+    <Low>1.2716</Low>
+    <Close>1.32767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-23</Date>
+    <Open>1.32767</Open>
+    <High>1.41858</High>
+    <Low>1.30869</Low>
+    <Close>1.37862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-24</Date>
+    <Open>1.38162</Open>
+    <High>1.49383</High>
+    <Low>1.38062</Low>
+    <Close>1.45786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-25</Date>
+    <Open>1.45854</Open>
+    <High>1.52799</High>
+    <Low>1.40306</Low>
+    <Close>1.51994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-26</Date>
+    <Open>1.52193</Open>
+    <High>1.54295</High>
+    <Low>1.43614</Low>
+    <Close>1.4731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-27</Date>
+    <Open>1.47409</Open>
+    <High>1.49198</High>
+    <Low>1.37372</Low>
+    <Close>1.41674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-28</Date>
+    <Open>1.41775</Open>
+    <High>1.49254</High>
+    <Low>1.35659</Low>
+    <Close>1.37031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-29</Date>
+    <Open>1.3703</Open>
+    <High>1.37432</High>
+    <Low>1.2753</Low>
+    <Close>1.3194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-06-30</Date>
+    <Open>1.32141</Open>
+    <High>1.32539</High>
+    <Low>1.17353</Low>
+    <Close>1.20156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-01</Date>
+    <Open>1.203</Open>
+    <High>1.2926</High>
+    <Low>1.1964</Low>
+    <Close>1.22595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-05</Date>
+    <Open>1.26848</Open>
+    <High>1.40032</High>
+    <Low>1.22453</Low>
+    <Close>1.37648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-06</Date>
+    <Open>1.37549</Open>
+    <High>1.42643</High>
+    <Low>1.34352</Low>
+    <Close>1.37948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-07</Date>
+    <Open>1.38048</Open>
+    <High>1.41587</High>
+    <Low>1.35637</Low>
+    <Close>1.40716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-08</Date>
+    <Open>1.40716</Open>
+    <High>1.43414</High>
+    <Low>1.35705</Low>
+    <Close>1.39116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-09</Date>
+    <Open>1.39017</Open>
+    <High>1.42215</High>
+    <Low>1.37304</Low>
+    <Close>1.40216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-10</Date>
+    <Open>1.40302</Open>
+    <High>1.40516</High>
+    <Low>1.31408</Low>
+    <Close>1.3302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-11</Date>
+    <Open>1.33036</Open>
+    <High>1.33036</High>
+    <Low>1.26499</Low>
+    <Close>1.27785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-12</Date>
+    <Open>1.2791</Open>
+    <High>1.2791</High>
+    <Low>1.20567</Low>
+    <Close>1.20779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-13</Date>
+    <Open>1.21623</Open>
+    <High>1.28561</High>
+    <Low>1.18582</Low>
+    <Close>1.24897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-14</Date>
+    <Open>1.24897</Open>
+    <High>1.32927</High>
+    <Low>1.22542</Low>
+    <Close>1.32031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-15</Date>
+    <Open>1.32041</Open>
+    <High>1.45503</High>
+    <Low>1.31131</Low>
+    <Close>1.43097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-16</Date>
+    <Open>1.43097</Open>
+    <High>1.44147</High>
+    <Low>1.331</Low>
+    <Close>1.39168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-17</Date>
+    <Open>1.39222</Open>
+    <High>1.40843</High>
+    <Low>1.3496</Low>
+    <Close>1.38074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-18</Date>
+    <Open>1.38053</Open>
+    <High>1.46775</High>
+    <Low>1.35089</Low>
+    <Close>1.41877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-19</Date>
+    <Open>1.41877</Open>
+    <High>1.62873</High>
+    <Low>1.41086</Low>
+    <Close>1.53765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-20</Date>
+    <Open>1.5371</Open>
+    <High>1.58173</High>
+    <Low>1.42056</Low>
+    <Close>1.47827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-21</Date>
+    <Open>1.47917</Open>
+    <High>1.48451</High>
+    <Low>1.36177</Low>
+    <Close>1.46475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-22</Date>
+    <Open>1.47247</Open>
+    <High>1.49506</High>
+    <Low>1.38923</Low>
+    <Close>1.39541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-23</Date>
+    <Open>1.4019</Open>
+    <High>1.46992</High>
+    <Low>1.37727</Low>
+    <Close>1.41057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-24</Date>
+    <Open>1.41044</Open>
+    <High>1.46556</High>
+    <Low>1.4028</Low>
+    <Close>1.44169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-25</Date>
+    <Open>1.44169</Open>
+    <High>1.49371</High>
+    <Low>1.3635</Low>
+    <Close>1.38522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-26</Date>
+    <Open>1.38971</Open>
+    <High>1.39303</High>
+    <Low>1.28573</Low>
+    <Close>1.3182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-27</Date>
+    <Open>1.318</Open>
+    <High>1.41563</High>
+    <Low>1.31356</Low>
+    <Close>1.41164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-28</Date>
+    <Open>1.41174</Open>
+    <High>1.50259</High>
+    <Low>1.40437</Low>
+    <Close>1.4888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-29</Date>
+    <Open>1.50102</Open>
+    <High>1.6691</High>
+    <Low>1.48841</Low>
+    <Close>1.62847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-30</Date>
+    <Open>1.62957</Open>
+    <High>1.72742</High>
+    <Low>1.61142</Low>
+    <Close>1.61485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-07-31</Date>
+    <Open>1.61458</Open>
+    <High>1.6299</High>
+    <Low>1.55795</Low>
+    <Close>1.57926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-01</Date>
+    <Open>1.57817</Open>
+    <High>1.60838</High>
+    <Low>1.51581</Low>
+    <Close>1.53956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-02</Date>
+    <Open>1.55307</Open>
+    <High>1.63214</High>
+    <Low>1.46834</Low>
+    <Close>1.50656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-03</Date>
+    <Open>1.50646</Open>
+    <High>1.52173</High>
+    <Low>1.4418</Low>
+    <Close>1.50678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-04</Date>
+    <Open>1.50435</Open>
+    <High>1.52519</High>
+    <Low>1.4514</Low>
+    <Close>1.50036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-05</Date>
+    <Open>1.50095</Open>
+    <High>1.62206</High>
+    <Low>1.48417</Low>
+    <Close>1.5901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-06</Date>
+    <Open>1.59</Open>
+    <High>1.61691</High>
+    <Low>1.56003</Low>
+    <Close>1.57255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-07</Date>
+    <Open>1.57255</Open>
+    <High>1.58228</High>
+    <Low>1.54722</Low>
+    <Close>1.57588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-08</Date>
+    <Open>1.5846</Open>
+    <High>1.63141</High>
+    <Low>1.56437</Low>
+    <Close>1.60231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-09</Date>
+    <Open>1.60129</Open>
+    <High>1.63993</High>
+    <Low>1.49298</Low>
+    <Close>1.53121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-10</Date>
+    <Open>1.53121</Open>
+    <High>1.61097</High>
+    <Low>1.48404</Low>
+    <Close>1.60236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-11</Date>
+    <Open>1.60238</Open>
+    <High>1.75909</High>
+    <Low>1.59538</Low>
+    <Close>1.68239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-12</Date>
+    <Open>1.68239</Open>
+    <High>1.69525</High>
+    <Low>1.62391</Low>
+    <Close>1.68387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-13</Date>
+    <Open>1.68326</Open>
+    <High>1.7386</High>
+    <Low>1.67322</Low>
+    <Close>1.72417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-14</Date>
+    <Open>1.72417</Open>
+    <High>1.73246</High>
+    <Low>1.63663</Low>
+    <Close>1.6654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-15</Date>
+    <Open>1.66377</Open>
+    <High>1.7772</High>
+    <Low>1.63282</Low>
+    <Close>1.67452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-16</Date>
+    <Open>1.67872</Open>
+    <High>1.68822</High>
+    <Low>1.59679</Low>
+    <Close>1.65405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-17</Date>
+    <Open>1.65403</Open>
+    <High>1.7012</High>
+    <Low>1.54557</Low>
+    <Close>1.66762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-18</Date>
+    <Open>1.66692</Open>
+    <High>1.79794</High>
+    <Low>1.6234</Low>
+    <Close>1.78382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-19</Date>
+    <Open>1.78308</Open>
+    <High>1.84828</High>
+    <Low>1.6715</Low>
+    <Close>1.74407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-20</Date>
+    <Open>1.74537</Open>
+    <High>1.81539</High>
+    <Low>1.70852</Low>
+    <Close>1.76618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-21</Date>
+    <Open>1.76886</Open>
+    <High>1.81395</High>
+    <Low>1.7176</Low>
+    <Close>1.78906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-22</Date>
+    <Open>1.78976</Open>
+    <High>1.9151</High>
+    <Low>1.76172</Low>
+    <Close>1.87976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-23</Date>
+    <Open>1.87776</Open>
+    <High>1.94988</High>
+    <Low>1.82008</Low>
+    <Close>1.89904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-24</Date>
+    <Open>1.89881</Open>
+    <High>1.9721</High>
+    <Low>1.83417</Low>
+    <Close>1.87127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-25</Date>
+    <Open>1.88537</Open>
+    <High>1.88919</High>
+    <Low>1.77662</Low>
+    <Close>1.83015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-26</Date>
+    <Open>1.83015</Open>
+    <High>1.83095</High>
+    <Low>1.70256</Low>
+    <Close>1.73897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-27</Date>
+    <Open>1.73897</Open>
+    <High>1.82663</High>
+    <Low>1.68427</Low>
+    <Close>1.80095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-28</Date>
+    <Open>1.79714</Open>
+    <High>1.81552</High>
+    <Low>1.69228</Low>
+    <Close>1.6924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-29</Date>
+    <Open>1.6882</Open>
+    <High>1.70362</High>
+    <Low>1.62305</Low>
+    <Close>1.69852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-30</Date>
+    <Open>1.69874</Open>
+    <High>1.77657</High>
+    <Low>1.65182</Low>
+    <Close>1.75596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-08-31</Date>
+    <Open>1.75614</Open>
+    <High>1.76166</High>
+    <Low>1.71065</Low>
+    <Close>1.75688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-01</Date>
+    <Open>1.75648</Open>
+    <High>1.78692</High>
+    <Low>1.67987</Low>
+    <Close>1.76669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-02</Date>
+    <Open>1.77519</Open>
+    <High>1.81903</High>
+    <Low>1.7446</Low>
+    <Close>1.79717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-03</Date>
+    <Open>1.79719</Open>
+    <High>1.80081</High>
+    <Low>1.697</Low>
+    <Close>1.7015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-04</Date>
+    <Open>1.70167</Open>
+    <High>1.71357</High>
+    <Low>1.6662</Low>
+    <Close>1.6874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-05</Date>
+    <Open>1.6873</Open>
+    <High>1.6955</High>
+    <Low>1.6339</Low>
+    <Close>1.66027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-06</Date>
+    <Open>1.66027</Open>
+    <High>1.7336</High>
+    <Low>1.65307</Low>
+    <Close>1.6801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-07</Date>
+    <Open>1.6793</Open>
+    <High>1.74649</High>
+    <Low>1.67003</Low>
+    <Close>1.73922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-08</Date>
+    <Open>1.7387</Open>
+    <High>1.79969</High>
+    <Low>1.72827</Low>
+    <Close>1.77618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-09</Date>
+    <Open>1.7754</Open>
+    <High>1.8817</High>
+    <Low>1.76414</Low>
+    <Close>1.84431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-10</Date>
+    <Open>1.84437</Open>
+    <High>2.01346</High>
+    <Low>1.82643</Low>
+    <Close>1.98968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-11</Date>
+    <Open>2.0045</Open>
+    <High>2.08983</High>
+    <Low>1.95844</Low>
+    <Close>1.98738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-12</Date>
+    <Open>1.9872</Open>
+    <High>2.02006</High>
+    <Low>1.89484</Low>
+    <Close>1.90544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-13</Date>
+    <Open>1.90497</Open>
+    <High>2.00094</High>
+    <Low>1.82635</Low>
+    <Close>1.96674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-14</Date>
+    <Open>1.9691</Open>
+    <High>2.01324</High>
+    <Low>1.87449</Low>
+    <Close>1.94839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-15</Date>
+    <Open>1.94569</Open>
+    <High>2.05928</High>
+    <Low>1.87361</Low>
+    <Close>2.00792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-16</Date>
+    <Open>2.01492</Open>
+    <High>2.05096</High>
+    <Low>1.89182</Low>
+    <Close>1.90011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-17</Date>
+    <Open>1.90011</Open>
+    <High>1.995</High>
+    <Low>1.87591</Low>
+    <Close>1.8825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-18</Date>
+    <Open>1.8832</Open>
+    <High>1.9322</High>
+    <Low>1.26227</Low>
+    <Close>1.3781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-19</Date>
+    <Open>1.374</Open>
+    <High>1.45555</High>
+    <Low>1.3193</Low>
+    <Close>1.40434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-20</Date>
+    <Open>1.40424</Open>
+    <High>1.42194</High>
+    <Low>1.2921</Low>
+    <Close>1.29303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-21</Date>
+    <Open>1.29321</Open>
+    <High>1.34673</High>
+    <Low>1.2032</Low>
+    <Close>1.2094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-22</Date>
+    <Open>1.2093</Open>
+    <High>1.259</High>
+    <Low>1.1935</Low>
+    <Close>1.2406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-23</Date>
+    <Open>1.24752</Open>
+    <High>1.2751</High>
+    <Low>1.16928</Low>
+    <Close>1.209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-24</Date>
+    <Open>1.20962</Open>
+    <High>1.22758</High>
+    <Low>1.19522</Low>
+    <Close>1.2012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-25</Date>
+    <Open>1.2011</Open>
+    <High>1.22086</High>
+    <Low>1.17342</Low>
+    <Close>1.1808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-26</Date>
+    <Open>1.1712</Open>
+    <High>1.17288</High>
+    <Low>1.1222</Low>
+    <Close>1.1631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-27</Date>
+    <Open>1.1631</Open>
+    <High>1.2089</High>
+    <Low>1.124</Low>
+    <Close>1.13879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-28</Date>
+    <Open>1.13879</Open>
+    <High>1.1529</High>
+    <Low>1.08909</Low>
+    <Close>1.1431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-29</Date>
+    <Open>1.1431</Open>
+    <High>1.1479</High>
+    <Low>1.1111</Low>
+    <Close>1.14281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-09-30</Date>
+    <Open>1.14281</Open>
+    <High>1.19504</High>
+    <Low>1.13761</Low>
+    <Close>1.1615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-01</Date>
+    <Open>1.1605</Open>
+    <High>1.19312</High>
+    <Low>1.1541</Low>
+    <Close>1.1628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-02</Date>
+    <Open>1.1631</Open>
+    <High>1.1859</High>
+    <Low>1.1239</Low>
+    <Close>1.1339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-03</Date>
+    <Open>1.13081</Open>
+    <High>1.14571</High>
+    <Low>1.1043</Low>
+    <Close>1.14251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-04</Date>
+    <Open>1.14291</Open>
+    <High>1.16345</High>
+    <Low>1.13261</Low>
+    <Close>1.15845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-05</Date>
+    <Open>1.15843</Open>
+    <High>1.15885</High>
+    <Low>1.12432</Low>
+    <Close>1.14203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-06</Date>
+    <Open>1.14203</Open>
+    <High>1.17086</High>
+    <Low>1.12824</Low>
+    <Close>1.12899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-07</Date>
+    <Open>1.12879</Open>
+    <High>1.14751</High>
+    <Low>1.11642</Low>
+    <Close>1.13046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-08</Date>
+    <Open>1.13041</Open>
+    <High>1.14078</High>
+    <Low>1.1203</Low>
+    <Close>1.12169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-09</Date>
+    <Open>1.12169</Open>
+    <High>1.13763</High>
+    <Low>1.1181</Low>
+    <Close>1.13133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-10</Date>
+    <Open>1.13153</Open>
+    <High>1.14261</High>
+    <Low>1.09299</Low>
+    <Close>1.10339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-11</Date>
+    <Open>1.1034</Open>
+    <High>1.1034</High>
+    <Low>1.01231</Low>
+    <Close>1.02321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-12</Date>
+    <Open>1.02321</Open>
+    <High>1.03606</High>
+    <Low>1.00713</Low>
+    <Close>1.02783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-13</Date>
+    <Open>1.0278</Open>
+    <High>1.02793</High>
+    <Low>0.8828</Low>
+    <Close>0.96529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-14</Date>
+    <Open>0.96569</Open>
+    <High>0.98216</High>
+    <Low>0.924718</Low>
+    <Close>0.924928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-15</Date>
+    <Open>0.924028</Open>
+    <High>0.972139</High>
+    <Low>0.908882</Low>
+    <Close>0.933847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-16</Date>
+    <Open>0.9329</Open>
+    <High>0.96591</High>
+    <Low>0.914555</Low>
+    <Close>0.935947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-17</Date>
+    <Open>0.936347</Open>
+    <High>0.951986</High>
+    <Low>0.921646</Low>
+    <Close>0.944919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-18</Date>
+    <Open>0.944919</Open>
+    <High>0.955938</High>
+    <Low>0.912409</Low>
+    <Close>0.928537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-19</Date>
+    <Open>0.932693</Open>
+    <High>0.935175</High>
+    <Low>0.888418</Low>
+    <Close>0.9035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-20</Date>
+    <Open>0.903491</Open>
+    <High>0.904827</High>
+    <Low>0.840741</Low>
+    <Close>0.847141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-21</Date>
+    <Open>0.848715</Open>
+    <High>0.855909</High>
+    <Low>0.803092</Low>
+    <Close>0.849568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-22</Date>
+    <Open>0.849559</Open>
+    <High>0.852977</High>
+    <Low>0.832642</Low>
+    <Close>0.842476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-23</Date>
+    <Open>0.841376</Open>
+    <High>0.854494</High>
+    <Low>0.825925</Low>
+    <Close>0.850419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-24</Date>
+    <Open>0.851019</Open>
+    <High>0.872579</High>
+    <Low>0.830717</Low>
+    <Close>0.837033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-25</Date>
+    <Open>0.841134</Open>
+    <High>0.891903</High>
+    <Low>0.83415</Low>
+    <Close>0.871279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-26</Date>
+    <Open>0.871287</Open>
+    <High>0.922749</High>
+    <Low>0.865634</Low>
+    <Close>0.922358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-27</Date>
+    <Open>0.922558</Open>
+    <High>0.944098</High>
+    <Low>0.892171</Low>
+    <Close>0.901954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-28</Date>
+    <Open>0.901854</Open>
+    <High>0.912519</High>
+    <Low>0.866935</Low>
+    <Close>0.9086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-29</Date>
+    <Open>0.907581</Open>
+    <High>0.942105</High>
+    <Low>0.901416</Low>
+    <Close>0.918111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-30</Date>
+    <Open>0.91702</Open>
+    <High>0.978076</High>
+    <Low>0.904662</Low>
+    <Close>0.918584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-10-31</Date>
+    <Open>0.916983</Open>
+    <High>0.934</High>
+    <Low>0.896291</Low>
+    <Close>0.913227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-01</Date>
+    <Open>0.913545</Open>
+    <High>0.925124</High>
+    <Low>0.891948</Low>
+    <Close>0.89581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-02</Date>
+    <Open>0.89581</Open>
+    <High>0.914308</High>
+    <Low>0.846749</Low>
+    <Close>0.859866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-03</Date>
+    <Open>0.859848</Open>
+    <High>0.89651</High>
+    <Low>0.855657</Low>
+    <Close>0.877091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-04</Date>
+    <Open>0.879</Open>
+    <High>0.951186</High>
+    <Low>0.869491</Low>
+    <Close>0.946976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-05</Date>
+    <Open>0.946876</Open>
+    <High>0.976998</High>
+    <Low>0.944394</Low>
+    <Close>0.959658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-06</Date>
+    <Open>0.956719</Open>
+    <High>0.961848</High>
+    <Low>0.898899</Low>
+    <Close>0.903372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-07</Date>
+    <Open>0.903163</Open>
+    <High>0.903163</High>
+    <Low>0.862912</Low>
+    <Close>0.868213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-08</Date>
+    <Open>0.875062</Open>
+    <High>0.8847</High>
+    <Low>0.592569</Low>
+    <Close>0.682742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-09</Date>
+    <Open>0.682842</Open>
+    <High>0.706705</High>
+    <Low>0.504708</Low>
+    <Close>0.508317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-10</Date>
+    <Open>0.511458</Open>
+    <High>0.695465</High>
+    <Low>0.506712</Low>
+    <Close>0.641337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-11</Date>
+    <Open>0.641592</Open>
+    <High>0.735132</High>
+    <Low>0.574346</Low>
+    <Close>0.617478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-12</Date>
+    <Open>0.617332</Open>
+    <High>0.63306</High>
+    <Low>0.571569</Low>
+    <Close>0.571869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-13</Date>
+    <Open>0.571869</Open>
+    <High>0.610234</High>
+    <Low>0.555853</Low>
+    <Close>0.585479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-14</Date>
+    <Open>0.586795</Open>
+    <High>0.588193</High>
+    <Low>0.533798</Low>
+    <Close>0.575893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-15</Date>
+    <Open>0.578003</Open>
+    <High>0.64965</High>
+    <Low>0.575207</Low>
+    <Close>0.616083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-16</Date>
+    <Open>0.615248</Open>
+    <High>0.639131</High>
+    <Low>0.595628</Low>
+    <Close>0.61233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-17</Date>
+    <Open>0.613341</Open>
+    <High>0.626754</High>
+    <Low>0.59962</Low>
+    <Close>0.607925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-18</Date>
+    <Open>0.607426</Open>
+    <High>0.617793</High>
+    <Low>0.59079</Low>
+    <Close>0.596108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-19</Date>
+    <Open>0.595514</Open>
+    <High>0.616265</High>
+    <Low>0.584245</Low>
+    <Close>0.614261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-20</Date>
+    <Open>0.614161</Open>
+    <High>0.650054</High>
+    <Low>0.581215</Low>
+    <Close>0.58441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-21</Date>
+    <Open>0.584416</Open>
+    <High>0.584428</High>
+    <Low>0.539873</Low>
+    <Close>0.555932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-22</Date>
+    <Open>0.555932</Open>
+    <High>0.565583</High>
+    <Low>0.529143</Low>
+    <Close>0.563983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-23</Date>
+    <Open>0.565409</Open>
+    <High>0.625118</High>
+    <Low>0.562813</Low>
+    <Close>0.62302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-24</Date>
+    <Open>0.623014</Open>
+    <High>0.644249</High>
+    <Low>0.600835</Low>
+    <Close>0.621777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-25</Date>
+    <Open>0.62267</Open>
+    <High>0.623295</High>
+    <Low>0.599462</Low>
+    <Close>0.611451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-26</Date>
+    <Open>0.611445</Open>
+    <High>0.649504</High>
+    <Low>0.611445</Low>
+    <Close>0.625831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-27</Date>
+    <Open>0.624631</Open>
+    <High>0.663688</High>
+    <Low>0.621839</Low>
+    <Close>0.658878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-28</Date>
+    <Open>0.658936</Open>
+    <High>0.663461</High>
+    <Low>0.604622</Low>
+    <Close>0.618465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-29</Date>
+    <Open>0.618371</Open>
+    <High>0.633277</High>
+    <Low>0.607257</Low>
+    <Close>0.62117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-11-30</Date>
+    <Open>0.62167</Open>
+    <High>0.74895</High>
+    <Low>0.619158</Low>
+    <Close>0.719836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-01</Date>
+    <Open>0.720529</Open>
+    <High>0.722558</High>
+    <Low>0.665647</Low>
+    <Close>0.67264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-02</Date>
+    <Open>0.67244</Open>
+    <High>0.681161</High>
+    <Low>0.651572</Low>
+    <Close>0.66534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-03</Date>
+    <Open>0.66534</Open>
+    <High>0.66916</High>
+    <Low>0.625425</Low>
+    <Close>0.633863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-04</Date>
+    <Open>0.635227</Open>
+    <High>0.665467</High>
+    <Low>0.632727</Low>
+    <Close>0.655766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-05</Date>
+    <Open>0.655631</Open>
+    <High>0.66958</High>
+    <Low>0.644832</Low>
+    <Close>0.647613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-06</Date>
+    <Open>0.6431</Open>
+    <High>0.685769</High>
+    <Low>0.6426</Low>
+    <Close>0.671193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-07</Date>
+    <Open>0.6712</Open>
+    <High>0.6754</High>
+    <Low>0.616788</Low>
+    <Close>0.6226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-08</Date>
+    <Open>0.622406</Open>
+    <High>0.636734</High>
+    <Low>0.609061</Low>
+    <Close>0.633544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-09</Date>
+    <Open>0.633444</Open>
+    <High>0.636751</High>
+    <Low>0.621431</Low>
+    <Close>0.622919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-10</Date>
+    <Open>0.622925</Open>
+    <High>0.6349</High>
+    <Low>0.622825</Low>
+    <Close>0.630087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-11</Date>
+    <Open>0.630087</Open>
+    <High>0.657913</High>
+    <Low>0.630087</Low>
+    <Close>0.637264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-12</Date>
+    <Open>0.637127</Open>
+    <High>0.6423</High>
+    <Low>0.60283</Low>
+    <Close>0.621056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-13</Date>
+    <Open>0.62115</Open>
+    <High>0.639746</High>
+    <Low>0.59396</Low>
+    <Close>0.633448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-14</Date>
+    <Open>0.633548</Open>
+    <High>0.648729</High>
+    <Low>0.618694</Low>
+    <Close>0.624944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-15</Date>
+    <Open>0.624944</Open>
+    <High>0.625463</High>
+    <Low>0.60486</Low>
+    <Close>0.606721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-16</Date>
+    <Open>0.606721</Open>
+    <High>0.619224</High>
+    <Low>0.526653</Low>
+    <Close>0.543309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-17</Date>
+    <Open>0.543454</Open>
+    <High>0.551972</High>
+    <Low>0.519778</Low>
+    <Close>0.533269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-18</Date>
+    <Open>0.540822</Open>
+    <High>0.542622</High>
+    <Low>0.534916</Low>
+    <Close>0.53517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-19</Date>
+    <Open>0.539586</Open>
+    <High>0.539635</High>
+    <Low>0.495225</Low>
+    <Close>0.498595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-20</Date>
+    <Open>0.498695</Open>
+    <High>0.539511</High>
+    <Low>0.498695</Low>
+    <Close>0.534921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-21</Date>
+    <Open>0.534927</Open>
+    <High>0.537722</High>
+    <Low>0.51781</Low>
+    <Close>0.522526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-22</Date>
+    <Open>0.522426</Open>
+    <High>0.526811</High>
+    <Low>0.507254</Low>
+    <Close>0.522011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-23</Date>
+    <Open>0.522011</Open>
+    <High>0.529768</High>
+    <Low>0.520617</Low>
+    <Close>0.523248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-24</Date>
+    <Open>0.523248</Open>
+    <High>0.531547</High>
+    <Low>0.523248</Low>
+    <Close>0.528863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-25</Date>
+    <Open>0.528953</Open>
+    <High>0.535068</High>
+    <Low>0.519538</Low>
+    <Close>0.523232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-26</Date>
+    <Open>0.523437</Open>
+    <High>0.532647</High>
+    <Low>0.523437</Low>
+    <Close>0.529694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-27</Date>
+    <Open>0.529694</Open>
+    <High>0.536966</High>
+    <Low>0.516504</Low>
+    <Close>0.520692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-28</Date>
+    <Open>0.520697</Open>
+    <High>0.52409</High>
+    <Low>0.497881</Low>
+    <Close>0.500729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-29</Date>
+    <Open>0.500734</Open>
+    <High>0.504617</High>
+    <Low>0.473991</Low>
+    <Close>0.478385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-30</Date>
+    <Open>0.477885</Open>
+    <High>0.483577</High>
+    <Low>0.454868</Low>
+    <Close>0.455172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2022-12-31</Date>
+    <Open>0.454968</Open>
+    <High>0.45868</High>
+    <Low>0.446577</Low>
+    <Close>0.457371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-01</Date>
+    <Open>0.456572</Open>
+    <High>0.459616</High>
+    <Low>0.447349</Low>
+    <Close>0.458384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-02</Date>
+    <Open>0.458325</Open>
+    <High>0.473848</High>
+    <Low>0.447612</Low>
+    <Close>0.471054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-03</Date>
+    <Open>0.471144</Open>
+    <High>0.474586</High>
+    <Low>0.462896</Low>
+    <Close>0.466718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-04</Date>
+    <Open>0.466618</Open>
+    <High>0.492693</High>
+    <Low>0.466518</Low>
+    <Close>0.484135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-05</Date>
+    <Open>0.48414</Open>
+    <High>0.493357</High>
+    <Low>0.482607</Low>
+    <Close>0.48453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-06</Date>
+    <Open>0.484426</Open>
+    <High>0.494547</High>
+    <Low>0.47116</Low>
+    <Close>0.491348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-07</Date>
+    <Open>0.490743</Open>
+    <High>0.503464</High>
+    <Low>0.490643</Low>
+    <Close>0.49928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-08</Date>
+    <Open>0.497651</Open>
+    <High>0.510723</High>
+    <Low>0.494216</Low>
+    <Close>0.510239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-09</Date>
+    <Open>0.510039</Open>
+    <High>0.551745</High>
+    <Low>0.510034</Low>
+    <Close>0.533495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-10</Date>
+    <Open>0.5334</Open>
+    <High>0.554039</High>
+    <Low>0.519574</Low>
+    <Close>0.548377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-11</Date>
+    <Open>0.545087</Open>
+    <High>0.562694</High>
+    <Low>0.53903</Low>
+    <Close>0.557989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-12</Date>
+    <Open>0.557961</Open>
+    <High>0.591259</High>
+    <Low>0.5473</Low>
+    <Close>0.586559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-13</Date>
+    <Open>0.586553</Open>
+    <High>0.607767</High>
+    <Low>0.574146</Low>
+    <Close>0.601454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-14</Date>
+    <Open>0.601054</Open>
+    <High>0.783396</High>
+    <Low>0.595942</Low>
+    <Close>0.726636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-15</Date>
+    <Open>0.726636</Open>
+    <High>0.81343</High>
+    <Low>0.69804</Low>
+    <Close>0.730519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-16</Date>
+    <Open>0.731392</Open>
+    <High>0.755034</High>
+    <Low>0.699089</Low>
+    <Close>0.732315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-17</Date>
+    <Open>0.732315</Open>
+    <High>0.758891</High>
+    <Low>0.725365</Low>
+    <Close>0.737381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-18</Date>
+    <Open>0.737381</Open>
+    <High>0.792879</High>
+    <Low>0.670693</Low>
+    <Close>0.737463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-19</Date>
+    <Open>0.738056</Open>
+    <High>0.801912</High>
+    <Low>0.713486</Low>
+    <Close>0.791876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-20</Date>
+    <Open>0.791668</Open>
+    <High>0.854779</High>
+    <Low>0.785584</Low>
+    <Close>0.843443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-21</Date>
+    <Open>0.842852</Open>
+    <High>0.907063</High>
+    <Low>0.830874</Low>
+    <Close>0.856971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-22</Date>
+    <Open>0.856929</Open>
+    <High>0.862669</High>
+    <Low>0.793051</Low>
+    <Close>0.810362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-23</Date>
+    <Open>0.810354</Open>
+    <High>0.8342</High>
+    <Low>0.799964</Low>
+    <Close>0.820123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-24</Date>
+    <Open>0.820115</Open>
+    <High>0.87504</High>
+    <Low>0.775024</Low>
+    <Close>0.784116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-25</Date>
+    <Open>0.785524</Open>
+    <High>0.807134</High>
+    <Low>0.745504</Low>
+    <Close>0.785926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-26</Date>
+    <Open>0.785634</Open>
+    <High>0.818515</High>
+    <Low>0.766223</Low>
+    <Close>0.784778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-27</Date>
+    <Open>0.784671</Open>
+    <High>0.837009</High>
+    <Low>0.760721</Low>
+    <Close>0.821903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-28</Date>
+    <Open>0.820687</Open>
+    <High>0.840619</High>
+    <Low>0.783472</Low>
+    <Close>0.790558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-29</Date>
+    <Open>0.790558</Open>
+    <High>0.834608</High>
+    <Low>0.789474</Low>
+    <Close>0.828341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-30</Date>
+    <Open>0.827941</Open>
+    <High>0.849551</High>
+    <Low>0.721893</Low>
+    <Close>0.734851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-01-31</Date>
+    <Open>0.733244</Open>
+    <High>0.815441</High>
+    <Low>0.727356</Low>
+    <Close>0.792171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-01</Date>
+    <Open>0.795164</Open>
+    <High>0.823941</High>
+    <Low>0.756808</Low>
+    <Close>0.820149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-02</Date>
+    <Open>0.820141</Open>
+    <High>0.866169</High>
+    <Low>0.810365</Low>
+    <Close>0.823265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-03</Date>
+    <Open>0.823265</Open>
+    <High>0.847142</High>
+    <Low>0.81463</Low>
+    <Close>0.829866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-04</Date>
+    <Open>0.829866</Open>
+    <High>0.931965</High>
+    <Low>0.829158</Low>
+    <Close>0.908173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-05</Date>
+    <Open>0.907673</Open>
+    <High>0.921075</High>
+    <Low>0.81452</Low>
+    <Close>0.836309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-06</Date>
+    <Open>0.836609</Open>
+    <High>0.957992</High>
+    <Low>0.836309</Low>
+    <Close>0.889936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-07</Date>
+    <Open>0.889936</Open>
+    <High>0.912136</High>
+    <Low>0.857343</Low>
+    <Close>0.907464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-08</Date>
+    <Open>0.910355</Open>
+    <High>0.938591</High>
+    <Low>0.868222</Low>
+    <Close>0.913873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-09</Date>
+    <Open>0.910455</Open>
+    <High>0.922818</High>
+    <Low>0.774916</Low>
+    <Close>0.782378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-10</Date>
+    <Open>0.784078</Open>
+    <High>0.805626</High>
+    <Low>0.776486</Low>
+    <Close>0.787718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-11</Date>
+    <Open>0.788018</Open>
+    <High>0.817582</High>
+    <Low>0.780494</Low>
+    <Close>0.817174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-12</Date>
+    <Open>0.817974</Open>
+    <High>0.830475</High>
+    <Low>0.780209</Low>
+    <Close>0.789279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-13</Date>
+    <Open>0.788679</Open>
+    <High>0.79518</High>
+    <Low>0.7237</Low>
+    <Close>0.744602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-14</Date>
+    <Open>0.74511</Open>
+    <High>0.786911</High>
+    <Low>0.737168</Low>
+    <Close>0.784598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-15</Date>
+    <Open>0.785914</Open>
+    <High>0.850119</High>
+    <Low>0.771839</Low>
+    <Close>0.845752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-16</Date>
+    <Open>0.844052</Open>
+    <High>0.869874</High>
+    <Low>0.812054</Low>
+    <Close>0.818178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-17</Date>
+    <Open>0.818415</Open>
+    <High>0.855986</High>
+    <Low>0.801496</Low>
+    <Close>0.840984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-18</Date>
+    <Open>0.840984</Open>
+    <High>0.879611</High>
+    <Low>0.840826</Low>
+    <Close>0.866839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-19</Date>
+    <Open>0.866839</Open>
+    <High>0.896134</High>
+    <Low>0.837467</Low>
+    <Close>0.8692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-20</Date>
+    <Open>0.869291</Open>
+    <High>0.903981</High>
+    <Low>0.839552</Low>
+    <Close>0.896436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-21</Date>
+    <Open>0.895736</Open>
+    <High>0.908036</High>
+    <Low>0.848961</Low>
+    <Close>0.851945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-22</Date>
+    <Open>0.852445</Open>
+    <High>0.883268</High>
+    <Low>0.814881</Low>
+    <Close>0.842308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-23</Date>
+    <Open>0.842308</Open>
+    <High>0.879923</High>
+    <Low>0.842308</Low>
+    <Close>0.852711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-24</Date>
+    <Open>0.853028</Open>
+    <High>0.896734</High>
+    <Low>0.831175</Low>
+    <Close>0.852883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-25</Date>
+    <Open>0.852683</Open>
+    <High>0.954724</High>
+    <Low>0.846308</Low>
+    <Close>0.929865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-26</Date>
+    <Open>0.929565</Open>
+    <High>0.969687</High>
+    <Low>0.891389</Low>
+    <Close>0.900654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-27</Date>
+    <Open>0.900645</Open>
+    <High>0.917137</High>
+    <Low>0.860469</Low>
+    <Close>0.866552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-02-28</Date>
+    <Open>0.866252</Open>
+    <High>0.877518</High>
+    <Low>0.835508</Low>
+    <Close>0.851245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-01</Date>
+    <Open>0.85037</Open>
+    <High>0.868178</High>
+    <Low>0.827183</Low>
+    <Close>0.865513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-02</Date>
+    <Open>0.865204</Open>
+    <High>0.869713</High>
+    <Low>0.806392</Low>
+    <Close>0.822374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-03</Date>
+    <Open>0.822566</Open>
+    <High>0.824174</High>
+    <Low>0.729251</Low>
+    <Close>0.757145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-04</Date>
+    <Open>0.757661</Open>
+    <High>0.771639</High>
+    <Low>0.715136</Low>
+    <Close>0.733959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-05</Date>
+    <Open>0.732159</Open>
+    <High>0.75316</High>
+    <Low>0.729629</Low>
+    <Close>0.735681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-06</Date>
+    <Open>0.734288</Open>
+    <High>0.74343</High>
+    <Low>0.700742</Low>
+    <Close>0.734156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-07</Date>
+    <Open>0.734156</Open>
+    <High>0.744</High>
+    <Low>0.702451</Low>
+    <Close>0.702565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-08</Date>
+    <Open>0.7257</Open>
+    <High>0.727993</High>
+    <Low>0.663373</Low>
+    <Close>0.663373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-09</Date>
+    <Open>0.662434</Open>
+    <High>0.697642</High>
+    <Low>0.613571</Low>
+    <Close>0.618456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-10</Date>
+    <Open>0.622562</Open>
+    <High>0.625519</High>
+    <Low>0.572854</Low>
+    <Close>0.609657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-11</Date>
+    <Open>0.609851</Open>
+    <High>0.636252</High>
+    <Low>0.570401</Low>
+    <Close>0.598105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-12</Date>
+    <Open>0.598082</Open>
+    <High>0.6482</High>
+    <Low>0.59044</Low>
+    <Close>0.645998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-13</Date>
+    <Open>0.661211</Open>
+    <High>0.717184</High>
+    <Low>0.638672</Low>
+    <Close>0.715744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-14</Date>
+    <Open>0.715895</Open>
+    <High>0.76776</High>
+    <Low>0.689083</Low>
+    <Close>0.734908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-15</Date>
+    <Open>0.736889</Open>
+    <High>0.750711</High>
+    <Low>0.657544</Low>
+    <Close>0.673202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-16</Date>
+    <Open>0.675425</Open>
+    <High>0.689757</High>
+    <Low>0.664969</Low>
+    <Close>0.685302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-17</Date>
+    <Open>0.685088</Open>
+    <High>0.743387</High>
+    <Low>0.684241</Low>
+    <Close>0.739512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-18</Date>
+    <Open>0.739505</Open>
+    <High>0.768161</High>
+    <Low>0.715426</Low>
+    <Close>0.735299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-19</Date>
+    <Open>0.736703</Open>
+    <High>0.77339</High>
+    <Low>0.72226</Low>
+    <Close>0.752473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-20</Date>
+    <Open>0.754364</Open>
+    <High>0.765714</High>
+    <Low>0.715653</Low>
+    <Close>0.732873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-21</Date>
+    <Open>0.725669</Open>
+    <High>0.749211</High>
+    <Low>0.692688</Low>
+    <Close>0.729527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-22</Date>
+    <Open>0.72952</Open>
+    <High>0.738641</High>
+    <Low>0.675058</Low>
+    <Close>0.694197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-23</Date>
+    <Open>0.694197</Open>
+    <High>0.733684</High>
+    <Low>0.690843</Low>
+    <Close>0.720703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-24</Date>
+    <Open>0.720596</Open>
+    <High>0.725948</High>
+    <Low>0.684197</Low>
+    <Close>0.692699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-25</Date>
+    <Open>0.692468</Open>
+    <High>0.698491</High>
+    <Low>0.673667</Low>
+    <Close>0.685664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-26</Date>
+    <Open>0.685064</Open>
+    <High>0.709531</High>
+    <Low>0.683155</Low>
+    <Close>0.701592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-27</Date>
+    <Open>0.701771</Open>
+    <High>0.708286</High>
+    <Low>0.649096</Low>
+    <Close>0.66041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-28</Date>
+    <Open>0.66051</Open>
+    <High>0.675635</High>
+    <Low>0.649488</Low>
+    <Close>0.669561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-29</Date>
+    <Open>0.669554</Open>
+    <High>0.752851</High>
+    <Low>0.665593</Low>
+    <Close>0.734239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-30</Date>
+    <Open>0.73472</Open>
+    <High>0.748224</High>
+    <Low>0.700826</Low>
+    <Close>0.711099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-03-31</Date>
+    <Open>0.711099</Open>
+    <High>0.730665</High>
+    <Low>0.694064</Low>
+    <Close>0.723745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-01</Date>
+    <Open>0.723852</Open>
+    <High>0.754247</High>
+    <Low>0.723552</Low>
+    <Close>0.742667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-02</Date>
+    <Open>0.742567</Open>
+    <High>0.759219</High>
+    <Low>0.704802</Low>
+    <Close>0.708039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-03</Date>
+    <Open>0.707839</Open>
+    <High>0.731539</High>
+    <Low>0.692945</Low>
+    <Close>0.705782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-04</Date>
+    <Open>0.706482</Open>
+    <High>0.745538</High>
+    <Low>0.706482</Low>
+    <Close>0.735475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-05</Date>
+    <Open>0.742771</Open>
+    <High>0.77421</High>
+    <Low>0.732508</Low>
+    <Close>0.768276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-06</Date>
+    <Open>0.768084</Open>
+    <High>0.790074</High>
+    <Low>0.755119</Low>
+    <Close>0.769969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-07</Date>
+    <Open>0.769877</Open>
+    <High>0.792596</High>
+    <Low>0.764235</Low>
+    <Close>0.782479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-08</Date>
+    <Open>0.783988</Open>
+    <High>0.817135</High>
+    <Low>0.780907</Low>
+    <Close>0.809015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-09</Date>
+    <Open>0.808715</Open>
+    <High>0.846231</High>
+    <Low>0.760241</Low>
+    <Close>0.786427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-10</Date>
+    <Open>0.78645</Open>
+    <High>0.7941</High>
+    <Low>0.761765</Low>
+    <Close>0.787545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-11</Date>
+    <Open>0.787946</Open>
+    <High>0.792341</High>
+    <Low>0.776505</Low>
+    <Close>0.784276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-12</Date>
+    <Open>0.784276</Open>
+    <High>0.784552</High>
+    <Low>0.744859</Low>
+    <Close>0.763095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-13</Date>
+    <Open>0.763795</Open>
+    <High>0.785255</High>
+    <Low>0.755457</Low>
+    <Close>0.783351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-14</Date>
+    <Open>0.783351</Open>
+    <High>0.802782</High>
+    <Low>0.771963</Low>
+    <Close>0.792457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-15</Date>
+    <Open>0.792557</Open>
+    <High>0.797273</High>
+    <Low>0.777623</Low>
+    <Close>0.783705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-16</Date>
+    <Open>0.783397</Open>
+    <High>0.800928</High>
+    <Low>0.771763</Low>
+    <Close>0.798743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-17</Date>
+    <Open>0.798443</Open>
+    <High>0.801152</High>
+    <Low>0.757278</Low>
+    <Close>0.76265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-18</Date>
+    <Open>0.762557</Open>
+    <High>0.797511</High>
+    <Low>0.75854</Low>
+    <Close>0.783333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-19</Date>
+    <Open>0.786218</Open>
+    <High>0.789239</High>
+    <Low>0.707692</Low>
+    <Close>0.716587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-20</Date>
+    <Open>0.716279</Open>
+    <High>0.743705</High>
+    <Low>0.685044</Low>
+    <Close>0.695156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-21</Date>
+    <Open>0.698349</Open>
+    <High>0.716578</High>
+    <Low>0.675972</Low>
+    <Close>0.686225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-22</Date>
+    <Open>0.681132</Open>
+    <High>0.708964</High>
+    <Low>0.67913</Low>
+    <Close>0.707264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-23</Date>
+    <Open>0.707264</Open>
+    <High>0.711357</High>
+    <Low>0.67831</Low>
+    <Close>0.690935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-24</Date>
+    <Open>0.690735</Open>
+    <High>0.708778</High>
+    <Low>0.680761</Low>
+    <Close>0.693914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-25</Date>
+    <Open>0.693921</Open>
+    <High>0.70057</High>
+    <Low>0.66878</Low>
+    <Close>0.69696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-26</Date>
+    <Open>0.69696</Open>
+    <High>0.7253</High>
+    <Low>0.652324</Low>
+    <Close>0.687534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-27</Date>
+    <Open>0.678017</Open>
+    <High>0.718922</High>
+    <Low>0.677317</Low>
+    <Close>0.711749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-28</Date>
+    <Open>0.711728</Open>
+    <High>0.712142</High>
+    <Low>0.688769</Low>
+    <Close>0.70204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-29</Date>
+    <Open>0.701733</Open>
+    <High>0.722627</High>
+    <Low>0.701011</Low>
+    <Close>0.715615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-04-30</Date>
+    <Open>0.715622</Open>
+    <High>0.715858</High>
+    <Low>0.696955</Low>
+    <Close>0.696997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-01</Date>
+    <Open>0.691187</Open>
+    <High>0.697041</High>
+    <Low>0.66218</Low>
+    <Close>0.669274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-02</Date>
+    <Open>0.669081</Open>
+    <High>0.67852</High>
+    <Low>0.663973</Low>
+    <Close>0.67852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-03</Date>
+    <Open>0.678514</Open>
+    <High>0.678514</High>
+    <Low>0.653503</Low>
+    <Close>0.66848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-04</Date>
+    <Open>0.668881</Open>
+    <High>0.681977</High>
+    <Low>0.659637</Low>
+    <Close>0.659637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-05</Date>
+    <Open>0.659637</Open>
+    <High>0.684522</High>
+    <Low>0.659337</Low>
+    <Close>0.684522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-06</Date>
+    <Open>0.684522</Open>
+    <High>0.689789</High>
+    <Low>0.648517</Low>
+    <Close>0.66185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-07</Date>
+    <Open>0.661423</Open>
+    <High>0.663506</High>
+    <Low>0.650861</Low>
+    <Close>0.652869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-08</Date>
+    <Open>0.653344</Open>
+    <High>0.656981</High>
+    <Low>0.575297</Low>
+    <Close>0.584944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-09</Date>
+    <Open>0.584638</Open>
+    <High>0.608769</High>
+    <Low>0.583614</Low>
+    <Close>0.604104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-10</Date>
+    <Open>0.603772</Open>
+    <High>0.623785</High>
+    <Low>0.585744</Low>
+    <Close>0.619018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-11</Date>
+    <Open>0.618156</Open>
+    <High>0.622722</High>
+    <Low>0.585285</Low>
+    <Close>0.592492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-12</Date>
+    <Open>0.592492</Open>
+    <High>0.602202</High>
+    <Low>0.570228</Low>
+    <Close>0.596277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-13</Date>
+    <Open>0.596277</Open>
+    <High>0.603502</High>
+    <Low>0.590595</Low>
+    <Close>0.596858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-14</Date>
+    <Open>0.597298</Open>
+    <High>0.605803</High>
+    <Low>0.588994</Low>
+    <Close>0.596157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-15</Date>
+    <Open>0.596157</Open>
+    <High>0.616231</High>
+    <Low>0.593656</Low>
+    <Close>0.612729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-16</Date>
+    <Open>0.612729</Open>
+    <High>0.612729</High>
+    <Low>0.598139</Low>
+    <Close>0.602501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-17</Date>
+    <Open>0.602441</Open>
+    <High>0.626651</High>
+    <Low>0.593337</Low>
+    <Close>0.623349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-18</Date>
+    <Open>0.623412</Open>
+    <High>0.625413</High>
+    <Low>0.605282</Low>
+    <Close>0.614346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-19</Date>
+    <Open>0.614346</Open>
+    <High>0.63982</High>
+    <Low>0.613845</Low>
+    <Close>0.620886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-20</Date>
+    <Open>0.62101</Open>
+    <High>0.625212</High>
+    <Low>0.613868</Low>
+    <Close>0.616855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-21</Date>
+    <Open>0.616855</Open>
+    <High>0.62072</High>
+    <Low>0.597098</Low>
+    <Close>0.602761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-22</Date>
+    <Open>0.603201</Open>
+    <High>0.610466</High>
+    <Low>0.587594</Low>
+    <Close>0.609204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-23</Date>
+    <Open>0.608985</Open>
+    <High>0.628482</High>
+    <Low>0.608403</Low>
+    <Close>0.624931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-24</Date>
+    <Open>0.624937</Open>
+    <High>0.640326</High>
+    <Low>0.594047</Low>
+    <Close>0.598664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-25</Date>
+    <Open>0.59887</Open>
+    <High>0.604188</High>
+    <Low>0.580871</Low>
+    <Close>0.601518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-26</Date>
+    <Open>0.602441</Open>
+    <High>0.607922</High>
+    <Low>0.591147</Low>
+    <Close>0.607021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-27</Date>
+    <Open>0.605282</Open>
+    <High>0.615466</High>
+    <Low>0.603775</Low>
+    <Close>0.611126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="KNC">
+    <Date>2023-05-28</Date>
+    <Open>0.611083</Open>
+    <High>0.646481</High>
+    <Low>0.610844</Low>
+    <Close>0.633246</Close>
+  </Cryptocurrency>
+</Root>

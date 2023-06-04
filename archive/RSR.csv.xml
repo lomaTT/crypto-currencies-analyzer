@@ -1,0 +1,2600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-05-24</Date>
+    <Open>0.00670262</Open>
+    <High>0.00761162</High>
+    <Low>0.00555388</Low>
+    <Close>0.00608208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-05-25</Date>
+    <Open>0.00608208</Open>
+    <High>0.00685108</High>
+    <Low>0.00578305</Low>
+    <Close>0.00581302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-05-26</Date>
+    <Open>0.00580303</Open>
+    <High>0.00597342</High>
+    <Low>0.00485417</Low>
+    <Close>0.00514485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-05-27</Date>
+    <Open>0.00514433</Open>
+    <High>0.00570429</High>
+    <Low>0.00465487</Low>
+    <Close>0.00545399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-05-28</Date>
+    <Open>0.00545378</Open>
+    <High>0.00583334</High>
+    <Low>0.00516421</Low>
+    <Close>0.0052938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-05-29</Date>
+    <Open>0.00527372</Open>
+    <High>0.0068827</High>
+    <Low>0.00491503</Low>
+    <Close>0.0065428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-05-30</Date>
+    <Open>0.00655278</Open>
+    <High>0.00844239</High>
+    <Low>0.0065127</Low>
+    <Close>0.00752398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-05-31</Date>
+    <Open>0.00755471</Open>
+    <High>0.00784372</High>
+    <Low>0.00669397</Low>
+    <Close>0.00683384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-01</Date>
+    <Open>0.00682467</Open>
+    <High>0.00729416</High>
+    <Low>0.00611327</Low>
+    <Close>0.00614446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-02</Date>
+    <Open>0.0061547</Open>
+    <High>0.00714357</High>
+    <Low>0.00590468</Low>
+    <Close>0.00697372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-03</Date>
+    <Open>0.00696373</Open>
+    <High>0.00723443</High>
+    <Low>0.00628478</Low>
+    <Close>0.00710381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-04</Date>
+    <Open>0.00711381</Open>
+    <High>0.00774334</High>
+    <Low>0.00693285</Low>
+    <Close>0.00741436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-05</Date>
+    <Open>0.00740444</Open>
+    <High>0.00746328</High>
+    <Low>0.00681427</Low>
+    <Close>0.00693348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-06</Date>
+    <Open>0.00694347</Open>
+    <High>0.00772258</High>
+    <Low>0.00678369</Low>
+    <Close>0.00740378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-07</Date>
+    <Open>0.00739378</Open>
+    <High>0.0138675</High>
+    <Low>0.00673441</Low>
+    <Close>0.00957214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-08</Date>
+    <Open>0.0096223</Open>
+    <High>0.0110326</High>
+    <Low>0.00850421</Low>
+    <Close>0.00877429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-09</Date>
+    <Open>0.00879428</Open>
+    <High>0.0090533</High>
+    <Low>0.00791303</Low>
+    <Close>0.0079733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-10</Date>
+    <Open>0.00798321</Open>
+    <High>0.00947061</High>
+    <Low>0.00741325</Low>
+    <Close>0.0090484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-11</Date>
+    <Open>0.00906838</Open>
+    <High>0.00957945</High>
+    <Low>0.00754132</Low>
+    <Close>0.00796099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-12</Date>
+    <Open>0.00796091</Open>
+    <High>0.00811082</High>
+    <Low>0.00654149</Low>
+    <Close>0.00722111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-13</Date>
+    <Open>0.00720113</Open>
+    <High>0.00739001</High>
+    <Low>0.00565424</Low>
+    <Close>0.00657085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-14</Date>
+    <Open>0.00656087</Open>
+    <High>0.00704885</High>
+    <Low>0.00593323</Low>
+    <Close>0.0059928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-15</Date>
+    <Open>0.00599274</Open>
+    <High>0.00756016</High>
+    <Low>0.00565985</Low>
+    <Close>0.00719919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-16</Date>
+    <Open>0.0071892</Open>
+    <High>0.00720917</High>
+    <Low>0.00626248</Low>
+    <Close>0.00652086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-17</Date>
+    <Open>0.0061794</Open>
+    <High>0.00731496</High>
+    <Low>0.0061075</Low>
+    <Close>0.00695365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-18</Date>
+    <Open>0.00695165</Open>
+    <High>0.00708563</High>
+    <Low>0.00570166</Low>
+    <Close>0.00605018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-19</Date>
+    <Open>0.00606017</Open>
+    <High>0.00664202</High>
+    <Low>0.00574172</Low>
+    <Close>0.00638169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-20</Date>
+    <Open>0.006385</Open>
+    <High>0.00820015</High>
+    <Low>0.006025</Low>
+    <Close>0.0080703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-21</Date>
+    <Open>0.0080811</Open>
+    <High>0.0098901</High>
+    <Low>0.00780141</Low>
+    <Close>0.0080811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-22</Date>
+    <Open>0.0080811</Open>
+    <High>0.00927072</High>
+    <Low>0.00783216</Low>
+    <Close>0.00882117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-23</Date>
+    <Open>0.00882117</Open>
+    <High>0.00968031</High>
+    <Low>0.00837162</Low>
+    <Close>0.00887112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-24</Date>
+    <Open>0.00887023</Open>
+    <High>0.00948355</High>
+    <Low>0.0083916</Low>
+    <Close>0.00924269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-25</Date>
+    <Open>0.00922077</Open>
+    <High>0.00994005</High>
+    <Low>0.00844425</Low>
+    <Close>0.00901369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-26</Date>
+    <Open>0.0089937</Open>
+    <High>0.00904385</High>
+    <Low>0.00795514</Low>
+    <Close>0.00820499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-27</Date>
+    <Open>0.0082149</Open>
+    <High>0.00897174</High>
+    <Low>0.0077166</Low>
+    <Close>0.00860234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-28</Date>
+    <Open>0.00861233</Open>
+    <High>0.00894186</High>
+    <Low>0.00802173</Low>
+    <Close>0.00809036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-29</Date>
+    <Open>0.00807997</Open>
+    <High>0.00812991</High>
+    <Low>0.00729044</Low>
+    <Close>0.00749092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-06-30</Date>
+    <Open>0.00748101</Open>
+    <High>0.00756991</High>
+    <Low>0.00654188</Low>
+    <Close>0.00675788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-01</Date>
+    <Open>0.00677985</Open>
+    <High>0.00745679</High>
+    <Low>0.00670627</Low>
+    <Close>0.006895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-02</Date>
+    <Open>0.006895</Open>
+    <High>0.007165</High>
+    <Low>0.006785</Low>
+    <Close>0.007125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-03</Date>
+    <Open>0.00711845</Open>
+    <High>0.00747702</High>
+    <Low>0.00685439</Low>
+    <Close>0.0069909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-04</Date>
+    <Open>0.00698691</Open>
+    <High>0.00711345</High>
+    <Low>0.00674454</Low>
+    <Close>0.00709448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-05</Date>
+    <Open>0.00708149</Open>
+    <High>0.00743507</High>
+    <Low>0.00676088</Low>
+    <Close>0.00704154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-06</Date>
+    <Open>0.00703226</Open>
+    <High>0.0070832</High>
+    <Low>0.00676255</Low>
+    <Close>0.00705323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-07</Date>
+    <Open>0.00705323</Open>
+    <High>0.0079912</High>
+    <Low>0.00697732</Low>
+    <Close>0.00748551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-08</Date>
+    <Open>0.0074955</Open>
+    <High>0.00764464</High>
+    <Low>0.00700509</Low>
+    <Close>0.00709574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-09</Date>
+    <Open>0.00709674</Open>
+    <High>0.00740356</High>
+    <Low>0.00700479</Low>
+    <Close>0.00726864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-10</Date>
+    <Open>0.00726564</Open>
+    <High>0.00730961</High>
+    <Low>0.00664035</Low>
+    <Close>0.00678493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-11</Date>
+    <Open>0.00678593</Open>
+    <High>0.00679392</High>
+    <Low>0.00600259</Low>
+    <Close>0.00605155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-12</Date>
+    <Open>0.00605918</Open>
+    <High>0.00610389</High>
+    <Low>0.00574168</Low>
+    <Close>0.00577921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-13</Date>
+    <Open>0.00578544</Open>
+    <High>0.0065914</High>
+    <Low>0.00550904</Low>
+    <Close>0.00624238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-14</Date>
+    <Open>0.00627735</Open>
+    <High>0.00682091</High>
+    <Low>0.0062114</Low>
+    <Close>0.00669698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-15</Date>
+    <Open>0.006668</Open>
+    <High>0.00712372</High>
+    <Low>0.00651809</Low>
+    <Close>0.00681296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-16</Date>
+    <Open>0.00681495</Open>
+    <High>0.00688462</High>
+    <Low>0.00654304</Low>
+    <Close>0.00678896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-17</Date>
+    <Open>0.00683863</Open>
+    <High>0.00697233</High>
+    <Low>0.00658714</Low>
+    <Close>0.00665227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-18</Date>
+    <Open>0.00667167</Open>
+    <High>0.00726462</High>
+    <Low>0.00642388</Low>
+    <Close>0.00688442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-19</Date>
+    <Open>0.00688993</Open>
+    <High>0.00742722</High>
+    <Low>0.00683652</Low>
+    <Close>0.00728317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-20</Date>
+    <Open>0.007282</Open>
+    <High>0.00742574</High>
+    <Low>0.00645081</Low>
+    <Close>0.00665233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-21</Date>
+    <Open>0.0066524</Open>
+    <High>0.00667</High>
+    <Low>0.00627325</Low>
+    <Close>0.00655164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-22</Date>
+    <Open>0.00655857</Open>
+    <High>0.00674362</High>
+    <Low>0.00622281</Low>
+    <Close>0.00622437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-23</Date>
+    <Open>0.00628</Open>
+    <High>0.00647413</High>
+    <Low>0.006059</Low>
+    <Close>0.00621318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-24</Date>
+    <Open>0.00621262</Open>
+    <High>0.00643445</High>
+    <Low>0.00619431</Low>
+    <Close>0.00632326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-25</Date>
+    <Open>0.00632326</Open>
+    <High>0.00636715</High>
+    <Low>0.00576063</Low>
+    <Close>0.00592147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-26</Date>
+    <Open>0.00592147</Open>
+    <High>0.00593053</High>
+    <Low>0.005556</Low>
+    <Close>0.00565785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-27</Date>
+    <Open>0.00565379</Open>
+    <High>0.00610113</High>
+    <Low>0.00561878</Low>
+    <Close>0.00606245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-28</Date>
+    <Open>0.00606345</Open>
+    <High>0.00645958</High>
+    <Low>0.00597413</Low>
+    <Close>0.00638428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-29</Date>
+    <Open>0.00637966</Open>
+    <High>0.00705776</High>
+    <Low>0.00623831</Low>
+    <Close>0.0068298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-30</Date>
+    <Open>0.0068298</Open>
+    <High>0.00772186</High>
+    <Low>0.00666226</Low>
+    <Close>0.00699038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-07-31</Date>
+    <Open>0.00699238</Open>
+    <High>0.0071335</High>
+    <Low>0.00666787</Low>
+    <Close>0.00678556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-01</Date>
+    <Open>0.00678556</Open>
+    <High>0.00707626</High>
+    <Low>0.00653529</Low>
+    <Close>0.00698209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-02</Date>
+    <Open>0.0070061</Open>
+    <High>0.00714671</High>
+    <Low>0.00638291</Low>
+    <Close>0.00660012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-03</Date>
+    <Open>0.00660012</Open>
+    <High>0.00685044</High>
+    <Low>0.00633758</Low>
+    <Close>0.0068207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-04</Date>
+    <Open>0.00673755</Open>
+    <High>0.00733329</High>
+    <Low>0.00642745</Low>
+    <Close>0.00698828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-05</Date>
+    <Open>0.00698921</Open>
+    <High>0.0074526</High>
+    <Low>0.00691155</Low>
+    <Close>0.00707541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-06</Date>
+    <Open>0.00706034</Open>
+    <High>0.00735503</High>
+    <Low>0.00705834</Low>
+    <Close>0.00717565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-07</Date>
+    <Open>0.00715157</Open>
+    <High>0.00722337</High>
+    <Low>0.0069676</Low>
+    <Close>0.00716936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-08</Date>
+    <Open>0.00716836</Open>
+    <High>0.00823123</High>
+    <Low>0.00705927</Low>
+    <Close>0.00771293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-09</Date>
+    <Open>0.00770392</Open>
+    <High>0.00849846</High>
+    <Low>0.00759459</Low>
+    <Close>0.00833667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-10</Date>
+    <Open>0.00833667</Open>
+    <High>0.00874049</High>
+    <Low>0.00765776</Low>
+    <Close>0.00856348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-11</Date>
+    <Open>0.00856248</Open>
+    <High>0.0086582</High>
+    <Low>0.00802097</Low>
+    <Close>0.0080788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-12</Date>
+    <Open>0.00801777</Open>
+    <High>0.00807904</High>
+    <Low>0.00777889</Low>
+    <Close>0.00795866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-13</Date>
+    <Open>0.00795666</Open>
+    <High>0.00819902</High>
+    <Low>0.00788737</Low>
+    <Close>0.00791008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-14</Date>
+    <Open>0.00791609</Open>
+    <High>0.00814918</High>
+    <Low>0.00733461</Low>
+    <Close>0.00744631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-15</Date>
+    <Open>0.00743323</Open>
+    <High>0.00773717</High>
+    <Low>0.00736106</Low>
+    <Close>0.00744879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-16</Date>
+    <Open>0.00744586</Open>
+    <High>0.00746942</High>
+    <Low>0.00710328</Low>
+    <Close>0.00729666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-17</Date>
+    <Open>0.00729666</Open>
+    <High>0.00777886</High>
+    <Low>0.00663507</Low>
+    <Close>0.00663553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-18</Date>
+    <Open>0.00668947</Open>
+    <High>0.00697456</High>
+    <Low>0.00666053</Low>
+    <Close>0.00672407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-19</Date>
+    <Open>0.00672667</Open>
+    <High>0.00675668</High>
+    <Low>0.00583758</Low>
+    <Close>0.00615362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-20</Date>
+    <Open>0.0060133</Open>
+    <High>0.00640222</High>
+    <Low>0.00574748</Low>
+    <Close>0.00579594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-21</Date>
+    <Open>0.00579588</Open>
+    <High>0.00622288</High>
+    <Low>0.00579583</Low>
+    <Close>0.00620288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-22</Date>
+    <Open>0.00620288</Open>
+    <High>0.00620288</High>
+    <Low>0.0056946</Low>
+    <Close>0.00583095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-23</Date>
+    <Open>0.00583107</Open>
+    <High>0.006369</High>
+    <Low>0.00576688</Low>
+    <Close>0.00608706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-24</Date>
+    <Open>0.00608712</Open>
+    <High>0.00626038</High>
+    <Low>0.0059667</Low>
+    <Close>0.00619856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-25</Date>
+    <Open>0.0062425</Open>
+    <High>0.00635081</High>
+    <Low>0.0060833</Low>
+    <Close>0.00621219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-26</Date>
+    <Open>0.00624919</Open>
+    <High>0.0062945</High>
+    <Low>0.00572894</Low>
+    <Close>0.00580958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-27</Date>
+    <Open>0.00580958</Open>
+    <High>0.00584058</High>
+    <Low>0.00557833</Low>
+    <Close>0.00569717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-28</Date>
+    <Open>0.00569717</Open>
+    <High>0.00591112</High>
+    <Low>0.005689</Low>
+    <Close>0.00578294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-29</Date>
+    <Open>0.005847</Open>
+    <High>0.00619331</High>
+    <Low>0.00557722</Low>
+    <Close>0.00615337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-30</Date>
+    <Open>0.00615349</Open>
+    <High>0.00661066</High>
+    <Low>0.0059783</Low>
+    <Close>0.00648352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-08-31</Date>
+    <Open>0.00648458</Open>
+    <High>0.00660626</High>
+    <Low>0.00622081</Low>
+    <Close>0.00640194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-01</Date>
+    <Open>0.00640194</Open>
+    <High>0.00642513</High>
+    <Low>0.00607694</Low>
+    <Close>0.00634862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-02</Date>
+    <Open>0.00634862</Open>
+    <High>0.00647432</High>
+    <Low>0.00604336</Low>
+    <Close>0.0061378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-03</Date>
+    <Open>0.00616099</Open>
+    <High>0.00627463</High>
+    <Low>0.006099</Low>
+    <Close>0.006181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-04</Date>
+    <Open>0.006181</Open>
+    <High>0.00630863</High>
+    <Low>0.006132</Low>
+    <Close>0.00629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-05</Date>
+    <Open>0.006316</Open>
+    <High>0.00638464</High>
+    <Low>0.006207</Low>
+    <Close>0.00638164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-06</Date>
+    <Open>0.00638164</Open>
+    <High>0.00656466</High>
+    <Low>0.00577142</Low>
+    <Close>0.005843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-07</Date>
+    <Open>0.005811</Open>
+    <High>0.00603694</High>
+    <Low>0.00570677</Low>
+    <Close>0.0059813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-08</Date>
+    <Open>0.00598742</Open>
+    <High>0.00615092</High>
+    <Low>0.00584553</Low>
+    <Close>0.00604897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-09</Date>
+    <Open>0.006049</Open>
+    <High>0.00637366</High>
+    <Low>0.00601066</Low>
+    <Close>0.00621505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-10</Date>
+    <Open>0.0062153</Open>
+    <High>0.00645055</High>
+    <Low>0.00618861</Low>
+    <Close>0.00627025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-11</Date>
+    <Open>0.00624731</Open>
+    <High>0.00652835</High>
+    <Low>0.00614027</Low>
+    <Close>0.00621449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-12</Date>
+    <Open>0.00619449</Open>
+    <High>0.00659732</High>
+    <Low>0.00610334</Low>
+    <Close>0.00639528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-13</Date>
+    <Open>0.00639592</Open>
+    <High>0.00643329</High>
+    <Low>0.005739</Low>
+    <Close>0.00583312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-14</Date>
+    <Open>0.00582812</Open>
+    <High>0.00597124</High>
+    <Low>0.00571906</Low>
+    <Close>0.00588147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-15</Date>
+    <Open>0.00588147</Open>
+    <High>0.00594137</High>
+    <Low>0.00567302</Low>
+    <Close>0.00581048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-16</Date>
+    <Open>0.00581059</Open>
+    <High>0.00590741</High>
+    <Low>0.00566587</Low>
+    <Close>0.00580242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-17</Date>
+    <Open>0.00580142</Open>
+    <High>0.005963</High>
+    <Low>0.00579842</Low>
+    <Close>0.005923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-18</Date>
+    <Open>0.005923</Open>
+    <High>0.005994</High>
+    <Low>0.00509049</Low>
+    <Close>0.005431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-19</Date>
+    <Open>0.005429</Open>
+    <High>0.005493</High>
+    <Low>0.00519648</Low>
+    <Close>0.00544109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-20</Date>
+    <Open>0.00544054</Open>
+    <High>0.0054941</High>
+    <Low>0.005186</Low>
+    <Close>0.00525553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-21</Date>
+    <Open>0.00525211</Open>
+    <High>0.005938</High>
+    <Low>0.00522052</Low>
+    <Close>0.005267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-22</Date>
+    <Open>0.005268</Open>
+    <High>0.006986</High>
+    <Low>0.005201</Low>
+    <Close>0.006702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-23</Date>
+    <Open>0.00671667</Open>
+    <High>0.00833517</High>
+    <Low>0.006618</Low>
+    <Close>0.00776522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-24</Date>
+    <Open>0.00776046</Open>
+    <High>0.00860203</High>
+    <Low>0.00707865</Low>
+    <Close>0.00825766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-25</Date>
+    <Open>0.008265</Open>
+    <High>0.00851034</High>
+    <Low>0.007662</Low>
+    <Close>0.007975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-26</Date>
+    <Open>0.00797</Open>
+    <High>0.008237</High>
+    <Low>0.007341</Low>
+    <Close>0.007623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-27</Date>
+    <Open>0.007623</Open>
+    <High>0.00851015</High>
+    <Low>0.00745825</Low>
+    <Close>0.00838116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-28</Date>
+    <Open>0.00838116</Open>
+    <High>0.00881</High>
+    <Low>0.00811338</Low>
+    <Close>0.008517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-29</Date>
+    <Open>0.00852</Open>
+    <High>0.008528</High>
+    <Low>0.00784578</Low>
+    <Close>0.00821782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-09-30</Date>
+    <Open>0.00822582</Open>
+    <High>0.008365</High>
+    <Low>0.007845</Low>
+    <Close>0.008295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-01</Date>
+    <Open>0.008295</Open>
+    <High>0.009863</High>
+    <Low>0.00806419</Low>
+    <Close>0.009354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-02</Date>
+    <Open>0.009344</Open>
+    <High>0.010617</High>
+    <Low>0.009324</Low>
+    <Close>0.009821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-03</Date>
+    <Open>0.00981398</Open>
+    <High>0.010263</High>
+    <Low>0.00930793</Low>
+    <Close>0.00944494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-04</Date>
+    <Open>0.00943694</Open>
+    <High>0.00980096</High>
+    <Low>0.00914974</Low>
+    <Close>0.00926178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-05</Date>
+    <Open>0.00926785</Open>
+    <High>0.00943889</High>
+    <Low>0.00887966</Low>
+    <Close>0.00916583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-06</Date>
+    <Open>0.00916883</Open>
+    <High>0.00933903</High>
+    <Low>0.00883241</Low>
+    <Close>0.00913955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-07</Date>
+    <Open>0.00913755</Open>
+    <High>0.0092903</High>
+    <Low>0.00844644</Low>
+    <Close>0.00853219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-08</Date>
+    <Open>0.00853485</Open>
+    <High>0.00860569</High>
+    <Low>0.00773531</Low>
+    <Close>0.00784004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-09</Date>
+    <Open>0.00767299</Open>
+    <High>0.00794579</High>
+    <Low>0.00744749</Low>
+    <Close>0.0075145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-10</Date>
+    <Open>0.00747175</Open>
+    <High>0.00759676</High>
+    <Low>0.00687131</Low>
+    <Close>0.0069613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-11</Date>
+    <Open>0.006966</Open>
+    <High>0.00731749</High>
+    <Low>0.00630037</Low>
+    <Close>0.0067214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-12</Date>
+    <Open>0.0067214</Open>
+    <High>0.0068851</High>
+    <Low>0.00632819</Low>
+    <Close>0.00644919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-13</Date>
+    <Open>0.00645126</Open>
+    <High>0.0066808</High>
+    <Low>0.00590676</Low>
+    <Close>0.00650752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-14</Date>
+    <Open>0.00651659</Open>
+    <High>0.00669013</High>
+    <Low>0.00601712</Low>
+    <Close>0.00603824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-15</Date>
+    <Open>0.00603324</Open>
+    <High>0.00643458</High>
+    <Low>0.00596124</Low>
+    <Close>0.00622631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-16</Date>
+    <Open>0.006224</Open>
+    <High>0.006381</High>
+    <Low>0.00607736</Low>
+    <Close>0.00617025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-17</Date>
+    <Open>0.00617331</Open>
+    <High>0.00710843</High>
+    <Low>0.00611494</Low>
+    <Close>0.00693614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-18</Date>
+    <Open>0.006938</Open>
+    <High>0.00715036</High>
+    <Low>0.00646113</Low>
+    <Close>0.00656426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-19</Date>
+    <Open>0.00656266</Open>
+    <High>0.00659633</High>
+    <Low>0.00630338</Low>
+    <Close>0.006426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-20</Date>
+    <Open>0.00642594</Open>
+    <High>0.00644206</High>
+    <Low>0.00592953</Low>
+    <Close>0.0060264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-21</Date>
+    <Open>0.00602658</Open>
+    <High>0.00615037</High>
+    <Low>0.00581565</Low>
+    <Close>0.00610643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-22</Date>
+    <Open>0.00610649</Open>
+    <High>0.00618756</High>
+    <Low>0.00601718</Low>
+    <Close>0.00608549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-23</Date>
+    <Open>0.00608349</Open>
+    <High>0.00610018</High>
+    <Low>0.00574852</Low>
+    <Close>0.00591777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-24</Date>
+    <Open>0.00591977</Open>
+    <High>0.00605261</High>
+    <Low>0.00571717</Low>
+    <Close>0.00575323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-25</Date>
+    <Open>0.00575323</Open>
+    <High>0.00631358</High>
+    <Low>0.00567723</Low>
+    <Close>0.00612614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-26</Date>
+    <Open>0.00612108</Open>
+    <High>0.00650476</High>
+    <Low>0.00605039</Low>
+    <Close>0.00623174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-27</Date>
+    <Open>0.00621274</Open>
+    <High>0.00648469</High>
+    <Low>0.00600324</Low>
+    <Close>0.00608737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-28</Date>
+    <Open>0.00607636</Open>
+    <High>0.0063432</High>
+    <Low>0.00593465</Low>
+    <Close>0.00625037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-29</Date>
+    <Open>0.00625019</Open>
+    <High>0.00674656</High>
+    <Low>0.0060024</Low>
+    <Close>0.00637753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-30</Date>
+    <Open>0.00634352</Open>
+    <High>0.00675542</High>
+    <Low>0.00618261</Low>
+    <Close>0.00638328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-10-31</Date>
+    <Open>0.0063172</Open>
+    <High>0.00647032</High>
+    <Low>0.0060723</Low>
+    <Close>0.00618263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-01</Date>
+    <Open>0.00618263</Open>
+    <High>0.00640291</High>
+    <Low>0.0061584</Low>
+    <Close>0.00624238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-02</Date>
+    <Open>0.00624238</Open>
+    <High>0.00663187</High>
+    <Low>0.00597264</Low>
+    <Close>0.00611863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-03</Date>
+    <Open>0.00611863</Open>
+    <High>0.00692238</High>
+    <Low>0.0060797</Low>
+    <Close>0.00679293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-04</Date>
+    <Open>0.00678393</Open>
+    <High>0.00763361</High>
+    <Low>0.006722</Low>
+    <Close>0.00754253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-05</Date>
+    <Open>0.00754253</Open>
+    <High>0.00780609</High>
+    <Low>0.00722122</Low>
+    <Close>0.00732937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-06</Date>
+    <Open>0.00733044</Open>
+    <High>0.00753885</High>
+    <Low>0.00694828</Low>
+    <Close>0.00715757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-07</Date>
+    <Open>0.00717757</Open>
+    <High>0.00739322</High>
+    <Low>0.00651426</Low>
+    <Close>0.00716486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-08</Date>
+    <Open>0.00716615</Open>
+    <High>0.007286</High>
+    <Low>0.00399619</Low>
+    <Close>0.00483346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-09</Date>
+    <Open>0.00483647</Open>
+    <High>0.00501045</High>
+    <Low>0.00378276</Low>
+    <Close>0.00395741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-10</Date>
+    <Open>0.00395747</Open>
+    <High>0.00502255</High>
+    <Low>0.00384793</Low>
+    <Close>0.00458399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-11</Date>
+    <Open>0.00458006</Open>
+    <High>0.00523396</High>
+    <Low>0.00408357</Low>
+    <Close>0.00420404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-12</Date>
+    <Open>0.00420294</Open>
+    <High>0.00430699</High>
+    <Low>0.00397084</Low>
+    <Close>0.00400278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-13</Date>
+    <Open>0.0039928</Open>
+    <High>0.00419013</High>
+    <Low>0.0039353</Low>
+    <Close>0.0040623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-14</Date>
+    <Open>0.0040623</Open>
+    <High>0.00430683</High>
+    <Low>0.00382402</Low>
+    <Close>0.00417473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-15</Date>
+    <Open>0.004283</Open>
+    <High>0.00442801</High>
+    <Low>0.00420979</Low>
+    <Close>0.00425774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-16</Date>
+    <Open>0.0042548</Open>
+    <High>0.00433774</High>
+    <Low>0.00408363</Low>
+    <Close>0.00411817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-17</Date>
+    <Open>0.00411821</Open>
+    <High>0.00419951</High>
+    <Low>0.00405494</Low>
+    <Close>0.00417566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-18</Date>
+    <Open>0.00417278</Open>
+    <High>0.00427945</High>
+    <Low>0.00404318</Low>
+    <Close>0.0040833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-19</Date>
+    <Open>0.0040833</Open>
+    <High>0.00417732</High>
+    <Low>0.00400818</Low>
+    <Close>0.00415763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-20</Date>
+    <Open>0.00415667</Open>
+    <High>0.00418726</High>
+    <Low>0.00384304</Low>
+    <Close>0.00385613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-21</Date>
+    <Open>0.00385313</Open>
+    <High>0.0038771</High>
+    <Low>0.00357656</Low>
+    <Close>0.00370551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-22</Date>
+    <Open>0.00370555</Open>
+    <High>0.00379107</High>
+    <Low>0.00356361</Low>
+    <Close>0.00378737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-23</Date>
+    <Open>0.00378637</Open>
+    <High>0.00399732</High>
+    <Low>0.00378637</Low>
+    <Close>0.00395764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-24</Date>
+    <Open>0.00395768</Open>
+    <High>0.00415738</High>
+    <Low>0.00389476</Low>
+    <Close>0.00394368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-25</Date>
+    <Open>0.00395579</Open>
+    <High>0.00399752</High>
+    <Low>0.00382563</Low>
+    <Close>0.00394979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-26</Date>
+    <Open>0.00394875</Open>
+    <High>0.00405353</High>
+    <Low>0.00387875</Low>
+    <Close>0.00394571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-27</Date>
+    <Open>0.00394567</Open>
+    <High>0.0042183</High>
+    <Low>0.00389574</Low>
+    <Close>0.00418932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-28</Date>
+    <Open>0.00418732</Open>
+    <High>0.00426795</High>
+    <Low>0.00391181</Low>
+    <Close>0.00414642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-29</Date>
+    <Open>0.00414738</Open>
+    <High>0.00442036</High>
+    <Low>0.00407933</Low>
+    <Close>0.00426642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-11-30</Date>
+    <Open>0.00426642</Open>
+    <High>0.00442945</High>
+    <Low>0.00417192</Low>
+    <Close>0.00432126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-01</Date>
+    <Open>0.00432717</Open>
+    <High>0.00435235</High>
+    <Low>0.0040962</Low>
+    <Close>0.00414825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-02</Date>
+    <Open>0.00414825</Open>
+    <High>0.00418325</High>
+    <Low>0.00404032</Low>
+    <Close>0.00415825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-03</Date>
+    <Open>0.00415825</Open>
+    <High>0.00426538</High>
+    <Low>0.0040004</Low>
+    <Close>0.0040094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-04</Date>
+    <Open>0.0040098</Open>
+    <High>0.00409182</High>
+    <Low>0.0039894</Low>
+    <Close>0.00408282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-05</Date>
+    <Open>0.00408241</Open>
+    <High>0.00421484</High>
+    <Low>0.004038</Low>
+    <Close>0.00410012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-06</Date>
+    <Open>0.00410041</Open>
+    <High>0.00430243</High>
+    <Low>0.00409112</Low>
+    <Close>0.00417192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-07</Date>
+    <Open>0.004172</Open>
+    <High>0.004212</High>
+    <Low>0.003964</Low>
+    <Close>0.003982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-08</Date>
+    <Open>0.003982</Open>
+    <High>0.00414283</High>
+    <Low>0.003968</Low>
+    <Close>0.00413129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-09</Date>
+    <Open>0.00413229</Open>
+    <High>0.00414512</High>
+    <Low>0.00405928</Low>
+    <Close>0.00410912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-10</Date>
+    <Open>0.00410812</Open>
+    <High>0.00419</High>
+    <Low>0.00409816</Low>
+    <Close>0.00411992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-11</Date>
+    <Open>0.00412192</Open>
+    <High>0.00414196</High>
+    <Low>0.0039614</Low>
+    <Close>0.0039614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-12</Date>
+    <Open>0.00396179</Open>
+    <High>0.00405212</High>
+    <Low>0.00384161</Low>
+    <Close>0.00403836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-13</Date>
+    <Open>0.00403836</Open>
+    <High>0.00410897</High>
+    <Low>0.00385896</Low>
+    <Close>0.00410302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-14</Date>
+    <Open>0.00410202</Open>
+    <High>0.00420337</High>
+    <Low>0.00391727</Low>
+    <Close>0.00391827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-15</Date>
+    <Open>0.00391827</Open>
+    <High>0.003929</High>
+    <Low>0.00375738</Low>
+    <Close>0.00377075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-16</Date>
+    <Open>0.00377175</Open>
+    <High>0.00382038</High>
+    <Low>0.00309031</Low>
+    <Close>0.00327333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-17</Date>
+    <Open>0.00327133</Open>
+    <High>0.00332543</High>
+    <Low>0.00318332</Low>
+    <Close>0.00320142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-18</Date>
+    <Open>0.00325913</Open>
+    <High>0.00330117</High>
+    <Low>0.00323913</Low>
+    <Close>0.00325239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-19</Date>
+    <Open>0.00326046</Open>
+    <High>0.0033402</High>
+    <Low>0.00306806</Low>
+    <Close>0.003094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-20</Date>
+    <Open>0.00309497</Open>
+    <High>0.00327526</High>
+    <Low>0.003092</Low>
+    <Close>0.00326313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-21</Date>
+    <Open>0.00326713</Open>
+    <High>0.00329523</High>
+    <Low>0.003142</Low>
+    <Close>0.00315116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-22</Date>
+    <Open>0.00315113</Open>
+    <High>0.003231</High>
+    <Low>0.00310866</Low>
+    <Close>0.00319446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-23</Date>
+    <Open>0.00319546</Open>
+    <High>0.00323848</High>
+    <Low>0.00318052</Low>
+    <Close>0.00319368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-24</Date>
+    <Open>0.00319368</Open>
+    <High>0.00321574</High>
+    <Low>0.00307491</Low>
+    <Close>0.00307882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-25</Date>
+    <Open>0.00308481</Open>
+    <High>0.00309881</High>
+    <Low>0.00296879</Low>
+    <Close>0.00302761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-26</Date>
+    <Open>0.0030277</Open>
+    <High>0.00306769</High>
+    <Low>0.0029687</Low>
+    <Close>0.0029794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-27</Date>
+    <Open>0.0029784</Open>
+    <High>0.00303836</High>
+    <Low>0.00288993</Low>
+    <Close>0.00291183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-28</Date>
+    <Open>0.00291286</Open>
+    <High>0.00296184</High>
+    <Low>0.00274382</Low>
+    <Close>0.00278749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-29</Date>
+    <Open>0.00278352</Open>
+    <High>0.0028086</High>
+    <Low>0.00265694</Low>
+    <Close>0.00269876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-30</Date>
+    <Open>0.00269978</Open>
+    <High>0.00279963</High>
+    <Low>0.00269363</Low>
+    <Close>0.00276861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2022-12-31</Date>
+    <Open>0.00276959</Open>
+    <High>0.00289961</High>
+    <Low>0.00276464</Low>
+    <Close>0.00283658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-01</Date>
+    <Open>0.00283858</Open>
+    <High>0.00286974</High>
+    <Low>0.00278841</Low>
+    <Close>0.00285866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-02</Date>
+    <Open>0.00285866</Open>
+    <High>0.00296105</High>
+    <Low>0.00280782</Low>
+    <Close>0.00295705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-03</Date>
+    <Open>0.00295905</Open>
+    <High>0.0029831</High>
+    <Low>0.00289978</Low>
+    <Close>0.00294885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-04</Date>
+    <Open>0.00294785</Open>
+    <High>0.00318273</High>
+    <Low>0.00293677</Low>
+    <Close>0.00298399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-05</Date>
+    <Open>0.00298401</Open>
+    <High>0.00321404</High>
+    <Low>0.00297299</Low>
+    <Close>0.00310491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-06</Date>
+    <Open>0.00310507</Open>
+    <High>0.00317489</High>
+    <Low>0.00297633</Low>
+    <Close>0.00313703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-07</Date>
+    <Open>0.00315815</Open>
+    <High>0.00319111</High>
+    <Low>0.0030861</Low>
+    <Close>0.00308926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-08</Date>
+    <Open>0.00308907</Open>
+    <High>0.00319655</High>
+    <Low>0.00306957</Low>
+    <Close>0.00317652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-09</Date>
+    <Open>0.00317736</Open>
+    <High>0.00347058</High>
+    <Low>0.00317736</Low>
+    <Close>0.00336103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-10</Date>
+    <Open>0.00336697</Open>
+    <High>0.0034709</High>
+    <Low>0.00326184</Low>
+    <Close>0.00342548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-11</Date>
+    <Open>0.00343151</Open>
+    <High>0.00343652</High>
+    <Low>0.00327044</Low>
+    <Close>0.00333293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-12</Date>
+    <Open>0.003333</Open>
+    <High>0.00355832</High>
+    <Low>0.00332977</Low>
+    <Close>0.00351232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-13</Date>
+    <Open>0.00351235</Open>
+    <High>0.00370622</High>
+    <Low>0.00350928</Low>
+    <Close>0.00362933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-14</Date>
+    <Open>0.00362733</Open>
+    <High>0.00401052</High>
+    <Low>0.00359968</Low>
+    <Close>0.00383819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-15</Date>
+    <Open>0.00384119</Open>
+    <High>0.00396011</High>
+    <Low>0.00373234</Low>
+    <Close>0.00392418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-16</Date>
+    <Open>0.00396823</Open>
+    <High>0.00408618</High>
+    <Low>0.00381349</Low>
+    <Close>0.00395008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-17</Date>
+    <Open>0.0039452</Open>
+    <High>0.00403212</High>
+    <Low>0.00387789</Low>
+    <Close>0.00398444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-18</Date>
+    <Open>0.0039824</Open>
+    <High>0.00406145</High>
+    <Low>0.00357479</Low>
+    <Close>0.00361178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-19</Date>
+    <Open>0.00361478</Open>
+    <High>0.00365463</High>
+    <Low>0.00350558</Low>
+    <Close>0.00360089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-20</Date>
+    <Open>0.00360386</Open>
+    <High>0.00420184</High>
+    <Low>0.00358</Low>
+    <Close>0.00409774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-21</Date>
+    <Open>0.00409574</Open>
+    <High>0.0042181</High>
+    <Low>0.00396082</Low>
+    <Close>0.00413866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-22</Date>
+    <Open>0.00413866</Open>
+    <High>0.00440184</High>
+    <Low>0.00403169</Low>
+    <Close>0.00423385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-23</Date>
+    <Open>0.00423385</Open>
+    <High>0.00453964</High>
+    <Low>0.00418254</Low>
+    <Close>0.00448272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-24</Date>
+    <Open>0.00448467</Open>
+    <High>0.00482</High>
+    <Low>0.00423768</Low>
+    <Close>0.00434909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-25</Date>
+    <Open>0.00434209</Open>
+    <High>0.00443384</High>
+    <Low>0.00414541</Low>
+    <Close>0.00430169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-26</Date>
+    <Open>0.00430373</Open>
+    <High>0.00454564</High>
+    <Low>0.00426381</Low>
+    <Close>0.00451636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-27</Date>
+    <Open>0.00452836</Open>
+    <High>0.00456614</High>
+    <Low>0.00437074</Low>
+    <Close>0.00452322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-28</Date>
+    <Open>0.00451171</Open>
+    <High>0.00462611</High>
+    <Low>0.00438427</Low>
+    <Close>0.00442484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-29</Date>
+    <Open>0.00442288</Open>
+    <High>0.00472313</High>
+    <Low>0.00440997</Low>
+    <Close>0.00459023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-30</Date>
+    <Open>0.00459118</Open>
+    <High>0.00462418</High>
+    <Low>0.004</Low>
+    <Close>0.00407629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-01-31</Date>
+    <Open>0.00407624</Open>
+    <High>0.00428896</High>
+    <Low>0.00407624</Low>
+    <Close>0.00422038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-01</Date>
+    <Open>0.00423338</Open>
+    <High>0.00430239</High>
+    <Low>0.003888</Low>
+    <Close>0.00429826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-02</Date>
+    <Open>0.00430122</Open>
+    <High>0.00450268</High>
+    <Low>0.00414233</Low>
+    <Close>0.00419284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-03</Date>
+    <Open>0.00419284</Open>
+    <High>0.00437874</High>
+    <Low>0.00411458</Low>
+    <Close>0.00427234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-04</Date>
+    <Open>0.00427234</Open>
+    <High>0.00442927</High>
+    <Low>0.0042423</Low>
+    <Close>0.00433635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-05</Date>
+    <Open>0.00433635</Open>
+    <High>0.00443702</High>
+    <Low>0.00400204</Low>
+    <Close>0.00415104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-06</Date>
+    <Open>0.00415008</Open>
+    <High>0.004231</High>
+    <Low>0.00404073</Low>
+    <Close>0.00415117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-07</Date>
+    <Open>0.00415817</Open>
+    <High>0.00479919</High>
+    <Low>0.00406833</Low>
+    <Close>0.00479129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-08</Date>
+    <Open>0.00478429</Open>
+    <High>0.00485144</High>
+    <Low>0.00447167</Low>
+    <Close>0.00456232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-09</Date>
+    <Open>0.00456332</Open>
+    <High>0.00462391</High>
+    <Low>0.00392102</Low>
+    <Close>0.00392535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-10</Date>
+    <Open>0.00393639</Open>
+    <High>0.00408082</High>
+    <Low>0.00388654</Low>
+    <Close>0.00393863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-11</Date>
+    <Open>0.00393759</Open>
+    <High>0.0040494</High>
+    <Low>0.00389931</Low>
+    <Close>0.00404036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-12</Date>
+    <Open>0.00404081</Open>
+    <High>0.0041425</High>
+    <Low>0.00391955</Low>
+    <Close>0.0039724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-13</Date>
+    <Open>0.0039754</Open>
+    <High>0.0039964</High>
+    <Low>0.0037282</Low>
+    <Close>0.00385312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-14</Date>
+    <Open>0.00385408</Open>
+    <High>0.00408163</High>
+    <Low>0.00383338</Low>
+    <Close>0.00403457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-15</Date>
+    <Open>0.00403461</Open>
+    <High>0.00441857</High>
+    <Low>0.00399216</Low>
+    <Close>0.00439083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-16</Date>
+    <Open>0.00439383</Open>
+    <High>0.00469342</High>
+    <Low>0.00433765</Low>
+    <Close>0.00437349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-17</Date>
+    <Open>0.00436949</Open>
+    <High>0.00522105</High>
+    <Low>0.00428543</Low>
+    <Close>0.00511851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-18</Date>
+    <Open>0.00511751</Open>
+    <High>0.00564713</High>
+    <Low>0.00499105</Low>
+    <Close>0.00536891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-19</Date>
+    <Open>0.00537091</Open>
+    <High>0.00546087</High>
+    <Low>0.00512797</Low>
+    <Close>0.00524321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-20</Date>
+    <Open>0.00524315</Open>
+    <High>0.00583511</High>
+    <Low>0.00517945</Low>
+    <Close>0.00576223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-21</Date>
+    <Open>0.00575923</Open>
+    <High>0.00579658</High>
+    <Low>0.00523784</Low>
+    <Close>0.00525289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-22</Date>
+    <Open>0.00525589</Open>
+    <High>0.0053557</High>
+    <Low>0.00486144</Low>
+    <Close>0.00517426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-23</Date>
+    <Open>0.00516215</Open>
+    <High>0.00566951</High>
+    <Low>0.00513705</Low>
+    <Close>0.0054106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-24</Date>
+    <Open>0.00555305</Open>
+    <High>0.00588418</High>
+    <Low>0.00500995</Low>
+    <Close>0.00501695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-25</Date>
+    <Open>0.0050159</Open>
+    <High>0.00517536</High>
+    <Low>0.00468766</Low>
+    <Close>0.00492334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-26</Date>
+    <Open>0.00492134</Open>
+    <High>0.00526942</High>
+    <Low>0.0049072</Low>
+    <Close>0.00521431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-27</Date>
+    <Open>0.00521426</Open>
+    <High>0.00532816</High>
+    <Low>0.00509361</Low>
+    <Close>0.00526326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-02-28</Date>
+    <Open>0.00526126</Open>
+    <High>0.00538032</High>
+    <Low>0.00497819</Low>
+    <Close>0.00506186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-01</Date>
+    <Open>0.00506501</Open>
+    <High>0.00544765</High>
+    <Low>0.0049605</Low>
+    <Close>0.00525568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-02</Date>
+    <Open>0.00525968</Open>
+    <High>0.0053058</High>
+    <Low>0.00496695</Low>
+    <Close>0.00508941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-03</Date>
+    <Open>0.00508941</Open>
+    <High>0.00509331</High>
+    <Low>0.00449422</Low>
+    <Close>0.00454032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-04</Date>
+    <Open>0.00458137</Open>
+    <High>0.00461551</High>
+    <Low>0.00422321</Low>
+    <Close>0.00437331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-05</Date>
+    <Open>0.00436531</Open>
+    <High>0.0044644</High>
+    <Low>0.00430322</Low>
+    <Close>0.00437148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-06</Date>
+    <Open>0.00437148</Open>
+    <High>0.00438053</High>
+    <Low>0.00412166</Low>
+    <Close>0.00428074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-07</Date>
+    <Open>0.00428257</Open>
+    <High>0.00439596</High>
+    <Low>0.00402784</Low>
+    <Close>0.0040412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-08</Date>
+    <Open>0.00412104</Open>
+    <High>0.00417192</High>
+    <Low>0.00370385</Low>
+    <Close>0.00370578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-09</Date>
+    <Open>0.00370563</Open>
+    <High>0.00399832</High>
+    <Low>0.00353526</Low>
+    <Close>0.00357032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-10</Date>
+    <Open>0.00356036</Open>
+    <High>0.00365305</High>
+    <Low>0.0034079</Low>
+    <Close>0.00364489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-11</Date>
+    <Open>0.00364486</Open>
+    <High>0.00382002</High>
+    <Low>0.00339137</Low>
+    <Close>0.00352739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-12</Date>
+    <Open>0.00354169</Open>
+    <High>0.00403917</High>
+    <Low>0.0034981</Low>
+    <Close>0.00389069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-13</Date>
+    <Open>0.00389578</Open>
+    <High>0.00423842</High>
+    <Low>0.00378929</Low>
+    <Close>0.00420471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-14</Date>
+    <Open>0.00420864</Open>
+    <High>0.00441511</High>
+    <Low>0.00403643</Low>
+    <Close>0.00425441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-15</Date>
+    <Open>0.00425366</Open>
+    <High>0.00433111</High>
+    <Low>0.00368887</Low>
+    <Close>0.00371554</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-16</Date>
+    <Open>0.0037164</Open>
+    <High>0.00390345</High>
+    <Low>0.00365758</Low>
+    <Close>0.00384551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-17</Date>
+    <Open>0.00384748</Open>
+    <High>0.00416802</High>
+    <Low>0.00383148</Low>
+    <Close>0.00413432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-18</Date>
+    <Open>0.0042576</Open>
+    <High>0.00438171</High>
+    <Low>0.00405889</Low>
+    <Close>0.00416145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-19</Date>
+    <Open>0.00416341</Open>
+    <High>0.00422619</High>
+    <Low>0.00404449</Low>
+    <Close>0.00410741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-20</Date>
+    <Open>0.00410933</Open>
+    <High>0.00419438</High>
+    <Low>0.00386471</Low>
+    <Close>0.00392427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-21</Date>
+    <Open>0.00392331</Open>
+    <High>0.00409609</High>
+    <Low>0.00376105</Low>
+    <Close>0.00404085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-22</Date>
+    <Open>0.00402881</Open>
+    <High>0.00408796</High>
+    <Low>0.00372826</Low>
+    <Close>0.00385453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-23</Date>
+    <Open>0.00385353</Open>
+    <High>0.00416573</High>
+    <Low>0.00381497</Low>
+    <Close>0.00412757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-24</Date>
+    <Open>0.00413057</Open>
+    <High>0.00419734</High>
+    <Low>0.00390657</Low>
+    <Close>0.003965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-25</Date>
+    <Open>0.0039654</Open>
+    <High>0.00400688</High>
+    <Low>0.00376625</Low>
+    <Close>0.00382971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-26</Date>
+    <Open>0.00382971</Open>
+    <High>0.00393854</High>
+    <Low>0.00378563</Low>
+    <Close>0.00386236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-27</Date>
+    <Open>0.00386324</Open>
+    <High>0.00392938</High>
+    <Low>0.00362918</Low>
+    <Close>0.00370774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-28</Date>
+    <Open>0.00370674</Open>
+    <High>0.00384304</High>
+    <Low>0.00363105</Low>
+    <Close>0.00377847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-29</Date>
+    <Open>0.00379648</Open>
+    <High>0.00404521</High>
+    <Low>0.00376713</Low>
+    <Close>0.00404073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-30</Date>
+    <Open>0.00403721</Open>
+    <High>0.0040681</High>
+    <Low>0.00391582</Low>
+    <Close>0.00400212</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-03-31</Date>
+    <Open>0.00402409</Open>
+    <High>0.00404628</High>
+    <Low>0.00388032</Low>
+    <Close>0.0040158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-01</Date>
+    <Open>0.0040108</Open>
+    <High>0.00466791</High>
+    <Low>0.00400576</Low>
+    <Close>0.00434256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-02</Date>
+    <Open>0.00435057</Open>
+    <High>0.00440685</High>
+    <Low>0.00410554</Low>
+    <Close>0.00411555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-03</Date>
+    <Open>0.00411455</Open>
+    <High>0.00424089</High>
+    <Low>0.0040106</Low>
+    <Close>0.00411665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-04</Date>
+    <Open>0.00411961</Open>
+    <High>0.00474428</High>
+    <Low>0.00411961</Low>
+    <Close>0.00467334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-05</Date>
+    <Open>0.00466933</Open>
+    <High>0.00490281</High>
+    <Low>0.00450567</Low>
+    <Close>0.00453763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-06</Date>
+    <Open>0.00453663</Open>
+    <High>0.00458483</High>
+    <Low>0.00434656</Low>
+    <Close>0.00446456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-07</Date>
+    <Open>0.00446756</Open>
+    <High>0.00457447</High>
+    <Low>0.00432237</Low>
+    <Close>0.00433721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-08</Date>
+    <Open>0.00433821</Open>
+    <High>0.00439446</High>
+    <Low>0.00420514</Low>
+    <Close>0.00423265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-09</Date>
+    <Open>0.00423265</Open>
+    <High>0.00429758</High>
+    <Low>0.00412647</Low>
+    <Close>0.00429187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-10</Date>
+    <Open>0.004293</Open>
+    <High>0.00443088</High>
+    <Low>0.00423299</Low>
+    <Close>0.00437354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-11</Date>
+    <Open>0.00437158</Open>
+    <High>0.00445645</High>
+    <Low>0.00434334</Low>
+    <Close>0.00437128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-12</Date>
+    <Open>0.00437032</Open>
+    <High>0.00441445</High>
+    <Low>0.00417267</Low>
+    <Close>0.00430335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-13</Date>
+    <Open>0.00430836</Open>
+    <High>0.00456697</High>
+    <Low>0.00426618</Low>
+    <Close>0.00455537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-14</Date>
+    <Open>0.00454736</Open>
+    <High>0.00499834</High>
+    <Low>0.00454231</Low>
+    <Close>0.00479998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-15</Date>
+    <Open>0.00479193</Open>
+    <High>0.00481552</High>
+    <Low>0.00462611</Low>
+    <Close>0.00463612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-16</Date>
+    <Open>0.00465214</Open>
+    <High>0.00475318</High>
+    <Low>0.00450796</Low>
+    <Close>0.00474618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-17</Date>
+    <Open>0.00474623</Open>
+    <High>0.00476376</High>
+    <Low>0.00450752</Low>
+    <Close>0.00461177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-18</Date>
+    <Open>0.0045787</Open>
+    <High>0.00483908</High>
+    <Low>0.00456942</Low>
+    <Close>0.0047188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-19</Date>
+    <Open>0.00471375</Open>
+    <High>0.004756</High>
+    <Low>0.00417254</Low>
+    <Close>0.00423533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-20</Date>
+    <Open>0.00423829</Open>
+    <High>0.00429315</High>
+    <Low>0.00401352</Low>
+    <Close>0.00405232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-21</Date>
+    <Open>0.00405128</Open>
+    <High>0.00408433</High>
+    <Low>0.00373813</Low>
+    <Close>0.00377758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-22</Date>
+    <Open>0.00377662</Open>
+    <High>0.00390604</High>
+    <Low>0.00375104</Low>
+    <Close>0.00385839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-23</Date>
+    <Open>0.00386435</Open>
+    <High>0.00391623</High>
+    <Low>0.00370704</Low>
+    <Close>0.00377219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-24</Date>
+    <Open>0.00378419</Open>
+    <High>0.00390643</High>
+    <Low>0.0037589</Low>
+    <Close>0.00385208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-25</Date>
+    <Open>0.00385212</Open>
+    <High>0.0039259</High>
+    <Low>0.00369174</Low>
+    <Close>0.0039099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-26</Date>
+    <Open>0.0039099</Open>
+    <High>0.00403696</High>
+    <Low>0.00362673</Low>
+    <Close>0.00382722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-27</Date>
+    <Open>0.00382822</Open>
+    <High>0.00398592</High>
+    <Low>0.00378051</Low>
+    <Close>0.00395438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-28</Date>
+    <Open>0.00395627</Open>
+    <High>0.00397283</High>
+    <Low>0.00378589</Low>
+    <Close>0.003848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-29</Date>
+    <Open>0.00384796</Open>
+    <High>0.00388356</High>
+    <Low>0.00380181</Low>
+    <Close>0.00386128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-04-30</Date>
+    <Open>0.00385127</Open>
+    <High>0.00386243</High>
+    <Low>0.00370719</Low>
+    <Close>0.00373113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-01</Date>
+    <Open>0.00373109</Open>
+    <High>0.00375688</High>
+    <Low>0.00358832</Low>
+    <Close>0.00363002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-02</Date>
+    <Open>0.00362694</Open>
+    <High>0.00368043</High>
+    <Low>0.00357572</Low>
+    <Close>0.00366023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-03</Date>
+    <Open>0.00366123</Open>
+    <High>0.00366327</High>
+    <Low>0.00344479</Low>
+    <Close>0.00361494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-04</Date>
+    <Open>0.00361698</Open>
+    <High>0.00369192</High>
+    <Low>0.00354335</Low>
+    <Close>0.00358029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-05</Date>
+    <Open>0.00358129</Open>
+    <High>0.00376542</High>
+    <Low>0.00357243</Low>
+    <Close>0.00374741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-06</Date>
+    <Open>0.00374841</Open>
+    <High>0.00377485</High>
+    <Low>0.00347034</Low>
+    <Close>0.00351811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-07</Date>
+    <Open>0.00351797</Open>
+    <High>0.00354342</High>
+    <Low>0.00343905</Low>
+    <Close>0.0035051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-08</Date>
+    <Open>0.00350513</Open>
+    <High>0.00352616</High>
+    <Low>0.00298506</Low>
+    <Close>0.00300728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-09</Date>
+    <Open>0.00300951</Open>
+    <High>0.00305016</High>
+    <Low>0.00297827</Low>
+    <Close>0.00301501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-10</Date>
+    <Open>0.00301501</Open>
+    <High>0.0031825</High>
+    <Low>0.00297927</Low>
+    <Close>0.00311511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-11</Date>
+    <Open>0.00311611</Open>
+    <High>0.00319287</High>
+    <Low>0.00292592</Low>
+    <Close>0.00299499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-12</Date>
+    <Open>0.00299499</Open>
+    <High>0.00299499</High>
+    <Low>0.00266733</Low>
+    <Close>0.00282526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-13</Date>
+    <Open>0.00282626</Open>
+    <High>0.00290274</High>
+    <Low>0.00280096</Low>
+    <Close>0.00282541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-14</Date>
+    <Open>0.00282341</Open>
+    <High>0.00293447</High>
+    <Low>0.0027944</Low>
+    <Close>0.00289073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-15</Date>
+    <Open>0.00289073</Open>
+    <High>0.00301341</High>
+    <Low>0.00287844</Low>
+    <Close>0.00294006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-16</Date>
+    <Open>0.00293705</Open>
+    <High>0.00304752</High>
+    <Low>0.00286972</Low>
+    <Close>0.0030035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-17</Date>
+    <Open>0.0030042</Open>
+    <High>0.00315558</High>
+    <Low>0.00296619</Low>
+    <Close>0.00313325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-18</Date>
+    <Open>0.00313125</Open>
+    <High>0.00313457</High>
+    <Low>0.00291917</Low>
+    <Close>0.00302121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-19</Date>
+    <Open>0.00302121</Open>
+    <High>0.00307046</High>
+    <Low>0.00297024</Low>
+    <Close>0.00302091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-20</Date>
+    <Open>0.00302151</Open>
+    <High>0.00303252</High>
+    <Low>0.00293305</Low>
+    <Close>0.0029977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-21</Date>
+    <Open>0.00298068</Open>
+    <High>0.00299799</High>
+    <Low>0.00288944</Low>
+    <Close>0.00292075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-22</Date>
+    <Open>0.00291246</Open>
+    <High>0.00297478</High>
+    <Low>0.00287444</Low>
+    <Close>0.00294147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-23</Date>
+    <Open>0.00293947</Open>
+    <High>0.00303136</High>
+    <Low>0.00289955</Low>
+    <Close>0.00299918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-24</Date>
+    <Open>0.0030015</Open>
+    <High>0.00301621</High>
+    <Low>0.00284289</Low>
+    <Close>0.00288983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-25</Date>
+    <Open>0.00289383</Open>
+    <High>0.0028968</High>
+    <Low>0.00278381</Low>
+    <Close>0.00288406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-26</Date>
+    <Open>0.00288515</Open>
+    <High>0.00295871</High>
+    <Low>0.00283025</Low>
+    <Close>0.00295659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-27</Date>
+    <Open>0.00295389</Open>
+    <High>0.00298192</High>
+    <Low>0.00292491</Low>
+    <Close>0.00295009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="RSR">
+    <Date>2023-05-28</Date>
+    <Open>0.00294788</Open>
+    <High>0.00301881</High>
+    <Low>0.00293788</Low>
+    <Close>0.00300869</Close>
+  </Cryptocurrency>
+</Root>

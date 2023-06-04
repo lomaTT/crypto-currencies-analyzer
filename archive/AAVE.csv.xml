@@ -1,0 +1,6737 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-10</Date>
+    <Open>51.08</Open>
+    <High>51.08</High>
+    <Low>51.08</Low>
+    <Close>51.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-11</Date>
+    <Open>51.08</Open>
+    <High>51.08</High>
+    <Low>51.08</Low>
+    <Close>51.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-12</Date>
+    <Open>51.08</Open>
+    <High>52.4</High>
+    <Low>48.34</Low>
+    <Close>51.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-13</Date>
+    <Open>51.42</Open>
+    <High>53.04</High>
+    <Low>49.76</Low>
+    <Close>51.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-14</Date>
+    <Open>51.6</Open>
+    <High>57.02</High>
+    <Low>51.6</Low>
+    <Close>52.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-15</Date>
+    <Open>52.88</Open>
+    <High>53.09</High>
+    <Low>42.82</Low>
+    <Close>42.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-16</Date>
+    <Open>42.98</Open>
+    <High>43.84</High>
+    <Low>39.14</Low>
+    <Close>39.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-17</Date>
+    <Open>39.31</Open>
+    <High>43.27</High>
+    <Low>38.25</Low>
+    <Close>41.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-18</Date>
+    <Open>41.41</Open>
+    <High>41.47</High>
+    <Low>39.47</Low>
+    <Close>40.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-19</Date>
+    <Open>40.8</Open>
+    <High>41.04</High>
+    <Low>35.95</Low>
+    <Close>36.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-20</Date>
+    <Open>36.02</Open>
+    <High>36.44</High>
+    <Low>32.03</Low>
+    <Close>32.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-21</Date>
+    <Open>32.21</Open>
+    <High>37.21</High>
+    <Low>32.06</Low>
+    <Close>35.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-22</Date>
+    <Open>35.15</Open>
+    <High>40.4</High>
+    <Low>33.3</Low>
+    <Close>37.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-23</Date>
+    <Open>37.77</Open>
+    <High>42.69</High>
+    <Low>37.05</Low>
+    <Close>41.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-24</Date>
+    <Open>41.6</Open>
+    <High>42.67</High>
+    <Low>38.55</Low>
+    <Close>39.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-25</Date>
+    <Open>39.47</Open>
+    <High>41.04</High>
+    <Low>37.25</Low>
+    <Close>37.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-26</Date>
+    <Open>37.94</Open>
+    <High>39.23</High>
+    <Low>34.89</Low>
+    <Close>35.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-27</Date>
+    <Open>35.97</Open>
+    <High>39.0</High>
+    <Low>34.37</Low>
+    <Close>35.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-28</Date>
+    <Open>35.03</Open>
+    <High>35.67</High>
+    <Low>32.0</Low>
+    <Close>32.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-29</Date>
+    <Open>32.42</Open>
+    <High>33.21</High>
+    <Low>28.13</Low>
+    <Close>29.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-30</Date>
+    <Open>29.24</Open>
+    <High>32.03</High>
+    <Low>27.76</Low>
+    <Close>31.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-10-31</Date>
+    <Open>31.12</Open>
+    <High>32.93</High>
+    <Low>29.52</Low>
+    <Close>29.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-01</Date>
+    <Open>29.7</Open>
+    <High>31.12</High>
+    <Low>28.21</Low>
+    <Close>30.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-02</Date>
+    <Open>30.76</Open>
+    <High>34.5</High>
+    <Low>29.2</Low>
+    <Close>29.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-03</Date>
+    <Open>29.69</Open>
+    <High>30.1</High>
+    <Low>27.49</Low>
+    <Close>28.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-04</Date>
+    <Open>28.15</Open>
+    <High>28.47</High>
+    <Low>26.1</Low>
+    <Close>27.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-05</Date>
+    <Open>27.72</Open>
+    <High>32.99</High>
+    <Low>25.94</Low>
+    <Close>30.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-06</Date>
+    <Open>30.98</Open>
+    <High>41.0</High>
+    <Low>30.84</Low>
+    <Close>38.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-07</Date>
+    <Open>38.55</Open>
+    <High>51.87</High>
+    <Low>38.55</Low>
+    <Close>44.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-08</Date>
+    <Open>44.62</Open>
+    <High>54.87</High>
+    <Low>42.68</Low>
+    <Close>53.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-09</Date>
+    <Open>53.98</Open>
+    <High>59.0</High>
+    <Low>49.46</Low>
+    <Close>54.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-10</Date>
+    <Open>54.9</Open>
+    <High>70.89</High>
+    <Low>52.9</Low>
+    <Close>67.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-11</Date>
+    <Open>67.06</Open>
+    <High>69.33</High>
+    <Low>53.35</Low>
+    <Close>54.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-12</Date>
+    <Open>54.49</Open>
+    <High>60.0</High>
+    <Low>50.4</Low>
+    <Close>51.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-13</Date>
+    <Open>51.79</Open>
+    <High>66.88</High>
+    <Low>51.05</Low>
+    <Close>63.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-14</Date>
+    <Open>63.46</Open>
+    <High>68.87</High>
+    <Low>57.79</Low>
+    <Close>66.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-15</Date>
+    <Open>66.79</Open>
+    <High>71.48</High>
+    <Low>58.84</Low>
+    <Close>64.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-16</Date>
+    <Open>64.32</Open>
+    <High>74.5</High>
+    <Low>60.9</Low>
+    <Close>72.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-17</Date>
+    <Open>72.97</Open>
+    <High>80.08</High>
+    <Low>68.59</Low>
+    <Close>79.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-18</Date>
+    <Open>79.28</Open>
+    <High>80.0</High>
+    <Low>67.03</Low>
+    <Close>75.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-19</Date>
+    <Open>75.16</Open>
+    <High>81.52</High>
+    <Low>70.34</Low>
+    <Close>76.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-20</Date>
+    <Open>76.37</Open>
+    <High>82.43</High>
+    <Low>74.4</Low>
+    <Close>74.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-21</Date>
+    <Open>74.95</Open>
+    <High>77.01</High>
+    <Low>67.66</Low>
+    <Close>70.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-22</Date>
+    <Open>70.37</Open>
+    <High>74.7</High>
+    <Low>62.97</Low>
+    <Close>68.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-23</Date>
+    <Open>68.72</Open>
+    <High>73.94</High>
+    <Low>65.6</Low>
+    <Close>72.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-24</Date>
+    <Open>72.29</Open>
+    <High>75.34</High>
+    <Low>66.05</Low>
+    <Close>66.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-25</Date>
+    <Open>66.87</Open>
+    <High>67.52</High>
+    <Low>59.18</Low>
+    <Close>61.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-26</Date>
+    <Open>61.69</Open>
+    <High>65.31</High>
+    <Low>50.19</Low>
+    <Close>64.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-27</Date>
+    <Open>64.42</Open>
+    <High>69.11</High>
+    <Low>56.33</Low>
+    <Close>60.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-28</Date>
+    <Open>60.87</Open>
+    <High>66.45</High>
+    <Low>58.87</Low>
+    <Close>64.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-29</Date>
+    <Open>64.01</Open>
+    <High>69.83</High>
+    <Low>61.88</Low>
+    <Close>68.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-11-30</Date>
+    <Open>68.89</Open>
+    <High>79.88</High>
+    <Low>68.82</Low>
+    <Close>76.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-01</Date>
+    <Open>76.03</Open>
+    <High>79.06</High>
+    <Low>69.59</Low>
+    <Close>74.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-02</Date>
+    <Open>74.4</Open>
+    <High>90.78</High>
+    <Low>71.74</Low>
+    <Close>86.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-03</Date>
+    <Open>86.87</Open>
+    <High>94.81</High>
+    <Low>83.09</Low>
+    <Close>91.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-04</Date>
+    <Open>91.7</Open>
+    <High>91.7</High>
+    <Low>79.29</Low>
+    <Close>81.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-05</Date>
+    <Open>81.04</Open>
+    <High>92.93</High>
+    <Low>81.04</Low>
+    <Close>92.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-06</Date>
+    <Open>92.73</Open>
+    <High>93.01</High>
+    <Low>84.74</Low>
+    <Close>87.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-07</Date>
+    <Open>87.94</Open>
+    <High>95.0</High>
+    <Low>86.77</Low>
+    <Close>90.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-08</Date>
+    <Open>90.79</Open>
+    <High>91.17</High>
+    <Low>77.89</Low>
+    <Close>80.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-09</Date>
+    <Open>80.15</Open>
+    <High>86.13</High>
+    <Low>74.79</Low>
+    <Close>82.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-10</Date>
+    <Open>82.77</Open>
+    <High>83.07</High>
+    <Low>75.77</Low>
+    <Close>76.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-11</Date>
+    <Open>76.43</Open>
+    <High>79.61</High>
+    <Low>70.65</Low>
+    <Close>74.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-12</Date>
+    <Open>74.66</Open>
+    <High>80.34</High>
+    <Low>74.66</Low>
+    <Close>77.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-13</Date>
+    <Open>77.9</Open>
+    <High>84.94</High>
+    <Low>76.65</Low>
+    <Close>83.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-14</Date>
+    <Open>83.9</Open>
+    <High>91.56</High>
+    <Low>79.64</Low>
+    <Close>86.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-15</Date>
+    <Open>86.29</Open>
+    <High>88.98</High>
+    <Low>84.42</Low>
+    <Close>87.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-16</Date>
+    <Open>87.19</Open>
+    <High>89.74</High>
+    <Low>80.36</Low>
+    <Close>87.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-17</Date>
+    <Open>87.51</Open>
+    <High>89.87</High>
+    <Low>82.94</Low>
+    <Close>85.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-18</Date>
+    <Open>85.01</Open>
+    <High>90.51</High>
+    <Low>81.97</Low>
+    <Close>90.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-19</Date>
+    <Open>90.38</Open>
+    <High>96.27</High>
+    <Low>88.12</Low>
+    <Close>88.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-20</Date>
+    <Open>88.95</Open>
+    <High>89.86</High>
+    <Low>83.87</Low>
+    <Close>85.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-21</Date>
+    <Open>85.6</Open>
+    <High>87.72</High>
+    <Low>77.59</Low>
+    <Close>80.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-22</Date>
+    <Open>80.88</Open>
+    <High>86.54</High>
+    <Low>75.7</Low>
+    <Close>84.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-23</Date>
+    <Open>84.31</Open>
+    <High>84.42</High>
+    <Low>63.5</Low>
+    <Close>75.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-24</Date>
+    <Open>75.73</Open>
+    <High>80.49</High>
+    <Low>71.15</Low>
+    <Close>80.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-25</Date>
+    <Open>80.33</Open>
+    <High>81.84</High>
+    <Low>75.93</Low>
+    <Close>79.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-26</Date>
+    <Open>79.77</Open>
+    <High>79.77</High>
+    <Low>73.73</Low>
+    <Close>74.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-27</Date>
+    <Open>74.91</Open>
+    <High>81.81</High>
+    <Low>72.7</Low>
+    <Close>76.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-28</Date>
+    <Open>76.73</Open>
+    <High>85.84</High>
+    <Low>75.96</Low>
+    <Close>81.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-29</Date>
+    <Open>81.77</Open>
+    <High>82.81</High>
+    <Low>74.92</Low>
+    <Close>78.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-30</Date>
+    <Open>78.01</Open>
+    <High>85.9</High>
+    <Low>77.2</Low>
+    <Close>81.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2020-12-31</Date>
+    <Open>81.14</Open>
+    <High>88.62</High>
+    <Low>78.39</Low>
+    <Close>88.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-01</Date>
+    <Open>88.35</Open>
+    <High>90.86</High>
+    <Low>84.93</Low>
+    <Close>90.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-02</Date>
+    <Open>90.77</Open>
+    <High>91.88</High>
+    <Low>82.52</Low>
+    <Close>85.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-03</Date>
+    <Open>85.79</Open>
+    <High>94.91</High>
+    <Low>81.53</Low>
+    <Close>93.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-04</Date>
+    <Open>93.59</Open>
+    <High>115.38</High>
+    <Low>86.27</Low>
+    <Close>113.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-05</Date>
+    <Open>113.89</Open>
+    <High>123.55</High>
+    <Low>98.71</Low>
+    <Close>119.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-06</Date>
+    <Open>119.56</Open>
+    <High>120.11</High>
+    <Low>108.21</Low>
+    <Close>115.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-07</Date>
+    <Open>115.06</Open>
+    <High>128.8</High>
+    <Low>107.89</Low>
+    <Close>114.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-08</Date>
+    <Open>114.73</Open>
+    <High>118.77</High>
+    <Low>100.52</Low>
+    <Close>110.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-09</Date>
+    <Open>110.5</Open>
+    <High>119.6</High>
+    <Low>106.5</Low>
+    <Close>118.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-10</Date>
+    <Open>118.13</Open>
+    <High>135.42</High>
+    <Low>111.57</Low>
+    <Close>126.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-11</Date>
+    <Open>126.95</Open>
+    <High>127.4</High>
+    <Low>94.18</Low>
+    <Close>114.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-12</Date>
+    <Open>114.43</Open>
+    <High>135.87</High>
+    <Low>109.27</Low>
+    <Close>127.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-13</Date>
+    <Open>127.53</Open>
+    <High>147.87</High>
+    <Low>119.88</Low>
+    <Close>146.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-14</Date>
+    <Open>146.97</Open>
+    <High>154.7</High>
+    <Low>139.09</Low>
+    <Close>147.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-15</Date>
+    <Open>147.43</Open>
+    <High>168.65</High>
+    <Low>139.62</Low>
+    <Close>166.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-16</Date>
+    <Open>166.6</Open>
+    <High>203.22</High>
+    <Low>166.36</Low>
+    <Close>181.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-17</Date>
+    <Open>181.43</Open>
+    <High>198.83</High>
+    <Low>174.41</Low>
+    <Close>186.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-18</Date>
+    <Open>186.59</Open>
+    <High>200.21</High>
+    <Low>180.72</Low>
+    <Close>200.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-19</Date>
+    <Open>200.17</Open>
+    <High>209.82</High>
+    <Low>184.8</Low>
+    <Close>186.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-20</Date>
+    <Open>186.54</Open>
+    <High>199.39</High>
+    <Low>171.74</Low>
+    <Close>197.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-21</Date>
+    <Open>197.41</Open>
+    <High>198.71</High>
+    <Low>155.45</Low>
+    <Close>160.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-22</Date>
+    <Open>160.36</Open>
+    <High>199.41</High>
+    <Low>147.64</Low>
+    <Close>190.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-23</Date>
+    <Open>190.29</Open>
+    <High>220.18</High>
+    <Low>185.84</Low>
+    <Close>213.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-24</Date>
+    <Open>213.53</Open>
+    <High>342.99</High>
+    <Low>212.4</Low>
+    <Close>264.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-25</Date>
+    <Open>264.24</Open>
+    <High>283.05</High>
+    <Low>238.13</Low>
+    <Close>248.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-26</Date>
+    <Open>248.26</Open>
+    <High>293.95</High>
+    <Low>240.62</Low>
+    <Close>277.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-27</Date>
+    <Open>277.74</Open>
+    <High>299.09</High>
+    <Low>255.69</Low>
+    <Close>287.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-28</Date>
+    <Open>287.5</Open>
+    <High>309.26</High>
+    <Low>275.63</Low>
+    <Close>297.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-29</Date>
+    <Open>297.65</Open>
+    <High>309.85</High>
+    <Low>270.77</Low>
+    <Close>288.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-30</Date>
+    <Open>287.69</Open>
+    <High>323.96</High>
+    <Low>282.43</Low>
+    <Close>316.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-01-31</Date>
+    <Open>316.55</Open>
+    <High>319.21</High>
+    <Low>291.04</Low>
+    <Close>300.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-01</Date>
+    <Open>300.36</Open>
+    <High>307.51</High>
+    <Low>284.12</Low>
+    <Close>295.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-02</Date>
+    <Open>294.67</Open>
+    <High>306.92</High>
+    <Low>285.26</Low>
+    <Close>303.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-03</Date>
+    <Open>303.6</Open>
+    <High>388.49</High>
+    <Low>300.89</Low>
+    <Close>384.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-04</Date>
+    <Open>385.53</Open>
+    <High>543.64</High>
+    <Low>384.96</Low>
+    <Close>468.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-05</Date>
+    <Open>467.28</Open>
+    <High>542.32</High>
+    <Low>465.17</Low>
+    <Close>505.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-06</Date>
+    <Open>505.02</Open>
+    <High>510.57</High>
+    <Low>434.55</Low>
+    <Close>473.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-07</Date>
+    <Open>473.96</Open>
+    <High>482.38</High>
+    <Low>393.43</Low>
+    <Close>471.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-08</Date>
+    <Open>471.33</Open>
+    <High>531.38</High>
+    <Low>463.06</Low>
+    <Close>489.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-09</Date>
+    <Open>489.77</Open>
+    <High>510.94</High>
+    <Low>472.01</Low>
+    <Close>489.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-10</Date>
+    <Open>489.19</Open>
+    <High>581.66</High>
+    <Low>488.61</Low>
+    <Close>524.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-11</Date>
+    <Open>521.94</Open>
+    <High>542.26</High>
+    <Low>509.09</Low>
+    <Close>518.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-12</Date>
+    <Open>518.28</Open>
+    <High>546.17</High>
+    <Low>500.63</Low>
+    <Close>529.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-13</Date>
+    <Open>530.7</Open>
+    <High>543.79</High>
+    <Low>485.96</Low>
+    <Close>494.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-14</Date>
+    <Open>495.14</Open>
+    <High>509.74</High>
+    <Low>461.24</Low>
+    <Close>469.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-15</Date>
+    <Open>470.06</Open>
+    <High>496.77</High>
+    <Low>382.83</Low>
+    <Close>456.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-16</Date>
+    <Open>456.14</Open>
+    <High>478.76</High>
+    <Low>421.75</Low>
+    <Close>432.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-17</Date>
+    <Open>432.64</Open>
+    <High>468.45</High>
+    <Low>400.13</Low>
+    <Close>450.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-18</Date>
+    <Open>450.52</Open>
+    <High>479.78</High>
+    <Low>434.61</Low>
+    <Close>441.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-19</Date>
+    <Open>441.45</Open>
+    <High>450.83</High>
+    <Low>405.52</Low>
+    <Close>419.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-20</Date>
+    <Open>419.38</Open>
+    <High>497.81</High>
+    <Low>405.87</Low>
+    <Close>442.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-21</Date>
+    <Open>442.16</Open>
+    <High>454.68</High>
+    <Low>424.33</Low>
+    <Close>437.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-22</Date>
+    <Open>437.21</Open>
+    <High>448.18</High>
+    <Low>349.46</Low>
+    <Close>399.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-23</Date>
+    <Open>399.99</Open>
+    <High>403.93</High>
+    <Low>285.43</Low>
+    <Close>363.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-24</Date>
+    <Open>363.52</Open>
+    <High>406.3</High>
+    <Low>342.05</Low>
+    <Close>367.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-25</Date>
+    <Open>367.95</Open>
+    <High>388.81</High>
+    <Low>335.01</Low>
+    <Close>337.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-26</Date>
+    <Open>337.88</Open>
+    <High>353.21</High>
+    <Low>303.16</Low>
+    <Close>323.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-27</Date>
+    <Open>323.03</Open>
+    <High>350.23</High>
+    <Low>323.03</Low>
+    <Close>332.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-02-28</Date>
+    <Open>332.96</Open>
+    <High>366.48</High>
+    <Low>301.18</Low>
+    <Close>354.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-01</Date>
+    <Open>354.58</Open>
+    <High>388.93</High>
+    <Low>350.41</Low>
+    <Close>384.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-02</Date>
+    <Open>384.52</Open>
+    <High>417.61</High>
+    <Low>376.83</Low>
+    <Close>391.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-03</Date>
+    <Open>391.24</Open>
+    <High>418.84</High>
+    <Low>384.06</Low>
+    <Close>396.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-04</Date>
+    <Open>396.24</Open>
+    <High>410.59</High>
+    <Low>366.09</Low>
+    <Close>373.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-05</Date>
+    <Open>373.93</Open>
+    <High>377.42</High>
+    <Low>340.6</Low>
+    <Close>367.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-06</Date>
+    <Open>367.48</Open>
+    <High>390.85</High>
+    <Low>351.97</Low>
+    <Close>388.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-07</Date>
+    <Open>388.38</Open>
+    <High>419.65</High>
+    <Low>384.19</Low>
+    <Close>414.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-08</Date>
+    <Open>414.75</Open>
+    <High>437.1</High>
+    <Low>391.95</Low>
+    <Close>437.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-09</Date>
+    <Open>437.08</Open>
+    <High>449.58</High>
+    <Low>417.48</Low>
+    <Close>444.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-10</Date>
+    <Open>444.36</Open>
+    <High>459.18</High>
+    <Low>399.79</Low>
+    <Close>407.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-11</Date>
+    <Open>407.58</Open>
+    <High>415.94</High>
+    <Low>388.08</Low>
+    <Close>404.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-12</Date>
+    <Open>404.84</Open>
+    <High>407.97</High>
+    <Low>360.57</Low>
+    <Close>374.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-13</Date>
+    <Open>374.16</Open>
+    <High>427.81</High>
+    <Low>359.8</Low>
+    <Close>413.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-14</Date>
+    <Open>413.66</Open>
+    <High>418.22</High>
+    <Low>377.08</Low>
+    <Close>380.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-15</Date>
+    <Open>380.96</Open>
+    <High>389.67</High>
+    <Low>356.08</Low>
+    <Close>367.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-16</Date>
+    <Open>367.07</Open>
+    <High>377.08</High>
+    <Low>350.46</Low>
+    <Close>370.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-17</Date>
+    <Open>370.08</Open>
+    <High>383.76</High>
+    <Low>358.16</Low>
+    <Close>381.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-18</Date>
+    <Open>381.61</Open>
+    <High>384.4</High>
+    <Low>361.02</Low>
+    <Close>363.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-19</Date>
+    <Open>363.06</Open>
+    <High>379.55</High>
+    <Low>353.87</Low>
+    <Close>369.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-20</Date>
+    <Open>369.03</Open>
+    <High>395.95</High>
+    <Low>367.36</Low>
+    <Close>369.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-21</Date>
+    <Open>369.91</Open>
+    <High>375.75</High>
+    <Low>359.73</Low>
+    <Close>367.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-22</Date>
+    <Open>367.39</Open>
+    <High>372.58</High>
+    <Low>332.52</Low>
+    <Close>336.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-23</Date>
+    <Open>336.69</Open>
+    <High>345.28</High>
+    <Low>326.27</Low>
+    <Close>330.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-24</Date>
+    <Open>330.87</Open>
+    <High>348.64</High>
+    <Low>297.32</Low>
+    <Close>308.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-25</Date>
+    <Open>308.75</Open>
+    <High>333.08</High>
+    <Low>298.57</Low>
+    <Close>325.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-26</Date>
+    <Open>325.38</Open>
+    <High>360.49</High>
+    <Low>325.3</Low>
+    <Close>358.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-27</Date>
+    <Open>358.32</Open>
+    <High>361.84</High>
+    <Low>339.6</Low>
+    <Close>351.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-28</Date>
+    <Open>351.33</Open>
+    <High>356.62</High>
+    <Low>332.76</Low>
+    <Close>348.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-29</Date>
+    <Open>348.14</Open>
+    <High>367.63</High>
+    <Low>344.47</Low>
+    <Close>360.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-30</Date>
+    <Open>360.58</Open>
+    <High>383.76</High>
+    <Low>353.44</Low>
+    <Close>377.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-03-31</Date>
+    <Open>377.89</Open>
+    <High>394.74</High>
+    <Low>358.36</Low>
+    <Close>382.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-01</Date>
+    <Open>382.41</Open>
+    <High>393.35</High>
+    <Low>371.21</Low>
+    <Close>382.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-02</Date>
+    <Open>382.15</Open>
+    <High>422.18</High>
+    <Low>377.39</Low>
+    <Close>419.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-03</Date>
+    <Open>419.93</Open>
+    <High>425.37</High>
+    <Low>376.78</Low>
+    <Close>379.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-04</Date>
+    <Open>379.72</Open>
+    <High>411.56</High>
+    <Low>372.47</Low>
+    <Close>403.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-05</Date>
+    <Open>403.33</Open>
+    <High>408.1</High>
+    <Low>383.53</Low>
+    <Close>397.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-06</Date>
+    <Open>397.65</Open>
+    <High>414.95</High>
+    <Low>379.5</Low>
+    <Close>383.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-07</Date>
+    <Open>383.09</Open>
+    <High>386.98</High>
+    <Low>340.57</Low>
+    <Close>348.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-08</Date>
+    <Open>348.93</Open>
+    <High>371.37</High>
+    <Low>346.59</Low>
+    <Close>371.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-09</Date>
+    <Open>371.03</Open>
+    <High>373.93</High>
+    <Low>356.91</Low>
+    <Close>358.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-10</Date>
+    <Open>358.87</Open>
+    <High>375.54</High>
+    <Low>356.26</Low>
+    <Close>367.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-11</Date>
+    <Open>367.23</Open>
+    <High>374.48</High>
+    <Low>360.48</Low>
+    <Close>372.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-12</Date>
+    <Open>372.11</Open>
+    <High>417.89</High>
+    <Low>365.34</Low>
+    <Close>397.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-13</Date>
+    <Open>397.51</Open>
+    <High>420.64</High>
+    <Low>384.28</Low>
+    <Close>398.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-14</Date>
+    <Open>398.89</Open>
+    <High>430.82</High>
+    <Low>387.05</Low>
+    <Close>429.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-15</Date>
+    <Open>429.07</Open>
+    <High>488.75</High>
+    <Low>423.15</Low>
+    <Close>466.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-16</Date>
+    <Open>466.76</Open>
+    <High>470.5</High>
+    <Low>419.46</Low>
+    <Close>442.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-17</Date>
+    <Open>442.13</Open>
+    <High>461.99</High>
+    <Low>418.69</Low>
+    <Close>426.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-18</Date>
+    <Open>426.25</Open>
+    <High>429.15</High>
+    <Low>284.14</Low>
+    <Close>381.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-19</Date>
+    <Open>381.97</Open>
+    <High>398.62</High>
+    <Low>341.14</Low>
+    <Close>344.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-20</Date>
+    <Open>344.3</Open>
+    <High>371.66</High>
+    <Low>310.28</Low>
+    <Close>360.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-21</Date>
+    <Open>360.99</Open>
+    <High>384.52</High>
+    <Low>341.53</Low>
+    <Close>351.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-22</Date>
+    <Open>351.26</Open>
+    <High>414.89</High>
+    <Low>343.84</Low>
+    <Close>360.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-23</Date>
+    <Open>360.91</Open>
+    <High>372.57</High>
+    <Low>309.53</Low>
+    <Close>343.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-24</Date>
+    <Open>343.76</Open>
+    <High>344.7</High>
+    <Low>314.67</Low>
+    <Close>318.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-25</Date>
+    <Open>318.01</Open>
+    <High>353.97</High>
+    <Low>315.44</Low>
+    <Close>348.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-26</Date>
+    <Open>348.76</Open>
+    <High>409.25</High>
+    <Low>346.17</Low>
+    <Close>405.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-27</Date>
+    <Open>405.63</Open>
+    <High>452.74</High>
+    <Low>394.53</Low>
+    <Close>441.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-28</Date>
+    <Open>441.01</Open>
+    <High>487.1</High>
+    <Low>423.63</Low>
+    <Close>461.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-29</Date>
+    <Open>461.36</Open>
+    <High>463.1</High>
+    <Low>424.09</Low>
+    <Close>438.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-04-30</Date>
+    <Open>438.93</Open>
+    <High>459.63</High>
+    <Low>429.28</Low>
+    <Close>444.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-01</Date>
+    <Open>444.66</Open>
+    <High>511.9</High>
+    <Low>436.51</Low>
+    <Close>505.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-02</Date>
+    <Open>505.24</Open>
+    <High>509.48</High>
+    <Low>471.28</Low>
+    <Close>483.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-03</Date>
+    <Open>483.25</Open>
+    <High>534.92</High>
+    <Low>481.18</Low>
+    <Close>517.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-04</Date>
+    <Open>517.8</Open>
+    <High>520.36</High>
+    <Low>443.21</Low>
+    <Close>448.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-05</Date>
+    <Open>448.49</Open>
+    <High>485.36</High>
+    <Low>439.98</Low>
+    <Close>481.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-06</Date>
+    <Open>481.02</Open>
+    <High>482.68</High>
+    <Low>440.84</Low>
+    <Close>453.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-07</Date>
+    <Open>453.37</Open>
+    <High>469.78</High>
+    <Low>433.01</Low>
+    <Close>445.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-08</Date>
+    <Open>445.57</Open>
+    <High>476.27</High>
+    <Low>441.11</Low>
+    <Close>467.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-09</Date>
+    <Open>466.56</Open>
+    <High>470.09</High>
+    <Low>441.41</Low>
+    <Close>459.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-10</Date>
+    <Open>459.8</Open>
+    <High>482.65</High>
+    <Low>403.92</Low>
+    <Close>433.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-11</Date>
+    <Open>433.44</Open>
+    <High>459.91</High>
+    <Low>417.54</Low>
+    <Close>458.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-12</Date>
+    <Open>457.68</Open>
+    <High>597.38</High>
+    <Low>456.0</Low>
+    <Close>506.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-13</Date>
+    <Open>506.83</Open>
+    <High>620.66</High>
+    <Low>456.19</Low>
+    <Close>509.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-14</Date>
+    <Open>509.33</Open>
+    <High>634.11</High>
+    <Low>506.58</Low>
+    <Close>595.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-15</Date>
+    <Open>595.35</Open>
+    <High>612.22</High>
+    <Low>509.12</Low>
+    <Close>517.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-16</Date>
+    <Open>517.09</Open>
+    <High>562.76</High>
+    <Low>478.59</Low>
+    <Close>528.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-17</Date>
+    <Open>528.24</Open>
+    <High>594.02</High>
+    <Low>470.41</Low>
+    <Close>572.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-18</Date>
+    <Open>573.43</Open>
+    <High>667.83</High>
+    <Low>563.16</Low>
+    <Close>630.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-19</Date>
+    <Open>629.04</Open>
+    <High>649.47</High>
+    <Low>357.81</Low>
+    <Close>411.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-20</Date>
+    <Open>411.9</Open>
+    <High>510.57</High>
+    <Low>358.88</Low>
+    <Close>467.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-21</Date>
+    <Open>467.82</Open>
+    <High>495.07</High>
+    <Low>310.62</Low>
+    <Close>374.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-22</Date>
+    <Open>373.35</Open>
+    <High>383.35</High>
+    <Low>310.75</Low>
+    <Close>335.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-23</Date>
+    <Open>335.01</Open>
+    <High>351.19</High>
+    <Low>208.91</Low>
+    <Close>294.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-24</Date>
+    <Open>293.56</Open>
+    <High>398.33</High>
+    <Low>288.61</Low>
+    <Close>386.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-25</Date>
+    <Open>386.07</Open>
+    <High>404.47</High>
+    <Low>322.43</Low>
+    <Close>370.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-26</Date>
+    <Open>370.88</Open>
+    <High>417.41</High>
+    <Low>358.73</Low>
+    <Close>414.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-27</Date>
+    <Open>414.98</Open>
+    <High>415.75</High>
+    <Low>365.44</Low>
+    <Close>371.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-28</Date>
+    <Open>371.16</Open>
+    <High>376.32</High>
+    <Low>304.32</Low>
+    <Close>319.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-29</Date>
+    <Open>319.84</Open>
+    <High>335.47</High>
+    <Low>280.46</Low>
+    <Close>297.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-30</Date>
+    <Open>297.66</Open>
+    <High>338.89</High>
+    <Low>281.84</Low>
+    <Close>324.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-05-31</Date>
+    <Open>324.58</Open>
+    <High>385.06</High>
+    <Low>304.57</Low>
+    <Close>382.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-01</Date>
+    <Open>382.46</Open>
+    <High>393.2</High>
+    <Low>360.88</Low>
+    <Close>372.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-02</Date>
+    <Open>372.85</Open>
+    <High>401.94</High>
+    <Low>361.81</Low>
+    <Close>384.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-03</Date>
+    <Open>384.33</Open>
+    <High>409.17</High>
+    <Low>376.56</Low>
+    <Close>398.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-04</Date>
+    <Open>398.29</Open>
+    <High>399.15</High>
+    <Low>347.34</Low>
+    <Close>373.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-05</Date>
+    <Open>373.43</Open>
+    <High>391.54</High>
+    <Low>347.33</Low>
+    <Close>356.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-06</Date>
+    <Open>356.24</Open>
+    <High>368.31</High>
+    <Low>354.64</Low>
+    <Close>365.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-07</Date>
+    <Open>365.38</Open>
+    <High>387.49</High>
+    <Low>331.92</Low>
+    <Close>334.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-08</Date>
+    <Open>334.89</Open>
+    <High>339.34</High>
+    <Low>297.09</Low>
+    <Close>329.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-09</Date>
+    <Open>329.82</Open>
+    <High>343.38</High>
+    <Low>305.97</Low>
+    <Close>338.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-10</Date>
+    <Open>338.7</Open>
+    <High>339.82</High>
+    <Low>304.16</Low>
+    <Close>310.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-11</Date>
+    <Open>310.52</Open>
+    <High>315.08</High>
+    <Low>280.67</Low>
+    <Close>284.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-12</Date>
+    <Open>285.27</Open>
+    <High>289.15</High>
+    <Low>265.97</Low>
+    <Close>278.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-13</Date>
+    <Open>278.32</Open>
+    <High>317.66</High>
+    <Low>267.11</Low>
+    <Close>316.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-14</Date>
+    <Open>316.58</Open>
+    <High>335.67</High>
+    <Low>309.44</Low>
+    <Close>317.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-15</Date>
+    <Open>318.01</Open>
+    <High>327.24</High>
+    <Low>307.25</Low>
+    <Close>311.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-16</Date>
+    <Open>311.91</Open>
+    <High>313.81</High>
+    <Low>287.37</Low>
+    <Close>290.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-17</Date>
+    <Open>290.49</Open>
+    <High>305.33</High>
+    <Low>285.43</Low>
+    <Close>293.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-18</Date>
+    <Open>293.15</Open>
+    <High>293.94</High>
+    <Low>253.28</Low>
+    <Close>265.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-19</Date>
+    <Open>265.34</Open>
+    <High>270.07</High>
+    <Low>254.77</Low>
+    <Close>255.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-20</Date>
+    <Open>255.1</Open>
+    <High>277.42</High>
+    <Low>242.61</Low>
+    <Close>272.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-21</Date>
+    <Open>272.73</Open>
+    <High>275.25</High>
+    <Low>206.48</Low>
+    <Close>212.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-22</Date>
+    <Open>212.6</Open>
+    <High>223.65</High>
+    <Low>170.5</Low>
+    <Close>205.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-23</Date>
+    <Open>206.1</Open>
+    <High>229.58</High>
+    <Low>197.23</Low>
+    <Close>207.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-24</Date>
+    <Open>207.65</Open>
+    <High>218.32</High>
+    <Low>193.17</Low>
+    <Close>211.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-25</Date>
+    <Open>211.03</Open>
+    <High>214.52</High>
+    <Low>185.22</Low>
+    <Close>186.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-26</Date>
+    <Open>186.94</Open>
+    <High>193.41</High>
+    <Low>176.74</Low>
+    <Close>187.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-27</Date>
+    <Open>187.34</Open>
+    <High>203.3</High>
+    <Low>183.38</Low>
+    <Close>202.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-28</Date>
+    <Open>202.97</Open>
+    <High>233.07</High>
+    <Low>200.67</Low>
+    <Close>227.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-29</Date>
+    <Open>227.29</Open>
+    <High>253.18</High>
+    <Low>226.1</Low>
+    <Close>238.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-06-30</Date>
+    <Open>238.17</Open>
+    <High>252.33</High>
+    <Low>219.87</Low>
+    <Close>250.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-01</Date>
+    <Open>250.93</Open>
+    <High>252.64</High>
+    <Low>227.42</Low>
+    <Close>230.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-02</Date>
+    <Open>230.33</Open>
+    <High>234.86</High>
+    <Low>215.72</Low>
+    <Close>234.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-03</Date>
+    <Open>234.11</Open>
+    <High>266.45</High>
+    <Low>227.91</Low>
+    <Close>259.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-04</Date>
+    <Open>259.4</Open>
+    <High>289.73</High>
+    <Low>248.08</Low>
+    <Close>277.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-05</Date>
+    <Open>277.04</Open>
+    <High>318.18</High>
+    <Low>260.87</Low>
+    <Close>308.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-06</Date>
+    <Open>308.06</Open>
+    <High>347.42</High>
+    <Low>308.06</Low>
+    <Close>316.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-07</Date>
+    <Open>316.49</Open>
+    <High>331.63</High>
+    <Low>310.26</Low>
+    <Close>314.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-08</Date>
+    <Open>314.79</Open>
+    <High>315.37</High>
+    <Low>276.16</Low>
+    <Close>291.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-09</Date>
+    <Open>291.1</Open>
+    <High>314.41</High>
+    <Low>275.93</Low>
+    <Close>302.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-10</Date>
+    <Open>302.96</Open>
+    <High>311.74</High>
+    <Low>288.55</Low>
+    <Close>294.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-11</Date>
+    <Open>294.73</Open>
+    <High>310.83</High>
+    <Low>286.27</Low>
+    <Close>304.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-12</Date>
+    <Open>304.76</Open>
+    <High>321.7</High>
+    <Low>291.36</Low>
+    <Close>296.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-13</Date>
+    <Open>296.91</Open>
+    <High>297.58</High>
+    <Low>267.62</Low>
+    <Close>271.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-14</Date>
+    <Open>271.21</Open>
+    <High>285.47</High>
+    <Low>251.99</Low>
+    <Close>279.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-15</Date>
+    <Open>279.29</Open>
+    <High>288.17</High>
+    <Low>265.6</Low>
+    <Close>272.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-16</Date>
+    <Open>272.03</Open>
+    <High>279.92</High>
+    <Low>252.64</Low>
+    <Close>253.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-17</Date>
+    <Open>253.47</Open>
+    <High>258.91</High>
+    <Low>245.62</Low>
+    <Close>253.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-18</Date>
+    <Open>253.34</Open>
+    <High>268.1</High>
+    <Low>251.12</Low>
+    <Close>254.13</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-19</Date>
+    <Open>254.13</Open>
+    <High>255.67</High>
+    <Low>233.36</Low>
+    <Close>238.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-20</Date>
+    <Open>238.51</Open>
+    <High>242.13</High>
+    <Low>212.82</Low>
+    <Close>223.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-21</Date>
+    <Open>223.1</Open>
+    <High>262.94</High>
+    <Low>217.22</Low>
+    <Close>259.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-22</Date>
+    <Open>259.1</Open>
+    <High>280.24</High>
+    <Low>256.88</Low>
+    <Close>278.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-23</Date>
+    <Open>278.65</Open>
+    <High>292.8</High>
+    <Low>268.24</Low>
+    <Close>289.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-24</Date>
+    <Open>289.82</Open>
+    <High>299.25</High>
+    <Low>281.25</Low>
+    <Close>287.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-25</Date>
+    <Open>287.93</Open>
+    <High>293.18</High>
+    <Low>272.41</Low>
+    <Close>288.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-26</Date>
+    <Open>288.3</Open>
+    <High>335.48</High>
+    <Low>285.86</Low>
+    <Close>302.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-27</Date>
+    <Open>302.56</Open>
+    <High>312.3</High>
+    <Low>283.52</Low>
+    <Close>299.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-28</Date>
+    <Open>299.98</Open>
+    <High>308.85</High>
+    <Low>292.19</Low>
+    <Close>297.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-29</Date>
+    <Open>297.76</Open>
+    <High>314.72</High>
+    <Low>292.6</Low>
+    <Close>311.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-30</Date>
+    <Open>311.97</Open>
+    <High>323.65</High>
+    <Low>300.14</Low>
+    <Close>320.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-07-31</Date>
+    <Open>320.51</Open>
+    <High>332.89</High>
+    <Low>312.91</Low>
+    <Close>331.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-01</Date>
+    <Open>331.2</Open>
+    <High>339.83</High>
+    <Low>314.17</Low>
+    <Close>316.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-02</Date>
+    <Open>316.72</Open>
+    <High>328.9</High>
+    <Low>309.24</Low>
+    <Close>320.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-03</Date>
+    <Open>320.49</Open>
+    <High>323.95</High>
+    <Low>302.24</Low>
+    <Close>308.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-04</Date>
+    <Open>308.36</Open>
+    <High>342.86</High>
+    <Low>300.43</Low>
+    <Close>338.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-05</Date>
+    <Open>338.94</Open>
+    <High>382.57</High>
+    <Low>337.33</Low>
+    <Close>373.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-06</Date>
+    <Open>372.99</Open>
+    <High>379.28</High>
+    <Low>357.15</Low>
+    <Close>369.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-07</Date>
+    <Open>369.62</Open>
+    <High>399.65</High>
+    <Low>365.17</Low>
+    <Close>385.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-08</Date>
+    <Open>385.02</Open>
+    <High>389.23</High>
+    <Low>352.13</Low>
+    <Close>360.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-09</Date>
+    <Open>360.79</Open>
+    <High>384.75</High>
+    <Low>347.52</Low>
+    <Close>374.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-10</Date>
+    <Open>374.09</Open>
+    <High>399.93</High>
+    <Low>368.03</Low>
+    <Close>384.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-11</Date>
+    <Open>384.05</Open>
+    <High>420.01</High>
+    <Low>382.8</Low>
+    <Close>403.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-12</Date>
+    <Open>406.39</Open>
+    <High>406.86</High>
+    <Low>376.3</Low>
+    <Close>392.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-13</Date>
+    <Open>392.66</Open>
+    <High>428.16</High>
+    <Low>388.53</Low>
+    <Close>427.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-14</Date>
+    <Open>427.48</Open>
+    <High>428.38</High>
+    <Low>404.84</Low>
+    <Close>414.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-15</Date>
+    <Open>414.81</Open>
+    <High>416.49</High>
+    <Low>391.75</Low>
+    <Close>410.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-16</Date>
+    <Open>410.73</Open>
+    <High>446.56</High>
+    <Low>408.11</Low>
+    <Close>412.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-17</Date>
+    <Open>413.43</Open>
+    <High>448.26</High>
+    <Low>374.09</Low>
+    <Close>381.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-18</Date>
+    <Open>381.12</Open>
+    <High>397.79</High>
+    <Low>361.47</Low>
+    <Close>380.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-19</Date>
+    <Open>380.26</Open>
+    <High>405.12</High>
+    <Low>370.66</Low>
+    <Close>405.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-20</Date>
+    <Open>405.07</Open>
+    <High>420.77</High>
+    <Low>403.51</Low>
+    <Close>408.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-21</Date>
+    <Open>408.91</Open>
+    <High>416.16</High>
+    <Low>394.05</Low>
+    <Close>400.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-22</Date>
+    <Open>400.33</Open>
+    <High>408.91</High>
+    <Low>386.94</Low>
+    <Close>401.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-23</Date>
+    <Open>401.49</Open>
+    <High>415.33</High>
+    <Low>399.42</Low>
+    <Close>408.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-24</Date>
+    <Open>408.39</Open>
+    <High>413.9</High>
+    <Low>371.62</Low>
+    <Close>378.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-25</Date>
+    <Open>378.34</Open>
+    <High>385.83</High>
+    <Low>363.89</Low>
+    <Close>384.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-26</Date>
+    <Open>384.11</Open>
+    <High>389.12</High>
+    <Low>341.41</Low>
+    <Close>351.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-27</Date>
+    <Open>351.06</Open>
+    <High>375.32</High>
+    <Low>344.4</Low>
+    <Close>372.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-28</Date>
+    <Open>373.09</Open>
+    <High>376.02</High>
+    <Low>362.48</Low>
+    <Close>367.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-29</Date>
+    <Open>367.26</Open>
+    <High>377.68</High>
+    <Low>355.89</Low>
+    <Close>364.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-30</Date>
+    <Open>364.04</Open>
+    <High>376.9</High>
+    <Low>346.37</Low>
+    <Close>357.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-08-31</Date>
+    <Open>357.62</Open>
+    <High>397.0</High>
+    <Low>350.73</Low>
+    <Close>392.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-01</Date>
+    <Open>391.83</Open>
+    <High>414.06</High>
+    <Low>382.02</Low>
+    <Close>413.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-02</Date>
+    <Open>413.41</Open>
+    <High>415.18</High>
+    <Low>399.36</Low>
+    <Close>399.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-03</Date>
+    <Open>399.89</Open>
+    <High>407.91</High>
+    <Low>387.32</Low>
+    <Close>394.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-04</Date>
+    <Open>394.98</Open>
+    <High>406.6</High>
+    <Low>390.73</Low>
+    <Close>397.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-05</Date>
+    <Open>397.66</Open>
+    <High>425.42</High>
+    <Low>394.84</Low>
+    <Close>416.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-06</Date>
+    <Open>416.8</Open>
+    <High>424.95</High>
+    <Low>396.24</Low>
+    <Close>408.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-07</Date>
+    <Open>408.96</Open>
+    <High>409.4</High>
+    <Low>311.52</Low>
+    <Close>345.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-08</Date>
+    <Open>345.55</Open>
+    <High>353.12</High>
+    <Low>312.12</Low>
+    <Close>330.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-09</Date>
+    <Open>330.34</Open>
+    <High>350.55</High>
+    <Low>325.1</Low>
+    <Close>330.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-10</Date>
+    <Open>330.0</Open>
+    <High>340.03</High>
+    <Low>304.51</Low>
+    <Close>312.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-11</Date>
+    <Open>312.02</Open>
+    <High>339.84</High>
+    <Low>310.96</Low>
+    <Close>328.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-12</Date>
+    <Open>328.58</Open>
+    <High>348.33</High>
+    <Low>321.91</Low>
+    <Close>333.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-13</Date>
+    <Open>333.34</Open>
+    <High>337.25</High>
+    <Low>303.67</Low>
+    <Close>330.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-14</Date>
+    <Open>330.79</Open>
+    <High>390.05</High>
+    <Low>327.74</Low>
+    <Close>384.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-15</Date>
+    <Open>384.25</Open>
+    <High>417.5</High>
+    <Low>376.24</Low>
+    <Close>414.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-16</Date>
+    <Open>415.14</Open>
+    <High>415.14</High>
+    <Low>371.18</Low>
+    <Close>384.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-17</Date>
+    <Open>384.29</Open>
+    <High>389.7</High>
+    <Low>350.65</Low>
+    <Close>354.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-18</Date>
+    <Open>354.02</Open>
+    <High>368.89</High>
+    <Low>347.22</Low>
+    <Close>355.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-19</Date>
+    <Open>355.37</Open>
+    <High>357.98</High>
+    <Low>335.24</Low>
+    <Close>340.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-20</Date>
+    <Open>340.08</Open>
+    <High>340.84</High>
+    <Low>287.76</Low>
+    <Close>290.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-21</Date>
+    <Open>290.14</Open>
+    <High>306.52</High>
+    <Low>260.07</Low>
+    <Close>271.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-22</Date>
+    <Open>271.43</Open>
+    <High>303.51</High>
+    <Low>266.14</Low>
+    <Close>301.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-23</Date>
+    <Open>301.88</Open>
+    <High>309.77</High>
+    <Low>294.7</Low>
+    <Close>309.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-24</Date>
+    <Open>309.16</Open>
+    <High>311.5</High>
+    <Low>262.7</Low>
+    <Close>281.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-25</Date>
+    <Open>281.06</Open>
+    <High>284.27</High>
+    <Low>268.67</Low>
+    <Close>274.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-26</Date>
+    <Open>274.6</Open>
+    <High>300.69</High>
+    <Low>252.42</Low>
+    <Close>293.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-27</Date>
+    <Open>294.07</Open>
+    <High>309.5</High>
+    <Low>273.12</Low>
+    <Close>273.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-28</Date>
+    <Open>273.43</Open>
+    <High>277.58</High>
+    <Low>259.79</Low>
+    <Close>260.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-29</Date>
+    <Open>260.91</Open>
+    <High>277.29</High>
+    <Low>259.38</Low>
+    <Close>265.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-09-30</Date>
+    <Open>265.02</Open>
+    <High>281.22</High>
+    <Low>263.84</Low>
+    <Close>276.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-01</Date>
+    <Open>276.48</Open>
+    <High>304.09</High>
+    <Low>272.12</Low>
+    <Close>302.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-02</Date>
+    <Open>302.51</Open>
+    <High>323.56</High>
+    <Low>297.08</Low>
+    <Close>314.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-03</Date>
+    <Open>314.18</Open>
+    <High>323.55</High>
+    <Low>308.85</Low>
+    <Close>310.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-04</Date>
+    <Open>310.68</Open>
+    <High>311.05</High>
+    <Low>291.44</Low>
+    <Close>300.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-05</Date>
+    <Open>300.71</Open>
+    <High>310.12</High>
+    <Low>296.65</Low>
+    <Close>307.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-06</Date>
+    <Open>307.87</Open>
+    <High>317.59</High>
+    <Low>285.04</Low>
+    <Close>311.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-07</Date>
+    <Open>311.85</Open>
+    <High>313.58</High>
+    <Low>299.08</Low>
+    <Close>305.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-08</Date>
+    <Open>305.74</Open>
+    <High>324.05</High>
+    <Low>303.43</Low>
+    <Close>307.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-09</Date>
+    <Open>307.17</Open>
+    <High>313.34</High>
+    <Low>304.29</Low>
+    <Close>307.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-10</Date>
+    <Open>307.11</Open>
+    <High>307.11</High>
+    <Low>288.32</Low>
+    <Close>288.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-11</Date>
+    <Open>288.32</Open>
+    <High>307.16</High>
+    <Low>285.94</Low>
+    <Close>290.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-12</Date>
+    <Open>290.61</Open>
+    <High>290.61</High>
+    <Low>270.99</Low>
+    <Close>283.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-13</Date>
+    <Open>283.94</Open>
+    <High>301.25</High>
+    <Low>282.24</Low>
+    <Close>297.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-14</Date>
+    <Open>297.32</Open>
+    <High>316.17</High>
+    <Low>293.44</Low>
+    <Close>303.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-15</Date>
+    <Open>303.52</Open>
+    <High>305.08</High>
+    <Low>292.64</Low>
+    <Close>301.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-16</Date>
+    <Open>301.43</Open>
+    <High>318.2</High>
+    <Low>299.61</Low>
+    <Close>304.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-17</Date>
+    <Open>304.57</Open>
+    <High>320.15</High>
+    <Low>292.79</Low>
+    <Close>304.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-18</Date>
+    <Open>304.48</Open>
+    <High>308.08</High>
+    <Low>289.66</Low>
+    <Close>294.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-19</Date>
+    <Open>294.06</Open>
+    <High>304.25</High>
+    <Low>292.73</Low>
+    <Close>303.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-20</Date>
+    <Open>303.59</Open>
+    <High>317.52</High>
+    <Low>296.48</Low>
+    <Close>316.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-21</Date>
+    <Open>316.25</Open>
+    <High>337.93</High>
+    <Low>310.92</Low>
+    <Close>314.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-22</Date>
+    <Open>314.93</Open>
+    <High>326.66</High>
+    <Low>306.14</Low>
+    <Close>310.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-23</Date>
+    <Open>310.11</Open>
+    <High>324.11</High>
+    <Low>307.53</Low>
+    <Close>323.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-24</Date>
+    <Open>323.98</Open>
+    <High>325.19</High>
+    <Low>300.05</Low>
+    <Close>307.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-25</Date>
+    <Open>307.78</Open>
+    <High>316.44</High>
+    <Low>306.59</Low>
+    <Close>312.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-26</Date>
+    <Open>312.94</Open>
+    <High>345.37</High>
+    <Low>312.33</Low>
+    <Close>329.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-27</Date>
+    <Open>329.05</Open>
+    <High>465.4</High>
+    <Low>323.31</Low>
+    <Close>324.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-28</Date>
+    <Open>324.69</Open>
+    <High>348.66</High>
+    <Low>317.28</Low>
+    <Close>338.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-29</Date>
+    <Open>338.97</Open>
+    <High>347.75</High>
+    <Low>324.79</Low>
+    <Close>327.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-30</Date>
+    <Open>327.87</Open>
+    <High>328.43</High>
+    <Low>312.81</Low>
+    <Close>318.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-10-31</Date>
+    <Open>318.95</Open>
+    <High>323.22</High>
+    <Low>301.47</Low>
+    <Close>314.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-01</Date>
+    <Open>314.48</Open>
+    <High>324.63</High>
+    <Low>302.71</Low>
+    <Close>324.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-02</Date>
+    <Open>324.38</Open>
+    <High>328.42</High>
+    <Low>317.92</Low>
+    <Close>325.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-03</Date>
+    <Open>324.72</Open>
+    <High>326.12</High>
+    <Low>310.76</Low>
+    <Close>324.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-04</Date>
+    <Open>324.47</Open>
+    <High>335.88</High>
+    <Low>313.37</Low>
+    <Close>333.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-05</Date>
+    <Open>333.29</Open>
+    <High>347.05</High>
+    <Low>324.36</Low>
+    <Close>327.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-06</Date>
+    <Open>327.07</Open>
+    <High>327.57</High>
+    <Low>307.79</Low>
+    <Close>318.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-07</Date>
+    <Open>318.41</Open>
+    <High>323.98</High>
+    <Low>316.99</Low>
+    <Close>320.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-08</Date>
+    <Open>320.14</Open>
+    <High>334.82</High>
+    <Low>318.55</Low>
+    <Close>332.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-09</Date>
+    <Open>332.48</Open>
+    <High>349.59</High>
+    <Low>327.12</Low>
+    <Close>336.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-10</Date>
+    <Open>336.5</Open>
+    <High>345.79</High>
+    <Low>298.69</Low>
+    <Close>312.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-11</Date>
+    <Open>312.68</Open>
+    <High>319.13</High>
+    <Low>307.3</Low>
+    <Close>312.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-12</Date>
+    <Open>312.22</Open>
+    <High>314.06</High>
+    <Low>296.49</Low>
+    <Close>308.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-13</Date>
+    <Open>308.52</Open>
+    <High>314.17</High>
+    <Low>303.1</Low>
+    <Close>312.48</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-14</Date>
+    <Open>312.54</Open>
+    <High>317.48</High>
+    <Low>309.7</Low>
+    <Close>315.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-15</Date>
+    <Open>315.2</Open>
+    <High>317.17</High>
+    <Low>299.3</Low>
+    <Close>301.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-16</Date>
+    <Open>301.63</Open>
+    <High>301.74</High>
+    <Low>264.18</Low>
+    <Close>278.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-17</Date>
+    <Open>278.18</Open>
+    <High>286.68</High>
+    <Low>268.09</Low>
+    <Close>284.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-18</Date>
+    <Open>284.7</Open>
+    <High>288.02</High>
+    <Low>256.09</Low>
+    <Close>262.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-19</Date>
+    <Open>262.73</Open>
+    <High>280.62</High>
+    <Low>258.23</Low>
+    <Close>279.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-20</Date>
+    <Open>279.35</Open>
+    <High>280.92</High>
+    <Low>267.8</Low>
+    <Close>274.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-21</Date>
+    <Open>274.35</Open>
+    <High>274.51</High>
+    <Low>264.42</Low>
+    <Close>266.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-22</Date>
+    <Open>266.87</Open>
+    <High>268.98</High>
+    <Low>256.69</Low>
+    <Close>263.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-23</Date>
+    <Open>263.86</Open>
+    <High>277.3</High>
+    <Low>261.35</Low>
+    <Close>269.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-24</Date>
+    <Open>269.92</Open>
+    <High>271.61</High>
+    <Low>251.2</Low>
+    <Close>254.978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-25</Date>
+    <Open>255.272</Open>
+    <High>263.826</High>
+    <Low>252.27</Low>
+    <Close>263.528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-26</Date>
+    <Open>263.47</Open>
+    <High>264.177</High>
+    <Low>226.298</Low>
+    <Close>233.556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-27</Date>
+    <Open>233.651</Open>
+    <High>243.191</High>
+    <Low>230.157</Low>
+    <Close>234.172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-28</Date>
+    <Open>234.172</Open>
+    <High>238.94</High>
+    <Low>220.286</Low>
+    <Close>233.559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-29</Date>
+    <Open>233.624</Open>
+    <High>251.53</High>
+    <Low>233.258</Low>
+    <Close>249.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-11-30</Date>
+    <Open>249.77</Open>
+    <High>264.3</High>
+    <Low>244.76</Low>
+    <Close>257.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-01</Date>
+    <Open>257.16</Open>
+    <High>269.106</High>
+    <Low>249.202</Low>
+    <Close>251.145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-02</Date>
+    <Open>251.28</Open>
+    <High>252.077</High>
+    <Low>240.852</Low>
+    <Close>245.797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-03</Date>
+    <Open>245.797</Open>
+    <High>246.45</High>
+    <Low>217.746</Low>
+    <Close>225.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-04</Date>
+    <Open>225.46</Open>
+    <High>227.265</High>
+    <Low>165.752</Low>
+    <Close>201.178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-05</Date>
+    <Open>201.274</Open>
+    <High>206.205</High>
+    <Low>187.018</Low>
+    <Close>192.139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-06</Date>
+    <Open>192.0</Open>
+    <High>194.459</High>
+    <Low>168.454</Low>
+    <Close>186.154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-07</Date>
+    <Open>186.381</Open>
+    <High>197.407</High>
+    <Low>180.867</Low>
+    <Close>184.195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-08</Date>
+    <Open>184.077</Open>
+    <High>198.124</High>
+    <Low>179.793</Low>
+    <Close>194.899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-09</Date>
+    <Open>195.18</Open>
+    <High>203.939</High>
+    <Low>176.552</Low>
+    <Close>179.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-10</Date>
+    <Open>179.59</Open>
+    <High>181.48</High>
+    <Low>168.73</Low>
+    <Close>170.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-11</Date>
+    <Open>171.11</Open>
+    <High>179.61</High>
+    <Low>163.08</Low>
+    <Close>178.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-12</Date>
+    <Open>178.0</Open>
+    <High>182.33</High>
+    <Low>175.77</Low>
+    <Close>180.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-13</Date>
+    <Open>180.35</Open>
+    <High>181.15</High>
+    <Low>157.58</Low>
+    <Close>163.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-14</Date>
+    <Open>163.52</Open>
+    <High>170.37</High>
+    <Low>158.54</Low>
+    <Close>168.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-15</Date>
+    <Open>168.76</Open>
+    <High>175.805</High>
+    <Low>159.079</Low>
+    <Close>172.503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-16</Date>
+    <Open>172.503</Open>
+    <High>181.054</High>
+    <Low>172.286</Low>
+    <Close>176.853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-17</Date>
+    <Open>176.853</Open>
+    <High>177.553</High>
+    <Low>162.049</Low>
+    <Close>176.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-18</Date>
+    <Open>176.07</Open>
+    <High>201.681</High>
+    <Low>175.253</Low>
+    <Close>193.377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-19</Date>
+    <Open>193.377</Open>
+    <High>193.497</High>
+    <Low>182.373</Low>
+    <Close>186.875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-20</Date>
+    <Open>186.893</Open>
+    <High>187.275</High>
+    <Low>167.533</Low>
+    <Close>179.154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-21</Date>
+    <Open>179.172</Open>
+    <High>186.174</High>
+    <Low>178.872</Low>
+    <Close>185.574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-22</Date>
+    <Open>185.474</Open>
+    <High>216.487</High>
+    <Low>184.374</Low>
+    <Close>209.505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-23</Date>
+    <Open>209.484</Open>
+    <High>248.224</High>
+    <Low>203.941</Low>
+    <Close>244.322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-24</Date>
+    <Open>243.998</Open>
+    <High>278.839</High>
+    <Low>243.197</Low>
+    <Close>270.335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-25</Date>
+    <Open>270.162</Open>
+    <High>280.84</High>
+    <Low>257.529</Low>
+    <Close>262.505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-26</Date>
+    <Open>262.505</Open>
+    <High>277.539</High>
+    <Low>250.3</Low>
+    <Close>272.136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-27</Date>
+    <Open>272.036</Open>
+    <High>293.347</High>
+    <Low>265.733</Low>
+    <Close>280.884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-28</Date>
+    <Open>280.884</Open>
+    <High>296.689</High>
+    <Low>253.825</Low>
+    <Close>256.051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-29</Date>
+    <Open>255.851</Open>
+    <High>259.252</High>
+    <Low>238.4</Low>
+    <Close>243.449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-30</Date>
+    <Open>243.349</Open>
+    <High>265.853</High>
+    <Low>231.046</Low>
+    <Close>262.652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2021-12-31</Date>
+    <Open>262.753</Open>
+    <High>274.855</High>
+    <Low>249.125</Low>
+    <Close>256.926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-01</Date>
+    <Open>256.926</Open>
+    <High>265.5</High>
+    <Low>250.7</Low>
+    <Close>261.252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-02</Date>
+    <Open>261.552</Open>
+    <High>267.553</High>
+    <Low>253.125</Low>
+    <Close>266.953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-03</Date>
+    <Open>267.153</Open>
+    <High>286.4</High>
+    <Low>262.726</Low>
+    <Close>270.527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-04</Date>
+    <Open>270.527</Open>
+    <High>271.373</High>
+    <Low>249.75</Low>
+    <Close>255.674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-05</Date>
+    <Open>255.649</Open>
+    <High>259.326</High>
+    <Low>214.9</Low>
+    <Close>229.077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-06</Date>
+    <Open>229.177</Open>
+    <High>233.4</High>
+    <Low>214.9</Low>
+    <Close>223.678</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-07</Date>
+    <Open>223.8</Open>
+    <High>224.4</High>
+    <Low>199.76</Low>
+    <Close>208.879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-08</Date>
+    <Open>208.879</Open>
+    <High>230.977</High>
+    <Low>200.78</Low>
+    <Close>216.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-09</Date>
+    <Open>216.2</Open>
+    <High>219.178</High>
+    <Low>207.7</Low>
+    <Close>213.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-10</Date>
+    <Open>213.6</Open>
+    <High>214.079</High>
+    <Low>187.981</Low>
+    <Close>198.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-11</Date>
+    <Open>198.3</Open>
+    <High>216.922</High>
+    <Low>196.8</Low>
+    <Close>212.721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-12</Date>
+    <Open>212.7</Open>
+    <High>222.667</High>
+    <Low>210.642</Low>
+    <Close>217.587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-13</Date>
+    <Open>217.687</Open>
+    <High>222.211</High>
+    <Low>207.283</Low>
+    <Close>211.285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-14</Date>
+    <Open>210.984</Open>
+    <High>227.091</High>
+    <Low>204.482</Low>
+    <Close>224.867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-15</Date>
+    <Open>224.567</Open>
+    <High>243.622</High>
+    <Low>222.367</Low>
+    <Close>238.319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-16</Date>
+    <Open>238.419</Open>
+    <High>245.623</High>
+    <Low>230.392</Low>
+    <Close>239.296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-17</Date>
+    <Open>239.296</Open>
+    <High>244.398</High>
+    <Low>221.389</Low>
+    <Close>224.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-18</Date>
+    <Open>224.99</Open>
+    <High>240.496</High>
+    <Low>222.767</Low>
+    <Close>234.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-19</Date>
+    <Open>234.07</Open>
+    <High>236.995</High>
+    <Low>210.842</Low>
+    <Close>214.264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-20</Date>
+    <Open>214.164</Open>
+    <High>221.344</High>
+    <Low>200.52</Low>
+    <Close>202.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-21</Date>
+    <Open>202.74</Open>
+    <High>202.841</High>
+    <Low>163.333</Low>
+    <Close>168.034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-22</Date>
+    <Open>169.734</Open>
+    <High>175.435</High>
+    <Low>136.527</Low>
+    <Close>143.943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-23</Date>
+    <Open>143.843</Open>
+    <High>163.149</High>
+    <Low>143.029</Low>
+    <Close>150.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-24</Date>
+    <Open>150.53</Open>
+    <High>159.132</High>
+    <Low>131.326</Low>
+    <Close>149.245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-25</Date>
+    <Open>149.145</Open>
+    <High>156.278</High>
+    <Low>145.844</Low>
+    <Close>149.875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-26</Date>
+    <Open>150.075</Open>
+    <High>163.498</High>
+    <Low>142.786</Low>
+    <Close>145.687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-27</Date>
+    <Open>145.787</Open>
+    <High>151.376</High>
+    <Low>137.569</Low>
+    <Close>141.571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-28</Date>
+    <Open>141.671</Open>
+    <High>150.745</High>
+    <Low>139.442</Low>
+    <Close>147.644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-29</Date>
+    <Open>147.63</Open>
+    <High>157.047</High>
+    <Low>147.63</Low>
+    <Close>154.646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-30</Date>
+    <Open>154.546</Open>
+    <High>155.447</High>
+    <Low>146.058</Low>
+    <Close>147.559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-01-31</Date>
+    <Open>147.559</Open>
+    <High>158.679</High>
+    <Low>141.657</Low>
+    <Close>157.178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-01</Date>
+    <Open>157.178</Open>
+    <High>168.267</High>
+    <Low>156.894</Low>
+    <Close>163.398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-02</Date>
+    <Open>163.498</Open>
+    <High>164.699</High>
+    <Low>149.66</Low>
+    <Close>152.337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-03</Date>
+    <Open>152.537</Open>
+    <High>153.777</High>
+    <Low>145.458</Low>
+    <Close>151.476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-04</Date>
+    <Open>151.276</Open>
+    <High>165.132</High>
+    <Low>150.96</Low>
+    <Close>164.632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-05</Date>
+    <Open>164.732</Open>
+    <High>173.604</High>
+    <Low>164.515</Low>
+    <Close>167.701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-06</Date>
+    <Open>167.701</Open>
+    <High>173.204</High>
+    <Low>165.399</Low>
+    <Close>167.467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-07</Date>
+    <Open>167.267</Open>
+    <High>184.184</High>
+    <Low>167.067</Low>
+    <Close>182.628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-08</Date>
+    <Open>182.628</Open>
+    <High>192.854</High>
+    <Low>173.656</Low>
+    <Close>183.565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-09</Date>
+    <Open>183.765</Open>
+    <High>190.81</High>
+    <Low>176.441</Low>
+    <Close>188.789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-10</Date>
+    <Open>188.789</Open>
+    <High>189.189</High>
+    <Low>175.24</Low>
+    <Close>179.225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-11</Date>
+    <Open>179.225</Open>
+    <High>181.327</High>
+    <Low>161.148</Low>
+    <Close>161.448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-12</Date>
+    <Open>161.248</Open>
+    <High>168.701</High>
+    <Low>159.896</Low>
+    <Close>163.182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-13</Date>
+    <Open>163.182</Open>
+    <High>165.499</High>
+    <Low>155.878</Low>
+    <Close>159.796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-14</Date>
+    <Open>159.896</Open>
+    <High>161.497</High>
+    <Low>152.876</Low>
+    <Close>158.279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-15</Date>
+    <Open>158.395</Open>
+    <High>168.901</High>
+    <Low>157.879</Low>
+    <Close>168.701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-16</Date>
+    <Open>168.701</Open>
+    <High>174.522</High>
+    <Low>163.081</Low>
+    <Close>172.203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-17</Date>
+    <Open>172.403</Open>
+    <High>174.187</High>
+    <Low>150.79</Low>
+    <Close>154.208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-18</Date>
+    <Open>154.308</Open>
+    <High>155.609</High>
+    <Low>144.186</Low>
+    <Close>144.787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-19</Date>
+    <Open>144.787</Open>
+    <High>148.889</High>
+    <Low>140.97</Low>
+    <Close>145.273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-20</Date>
+    <Open>145.358</Open>
+    <High>146.488</High>
+    <Low>135.254</Low>
+    <Close>140.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-21</Date>
+    <Open>140.07</Open>
+    <High>144.772</High>
+    <Low>130.965</Low>
+    <Close>132.166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-22</Date>
+    <Open>132.066</Open>
+    <High>137.055</High>
+    <Low>125.838</Low>
+    <Close>132.266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-23</Date>
+    <Open>132.366</Open>
+    <High>143.186</High>
+    <Low>132.179</Low>
+    <Close>136.282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-24</Date>
+    <Open>136.082</Open>
+    <High>136.182</High>
+    <Low>112.456</Low>
+    <Close>124.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-25</Date>
+    <Open>124.45</Open>
+    <High>143.072</High>
+    <Low>121.937</Low>
+    <Close>142.871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-26</Date>
+    <Open>142.571</Open>
+    <High>144.372</High>
+    <Low>135.254</Low>
+    <Close>136.555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-27</Date>
+    <Open>136.555</Open>
+    <High>144.672</High>
+    <Low>129.652</Low>
+    <Close>133.653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-02-28</Date>
+    <Open>133.453</Open>
+    <High>145.873</High>
+    <Low>128.051</Low>
+    <Close>143.357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-01</Date>
+    <Open>143.057</Open>
+    <High>150.86</High>
+    <Low>139.856</Low>
+    <Close>142.943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-02</Date>
+    <Open>143.043</Open>
+    <High>146.329</High>
+    <Low>136.241</Low>
+    <Close>139.142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-03</Date>
+    <Open>138.942</Open>
+    <High>139.742</High>
+    <Low>126.325</Low>
+    <Close>129.926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-04</Date>
+    <Open>130.039</Open>
+    <High>131.94</High>
+    <Low>122.024</Low>
+    <Close>124.537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-05</Date>
+    <Open>124.437</Open>
+    <High>126.538</High>
+    <Low>122.137</Low>
+    <Close>125.125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-06</Date>
+    <Open>125.137</Open>
+    <High>125.738</High>
+    <Low>117.824</Low>
+    <Close>119.736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-07</Date>
+    <Open>119.636</Open>
+    <High>124.137</High>
+    <Low>113.334</Low>
+    <Close>117.435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-08</Date>
+    <Open>117.435</Open>
+    <High>125.425</High>
+    <Low>115.823</Low>
+    <Close>121.624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-09</Date>
+    <Open>121.524</Open>
+    <High>130.513</High>
+    <Low>121.324</Low>
+    <Close>126.625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-10</Date>
+    <Open>126.613</Open>
+    <High>128.426</High>
+    <Low>117.435</Low>
+    <Close>119.548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-11</Date>
+    <Open>119.548</Open>
+    <High>121.148</High>
+    <Low>114.823</Low>
+    <Close>117.223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-12</Date>
+    <Open>117.223</Open>
+    <High>121.512</High>
+    <Low>116.423</Low>
+    <Close>120.612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-13</Date>
+    <Open>120.612</Open>
+    <High>121.336</High>
+    <Low>115.623</Low>
+    <Close>116.335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-14</Date>
+    <Open>116.223</Open>
+    <High>121.324</High>
+    <Low>113.411</Low>
+    <Close>117.324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-15</Date>
+    <Open>117.412</Open>
+    <High>122.937</High>
+    <Low>114.123</Low>
+    <Close>121.536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-16</Date>
+    <Open>121.536</Open>
+    <High>140.842</High>
+    <Low>120.524</Low>
+    <Close>140.142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-17</Date>
+    <Open>140.242</Open>
+    <High>156.278</High>
+    <Low>136.827</Low>
+    <Close>156.178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-18</Date>
+    <Open>156.278</Open>
+    <High>164.298</High>
+    <Low>147.388</Low>
+    <Close>161.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-19</Date>
+    <Open>161.081</Open>
+    <High>165.699</High>
+    <Low>155.162</Low>
+    <Close>156.463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-20</Date>
+    <Open>156.563</Open>
+    <High>159.18</High>
+    <Low>147.159</Low>
+    <Close>154.062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-21</Date>
+    <Open>154.077</Open>
+    <High>162.581</High>
+    <Low>146.959</Low>
+    <Close>155.262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-22</Date>
+    <Open>155.162</Open>
+    <High>162.065</High>
+    <Low>151.776</Low>
+    <Close>154.777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-23</Date>
+    <Open>154.777</Open>
+    <High>157.279</High>
+    <Low>149.775</Low>
+    <Close>154.577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-24</Date>
+    <Open>154.677</Open>
+    <High>172.586</High>
+    <Low>153.461</Low>
+    <Close>166.867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-25</Date>
+    <Open>166.767</Open>
+    <High>174.505</High>
+    <Low>160.464</Low>
+    <Close>162.181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-26</Date>
+    <Open>162.165</Open>
+    <High>166.984</High>
+    <Low>160.964</Low>
+    <Close>162.665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-27</Date>
+    <Open>162.681</Open>
+    <High>168.467</High>
+    <Low>158.779</Low>
+    <Close>167.467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-28</Date>
+    <Open>167.35</Open>
+    <High>179.072</High>
+    <Low>166.367</Low>
+    <Close>175.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-29</Date>
+    <Open>175.788</Open>
+    <High>219.688</High>
+    <Low>166.25</Low>
+    <Close>212.206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-30</Date>
+    <Open>212.206</Open>
+    <High>242.221</High>
+    <Low>211.806</Low>
+    <Close>226.968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-03-31</Date>
+    <Open>226.868</Open>
+    <High>229.569</High>
+    <Low>206.362</Low>
+    <Close>208.642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-01</Date>
+    <Open>208.562</Open>
+    <High>261.204</High>
+    <Low>204.041</Low>
+    <Close>249.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-02</Date>
+    <Open>250.3</Open>
+    <High>257.403</High>
+    <Low>235.494</Low>
+    <Close>245.098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-03</Date>
+    <Open>245.298</Open>
+    <High>253.001</High>
+    <Low>231.369</Low>
+    <Close>245.998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-04</Date>
+    <Open>246.074</Open>
+    <High>248.599</High>
+    <Low>225.245</Low>
+    <Close>238.972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-05</Date>
+    <Open>238.972</Open>
+    <High>241.548</High>
+    <Low>222.144</Low>
+    <Close>224.122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-06</Date>
+    <Open>224.122</Open>
+    <High>225.945</High>
+    <Low>192.1</Low>
+    <Close>197.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-07</Date>
+    <Open>197.32</Open>
+    <High>207.221</High>
+    <Low>189.7</Low>
+    <Close>201.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-08</Date>
+    <Open>201.92</Open>
+    <High>204.921</High>
+    <Low>184.956</Low>
+    <Close>185.974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-09</Date>
+    <Open>185.874</Open>
+    <High>186.356</High>
+    <Low>177.035</Low>
+    <Close>183.355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-10</Date>
+    <Open>183.355</Open>
+    <High>188.857</High>
+    <Low>176.853</Low>
+    <Close>185.537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-11</Date>
+    <Open>185.437</Open>
+    <High>185.919</High>
+    <Low>157.331</Low>
+    <Close>157.647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-12</Date>
+    <Open>157.447</Open>
+    <High>171.351</High>
+    <Low>155.647</Low>
+    <Close>163.349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-13</Date>
+    <Open>163.249</Open>
+    <High>178.954</High>
+    <Low>161.148</Low>
+    <Close>175.152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-14</Date>
+    <Open>175.152</Open>
+    <High>180.336</High>
+    <Low>166.45</Low>
+    <Close>172.017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-15</Date>
+    <Open>172.017</Open>
+    <High>176.835</High>
+    <Low>168.817</Low>
+    <Close>175.135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-16</Date>
+    <Open>175.035</Open>
+    <High>176.735</High>
+    <Low>169.917</Low>
+    <Close>173.235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-17</Date>
+    <Open>173.935</Open>
+    <High>177.736</High>
+    <Low>170.217</Low>
+    <Close>175.535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-18</Date>
+    <Open>175.535</Open>
+    <High>176.735</High>
+    <Low>157.632</Low>
+    <Close>167.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-19</Date>
+    <Open>167.65</Open>
+    <High>182.837</High>
+    <Low>166.25</Low>
+    <Close>180.736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-20</Date>
+    <Open>180.736</Open>
+    <High>198.82</High>
+    <Low>178.918</Low>
+    <Close>187.438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-21</Date>
+    <Open>187.438</Open>
+    <High>196.339</High>
+    <Low>173.817</Low>
+    <Close>174.617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-22</Date>
+    <Open>174.417</Open>
+    <High>180.636</High>
+    <Low>170.817</Low>
+    <Close>176.218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-23</Date>
+    <Open>176.235</Open>
+    <High>179.236</High>
+    <Low>173.417</Low>
+    <Close>175.735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-24</Date>
+    <Open>175.735</Open>
+    <High>176.335</High>
+    <Low>165.633</Low>
+    <Close>168.334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-25</Date>
+    <Open>168.234</Open>
+    <High>170.217</High>
+    <Low>153.631</Low>
+    <Close>168.617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-26</Date>
+    <Open>168.534</Open>
+    <High>178.936</High>
+    <Low>155.316</Low>
+    <Close>161.716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-27</Date>
+    <Open>161.616</Open>
+    <High>175.383</High>
+    <Low>155.7</Low>
+    <Close>169.017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-28</Date>
+    <Open>169.017</Open>
+    <High>176.018</High>
+    <Low>164.1</Low>
+    <Close>166.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-29</Date>
+    <Open>166.217</Open>
+    <High>168.317</High>
+    <Low>151.4</Low>
+    <Close>154.615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-04-30</Date>
+    <Open>154.515</Open>
+    <High>162.816</High>
+    <Low>151.4</Low>
+    <Close>153.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-01</Date>
+    <Open>153.9</Open>
+    <High>153.915</High>
+    <Low>138.1</Low>
+    <Close>144.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-02</Date>
+    <Open>144.3</Open>
+    <High>148.915</High>
+    <Low>139.0</Low>
+    <Close>146.015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-03</Date>
+    <Open>146.115</Open>
+    <High>146.815</High>
+    <Low>139.072</Low>
+    <Close>142.286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-04</Date>
+    <Open>142.186</Open>
+    <High>158.1</High>
+    <Low>139.586</Low>
+    <Close>157.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-05</Date>
+    <Open>157.4</Open>
+    <High>162.168</High>
+    <Low>136.186</Low>
+    <Close>141.072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-06</Date>
+    <Open>141.172</Open>
+    <High>142.786</High>
+    <Low>132.773</Low>
+    <Close>137.586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-07</Date>
+    <Open>137.486</Open>
+    <High>139.486</High>
+    <Low>131.774</Low>
+    <Close>131.774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-08</Date>
+    <Open>132.187</Open>
+    <High>133.587</High>
+    <Low>126.449</Low>
+    <Close>129.461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-09</Date>
+    <Open>129.261</Open>
+    <High>129.461</High>
+    <Low>101.06</Low>
+    <Close>104.379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-10</Date>
+    <Open>104.479</Open>
+    <High>118.265</High>
+    <Low>96.8612</Low>
+    <Close>100.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-11</Date>
+    <Open>100.56</Open>
+    <High>108.357</High>
+    <Low>75.8032</Low>
+    <Close>81.9955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-12</Date>
+    <Open>81.9955</Open>
+    <High>88.5266</High>
+    <Low>61.4498</Low>
+    <Close>75.7948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-13</Date>
+    <Open>75.7948</Open>
+    <High>92.8071</High>
+    <Low>73.6007</Low>
+    <Close>84.8555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-14</Date>
+    <Open>84.8555</Open>
+    <High>86.2531</High>
+    <Low>77.437</Low>
+    <Close>84.1736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-15</Date>
+    <Open>84.2818</Open>
+    <High>90.5639</High>
+    <Low>82.0767</Low>
+    <Close>89.3837</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-16</Date>
+    <Open>89.4835</Open>
+    <High>92.2891</High>
+    <Low>80.7948</Low>
+    <Close>85.9795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-17</Date>
+    <Open>86.5873</Open>
+    <High>93.5969</High>
+    <Low>83.483</Low>
+    <Close>90.682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-18</Date>
+    <Open>90.682</Open>
+    <High>96.9738</High>
+    <Low>81.3941</Low>
+    <Close>83.7909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-19</Date>
+    <Open>83.9907</Open>
+    <High>90.0189</High>
+    <Low>79.097</Low>
+    <Close>89.1108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-20</Date>
+    <Open>89.2196</Open>
+    <High>97.7315</High>
+    <Low>84.3902</Low>
+    <Close>88.8932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-21</Date>
+    <Open>88.8932</Open>
+    <High>92.979</High>
+    <Low>88.4848</Low>
+    <Close>89.883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-22</Date>
+    <Open>89.883</Open>
+    <High>96.6742</High>
+    <Low>89.6743</Low>
+    <Close>91.9895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-23</Date>
+    <Open>92.0894</Open>
+    <High>109.579</High>
+    <Low>91.8988</Low>
+    <Close>102.077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-24</Date>
+    <Open>101.977</Open>
+    <High>107.061</High>
+    <Low>93.188</Low>
+    <Close>106.961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-25</Date>
+    <Open>107.061</Open>
+    <High>107.87</High>
+    <Low>98.2819</Low>
+    <Close>104.874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-26</Date>
+    <Open>104.774</Open>
+    <High>105.684</High>
+    <Low>92.1892</Low>
+    <Close>99.6902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-27</Date>
+    <Open>99.7901</Open>
+    <High>102.997</High>
+    <Low>89.5014</Low>
+    <Close>92.5074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-28</Date>
+    <Open>92.3936</Open>
+    <High>96.8962</High>
+    <Low>90.6965</Low>
+    <Close>95.2884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-29</Date>
+    <Open>95.3046</Open>
+    <High>96.8962</High>
+    <Low>91.6074</Low>
+    <Close>94.396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-30</Date>
+    <Open>94.396</Open>
+    <High>120.416</High>
+    <Low>93.8014</Low>
+    <Close>119.404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-05-31</Date>
+    <Open>119.516</Open>
+    <High>124.013</High>
+    <Low>112.11</Low>
+    <Close>112.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-01</Date>
+    <Open>112.61</Open>
+    <High>120.304</High>
+    <Low>100.889</Low>
+    <Close>104.406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-02</Date>
+    <Open>104.305</Open>
+    <High>109.601</High>
+    <Low>103.007</Low>
+    <Close>109.301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-03</Date>
+    <Open>109.401</Open>
+    <High>113.308</High>
+    <Low>103.622</Low>
+    <Close>109.005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-04</Date>
+    <Open>109.205</Open>
+    <High>109.704</High>
+    <Low>102.492</Low>
+    <Close>106.219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-05</Date>
+    <Open>106.219</Open>
+    <High>107.409</High>
+    <Low>103.116</Low>
+    <Close>105.901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-06</Date>
+    <Open>106.0</Open>
+    <High>111.796</High>
+    <Low>103.402</Low>
+    <Close>106.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-07</Date>
+    <Open>106.011</Open>
+    <High>106.41</High>
+    <Low>95.8214</Low>
+    <Close>102.816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-08</Date>
+    <Open>102.718</Open>
+    <High>102.918</High>
+    <Low>95.4303</Low>
+    <Close>97.6365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-09</Date>
+    <Open>97.7364</Open>
+    <High>99.6143</High>
+    <Low>94.4187</Low>
+    <Close>95.8194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-10</Date>
+    <Open>95.8185</Open>
+    <High>96.8215</High>
+    <Low>85.8055</Low>
+    <Close>87.7884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-11</Date>
+    <Open>87.7875</Open>
+    <High>89.1019</High>
+    <Low>75.5063</Low>
+    <Close>78.1116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-12</Date>
+    <Open>78.1108</Open>
+    <High>78.9107</High>
+    <Low>69.1024</Low>
+    <Close>74.0089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-13</Date>
+    <Open>73.909</Open>
+    <High>73.909</High>
+    <Low>55.1172</Low>
+    <Close>59.7169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-14</Date>
+    <Open>59.7175</Open>
+    <High>62.7184</High>
+    <Low>53.3226</Low>
+    <Close>58.6296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-15</Date>
+    <Open>58.5297</Open>
+    <High>64.9285</High>
+    <Low>52.6051</Low>
+    <Close>64.3034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-16</Date>
+    <Open>64.4033</Open>
+    <High>66.0273</High>
+    <Low>56.7375</Low>
+    <Close>58.1243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-17</Date>
+    <Open>56.2317</Open>
+    <High>59.657</High>
+    <Low>55.4034</Low>
+    <Close>57.2712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-18</Date>
+    <Open>57.31</Open>
+    <High>58.639</High>
+    <Low>45.62</Low>
+    <Close>48.2217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-19</Date>
+    <Open>48.1219</Open>
+    <High>55.0339</High>
+    <Low>45.9338</Low>
+    <Close>53.7301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-20</Date>
+    <Open>53.8</Open>
+    <High>63.1305</High>
+    <Low>50.39</Low>
+    <Close>60.2337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-21</Date>
+    <Open>60.2337</Open>
+    <High>77.8221</High>
+    <Low>58.9292</Low>
+    <Close>67.1261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-22</Date>
+    <Open>67.1261</Open>
+    <High>68.3316</High>
+    <Low>61.3386</Low>
+    <Close>63.1368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-23</Date>
+    <Open>63.1368</Open>
+    <High>69.7302</High>
+    <Low>61.7382</Low>
+    <Close>64.935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-24</Date>
+    <Open>64.7352</Open>
+    <High>71.744</High>
+    <Low>64.7287</Low>
+    <Close>71.2444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-25</Date>
+    <Open>71.2444</Open>
+    <High>75.6462</High>
+    <Low>66.658</Low>
+    <Close>71.0502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-26</Date>
+    <Open>71.0502</Open>
+    <High>73.0503</High>
+    <Low>67.3589</Low>
+    <Close>68.3576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-27</Date>
+    <Open>68.3576</Open>
+    <High>68.5595</High>
+    <Low>62.7416</Low>
+    <Close>64.6424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-28</Date>
+    <Open>64.743</Open>
+    <High>69.2369</High>
+    <Low>61.8239</Low>
+    <Close>61.9231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-29</Date>
+    <Open>61.9231</Open>
+    <High>62.2134</High>
+    <Low>57.9095</Low>
+    <Close>60.227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-06-30</Date>
+    <Open>60.2276</Open>
+    <High>60.727</High>
+    <Low>53.1314</Low>
+    <Close>54.2348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-01</Date>
+    <Open>54.3347</Open>
+    <High>59.1349</High>
+    <Low>53.7301</Low>
+    <Close>56.7875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-02</Date>
+    <Open>56.6077</Open>
+    <High>58.26</High>
+    <Low>54.7897</Low>
+    <Close>57.9004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-03</Date>
+    <Open>58.0503</Open>
+    <High>58.4339</High>
+    <Low>54.7233</Low>
+    <Close>57.635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-04</Date>
+    <Open>57.6749</Open>
+    <High>61.626</High>
+    <Low>56.067</Low>
+    <Close>61.2264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-05</Date>
+    <Open>61.3263</Open>
+    <High>64.2228</High>
+    <Low>57.9362</Low>
+    <Close>61.8319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-06</Date>
+    <Open>61.8319</Open>
+    <High>63.2304</High>
+    <Low>59.6284</Low>
+    <Close>62.4313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-07</Date>
+    <Open>62.4313</Open>
+    <High>72.4202</High>
+    <Low>62.0255</Low>
+    <Close>70.0579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-08</Date>
+    <Open>69.958</Open>
+    <High>75.7469</High>
+    <Low>67.8593</Low>
+    <Close>70.9574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-09</Date>
+    <Open>70.9574</Open>
+    <High>79.952</High>
+    <Low>70.9574</Low>
+    <Close>79.7521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-10</Date>
+    <Open>79.7441</Open>
+    <High>82.9502</High>
+    <Low>74.7551</Low>
+    <Close>76.7539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-11</Date>
+    <Open>76.654</Open>
+    <High>78.253</High>
+    <Low>70.8362</Low>
+    <Close>71.3357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-12</Date>
+    <Open>71.3357</Open>
+    <High>71.8209</High>
+    <Low>65.6343</Low>
+    <Close>68.1318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-13</Date>
+    <Open>68.1345</Open>
+    <High>78.8929</High>
+    <Low>67.7349</Low>
+    <Close>78.3394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-14</Date>
+    <Open>78.3394</Open>
+    <High>92.5884</High>
+    <Low>77.3346</Low>
+    <Close>88.3589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-15</Date>
+    <Open>88.291</Open>
+    <High>95.3208</High>
+    <Low>86.8532</Low>
+    <Close>91.8994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-16</Date>
+    <Open>91.9064</Open>
+    <High>95.5669</High>
+    <Low>87.4118</Low>
+    <Close>91.3316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-17</Date>
+    <Open>91.8126</Open>
+    <High>93.3123</High>
+    <Low>86.4346</Low>
+    <Close>89.3638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-18</Date>
+    <Open>89.4118</Open>
+    <High>99.352</High>
+    <Low>87.855</Low>
+    <Close>93.0116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-19</Date>
+    <Open>93.386</Open>
+    <High>102.249</High>
+    <Low>92.2368</Low>
+    <Close>96.7455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-20</Date>
+    <Open>96.755</Open>
+    <High>100.923</High>
+    <Low>89.4893</Low>
+    <Close>92.9557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-21</Date>
+    <Open>92.9557</Open>
+    <High>97.5763</High>
+    <Low>88.0304</Low>
+    <Close>95.7149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-22</Date>
+    <Open>95.7149</Open>
+    <High>96.4533</High>
+    <Low>88.4078</Low>
+    <Close>89.5747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-23</Date>
+    <Open>89.555</Open>
+    <High>93.0958</High>
+    <Low>85.3665</Low>
+    <Close>87.2926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-24</Date>
+    <Open>87.2897</Open>
+    <High>93.3884</High>
+    <Low>87.2506</Low>
+    <Close>91.7213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-25</Date>
+    <Open>91.6933</Open>
+    <High>93.4228</High>
+    <Low>83.3975</Low>
+    <Close>85.3708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-26</Date>
+    <Open>85.3298</Open>
+    <High>85.3885</High>
+    <Low>76.5216</Low>
+    <Close>78.1057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-27</Date>
+    <Open>78.1249</Open>
+    <High>94.6987</High>
+    <Low>77.9289</Low>
+    <Close>93.8895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-28</Date>
+    <Open>93.8895</Open>
+    <High>103.465</High>
+    <Low>89.8011</Low>
+    <Close>100.703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-29</Date>
+    <Open>100.704</Open>
+    <High>102.21</High>
+    <Low>93.8669</Low>
+    <Close>96.7486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-30</Date>
+    <Open>95.9623</Open>
+    <High>100.295</High>
+    <Low>93.8832</Low>
+    <Close>96.0537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-07-31</Date>
+    <Open>95.8757</Open>
+    <High>109.17</High>
+    <Low>93.7097</Low>
+    <Close>101.619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-01</Date>
+    <Open>101.509</Open>
+    <High>101.629</High>
+    <Low>94.1029</Low>
+    <Close>95.8417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-02</Date>
+    <Open>95.7607</Open>
+    <High>97.8432</High>
+    <Low>88.3745</Low>
+    <Close>95.6373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-03</Date>
+    <Open>95.7451</Open>
+    <High>100.158</High>
+    <Low>91.6079</Low>
+    <Close>97.3703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-04</Date>
+    <Open>97.4744</Open>
+    <High>99.4749</High>
+    <Low>93.4715</Low>
+    <Close>95.5669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-05</Date>
+    <Open>95.2069</Open>
+    <High>103.695</High>
+    <Low>94.3525</Low>
+    <Close>102.299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-06</Date>
+    <Open>101.649</Open>
+    <High>103.418</High>
+    <Low>98.8848</Low>
+    <Close>100.765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-07</Date>
+    <Open>100.766</Open>
+    <High>104.479</High>
+    <Low>98.2436</Low>
+    <Close>103.182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-08</Date>
+    <Open>102.48</Open>
+    <High>106.881</High>
+    <Low>101.034</Low>
+    <Close>103.857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-09</Date>
+    <Open>103.861</Open>
+    <High>103.861</High>
+    <Low>95.5122</Low>
+    <Close>98.4217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-10</Date>
+    <Open>98.4217</Open>
+    <High>112.808</High>
+    <Low>95.6999</Low>
+    <Close>110.652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-11</Date>
+    <Open>110.664</Open>
+    <High>113.789</High>
+    <Low>106.371</Low>
+    <Close>108.118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-12</Date>
+    <Open>107.977</Open>
+    <High>112.798</High>
+    <Low>105.603</Low>
+    <Close>111.234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-13</Date>
+    <Open>111.239</Open>
+    <High>115.705</High>
+    <Low>109.648</Low>
+    <Close>110.744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-14</Date>
+    <Open>110.744</Open>
+    <High>113.127</High>
+    <Low>105.982</Low>
+    <Close>107.559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-15</Date>
+    <Open>107.866</Open>
+    <High>112.428</High>
+    <Low>103.858</Low>
+    <Close>107.943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-16</Date>
+    <Open>107.958</Open>
+    <High>110.456</High>
+    <Low>105.545</Low>
+    <Close>108.384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-17</Date>
+    <Open>108.284</Open>
+    <High>112.302</High>
+    <Low>103.148</Low>
+    <Close>104.645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-18</Date>
+    <Open>101.16</Open>
+    <High>101.761</High>
+    <Low>97.3771</Low>
+    <Close>99.156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-19</Date>
+    <Open>99.1649</Open>
+    <High>99.1969</High>
+    <Low>83.149</Low>
+    <Close>83.4713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-20</Date>
+    <Open>83.4873</Open>
+    <High>86.8167</High>
+    <Low>79.9422</Low>
+    <Close>82.1452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-21</Date>
+    <Open>82.1444</Open>
+    <High>86.9854</High>
+    <Low>81.6866</Low>
+    <Close>85.9993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-22</Date>
+    <Open>85.9923</Open>
+    <High>87.8194</High>
+    <Low>81.9591</Low>
+    <Close>86.1835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-23</Date>
+    <Open>86.2131</Open>
+    <High>91.1009</High>
+    <Low>85.1401</Low>
+    <Close>88.7078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-24</Date>
+    <Open>88.7031</Open>
+    <High>91.8015</High>
+    <Low>86.9155</Low>
+    <Close>90.1271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-25</Date>
+    <Open>90.0491</Open>
+    <High>95.7188</High>
+    <Low>87.7809</Low>
+    <Close>93.7608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-26</Date>
+    <Open>93.7468</Open>
+    <High>94.2003</High>
+    <Low>85.5483</Low>
+    <Close>86.9727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-27</Date>
+    <Open>86.6248</Open>
+    <High>86.9797</High>
+    <Low>80.4582</Low>
+    <Close>81.6494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-28</Date>
+    <Open>81.6596</Open>
+    <High>83.4147</High>
+    <Low>80.5122</Low>
+    <Close>81.309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-29</Date>
+    <Open>81.3</Open>
+    <High>85.3351</High>
+    <Low>77.9913</Low>
+    <Close>84.6159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-30</Date>
+    <Open>84.6168</Open>
+    <High>88.0054</High>
+    <Low>81.4321</Low>
+    <Close>84.5076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-08-31</Date>
+    <Open>84.4878</Open>
+    <High>88.7941</High>
+    <Low>84.406</Low>
+    <Close>86.3401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-01</Date>
+    <Open>86.3441</Open>
+    <High>86.6507</High>
+    <Low>82.2205</Low>
+    <Close>86.3138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-02</Date>
+    <Open>86.3838</Open>
+    <High>92.0571</High>
+    <Low>84.9278</Low>
+    <Close>87.7092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-03</Date>
+    <Open>87.732</Open>
+    <High>88.7437</High>
+    <Low>85.798</Low>
+    <Close>86.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-04</Date>
+    <Open>86.66</Open>
+    <High>88.98</High>
+    <Low>85.844</Low>
+    <Close>88.818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-05</Date>
+    <Open>88.818</Open>
+    <High>90.382</High>
+    <Low>86.791</Low>
+    <Close>90.226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-06</Date>
+    <Open>90.226</Open>
+    <High>93.6644</High>
+    <Low>83.119</Low>
+    <Close>83.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-07</Date>
+    <Open>83.98</Open>
+    <High>89.2499</High>
+    <Low>81.9825</Low>
+    <Close>87.7061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-08</Date>
+    <Open>87.696</Open>
+    <High>89.9753</High>
+    <Low>85.5777</Low>
+    <Close>88.4661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-09</Date>
+    <Open>88.228</Open>
+    <High>94.1108</High>
+    <Low>87.7929</Low>
+    <Close>90.5759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-10</Date>
+    <Open>90.5576</Open>
+    <High>93.3775</High>
+    <Low>89.8309</Low>
+    <Close>92.1795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-11</Date>
+    <Open>92.0345</Open>
+    <High>94.5011</High>
+    <Low>89.3054</Low>
+    <Close>89.4625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-12</Date>
+    <Open>89.6045</Open>
+    <High>96.9874</High>
+    <Low>89.4227</Low>
+    <Close>90.7383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-13</Date>
+    <Open>90.7492</Open>
+    <High>93.5242</High>
+    <Low>83.0848</Low>
+    <Close>84.3657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-14</Date>
+    <Open>84.2514</Open>
+    <High>85.9083</High>
+    <Low>81.2096</Low>
+    <Close>82.6077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-15</Date>
+    <Open>82.6136</Open>
+    <High>84.2354</High>
+    <Low>77.7877</Low>
+    <Close>79.5508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-16</Date>
+    <Open>79.3908</Open>
+    <High>80.478</High>
+    <Low>77.2138</Low>
+    <Close>80.029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-17</Date>
+    <Open>80.069</Open>
+    <High>81.4882</High>
+    <Low>78.7971</Low>
+    <Close>80.915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-18</Date>
+    <Open>80.915</Open>
+    <High>81.965</High>
+    <Low>70.7869</Low>
+    <Close>73.484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-19</Date>
+    <Open>73.48</Open>
+    <High>76.9627</High>
+    <Low>70.7859</Low>
+    <Close>76.7127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-20</Date>
+    <Open>76.6627</Open>
+    <High>77.1264</High>
+    <Low>73.8698</Low>
+    <Close>74.3934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-21</Date>
+    <Open>74.4647</Open>
+    <High>77.6488</High>
+    <Low>71.7142</Low>
+    <Close>71.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-22</Date>
+    <Open>72.087</Open>
+    <High>77.545</High>
+    <Low>70.422</Low>
+    <Close>75.954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-23</Date>
+    <Open>75.954</Open>
+    <High>78.385</High>
+    <Low>72.9447</Low>
+    <Close>76.0384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-24</Date>
+    <Open>76.0384</Open>
+    <High>77.7159</High>
+    <Low>75.3638</Low>
+    <Close>75.8161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-25</Date>
+    <Open>75.798</Open>
+    <High>77.6232</High>
+    <Low>73.3305</Low>
+    <Close>73.704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-26</Date>
+    <Open>73.686</Open>
+    <High>76.574</High>
+    <Low>72.6933</Low>
+    <Close>75.512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-27</Date>
+    <Open>75.569</Open>
+    <High>80.879</High>
+    <Low>74.586</Low>
+    <Close>75.9284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-28</Date>
+    <Open>75.9284</Open>
+    <High>78.0662</High>
+    <Low>73.0767</Low>
+    <Close>77.197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-29</Date>
+    <Open>77.256</Open>
+    <High>77.478</High>
+    <Low>74.347</Low>
+    <Close>76.5416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-09-30</Date>
+    <Open>76.497</Open>
+    <High>77.8628</High>
+    <Low>73.936</Low>
+    <Close>74.154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-01</Date>
+    <Open>74.154</Open>
+    <High>75.71</High>
+    <Low>73.716</Low>
+    <Close>74.669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-02</Date>
+    <Open>74.458</Open>
+    <High>75.786</High>
+    <Low>72.872</Low>
+    <Close>74.676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-03</Date>
+    <Open>74.05</Open>
+    <High>76.148</High>
+    <Low>71.876</Low>
+    <Close>75.3435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-04</Date>
+    <Open>75.3435</Open>
+    <High>79.8389</High>
+    <Low>75.3335</Low>
+    <Close>78.8066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-05</Date>
+    <Open>78.7988</Open>
+    <High>79.2078</High>
+    <Low>75.8206</Low>
+    <Close>78.1106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-06</Date>
+    <Open>78.2607</Open>
+    <High>80.4303</High>
+    <Low>77.7359</Low>
+    <Close>78.0113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-07</Date>
+    <Open>78.0113</Open>
+    <High>78.2575</High>
+    <Low>75.0453</Low>
+    <Close>75.8594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-08</Date>
+    <Open>75.9136</Open>
+    <High>76.2086</High>
+    <Low>74.1445</Low>
+    <Close>74.1933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-09</Date>
+    <Open>74.2003</Open>
+    <High>76.0236</High>
+    <Low>73.9424</Low>
+    <Close>75.6261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-10</Date>
+    <Open>75.6116</Open>
+    <High>76.5217</High>
+    <Low>73.546</Low>
+    <Close>74.8065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-11</Date>
+    <Open>74.806</Open>
+    <High>74.839</High>
+    <Low>71.1609</Low>
+    <Close>71.5266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-12</Date>
+    <Open>71.5206</Open>
+    <High>72.7505</High>
+    <Low>71.1163</Low>
+    <Close>72.0652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-13</Date>
+    <Open>72.063</Open>
+    <High>72.158</High>
+    <Low>64.8474</Low>
+    <Close>71.3567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-14</Date>
+    <Open>71.3894</Open>
+    <High>74.7262</High>
+    <Low>70.858</Low>
+    <Close>72.0899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-15</Date>
+    <Open>72.6052</Open>
+    <High>73.3274</High>
+    <Low>71.4697</Low>
+    <Close>72.5086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-16</Date>
+    <Open>72.513</Open>
+    <High>76.2122</High>
+    <Low>71.6153</Low>
+    <Close>74.757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-17</Date>
+    <Open>74.7577</Open>
+    <High>79.6608</High>
+    <Low>74.6365</Low>
+    <Close>79.0466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-18</Date>
+    <Open>79.0466</Open>
+    <High>83.6987</High>
+    <Low>78.0873</Low>
+    <Close>82.0683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-19</Date>
+    <Open>82.0932</Open>
+    <High>85.6104</High>
+    <Low>81.1966</Low>
+    <Close>83.729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-20</Date>
+    <Open>83.7392</Open>
+    <High>83.936</High>
+    <Low>80.0326</Low>
+    <Close>81.7093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-21</Date>
+    <Open>81.6793</Open>
+    <High>83.3238</High>
+    <Low>78.3652</Low>
+    <Close>81.3815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-22</Date>
+    <Open>81.2807</Open>
+    <High>84.2882</High>
+    <Low>81.0459</Low>
+    <Close>82.6914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-23</Date>
+    <Open>82.6534</Open>
+    <High>87.8024</High>
+    <Low>81.5932</Low>
+    <Close>87.5734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-24</Date>
+    <Open>87.5253</Open>
+    <High>90.1051</High>
+    <Low>85.2874</Low>
+    <Close>85.3764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-25</Date>
+    <Open>85.3484</Open>
+    <High>86.3675</High>
+    <Low>81.9142</Low>
+    <Close>83.0626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-26</Date>
+    <Open>83.0344</Open>
+    <High>85.3342</High>
+    <Low>80.9649</Low>
+    <Close>84.4896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-27</Date>
+    <Open>84.4176</Open>
+    <High>87.1013</High>
+    <Low>80.7693</Low>
+    <Close>81.7289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-28</Date>
+    <Open>81.7529</Open>
+    <High>84.931</High>
+    <Low>80.6082</Low>
+    <Close>84.4937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-29</Date>
+    <Open>84.4809</Open>
+    <High>87.441</High>
+    <Low>83.8683</Low>
+    <Close>85.9328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-30</Date>
+    <Open>86.0546</Open>
+    <High>86.9316</High>
+    <Low>82.7997</Low>
+    <Close>83.6107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-10-31</Date>
+    <Open>83.6797</Open>
+    <High>87.084</High>
+    <Low>82.4819</Low>
+    <Close>83.6363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-01</Date>
+    <Open>83.679</Open>
+    <High>85.8664</High>
+    <Low>83.5715</Low>
+    <Close>84.2896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-02</Date>
+    <Open>84.2386</Open>
+    <High>85.7023</High>
+    <Low>79.181</Low>
+    <Close>79.8942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-03</Date>
+    <Open>79.8702</Open>
+    <High>86.5616</High>
+    <Low>79.6802</Low>
+    <Close>84.4752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-04</Date>
+    <Open>84.434</Open>
+    <High>97.4252</High>
+    <Low>83.2608</Low>
+    <Close>95.2136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-05</Date>
+    <Open>95.2136</Open>
+    <High>98.32</High>
+    <Low>93.4982</Low>
+    <Close>96.8388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-06</Date>
+    <Open>96.7968</Open>
+    <High>96.8678</High>
+    <Low>87.9927</Low>
+    <Close>89.2721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-07</Date>
+    <Open>89.2503</Open>
+    <High>90.4197</High>
+    <Low>83.8709</Low>
+    <Close>86.8254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-08</Date>
+    <Open>86.809</Open>
+    <High>88.3311</High>
+    <Low>66.1729</Low>
+    <Close>70.886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-09</Date>
+    <Open>70.896</Open>
+    <High>73.3309</High>
+    <Low>58.6095</Low>
+    <Close>59.4463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-10</Date>
+    <Open>59.6274</Open>
+    <High>75.2946</High>
+    <Low>57.7664</Low>
+    <Close>68.8998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-11</Date>
+    <Open>68.9342</Open>
+    <High>78.6084</High>
+    <Low>61.3663</Low>
+    <Close>63.1077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-12</Date>
+    <Open>63.0889</Open>
+    <High>64.4637</High>
+    <Low>56.9084</Low>
+    <Close>58.1062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-13</Date>
+    <Open>58.0972</Open>
+    <High>60.5852</High>
+    <Low>55.8795</Low>
+    <Close>57.0101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-14</Date>
+    <Open>56.9711</Open>
+    <High>59.6673</High>
+    <Low>53.2969</Low>
+    <Close>57.6204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-15</Date>
+    <Open>57.5996</Open>
+    <High>62.889</High>
+    <Low>57.5845</Low>
+    <Close>60.4105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-16</Date>
+    <Open>60.4242</Open>
+    <High>62.0768</High>
+    <Low>57.0563</Low>
+    <Close>57.6953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-17</Date>
+    <Open>57.7178</Open>
+    <High>59.5435</High>
+    <Low>56.7586</Low>
+    <Close>58.971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-18</Date>
+    <Open>59.0303</Open>
+    <High>61.3515</High>
+    <Low>57.395</Low>
+    <Close>57.9523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-19</Date>
+    <Open>57.9523</Open>
+    <High>59.0525</High>
+    <Low>56.772</Low>
+    <Close>58.7902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-20</Date>
+    <Open>58.7291</Open>
+    <High>61.3153</High>
+    <Low>55.4868</Low>
+    <Close>56.2254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-21</Date>
+    <Open>56.3247</Open>
+    <High>57.4748</High>
+    <Low>54.0094</Low>
+    <Close>55.6076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-22</Date>
+    <Open>55.6432</Open>
+    <High>57.7162</High>
+    <Low>50.2257</Low>
+    <Close>56.8206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-23</Date>
+    <Open>56.8206</Open>
+    <High>59.1991</High>
+    <Low>56.4775</Low>
+    <Close>57.6361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-24</Date>
+    <Open>57.6561</Open>
+    <High>59.9284</High>
+    <Low>57.3221</Low>
+    <Close>58.2021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-25</Date>
+    <Open>58.2001</Open>
+    <High>60.3289</High>
+    <Low>56.7333</Low>
+    <Close>58.9144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-26</Date>
+    <Open>58.8887</Open>
+    <High>62.4029</High>
+    <Low>58.7549</Low>
+    <Close>60.7351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-27</Date>
+    <Open>60.7192</Open>
+    <High>63.3065</High>
+    <Low>60.1749</Low>
+    <Close>62.9477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-28</Date>
+    <Open>62.8684</Open>
+    <High>62.9016</High>
+    <Low>58.4968</Low>
+    <Close>60.586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-29</Date>
+    <Open>60.567</Open>
+    <High>62.4385</High>
+    <Low>59.5376</Low>
+    <Close>61.7681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-11-30</Date>
+    <Open>61.7481</Open>
+    <High>65.945</High>
+    <Low>61.4913</Low>
+    <Close>65.0906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-01</Date>
+    <Open>65.09</Open>
+    <High>65.6186</High>
+    <Low>63.0474</Low>
+    <Close>63.8158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-02</Date>
+    <Open>63.8152</Open>
+    <High>65.8769</High>
+    <Low>62.3246</Low>
+    <Close>65.3119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-03</Date>
+    <Open>65.3119</Open>
+    <High>66.328</High>
+    <Low>62.6095</Low>
+    <Close>62.7343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-04</Date>
+    <Open>62.7323</Open>
+    <High>64.568</High>
+    <Low>62.6943</Low>
+    <Close>63.9984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-05</Date>
+    <Open>63.9984</Open>
+    <High>67.2755</High>
+    <Low>63.828</Low>
+    <Close>64.1893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-06</Date>
+    <Open>64.1944</Open>
+    <High>65.5127</High>
+    <Low>62.7867</Low>
+    <Close>63.3667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-07</Date>
+    <Open>63.366</Open>
+    <High>64.033</High>
+    <Low>60.3978</Low>
+    <Close>60.721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-08</Date>
+    <Open>60.721</Open>
+    <High>63.4684</High>
+    <Low>60.4631</Low>
+    <Close>62.8624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-09</Date>
+    <Open>62.8624</Open>
+    <High>63.3621</High>
+    <Low>61.1014</Low>
+    <Close>61.1958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-10</Date>
+    <Open>61.1771</Open>
+    <High>62.0526</High>
+    <Low>61.1704</Low>
+    <Close>61.6478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-11</Date>
+    <Open>61.6478</Open>
+    <High>61.6904</High>
+    <Low>59.2319</Low>
+    <Close>59.7299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-12</Date>
+    <Open>59.6779</Open>
+    <High>60.8259</High>
+    <Low>58.1802</Low>
+    <Close>60.2264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-13</Date>
+    <Open>60.1934</Open>
+    <High>63.853</High>
+    <Low>58.2235</Low>
+    <Close>61.9691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-14</Date>
+    <Open>61.9661</Open>
+    <High>63.412</High>
+    <Low>61.341</Low>
+    <Close>62.8024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-15</Date>
+    <Open>62.8024</Open>
+    <High>63.1106</High>
+    <Low>60.5651</Low>
+    <Close>60.8232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-16</Date>
+    <Open>60.7752</Open>
+    <High>61.2232</High>
+    <Low>54.0064</Low>
+    <Close>55.4155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-17</Date>
+    <Open>55.4205</Open>
+    <High>55.6792</High>
+    <Low>53.1158</Low>
+    <Close>55.4202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-18</Date>
+    <Open>55.4655</Open>
+    <High>55.8468</High>
+    <Low>55.1822</Low>
+    <Close>55.4172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-19</Date>
+    <Open>55.7484</Open>
+    <High>56.3581</High>
+    <Low>53.006</Low>
+    <Close>53.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-20</Date>
+    <Open>53.4965</Open>
+    <High>56.2245</High>
+    <Low>53.1805</Low>
+    <Close>55.6232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-21</Date>
+    <Open>55.6232</Open>
+    <High>56.4266</High>
+    <Low>54.6716</Low>
+    <Close>55.7268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-22</Date>
+    <Open>55.7268</Open>
+    <High>56.1106</High>
+    <Low>53.6241</Low>
+    <Close>55.5066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-23</Date>
+    <Open>55.5206</Open>
+    <High>56.0937</High>
+    <Low>54.2435</Low>
+    <Close>54.3106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-24</Date>
+    <Open>54.3206</Open>
+    <High>54.7486</High>
+    <Low>54.1621</Low>
+    <Close>54.4162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-25</Date>
+    <Open>54.4162</Open>
+    <High>55.5083</High>
+    <Low>53.813</Low>
+    <Close>54.4669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-26</Date>
+    <Open>54.4675</Open>
+    <High>55.991</High>
+    <Low>54.1921</Low>
+    <Close>55.6589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-27</Date>
+    <Open>55.6589</Open>
+    <High>58.1865</High>
+    <Low>55.4384</Low>
+    <Close>57.2976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-28</Date>
+    <Open>57.2976</Open>
+    <High>57.7259</High>
+    <Low>53.2596</Low>
+    <Close>53.4511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-29</Date>
+    <Open>53.4517</Open>
+    <High>54.9275</High>
+    <Low>53.3977</Low>
+    <Close>54.4249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-30</Date>
+    <Open>54.4525</Open>
+    <High>54.7659</High>
+    <Low>51.4747</Low>
+    <Close>52.6331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2022-12-31</Date>
+    <Open>52.6331</Open>
+    <High>53.3188</High>
+    <Low>51.6731</Low>
+    <Close>51.913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-01</Date>
+    <Open>51.912</Open>
+    <High>52.336</High>
+    <Low>51.1249</Low>
+    <Close>52.1665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-02</Date>
+    <Open>52.1665</Open>
+    <High>54.0389</High>
+    <Low>51.3104</Low>
+    <Close>53.5223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-03</Date>
+    <Open>53.4219</Open>
+    <High>53.4789</High>
+    <Low>52.1062</Low>
+    <Close>52.6395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-04</Date>
+    <Open>52.6585</Open>
+    <High>57.6853</High>
+    <Low>52.6084</Low>
+    <Close>56.3424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-05</Date>
+    <Open>56.3424</Open>
+    <High>56.9123</High>
+    <Low>54.9059</Low>
+    <Close>55.6805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-06</Date>
+    <Open>55.6733</Open>
+    <High>56.5196</High>
+    <Low>54.0147</Low>
+    <Close>56.3465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-07</Date>
+    <Open>56.322</Open>
+    <High>56.8434</High>
+    <Low>55.7386</Low>
+    <Close>55.8396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-08</Date>
+    <Open>55.8306</Open>
+    <High>58.9202</High>
+    <Low>55.4017</Low>
+    <Close>58.9179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-09</Date>
+    <Open>58.8872</Open>
+    <High>63.0594</High>
+    <Low>58.7998</Low>
+    <Close>61.3884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-10</Date>
+    <Open>61.389</Open>
+    <High>62.8377</High>
+    <Low>59.633</Low>
+    <Close>61.7976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-11</Date>
+    <Open>61.6502</Open>
+    <High>63.0024</High>
+    <Low>59.9426</Low>
+    <Close>62.8433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-12</Date>
+    <Open>62.947</Open>
+    <High>68.5371</High>
+    <Low>62.6317</Low>
+    <Close>67.8161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-13</Date>
+    <Open>67.8278</Open>
+    <High>73.0084</High>
+    <Low>66.622</Low>
+    <Close>71.2764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-14</Date>
+    <Open>71.2934</Open>
+    <High>80.6923</High>
+    <Low>70.8928</Low>
+    <Close>75.7438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-15</Date>
+    <Open>75.7596</Open>
+    <High>82.8689</High>
+    <Low>72.8333</Low>
+    <Close>79.9382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-16</Date>
+    <Open>79.935</Open>
+    <High>82.6054</High>
+    <Low>76.7151</Low>
+    <Close>80.3368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-17</Date>
+    <Open>80.2866</Open>
+    <High>91.1839</High>
+    <Low>78.5113</Low>
+    <Close>84.7645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-18</Date>
+    <Open>84.7645</Open>
+    <High>89.3792</High>
+    <Low>77.4224</Low>
+    <Close>83.0899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-19</Date>
+    <Open>83.1308</Open>
+    <High>84.6906</High>
+    <Low>77.7442</Low>
+    <Close>80.8526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-20</Date>
+    <Open>80.8626</Open>
+    <High>88.4253</High>
+    <Low>79.974</Low>
+    <Close>87.0308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-21</Date>
+    <Open>87.0297</Open>
+    <High>89.242</High>
+    <Low>84.6524</Low>
+    <Close>85.8912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-22</Date>
+    <Open>85.6599</Open>
+    <High>90.2105</High>
+    <Low>83.6811</Low>
+    <Close>84.5209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-23</Date>
+    <Open>84.5209</Open>
+    <High>90.0269</High>
+    <Low>84.5089</Low>
+    <Close>86.797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-24</Date>
+    <Open>86.8562</Open>
+    <High>88.5067</High>
+    <Low>79.1077</Low>
+    <Close>80.5866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-25</Date>
+    <Open>80.6054</Open>
+    <High>87.4584</High>
+    <Low>78.0967</Low>
+    <Close>84.4225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-26</Date>
+    <Open>84.3984</Open>
+    <High>90.6091</High>
+    <Low>84.3373</Low>
+    <Close>88.7941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-27</Date>
+    <Open>88.7441</Open>
+    <High>89.7115</High>
+    <Low>85.5057</Low>
+    <Close>86.2057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-28</Date>
+    <Open>86.2193</Open>
+    <High>88.2264</High>
+    <Low>83.281</Low>
+    <Close>83.7199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-29</Date>
+    <Open>83.7207</Open>
+    <High>88.5714</High>
+    <Low>83.324</Low>
+    <Close>87.9774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-30</Date>
+    <Open>87.9974</Open>
+    <High>88.3905</High>
+    <Low>79.302</Low>
+    <Close>80.7027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-01-31</Date>
+    <Open>80.7018</Open>
+    <High>83.5232</High>
+    <Low>80.2684</Low>
+    <Close>83.4205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-01</Date>
+    <Open>83.4575</Open>
+    <High>88.2582</High>
+    <Low>80.3184</Low>
+    <Close>87.7523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-02</Date>
+    <Open>87.6874</Open>
+    <High>93.3864</High>
+    <Low>87.5601</Low>
+    <Close>89.2068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-03</Date>
+    <Open>89.2068</Open>
+    <High>94.1722</High>
+    <Low>87.318</Low>
+    <Close>89.8872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-04</Date>
+    <Open>89.8862</Open>
+    <High>92.0025</High>
+    <Low>88.6699</Low>
+    <Close>89.8452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-05</Date>
+    <Open>89.8232</Open>
+    <High>89.9022</High>
+    <Low>83.2098</Low>
+    <Close>85.9785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-06</Date>
+    <Open>85.9855</Open>
+    <High>87.7424</High>
+    <Low>84.0991</Low>
+    <Close>84.9074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-07</Date>
+    <Open>84.9094</Open>
+    <High>88.7802</High>
+    <Low>83.2907</Low>
+    <Close>88.7622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-08</Date>
+    <Open>88.6323</Open>
+    <High>90.0991</High>
+    <Low>84.6148</Low>
+    <Close>86.7089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-09</Date>
+    <Open>86.7081</Open>
+    <High>89.8431</High>
+    <Low>76.0004</Low>
+    <Close>77.2217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-10</Date>
+    <Open>77.2597</Open>
+    <High>80.4548</High>
+    <Low>76.7029</Low>
+    <Close>78.8478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-11</Date>
+    <Open>78.868</Open>
+    <High>79.5002</High>
+    <Low>77.6936</Low>
+    <Close>79.3711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-12</Date>
+    <Open>79.3229</Open>
+    <High>80.5392</High>
+    <Low>76.4247</Low>
+    <Close>77.5407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-13</Date>
+    <Open>77.5228</Open>
+    <High>83.9464</High>
+    <Low>73.6622</Low>
+    <Close>81.2659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-14</Date>
+    <Open>81.2889</Open>
+    <High>83.7448</High>
+    <Low>79.1477</Low>
+    <Close>82.3263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-15</Date>
+    <Open>82.3979</Open>
+    <High>88.6891</High>
+    <Low>82.187</Low>
+    <Close>88.2338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-16</Date>
+    <Open>88.2078</Open>
+    <High>90.6332</High>
+    <Low>84.5271</Low>
+    <Close>85.236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-17</Date>
+    <Open>85.185</Open>
+    <High>88.3658</High>
+    <Low>83.5052</Low>
+    <Close>86.2168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-18</Date>
+    <Open>86.2026</Open>
+    <High>91.3394</High>
+    <Low>86.122</Low>
+    <Close>91.0325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-19</Date>
+    <Open>90.9985</Open>
+    <High>95.4371</High>
+    <Low>89.1511</Low>
+    <Close>90.6278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-20</Date>
+    <Open>90.6269</Open>
+    <High>93.0173</High>
+    <Low>86.9702</Low>
+    <Close>91.3967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-21</Date>
+    <Open>91.5207</Open>
+    <High>92.7319</High>
+    <Low>85.6333</Low>
+    <Close>86.8816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-22</Date>
+    <Open>86.8578</Open>
+    <High>87.8811</High>
+    <Low>82.0736</Low>
+    <Close>84.4968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-23</Date>
+    <Open>84.544</Open>
+    <High>87.5449</High>
+    <Low>83.7324</Low>
+    <Close>84.7969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-24</Date>
+    <Open>84.7857</Open>
+    <High>86.7564</High>
+    <Low>79.904</Low>
+    <Close>80.1994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-25</Date>
+    <Open>80.2034</Open>
+    <High>83.4927</High>
+    <Low>77.3299</Low>
+    <Close>79.2206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-26</Date>
+    <Open>79.2229</Open>
+    <High>82.4315</High>
+    <Low>79.1395</Low>
+    <Close>81.5767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-27</Date>
+    <Open>81.6071</Open>
+    <High>83.5185</High>
+    <Low>79.53</Low>
+    <Close>80.189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-02-28</Date>
+    <Open>80.2288</Open>
+    <High>80.5928</High>
+    <Low>76.7101</Low>
+    <Close>77.661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-01</Date>
+    <Open>77.6197</Open>
+    <High>83.1161</High>
+    <Low>76.9983</Low>
+    <Close>82.3157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-02</Date>
+    <Open>82.3157</Open>
+    <High>83.1185</High>
+    <Low>78.4026</Low>
+    <Close>80.0422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-03</Date>
+    <Open>80.0414</Open>
+    <High>80.0414</High>
+    <Low>73.1029</Low>
+    <Close>76.5104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-04</Date>
+    <Open>76.5104</Open>
+    <High>77.4787</High>
+    <Low>73.7897</Low>
+    <Close>75.4143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-05</Date>
+    <Open>75.415</Open>
+    <High>77.1827</High>
+    <Low>74.9145</Low>
+    <Close>75.2043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-06</Date>
+    <Open>75.303</Open>
+    <High>77.4563</High>
+    <Low>74.2097</Low>
+    <Close>76.8214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-07</Date>
+    <Open>76.8384</Open>
+    <High>77.735</High>
+    <Low>73.6345</Low>
+    <Close>74.2623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-08</Date>
+    <Open>74.2793</Open>
+    <High>75.4595</High>
+    <Low>71.0942</Low>
+    <Close>71.5387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-09</Date>
+    <Open>71.5258</Open>
+    <High>73.9592</High>
+    <Low>66.9266</Low>
+    <Close>67.9671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-10</Date>
+    <Open>67.9578</Open>
+    <High>68.8044</High>
+    <Low>64.6768</Low>
+    <Close>68.3357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-11</Date>
+    <Open>68.3541</Open>
+    <High>71.6704</High>
+    <Low>64.3334</Low>
+    <Close>66.9227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-12</Date>
+    <Open>66.9313</Open>
+    <High>72.5849</High>
+    <Low>66.4074</Low>
+    <Close>72.035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-13</Date>
+    <Open>72.0148</Open>
+    <High>77.4915</High>
+    <Low>70.9847</Low>
+    <Close>76.7982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-14</Date>
+    <Open>76.7982</Open>
+    <High>81.8292</High>
+    <Low>74.6456</Low>
+    <Close>78.9984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-15</Date>
+    <Open>78.9991</Open>
+    <High>80.9317</High>
+    <Low>71.6897</Low>
+    <Close>73.9781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-16</Date>
+    <Open>73.9034</Open>
+    <High>75.8073</High>
+    <Low>73.3351</Low>
+    <Close>74.7705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-17</Date>
+    <Open>74.7983</Open>
+    <High>80.2733</High>
+    <Low>73.9315</Low>
+    <Close>80.2733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-18</Date>
+    <Open>80.2932</Open>
+    <High>82.0866</High>
+    <Low>77.4586</Low>
+    <Close>78.5098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-19</Date>
+    <Open>78.509</Open>
+    <High>81.8743</High>
+    <Low>77.5148</Low>
+    <Close>80.3758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-20</Date>
+    <Open>80.3642</Open>
+    <High>80.7154</High>
+    <Low>76.3625</Low>
+    <Close>76.8154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-21</Date>
+    <Open>76.8753</Open>
+    <High>79.7076</High>
+    <Low>74.5187</Low>
+    <Close>78.1204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-22</Date>
+    <Open>78.0632</Open>
+    <High>79.4736</High>
+    <Low>72.836</Low>
+    <Close>75.033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-23</Date>
+    <Open>75.006</Open>
+    <High>80.6431</High>
+    <Low>74.5718</Low>
+    <Close>76.4647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-24</Date>
+    <Open>76.4547</Open>
+    <High>77.5318</High>
+    <Low>72.2728</Low>
+    <Close>73.0892</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-25</Date>
+    <Open>73.095</Open>
+    <High>73.627</High>
+    <Low>70.1962</Low>
+    <Close>71.0689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-26</Date>
+    <Open>71.0819</Open>
+    <High>73.4601</High>
+    <Low>70.9088</Low>
+    <Close>72.7081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-27</Date>
+    <Open>72.7259</Open>
+    <High>73.7362</High>
+    <Low>68.4989</Low>
+    <Close>69.6767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-28</Date>
+    <Open>69.7048</Open>
+    <High>71.6276</High>
+    <Low>68.8071</Low>
+    <Close>70.4405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-29</Date>
+    <Open>70.3604</Open>
+    <High>73.4954</High>
+    <Low>70.0396</Low>
+    <Close>72.9779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-30</Date>
+    <Open>73.0829</Open>
+    <High>74.3621</High>
+    <Low>70.1873</Low>
+    <Close>71.3102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-03-31</Date>
+    <Open>71.3623</Open>
+    <High>74.1738</High>
+    <Low>70.7538</Low>
+    <Close>74.1738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-01</Date>
+    <Open>74.1678</Open>
+    <High>74.8602</High>
+    <Low>73.4376</Low>
+    <Close>74.1407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-02</Date>
+    <Open>74.1114</Open>
+    <High>74.8364</High>
+    <Low>71.6637</Low>
+    <Close>72.9202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-03</Date>
+    <Open>72.9352</Open>
+    <High>75.0425</High>
+    <Low>70.8167</Low>
+    <Close>72.7424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-04</Date>
+    <Open>72.7331</Open>
+    <High>76.9471</High>
+    <Low>72.6762</Low>
+    <Close>76.563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-05</Date>
+    <Open>76.4402</Open>
+    <High>79.3796</High>
+    <Low>75.9103</Low>
+    <Close>78.4132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-06</Date>
+    <Open>78.534</Open>
+    <High>81.3565</High>
+    <Low>77.5545</Low>
+    <Close>80.063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-07</Date>
+    <Open>80.0638</Open>
+    <High>80.9893</High>
+    <Low>77.7439</Low>
+    <Close>78.0327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-08</Date>
+    <Open>78.0327</Open>
+    <High>78.9022</High>
+    <Low>76.3258</Low>
+    <Close>76.4918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-09</Date>
+    <Open>76.4738</Open>
+    <High>77.5607</High>
+    <Low>74.7923</Low>
+    <Close>76.7654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-10</Date>
+    <Open>76.8345</Open>
+    <High>77.8795</High>
+    <Low>75.1616</Low>
+    <Close>77.5568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-11</Date>
+    <Open>77.5575</Open>
+    <High>80.5824</High>
+    <Low>77.4987</Low>
+    <Close>79.1052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-12</Date>
+    <Open>79.0824</Open>
+    <High>79.689</High>
+    <Low>75.5936</Low>
+    <Close>78.8885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-13</Date>
+    <Open>78.9165</Open>
+    <High>81.8108</High>
+    <Low>76.844</Low>
+    <Close>80.6724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-14</Date>
+    <Open>80.6544</Open>
+    <High>83.9482</High>
+    <Low>80.1939</Low>
+    <Close>82.4814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-15</Date>
+    <Open>82.3833</Open>
+    <High>84.2097</High>
+    <Low>81.1172</Low>
+    <Close>82.5893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-16</Date>
+    <Open>82.6175</Open>
+    <High>83.6735</High>
+    <Low>80.9439</Low>
+    <Close>83.672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-17</Date>
+    <Open>83.6729</Open>
+    <High>84.4966</High>
+    <Low>80.2826</Low>
+    <Close>80.8205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-18</Date>
+    <Open>80.8367</Open>
+    <High>84.164</High>
+    <Low>79.599</Low>
+    <Close>81.4088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-19</Date>
+    <Open>81.463</Open>
+    <High>82.1119</High>
+    <Low>72.417</Low>
+    <Close>74.2368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-20</Date>
+    <Open>74.3499</Open>
+    <High>75.3153</High>
+    <Low>71.6608</Low>
+    <Close>72.3928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-21</Date>
+    <Open>72.3113</Open>
+    <High>73.3554</High>
+    <Low>68.146</Low>
+    <Close>68.9454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-22</Date>
+    <Open>68.9124</Open>
+    <High>70.6927</High>
+    <Low>68.3619</Low>
+    <Close>70.419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-23</Date>
+    <Open>70.3093</Open>
+    <High>71.0258</High>
+    <Low>68.3327</Low>
+    <Close>69.4485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-24</Date>
+    <Open>69.4905</Open>
+    <High>71.4397</High>
+    <Low>68.1419</Low>
+    <Close>69.7434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-25</Date>
+    <Open>69.7741</Open>
+    <High>71.1594</High>
+    <Low>68.3577</Low>
+    <Close>71.1294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-26</Date>
+    <Open>71.1104</Open>
+    <High>74.6352</High>
+    <Low>66.0552</Low>
+    <Close>69.3792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-27</Date>
+    <Open>69.2181</Open>
+    <High>72.0702</High>
+    <Low>68.8692</Low>
+    <Close>71.5266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-28</Date>
+    <Open>71.5106</Open>
+    <High>72.0959</High>
+    <Low>70.1138</Low>
+    <Close>71.7792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-29</Date>
+    <Open>71.7682</Open>
+    <High>72.7484</High>
+    <Low>71.3708</Low>
+    <Close>71.9294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-04-30</Date>
+    <Open>71.8847</Open>
+    <High>72.5875</High>
+    <Low>70.2744</Low>
+    <Close>70.9534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-01</Date>
+    <Open>70.8073</Open>
+    <High>71.0313</High>
+    <Low>67.6667</Low>
+    <Close>68.3354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-02</Date>
+    <Open>68.3415</Open>
+    <High>69.5923</High>
+    <Low>68.0137</Low>
+    <Close>69.0551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-03</Date>
+    <Open>69.0591</Open>
+    <High>71.1665</High>
+    <Low>67.5927</Low>
+    <Close>71.0155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-04</Date>
+    <Open>71.0072</Open>
+    <High>72.0446</High>
+    <Low>70.3165</Low>
+    <Close>70.7685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-05</Date>
+    <Open>70.7962</Open>
+    <High>74.3345</High>
+    <Low>70.185</Low>
+    <Close>73.5809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-06</Date>
+    <Open>73.717</Open>
+    <High>74.1839</High>
+    <Low>68.6035</Low>
+    <Close>69.7351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-07</Date>
+    <Open>69.7414</Open>
+    <High>70.2889</High>
+    <Low>68.9976</Low>
+    <Close>69.5283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-08</Date>
+    <Open>69.5281</Open>
+    <High>69.586</High>
+    <Low>62.5321</Low>
+    <Close>64.3308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-09</Date>
+    <Open>64.3308</Open>
+    <High>64.9333</High>
+    <Low>63.7757</Low>
+    <Close>64.1361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-10</Date>
+    <Open>64.1361</Open>
+    <High>65.898</High>
+    <Low>61.6928</Low>
+    <Close>65.0069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-11</Date>
+    <Open>65.0069</Open>
+    <High>65.087</High>
+    <Low>60.9438</Low>
+    <Close>62.3092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-12</Date>
+    <Open>62.3092</Open>
+    <High>62.8623</High>
+    <Low>60.2031</Low>
+    <Close>62.8222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-13</Date>
+    <Open>62.8222</Open>
+    <High>63.2859</High>
+    <Low>61.9329</Low>
+    <Close>62.3104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-14</Date>
+    <Open>62.3041</Open>
+    <High>63.376</High>
+    <Low>61.5998</Low>
+    <Close>62.2343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-15</Date>
+    <Open>62.2343</Open>
+    <High>64.5672</High>
+    <Low>61.4558</Low>
+    <Close>63.2182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-16</Date>
+    <Open>63.1962</Open>
+    <High>63.4374</High>
+    <Low>61.9368</Low>
+    <Close>62.414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-17</Date>
+    <Open>62.4109</Open>
+    <High>65.0145</High>
+    <Low>61.8307</Low>
+    <Close>64.1701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-18</Date>
+    <Open>64.1711</Open>
+    <High>67.4102</High>
+    <Low>64.1641</Low>
+    <Close>65.6232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-19</Date>
+    <Open>65.6232</Open>
+    <High>65.8067</High>
+    <Low>63.9994</Low>
+    <Close>65.3576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-20</Date>
+    <Open>65.3707</Open>
+    <High>65.5342</High>
+    <Low>64.5943</Low>
+    <Close>65.1366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-21</Date>
+    <Open>65.3267</Open>
+    <High>65.5038</High>
+    <Low>63.4407</Low>
+    <Close>63.5901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-22</Date>
+    <Open>63.5901</Open>
+    <High>64.8169</High>
+    <Low>62.9715</Low>
+    <Close>64.6423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-23</Date>
+    <Open>64.6423</Open>
+    <High>66.2853</High>
+    <Low>64.0915</Low>
+    <Close>65.3459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-24</Date>
+    <Open>65.3459</Open>
+    <High>65.5142</High>
+    <Low>62.2828</Low>
+    <Close>64.0132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-25</Date>
+    <Open>64.0138</Open>
+    <High>64.1758</High>
+    <Low>62.3766</Low>
+    <Close>63.7123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-26</Date>
+    <Open>63.7175</Open>
+    <High>65.648</High>
+    <Low>62.8607</Low>
+    <Close>65.019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-27</Date>
+    <Open>65.019</Open>
+    <High>65.3296</High>
+    <Low>64.423</Low>
+    <Close>65.1821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AAVE">
+    <Date>2023-05-28</Date>
+    <Open>65.1821</Open>
+    <High>67.8586</High>
+    <Low>65.1776</Low>
+    <Close>67.8586</Close>
+  </Cryptocurrency>
+</Root>

@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-14</Date>
+    <Open>0.647497</Open>
+    <High>0.672253</High>
+    <Low>0.57489</Low>
+    <Close>0.630054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-15</Date>
+    <Open>0.629517</Open>
+    <High>0.72413</High>
+    <Low>0.62229</Low>
+    <Close>0.712572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-16</Date>
+    <Open>0.712872</Open>
+    <High>0.720534</High>
+    <Low>0.655313</Low>
+    <Close>0.684309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-17</Date>
+    <Open>0.685308</Open>
+    <High>0.738712</High>
+    <Low>0.671925</Low>
+    <Close>0.731321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-18</Date>
+    <Open>0.731521</Open>
+    <High>0.739911</High>
+    <Low>0.655547</Low>
+    <Close>0.662637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-19</Date>
+    <Open>0.665034</Open>
+    <High>0.721877</High>
+    <Low>0.644661</Low>
+    <Close>0.681286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-20</Date>
+    <Open>0.679987</Open>
+    <High>0.706693</High>
+    <Low>0.617958</Low>
+    <Close>0.646723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-21</Date>
+    <Open>0.646823</Open>
+    <High>0.66813</High>
+    <Low>0.634737</Low>
+    <Close>0.66084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-22</Date>
+    <Open>0.661838</Open>
+    <High>0.686675</High>
+    <Low>0.645759</Low>
+    <Close>0.670494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-23</Date>
+    <Open>0.670894</Open>
+    <High>0.705194</High>
+    <Low>0.656511</Low>
+    <Close>0.676787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-24</Date>
+    <Open>0.67632</Open>
+    <High>0.676987</High>
+    <Low>0.631341</Low>
+    <Close>0.657444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-25</Date>
+    <Open>0.659875</Open>
+    <High>0.670861</High>
+    <Low>0.634301</Low>
+    <Close>0.656677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-26</Date>
+    <Open>0.656277</Open>
+    <High>0.657376</High>
+    <Low>0.552991</Low>
+    <Close>0.587412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-27</Date>
+    <Open>0.587712</Open>
+    <High>0.623813</High>
+    <Low>0.549795</Low>
+    <Close>0.613386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-28</Date>
+    <Open>0.611902</Open>
+    <High>0.624007</High>
+    <Low>0.590895</Low>
+    <Close>0.612988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-29</Date>
+    <Open>0.607976</Open>
+    <High>0.620672</High>
+    <Low>0.591455</Low>
+    <Close>0.618219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-30</Date>
+    <Open>0.619705</Open>
+    <High>0.698011</High>
+    <Low>0.616621</Low>
+    <Close>0.693314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-05-31</Date>
+    <Open>0.697042</Open>
+    <High>0.706434</High>
+    <Low>0.652543</Low>
+    <Close>0.663502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-01</Date>
+    <Open>0.664321</Open>
+    <High>0.685651</High>
+    <Low>0.5991</Low>
+    <Close>0.606593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-02</Date>
+    <Open>0.605479</Open>
+    <High>0.642122</High>
+    <Low>0.592766</Low>
+    <Close>0.639424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-03</Date>
+    <Open>0.639624</Open>
+    <High>0.643121</High>
+    <Low>0.582194</Low>
+    <Close>0.602681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-04</Date>
+    <Open>0.603481</Open>
+    <High>0.628865</High>
+    <Low>0.594212</Low>
+    <Close>0.610436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-05</Date>
+    <Open>0.610248</Open>
+    <High>0.619224</High>
+    <Low>0.595393</Low>
+    <Close>0.606929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-06</Date>
+    <Open>0.606729</Open>
+    <High>0.636958</High>
+    <Low>0.604531</Low>
+    <Close>0.614284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-07</Date>
+    <Open>0.615582</Open>
+    <High>0.627529</High>
+    <Low>0.578847</Low>
+    <Close>0.617924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-08</Date>
+    <Open>0.618087</Open>
+    <High>0.621228</High>
+    <Low>0.594977</Low>
+    <Close>0.605606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-09</Date>
+    <Open>0.605606</Open>
+    <High>0.654582</High>
+    <Low>0.597757</Low>
+    <Close>0.617681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-10</Date>
+    <Open>0.617075</Open>
+    <High>0.698792</High>
+    <Low>0.604785</Low>
+    <Close>0.658656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-11</Date>
+    <Open>0.658256</Open>
+    <High>0.687863</High>
+    <Low>0.609331</Low>
+    <Close>0.626585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-12</Date>
+    <Open>0.625592</Open>
+    <High>0.637763</High>
+    <Low>0.599238</Low>
+    <Close>0.604755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-13</Date>
+    <Open>0.601459</Open>
+    <High>0.62548</High>
+    <Low>0.547794</Low>
+    <Close>0.583188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-14</Date>
+    <Open>0.581784</Open>
+    <High>0.628083</High>
+    <Low>0.549636</Low>
+    <Close>0.581202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-15</Date>
+    <Open>0.584304</Open>
+    <High>0.650388</High>
+    <Low>0.561188</Low>
+    <Close>0.649025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-16</Date>
+    <Open>0.647927</Open>
+    <High>0.651053</High>
+    <Low>0.605234</Low>
+    <Close>0.62239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-17</Date>
+    <Open>0.612348</Open>
+    <High>0.724629</High>
+    <Low>0.607149</Low>
+    <Close>0.709947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-18</Date>
+    <Open>0.707157</Open>
+    <High>0.755948</High>
+    <Low>0.640067</Low>
+    <Close>0.707552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-19</Date>
+    <Open>0.709349</Open>
+    <High>0.779064</High>
+    <Low>0.689172</Low>
+    <Close>0.750998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-20</Date>
+    <Open>0.749624</Open>
+    <High>0.888621</High>
+    <Low>0.728652</Low>
+    <Close>0.832783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-21</Date>
+    <Open>0.832999</Open>
+    <High>0.92638</High>
+    <Low>0.825408</Low>
+    <Close>0.84955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-22</Date>
+    <Open>0.847866</Open>
+    <High>0.88992</High>
+    <Low>0.780818</Low>
+    <Close>0.841158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-23</Date>
+    <Open>0.840259</Open>
+    <High>0.87892</High>
+    <Low>0.834565</Low>
+    <Close>0.847951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-24</Date>
+    <Open>0.847052</Open>
+    <High>0.878106</High>
+    <Low>0.847052</Low>
+    <Close>0.868022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-25</Date>
+    <Open>0.868531</Open>
+    <High>0.949173</High>
+    <Low>0.862637</Low>
+    <Close>0.916358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-26</Date>
+    <Open>0.917557</Open>
+    <High>0.923671</High>
+    <Low>0.849607</Low>
+    <Close>0.856768</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-27</Date>
+    <Open>0.856086</Open>
+    <High>0.858816</High>
+    <Low>0.790264</Low>
+    <Close>0.809879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-28</Date>
+    <Open>0.810038</Open>
+    <High>0.828221</High>
+    <Low>0.744912</Low>
+    <Close>0.750506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-29</Date>
+    <Open>0.750568</Open>
+    <High>0.764451</High>
+    <Low>0.683204</Low>
+    <Close>0.707143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-06-30</Date>
+    <Open>0.706244</Open>
+    <High>0.791218</High>
+    <Low>0.66325</Low>
+    <Close>0.753794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-01</Date>
+    <Open>0.752596</Open>
+    <High>0.824709</High>
+    <Low>0.70581</Low>
+    <Close>0.737388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-02</Date>
+    <Open>0.736415</Open>
+    <High>0.751972</High>
+    <Low>0.719408</Low>
+    <Close>0.747602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-03</Date>
+    <Open>0.746203</Open>
+    <High>0.749899</High>
+    <Low>0.723059</Low>
+    <Close>0.735642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-04</Date>
+    <Open>0.734444</Open>
+    <High>0.775269</High>
+    <Low>0.727054</Low>
+    <Close>0.770374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-05</Date>
+    <Open>0.771673</Open>
+    <High>0.783359</High>
+    <Low>0.735091</Low>
+    <Close>0.75367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-06</Date>
+    <Open>0.756067</Open>
+    <High>0.765457</High>
+    <Low>0.743381</Low>
+    <Close>0.760662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-07</Date>
+    <Open>0.759863</Open>
+    <High>0.838297</High>
+    <Low>0.754669</Low>
+    <Close>0.81561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-08</Date>
+    <Open>0.81641</Open>
+    <High>0.818926</High>
+    <Low>0.768039</Low>
+    <Close>0.78303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-09</Date>
+    <Open>0.78303</Open>
+    <High>0.822306</High>
+    <Low>0.775357</Low>
+    <Close>0.804917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-10</Date>
+    <Open>0.803318</Open>
+    <High>0.821025</High>
+    <Low>0.741381</Low>
+    <Close>0.789626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-11</Date>
+    <Open>0.789926</Open>
+    <High>0.864235</High>
+    <Low>0.763442</Low>
+    <Close>0.854231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-12</Date>
+    <Open>0.852832</Open>
+    <High>0.860025</High>
+    <Low>0.707891</Low>
+    <Close>0.760439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-13</Date>
+    <Open>0.759762</Open>
+    <High>0.837162</High>
+    <Low>0.741591</Low>
+    <Close>0.79938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-14</Date>
+    <Open>0.800679</Open>
+    <High>0.81681</High>
+    <Low>0.775979</Low>
+    <Close>0.803618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-15</Date>
+    <Open>0.802918</Open>
+    <High>0.823705</High>
+    <Low>0.796622</Low>
+    <Close>0.807358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-16</Date>
+    <Open>0.808157</Open>
+    <High>0.822136</High>
+    <Low>0.783843</Low>
+    <Close>0.809957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-17</Date>
+    <Open>0.809789</Open>
+    <High>0.823502</High>
+    <Low>0.796104</Low>
+    <Close>0.80719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-18</Date>
+    <Open>0.807182</Open>
+    <High>0.840891</High>
+    <Low>0.796673</Low>
+    <Close>0.82431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-19</Date>
+    <Open>0.823102</Open>
+    <High>0.8562</High>
+    <Low>0.812751</Low>
+    <Close>0.846335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-20</Date>
+    <Open>0.8458</Open>
+    <High>0.863278</High>
+    <Low>0.805584</Low>
+    <Close>0.819841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-21</Date>
+    <Open>0.818006</Open>
+    <High>0.837051</High>
+    <Low>0.785879</Low>
+    <Close>0.829657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-22</Date>
+    <Open>0.830099</Open>
+    <High>0.924929</High>
+    <Low>0.822832</Low>
+    <Close>0.870291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-23</Date>
+    <Open>0.8708</Open>
+    <High>0.889707</High>
+    <Low>0.846192</Low>
+    <Close>0.861672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-24</Date>
+    <Open>0.860186</Open>
+    <High>0.884333</High>
+    <Low>0.859712</Low>
+    <Close>0.878276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-25</Date>
+    <Open>0.878267</Open>
+    <High>0.963967</High>
+    <Low>0.859769</Low>
+    <Close>0.925074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-26</Date>
+    <Open>0.924583</Open>
+    <High>0.960877</High>
+    <Low>0.884209</Low>
+    <Close>0.956634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-27</Date>
+    <Open>0.956734</Open>
+    <High>0.99587</High>
+    <Low>0.928078</Low>
+    <Close>0.962712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-28</Date>
+    <Open>0.962731</Open>
+    <High>1.00715</High>
+    <Low>0.956768</Low>
+    <Close>0.990198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-29</Date>
+    <Open>0.989467</Open>
+    <High>1.01265</High>
+    <Low>0.947375</Low>
+    <Close>0.979201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-30</Date>
+    <Open>0.979392</Open>
+    <High>0.986845</High>
+    <Low>0.950013</Low>
+    <Close>0.951114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-07-31</Date>
+    <Open>0.950323</Open>
+    <High>0.968171</High>
+    <Low>0.936271</Low>
+    <Close>0.942617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-01</Date>
+    <Open>0.942226</Open>
+    <High>0.947937</High>
+    <Low>0.907454</Low>
+    <Close>0.936772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-02</Date>
+    <Open>0.936471</Open>
+    <High>0.99744</High>
+    <Low>0.920267</Low>
+    <Close>0.982367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-03</Date>
+    <Open>0.985487</Open>
+    <High>1.11262</High>
+    <Low>0.966222</Low>
+    <Close>1.04026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-04</Date>
+    <Open>1.03975</Open>
+    <High>1.22645</High>
+    <Low>1.02712</Low>
+    <Close>1.13363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-05</Date>
+    <Open>1.13253</Open>
+    <High>1.21176</High>
+    <Low>1.12608</Low>
+    <Close>1.18973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-06</Date>
+    <Open>1.19193</Open>
+    <High>1.19514</High>
+    <Low>1.16058</Low>
+    <Close>1.16986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-07</Date>
+    <Open>1.17006</Open>
+    <High>1.17542</High>
+    <Low>1.14418</Low>
+    <Close>1.16711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-08</Date>
+    <Open>1.16711</Open>
+    <High>1.18793</High>
+    <Low>1.15813</Low>
+    <Close>1.17004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-09</Date>
+    <Open>1.17004</Open>
+    <High>1.17405</High>
+    <Low>1.07109</Low>
+    <Close>1.10143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-10</Date>
+    <Open>1.10293</Open>
+    <High>1.18651</High>
+    <Low>1.07019</Low>
+    <Close>1.15994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-11</Date>
+    <Open>1.16046</Open>
+    <High>1.17783</High>
+    <Low>1.12759</Low>
+    <Close>1.13603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-12</Date>
+    <Open>1.13513</Open>
+    <High>1.16068</High>
+    <Low>1.11905</Low>
+    <Close>1.14323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-13</Date>
+    <Open>1.14181</Open>
+    <High>1.17359</High>
+    <Low>1.1355</Low>
+    <Close>1.15705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-14</Date>
+    <Open>1.15695</Open>
+    <High>1.16834</High>
+    <Low>1.12103</Low>
+    <Close>1.13455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-15</Date>
+    <Open>1.13434</Open>
+    <High>1.15004</High>
+    <Low>1.08196</Low>
+    <Close>1.14057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-16</Date>
+    <Open>1.14078</Open>
+    <High>1.1524</High>
+    <Low>1.11581</Low>
+    <Close>1.1441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-17</Date>
+    <Open>1.1441</Open>
+    <High>1.15316</High>
+    <Low>1.0677</Low>
+    <Close>1.09409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-18</Date>
+    <Open>1.09408</Open>
+    <High>1.09678</High>
+    <Low>1.00728</Low>
+    <Close>1.02463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-19</Date>
+    <Open>1.0247</Open>
+    <High>1.15492</High>
+    <Low>0.9228</Low>
+    <Close>1.0411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-20</Date>
+    <Open>1.04385</Open>
+    <High>1.1301</High>
+    <Low>1.02206</Low>
+    <Close>1.04709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-21</Date>
+    <Open>1.0496</Open>
+    <High>1.10982</High>
+    <Low>1.04747</Low>
+    <Close>1.07447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-22</Date>
+    <Open>1.07577</Open>
+    <High>1.08771</High>
+    <Low>1.01296</Low>
+    <Close>1.02863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-23</Date>
+    <Open>1.02865</Open>
+    <High>1.04646</High>
+    <Low>1.00026</Low>
+    <Close>1.01922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-24</Date>
+    <Open>1.0207</Open>
+    <High>1.04279</High>
+    <Low>1.01302</Low>
+    <Close>1.03078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-25</Date>
+    <Open>1.03368</Open>
+    <High>1.04029</High>
+    <Low>0.99116</Low>
+    <Close>1.00923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-26</Date>
+    <Open>1.00941</Open>
+    <High>1.03063</High>
+    <Low>0.95741</Low>
+    <Close>0.9662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-27</Date>
+    <Open>0.9662</Open>
+    <High>1.00921</High>
+    <Low>0.93262</Low>
+    <Close>0.94323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-28</Date>
+    <Open>0.95153</Open>
+    <High>0.97273</High>
+    <Low>0.94292</Low>
+    <Close>0.948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-29</Date>
+    <Open>0.94819</Open>
+    <High>0.96763</High>
+    <Low>0.93093</Low>
+    <Close>0.96706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-30</Date>
+    <Open>0.9664</Open>
+    <High>0.99808</High>
+    <Low>0.938056</Low>
+    <Close>0.965987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-08-31</Date>
+    <Open>0.966487</Open>
+    <High>0.989349</High>
+    <Low>0.957338</Low>
+    <Close>0.9623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-01</Date>
+    <Open>0.9622</Open>
+    <High>0.96341</High>
+    <Low>0.937363</Low>
+    <Close>0.954443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-02</Date>
+    <Open>0.954343</Open>
+    <High>0.978876</High>
+    <Low>0.947309</Low>
+    <Close>0.966164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-03</Date>
+    <Open>0.966155</Open>
+    <High>0.972097</High>
+    <Low>0.9547</Low>
+    <Close>0.9625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-04</Date>
+    <Open>0.9625</Open>
+    <High>0.976498</High>
+    <Low>0.9607</Low>
+    <Close>0.9752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-05</Date>
+    <Open>0.9742</Open>
+    <High>0.984198</High>
+    <Low>0.955095</Low>
+    <Close>0.980898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-06</Date>
+    <Open>0.980898</Open>
+    <High>0.993099</High>
+    <Low>0.927407</Low>
+    <Close>0.9403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-07</Date>
+    <Open>0.942875</Open>
+    <High>0.9763</High>
+    <Low>0.930863</Low>
+    <Close>0.973868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-08</Date>
+    <Open>0.9736</Open>
+    <High>0.979069</High>
+    <Low>0.960286</Low>
+    <Close>0.973656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-09</Date>
+    <Open>0.972836</Open>
+    <High>1.05041</High>
+    <Low>0.971417</Low>
+    <Close>1.04806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-10</Date>
+    <Open>1.04809</Open>
+    <High>1.05795</High>
+    <Low>1.01168</Low>
+    <Close>1.0332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-11</Date>
+    <Open>1.03322</Open>
+    <High>1.0419</High>
+    <Low>1.01265</Low>
+    <Close>1.01265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-12</Date>
+    <Open>1.01285</Open>
+    <High>1.02781</High>
+    <Low>0.984487</Low>
+    <Close>0.9998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-13</Date>
+    <Open>1.00086</Open>
+    <High>1.11841</High>
+    <Low>0.996199</Low>
+    <Close>1.03802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-14</Date>
+    <Open>1.03762</Open>
+    <High>1.04892</High>
+    <Low>0.99054</Low>
+    <Close>1.01466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-15</Date>
+    <Open>1.01396</Open>
+    <High>1.02785</High>
+    <Low>0.970886</Low>
+    <Close>0.985401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-16</Date>
+    <Open>0.985431</Open>
+    <High>0.996</High>
+    <Low>0.948905</Low>
+    <Close>0.959904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-17</Date>
+    <Open>0.9608</Open>
+    <High>1.0028</High>
+    <Low>0.958604</Low>
+    <Close>0.991599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-18</Date>
+    <Open>0.9915</Open>
+    <High>1.0004</High>
+    <Low>0.932007</Low>
+    <Close>0.9361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-19</Date>
+    <Open>0.934707</Open>
+    <High>0.94969</High>
+    <Low>0.890489</Low>
+    <Close>0.941388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-20</Date>
+    <Open>0.940088</Open>
+    <High>0.94959</High>
+    <Low>0.90248</Low>
+    <Close>0.907791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-21</Date>
+    <Open>0.9092</Open>
+    <High>0.942094</High>
+    <Low>0.8795</Low>
+    <Close>0.8874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-22</Date>
+    <Open>0.8874</Open>
+    <High>0.9275</High>
+    <Low>0.876488</Low>
+    <Close>0.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-23</Date>
+    <Open>0.918992</Open>
+    <High>0.9399</High>
+    <Low>0.89641</Low>
+    <Close>0.9128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-24</Date>
+    <Open>0.911336</Open>
+    <High>0.931698</High>
+    <Low>0.909945</Low>
+    <Close>0.913173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-25</Date>
+    <Open>0.9145</Open>
+    <High>0.931409</High>
+    <Low>0.8848</Low>
+    <Close>0.8887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-26</Date>
+    <Open>0.8924</Open>
+    <High>0.9167</High>
+    <Low>0.881082</Low>
+    <Close>0.90041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-27</Date>
+    <Open>0.9033</Open>
+    <High>0.9348</High>
+    <Low>0.891111</Low>
+    <Close>0.90411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-28</Date>
+    <Open>0.90411</Open>
+    <High>0.925</High>
+    <Low>0.888222</Low>
+    <Close>0.9164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-29</Date>
+    <Open>0.9142</Open>
+    <High>0.9165</High>
+    <Low>0.89</Low>
+    <Close>0.89899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-09-30</Date>
+    <Open>0.9</Open>
+    <High>0.909</High>
+    <Low>0.886</Low>
+    <Close>0.8936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-01</Date>
+    <Open>0.8977</Open>
+    <High>0.8985</High>
+    <Low>0.8801</Low>
+    <Close>0.8933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-02</Date>
+    <Open>0.894889</Open>
+    <High>0.946095</High>
+    <Low>0.8783</Low>
+    <Close>0.8941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-03</Date>
+    <Open>0.8911</Open>
+    <High>0.908191</High>
+    <Low>0.8819</Low>
+    <Close>0.90259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-04</Date>
+    <Open>0.904181</Open>
+    <High>0.920076</High>
+    <Low>0.897869</Low>
+    <Close>0.918676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-05</Date>
+    <Open>0.919384</Open>
+    <High>1.012</High>
+    <Low>0.9043</Low>
+    <Close>0.945094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-06</Date>
+    <Open>0.942588</Open>
+    <High>1.01918</High>
+    <Low>0.942079</Low>
+    <Close>0.970875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-07</Date>
+    <Open>0.970675</Open>
+    <High>0.983087</High>
+    <Low>0.914709</Low>
+    <Close>0.944842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-08</Date>
+    <Open>0.945094</Open>
+    <High>0.946132</High>
+    <Low>0.933615</Low>
+    <Close>0.934343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-09</Date>
+    <Open>0.933543</Open>
+    <High>0.956496</High>
+    <Low>0.929893</Low>
+    <Close>0.944989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-10</Date>
+    <Open>0.944794</Open>
+    <High>0.948395</High>
+    <Low>0.925693</Low>
+    <Close>0.9399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-11</Date>
+    <Open>0.940706</Open>
+    <High>0.969642</High>
+    <Low>0.923208</Low>
+    <Close>0.939906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-12</Date>
+    <Open>0.940706</Open>
+    <High>0.959952</High>
+    <Low>0.934425</Low>
+    <Close>0.953329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-13</Date>
+    <Open>0.955329</Open>
+    <High>0.980488</High>
+    <Low>0.905655</Low>
+    <Close>0.966877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-14</Date>
+    <Open>0.964787</Open>
+    <High>0.992679</High>
+    <Low>0.963806</Low>
+    <Close>0.975929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-15</Date>
+    <Open>0.976729</Open>
+    <High>0.989969</High>
+    <Low>0.961429</Low>
+    <Close>0.989349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-16</Date>
+    <Open>0.988349</Open>
+    <High>1.0465</High>
+    <Low>0.984749</Low>
+    <Close>1.02004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-17</Date>
+    <Open>1.02015</Open>
+    <High>1.12408</High>
+    <Low>1.02004</Low>
+    <Close>1.09422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-18</Date>
+    <Open>1.09303</Open>
+    <High>1.11523</High>
+    <Low>1.04721</Low>
+    <Close>1.06755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-19</Date>
+    <Open>1.06951</Open>
+    <High>1.11997</High>
+    <Low>1.06072</Low>
+    <Close>1.1112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-20</Date>
+    <Open>1.11239</Open>
+    <High>1.13803</High>
+    <Low>1.08242</Low>
+    <Close>1.11992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-21</Date>
+    <Open>1.12032</Open>
+    <High>1.13702</High>
+    <Low>1.08999</Low>
+    <Close>1.12229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-22</Date>
+    <Open>1.12328</Open>
+    <High>1.13859</High>
+    <Low>1.11777</Low>
+    <Close>1.1223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-23</Date>
+    <Open>1.12259</Open>
+    <High>1.12314</High>
+    <Low>1.09663</Low>
+    <Close>1.12015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-24</Date>
+    <Open>1.12172</Open>
+    <High>1.12548</High>
+    <Low>1.04058</Low>
+    <Close>1.05764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-25</Date>
+    <Open>1.05784</Open>
+    <High>1.13468</High>
+    <Low>1.04674</Low>
+    <Close>1.10865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-26</Date>
+    <Open>1.11737</Open>
+    <High>1.19851</High>
+    <Low>1.108</Low>
+    <Close>1.16781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-27</Date>
+    <Open>1.16553</Open>
+    <High>1.19155</High>
+    <Low>1.13136</Low>
+    <Close>1.13488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-28</Date>
+    <Open>1.13618</Open>
+    <High>1.16029</High>
+    <Low>1.10557</Low>
+    <Close>1.14374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-29</Date>
+    <Open>1.14022</Open>
+    <High>1.16478</High>
+    <Low>1.13466</Low>
+    <Close>1.14487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-30</Date>
+    <Open>1.14467</Open>
+    <High>1.19244</High>
+    <Low>1.1402</Low>
+    <Close>1.19244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-10-31</Date>
+    <Open>1.19244</Open>
+    <High>1.26574</High>
+    <Low>1.18025</Low>
+    <Close>1.22803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-01</Date>
+    <Open>1.22824</Open>
+    <High>1.24635</High>
+    <Low>1.19878</Low>
+    <Close>1.20308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-02</Date>
+    <Open>1.20277</Open>
+    <High>1.20826</High>
+    <Low>1.13189</Low>
+    <Close>1.15403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-03</Date>
+    <Open>1.16304</Open>
+    <High>1.19774</High>
+    <Low>1.15383</Low>
+    <Close>1.16079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-04</Date>
+    <Open>1.16179</Open>
+    <High>1.23401</High>
+    <Low>1.15325</Low>
+    <Close>1.23059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-05</Date>
+    <Open>1.2305</Open>
+    <High>1.2305</High>
+    <Low>1.20451</Low>
+    <Close>1.20726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-06</Date>
+    <Open>1.20715</Open>
+    <High>1.21928</High>
+    <Low>1.18014</Low>
+    <Close>1.18358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-07</Date>
+    <Open>1.18648</Open>
+    <High>1.19442</High>
+    <Low>1.15206</Low>
+    <Close>1.17214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-08</Date>
+    <Open>1.17235</Open>
+    <High>1.24547</High>
+    <Low>1.08151</Low>
+    <Close>1.14643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-09</Date>
+    <Open>1.14683</Open>
+    <High>1.21422</High>
+    <Low>1.00931</Low>
+    <Close>1.06197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-10</Date>
+    <Open>1.06214</Open>
+    <High>1.26665</High>
+    <Low>1.03283</Low>
+    <Close>1.195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-11</Date>
+    <Open>1.19433</Open>
+    <High>1.41226</High>
+    <Low>1.12059</Low>
+    <Close>1.1889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-12</Date>
+    <Open>1.18692</Open>
+    <High>1.43591</High>
+    <Low>1.1687</Low>
+    <Close>1.37682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-13</Date>
+    <Open>1.37602</Open>
+    <High>2.33686</High>
+    <Low>1.34917</Low>
+    <Close>2.09906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-14</Date>
+    <Open>2.10555</Open>
+    <High>2.73441</High>
+    <Low>1.81266</Low>
+    <Close>2.32101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-15</Date>
+    <Open>2.32001</Open>
+    <High>2.43989</High>
+    <Low>1.95295</Low>
+    <Close>1.9946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-16</Date>
+    <Open>1.99756</Open>
+    <High>2.44942</High>
+    <Low>1.82562</Low>
+    <Close>2.17592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-17</Date>
+    <Open>2.1715</Open>
+    <High>2.35307</High>
+    <Low>2.05691</Low>
+    <Close>2.14802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-18</Date>
+    <Open>2.14752</Open>
+    <High>2.3824</High>
+    <Low>2.10531</Low>
+    <Close>2.30804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-19</Date>
+    <Open>2.30575</Open>
+    <High>2.44699</High>
+    <Low>2.14378</Low>
+    <Close>2.2108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-20</Date>
+    <Open>2.2154</Open>
+    <High>2.22766</High>
+    <Low>1.898</Low>
+    <Close>1.93296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-21</Date>
+    <Open>1.93278</Open>
+    <High>2.09609</High>
+    <Low>1.84867</Low>
+    <Close>1.9956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-22</Date>
+    <Open>1.997</Open>
+    <High>2.30818</High>
+    <Low>1.91129</Low>
+    <Close>2.2143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-23</Date>
+    <Open>2.2142</Open>
+    <High>2.23671</High>
+    <Low>2.09833</Low>
+    <Close>2.12888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-24</Date>
+    <Open>2.13525</Open>
+    <High>2.25757</High>
+    <Low>2.12627</Low>
+    <Close>2.15739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-25</Date>
+    <Open>2.15986</Open>
+    <High>2.35326</High>
+    <Low>2.06521</Low>
+    <Close>2.07821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-26</Date>
+    <Open>2.07851</Open>
+    <High>2.13939</High>
+    <Low>2.01129</Low>
+    <Close>2.01693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-27</Date>
+    <Open>2.01371</Open>
+    <High>2.0559</High>
+    <Low>1.84801</Low>
+    <Close>2.0305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-28</Date>
+    <Open>2.03269</Open>
+    <High>2.15888</High>
+    <Low>1.89206</Low>
+    <Close>2.01293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-29</Date>
+    <Open>2.00972</Open>
+    <High>2.0679</High>
+    <Low>1.98599</Low>
+    <Close>2.05724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-11-30</Date>
+    <Open>2.05884</Open>
+    <High>2.13869</High>
+    <Low>2.00008</Low>
+    <Close>2.07932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-01</Date>
+    <Open>2.07828</Open>
+    <High>2.29414</High>
+    <Low>2.03435</Low>
+    <Close>2.26824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-02</Date>
+    <Open>2.26814</Open>
+    <High>2.53505</High>
+    <Low>2.1738</Low>
+    <Close>2.43795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-03</Date>
+    <Open>2.43785</Open>
+    <High>2.52593</High>
+    <Low>2.25907</Low>
+    <Close>2.38624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-04</Date>
+    <Open>2.38324</Open>
+    <High>2.51605</High>
+    <Low>2.35354</Low>
+    <Close>2.42564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-05</Date>
+    <Open>2.42894</Open>
+    <High>2.44948</High>
+    <Low>2.27121</Low>
+    <Close>2.30877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-06</Date>
+    <Open>2.30705</Open>
+    <High>2.37981</High>
+    <Low>2.27587</Low>
+    <Close>2.33738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-07</Date>
+    <Open>2.33795</Open>
+    <High>2.46593</High>
+    <Low>2.29546</Low>
+    <Close>2.4415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-08</Date>
+    <Open>2.443</Open>
+    <High>2.71477</High>
+    <Low>2.38895</Low>
+    <Close>2.64168</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-09</Date>
+    <Open>2.63836</Open>
+    <High>2.72373</High>
+    <Low>2.5473</Low>
+    <Close>2.58178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-10</Date>
+    <Open>2.58238</Open>
+    <High>2.62</High>
+    <Low>2.52657</Low>
+    <Close>2.55195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-11</Date>
+    <Open>2.55105</Open>
+    <High>2.69993</High>
+    <Low>2.52997</Low>
+    <Close>2.67604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-12</Date>
+    <Open>2.66813</Open>
+    <High>2.73907</High>
+    <Low>2.13406</Low>
+    <Close>2.34261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-13</Date>
+    <Open>2.34421</Open>
+    <High>2.36611</High>
+    <Low>2.06001</Low>
+    <Close>2.23606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-14</Date>
+    <Open>2.23816</Open>
+    <High>2.32656</High>
+    <Low>2.15</Low>
+    <Close>2.23916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-15</Date>
+    <Open>2.23866</Open>
+    <High>2.23866</High>
+    <Low>2.09262</Low>
+    <Close>2.14251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-16</Date>
+    <Open>2.14523</Open>
+    <High>2.16423</High>
+    <Low>1.73027</Low>
+    <Close>1.73167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-17</Date>
+    <Open>1.73387</Open>
+    <High>1.75015</High>
+    <Low>1.24997</Low>
+    <Close>1.63941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-18</Date>
+    <Open>1.63806</Open>
+    <High>1.75131</High>
+    <Low>1.60836</Low>
+    <Close>1.71532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-19</Date>
+    <Open>1.7161</Open>
+    <High>1.72582</High>
+    <Low>1.45551</Low>
+    <Close>1.4742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-20</Date>
+    <Open>1.47539</Open>
+    <High>1.63395</High>
+    <Low>1.41593</Low>
+    <Close>1.60246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-21</Date>
+    <Open>1.61056</Open>
+    <High>1.62945</High>
+    <Low>1.49039</Low>
+    <Close>1.51648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-22</Date>
+    <Open>1.51758</Open>
+    <High>1.53673</High>
+    <Low>1.45035</Low>
+    <Close>1.49655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-23</Date>
+    <Open>1.49708</Open>
+    <High>1.53086</High>
+    <Low>1.47087</Low>
+    <Close>1.48684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-24</Date>
+    <Open>1.48725</Open>
+    <High>1.50232</High>
+    <Low>1.42576</Low>
+    <Close>1.4358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-25</Date>
+    <Open>1.43511</Open>
+    <High>1.44451</High>
+    <Low>1.26996</Low>
+    <Close>1.36022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-26</Date>
+    <Open>1.36146</Open>
+    <High>1.43237</High>
+    <Low>1.32799</Low>
+    <Close>1.33603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-27</Date>
+    <Open>1.34173</Open>
+    <High>1.39174</High>
+    <Low>1.3058</Low>
+    <Close>1.33766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-28</Date>
+    <Open>1.33278</Open>
+    <High>1.35592</High>
+    <Low>1.24515</Low>
+    <Close>1.24994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-29</Date>
+    <Open>1.25034</Open>
+    <High>1.37913</High>
+    <Low>1.23887</Low>
+    <Close>1.33069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-30</Date>
+    <Open>1.3304</Open>
+    <High>1.36196</High>
+    <Low>1.28537</Low>
+    <Close>1.35762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2022-12-31</Date>
+    <Open>1.35741</Open>
+    <High>1.44726</High>
+    <Low>1.34831</Low>
+    <Close>1.41289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-01</Date>
+    <Open>1.41448</Open>
+    <High>1.45906</High>
+    <Low>1.38681</Low>
+    <Close>1.41433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-02</Date>
+    <Open>1.41334</Open>
+    <High>1.50227</High>
+    <Low>1.41144</Low>
+    <Close>1.48333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-03</Date>
+    <Open>1.4831</Open>
+    <High>1.50293</High>
+    <Low>1.41843</Low>
+    <Close>1.43294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-04</Date>
+    <Open>1.43324</Open>
+    <High>1.48932</High>
+    <Low>1.4279</Low>
+    <Close>1.44542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-05</Date>
+    <Open>1.44562</Open>
+    <High>1.45152</High>
+    <Low>1.40135</Low>
+    <Close>1.40621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-06</Date>
+    <Open>1.40741</Open>
+    <High>1.4502</High>
+    <Low>1.35588</Low>
+    <Close>1.40856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-07</Date>
+    <Open>1.41026</Open>
+    <High>1.4274</High>
+    <Low>1.40257</Low>
+    <Close>1.40796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-08</Date>
+    <Open>1.40785</Open>
+    <High>1.41416</High>
+    <Low>1.38708</Low>
+    <Close>1.40389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-09</Date>
+    <Open>1.40483</Open>
+    <High>1.54762</High>
+    <Low>1.40296</Low>
+    <Close>1.52908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-10</Date>
+    <Open>1.523</Open>
+    <High>1.52438</High>
+    <Low>1.44541</Low>
+    <Close>1.48611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-11</Date>
+    <Open>1.48747</Open>
+    <High>1.49629</High>
+    <Low>1.41747</Low>
+    <Close>1.45567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-12</Date>
+    <Open>1.45534</Open>
+    <High>1.50265</High>
+    <Low>1.43633</Low>
+    <Close>1.47793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-13</Date>
+    <Open>1.47735</Open>
+    <High>1.55569</High>
+    <Low>1.46949</Low>
+    <Close>1.54464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-14</Date>
+    <Open>1.54282</Open>
+    <High>1.71084</High>
+    <Low>1.51767</Low>
+    <Close>1.56438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-15</Date>
+    <Open>1.56458</Open>
+    <High>1.58699</High>
+    <Low>1.51155</Low>
+    <Close>1.57006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-16</Date>
+    <Open>1.56977</Open>
+    <High>1.61061</High>
+    <Low>1.50519</Low>
+    <Close>1.54053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-17</Date>
+    <Open>1.53983</Open>
+    <High>1.56782</High>
+    <Low>1.52008</Low>
+    <Close>1.54247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-18</Date>
+    <Open>1.54137</Open>
+    <High>1.54862</High>
+    <Low>1.34699</Low>
+    <Close>1.42793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-19</Date>
+    <Open>1.42671</Open>
+    <High>1.48811</High>
+    <Low>1.37878</Low>
+    <Close>1.44014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-20</Date>
+    <Open>1.4421</Open>
+    <High>1.52756</High>
+    <Low>1.42527</Low>
+    <Close>1.51416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-21</Date>
+    <Open>1.51546</Open>
+    <High>1.58502</High>
+    <Low>1.49589</Low>
+    <Close>1.54505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-22</Date>
+    <Open>1.54023</Open>
+    <High>1.54529</High>
+    <Low>1.48037</Low>
+    <Close>1.5023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-23</Date>
+    <Open>1.4998</Open>
+    <High>1.5657</High>
+    <Low>1.49928</Low>
+    <Close>1.52284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-24</Date>
+    <Open>1.52761</Open>
+    <High>1.58024</High>
+    <Low>1.45083</Low>
+    <Close>1.46964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-25</Date>
+    <Open>1.46904</Open>
+    <High>1.53223</High>
+    <Low>1.44447</Low>
+    <Close>1.49514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-26</Date>
+    <Open>1.49605</Open>
+    <High>1.54346</High>
+    <Low>1.48721</Low>
+    <Close>1.51532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-27</Date>
+    <Open>1.51522</Open>
+    <High>1.83588</High>
+    <Low>1.48025</Low>
+    <Close>1.71894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-28</Date>
+    <Open>1.7182</Open>
+    <High>1.80645</High>
+    <Low>1.67527</Low>
+    <Close>1.76225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-29</Date>
+    <Open>1.76015</Open>
+    <High>1.87914</High>
+    <Low>1.71988</Low>
+    <Close>1.76819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-30</Date>
+    <Open>1.76897</Open>
+    <High>1.77775</High>
+    <Low>1.58306</Low>
+    <Close>1.63251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-01-31</Date>
+    <Open>1.6314</Open>
+    <High>1.731</High>
+    <Low>1.61389</Low>
+    <Close>1.66245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-01</Date>
+    <Open>1.66305</Open>
+    <High>1.77002</High>
+    <Low>1.5943</Low>
+    <Close>1.6839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-02</Date>
+    <Open>1.6841</Open>
+    <High>1.73545</High>
+    <Low>1.64891</Low>
+    <Close>1.65613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-03</Date>
+    <Open>1.65595</Open>
+    <High>1.68128</High>
+    <Low>1.62218</Low>
+    <Close>1.67003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-04</Date>
+    <Open>1.67003</Open>
+    <High>1.72873</High>
+    <Low>1.65502</Low>
+    <Close>1.71205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-05</Date>
+    <Open>1.71164</Open>
+    <High>1.71274</High>
+    <Low>1.58364</Low>
+    <Close>1.62322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-06</Date>
+    <Open>1.62142</Open>
+    <High>1.62631</High>
+    <Low>1.53488</Low>
+    <Close>1.57986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-07</Date>
+    <Open>1.58026</Open>
+    <High>1.61666</High>
+    <Low>1.55992</Low>
+    <Close>1.60921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-08</Date>
+    <Open>1.61018</Open>
+    <High>1.61766</High>
+    <Low>1.52613</Low>
+    <Close>1.54361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-09</Date>
+    <Open>1.54301</Open>
+    <High>1.55252</High>
+    <Low>1.36253</Low>
+    <Close>1.36262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-10</Date>
+    <Open>1.36424</Open>
+    <High>1.45442</High>
+    <Low>1.36174</Low>
+    <Close>1.40781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-11</Date>
+    <Open>1.40502</Open>
+    <High>1.44174</High>
+    <Low>1.40068</Low>
+    <Close>1.43173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-12</Date>
+    <Open>1.43153</Open>
+    <High>1.51778</High>
+    <Low>1.41853</Low>
+    <Close>1.46495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-13</Date>
+    <Open>1.46375</Open>
+    <High>1.47265</High>
+    <Low>1.33618</Low>
+    <Close>1.35493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-14</Date>
+    <Open>1.35494</Open>
+    <High>1.5174</High>
+    <Low>1.35393</Low>
+    <Close>1.42578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-15</Date>
+    <Open>1.42608</Open>
+    <High>1.50978</High>
+    <Low>1.40062</Low>
+    <Close>1.49537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-16</Date>
+    <Open>1.49477</Open>
+    <High>1.52617</High>
+    <Low>1.41097</Low>
+    <Close>1.41518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-17</Date>
+    <Open>1.41248</Open>
+    <High>1.49563</High>
+    <Low>1.40245</Low>
+    <Close>1.47265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-18</Date>
+    <Open>1.47175</Open>
+    <High>1.49137</High>
+    <Low>1.45048</Low>
+    <Close>1.46863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-19</Date>
+    <Open>1.46863</Open>
+    <High>1.49394</High>
+    <Low>1.4342</Low>
+    <Close>1.45643</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-20</Date>
+    <Open>1.45592</Open>
+    <High>1.49016</High>
+    <Low>1.43109</Low>
+    <Close>1.47316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-21</Date>
+    <Open>1.47346</Open>
+    <High>1.57646</High>
+    <Low>1.44787</Low>
+    <Close>1.48315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-22</Date>
+    <Open>1.48057</Open>
+    <High>1.49858</High>
+    <Low>1.39195</Low>
+    <Close>1.43197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-23</Date>
+    <Open>1.43307</Open>
+    <High>1.45539</High>
+    <Low>1.40455</Low>
+    <Close>1.41508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-24</Date>
+    <Open>1.41741</Open>
+    <High>1.43056</High>
+    <Low>1.36454</Low>
+    <Close>1.38439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-25</Date>
+    <Open>1.38469</Open>
+    <High>1.39388</High>
+    <Low>1.3124</Low>
+    <Close>1.35469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-26</Date>
+    <Open>1.34939</Open>
+    <High>1.43224</High>
+    <Low>1.34939</Low>
+    <Close>1.39338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-27</Date>
+    <Open>1.39227</Open>
+    <High>1.40293</High>
+    <Low>1.35124</Low>
+    <Close>1.35988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-02-28</Date>
+    <Open>1.36017</Open>
+    <High>1.36207</High>
+    <Low>1.292</Low>
+    <Close>1.31922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-01</Date>
+    <Open>1.32006</Open>
+    <High>1.35108</High>
+    <Low>1.30671</Low>
+    <Close>1.33617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-02</Date>
+    <Open>1.3325</Open>
+    <High>1.34296</High>
+    <Low>1.27697</Low>
+    <Close>1.29612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-03</Date>
+    <Open>1.2965</Open>
+    <High>1.34859</High>
+    <Low>1.23066</Low>
+    <Close>1.32199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-04</Date>
+    <Open>1.32249</Open>
+    <High>1.45007</High>
+    <Low>1.28612</Low>
+    <Close>1.36041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-05</Date>
+    <Open>1.36041</Open>
+    <High>1.39437</High>
+    <Low>1.32242</Low>
+    <Close>1.33645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-06</Date>
+    <Open>1.33715</Open>
+    <High>1.34016</High>
+    <Low>1.26023</Low>
+    <Close>1.28612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-07</Date>
+    <Open>1.28526</Open>
+    <High>1.32227</High>
+    <Low>1.21185</Low>
+    <Close>1.24704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-08</Date>
+    <Open>1.24555</Open>
+    <High>1.2579</High>
+    <Low>1.16825</Low>
+    <Close>1.17155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-09</Date>
+    <Open>1.17288</Open>
+    <High>1.19682</High>
+    <Low>1.08316</Low>
+    <Close>1.1331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-10</Date>
+    <Open>1.131</Open>
+    <High>1.13623</High>
+    <Low>1.00762</Low>
+    <Close>1.11314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-11</Date>
+    <Open>1.11317</Open>
+    <High>1.29805</High>
+    <Low>1.09465</Low>
+    <Close>1.22185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-12</Date>
+    <Open>1.22135</Open>
+    <High>1.272</High>
+    <Low>1.18516</Low>
+    <Close>1.24484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-13</Date>
+    <Open>1.24626</Open>
+    <High>1.31321</High>
+    <Low>1.20127</Low>
+    <Close>1.28631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-14</Date>
+    <Open>1.28639</Open>
+    <High>1.31565</High>
+    <Low>1.22081</Low>
+    <Close>1.27773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-15</Date>
+    <Open>1.27773</Open>
+    <High>1.29341</High>
+    <Low>1.1775</Low>
+    <Close>1.19972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-16</Date>
+    <Open>1.19828</Open>
+    <High>1.22855</High>
+    <Low>1.1791</Low>
+    <Close>1.20359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-17</Date>
+    <Open>1.20357</Open>
+    <High>1.25632</High>
+    <Low>1.19599</Low>
+    <Close>1.2368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-18</Date>
+    <Open>1.2362</Open>
+    <High>1.32606</High>
+    <Low>1.23508</Low>
+    <Close>1.24642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-19</Date>
+    <Open>1.24553</Open>
+    <High>1.28112</High>
+    <Low>1.21638</Low>
+    <Close>1.26653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-20</Date>
+    <Open>1.26512</Open>
+    <High>1.27683</High>
+    <Low>1.2007</Low>
+    <Close>1.21532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-21</Date>
+    <Open>1.21563</Open>
+    <High>1.2443</High>
+    <Low>1.17548</Low>
+    <Close>1.23534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-22</Date>
+    <Open>1.23404</Open>
+    <High>1.24806</High>
+    <Low>1.14715</Low>
+    <Close>1.18542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-23</Date>
+    <Open>1.18482</Open>
+    <High>1.20932</High>
+    <Low>1.16308</Low>
+    <Close>1.1979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-24</Date>
+    <Open>1.19951</Open>
+    <High>1.20656</High>
+    <Low>1.16176</Low>
+    <Close>1.18029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-25</Date>
+    <Open>1.18233</Open>
+    <High>1.2175</High>
+    <Low>1.16474</Low>
+    <Close>1.17833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-26</Date>
+    <Open>1.17914</Open>
+    <High>1.19848</High>
+    <Low>1.17012</Low>
+    <Close>1.18033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-27</Date>
+    <Open>1.1813</Open>
+    <High>1.19431</High>
+    <Low>1.08961</Low>
+    <Close>1.11052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-28</Date>
+    <Open>1.10932</Open>
+    <High>1.15335</High>
+    <Low>1.07469</Low>
+    <Close>1.13413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-29</Date>
+    <Open>1.13374</Open>
+    <High>1.19164</High>
+    <Low>1.12887</Low>
+    <Close>1.15572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-30</Date>
+    <Open>1.15492</Open>
+    <High>1.25548</High>
+    <Low>1.15033</Low>
+    <Close>1.16792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-03-31</Date>
+    <Open>1.16832</Open>
+    <High>1.20739</High>
+    <Low>1.15033</Low>
+    <Close>1.18534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-01</Date>
+    <Open>1.18535</Open>
+    <High>1.20085</High>
+    <Low>1.16402</Low>
+    <Close>1.17912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-02</Date>
+    <Open>1.17912</Open>
+    <High>1.19508</High>
+    <Low>1.15078</Low>
+    <Close>1.16142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-03</Date>
+    <Open>1.16142</Open>
+    <High>1.1636</High>
+    <Low>1.12357</Low>
+    <Close>1.13645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-04</Date>
+    <Open>1.13684</Open>
+    <High>1.19215</High>
+    <Low>1.13462</Low>
+    <Close>1.18339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-05</Date>
+    <Open>1.18319</Open>
+    <High>1.3121</High>
+    <Low>1.17715</Low>
+    <Close>1.29056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-06</Date>
+    <Open>1.29096</Open>
+    <High>1.37565</High>
+    <Low>1.21449</Low>
+    <Close>1.23913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-07</Date>
+    <Open>1.23753</Open>
+    <High>1.24602</High>
+    <Low>1.2009</Low>
+    <Close>1.20199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-08</Date>
+    <Open>1.2024</Open>
+    <High>1.23946</High>
+    <Low>1.20136</Low>
+    <Close>1.21938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-09</Date>
+    <Open>1.21928</Open>
+    <High>1.28364</High>
+    <Low>1.21725</Low>
+    <Close>1.24784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-10</Date>
+    <Open>1.24976</Open>
+    <High>1.25917</High>
+    <Low>1.21721</Low>
+    <Close>1.22829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-11</Date>
+    <Open>1.22891</Open>
+    <High>1.25482</High>
+    <Low>1.22743</Low>
+    <Close>1.2285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-12</Date>
+    <Open>1.22781</Open>
+    <High>1.23371</High>
+    <Low>1.18927</Low>
+    <Close>1.21244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-13</Date>
+    <Open>1.20984</Open>
+    <High>1.23949</High>
+    <Low>1.20492</Low>
+    <Close>1.23709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-14</Date>
+    <Open>1.23719</Open>
+    <High>1.27422</High>
+    <Low>1.22135</Low>
+    <Close>1.26155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-15</Date>
+    <Open>1.26153</Open>
+    <High>1.27401</High>
+    <Low>1.23407</Low>
+    <Close>1.2393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-16</Date>
+    <Open>1.239</Open>
+    <High>1.26975</High>
+    <Low>1.22665</Low>
+    <Close>1.26816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-17</Date>
+    <Open>1.26936</Open>
+    <High>1.35105</High>
+    <Low>1.23773</Low>
+    <Close>1.30847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-18</Date>
+    <Open>1.30757</Open>
+    <High>1.35249</High>
+    <Low>1.28615</Low>
+    <Close>1.33573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-19</Date>
+    <Open>1.3361</Open>
+    <High>1.34929</High>
+    <Low>1.25983</Low>
+    <Close>1.28281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-20</Date>
+    <Open>1.28279</Open>
+    <High>1.32069</High>
+    <Low>1.23086</Low>
+    <Close>1.236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-21</Date>
+    <Open>1.23769</Open>
+    <High>1.27697</High>
+    <Low>1.18987</Low>
+    <Close>1.18987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-22</Date>
+    <Open>1.18987</Open>
+    <High>1.24001</High>
+    <Low>1.1874</Low>
+    <Close>1.22432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-23</Date>
+    <Open>1.22401</Open>
+    <High>1.237</High>
+    <Low>1.17368</Low>
+    <Close>1.18816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-24</Date>
+    <Open>1.18696</Open>
+    <High>1.19989</High>
+    <Low>1.16172</Low>
+    <Close>1.17782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-25</Date>
+    <Open>1.17644</Open>
+    <High>1.18177</High>
+    <Low>1.12777</Low>
+    <Close>1.18147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-26</Date>
+    <Open>1.18147</Open>
+    <High>1.21695</High>
+    <Low>1.11003</Low>
+    <Close>1.16447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-27</Date>
+    <Open>1.16637</Open>
+    <High>1.18786</High>
+    <Low>1.15486</Low>
+    <Close>1.17921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-28</Date>
+    <Open>1.17758</Open>
+    <High>1.18054</High>
+    <Low>1.16232</Low>
+    <Close>1.1721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-29</Date>
+    <Open>1.17158</Open>
+    <High>1.1842</High>
+    <Low>1.1551</Low>
+    <Close>1.17349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-04-30</Date>
+    <Open>1.17149</Open>
+    <High>1.2283</High>
+    <Low>1.16507</Low>
+    <Close>1.18267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-01</Date>
+    <Open>1.18276</Open>
+    <High>1.19235</High>
+    <Low>1.135</Low>
+    <Close>1.14181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-02</Date>
+    <Open>1.1418</Open>
+    <High>1.15495</High>
+    <Low>1.13017</Low>
+    <Close>1.1503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-03</Date>
+    <Open>1.15071</Open>
+    <High>1.17512</High>
+    <Low>1.12127</Low>
+    <Close>1.1677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-04</Date>
+    <Open>1.16822</Open>
+    <High>1.21528</High>
+    <Low>1.15137</Low>
+    <Close>1.16703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-05</Date>
+    <Open>1.16802</Open>
+    <High>1.18716</High>
+    <Low>1.15739</Low>
+    <Close>1.16886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-06</Date>
+    <Open>1.16958</Open>
+    <High>1.17867</High>
+    <Low>1.13549</Low>
+    <Close>1.1431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-07</Date>
+    <Open>1.14188</Open>
+    <High>1.16707</High>
+    <Low>1.13317</Low>
+    <Close>1.14265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-08</Date>
+    <Open>1.14444</Open>
+    <High>1.14456</High>
+    <Low>1.05543</Low>
+    <Close>1.09503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-09</Date>
+    <Open>1.09563</Open>
+    <High>1.11192</High>
+    <Low>1.08398</Low>
+    <Close>1.08969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-10</Date>
+    <Open>1.08969</Open>
+    <High>1.13635</High>
+    <Low>1.08409</Low>
+    <Close>1.10329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-11</Date>
+    <Open>1.1029</Open>
+    <High>1.10731</High>
+    <Low>1.05805</Low>
+    <Close>1.07537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-12</Date>
+    <Open>1.07587</Open>
+    <High>1.12469</High>
+    <Low>1.05314</Low>
+    <Close>1.1213</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-13</Date>
+    <Open>1.1232</Open>
+    <High>1.12766</High>
+    <Low>1.10475</Low>
+    <Close>1.11286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-14</Date>
+    <Open>1.11286</Open>
+    <High>1.12427</High>
+    <Low>1.10465</Low>
+    <Close>1.11807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-15</Date>
+    <Open>1.11486</Open>
+    <High>1.13871</High>
+    <Low>1.10745</Low>
+    <Close>1.11818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-16</Date>
+    <Open>1.11788</Open>
+    <High>1.12098</High>
+    <Low>1.08543</Low>
+    <Close>1.09585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-17</Date>
+    <Open>1.09675</Open>
+    <High>1.11745</High>
+    <Low>1.07873</Low>
+    <Close>1.10994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-18</Date>
+    <Open>1.11166</Open>
+    <High>1.13785</High>
+    <Low>1.09244</Low>
+    <Close>1.11695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-19</Date>
+    <Open>1.11695</Open>
+    <High>1.11955</High>
+    <Low>1.08227</Low>
+    <Close>1.08441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-20</Date>
+    <Open>1.08464</Open>
+    <High>1.09859</High>
+    <Low>1.08123</Low>
+    <Close>1.09088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-21</Date>
+    <Open>1.09028</Open>
+    <High>1.09579</High>
+    <Low>1.05733</Low>
+    <Close>1.06284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-22</Date>
+    <Open>1.06384</Open>
+    <High>1.07754</High>
+    <Low>1.05613</Low>
+    <Close>1.07274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-23</Date>
+    <Open>1.07175</Open>
+    <High>1.1192</High>
+    <Low>1.06318</Low>
+    <Close>1.10417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-24</Date>
+    <Open>1.10417</Open>
+    <High>1.11009</High>
+    <Low>1.05745</Low>
+    <Close>1.07264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-25</Date>
+    <Open>1.07255</Open>
+    <High>1.07552</High>
+    <Low>1.05799</Low>
+    <Close>1.06722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-26</Date>
+    <Open>1.06763</Open>
+    <High>1.08413</High>
+    <Low>1.0625</Low>
+    <Close>1.07942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-27</Date>
+    <Open>1.07962</Open>
+    <High>1.1174</High>
+    <Low>1.07531</Low>
+    <Close>1.09971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="TWT">
+    <Date>2023-05-28</Date>
+    <Open>1.09953</Open>
+    <High>1.12301</High>
+    <Low>1.09851</Low>
+    <Close>1.11256</Close>
+  </Cryptocurrency>
+</Root>

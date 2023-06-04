@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-14</Date>
+    <Open>0.0789655</Open>
+    <High>0.0796643</High>
+    <Low>0.074351</Low>
+    <Close>0.0781826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-15</Date>
+    <Open>0.0782902</Open>
+    <High>0.0845814</High>
+    <Low>0.0780827</Low>
+    <Close>0.0836994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-16</Date>
+    <Open>0.0837909</Open>
+    <High>0.0879943</High>
+    <Low>0.0802955</Low>
+    <Close>0.0834913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-17</Date>
+    <Open>0.0835912</Open>
+    <High>0.0877945</High>
+    <Low>0.0821766</Low>
+    <Close>0.0850978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-18</Date>
+    <Open>0.0853974</Open>
+    <High>0.0882939</High>
+    <Low>0.0816855</Low>
+    <Close>0.0835912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-19</Date>
+    <Open>0.0834913</Open>
+    <High>0.087721</High>
+    <Low>0.0805951</Low>
+    <Close>0.0868218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-20</Date>
+    <Open>0.0867219</Open>
+    <High>0.0878209</High>
+    <Low>0.0820931</Low>
+    <Close>0.0827006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-21</Date>
+    <Open>0.0828005</Open>
+    <High>0.0918804</High>
+    <Low>0.0827006</Low>
+    <Close>0.0914809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-22</Date>
+    <Open>0.0915716</Open>
+    <High>0.0963842</High>
+    <Low>0.0900827</Low>
+    <Close>0.0944865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-23</Date>
+    <Open>0.0946862</Open>
+    <High>0.0957945</High>
+    <Low>0.0905912</Low>
+    <Close>0.090691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-24</Date>
+    <Open>0.0901916</Open>
+    <High>0.0914992</High>
+    <Low>0.0877945</Low>
+    <Close>0.0912812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-25</Date>
+    <Open>0.0913811</Open>
+    <High>0.0932879</High>
+    <Low>0.0878944</Low>
+    <Close>0.0889931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-26</Date>
+    <Open>0.0887023</Open>
+    <High>0.093906</High>
+    <Low>0.082401</Low>
+    <Close>0.090909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-27</Date>
+    <Open>0.0911088</Open>
+    <High>0.100799</High>
+    <Low>0.0859054</Low>
+    <Close>0.0925074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-28</Date>
+    <Open>0.0925943</Open>
+    <High>0.0941821</High>
+    <Low>0.0878016</Low>
+    <Close>0.0879969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-29</Date>
+    <Open>0.0879952</Open>
+    <High>0.088202</High>
+    <Low>0.0846094</Low>
+    <Close>0.0850064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-30</Date>
+    <Open>0.0850047</Open>
+    <High>0.0887103</High>
+    <Low>0.0834249</Low>
+    <Close>0.0869304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-05-31</Date>
+    <Open>0.0868392</Open>
+    <High>0.0884292</High>
+    <Low>0.0839244</Low>
+    <Close>0.0855315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-01</Date>
+    <Open>0.0855358</Open>
+    <High>0.08743</High>
+    <Low>0.0786213</Low>
+    <Close>0.0794284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-02</Date>
+    <Open>0.0793317</Open>
+    <High>0.0824258</High>
+    <Low>0.0773303</Low>
+    <Close>0.0817264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-03</Date>
+    <Open>0.0816265</Open>
+    <High>0.0822358</High>
+    <Low>0.0776239</Low>
+    <Close>0.0791311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-04</Date>
+    <Open>0.0791311</Open>
+    <High>0.0812358</High>
+    <Low>0.0781179</Low>
+    <Close>0.0810384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-05</Date>
+    <Open>0.0812398</Open>
+    <High>0.0822317</High>
+    <Low>0.0790296</Low>
+    <Close>0.080724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-06</Date>
+    <Open>0.0809239</Open>
+    <High>0.0834324</High>
+    <Low>0.0798241</Low>
+    <Close>0.0815306</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-07</Date>
+    <Open>0.0816314</Open>
+    <High>0.0820368</High>
+    <Low>0.0762367</Low>
+    <Close>0.0805347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-08</Date>
+    <Open>0.0807329</Open>
+    <High>0.0809449</High>
+    <Low>0.0773505</Low>
+    <Close>0.0787488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-09</Date>
+    <Open>0.0790486</Open>
+    <High>0.0791319</High>
+    <Low>0.0770345</Low>
+    <Close>0.0774349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-10</Date>
+    <Open>0.0774341</Open>
+    <High>0.0777354</High>
+    <Low>0.0730108</Low>
+    <Close>0.0734067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-11</Date>
+    <Open>0.0735065</Open>
+    <High>0.0737173</High>
+    <Low>0.0672165</Low>
+    <Close>0.0693209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-12</Date>
+    <Open>0.0693209</Open>
+    <High>0.0696205</High>
+    <Low>0.0626122</Low>
+    <Close>0.0645205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-13</Date>
+    <Open>0.0644207</Open>
+    <High>0.0644207</High>
+    <Low>0.0550174</Low>
+    <Close>0.0570218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-14</Date>
+    <Open>0.0571211</Open>
+    <High>0.0579304</High>
+    <Low>0.0523219</Low>
+    <Close>0.0550339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-15</Date>
+    <Open>0.0549345</Open>
+    <High>0.0569345</High>
+    <Low>0.0504344</Low>
+    <Close>0.0555166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-16</Date>
+    <Open>0.0553169</Open>
+    <High>0.0561382</High>
+    <Low>0.0505443</Low>
+    <Close>0.0510085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-17</Date>
+    <Open>0.0505496</Open>
+    <High>0.054624</High>
+    <Low>0.0501102</Low>
+    <Close>0.0530568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-18</Date>
+    <Open>0.0530063</Open>
+    <High>0.0535408</High>
+    <Low>0.0453328</Low>
+    <Close>0.0477226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-19</Date>
+    <Open>0.0476222</Open>
+    <High>0.0515381</High>
+    <Low>0.0467326</Low>
+    <Close>0.050739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-20</Date>
+    <Open>0.0509388</Open>
+    <High>0.0519428</High>
+    <Low>0.049136</Low>
+    <Close>0.050844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-21</Date>
+    <Open>0.0506392</Open>
+    <High>0.0557442</High>
+    <Low>0.0503395</Low>
+    <Close>0.0532414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-22</Date>
+    <Open>0.0531468</Open>
+    <High>0.0536409</High>
+    <Low>0.0496503</Low>
+    <Close>0.0501498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-23</Date>
+    <Open>0.0503496</Open>
+    <High>0.0525474</High>
+    <Low>0.0500449</Low>
+    <Close>0.0522477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-24</Date>
+    <Open>0.0524775</Open>
+    <High>0.0552569</High>
+    <Low>0.0522477</Low>
+    <Close>0.0549571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-25</Date>
+    <Open>0.0551448</Open>
+    <High>0.0627586</High>
+    <Low>0.0543456</Low>
+    <Close>0.058559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-26</Date>
+    <Open>0.0583585</Open>
+    <High>0.0600018</High>
+    <Low>0.0544684</Low>
+    <Close>0.0556155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-27</Date>
+    <Open>0.0554872</Open>
+    <High>0.0558742</High>
+    <Low>0.0529107</Low>
+    <Close>0.0533824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-28</Date>
+    <Open>0.0534518</Open>
+    <High>0.05495</High>
+    <Low>0.0517353</Low>
+    <Close>0.0519381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-29</Date>
+    <Open>0.051935</Open>
+    <High>0.0522362</High>
+    <Low>0.0501347</Low>
+    <Close>0.051138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-06-30</Date>
+    <Open>0.0508384</Open>
+    <High>0.0524317</High>
+    <Low>0.0465399</Low>
+    <Close>0.04994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-01</Date>
+    <Open>0.04994</Open>
+    <High>0.0542403</High>
+    <Low>0.0496404</Low>
+    <Close>0.0502447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-02</Date>
+    <Open>0.0501747</Open>
+    <High>0.0505443</High>
+    <Low>0.0483219</Low>
+    <Close>0.0492209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-03</Date>
+    <Open>0.0492309</Open>
+    <High>0.0494206</High>
+    <Low>0.0474335</Low>
+    <Close>0.047658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-04</Date>
+    <Open>0.047658</Open>
+    <High>0.0494806</High>
+    <Low>0.0471586</Low>
+    <Close>0.0487215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-05</Date>
+    <Open>0.0487115</Open>
+    <High>0.0497003</High>
+    <Low>0.047208</Low>
+    <Close>0.048097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-06</Date>
+    <Open>0.048127</Open>
+    <High>0.0543402</High>
+    <Low>0.0473731</Low>
+    <Close>0.0511237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-07</Date>
+    <Open>0.0510438</Open>
+    <High>0.0536417</High>
+    <Low>0.0506791</Low>
+    <Close>0.0523786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-08</Date>
+    <Open>0.0523386</Open>
+    <High>0.0535425</High>
+    <Low>0.0500699</Low>
+    <Close>0.0508795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-09</Date>
+    <Open>0.0508195</Open>
+    <High>0.0526084</High>
+    <Low>0.0507995</Low>
+    <Close>0.0515491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-10</Date>
+    <Open>0.0515739</Open>
+    <High>0.0517489</High>
+    <Low>0.0476814</Low>
+    <Close>0.0488707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-11</Date>
+    <Open>0.0489506</Open>
+    <High>0.0489506</High>
+    <Low>0.046668</Low>
+    <Close>0.0466979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-12</Date>
+    <Open>0.0467073</Open>
+    <High>0.0467079</High>
+    <Low>0.0438317</Low>
+    <Close>0.0441358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-13</Date>
+    <Open>0.0441176</Open>
+    <High>0.0516535</High>
+    <Low>0.0421778</Low>
+    <Close>0.0494355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-14</Date>
+    <Open>0.0497552</Open>
+    <High>0.0569544</High>
+    <Low>0.0479616</Low>
+    <Close>0.0492704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-15</Date>
+    <Open>0.0493704</Open>
+    <High>0.0506696</High>
+    <Low>0.0484709</Low>
+    <Close>0.0491852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-16</Date>
+    <Open>0.0491004</Open>
+    <High>0.0512198</High>
+    <Low>0.0473158</Low>
+    <Close>0.0490802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-17</Date>
+    <Open>0.0490672</Open>
+    <High>0.0549852</High>
+    <Low>0.0489302</Low>
+    <Close>0.0529862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-18</Date>
+    <Open>0.0531856</Open>
+    <High>0.0577873</High>
+    <Low>0.0510842</Low>
+    <Close>0.0532877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-19</Date>
+    <Open>0.0532872</Open>
+    <High>0.0572</High>
+    <Low>0.0524863</Low>
+    <Close>0.0554089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-20</Date>
+    <Open>0.0553</Open>
+    <High>0.0572046</High>
+    <Low>0.0519321</Low>
+    <Close>0.0527026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-21</Date>
+    <Open>0.0526768</Open>
+    <High>0.0616142</High>
+    <Low>0.050054</Low>
+    <Close>0.058118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-22</Date>
+    <Open>0.0580139</Open>
+    <High>0.0606121</High>
+    <Low>0.0540076</Low>
+    <Close>0.0545076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-23</Date>
+    <Open>0.0546</Open>
+    <High>0.0579994</High>
+    <Low>0.0544098</Low>
+    <Close>0.0563113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-24</Date>
+    <Open>0.0563056</Open>
+    <High>0.0583</High>
+    <Low>0.0559073</Low>
+    <Close>0.0574115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-25</Date>
+    <Open>0.0571609</Open>
+    <High>0.0573909</High>
+    <Low>0.0516162</Low>
+    <Close>0.0525847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-26</Date>
+    <Open>0.0522847</Open>
+    <High>0.0523531</High>
+    <Low>0.0471114</Low>
+    <Close>0.0479572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-27</Date>
+    <Open>0.0479667</Open>
+    <High>0.0515401</High>
+    <Low>0.0479667</Low>
+    <Close>0.0510322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-28</Date>
+    <Open>0.0512323</Open>
+    <High>0.054782</High>
+    <Low>0.0507861</Low>
+    <Close>0.0539302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-29</Date>
+    <Open>0.054004</Open>
+    <High>0.0563307</High>
+    <Low>0.0526332</Low>
+    <Close>0.0545624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-30</Date>
+    <Open>0.0547819</Open>
+    <High>0.0570571</High>
+    <Low>0.0534508</Low>
+    <Close>0.0542179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-07-31</Date>
+    <Open>0.0540194</Open>
+    <High>0.0587182</High>
+    <Low>0.0532608</Low>
+    <Close>0.0559129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-01</Date>
+    <Open>0.0560134</Open>
+    <High>0.057845</High>
+    <Low>0.0540189</Low>
+    <Close>0.0556161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-02</Date>
+    <Open>0.055346</Open>
+    <High>0.0575698</High>
+    <Low>0.0526721</Low>
+    <Close>0.0543398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-03</Date>
+    <Open>0.0544709</Open>
+    <High>0.0567085</High>
+    <Low>0.0529832</Low>
+    <Close>0.0550332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-04</Date>
+    <Open>0.055036</Open>
+    <High>0.0568125</High>
+    <Low>0.0540227</Low>
+    <Close>0.0562517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-05</Date>
+    <Open>0.0562617</Open>
+    <High>0.059809</High>
+    <Low>0.0557961</Low>
+    <Close>0.0584111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-06</Date>
+    <Open>0.0587112</Open>
+    <High>0.0627125</High>
+    <Low>0.0573011</Low>
+    <Close>0.0605133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-07</Date>
+    <Open>0.060814</Open>
+    <High>0.0615154</High>
+    <Low>0.0587141</Low>
+    <Close>0.0597107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-08</Date>
+    <Open>0.0595113</Open>
+    <High>0.0655131</High>
+    <Low>0.05908</Low>
+    <Close>0.0638077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-09</Date>
+    <Open>0.063707</Open>
+    <High>0.0646123</High>
+    <Low>0.0578139</Low>
+    <Close>0.0583817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-10</Date>
+    <Open>0.0584217</Open>
+    <High>0.0628621</High>
+    <Low>0.0563935</Low>
+    <Close>0.0609177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-11</Date>
+    <Open>0.0609177</Open>
+    <High>0.0647937</High>
+    <Low>0.0603857</Low>
+    <Close>0.0622993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-12</Date>
+    <Open>0.0623111</Open>
+    <High>0.065014</High>
+    <Low>0.0610305</Low>
+    <Close>0.0635492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-13</Date>
+    <Open>0.0636293</Open>
+    <High>0.0657068</High>
+    <Low>0.0628101</Low>
+    <Close>0.0628745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-14</Date>
+    <Open>0.0628751</Open>
+    <High>0.0635697</High>
+    <Low>0.0591024</Low>
+    <Close>0.0597485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-15</Date>
+    <Open>0.0597785</Open>
+    <High>0.0613466</High>
+    <Low>0.0545442</Low>
+    <Close>0.0571932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-16</Date>
+    <Open>0.0571143</Open>
+    <High>0.0583329</High>
+    <Low>0.0549099</Low>
+    <Close>0.0572251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-17</Date>
+    <Open>0.0572246</Open>
+    <High>0.0606024</High>
+    <Low>0.0555683</Low>
+    <Close>0.0584147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-18</Date>
+    <Open>0.0584047</Open>
+    <High>0.0649091</High>
+    <Low>0.0576912</Low>
+    <Close>0.0616006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-19</Date>
+    <Open>0.0616062</Open>
+    <High>0.0617062</High>
+    <Low>0.0521052</Low>
+    <Close>0.0522052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-20</Date>
+    <Open>0.0520926</Open>
+    <High>0.0532359</High>
+    <Low>0.0511495</Low>
+    <Close>0.0521295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-21</Date>
+    <Open>0.052179</Open>
+    <High>0.0539095</High>
+    <Low>0.051909</Low>
+    <Close>0.0527589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-22</Date>
+    <Open>0.0527684</Open>
+    <High>0.0531172</High>
+    <Low>0.0510174</Low>
+    <Close>0.0520606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-23</Date>
+    <Open>0.0520711</Open>
+    <High>0.0628</High>
+    <Low>0.0520112</Low>
+    <Close>0.0536016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-24</Date>
+    <Open>0.0534995</Open>
+    <High>0.0555089</High>
+    <Low>0.0530963</Low>
+    <Close>0.0547055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-25</Date>
+    <Open>0.0544844</Open>
+    <High>0.0553222</High>
+    <Low>0.0540111</Low>
+    <Close>0.0547122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-26</Date>
+    <Open>0.0547978</Open>
+    <High>0.061014</High>
+    <Low>0.0547305</Low>
+    <Close>0.0571757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-27</Date>
+    <Open>0.0570057</Open>
+    <High>0.0614025</High>
+    <Low>0.0520031</Low>
+    <Close>0.0534016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-28</Date>
+    <Open>0.0535005</Open>
+    <High>0.0546805</High>
+    <Low>0.0521174</Low>
+    <Close>0.0521995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-29</Date>
+    <Open>0.05221</Open>
+    <High>0.0525637</High>
+    <Low>0.0503355</Low>
+    <Close>0.0524437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-30</Date>
+    <Open>0.0525047</Open>
+    <High>0.0535005</High>
+    <Low>0.049801</Low>
+    <Close>0.0505051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-08-31</Date>
+    <Open>0.050404</Open>
+    <High>0.0522031</High>
+    <Low>0.050105</Low>
+    <Close>0.0508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-01</Date>
+    <Open>0.0509005</Open>
+    <High>0.0515995</High>
+    <Low>0.0491946</Low>
+    <Close>0.050197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-02</Date>
+    <Open>0.050298</Open>
+    <High>0.0522068</High>
+    <Low>0.0499035</Low>
+    <Close>0.0504076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-03</Date>
+    <Open>0.0505481</Open>
+    <High>0.0511151</High>
+    <Low>0.050258</Low>
+    <Close>0.05093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-04</Date>
+    <Open>0.05087</Open>
+    <High>0.0524</High>
+    <Low>0.05087</Low>
+    <Close>0.0524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-05</Date>
+    <Open>0.0524</Open>
+    <High>0.0534053</High>
+    <Low>0.050305</Low>
+    <Close>0.0527053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-06</Date>
+    <Open>0.0526053</Open>
+    <High>0.0539054</High>
+    <Low>0.050295</Low>
+    <Close>0.051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-07</Date>
+    <Open>0.0509051</Open>
+    <High>0.0523073</High>
+    <Low>0.050298</Low>
+    <Close>0.0520036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-08</Date>
+    <Open>0.0521031</Open>
+    <High>0.0527</High>
+    <Low>0.0507046</Low>
+    <Close>0.0516077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-09</Date>
+    <Open>0.0516077</Open>
+    <High>0.0563208</High>
+    <Low>0.0516077</Low>
+    <Close>0.0548181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-10</Date>
+    <Open>0.0551209</Open>
+    <High>0.0567255</High>
+    <Low>0.0547202</Low>
+    <Close>0.0562118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-11</Date>
+    <Open>0.0565141</Open>
+    <High>0.0566187</High>
+    <Low>0.053615</Low>
+    <Close>0.0539135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-12</Date>
+    <Open>0.0541135</Open>
+    <High>0.0554105</High>
+    <Low>0.0513087</Low>
+    <Close>0.0526095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-13</Date>
+    <Open>0.0525089</Open>
+    <High>0.0549077</High>
+    <Low>0.0469</Low>
+    <Close>0.048201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-14</Date>
+    <Open>0.048101</Open>
+    <High>0.0646052</High>
+    <Low>0.0475981</Low>
+    <Close>0.0579151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-15</Date>
+    <Open>0.057815</Open>
+    <High>0.0637064</High>
+    <Low>0.0512908</Low>
+    <Close>0.0517953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-16</Date>
+    <Open>0.0516969</Open>
+    <High>0.0516974</High>
+    <Low>0.0482903</Low>
+    <Close>0.0489951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-17</Date>
+    <Open>0.0489951</Open>
+    <High>0.0494</High>
+    <Low>0.0479</Low>
+    <Close>0.0489049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-18</Date>
+    <Open>0.0487</Open>
+    <High>0.049605</High>
+    <Low>0.0438956</Low>
+    <Close>0.0443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-19</Date>
+    <Open>0.0439956</Open>
+    <High>0.0442044</High>
+    <Low>0.0419958</Low>
+    <Close>0.0440044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-20</Date>
+    <Open>0.0440088</Open>
+    <High>0.0508051</High>
+    <Low>0.0428043</Low>
+    <Close>0.0433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-21</Date>
+    <Open>0.0431043</Open>
+    <High>0.0447</High>
+    <Low>0.0418</Low>
+    <Close>0.0418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-22</Date>
+    <Open>0.04171</Open>
+    <High>0.0436856</High>
+    <Low>0.04085</Low>
+    <Close>0.0431957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-23</Date>
+    <Open>0.0431</Open>
+    <High>0.0441</High>
+    <Low>0.0414959</Low>
+    <Close>0.0427957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-24</Date>
+    <Open>0.0427979</Open>
+    <High>0.0444982</High>
+    <Low>0.0426966</Low>
+    <Close>0.0429039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-25</Date>
+    <Open>0.0429043</Open>
+    <High>0.04397</High>
+    <Low>0.0421042</Low>
+    <Close>0.0424983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-26</Date>
+    <Open>0.0422996</Open>
+    <High>0.0443244</High>
+    <Low>0.0422</Low>
+    <Close>0.04346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-27</Date>
+    <Open>0.0434643</Open>
+    <High>0.0459</High>
+    <Low>0.0419958</Low>
+    <Close>0.0423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-28</Date>
+    <Open>0.0423</Open>
+    <High>0.043</High>
+    <Low>0.0409918</Low>
+    <Close>0.0423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-29</Date>
+    <Open>0.0423</Open>
+    <High>0.0424</High>
+    <Low>0.041</Low>
+    <Close>0.0417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-09-30</Date>
+    <Open>0.04167</Open>
+    <High>0.0426743</High>
+    <Low>0.04151</Low>
+    <Close>0.04174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-01</Date>
+    <Open>0.04165</Open>
+    <High>0.0429443</High>
+    <Low>0.0413959</Low>
+    <Close>0.0417042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-02</Date>
+    <Open>0.0415</Open>
+    <High>0.0428</High>
+    <Low>0.0409</Low>
+    <Close>0.0415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-03</Date>
+    <Open>0.0415</Open>
+    <High>0.0424085</High>
+    <Low>0.041</Low>
+    <Close>0.0422042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-04</Date>
+    <Open>0.0422042</Open>
+    <High>0.0428128</High>
+    <Low>0.0418084</Low>
+    <Close>0.0422127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-05</Date>
+    <Open>0.0422127</Open>
+    <High>0.0424127</High>
+    <Low>0.0414041</Low>
+    <Close>0.0419042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-06</Date>
+    <Open>0.0418084</Open>
+    <High>0.0425085</High>
+    <Low>0.0417046</Low>
+    <Close>0.0419071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-07</Date>
+    <Open>0.0419075</Open>
+    <High>0.0445053</High>
+    <Low>0.0410016</Low>
+    <Close>0.0416046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-08</Date>
+    <Open>0.041605</Open>
+    <High>0.042005</High>
+    <Low>0.0411045</Low>
+    <Close>0.0412103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-09</Date>
+    <Open>0.0411107</Open>
+    <High>0.0420042</High>
+    <Low>0.0409</Low>
+    <Close>0.0417083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-10</Date>
+    <Open>0.0415042</Open>
+    <High>0.0418084</High>
+    <Low>0.0404919</Low>
+    <Close>0.0406959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-11</Date>
+    <Open>0.0407</Open>
+    <High>0.0407</High>
+    <Low>0.0379935</Low>
+    <Close>0.0381962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-12</Date>
+    <Open>0.0382954</Open>
+    <High>0.0383965</High>
+    <Low>0.0367993</Low>
+    <Close>0.0372011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-13</Date>
+    <Open>0.0372007</Open>
+    <High>0.0372007</High>
+    <Low>0.032959</Low>
+    <Close>0.0358339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-14</Date>
+    <Open>0.0359125</Open>
+    <High>0.0425026</High>
+    <Low>0.0350004</Low>
+    <Close>0.0350007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-15</Date>
+    <Open>0.0350011</Open>
+    <High>0.0518021</High>
+    <Low>0.0348003</Low>
+    <Close>0.039102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-16</Date>
+    <Open>0.0392024</Open>
+    <High>0.0407016</High>
+    <Low>0.0369</Low>
+    <Close>0.0369018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-17</Date>
+    <Open>0.037303</Open>
+    <High>0.0386035</High>
+    <Low>0.0365993</Low>
+    <Close>0.0372007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-18</Date>
+    <Open>0.0372004</Open>
+    <High>0.049502</High>
+    <Low>0.0370019</Low>
+    <Close>0.0442027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-19</Date>
+    <Open>0.0441044</Open>
+    <High>0.0457023</High>
+    <Low>0.0394996</Low>
+    <Close>0.0397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-20</Date>
+    <Open>0.0395004</Open>
+    <High>0.0405036</High>
+    <Low>0.0376974</Low>
+    <Close>0.0381962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-21</Date>
+    <Open>0.0380962</Open>
+    <High>0.0385023</High>
+    <Low>0.0364989</Low>
+    <Close>0.0383023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-22</Date>
+    <Open>0.0382034</Open>
+    <High>0.0395016</High>
+    <Low>0.037503</Low>
+    <Close>0.0387031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-23</Date>
+    <Open>0.0386035</Open>
+    <High>0.0388035</High>
+    <Low>0.0374</Low>
+    <Close>0.0377049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-24</Date>
+    <Open>0.0377049</Open>
+    <High>0.0397044</High>
+    <Low>0.0375026</Low>
+    <Close>0.0377019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-25</Date>
+    <Open>0.0378026</Open>
+    <High>0.0388101</High>
+    <Low>0.0372989</Low>
+    <Close>0.0384134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-26</Date>
+    <Open>0.0382118</Open>
+    <High>0.0390117</High>
+    <Low>0.0379099</Low>
+    <Close>0.0385108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-27</Date>
+    <Open>0.0385108</Open>
+    <High>0.0404093</High>
+    <Low>0.0377011</Low>
+    <Close>0.0379023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-28</Date>
+    <Open>0.0379019</Open>
+    <High>0.0382092</High>
+    <Low>0.0369015</Low>
+    <Close>0.0381084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-29</Date>
+    <Open>0.0381072</Open>
+    <High>0.0389121</High>
+    <Low>0.0375109</Low>
+    <Close>0.0378087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-30</Date>
+    <Open>0.0378091</Open>
+    <High>0.038907</High>
+    <Low>0.0375082</Low>
+    <Close>0.0376075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-10-31</Date>
+    <Open>0.0376079</Open>
+    <High>0.0381996</High>
+    <Low>0.0370048</Low>
+    <Close>0.037897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-01</Date>
+    <Open>0.0379981</Open>
+    <High>0.0418925</High>
+    <Low>0.0377905</Low>
+    <Close>0.0407959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-02</Date>
+    <Open>0.0406955</Open>
+    <High>0.0416933</High>
+    <Low>0.0384992</Low>
+    <Close>0.0387977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-03</Date>
+    <Open>0.0387977</Open>
+    <High>0.0405951</High>
+    <Low>0.0387977</Low>
+    <Close>0.0394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-04</Date>
+    <Open>0.0394996</Open>
+    <High>0.0417996</High>
+    <Low>0.0392996</Low>
+    <Close>0.0412033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-05</Date>
+    <Open>0.0412029</Open>
+    <High>0.0420059</High>
+    <Low>0.0407012</Low>
+    <Close>0.0412021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-06</Date>
+    <Open>0.0411025</Open>
+    <High>0.0442982</High>
+    <Low>0.040902</Low>
+    <Close>0.0413025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-07</Date>
+    <Open>0.0413033</Open>
+    <High>0.0413037</High>
+    <Low>0.0394028</Low>
+    <Close>0.040004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-08</Date>
+    <Open>0.040108</Open>
+    <High>0.0405</High>
+    <Low>0.0297386</Low>
+    <Close>0.0311933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-09</Date>
+    <Open>0.0311833</Open>
+    <High>0.0325393</High>
+    <Low>0.0246308</Low>
+    <Close>0.0250913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-10</Date>
+    <Open>0.0248319</Open>
+    <High>0.035375</High>
+    <Low>0.0243985</Low>
+    <Close>0.0326365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-11</Date>
+    <Open>0.0325264</Open>
+    <High>0.0378315</High>
+    <Low>0.0288291</Low>
+    <Close>0.0312374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-12</Date>
+    <Open>0.0314063</Open>
+    <High>0.0328408</High>
+    <Low>0.0289478</Low>
+    <Close>0.0308444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-13</Date>
+    <Open>0.0307446</Open>
+    <High>0.031147</High>
+    <Low>0.0295674</Low>
+    <Close>0.0302576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-14</Date>
+    <Open>0.0301338</Open>
+    <High>0.0307231</High>
+    <Low>0.0286141</Low>
+    <Close>0.0296584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-15</Date>
+    <Open>0.0296555</Open>
+    <High>0.0318649</High>
+    <Low>0.0293559</Low>
+    <Close>0.0307692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-16</Date>
+    <Open>0.0308623</Open>
+    <High>0.0314694</High>
+    <Low>0.0294696</Low>
+    <Close>0.0300723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-17</Date>
+    <Open>0.0300726</Open>
+    <High>0.031576</High>
+    <Low>0.0293738</Low>
+    <Close>0.0307754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-18</Date>
+    <Open>0.0307775</Open>
+    <High>0.0309755</High>
+    <Low>0.0290654</Low>
+    <Close>0.0293662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-19</Date>
+    <Open>0.0292663</Open>
+    <High>0.0297675</High>
+    <Low>0.0288668</Low>
+    <Close>0.0290697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-20</Date>
+    <Open>0.0290697</Open>
+    <High>0.0300609</High>
+    <Low>0.0270585</Low>
+    <Close>0.0271587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-21</Date>
+    <Open>0.0271589</Open>
+    <High>0.0273616</High>
+    <Low>0.0252686</Low>
+    <Close>0.0258689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-22</Date>
+    <Open>0.0258687</Open>
+    <High>0.0278696</High>
+    <Low>0.0249683</Low>
+    <Close>0.0271671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-23</Date>
+    <Open>0.0271649</Open>
+    <High>0.0294646</High>
+    <Low>0.0268666</Low>
+    <Close>0.0276698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-24</Date>
+    <Open>0.0277703</Open>
+    <High>0.0283713</High>
+    <Low>0.0271774</Low>
+    <Close>0.027377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-25</Date>
+    <Open>0.0273362</Open>
+    <High>0.0273567</High>
+    <Low>0.0265341</Low>
+    <Close>0.0269846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-26</Date>
+    <Open>0.0270446</Open>
+    <High>0.0317787</High>
+    <Low>0.0266521</Low>
+    <Close>0.0269841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-27</Date>
+    <Open>0.0269841</Open>
+    <High>0.0339789</High>
+    <Low>0.0268841</Low>
+    <Close>0.0290817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-28</Date>
+    <Open>0.028982</Open>
+    <High>0.0289823</High>
+    <Low>0.0271864</Low>
+    <Close>0.0278894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-29</Date>
+    <Open>0.0278891</Open>
+    <High>0.0293891</High>
+    <Low>0.0276886</Low>
+    <Close>0.0285894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-11-30</Date>
+    <Open>0.0285894</Open>
+    <High>0.0292053</High>
+    <Low>0.0281907</Low>
+    <Close>0.0292015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-01</Date>
+    <Open>0.0292012</Open>
+    <High>0.0292112</High>
+    <Low>0.0283797</Low>
+    <Close>0.0286414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-02</Date>
+    <Open>0.0285717</Open>
+    <High>0.0293832</High>
+    <Low>0.0284428</Low>
+    <Close>0.0290117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-03</Date>
+    <Open>0.0290117</Open>
+    <High>0.0293606</High>
+    <Low>0.0283328</Low>
+    <Close>0.0283657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-04</Date>
+    <Open>0.0283628</Open>
+    <High>0.0289358</High>
+    <Low>0.0283228</Low>
+    <Close>0.0286457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-05</Date>
+    <Open>0.0286757</Open>
+    <High>0.0292029</High>
+    <Low>0.02761</Low>
+    <Close>0.0278208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-06</Date>
+    <Open>0.0278206</Open>
+    <High>0.0282517</High>
+    <Low>0.0274097</Low>
+    <Close>0.0276794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-07</Date>
+    <Open>0.0277494</Open>
+    <High>0.028</High>
+    <Low>0.026141</Low>
+    <Close>0.02652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-08</Date>
+    <Open>0.0265</Open>
+    <High>0.0278028</High>
+    <Low>0.0260826</Low>
+    <Close>0.0271027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-09</Date>
+    <Open>0.0271619</Open>
+    <High>0.0291997</High>
+    <Low>0.0268427</Low>
+    <Close>0.0277008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-10</Date>
+    <Open>0.0277014</Open>
+    <High>0.0284997</High>
+    <Low>0.0270997</Low>
+    <Close>0.0272995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-11</Date>
+    <Open>0.0273997</Open>
+    <High>0.0280011</High>
+    <Low>0.0272427</Low>
+    <Close>0.0272454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-12</Date>
+    <Open>0.0271454</Open>
+    <High>0.0272855</High>
+    <Low>0.025941</Low>
+    <Close>0.0265024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-13</Date>
+    <Open>0.0265221</Open>
+    <High>0.0278014</High>
+    <Low>0.0258665</Low>
+    <Close>0.0268938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-14</Date>
+    <Open>0.0268914</Open>
+    <High>0.0271959</High>
+    <Low>0.0260987</Low>
+    <Close>0.0264018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-15</Date>
+    <Open>0.0264126</Open>
+    <High>0.0288058</High>
+    <Low>0.0260926</Low>
+    <Close>0.0262026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-16</Date>
+    <Open>0.0263026</Open>
+    <High>0.027</High>
+    <Low>0.0240024</Low>
+    <Close>0.0242024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-17</Date>
+    <Open>0.0240524</Open>
+    <High>0.0240524</High>
+    <Low>0.0225425</Low>
+    <Close>0.0237431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-18</Date>
+    <Open>0.0237031</Open>
+    <High>0.0240212</High>
+    <Low>0.0233019</Low>
+    <Close>0.0238029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-19</Date>
+    <Open>0.0237033</Open>
+    <High>0.0238031</High>
+    <Low>0.022</Low>
+    <Close>0.0221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-20</Date>
+    <Open>0.0222298</Open>
+    <High>0.0238293</High>
+    <Low>0.0221198</Low>
+    <Close>0.0234609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-21</Date>
+    <Open>0.0235009</Open>
+    <High>0.0235612</High>
+    <Low>0.0225698</Low>
+    <Close>0.0228609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-22</Date>
+    <Open>0.0228709</Open>
+    <High>0.02312</High>
+    <Low>0.0222969</Low>
+    <Close>0.0228461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-23</Date>
+    <Open>0.0228766</Open>
+    <High>0.0231395</High>
+    <Low>0.0226475</Low>
+    <Close>0.0229775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-24</Date>
+    <Open>0.0229979</Open>
+    <High>0.0241276</High>
+    <Low>0.0229177</Low>
+    <Close>0.0230986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-25</Date>
+    <Open>0.0230988</Open>
+    <High>0.0232993</High>
+    <Low>0.0223971</Low>
+    <Close>0.0226968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-26</Date>
+    <Open>0.0225977</Open>
+    <High>0.0229977</High>
+    <Low>0.0225971</Low>
+    <Close>0.022695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-27</Date>
+    <Open>0.0227959</Open>
+    <High>0.0283935</High>
+    <Low>0.0223937</Low>
+    <Close>0.02509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-28</Date>
+    <Open>0.0248903</Open>
+    <High>0.0258896</High>
+    <Low>0.0229899</Low>
+    <Close>0.0230875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-29</Date>
+    <Open>0.0231879</Open>
+    <High>0.0233904</High>
+    <Low>0.0216911</Low>
+    <Close>0.0220901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-30</Date>
+    <Open>0.0220896</Open>
+    <High>0.0224901</High>
+    <Low>0.0216911</Low>
+    <Close>0.0220887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2022-12-31</Date>
+    <Open>0.0220892</Open>
+    <High>0.0224885</High>
+    <Low>0.0218891</Low>
+    <Close>0.0218891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-01</Date>
+    <Open>0.021989</Open>
+    <High>0.0222868</High>
+    <Low>0.0217884</Low>
+    <Close>0.0219899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-02</Date>
+    <Open>0.0220898</Open>
+    <High>0.0238904</High>
+    <Low>0.0218906</Low>
+    <Close>0.0225928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-03</Date>
+    <Open>0.0224928</Open>
+    <High>0.0231916</High>
+    <Low>0.0221909</Low>
+    <Close>0.0222915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-04</Date>
+    <Open>0.0223915</Open>
+    <High>0.0230908</High>
+    <Low>0.0222913</Low>
+    <Close>0.0227922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-05</Date>
+    <Open>0.0228924</Open>
+    <High>0.0230928</High>
+    <Low>0.0223906</Low>
+    <Close>0.0228918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-06</Date>
+    <Open>0.022892</Open>
+    <High>0.022992</High>
+    <Low>0.0220874</Low>
+    <Close>0.022693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-07</Date>
+    <Open>0.022693</Open>
+    <High>0.0230935</High>
+    <Low>0.0225928</Low>
+    <Close>0.0227943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-08</Date>
+    <Open>0.0227966</Open>
+    <High>0.0238952</High>
+    <Low>0.0224962</Low>
+    <Close>0.0232965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-09</Date>
+    <Open>0.0232953</Open>
+    <High>0.0245975</High>
+    <Low>0.0232953</Low>
+    <Close>0.0238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-10</Date>
+    <Open>0.0238</Open>
+    <High>0.0245983</High>
+    <Low>0.0234988</Low>
+    <Close>0.0241034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-11</Date>
+    <Open>0.0241041</Open>
+    <High>0.0246002</High>
+    <Low>0.0234974</Low>
+    <Close>0.0242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-12</Date>
+    <Open>0.0241988</Open>
+    <High>0.0249982</High>
+    <Low>0.0236972</Low>
+    <Close>0.0246017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-13</Date>
+    <Open>0.0246025</Open>
+    <High>0.0260016</High>
+    <Low>0.0242</Low>
+    <Close>0.0255023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-14</Date>
+    <Open>0.025402</Open>
+    <High>0.0285031</High>
+    <Low>0.025402</Low>
+    <Close>0.0276008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-15</Date>
+    <Open>0.0276019</Open>
+    <High>0.0283122</High>
+    <Low>0.0265016</Low>
+    <Close>0.0278083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-16</Date>
+    <Open>0.0279081</Open>
+    <High>0.0294123</High>
+    <Low>0.0267008</Low>
+    <Close>0.0272005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-17</Date>
+    <Open>0.0272008</Open>
+    <High>0.0283017</High>
+    <Low>0.0267021</Low>
+    <Close>0.027403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-18</Date>
+    <Open>0.0275027</Open>
+    <High>0.0279025</High>
+    <Low>0.0247985</Low>
+    <Close>0.0258984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-19</Date>
+    <Open>0.025899</Open>
+    <High>0.0266976</High>
+    <Low>0.0255977</Low>
+    <Close>0.026199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-20</Date>
+    <Open>0.0262916</Open>
+    <High>0.0277053</High>
+    <Low>0.0256995</Low>
+    <Close>0.0275047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-21</Date>
+    <Open>0.0275047</Open>
+    <High>0.0280048</High>
+    <Low>0.0271073</Low>
+    <Close>0.0277055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-22</Date>
+    <Open>0.0277042</Open>
+    <High>0.0295044</High>
+    <Low>0.0269022</Low>
+    <Close>0.0274055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-23</Date>
+    <Open>0.0275052</Open>
+    <High>0.0293032</High>
+    <Low>0.0275052</Low>
+    <Close>0.0289046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-24</Date>
+    <Open>0.0290041</Open>
+    <High>0.0333997</High>
+    <Low>0.0289035</Low>
+    <Close>0.0296006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-25</Date>
+    <Open>0.0296009</Open>
+    <High>0.0343034</High>
+    <Low>0.0289029</Low>
+    <Close>0.031205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-26</Date>
+    <Open>0.0312053</Open>
+    <High>0.0722993</High>
+    <Low>0.0312053</Low>
+    <Close>0.0608049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-27</Date>
+    <Open>0.0607049</Open>
+    <High>0.0823181</High>
+    <Low>0.0547159</Low>
+    <Close>0.0668327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-28</Date>
+    <Open>0.0668234</Open>
+    <High>0.0745186</High>
+    <Low>0.0579179</Low>
+    <Close>0.0624125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-29</Date>
+    <Open>0.0624125</Open>
+    <High>0.0722188</High>
+    <Low>0.0606121</Low>
+    <Close>0.0637025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-30</Date>
+    <Open>0.0641032</Open>
+    <High>0.0692055</High>
+    <Low>0.0526995</Low>
+    <Close>0.0540038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-01-31</Date>
+    <Open>0.0539032</Open>
+    <High>0.0592923</High>
+    <Low>0.0526968</Low>
+    <Close>0.0546049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-01</Date>
+    <Open>0.0547038</Open>
+    <High>0.0591006</High>
+    <Low>0.0511005</Low>
+    <Close>0.0587035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-02</Date>
+    <Open>0.0588035</Open>
+    <High>0.0850068</High>
+    <Low>0.0575029</Low>
+    <Close>0.0764153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-03</Date>
+    <Open>0.0764153</Open>
+    <High>0.0814138</High>
+    <Low>0.0665007</Low>
+    <Close>0.0705056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-04</Date>
+    <Open>0.0702063</Open>
+    <High>0.0724072</High>
+    <Low>0.0671047</Low>
+    <Close>0.0677061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-05</Date>
+    <Open>0.0678054</Open>
+    <High>0.069814</High>
+    <Low>0.0603169</Low>
+    <Close>0.0632158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-06</Date>
+    <Open>0.0629164</Open>
+    <High>0.0738133</High>
+    <Low>0.0608109</Low>
+    <Close>0.0645026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-07</Date>
+    <Open>0.0644019</Open>
+    <High>0.073897</High>
+    <Low>0.0623056</Low>
+    <Close>0.0705042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-08</Date>
+    <Open>0.0705042</Open>
+    <High>0.0714064</High>
+    <Low>0.0628069</Low>
+    <Close>0.0644052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-09</Date>
+    <Open>0.0641038</Open>
+    <High>0.0680007</High>
+    <Low>0.0529111</Low>
+    <Close>0.0538054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-10</Date>
+    <Open>0.0537048</Open>
+    <High>0.0587164</High>
+    <Low>0.0533053</Low>
+    <Close>0.0550083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-11</Date>
+    <Open>0.0552083</Open>
+    <High>0.0587053</High>
+    <Low>0.055105</Low>
+    <Close>0.0572057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-12</Date>
+    <Open>0.0570057</Open>
+    <High>0.0587094</High>
+    <Low>0.0533075</Low>
+    <Close>0.0542054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-13</Date>
+    <Open>0.0542054</Open>
+    <High>0.0546098</High>
+    <Low>0.0487239</Low>
+    <Close>0.0502271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-14</Date>
+    <Open>0.0503277</Open>
+    <High>0.0569233</High>
+    <Low>0.0501271</Low>
+    <Close>0.0556167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-15</Date>
+    <Open>0.0559296</Open>
+    <High>0.108416</High>
+    <Low>0.055321</Low>
+    <Close>0.0933177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-16</Date>
+    <Open>0.0935178</Open>
+    <High>0.155022</High>
+    <Low>0.0890134</Low>
+    <Close>0.122039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-17</Date>
+    <Open>0.121617</Open>
+    <High>0.177021</High>
+    <Low>0.121615</Low>
+    <Close>0.146615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-18</Date>
+    <Open>0.147015</Open>
+    <High>0.169032</High>
+    <Low>0.141725</Low>
+    <Close>0.156025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-19</Date>
+    <Open>0.156925</Open>
+    <High>0.239355</High>
+    <Low>0.146821</Low>
+    <Close>0.212947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-20</Date>
+    <Open>0.212847</Open>
+    <High>0.324842</High>
+    <Low>0.203541</Low>
+    <Close>0.292412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-21</Date>
+    <Open>0.292212</Open>
+    <High>0.366144</High>
+    <Low>0.287097</Low>
+    <Close>0.340058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-22</Date>
+    <Open>0.340158</Open>
+    <High>0.344462</High>
+    <Low>0.266529</Low>
+    <Close>0.2874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-23</Date>
+    <Open>0.2874</Open>
+    <High>0.328026</High>
+    <Low>0.274711</Low>
+    <Close>0.295241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-24</Date>
+    <Open>0.295241</Open>
+    <High>0.314931</High>
+    <Low>0.222816</Low>
+    <Close>0.229698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-25</Date>
+    <Open>0.229798</Open>
+    <High>0.248198</High>
+    <Low>0.206121</Low>
+    <Close>0.224316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-26</Date>
+    <Open>0.224316</Open>
+    <High>0.248117</High>
+    <Low>0.212719</Low>
+    <Close>0.232514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-27</Date>
+    <Open>0.232612</Open>
+    <High>0.244832</High>
+    <Low>0.215911</Low>
+    <Close>0.225414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-02-28</Date>
+    <Open>0.225914</Open>
+    <High>0.226414</High>
+    <Low>0.188015</Low>
+    <Close>0.194235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-01</Date>
+    <Open>0.194239</Open>
+    <High>0.256531</High>
+    <Low>0.192631</Low>
+    <Close>0.241531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-02</Date>
+    <Open>0.241031</Open>
+    <High>0.241234</High>
+    <Low>0.212296</Low>
+    <Close>0.22302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-03</Date>
+    <Open>0.223218</Open>
+    <High>0.22772</High>
+    <Low>0.186907</Low>
+    <Close>0.195314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-04</Date>
+    <Open>0.195214</Open>
+    <High>0.198412</High>
+    <Low>0.171909</Low>
+    <Close>0.177012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-05</Date>
+    <Open>0.177314</Open>
+    <High>0.214121</High>
+    <Low>0.177212</Low>
+    <Close>0.205723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-06</Date>
+    <Open>0.204723</Open>
+    <High>0.208127</High>
+    <Low>0.195339</Low>
+    <Close>0.198688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-07</Date>
+    <Open>0.198374</Open>
+    <High>0.212804</High>
+    <Low>0.190673</Low>
+    <Close>0.210489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-08</Date>
+    <Open>0.210389</Open>
+    <High>0.223202</High>
+    <Low>0.184278</Low>
+    <Close>0.188692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-09</Date>
+    <Open>0.188281</Open>
+    <High>0.199038</High>
+    <Low>0.158164</Low>
+    <Close>0.163115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-10</Date>
+    <Open>0.163016</Open>
+    <High>0.170595</High>
+    <Low>0.148088</Low>
+    <Close>0.159665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-11</Date>
+    <Open>0.159463</Open>
+    <High>0.165725</High>
+    <Low>0.133458</Low>
+    <Close>0.143249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-12</Date>
+    <Open>0.143654</Open>
+    <High>0.169177</High>
+    <Low>0.142551</Low>
+    <Close>0.167683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-13</Date>
+    <Open>0.167481</Open>
+    <High>0.277894</High>
+    <Low>0.165966</Low>
+    <Close>0.274792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-14</Date>
+    <Open>0.274591</Open>
+    <High>0.351151</High>
+    <Low>0.241167</Low>
+    <Close>0.305453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-15</Date>
+    <Open>0.305252</Open>
+    <High>0.36754</High>
+    <Low>0.247842</Low>
+    <Close>0.274649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-16</Date>
+    <Open>0.274649</Open>
+    <High>0.309836</High>
+    <Low>0.262938</Low>
+    <Close>0.286603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-17</Date>
+    <Open>0.286704</Open>
+    <High>0.366622</High>
+    <Low>0.28335</Low>
+    <Close>0.35907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-18</Date>
+    <Open>0.35556</Open>
+    <High>0.436066</High>
+    <Low>0.354919</Low>
+    <Close>0.385148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-19</Date>
+    <Open>0.385349</Open>
+    <High>0.488155</High>
+    <Low>0.372964</Low>
+    <Close>0.467613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-20</Date>
+    <Open>0.467211</Open>
+    <High>0.46991</High>
+    <Low>0.392713</Low>
+    <Close>0.409891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-21</Date>
+    <Open>0.40969</Open>
+    <High>0.449507</High>
+    <Low>0.383633</Low>
+    <Close>0.403282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-22</Date>
+    <Open>0.403483</Open>
+    <High>0.422681</High>
+    <Low>0.36367</Low>
+    <Close>0.376027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-23</Date>
+    <Open>0.376128</Open>
+    <High>0.396442</High>
+    <Low>0.359006</Low>
+    <Close>0.380089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-24</Date>
+    <Open>0.379788</Open>
+    <High>0.38402</High>
+    <Low>0.321327</Low>
+    <Close>0.329465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-25</Date>
+    <Open>0.329565</Open>
+    <High>0.346319</High>
+    <Low>0.307455</Low>
+    <Close>0.310398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-26</Date>
+    <Open>0.310201</Open>
+    <High>0.348492</High>
+    <Low>0.308299</Low>
+    <Close>0.346591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-27</Date>
+    <Open>0.346681</Open>
+    <High>0.359469</High>
+    <Low>0.305207</Low>
+    <Close>0.31855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-28</Date>
+    <Open>0.31835</Open>
+    <High>0.357997</High>
+    <Low>0.308499</Low>
+    <Close>0.352634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-29</Date>
+    <Open>0.352437</Open>
+    <High>0.442815</High>
+    <Low>0.34809</Low>
+    <Close>0.431882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-30</Date>
+    <Open>0.432082</Open>
+    <High>0.443929</High>
+    <Low>0.391178</Low>
+    <Close>0.400312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-03-31</Date>
+    <Open>0.400412</Open>
+    <High>0.428094</High>
+    <Low>0.395728</Low>
+    <Close>0.415283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-01</Date>
+    <Open>0.415783</Open>
+    <High>0.427854</High>
+    <Low>0.390641</Low>
+    <Close>0.394042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-02</Date>
+    <Open>0.394346</Open>
+    <High>0.401669</High>
+    <Low>0.36195</Low>
+    <Close>0.367027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-03</Date>
+    <Open>0.366927</Open>
+    <High>0.398416</High>
+    <Low>0.346856</Low>
+    <Close>0.36014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-04</Date>
+    <Open>0.360244</Open>
+    <High>0.37958</High>
+    <Low>0.356564</Low>
+    <Close>0.370389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-05</Date>
+    <Open>0.370685</Open>
+    <High>0.406454</High>
+    <Low>0.363416</Low>
+    <Close>0.384638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-06</Date>
+    <Open>0.384542</Open>
+    <High>0.396123</High>
+    <Low>0.365861</Low>
+    <Close>0.370326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-07</Date>
+    <Open>0.370233</Open>
+    <High>0.38079</High>
+    <Low>0.360234</Low>
+    <Close>0.374477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-08</Date>
+    <Open>0.374477</Open>
+    <High>0.384046</High>
+    <Low>0.367217</Low>
+    <Close>0.372945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-09</Date>
+    <Open>0.372849</Open>
+    <High>0.37992</High>
+    <Low>0.360456</Low>
+    <Close>0.376526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-10</Date>
+    <Open>0.376752</Open>
+    <High>0.433495</High>
+    <Low>0.367562</Low>
+    <Close>0.420545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-11</Date>
+    <Open>0.420745</Open>
+    <High>0.44774</High>
+    <Low>0.405761</Low>
+    <Close>0.4087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-12</Date>
+    <Open>0.408204</Open>
+    <High>0.409401</High>
+    <Low>0.374125</Low>
+    <Close>0.382398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-13</Date>
+    <Open>0.382398</Open>
+    <High>0.401181</High>
+    <Low>0.374833</Low>
+    <Close>0.386571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-14</Date>
+    <Open>0.386771</Open>
+    <High>0.410828</High>
+    <Low>0.365318</Low>
+    <Close>0.378514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-15</Date>
+    <Open>0.378514</Open>
+    <High>0.384446</High>
+    <Low>0.370618</Low>
+    <Close>0.371734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-16</Date>
+    <Open>0.371534</Open>
+    <High>0.385154</High>
+    <Low>0.3709</Low>
+    <Close>0.382256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-17</Date>
+    <Open>0.38236</Open>
+    <High>0.38326</High>
+    <Low>0.351783</Low>
+    <Close>0.35671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-18</Date>
+    <Open>0.357011</Open>
+    <High>0.375231</High>
+    <Low>0.353355</Low>
+    <Close>0.367262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-19</Date>
+    <Open>0.367362</Open>
+    <High>0.3688</High>
+    <Low>0.312616</Low>
+    <Close>0.321977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-20</Date>
+    <Open>0.322274</Open>
+    <High>0.341748</High>
+    <Low>0.310727</Low>
+    <Close>0.329526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-21</Date>
+    <Open>0.329223</Open>
+    <High>0.333413</High>
+    <Low>0.289145</Low>
+    <Close>0.292568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-22</Date>
+    <Open>0.292368</Open>
+    <High>0.304903</High>
+    <Low>0.28182</Low>
+    <Close>0.29633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-23</Date>
+    <Open>0.296027</Open>
+    <High>0.298127</High>
+    <Low>0.27316</Low>
+    <Close>0.276214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-24</Date>
+    <Open>0.276214</Open>
+    <High>0.299776</High>
+    <Low>0.275003</Low>
+    <Close>0.294406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-25</Date>
+    <Open>0.294909</Open>
+    <High>0.314672</High>
+    <Low>0.276417</Low>
+    <Close>0.314272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-26</Date>
+    <Open>0.314272</Open>
+    <High>0.347628</High>
+    <Low>0.30006</Low>
+    <Close>0.322303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-27</Date>
+    <Open>0.322003</Open>
+    <High>0.340461</High>
+    <Low>0.31341</Low>
+    <Close>0.333013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-28</Date>
+    <Open>0.33321</Open>
+    <High>0.34716</High>
+    <Low>0.323739</Low>
+    <Close>0.339261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-29</Date>
+    <Open>0.339461</Open>
+    <High>0.339461</High>
+    <Low>0.321719</Low>
+    <Close>0.328694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-04-30</Date>
+    <Open>0.328594</Open>
+    <High>0.334554</High>
+    <Low>0.316796</Low>
+    <Close>0.320579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-01</Date>
+    <Open>0.319979</Open>
+    <High>0.322271</High>
+    <Low>0.297109</Low>
+    <Close>0.302782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-02</Date>
+    <Open>0.302779</Open>
+    <High>0.314666</High>
+    <Low>0.301972</Low>
+    <Close>0.309289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-03</Date>
+    <Open>0.309592</Open>
+    <High>0.328689</High>
+    <Low>0.299402</Low>
+    <Close>0.324284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-04</Date>
+    <Open>0.326488</Open>
+    <High>0.336808</High>
+    <Low>0.322439</Low>
+    <Close>0.323817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-05</Date>
+    <Open>0.323917</Open>
+    <High>0.333036</High>
+    <Low>0.314029</Low>
+    <Close>0.322493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-06</Date>
+    <Open>0.322593</Open>
+    <High>0.323723</High>
+    <Low>0.291778</Low>
+    <Close>0.295516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-07</Date>
+    <Open>0.295301</Open>
+    <High>0.298221</High>
+    <Low>0.285837</Low>
+    <Close>0.291443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-08</Date>
+    <Open>0.291666</Open>
+    <High>0.29445</High>
+    <Low>0.245889</Low>
+    <Close>0.246587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-09</Date>
+    <Open>0.247388</Open>
+    <High>0.268468</High>
+    <Low>0.24668</Low>
+    <Close>0.257157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-10</Date>
+    <Open>0.257357</Open>
+    <High>0.275102</High>
+    <Low>0.248573</Low>
+    <Close>0.269669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-11</Date>
+    <Open>0.26987</Open>
+    <High>0.276348</High>
+    <Low>0.242118</Low>
+    <Close>0.251226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-12</Date>
+    <Open>0.251852</Open>
+    <High>0.257832</High>
+    <Low>0.227814</Low>
+    <Close>0.243995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-13</Date>
+    <Open>0.244095</Open>
+    <High>0.257529</High>
+    <Low>0.244095</Low>
+    <Close>0.251326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-14</Date>
+    <Open>0.251626</Open>
+    <High>0.285771</High>
+    <Low>0.245047</Low>
+    <Close>0.277066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-15</Date>
+    <Open>0.276766</Open>
+    <High>0.293334</High>
+    <Low>0.271336</Low>
+    <Close>0.288102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-16</Date>
+    <Open>0.288102</Open>
+    <High>0.329798</High>
+    <Low>0.281997</Low>
+    <Close>0.319528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-17</Date>
+    <Open>0.319328</Open>
+    <High>0.319828</High>
+    <Low>0.294518</Low>
+    <Close>0.303252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-18</Date>
+    <Open>0.303221</Open>
+    <High>0.308993</High>
+    <Low>0.285714</Low>
+    <Close>0.297619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-19</Date>
+    <Open>0.297319</Open>
+    <High>0.314157</High>
+    <Low>0.292044</Low>
+    <Close>0.299787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-20</Date>
+    <Open>0.29985</Open>
+    <High>0.303721</High>
+    <Low>0.293076</Low>
+    <Close>0.299269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-21</Date>
+    <Open>0.299369</Open>
+    <High>0.311687</High>
+    <Low>0.291045</Low>
+    <Close>0.293276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-22</Date>
+    <Open>0.292846</Open>
+    <High>0.330198</High>
+    <Low>0.28407</Low>
+    <Close>0.324862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-23</Date>
+    <Open>0.324862</Open>
+    <High>0.348638</High>
+    <Low>0.313038</Low>
+    <Close>0.314816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-24</Date>
+    <Open>0.314919</Open>
+    <High>0.323377</High>
+    <Low>0.301579</Low>
+    <Close>0.310881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-25</Date>
+    <Open>0.310884</Open>
+    <High>0.314697</High>
+    <Low>0.300782</Low>
+    <Close>0.309506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-26</Date>
+    <Open>0.309524</Open>
+    <High>0.310234</High>
+    <Low>0.302324</Low>
+    <Close>0.304867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-27</Date>
+    <Open>0.304891</Open>
+    <High>0.326208</High>
+    <Low>0.30039</Low>
+    <Close>0.322419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CFX">
+    <Date>2023-05-28</Date>
+    <Open>0.322619</Open>
+    <High>0.329792</High>
+    <Low>0.316927</Low>
+    <Close>0.325575</Close>
+  </Cryptocurrency>
+</Root>

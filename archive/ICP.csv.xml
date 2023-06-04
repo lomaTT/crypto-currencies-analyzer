@@ -1,0 +1,5253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-10</Date>
+    <Open>630.0</Open>
+    <High>630.0</High>
+    <Low>250.32</Low>
+    <Close>426.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-11</Date>
+    <Open>423.42</Open>
+    <High>497.7</High>
+    <Low>297.67</Low>
+    <Close>363.71</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-12</Date>
+    <Open>363.71</Open>
+    <High>389.05</High>
+    <Low>255.55</Low>
+    <Close>258.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-13</Date>
+    <Open>258.41</Open>
+    <High>346.8</High>
+    <Low>253.35</Low>
+    <Close>301.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-14</Date>
+    <Open>301.36</Open>
+    <High>341.3</High>
+    <Low>291.96</Low>
+    <Close>304.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-15</Date>
+    <Open>304.46</Open>
+    <High>305.27</High>
+    <Low>240.09</Low>
+    <Close>246.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-16</Date>
+    <Open>246.25</Open>
+    <High>264.2</High>
+    <Low>205.46</Low>
+    <Close>225.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-17</Date>
+    <Open>225.2</Open>
+    <High>225.52</High>
+    <Low>185.12</Low>
+    <Close>195.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-18</Date>
+    <Open>195.97</Open>
+    <High>206.0</High>
+    <Low>160.5</Low>
+    <Close>163.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-19</Date>
+    <Open>163.87</Open>
+    <High>179.95</High>
+    <Low>88.14</Low>
+    <Close>122.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-20</Date>
+    <Open>123.64</Open>
+    <High>224.53</High>
+    <Low>104.07</Low>
+    <Close>164.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-21</Date>
+    <Open>164.72</Open>
+    <High>187.21</High>
+    <Low>120.33</Low>
+    <Close>146.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-22</Date>
+    <Open>146.17</Open>
+    <High>169.31</High>
+    <Low>125.11</Low>
+    <Close>146.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-23</Date>
+    <Open>146.44</Open>
+    <High>165.79</High>
+    <Low>122.0</Low>
+    <Close>144.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-24</Date>
+    <Open>144.3</Open>
+    <High>163.78</High>
+    <Low>135.65</Low>
+    <Close>147.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-25</Date>
+    <Open>147.83</Open>
+    <High>156.99</High>
+    <Low>123.07</Low>
+    <Close>134.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-26</Date>
+    <Open>134.17</Open>
+    <High>152.26</High>
+    <Low>132.13</Low>
+    <Close>142.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-27</Date>
+    <Open>142.74</Open>
+    <High>145.89</High>
+    <Low>129.89</Low>
+    <Close>132.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-28</Date>
+    <Open>132.15</Open>
+    <High>132.89</High>
+    <Low>110.13</Low>
+    <Close>115.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-29</Date>
+    <Open>115.82</Open>
+    <High>120.0</High>
+    <Low>105.72</Low>
+    <Close>110.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-30</Date>
+    <Open>110.62</Open>
+    <High>118.45</High>
+    <Low>104.45</Low>
+    <Close>111.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-05-31</Date>
+    <Open>111.83</Open>
+    <High>115.24</High>
+    <Low>105.22</Low>
+    <Close>114.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-01</Date>
+    <Open>114.82</Open>
+    <High>117.0</High>
+    <Low>106.0</Low>
+    <Close>107.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-02</Date>
+    <Open>107.55</Open>
+    <High>112.94</High>
+    <Low>102.35</Low>
+    <Close>107.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-03</Date>
+    <Open>107.89</Open>
+    <High>136.41</High>
+    <Low>105.22</Low>
+    <Close>124.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-04</Date>
+    <Open>124.54</Open>
+    <High>124.69</High>
+    <Low>105.49</Low>
+    <Close>108.86</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-05</Date>
+    <Open>108.86</Open>
+    <High>116.22</High>
+    <Low>100.0</Low>
+    <Close>104.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-06</Date>
+    <Open>104.62</Open>
+    <High>109.98</High>
+    <Low>102.49</Low>
+    <Close>104.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-07</Date>
+    <Open>104.44</Open>
+    <High>106.69</High>
+    <Low>89.08</Low>
+    <Close>91.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-08</Date>
+    <Open>91.38</Open>
+    <High>94.8</High>
+    <Low>77.0</Low>
+    <Close>81.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-09</Date>
+    <Open>81.39</Open>
+    <High>88.96</High>
+    <Low>77.11</Low>
+    <Close>81.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-10</Date>
+    <Open>81.51</Open>
+    <High>83.65</High>
+    <Low>65.5</Low>
+    <Close>66.51</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-11</Date>
+    <Open>66.51</Open>
+    <High>72.33</High>
+    <Low>56.17</Low>
+    <Close>58.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-12</Date>
+    <Open>58.44</Open>
+    <High>67.6</High>
+    <Low>53.03</Low>
+    <Close>61.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-13</Date>
+    <Open>61.08</Open>
+    <High>66.75</High>
+    <Low>57.19</Low>
+    <Close>64.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-14</Date>
+    <Open>64.43</Open>
+    <High>70.76</High>
+    <Low>61.93</Low>
+    <Close>66.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-15</Date>
+    <Open>66.72</Open>
+    <High>68.87</High>
+    <Low>58.62</Low>
+    <Close>60.37</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-16</Date>
+    <Open>60.37</Open>
+    <High>60.39</High>
+    <Low>54.74</Low>
+    <Close>55.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-17</Date>
+    <Open>55.33</Open>
+    <High>60.18</High>
+    <Low>51.54</Low>
+    <Close>54.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-18</Date>
+    <Open>54.09</Open>
+    <High>55.59</High>
+    <Low>47.02</Low>
+    <Close>48.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-19</Date>
+    <Open>48.44</Open>
+    <High>54.84</High>
+    <Low>46.39</Low>
+    <Close>48.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-20</Date>
+    <Open>48.76</Open>
+    <High>50.74</High>
+    <Low>44.16</Low>
+    <Close>47.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-21</Date>
+    <Open>47.15</Open>
+    <High>47.66</High>
+    <Low>36.27</Low>
+    <Close>36.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-22</Date>
+    <Open>36.67</Open>
+    <High>40.16</High>
+    <Low>31.87</Low>
+    <Close>34.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-23</Date>
+    <Open>34.47</Open>
+    <High>40.92</High>
+    <Low>32.86</Low>
+    <Close>37.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-24</Date>
+    <Open>37.74</Open>
+    <High>38.89</High>
+    <Low>33.14</Low>
+    <Close>34.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-25</Date>
+    <Open>34.59</Open>
+    <High>36.69</High>
+    <Low>30.68</Low>
+    <Close>31.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-26</Date>
+    <Open>31.1</Open>
+    <High>33.77</High>
+    <Low>28.32</Low>
+    <Close>30.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-27</Date>
+    <Open>30.38</Open>
+    <High>45.31</High>
+    <Low>29.5</Low>
+    <Close>43.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-28</Date>
+    <Open>43.03</Open>
+    <High>51.49</High>
+    <Low>40.51</Low>
+    <Close>51.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-29</Date>
+    <Open>51.26</Open>
+    <High>59.42</High>
+    <Low>46.8</Low>
+    <Close>54.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-06-30</Date>
+    <Open>54.23</Open>
+    <High>54.67</High>
+    <Low>43.25</Low>
+    <Close>49.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-01</Date>
+    <Open>49.92</Open>
+    <High>50.75</High>
+    <Low>44.2</Low>
+    <Close>45.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-02</Date>
+    <Open>45.7</Open>
+    <High>47.4</High>
+    <Low>41.44</Low>
+    <Close>43.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-03</Date>
+    <Open>43.88</Open>
+    <High>49.98</High>
+    <Low>42.73</Low>
+    <Close>48.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-04</Date>
+    <Open>48.76</Open>
+    <High>50.93</High>
+    <Low>46.45</Low>
+    <Close>46.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-05</Date>
+    <Open>46.73</Open>
+    <High>47.99</High>
+    <Low>44.09</Low>
+    <Close>46.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-06</Date>
+    <Open>46.24</Open>
+    <High>48.39</High>
+    <Low>45.0</Low>
+    <Close>46.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-07</Date>
+    <Open>46.23</Open>
+    <High>47.94</High>
+    <Low>45.0</Low>
+    <Close>45.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-08</Date>
+    <Open>45.38</Open>
+    <High>45.48</High>
+    <Low>39.16</Low>
+    <Close>40.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-09</Date>
+    <Open>40.26</Open>
+    <High>42.48</High>
+    <Low>37.29</Low>
+    <Close>40.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-10</Date>
+    <Open>40.59</Open>
+    <High>42.1</High>
+    <Low>37.62</Low>
+    <Close>38.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-11</Date>
+    <Open>38.61</Open>
+    <High>41.44</High>
+    <Low>37.75</Low>
+    <Close>39.69</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-12</Date>
+    <Open>39.69</Open>
+    <High>40.96</High>
+    <Low>35.93</Low>
+    <Close>37.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-13</Date>
+    <Open>37.22</Open>
+    <High>39.93</High>
+    <Low>35.25</Low>
+    <Close>38.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-14</Date>
+    <Open>38.93</Open>
+    <High>39.85</High>
+    <Low>35.29</Low>
+    <Close>36.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-15</Date>
+    <Open>36.88</Open>
+    <High>38.37</High>
+    <Low>35.31</Low>
+    <Close>35.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-16</Date>
+    <Open>35.96</Open>
+    <High>36.15</High>
+    <Low>32.18</Low>
+    <Close>32.39</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-17</Date>
+    <Open>32.39</Open>
+    <High>33.51</High>
+    <Low>31.18</Low>
+    <Close>32.3</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-18</Date>
+    <Open>32.3</Open>
+    <High>34.82</High>
+    <Low>31.96</Low>
+    <Close>32.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-19</Date>
+    <Open>32.38</Open>
+    <High>32.58</High>
+    <Low>29.87</Low>
+    <Close>30.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-20</Date>
+    <Open>30.91</Open>
+    <High>31.54</High>
+    <Low>26.98</Low>
+    <Close>28.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-21</Date>
+    <Open>28.54</Open>
+    <High>35.1</High>
+    <Low>27.77</Low>
+    <Close>33.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-22</Date>
+    <Open>33.41</Open>
+    <High>35.38</High>
+    <Low>32.23</Low>
+    <Close>33.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-23</Date>
+    <Open>33.76</Open>
+    <High>35.07</High>
+    <Low>31.74</Low>
+    <Close>34.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-24</Date>
+    <Open>34.65</Open>
+    <High>45.69</High>
+    <Low>33.91</Low>
+    <Close>43.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-25</Date>
+    <Open>43.49</Open>
+    <High>46.05</High>
+    <Low>40.46</Low>
+    <Close>42.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-26</Date>
+    <Open>42.65</Open>
+    <High>48.14</High>
+    <Low>40.51</Low>
+    <Close>40.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-27</Date>
+    <Open>40.58</Open>
+    <High>41.72</High>
+    <Low>37.53</Low>
+    <Close>41.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-28</Date>
+    <Open>41.02</Open>
+    <High>43.81</High>
+    <Low>39.29</Low>
+    <Close>40.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-29</Date>
+    <Open>40.74</Open>
+    <High>41.88</High>
+    <Low>39.07</Low>
+    <Close>41.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-30</Date>
+    <Open>41.23</Open>
+    <High>42.72</High>
+    <Low>38.31</Low>
+    <Close>42.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-07-31</Date>
+    <Open>42.19</Open>
+    <High>43.91</High>
+    <Low>40.41</Low>
+    <Close>41.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-01</Date>
+    <Open>41.82</Open>
+    <High>44.6</High>
+    <Low>40.7</Low>
+    <Close>40.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-02</Date>
+    <Open>40.9</Open>
+    <High>41.49</High>
+    <Low>39.77</Low>
+    <Close>40.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-03</Date>
+    <Open>40.19</Open>
+    <High>40.65</High>
+    <Low>37.61</Low>
+    <Close>38.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-04</Date>
+    <Open>38.54</Open>
+    <High>40.42</High>
+    <Low>37.81</Low>
+    <Close>39.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-05</Date>
+    <Open>39.32</Open>
+    <High>42.72</High>
+    <Low>38.2</Low>
+    <Close>42.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-06</Date>
+    <Open>42.09</Open>
+    <High>51.93</High>
+    <Low>40.48</Low>
+    <Close>48.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-07</Date>
+    <Open>48.27</Open>
+    <High>66.08</High>
+    <Low>47.88</Low>
+    <Close>61.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-08</Date>
+    <Open>61.7</Open>
+    <High>62.22</High>
+    <Low>53.3</Low>
+    <Close>55.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-09</Date>
+    <Open>55.27</Open>
+    <High>68.8</High>
+    <Low>52.81</Low>
+    <Close>64.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-10</Date>
+    <Open>64.24</Open>
+    <High>76.46</High>
+    <Low>61.42</Low>
+    <Close>71.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-11</Date>
+    <Open>71.63</Open>
+    <High>76.95</High>
+    <Low>65.68</Low>
+    <Close>67.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-12</Date>
+    <Open>65.29</Open>
+    <High>65.84</High>
+    <Low>60.1</Low>
+    <Close>64.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-13</Date>
+    <Open>64.08</Open>
+    <High>68.89</High>
+    <Low>62.68</Low>
+    <Close>68.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-14</Date>
+    <Open>68.21</Open>
+    <High>68.42</High>
+    <Low>62.2</Low>
+    <Close>64.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-15</Date>
+    <Open>64.25</Open>
+    <High>65.02</High>
+    <Low>58.58</Low>
+    <Close>63.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-16</Date>
+    <Open>63.47</Open>
+    <High>67.82</High>
+    <Low>60.43</Low>
+    <Close>61.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-17</Date>
+    <Open>61.07</Open>
+    <High>64.2</High>
+    <Low>54.51</Low>
+    <Close>56.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-18</Date>
+    <Open>56.07</Open>
+    <High>61.51</High>
+    <Low>54.51</Low>
+    <Close>58.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-19</Date>
+    <Open>58.4</Open>
+    <High>69.04</High>
+    <Low>57.87</Low>
+    <Close>67.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-20</Date>
+    <Open>67.08</Open>
+    <High>70.94</High>
+    <Low>65.68</Low>
+    <Close>67.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-21</Date>
+    <Open>67.87</Open>
+    <High>69.47</High>
+    <Low>64.27</Low>
+    <Close>64.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-22</Date>
+    <Open>64.63</Open>
+    <High>67.03</High>
+    <Low>61.79</Low>
+    <Close>64.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-23</Date>
+    <Open>64.63</Open>
+    <High>67.59</High>
+    <Low>63.49</Low>
+    <Close>65.63</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-24</Date>
+    <Open>65.63</Open>
+    <High>66.85</High>
+    <Low>58.21</Low>
+    <Close>59.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-25</Date>
+    <Open>59.24</Open>
+    <High>63.73</High>
+    <Low>56.24</Low>
+    <Close>62.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-26</Date>
+    <Open>62.17</Open>
+    <High>63.18</High>
+    <Low>56.05</Low>
+    <Close>56.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-27</Date>
+    <Open>56.56</Open>
+    <High>63.66</High>
+    <Low>54.58</Low>
+    <Close>62.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-28</Date>
+    <Open>62.78</Open>
+    <High>68.61</High>
+    <Low>61.86</Low>
+    <Close>65.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-29</Date>
+    <Open>65.15</Open>
+    <High>74.82</High>
+    <Low>61.67</Low>
+    <Close>72.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-30</Date>
+    <Open>72.12</Open>
+    <High>73.12</High>
+    <Low>63.79</Low>
+    <Close>64.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-08-31</Date>
+    <Open>64.73</Open>
+    <High>67.62</High>
+    <Low>61.86</Low>
+    <Close>62.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-01</Date>
+    <Open>62.84</Open>
+    <High>66.41</High>
+    <Low>60.54</Low>
+    <Close>66.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-02</Date>
+    <Open>66.23</Open>
+    <High>68.84</High>
+    <Low>64.38</Low>
+    <Close>64.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-03</Date>
+    <Open>64.55</Open>
+    <High>68.45</High>
+    <Low>63.34</Low>
+    <Close>65.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-04</Date>
+    <Open>65.81</Open>
+    <High>78.79</High>
+    <Low>65.42</Low>
+    <Close>78.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-05</Date>
+    <Open>78.35</Open>
+    <High>83.57</High>
+    <Low>76.12</Low>
+    <Close>79.33</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-06</Date>
+    <Open>79.33</Open>
+    <High>86.92</High>
+    <Low>77.03</Low>
+    <Close>79.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-07</Date>
+    <Open>79.53</Open>
+    <High>80.63</High>
+    <Low>55.88</Low>
+    <Close>61.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-08</Date>
+    <Open>61.17</Open>
+    <High>63.83</High>
+    <Low>55.56</Low>
+    <Close>61.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-09</Date>
+    <Open>61.52</Open>
+    <High>64.6</High>
+    <Low>58.77</Low>
+    <Close>60.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-10</Date>
+    <Open>60.77</Open>
+    <High>63.03</High>
+    <Low>54.61</Low>
+    <Close>56.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-11</Date>
+    <Open>56.89</Open>
+    <High>61.92</High>
+    <Low>55.55</Low>
+    <Close>58.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-12</Date>
+    <Open>58.07</Open>
+    <High>61.82</High>
+    <Low>56.39</Low>
+    <Close>59.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-13</Date>
+    <Open>59.46</Open>
+    <High>60.23</High>
+    <Low>50.63</Low>
+    <Close>55.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-14</Date>
+    <Open>55.05</Open>
+    <High>58.78</High>
+    <Low>54.42</Low>
+    <Close>56.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-15</Date>
+    <Open>56.91</Open>
+    <High>62.18</High>
+    <Low>56.7</Low>
+    <Close>61.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-16</Date>
+    <Open>61.38</Open>
+    <High>61.64</High>
+    <Low>56.66</Low>
+    <Close>57.93</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-17</Date>
+    <Open>57.93</Open>
+    <High>58.58</High>
+    <Low>55.06</Low>
+    <Close>56.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-18</Date>
+    <Open>56.44</Open>
+    <High>61.16</High>
+    <Low>55.5</Low>
+    <Close>58.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-19</Date>
+    <Open>58.61</Open>
+    <High>58.84</High>
+    <Low>56.21</Low>
+    <Close>57.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-20</Date>
+    <Open>57.17</Open>
+    <High>57.33</High>
+    <Low>45.9</Low>
+    <Close>47.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-21</Date>
+    <Open>47.56</Open>
+    <High>50.08</High>
+    <Low>42.47</Low>
+    <Close>44.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-22</Date>
+    <Open>44.77</Open>
+    <High>51.57</High>
+    <Low>44.07</Low>
+    <Close>49.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-23</Date>
+    <Open>49.89</Open>
+    <High>52.23</High>
+    <Low>48.85</Low>
+    <Close>50.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-24</Date>
+    <Open>50.62</Open>
+    <High>51.46</High>
+    <Low>42.21</Low>
+    <Close>46.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-25</Date>
+    <Open>46.14</Open>
+    <High>47.13</High>
+    <Low>44.14</Low>
+    <Close>45.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-26</Date>
+    <Open>45.83</Open>
+    <High>45.96</High>
+    <Low>39.74</Low>
+    <Close>43.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-27</Date>
+    <Open>43.72</Open>
+    <High>46.67</High>
+    <Low>42.29</Low>
+    <Close>42.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-28</Date>
+    <Open>42.45</Open>
+    <High>43.8</High>
+    <Low>40.75</Low>
+    <Close>40.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-29</Date>
+    <Open>40.89</Open>
+    <High>45.73</High>
+    <Low>40.62</Low>
+    <Close>44.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-09-30</Date>
+    <Open>44.4</Open>
+    <High>45.58</High>
+    <Low>43.44</Low>
+    <Close>45.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-01</Date>
+    <Open>45.09</Open>
+    <High>52.57</High>
+    <Low>44.84</Low>
+    <Close>51.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-02</Date>
+    <Open>51.68</Open>
+    <High>52.49</High>
+    <Low>49.28</Low>
+    <Close>49.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-03</Date>
+    <Open>49.56</Open>
+    <High>51.45</High>
+    <Low>48.34</Low>
+    <Close>50.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-04</Date>
+    <Open>50.35</Open>
+    <High>50.35</High>
+    <Low>47.16</Low>
+    <Close>48.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-05</Date>
+    <Open>48.99</Open>
+    <High>57.26</High>
+    <Low>48.36</Low>
+    <Close>54.47</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-06</Date>
+    <Open>54.47</Open>
+    <High>56.93</High>
+    <Low>50.58</Low>
+    <Close>52.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-07</Date>
+    <Open>52.75</Open>
+    <High>54.4</High>
+    <Low>50.71</Low>
+    <Close>50.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-08</Date>
+    <Open>50.92</Open>
+    <High>52.22</High>
+    <Low>48.64</Low>
+    <Close>49.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-09</Date>
+    <Open>49.2</Open>
+    <High>51.8</High>
+    <Low>48.57</Low>
+    <Close>49.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-10</Date>
+    <Open>49.54</Open>
+    <High>49.55</High>
+    <Low>44.42</Low>
+    <Close>44.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-11</Date>
+    <Open>44.92</Open>
+    <High>47.12</High>
+    <Low>43.31</Low>
+    <Close>45.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-12</Date>
+    <Open>45.02</Open>
+    <High>45.05</High>
+    <Low>40.74</Low>
+    <Close>43.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-13</Date>
+    <Open>43.17</Open>
+    <High>44.32</High>
+    <Low>40.43</Low>
+    <Close>43.15</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-14</Date>
+    <Open>43.15</Open>
+    <High>45.4</High>
+    <Low>42.32</Low>
+    <Close>42.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-15</Date>
+    <Open>42.85</Open>
+    <High>44.34</High>
+    <Low>41.34</Low>
+    <Close>43.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-16</Date>
+    <Open>43.11</Open>
+    <High>47.46</High>
+    <Low>42.9</Low>
+    <Close>45.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-17</Date>
+    <Open>45.96</Open>
+    <High>46.82</High>
+    <Low>42.25</Low>
+    <Close>44.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-18</Date>
+    <Open>44.1</Open>
+    <High>44.53</High>
+    <Low>42.17</Low>
+    <Close>43.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-19</Date>
+    <Open>43.84</Open>
+    <High>45.37</High>
+    <Low>42.92</Low>
+    <Close>43.78</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-20</Date>
+    <Open>43.78</Open>
+    <High>48.06</High>
+    <Low>43.37</Low>
+    <Close>46.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-21</Date>
+    <Open>46.94</Open>
+    <High>48.45</High>
+    <Low>44.38</Low>
+    <Close>44.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-22</Date>
+    <Open>44.66</Open>
+    <High>46.32</High>
+    <Low>44.01</Low>
+    <Close>45.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-23</Date>
+    <Open>45.01</Open>
+    <High>46.12</High>
+    <Low>44.12</Low>
+    <Close>45.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-24</Date>
+    <Open>45.43</Open>
+    <High>45.47</High>
+    <Low>42.3</Low>
+    <Close>43.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-25</Date>
+    <Open>43.34</Open>
+    <High>49.43</High>
+    <Low>43.14</Low>
+    <Close>48.84</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-26</Date>
+    <Open>48.84</Open>
+    <High>51.67</High>
+    <Low>46.04</Low>
+    <Close>46.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-27</Date>
+    <Open>46.81</Open>
+    <High>47.83</High>
+    <Low>38.66</Low>
+    <Close>40.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-28</Date>
+    <Open>40.73</Open>
+    <High>44.24</High>
+    <Low>40.52</Low>
+    <Close>43.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-29</Date>
+    <Open>43.2</Open>
+    <High>45.82</High>
+    <Low>42.71</Low>
+    <Close>45.34</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-30</Date>
+    <Open>45.34</Open>
+    <High>45.47</High>
+    <Low>42.47</Low>
+    <Close>43.44</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-10-31</Date>
+    <Open>43.44</Open>
+    <High>46.77</High>
+    <Low>43.06</Low>
+    <Close>45.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-01</Date>
+    <Open>45.0</Open>
+    <High>47.18</High>
+    <Low>43.22</Low>
+    <Close>46.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-02</Date>
+    <Open>46.96</Open>
+    <High>48.98</High>
+    <Low>45.48</Low>
+    <Close>47.26</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-03</Date>
+    <Open>47.26</Open>
+    <High>48.16</High>
+    <Low>44.83</Low>
+    <Close>46.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-04</Date>
+    <Open>46.68</Open>
+    <High>48.05</High>
+    <Low>44.87</Low>
+    <Close>46.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-05</Date>
+    <Open>46.09</Open>
+    <High>54.97</High>
+    <Low>45.4</Low>
+    <Close>49.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-06</Date>
+    <Open>49.45</Open>
+    <High>52.06</High>
+    <Low>46.57</Low>
+    <Close>49.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-07</Date>
+    <Open>49.58</Open>
+    <High>53.95</High>
+    <Low>48.92</Low>
+    <Close>53.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-08</Date>
+    <Open>53.57</Open>
+    <High>58.21</High>
+    <Low>51.54</Low>
+    <Close>54.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-09</Date>
+    <Open>54.72</Open>
+    <High>57.1</High>
+    <Low>52.28</Low>
+    <Close>52.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-10</Date>
+    <Open>52.5</Open>
+    <High>54.61</High>
+    <Low>43.59</Low>
+    <Close>48.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-11</Date>
+    <Open>48.23</Open>
+    <High>49.17</High>
+    <Low>46.32</Low>
+    <Close>47.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-12</Date>
+    <Open>47.72</Open>
+    <High>48.62</High>
+    <Low>44.42</Low>
+    <Close>46.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-13</Date>
+    <Open>46.36</Open>
+    <High>48.98</High>
+    <Low>45.48</Low>
+    <Close>48.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-14</Date>
+    <Open>48.45</Open>
+    <High>49.79</High>
+    <Low>46.82</Low>
+    <Close>48.31</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-15</Date>
+    <Open>48.31</Open>
+    <High>49.27</High>
+    <Low>46.15</Low>
+    <Close>46.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-16</Date>
+    <Open>46.82</Open>
+    <High>46.89</High>
+    <Low>40.61</Low>
+    <Close>42.58</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-17</Date>
+    <Open>42.58</Open>
+    <High>43.38</High>
+    <Low>40.69</Low>
+    <Close>42.95</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-18</Date>
+    <Open>42.95</Open>
+    <High>43.34</High>
+    <Low>38.19</Low>
+    <Close>39.9</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-19</Date>
+    <Open>39.9</Open>
+    <High>42.73</High>
+    <Low>39.13</Low>
+    <Close>41.92</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-20</Date>
+    <Open>41.92</Open>
+    <High>44.24</High>
+    <Low>41.23</Low>
+    <Close>43.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-21</Date>
+    <Open>43.49</Open>
+    <High>45.72</High>
+    <Low>42.94</Low>
+    <Close>43.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-22</Date>
+    <Open>43.28</Open>
+    <High>43.45</High>
+    <Low>40.8</Low>
+    <Close>41.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-23</Date>
+    <Open>41.65</Open>
+    <High>42.61</High>
+    <Low>40.79</Low>
+    <Close>42.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-24</Date>
+    <Open>42.02</Open>
+    <High>42.26</High>
+    <Low>40.133</Low>
+    <Close>40.995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-25</Date>
+    <Open>41.008</Open>
+    <High>44.238</High>
+    <Low>40.321</Low>
+    <Close>43.031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-26</Date>
+    <Open>43.05</Open>
+    <High>45.919</High>
+    <Low>38.567</Low>
+    <Close>39.673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-27</Date>
+    <Open>39.7</Open>
+    <High>44.702</High>
+    <Low>39.338</Low>
+    <Close>42.283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-28</Date>
+    <Open>42.24</Open>
+    <High>42.419</High>
+    <Low>39.558</Low>
+    <Close>40.987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-29</Date>
+    <Open>40.93</Open>
+    <High>42.631</High>
+    <Low>40.93</Low>
+    <Close>42.387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-11-30</Date>
+    <Open>42.385</Open>
+    <High>42.774</High>
+    <Low>40.24</Low>
+    <Close>41.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-01</Date>
+    <Open>41.194</Open>
+    <High>42.947</High>
+    <Low>40.479</Low>
+    <Close>40.852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-02</Date>
+    <Open>40.904</Open>
+    <High>41.092</High>
+    <Low>39.746</Low>
+    <Close>40.423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-03</Date>
+    <Open>40.417</Open>
+    <High>41.411</High>
+    <Low>35.66</Low>
+    <Close>37.779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-04</Date>
+    <Open>37.797</Open>
+    <High>38.149</High>
+    <Low>25.606</Low>
+    <Close>31.978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-05</Date>
+    <Open>31.979</Open>
+    <High>32.347</High>
+    <Low>28.3</Low>
+    <Close>30.581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-06</Date>
+    <Open>30.606</Open>
+    <High>30.754</High>
+    <Low>26.76</Low>
+    <Close>30.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-07</Date>
+    <Open>30.38</Open>
+    <High>31.283</High>
+    <Low>29.094</Low>
+    <Close>29.294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-08</Date>
+    <Open>29.185</Open>
+    <High>33.297</High>
+    <Low>29.096</Low>
+    <Close>30.894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-09</Date>
+    <Open>31.012</Open>
+    <High>31.743</High>
+    <Low>28.106</Low>
+    <Close>28.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-10</Date>
+    <Open>28.57</Open>
+    <High>29.46</High>
+    <Low>26.5</Low>
+    <Close>27.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-11</Date>
+    <Open>27.06</Open>
+    <High>28.5</High>
+    <Low>26.14</Low>
+    <Close>27.65</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-12</Date>
+    <Open>27.63</Open>
+    <High>28.97</High>
+    <Low>27.05</Low>
+    <Close>28.64</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-13</Date>
+    <Open>28.63</Open>
+    <High>29.0</High>
+    <Low>24.38</Low>
+    <Close>25.55</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-14</Date>
+    <Open>25.5</Open>
+    <High>25.711</High>
+    <Low>24.26</Low>
+    <Close>25.28</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-15</Date>
+    <Open>25.21</Open>
+    <High>26.6907</High>
+    <Low>23.6718</Low>
+    <Close>25.7955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-16</Date>
+    <Open>25.7955</Open>
+    <High>26.4732</High>
+    <Low>24.3849</Low>
+    <Close>24.7774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-17</Date>
+    <Open>24.7774</Open>
+    <High>24.8799</High>
+    <Low>22.7891</Low>
+    <Close>23.5994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-18</Date>
+    <Open>23.5894</Open>
+    <High>24.0696</High>
+    <Low>22.8191</Low>
+    <Close>23.5594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-19</Date>
+    <Open>23.5594</Open>
+    <High>24.2797</High>
+    <Low>22.409</Low>
+    <Close>23.0092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-20</Date>
+    <Open>23.0115</Open>
+    <High>23.0392</High>
+    <Low>20.8942</Low>
+    <Close>21.6565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-21</Date>
+    <Open>21.6587</Open>
+    <High>23.4794</High>
+    <Low>21.4486</Low>
+    <Close>23.3393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-22</Date>
+    <Open>23.3393</Open>
+    <High>24.2197</High>
+    <Low>22.8368</Low>
+    <Close>23.8419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-23</Date>
+    <Open>23.8419</Open>
+    <High>27.9212</High>
+    <Low>22.9369</Low>
+    <Close>26.9135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-24</Date>
+    <Open>26.9108</Open>
+    <High>28.7444</High>
+    <Low>26.4432</Low>
+    <Close>27.1336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-25</Date>
+    <Open>27.1563</Open>
+    <High>28.7272</High>
+    <Low>26.5759</Low>
+    <Close>27.1909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-26</Date>
+    <Open>27.2009</Open>
+    <High>27.924</High>
+    <Low>25.8429</Low>
+    <Close>26.8434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-27</Date>
+    <Open>26.8334</Open>
+    <High>29.909</High>
+    <Low>26.5733</Low>
+    <Close>28.7086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-28</Date>
+    <Open>28.7086</Open>
+    <High>28.7586</High>
+    <Low>24.4124</Low>
+    <Close>24.9925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-29</Date>
+    <Open>24.975</Open>
+    <High>25.3251</High>
+    <Low>23.6</Low>
+    <Close>24.3049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-30</Date>
+    <Open>24.2949</Open>
+    <High>26.0426</High>
+    <Low>23.2623</Low>
+    <Close>24.5649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2021-12-31</Date>
+    <Open>24.5849</Open>
+    <High>26.5927</High>
+    <Low>24.0024</Low>
+    <Close>24.5025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-01</Date>
+    <Open>24.5025</Open>
+    <High>26.0052</High>
+    <Low>24.3924</Low>
+    <Close>25.5351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-02</Date>
+    <Open>25.5726</Open>
+    <High>28.5629</High>
+    <Low>25.3851</Low>
+    <Close>27.4455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-03</Date>
+    <Open>27.4755</Open>
+    <High>29.39</High>
+    <Low>26.5226</Low>
+    <Close>28.9729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-04</Date>
+    <Open>28.9829</Open>
+    <High>35.5364</High>
+    <Low>27.8172</Low>
+    <Close>35.2365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-05</Date>
+    <Open>35.2165</Open>
+    <High>37.85</High>
+    <Low>29.15</Low>
+    <Close>30.9369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-06</Date>
+    <Open>30.87</Open>
+    <High>32.6067</High>
+    <Low>28.5771</Low>
+    <Close>30.9869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-07</Date>
+    <Open>30.9424</Open>
+    <High>32.4403</High>
+    <Low>27.2046</Low>
+    <Close>30.4669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-08</Date>
+    <Open>30.4569</Open>
+    <High>33.9266</High>
+    <Low>30.097</Low>
+    <Close>33.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-09</Date>
+    <Open>33.41</Open>
+    <High>37.31</High>
+    <Low>32.7467</Low>
+    <Close>35.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-10</Date>
+    <Open>35.71</Open>
+    <High>37.78</High>
+    <Low>32.22</Low>
+    <Close>33.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-11</Date>
+    <Open>33.33</Open>
+    <High>37.03</High>
+    <Low>33.27</Low>
+    <Close>33.9234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-12</Date>
+    <Open>33.87</Open>
+    <High>35.9244</High>
+    <Low>32.6233</Low>
+    <Close>34.6038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-13</Date>
+    <Open>34.6038</Open>
+    <High>35.074</High>
+    <Low>31.4126</Low>
+    <Close>31.4926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-14</Date>
+    <Open>31.4826</Open>
+    <High>33.1065</High>
+    <Low>31.0824</Low>
+    <Close>32.7398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-15</Date>
+    <Open>32.7731</Open>
+    <High>33.987</High>
+    <Low>31.7827</Low>
+    <Close>32.4762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-16</Date>
+    <Open>32.4962</Open>
+    <High>33.1366</High>
+    <Low>30.5122</Low>
+    <Close>31.4726</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-17</Date>
+    <Open>31.4926</Open>
+    <High>31.5026</High>
+    <Low>28.6486</Low>
+    <Close>29.4518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-18</Date>
+    <Open>29.4418</Open>
+    <High>31.7027</High>
+    <Low>28.1913</Low>
+    <Close>29.7189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-19</Date>
+    <Open>29.6989</Open>
+    <High>29.8219</High>
+    <Low>26.1852</Low>
+    <Close>26.798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-20</Date>
+    <Open>26.798</Open>
+    <High>28.6086</High>
+    <Low>25.1025</Low>
+    <Close>25.5051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-21</Date>
+    <Open>25.5051</Open>
+    <High>25.5451</High>
+    <Low>22.4945</Low>
+    <Close>23.0769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-22</Date>
+    <Open>23.1346</Open>
+    <High>25.3276</High>
+    <Low>18.0736</Low>
+    <Close>20.076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-23</Date>
+    <Open>20.076</Open>
+    <High>22.1444</High>
+    <Low>19.946</Low>
+    <Close>20.6841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-24</Date>
+    <Open>20.7141</Open>
+    <High>21.9266</High>
+    <Low>18.5337</Low>
+    <Close>20.5462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-25</Date>
+    <Open>20.5262</Open>
+    <High>21.3864</High>
+    <Low>19.6479</Low>
+    <Close>19.8599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-26</Date>
+    <Open>19.8799</Open>
+    <High>21.7609</High>
+    <Low>19.6518</Low>
+    <Close>19.8819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-27</Date>
+    <Open>19.8719</Open>
+    <High>20.07</High>
+    <Low>18.5111</Low>
+    <Close>19.3897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-28</Date>
+    <Open>19.3878</Open>
+    <High>20.6441</High>
+    <Low>18.9376</Low>
+    <Close>19.964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-29</Date>
+    <Open>19.964</Open>
+    <High>21.3564</High>
+    <Low>19.964</Low>
+    <Close>20.2461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-30</Date>
+    <Open>20.2461</Open>
+    <High>20.4761</High>
+    <Low>18.8575</Low>
+    <Close>19.2258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-01-31</Date>
+    <Open>19.2377</Open>
+    <High>20.05</High>
+    <Low>18.5374</Low>
+    <Close>19.7599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-01</Date>
+    <Open>19.7499</Open>
+    <High>20.5503</High>
+    <Low>19.6718</Low>
+    <Close>20.2101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-02</Date>
+    <Open>20.2121</Open>
+    <High>22.3289</High>
+    <Low>19.94</Low>
+    <Close>21.6795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-03</Date>
+    <Open>21.6795</Open>
+    <High>22.061</High>
+    <Low>20.032</Low>
+    <Close>20.6403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-04</Date>
+    <Open>20.6203</Open>
+    <High>22.0955</High>
+    <Low>20.4302</Low>
+    <Close>22.0276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-05</Date>
+    <Open>22.0176</Open>
+    <High>23.1662</High>
+    <Low>21.9075</Low>
+    <Close>22.3734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-06</Date>
+    <Open>22.3634</Open>
+    <High>24.2645</High>
+    <Low>22.2333</Low>
+    <Close>22.7991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-07</Date>
+    <Open>22.7791</Open>
+    <High>24.4347</High>
+    <Low>22.7559</Low>
+    <Close>24.1169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-08</Date>
+    <Open>24.1093</Open>
+    <High>24.6697</High>
+    <Low>22.2778</Low>
+    <Close>22.9506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-09</Date>
+    <Open>22.9807</Open>
+    <High>23.4264</High>
+    <Low>22.4457</Low>
+    <Close>23.1331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-10</Date>
+    <Open>23.1331</Open>
+    <High>23.2362</High>
+    <Low>21.5472</Low>
+    <Close>22.1255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-11</Date>
+    <Open>22.1255</Open>
+    <High>22.1355</High>
+    <Low>19.3577</Low>
+    <Close>19.5058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-12</Date>
+    <Open>19.4958</Open>
+    <High>20.5723</High>
+    <Low>19.1696</Low>
+    <Close>20.1501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-13</Date>
+    <Open>20.1601</Open>
+    <High>20.8204</High>
+    <Low>19.5198</Low>
+    <Close>19.972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-14</Date>
+    <Open>19.952</Open>
+    <High>21.2928</High>
+    <Low>19.2196</Low>
+    <Close>20.7925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-15</Date>
+    <Open>20.8025</Open>
+    <High>21.8031</High>
+    <Low>20.5803</Low>
+    <Close>21.623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-16</Date>
+    <Open>21.6651</Open>
+    <High>22.5458</High>
+    <Low>20.7224</Low>
+    <Close>22.2333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-17</Date>
+    <Open>22.2533</Open>
+    <High>22.4435</High>
+    <Low>19.6218</Low>
+    <Close>19.974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-18</Date>
+    <Open>19.962</Open>
+    <High>20.4022</High>
+    <Low>19.2115</Low>
+    <Close>19.4717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-19</Date>
+    <Open>19.4617</Open>
+    <High>20.4823</High>
+    <Low>19.1596</Low>
+    <Close>19.982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-20</Date>
+    <Open>19.998</Open>
+    <High>20.082</High>
+    <Low>18.2691</Low>
+    <Close>18.9295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-21</Date>
+    <Open>18.9295</Open>
+    <High>19.4578</High>
+    <Low>17.7471</Low>
+    <Close>18.0572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-22</Date>
+    <Open>18.049</Open>
+    <High>18.1873</High>
+    <Low>16.9351</Low>
+    <Close>17.6288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-23</Date>
+    <Open>17.6606</Open>
+    <High>18.5793</High>
+    <Low>17.2286</Low>
+    <Close>17.5305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-24</Date>
+    <Open>17.5305</Open>
+    <High>17.5505</High>
+    <Low>14.7073</Low>
+    <Close>16.2365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-25</Date>
+    <Open>16.2449</Open>
+    <High>17.7889</High>
+    <Low>16.2449</Low>
+    <Close>17.7789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-26</Date>
+    <Open>17.7689</Open>
+    <High>18.2591</High>
+    <Low>17.3769</Low>
+    <Close>17.6771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-27</Date>
+    <Open>17.6871</Open>
+    <High>18.7994</High>
+    <Low>17.0985</Low>
+    <Close>17.3787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-02-28</Date>
+    <Open>17.3569</Open>
+    <High>20.2201</High>
+    <Low>16.8667</Low>
+    <Close>19.978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-01</Date>
+    <Open>20.018</Open>
+    <High>20.4902</High>
+    <Low>19.0757</Low>
+    <Close>19.2658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-02</Date>
+    <Open>19.2658</Open>
+    <High>19.836</High>
+    <Low>18.8238</Low>
+    <Close>19.4258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-03</Date>
+    <Open>19.3958</Open>
+    <High>20.7542</High>
+    <Low>18.8657</Low>
+    <Close>20.144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-04</Date>
+    <Open>20.136</Open>
+    <High>20.204</High>
+    <Low>17.3535</Low>
+    <Close>17.7353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-05</Date>
+    <Open>17.7253</Open>
+    <High>17.9154</High>
+    <Low>16.8534</Low>
+    <Close>17.7253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-06</Date>
+    <Open>17.7153</Open>
+    <High>17.7853</High>
+    <Low>16.8534</Low>
+    <Close>17.3452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-07</Date>
+    <Open>17.3452</Open>
+    <High>17.3852</High>
+    <Low>15.8432</Low>
+    <Close>16.3449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-08</Date>
+    <Open>16.3449</Open>
+    <High>17.1134</High>
+    <Low>16.3049</Low>
+    <Close>16.7133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-09</Date>
+    <Open>16.7033</Open>
+    <High>17.9336</High>
+    <Low>16.6633</Low>
+    <Close>17.3135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-10</Date>
+    <Open>17.3335</Open>
+    <High>17.5335</High>
+    <Low>16.1332</Low>
+    <Close>16.6767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-11</Date>
+    <Open>16.6767</Open>
+    <High>16.9568</High>
+    <Low>16.0632</Low>
+    <Close>16.2332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-12</Date>
+    <Open>16.2332</Open>
+    <High>16.6317</High>
+    <Low>15.9432</Low>
+    <Close>16.2816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-13</Date>
+    <Open>16.2816</Open>
+    <High>16.4433</High>
+    <Low>15.4531</Low>
+    <Close>15.5747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-14</Date>
+    <Open>15.5562</Open>
+    <High>16.1132</High>
+    <Low>15.4715</Low>
+    <Close>15.8532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-15</Date>
+    <Open>15.8716</Open>
+    <High>16.4333</High>
+    <Low>15.3431</Low>
+    <Close>15.8247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-16</Date>
+    <Open>15.8247</Open>
+    <High>16.4649</High>
+    <Low>15.5931</Low>
+    <Close>16.2149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-17</Date>
+    <Open>16.2149</Open>
+    <High>17.2152</High>
+    <Low>16.2149</Low>
+    <Close>16.6483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-18</Date>
+    <Open>16.6467</Open>
+    <High>17.0802</High>
+    <Low>16.1681</Low>
+    <Close>16.8067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-19</Date>
+    <Open>16.8084</Open>
+    <High>17.6888</High>
+    <Low>16.7784</Low>
+    <Close>17.3069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-20</Date>
+    <Open>17.3069</Open>
+    <High>17.7671</High>
+    <Low>16.6166</Low>
+    <Close>16.8467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-21</Date>
+    <Open>16.8567</Open>
+    <High>17.1986</High>
+    <Low>16.2965</Low>
+    <Close>16.9885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-22</Date>
+    <Open>16.9868</Open>
+    <High>18.4592</High>
+    <Low>16.8184</Low>
+    <Close>18.2191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-23</Date>
+    <Open>18.2291</Open>
+    <High>19.5498</High>
+    <Low>17.7571</Low>
+    <Close>18.8475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-24</Date>
+    <Open>18.8575</Open>
+    <High>19.8479</High>
+    <Low>18.6675</Low>
+    <Close>19.4978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-25</Date>
+    <Open>19.4997</Open>
+    <High>20.05</High>
+    <Low>18.6174</Low>
+    <Close>18.7975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-26</Date>
+    <Open>18.7994</Open>
+    <High>19.5998</High>
+    <Low>18.5774</Low>
+    <Close>19.2177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-27</Date>
+    <Open>19.2196</Open>
+    <High>21.7487</High>
+    <Low>18.9676</Low>
+    <Close>21.4486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-28</Date>
+    <Open>21.4664</Open>
+    <High>23.5141</High>
+    <Low>21.3285</Low>
+    <Close>22.579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-29</Date>
+    <Open>22.6013</Open>
+    <High>23.2993</High>
+    <Low>21.2264</Low>
+    <Close>21.931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-30</Date>
+    <Open>21.9109</Open>
+    <High>22.4512</High>
+    <Low>21.1785</Low>
+    <Close>21.8365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-03-31</Date>
+    <Open>21.8265</Open>
+    <High>23.3247</High>
+    <Low>20.3061</Low>
+    <Close>20.6841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-01</Date>
+    <Open>20.6962</Open>
+    <High>21.8509</High>
+    <Low>20.006</Low>
+    <Close>21.7765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-02</Date>
+    <Open>21.7865</Open>
+    <High>22.5268</High>
+    <Low>21.0563</Low>
+    <Close>21.3885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-03</Date>
+    <Open>21.3885</Open>
+    <High>22.2089</High>
+    <Low>20.6383</Low>
+    <Close>22.1989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-04</Date>
+    <Open>22.2267</Open>
+    <High>23.5271</High>
+    <Low>20.7542</Low>
+    <Close>21.6965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-05</Date>
+    <Open>21.6965</Open>
+    <High>22.8568</High>
+    <Low>21.2721</Low>
+    <Close>21.4521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-06</Date>
+    <Open>21.4543</Open>
+    <High>21.7143</High>
+    <Low>18.86</Low>
+    <Close>19.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-07</Date>
+    <Open>19.26</Open>
+    <High>19.5</High>
+    <Low>18.34</Low>
+    <Close>19.1319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-08</Date>
+    <Open>19.1419</Open>
+    <High>19.5939</High>
+    <Low>18.1773</Low>
+    <Close>18.1773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-09</Date>
+    <Open>18.2173</Open>
+    <High>18.4555</High>
+    <Low>17.7753</Low>
+    <Close>18.1955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-10</Date>
+    <Open>18.2155</Open>
+    <High>18.4555</High>
+    <Low>17.7853</Low>
+    <Close>17.9236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-11</Date>
+    <Open>17.9336</Open>
+    <High>17.9736</High>
+    <Low>15.7847</Low>
+    <Close>15.7847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-12</Date>
+    <Open>15.8147</Open>
+    <High>17.0634</High>
+    <Low>15.6147</Low>
+    <Close>16.4849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-13</Date>
+    <Open>16.4849</Open>
+    <High>17.1551</High>
+    <Low>16.1949</Low>
+    <Close>17.0851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-14</Date>
+    <Open>17.0934</Open>
+    <High>17.3252</High>
+    <Low>16.1248</Low>
+    <Close>16.5333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-15</Date>
+    <Open>16.5433</Open>
+    <High>16.9734</High>
+    <Low>16.3733</Low>
+    <Close>16.8334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-16</Date>
+    <Open>16.8217</Open>
+    <High>17.5135</High>
+    <Low>16.5517</Low>
+    <Close>17.4935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-17</Date>
+    <Open>17.4335</Open>
+    <High>17.9136</High>
+    <Low>16.8734</Low>
+    <Close>17.0634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-18</Date>
+    <Open>17.0534</Open>
+    <High>17.1351</High>
+    <Low>15.7732</Low>
+    <Close>16.9851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-19</Date>
+    <Open>16.9951</Open>
+    <High>17.7235</High>
+    <Low>16.795</Low>
+    <Close>17.3135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-20</Date>
+    <Open>17.3235</Open>
+    <High>17.8236</High>
+    <Low>16.7433</Low>
+    <Close>16.9734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-21</Date>
+    <Open>16.9934</Open>
+    <High>17.7736</High>
+    <Low>16.4933</Low>
+    <Close>16.6133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-22</Date>
+    <Open>16.6017</Open>
+    <High>16.9817</High>
+    <Low>16.1916</Low>
+    <Close>16.5617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-23</Date>
+    <Open>16.5633</Open>
+    <High>17.1834</High>
+    <Low>16.4333</Low>
+    <Close>16.7117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-24</Date>
+    <Open>16.7033</Open>
+    <High>16.7834</High>
+    <Low>16.0516</Low>
+    <Close>16.2332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-25</Date>
+    <Open>16.2332</Open>
+    <High>16.3533</High>
+    <Low>15.07</Low>
+    <Close>16.0916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-26</Date>
+    <Open>16.0832</Open>
+    <High>16.4033</High>
+    <Low>14.7815</Low>
+    <Close>15.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-27</Date>
+    <Open>15.1915</Open>
+    <High>15.61</High>
+    <Low>14.64</Low>
+    <Close>15.1515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-28</Date>
+    <Open>15.1615</Open>
+    <High>15.5516</High>
+    <Low>14.9215</Low>
+    <Close>15.0615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-29</Date>
+    <Open>15.0615</Open>
+    <High>15.2515</High>
+    <Low>13.6614</Low>
+    <Close>14.0314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-04-30</Date>
+    <Open>14.0214</Open>
+    <High>14.3514</High>
+    <Low>13.27</Low>
+    <Close>13.5014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-01</Date>
+    <Open>13.5</Open>
+    <High>13.5</High>
+    <Low>11.33</Low>
+    <Close>12.73</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-02</Date>
+    <Open>12.72</Open>
+    <High>13.2213</High>
+    <Low>12.3412</Low>
+    <Close>12.8813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-03</Date>
+    <Open>12.8913</Open>
+    <High>13.5514</High>
+    <Low>12.5275</Low>
+    <Close>12.8487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-04</Date>
+    <Open>12.8487</Open>
+    <High>14.33</High>
+    <Low>12.6887</Low>
+    <Close>14.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-05</Date>
+    <Open>14.2271</Open>
+    <High>14.5885</High>
+    <Low>12.2388</Low>
+    <Close>12.6675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-06</Date>
+    <Open>12.6775</Open>
+    <High>12.7974</High>
+    <Low>12.1976</Low>
+    <Close>12.5288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-07</Date>
+    <Open>12.5375</Open>
+    <High>12.5887</High>
+    <Low>11.9976</Low>
+    <Close>11.9976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-08</Date>
+    <Open>12.0076</Open>
+    <High>12.3039</High>
+    <Low>11.6477</Low>
+    <Close>12.1364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-09</Date>
+    <Open>12.1364</Open>
+    <High>12.1576</High>
+    <Low>10.067</Low>
+    <Close>10.4079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-10</Date>
+    <Open>10.4179</Open>
+    <High>11.6177</High>
+    <Low>9.6571</Low>
+    <Close>10.1259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-11</Date>
+    <Open>10.1359</Open>
+    <High>10.8346</High>
+    <Low>6.98196</Low>
+    <Close>7.54199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-12</Date>
+    <Open>7.52206</Open>
+    <High>7.99627</High>
+    <Low>5.88398</Low>
+    <Close>6.95188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-13</Date>
+    <Open>6.93054</Open>
+    <High>10.2308</High>
+    <Low>6.81156</Low>
+    <Close>9.0936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-14</Date>
+    <Open>9.07455</Open>
+    <High>9.45485</High>
+    <Low>7.64391</Low>
+    <Close>8.33831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-15</Date>
+    <Open>8.32832</Open>
+    <High>9.01736</High>
+    <Low>8.03873</Low>
+    <Close>8.99919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-16</Date>
+    <Open>8.99829</Open>
+    <High>9.23982</High>
+    <Low>8.15021</Low>
+    <Close>8.22846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-17</Date>
+    <Open>8.26924</Open>
+    <High>8.69043</High>
+    <Low>8.00797</Low>
+    <Close>8.57969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-18</Date>
+    <Open>8.57883</Open>
+    <High>8.74949</High>
+    <Low>7.5302</Low>
+    <Close>7.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-19</Date>
+    <Open>7.69998</Open>
+    <High>8.29253</High>
+    <Low>7.3005</Low>
+    <Close>8.02197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-20</Date>
+    <Open>8.02277</Open>
+    <High>8.4407</High>
+    <Low>7.54094</Low>
+    <Close>7.6608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-21</Date>
+    <Open>7.6608</Open>
+    <High>8.23928</High>
+    <Low>7.60087</Low>
+    <Close>7.9097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-22</Date>
+    <Open>7.89972</Open>
+    <High>8.34997</High>
+    <Low>7.83901</Low>
+    <Close>8.06032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-23</Date>
+    <Open>8.06032</Open>
+    <High>8.85025</High>
+    <Low>7.85057</Low>
+    <Close>7.96044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-24</Date>
+    <Open>7.95045</Open>
+    <High>7.95045</High>
+    <Low>7.32194</Low>
+    <Close>7.77987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-25</Date>
+    <Open>7.78986</Open>
+    <High>8.05033</High>
+    <Low>7.61086</Low>
+    <Close>7.83138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-26</Date>
+    <Open>7.83059</Open>
+    <High>7.91129</High>
+    <Low>6.95165</Low>
+    <Close>7.40259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-27</Date>
+    <Open>7.41258</Open>
+    <High>7.50249</High>
+    <Low>6.83248</Low>
+    <Close>6.91308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-28</Date>
+    <Open>6.92307</Open>
+    <High>7.43174</High>
+    <Low>6.75162</Low>
+    <Close>7.18159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-29</Date>
+    <Open>7.18144</Open>
+    <High>7.41243</High>
+    <Low>6.97309</Low>
+    <Close>7.12216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-30</Date>
+    <Open>7.12287</Open>
+    <High>8.08434</High>
+    <Low>7.0523</Low>
+    <Close>8.06354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-05-31</Date>
+    <Open>8.06435</Open>
+    <High>8.66306</High>
+    <Low>7.96283</Low>
+    <Close>8.16346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-01</Date>
+    <Open>8.16346</Open>
+    <High>8.43409</High>
+    <Low>7.42257</Low>
+    <Close>7.51323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-02</Date>
+    <Open>7.50324</Open>
+    <High>9.74123</High>
+    <Low>7.47327</Low>
+    <Close>9.41152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-03</Date>
+    <Open>9.41152</Open>
+    <High>9.78119</High>
+    <Low>8.03212</Low>
+    <Close>8.21285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-04</Date>
+    <Open>8.19287</Open>
+    <High>8.20286</High>
+    <Low>7.50377</Low>
+    <Close>7.64419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-05</Date>
+    <Open>7.64419</Open>
+    <High>7.76301</High>
+    <Low>7.26353</Low>
+    <Close>7.41303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-06</Date>
+    <Open>7.42302</Open>
+    <High>8.02342</High>
+    <Low>7.31305</Low>
+    <Close>7.57356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-07</Date>
+    <Open>7.57356</Open>
+    <High>7.64342</High>
+    <Low>6.73441</Low>
+    <Close>7.12415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-08</Date>
+    <Open>7.1243</Open>
+    <High>7.15463</High>
+    <Low>6.5752</Low>
+    <Close>6.71563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-09</Date>
+    <Open>6.71563</Open>
+    <High>6.95381</High>
+    <Low>6.28459</Low>
+    <Close>6.41461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-10</Date>
+    <Open>6.41454</Open>
+    <High>6.53464</High>
+    <Low>6.05358</Low>
+    <Close>6.17209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-11</Date>
+    <Open>6.17209</Open>
+    <High>6.68291</High>
+    <Low>5.54306</Low>
+    <Close>6.22296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-12</Date>
+    <Open>6.2229</Open>
+    <High>6.46159</High>
+    <Low>5.44232</Low>
+    <Close>6.04256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-13</Date>
+    <Open>6.03257</Open>
+    <High>6.10303</High>
+    <Low>5.18575</Low>
+    <Close>5.56226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-14</Date>
+    <Open>5.5723</Open>
+    <High>5.90196</High>
+    <Low>5.08257</Low>
+    <Close>5.37354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-15</Date>
+    <Open>5.37354</Open>
+    <High>5.89115</High>
+    <Low>5.02095</Low>
+    <Close>5.87118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-16</Date>
+    <Open>5.87118</Open>
+    <High>5.88234</High>
+    <Low>5.27419</Low>
+    <Close>5.39244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-17</Date>
+    <Open>5.38251</Open>
+    <High>5.545</High>
+    <Low>5.21274</Low>
+    <Close>5.45345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-18</Date>
+    <Open>5.466</Open>
+    <High>5.53341</High>
+    <Low>4.59319</Low>
+    <Close>5.03184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-19</Date>
+    <Open>5.03184</Open>
+    <High>5.50339</High>
+    <Low>4.90293</Low>
+    <Close>5.48286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-20</Date>
+    <Open>5.48286</Open>
+    <High>5.89351</High>
+    <Low>5.25316</Low>
+    <Close>5.68374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-21</Date>
+    <Open>5.70372</Open>
+    <High>6.27435</High>
+    <Low>5.62381</Low>
+    <Close>5.80361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-22</Date>
+    <Open>5.8136</Open>
+    <High>5.8941</High>
+    <Low>5.38407</Low>
+    <Close>5.46453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-23</Date>
+    <Open>5.46453</Open>
+    <High>5.86413</High>
+    <Low>5.42457</Low>
+    <Close>5.72427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-24</Date>
+    <Open>5.74425</Open>
+    <High>6.23445</High>
+    <Low>5.72427</Low>
+    <Close>6.17518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-25</Date>
+    <Open>6.17382</Open>
+    <High>6.46547</High>
+    <Low>5.91592</Low>
+    <Close>6.22564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-26</Date>
+    <Open>6.22564</Open>
+    <High>6.33645</High>
+    <Low>5.83644</Low>
+    <Close>6.00627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-27</Date>
+    <Open>6.00627</Open>
+    <High>6.13656</High>
+    <Low>5.66478</Low>
+    <Close>5.77486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-28</Date>
+    <Open>5.76486</Open>
+    <High>6.01458</High>
+    <Low>5.43429</Low>
+    <Close>5.54312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-29</Date>
+    <Open>5.54312</Open>
+    <High>5.61337</High>
+    <Low>5.253</Low>
+    <Close>5.43342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-06-30</Date>
+    <Open>5.43347</Open>
+    <High>5.46344</High>
+    <Low>5.01352</Low>
+    <Close>5.1638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-01</Date>
+    <Open>5.1638</Open>
+    <High>5.46398</High>
+    <Low>5.13332</Low>
+    <Close>5.25421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-02</Date>
+    <Open>5.2642</Open>
+    <High>5.36356</High>
+    <Low>5.12436</Low>
+    <Close>5.27366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-03</Date>
+    <Open>5.27366</Open>
+    <High>5.28365</High>
+    <Low>5.11283</Low>
+    <Close>5.24317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-04</Date>
+    <Open>5.29311</Open>
+    <High>5.62324</High>
+    <Low>5.22268</Low>
+    <Close>5.54334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-05</Date>
+    <Open>5.4934</Open>
+    <High>5.73311</High>
+    <Low>5.28365</Low>
+    <Close>5.58329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-06</Date>
+    <Open>5.58385</Open>
+    <High>5.7237</High>
+    <Low>5.38407</Low>
+    <Close>5.55388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-07</Date>
+    <Open>5.55388</Open>
+    <High>6.24313</High>
+    <Low>5.55333</Low>
+    <Close>6.10633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-08</Date>
+    <Open>6.10633</Open>
+    <High>7.46552</High>
+    <Low>5.94643</Low>
+    <Close>7.07575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-09</Date>
+    <Open>7.08575</Open>
+    <High>7.29562</High>
+    <Low>6.86519</Low>
+    <Close>6.97581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-10</Date>
+    <Open>6.96512</Open>
+    <High>7.05576</High>
+    <Low>6.31621</Low>
+    <Close>6.47611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-11</Date>
+    <Open>6.46612</Open>
+    <High>6.89517</High>
+    <Low>6.23438</Low>
+    <Close>6.28434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-12</Date>
+    <Open>6.29433</Open>
+    <High>6.60339</High>
+    <Low>6.0939</Low>
+    <Close>6.27372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-13</Date>
+    <Open>6.28396</Open>
+    <High>6.47352</High>
+    <Low>5.88352</Low>
+    <Close>6.19442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-14</Date>
+    <Open>6.19442</Open>
+    <High>6.93584</High>
+    <Low>6.15446</Low>
+    <Close>6.72596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-15</Date>
+    <Open>6.72596</Open>
+    <High>7.13572</High>
+    <Low>6.63602</Low>
+    <Close>6.94792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-16</Date>
+    <Open>6.94792</Open>
+    <High>7.44851</High>
+    <Low>6.61801</Low>
+    <Close>7.04788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-17</Date>
+    <Open>7.05859</Open>
+    <High>7.32809</High>
+    <Low>6.8287</Low>
+    <Close>7.27811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-18</Date>
+    <Open>7.2881</Open>
+    <High>7.83961</High>
+    <Low>7.19734</Low>
+    <Close>7.32831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-19</Date>
+    <Open>7.33831</Open>
+    <High>7.6184</High>
+    <Low>7.09943</Low>
+    <Close>7.45119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-20</Date>
+    <Open>7.46</Open>
+    <High>7.57083</High>
+    <Low>6.52941</Low>
+    <Close>6.81034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-21</Date>
+    <Open>6.81034</Open>
+    <High>6.99119</High>
+    <Low>6.42051</Low>
+    <Close>6.90173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-22</Date>
+    <Open>6.90166</Open>
+    <High>7.10149</High>
+    <Low>6.46058</Low>
+    <Close>6.56144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-23</Date>
+    <Open>6.56</Open>
+    <High>6.78075</High>
+    <Low>6.27943</Low>
+    <Close>6.55124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-24</Date>
+    <Open>6.56125</Open>
+    <High>6.80939</High>
+    <Low>6.53007</Low>
+    <Close>6.64126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-25</Date>
+    <Open>6.61126</Open>
+    <High>6.71134</High>
+    <Low>6.15068</Low>
+    <Close>6.37051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-26</Date>
+    <Open>6.37057</Open>
+    <High>6.40064</High>
+    <Low>6.02024</Low>
+    <Close>6.29088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-27</Date>
+    <Open>6.29</Open>
+    <High>6.97272</High>
+    <Low>6.29</Low>
+    <Close>6.95153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-28</Date>
+    <Open>6.95167</Open>
+    <High>7.45164</High>
+    <Low>6.9516</Low>
+    <Close>7.29146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-29</Date>
+    <Open>7.2919</Open>
+    <High>7.67054</High>
+    <Low>6.99217</Low>
+    <Close>7.14293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-30</Date>
+    <Open>7.14286</Open>
+    <High>9.35374</High>
+    <Low>7.12285</Low>
+    <Close>8.32275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-07-31</Date>
+    <Open>8.31283</Open>
+    <High>9.79255</High>
+    <Low>8.02273</Low>
+    <Close>9.32214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-01</Date>
+    <Open>9.3228</Open>
+    <High>9.36318</High>
+    <Low>8.06218</Low>
+    <Close>8.18245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-02</Date>
+    <Open>8.16245</Open>
+    <High>8.41328</High>
+    <Low>7.49202</Low>
+    <Close>7.96135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-03</Date>
+    <Open>7.98152</Open>
+    <High>8.38168</High>
+    <Low>7.65191</Low>
+    <Close>8.03201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-04</Date>
+    <Open>8.02241</Open>
+    <High>8.29166</High>
+    <Low>7.76171</Low>
+    <Close>7.92032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-05</Date>
+    <Open>7.91024</Open>
+    <High>8.34167</High>
+    <Low>7.89071</Low>
+    <Close>8.12154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-06</Date>
+    <Open>8.12154</Open>
+    <High>8.67052</High>
+    <Low>8.10154</Low>
+    <Close>8.31191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-07</Date>
+    <Open>8.31183</Open>
+    <High>8.3615</High>
+    <Low>8.10194</Low>
+    <Close>8.31158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-08</Date>
+    <Open>8.30158</Open>
+    <High>8.67182</High>
+    <Low>8.1509</Low>
+    <Close>8.311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-09</Date>
+    <Open>8.311</Open>
+    <High>8.37167</High>
+    <Low>7.59167</Low>
+    <Close>7.86157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-10</Date>
+    <Open>7.85157</Open>
+    <High>8.45727</High>
+    <Low>7.62191</Low>
+    <Close>8.2624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-11</Date>
+    <Open>8.25248</Open>
+    <High>8.71314</High>
+    <Low>8.11357</Low>
+    <Close>8.17384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-12</Date>
+    <Open>8.18384</Open>
+    <High>8.34392</High>
+    <Low>8.02321</Low>
+    <Close>8.24379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-13</Date>
+    <Open>8.25371</Open>
+    <High>8.53409</High>
+    <Low>8.17359</Low>
+    <Close>8.19319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-14</Date>
+    <Open>8.2032</Open>
+    <High>8.39336</High>
+    <Low>7.89174</Low>
+    <Close>7.99248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-15</Date>
+    <Open>8.0024</Open>
+    <High>8.21222</High>
+    <Low>7.67084</Low>
+    <Close>7.78187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-16</Date>
+    <Open>7.77186</Open>
+    <High>7.87992</High>
+    <Low>7.60175</Low>
+    <Close>7.7507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-17</Date>
+    <Open>7.7407</Open>
+    <High>8.23107</High>
+    <Low>7.32985</Low>
+    <Close>7.41052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-18</Date>
+    <Open>7.41059</Open>
+    <High>7.50038</High>
+    <Low>7.16057</Low>
+    <Close>7.32007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-19</Date>
+    <Open>7.32073</Open>
+    <High>7.38074</High>
+    <Low>6.32</Low>
+    <Close>6.38064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-20</Date>
+    <Open>6.40019</Open>
+    <High>6.73108</High>
+    <Low>6.10976</Low>
+    <Close>6.21994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-21</Date>
+    <Open>6.21988</Open>
+    <High>6.60921</High>
+    <Low>6.21975</Low>
+    <Close>6.49981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-22</Date>
+    <Open>6.49987</Open>
+    <High>6.55007</High>
+    <Low>6.10957</Low>
+    <Close>6.19888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-23</Date>
+    <Open>6.19907</Open>
+    <High>6.48019</High>
+    <Low>6.13988</Low>
+    <Close>6.36013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-24</Date>
+    <Open>6.33</Open>
+    <High>6.66033</High>
+    <Low>6.25956</Low>
+    <Close>6.49058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-25</Date>
+    <Open>6.50052</Open>
+    <High>6.65967</High>
+    <Low>6.26006</Low>
+    <Close>6.35019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-26</Date>
+    <Open>6.37006</Open>
+    <High>6.38057</High>
+    <Low>5.80988</Low>
+    <Close>5.90059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-27</Date>
+    <Open>5.90059</Open>
+    <High>6.36064</High>
+    <Low>5.65017</Low>
+    <Close>6.16018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-28</Date>
+    <Open>6.17012</Open>
+    <High>6.62013</High>
+    <Low>6.0703</Low>
+    <Close>6.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-29</Date>
+    <Open>6.53</Open>
+    <High>6.74047</High>
+    <Low>6.15037</Low>
+    <Close>6.72047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-30</Date>
+    <Open>6.71054</Open>
+    <High>6.82993</High>
+    <Low>6.17049</Low>
+    <Close>6.27056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-08-31</Date>
+    <Open>6.2705</Open>
+    <High>6.50052</High>
+    <Low>6.23075</Low>
+    <Close>6.36994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-01</Date>
+    <Open>6.37</Open>
+    <High>6.38013</High>
+    <Low>6.07964</Low>
+    <Close>6.29962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-02</Date>
+    <Open>6.29962</Open>
+    <High>6.43116</High>
+    <Low>6.13031</Low>
+    <Close>6.28075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-03</Date>
+    <Open>6.271</Open>
+    <High>6.64</High>
+    <Low>6.1808</Low>
+    <Close>6.42</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-04</Date>
+    <Open>6.42</Open>
+    <High>6.77</High>
+    <Low>6.29</Low>
+    <Close>6.61</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-05</Date>
+    <Open>6.61</Open>
+    <High>6.85068</High>
+    <Low>6.4</Low>
+    <Close>6.72067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-06</Date>
+    <Open>6.72067</Open>
+    <High>6.9807</High>
+    <Low>6.17938</Low>
+    <Close>6.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-07</Date>
+    <Open>6.22</Open>
+    <High>6.50019</High>
+    <Low>6.05976</Low>
+    <Close>6.47045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-08</Date>
+    <Open>6.48</Open>
+    <High>6.55105</High>
+    <Low>6.32</Low>
+    <Close>6.48097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-09</Date>
+    <Open>6.47104</Open>
+    <High>7.29197</High>
+    <Low>6.46071</Low>
+    <Close>7.09234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-10</Date>
+    <Open>7.08142</Open>
+    <High>7.32278</High>
+    <Low>7.00252</Low>
+    <Close>7.21137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-11</Date>
+    <Open>7.22137</Open>
+    <High>7.45194</High>
+    <Low>7.00266</Low>
+    <Close>7.03176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-12</Date>
+    <Open>7.03169</Open>
+    <High>7.25102</High>
+    <Low>6.86117</Low>
+    <Close>6.93139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-13</Date>
+    <Open>6.92125</Open>
+    <High>7.10234</High>
+    <Low>6.46052</Low>
+    <Close>6.51013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-14</Date>
+    <Open>6.52007</Open>
+    <High>6.54052</High>
+    <Low>6.17025</Low>
+    <Close>6.2817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-15</Date>
+    <Open>6.28157</Open>
+    <High>6.4</High>
+    <Low>5.95952</Low>
+    <Close>6.10945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-16</Date>
+    <Open>6.10957</Open>
+    <High>6.24937</High>
+    <Low>5.93941</Low>
+    <Close>6.18938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-17</Date>
+    <Open>6.19938</Open>
+    <High>6.39</High>
+    <Low>6.14939</Low>
+    <Close>6.27063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-18</Date>
+    <Open>6.26</Open>
+    <High>6.31063</High>
+    <Low>5.49945</Low>
+    <Close>5.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-19</Date>
+    <Open>5.66</Open>
+    <High>6.20124</High>
+    <Low>5.62932</Low>
+    <Close>6.11122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-20</Date>
+    <Open>6.12122</Open>
+    <High>6.14123</High>
+    <Low>5.86117</Low>
+    <Close>5.90059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-21</Date>
+    <Open>5.90006</Open>
+    <High>6.17</High>
+    <Low>5.75</Low>
+    <Close>5.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-22</Date>
+    <Open>5.84</Open>
+    <High>6.13061</High>
+    <Low>5.77</Low>
+    <Close>6.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-23</Date>
+    <Open>6.0206</Open>
+    <High>6.45</High>
+    <Low>5.93941</Low>
+    <Close>6.18938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-24</Date>
+    <Open>6.19957</Open>
+    <High>6.28</High>
+    <Low>6.08951</Low>
+    <Close>6.10049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-25</Date>
+    <Open>6.1</Open>
+    <High>6.11061</High>
+    <Low>5.83023</Low>
+    <Close>5.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-26</Date>
+    <Open>5.92</Open>
+    <High>6.31</High>
+    <Low>5.77</Low>
+    <Close>6.18</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-27</Date>
+    <Open>6.18</Open>
+    <High>6.51065</High>
+    <Low>5.98</Low>
+    <Close>6.09939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-28</Date>
+    <Open>6.1</Open>
+    <High>6.16</High>
+    <Low>5.88941</Low>
+    <Close>6.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-29</Date>
+    <Open>6.07</Open>
+    <High>6.14061</High>
+    <Low>5.91</Low>
+    <Close>6.11061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-09-30</Date>
+    <Open>6.12</Open>
+    <High>6.23125</High>
+    <Low>6.03</Low>
+    <Close>6.06</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-01</Date>
+    <Open>6.06</Open>
+    <High>6.16062</High>
+    <Low>6.01</Low>
+    <Close>6.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-02</Date>
+    <Open>6.06</Open>
+    <High>6.19</High>
+    <Low>5.94</Low>
+    <Close>5.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-03</Date>
+    <Open>5.9806</Open>
+    <High>6.10061</High>
+    <Low>5.85</Low>
+    <Close>6.0206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-04</Date>
+    <Open>6.0206</Open>
+    <High>6.18124</High>
+    <Low>5.9806</Low>
+    <Close>6.14184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-05</Date>
+    <Open>6.13184</Open>
+    <High>6.21186</High>
+    <Low>5.91</Low>
+    <Close>6.0112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-06</Date>
+    <Open>6.0112</Open>
+    <High>6.15086</High>
+    <Low>5.9906</Low>
+    <Close>6.01102</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-07</Date>
+    <Open>6.01102</Open>
+    <High>6.02096</High>
+    <Low>5.89018</Low>
+    <Close>5.95083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-08</Date>
+    <Open>5.96077</Open>
+    <High>5.97078</High>
+    <Low>5.84134</Low>
+    <Close>5.86147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-09</Date>
+    <Open>5.86152</Open>
+    <High>5.90118</High>
+    <Low>5.77058</Low>
+    <Close>5.86117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-10</Date>
+    <Open>5.86117</Open>
+    <High>5.90118</High>
+    <Low>5.55944</Low>
+    <Close>5.59944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-11</Date>
+    <Open>5.61</Open>
+    <High>5.61</High>
+    <Low>5.20948</Low>
+    <Close>5.25953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-12</Date>
+    <Open>5.25953</Open>
+    <High>5.31968</High>
+    <Low>4.98955</Low>
+    <Close>5.03015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-13</Date>
+    <Open>5.06015</Open>
+    <High>5.13046</High>
+    <Low>4.66972</Low>
+    <Close>5.13041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-14</Date>
+    <Open>5.10046</Open>
+    <High>5.26037</High>
+    <Low>4.81005</Low>
+    <Close>4.81014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-15</Date>
+    <Open>4.81019</Open>
+    <High>5.03045</High>
+    <Low>4.78014</Low>
+    <Close>4.93025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-16</Date>
+    <Open>4.9403</Open>
+    <High>5.14021</High>
+    <Low>4.88039</Low>
+    <Close>4.9602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-17</Date>
+    <Open>5.00025</Open>
+    <High>5.15052</High>
+    <Low>4.9502</Low>
+    <Close>5.0601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-18</Date>
+    <Open>5.06015</Open>
+    <High>5.14015</High>
+    <Low>4.84005</Low>
+    <Close>4.9402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-19</Date>
+    <Open>4.9403</Open>
+    <High>5.00005</High>
+    <Low>4.83005</Low>
+    <Close>4.94</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-20</Date>
+    <Open>4.94</Open>
+    <High>4.9702</High>
+    <Low>4.77952</Low>
+    <Close>4.81966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-21</Date>
+    <Open>4.81957</Open>
+    <High>4.9404</High>
+    <Low>4.63991</Low>
+    <Close>4.88034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-22</Date>
+    <Open>4.88034</Open>
+    <High>4.97015</High>
+    <Low>4.84034</Low>
+    <Close>4.89044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-23</Date>
+    <Open>4.89044</Open>
+    <High>5.0206</High>
+    <Low>4.80981</Low>
+    <Close>4.98065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-24</Date>
+    <Open>4.9806</Open>
+    <High>5.0405</High>
+    <Low>4.74043</Low>
+    <Close>4.81019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-25</Date>
+    <Open>4.81019</Open>
+    <High>5.12179</High>
+    <Low>4.79019</Low>
+    <Close>5.0116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-26</Date>
+    <Open>5.03166</Open>
+    <High>5.16129</High>
+    <Low>4.93118</Low>
+    <Close>5.13144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-27</Date>
+    <Open>5.12143</Open>
+    <High>5.36102</High>
+    <Low>5.03995</Low>
+    <Close>5.09031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-28</Date>
+    <Open>5.09031</Open>
+    <High>5.22125</High>
+    <Low>4.98025</Low>
+    <Close>5.19104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-29</Date>
+    <Open>5.18098</Open>
+    <High>5.51209</High>
+    <Low>5.16098</Low>
+    <Close>5.36123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-30</Date>
+    <Open>5.37129</Open>
+    <High>5.52105</High>
+    <Low>5.20114</Low>
+    <Close>5.31106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-10-31</Date>
+    <Open>5.29106</Open>
+    <High>5.44</High>
+    <Low>5.13103</Low>
+    <Close>5.28968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-01</Date>
+    <Open>5.28968</Open>
+    <High>5.38838</High>
+    <Low>5.17891</Low>
+    <Close>5.20948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-02</Date>
+    <Open>5.20937</Open>
+    <High>5.22895</High>
+    <Low>4.85976</Low>
+    <Close>4.89971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-03</Date>
+    <Open>4.90971</Open>
+    <High>5.59978</High>
+    <Low>4.89971</Low>
+    <Close>5.40995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-04</Date>
+    <Open>5.40995</Open>
+    <High>5.80006</High>
+    <Low>5.34995</Low>
+    <Close>5.64039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-05</Date>
+    <Open>5.6504</Open>
+    <High>5.8007</High>
+    <Low>5.48011</Low>
+    <Close>5.61028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-06</Date>
+    <Open>5.61028</Open>
+    <High>5.61028</High>
+    <Low>5.27058</Low>
+    <Close>5.32043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-07</Date>
+    <Open>5.32037</Open>
+    <High>5.32043</High>
+    <Low>5.01035</Low>
+    <Close>5.14062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-08</Date>
+    <Open>5.16103</Open>
+    <High>5.27105</High>
+    <Low>3.82935</Low>
+    <Close>4.30086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-09</Date>
+    <Open>4.29083</Open>
+    <High>4.47348</High>
+    <Low>3.58507</Low>
+    <Close>3.69676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-10</Date>
+    <Open>3.70443</Open>
+    <High>4.76722</High>
+    <Low>3.60166</Low>
+    <Close>4.3281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-11</Date>
+    <Open>4.32968</Open>
+    <High>4.97686</High>
+    <Low>3.89395</Low>
+    <Close>3.98</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-12</Date>
+    <Open>3.98478</Open>
+    <High>4.05175</High>
+    <Low>3.74525</Low>
+    <Close>3.82111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-13</Date>
+    <Open>3.8241</Open>
+    <High>4.11688</High>
+    <Low>3.67979</Low>
+    <Close>3.93927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-14</Date>
+    <Open>3.94347</Open>
+    <High>4.08909</High>
+    <Low>3.66113</Low>
+    <Close>3.87118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-15</Date>
+    <Open>3.86919</Open>
+    <High>4.10189</High>
+    <Low>3.866</Low>
+    <Close>3.96004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-16</Date>
+    <Open>3.95704</Open>
+    <High>4.03128</High>
+    <Low>3.80911</Low>
+    <Close>3.85449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-17</Date>
+    <Open>3.85345</Open>
+    <High>3.93081</High>
+    <Low>3.73279</Low>
+    <Close>3.77305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-18</Date>
+    <Open>3.76802</Open>
+    <High>3.8769</High>
+    <Low>3.73523</Low>
+    <Close>3.8246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-19</Date>
+    <Open>3.8246</Open>
+    <High>3.97083</High>
+    <Low>3.75594</Low>
+    <Close>3.97083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-20</Date>
+    <Open>3.96687</Open>
+    <High>4.05963</High>
+    <Low>3.61188</Low>
+    <Close>3.6764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-21</Date>
+    <Open>3.67744</Open>
+    <High>3.72259</High>
+    <Low>3.50502</Low>
+    <Close>3.60167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-22</Date>
+    <Open>3.59964</Open>
+    <High>3.74084</High>
+    <Low>3.51175</Low>
+    <Close>3.71247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-23</Date>
+    <Open>3.71103</Open>
+    <High>3.94969</High>
+    <Low>3.69312</Low>
+    <Close>3.89671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-24</Date>
+    <Open>3.91269</Open>
+    <High>3.9777</High>
+    <Low>3.81952</Low>
+    <Close>3.89369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-25</Date>
+    <Open>3.88969</Open>
+    <High>3.89919</High>
+    <Low>3.76706</Low>
+    <Close>3.88182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-26</Date>
+    <Open>3.87775</Open>
+    <High>4.04545</High>
+    <Low>3.86372</Low>
+    <Close>3.8907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-27</Date>
+    <Open>3.8887</Open>
+    <High>4.1214</High>
+    <Low>3.87975</Low>
+    <Close>4.03741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-28</Date>
+    <Open>4.02842</Open>
+    <High>4.03146</High>
+    <Low>3.75897</Low>
+    <Close>3.86853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-29</Date>
+    <Open>3.86853</Open>
+    <High>3.97365</High>
+    <Low>3.8134</Low>
+    <Close>3.94454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-11-30</Date>
+    <Open>3.94554</Open>
+    <High>4.15921</High>
+    <Low>3.94554</Low>
+    <Close>4.14825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-01</Date>
+    <Open>4.14617</Open>
+    <High>4.26209</High>
+    <Low>4.01532</Low>
+    <Close>4.12825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-02</Date>
+    <Open>4.12925</Open>
+    <High>4.35196</High>
+    <Low>4.00736</Low>
+    <Close>4.28026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-03</Date>
+    <Open>4.28026</Open>
+    <High>4.35248</High>
+    <Low>4.11882</Low>
+    <Close>4.13241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-04</Date>
+    <Open>4.13041</Open>
+    <High>4.38244</High>
+    <Low>4.11941</Low>
+    <Close>4.31343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-05</Date>
+    <Open>4.31543</Open>
+    <High>4.61255</High>
+    <Low>4.31186</Low>
+    <Close>4.43513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-06</Date>
+    <Open>4.43844</Open>
+    <High>4.48722</High>
+    <Low>4.32083</Low>
+    <Close>4.35691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-07</Date>
+    <Open>4.358</Open>
+    <High>4.436</High>
+    <Low>4.12733</Low>
+    <Close>4.178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-08</Date>
+    <Open>4.178</Open>
+    <High>4.33761</High>
+    <Low>4.064</Low>
+    <Close>4.3113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-09</Date>
+    <Open>4.3073</Open>
+    <High>4.48318</High>
+    <Low>4.25243</Low>
+    <Close>4.38013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-10</Date>
+    <Open>4.38213</Open>
+    <High>4.41404</High>
+    <Low>4.303</Low>
+    <Close>4.38791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-11</Date>
+    <Open>4.38791</Open>
+    <High>4.46518</High>
+    <Low>4.20842</Low>
+    <Close>4.23285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-12</Date>
+    <Open>4.23285</Open>
+    <High>4.25585</High>
+    <Low>4.08041</Low>
+    <Close>4.17438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-13</Date>
+    <Open>4.18229</Open>
+    <High>4.2966</High>
+    <Low>3.95403</Low>
+    <Close>4.146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-14</Date>
+    <Open>4.152</Open>
+    <High>4.21411</High>
+    <Low>3.9782</Low>
+    <Close>4.02228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-15</Date>
+    <Open>4.02128</Open>
+    <High>4.04381</High>
+    <Low>3.86139</Low>
+    <Close>3.93879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-16</Date>
+    <Open>3.93579</Open>
+    <High>3.9824</High>
+    <Low>3.50035</Low>
+    <Close>3.61336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-17</Date>
+    <Open>3.61036</Open>
+    <High>3.74571</High>
+    <Low>3.42041</Low>
+    <Close>3.68348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-18</Date>
+    <Open>3.68752</Open>
+    <High>3.74115</High>
+    <Low>3.6084</Low>
+    <Close>3.69048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-19</Date>
+    <Open>3.693</Open>
+    <High>3.74215</High>
+    <Low>3.3701</Low>
+    <Close>3.482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-20</Date>
+    <Open>3.48197</Open>
+    <High>3.73619</High>
+    <Low>3.43297</Low>
+    <Close>3.71615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-21</Date>
+    <Open>3.71315</Open>
+    <High>3.74619</High>
+    <Low>3.58525</Low>
+    <Close>3.69118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-22</Date>
+    <Open>3.69115</Open>
+    <High>3.778</High>
+    <Low>3.60978</Low>
+    <Close>3.72537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-23</Date>
+    <Open>3.72637</Open>
+    <High>3.78458</High>
+    <Low>3.63471</Low>
+    <Close>3.65863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-24</Date>
+    <Open>3.65863</Open>
+    <High>3.75766</High>
+    <Low>3.65374</Low>
+    <Close>3.74378</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-25</Date>
+    <Open>3.74437</Open>
+    <High>3.78458</High>
+    <Low>3.70252</Low>
+    <Close>3.76151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-26</Date>
+    <Open>3.76162</Open>
+    <High>3.92261</High>
+    <Low>3.75362</Low>
+    <Close>3.83423</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-27</Date>
+    <Open>3.83723</Open>
+    <High>3.9349</High>
+    <Low>3.76346</Low>
+    <Close>3.78948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-28</Date>
+    <Open>3.78952</Open>
+    <High>4.0279</High>
+    <Low>3.78249</Low>
+    <Close>3.95686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-29</Date>
+    <Open>3.9599</Open>
+    <High>4.10228</High>
+    <Low>3.90805</Low>
+    <Close>3.98417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-30</Date>
+    <Open>3.99316</Open>
+    <High>4.08995</High>
+    <Low>3.89909</Low>
+    <Close>4.06097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2022-12-31</Date>
+    <Open>4.06493</Open>
+    <High>4.18591</High>
+    <Low>3.97197</Low>
+    <Close>3.97201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-01</Date>
+    <Open>3.97201</Open>
+    <High>4.05218</High>
+    <Low>3.913</Low>
+    <Close>4.02911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-02</Date>
+    <Open>4.02911</Open>
+    <High>4.22535</High>
+    <Low>3.93835</Low>
+    <Close>4.00172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-03</Date>
+    <Open>3.99968</Open>
+    <High>4.05358</High>
+    <Low>3.83243</Low>
+    <Close>3.91551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-04</Date>
+    <Open>3.91651</Open>
+    <High>4.04834</High>
+    <Low>3.9004</Low>
+    <Close>3.9417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-05</Date>
+    <Open>3.94166</Open>
+    <High>3.96977</High>
+    <Low>3.82343</Low>
+    <Close>3.83366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-06</Date>
+    <Open>3.84365</Open>
+    <High>3.88783</High>
+    <Low>3.76508</Low>
+    <Close>3.88779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-07</Date>
+    <Open>3.88776</Open>
+    <High>4.03783</High>
+    <Low>3.88072</Low>
+    <Close>3.98404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-08</Date>
+    <Open>3.9838</Open>
+    <High>4.09434</High>
+    <Low>3.93737</Low>
+    <Close>4.07551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-09</Date>
+    <Open>4.07618</Open>
+    <High>4.37169</High>
+    <Low>4.07431</Low>
+    <Close>4.23096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-10</Date>
+    <Open>4.236</Open>
+    <High>4.33</High>
+    <Low>4.16179</Low>
+    <Close>4.2766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-11</Date>
+    <Open>4.27764</Open>
+    <High>4.37344</High>
+    <Low>4.11538</Low>
+    <Close>4.28857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-12</Date>
+    <Open>4.28666</Open>
+    <High>4.53818</High>
+    <Low>4.23887</Low>
+    <Close>4.51041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-13</Date>
+    <Open>4.51145</Open>
+    <High>4.68051</High>
+    <Low>4.35465</Low>
+    <Close>4.59041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-14</Date>
+    <Open>4.59441</Open>
+    <High>5.3358</High>
+    <Low>4.57146</Low>
+    <Close>4.94625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-15</Date>
+    <Open>4.94225</Open>
+    <High>5.44682</High>
+    <Low>4.9282</Low>
+    <Close>5.19651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-16</Date>
+    <Open>5.20208</Open>
+    <High>5.28143</High>
+    <Low>4.82729</Low>
+    <Close>5.0131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-17</Date>
+    <Open>5.01105</Open>
+    <High>5.46805</High>
+    <Low>4.91925</Low>
+    <Close>5.16557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-18</Date>
+    <Open>5.15857</Open>
+    <High>5.57845</High>
+    <Low>4.92185</Low>
+    <Close>4.9667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-19</Date>
+    <Open>4.9587</Open>
+    <High>5.15395</High>
+    <Low>4.86456</Low>
+    <Close>5.0848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-20</Date>
+    <Open>5.0858</Open>
+    <High>5.61695</High>
+    <Low>4.92295</Low>
+    <Close>5.49999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-21</Date>
+    <Open>5.50799</Open>
+    <High>5.71709</High>
+    <Low>5.39773</Low>
+    <Close>5.64313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-22</Date>
+    <Open>5.63184</Open>
+    <High>5.98108</High>
+    <Low>5.32948</Low>
+    <Close>5.5221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-23</Date>
+    <Open>5.51805</Open>
+    <High>5.9606</High>
+    <Low>5.5071</Low>
+    <Close>5.78787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-24</Date>
+    <Open>5.78881</Open>
+    <High>5.97802</High>
+    <Low>5.47888</Low>
+    <Close>5.51911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-25</Date>
+    <Open>5.51911</Open>
+    <High>5.92407</High>
+    <Low>5.38713</Low>
+    <Close>5.70491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-26</Date>
+    <Open>5.70197</Open>
+    <High>6.03748</High>
+    <Low>5.69197</Low>
+    <Close>5.82947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-27</Date>
+    <Open>5.83047</Open>
+    <High>6.17949</High>
+    <Low>5.59329</Low>
+    <Close>5.99858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-28</Date>
+    <Open>6.0011</Open>
+    <High>6.10938</High>
+    <Low>5.80128</Low>
+    <Close>5.98314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-29</Date>
+    <Open>5.97725</Open>
+    <High>6.27331</High>
+    <Low>5.96725</Low>
+    <Close>6.20931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-30</Date>
+    <Open>6.21025</Open>
+    <High>6.26738</High>
+    <Low>5.60189</Low>
+    <Close>5.7374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-01-31</Date>
+    <Open>5.74134</Open>
+    <High>5.94418</High>
+    <Low>5.63911</Low>
+    <Close>5.89553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-01</Date>
+    <Open>5.89941</Open>
+    <High>6.18762</High>
+    <Low>5.64428</Low>
+    <Close>6.10637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-02</Date>
+    <Open>6.10837</Open>
+    <High>6.15048</High>
+    <Low>5.77835</Low>
+    <Close>5.82917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-03</Date>
+    <Open>5.82817</Open>
+    <High>5.90383</High>
+    <Low>5.72686</Low>
+    <Close>5.87647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-04</Date>
+    <Open>5.87747</Open>
+    <High>5.96972</High>
+    <Low>5.7624</Low>
+    <Close>5.86147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-05</Date>
+    <Open>5.86253</Open>
+    <High>5.96125</High>
+    <Low>5.55744</Low>
+    <Close>5.67842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-06</Date>
+    <Open>5.63446</Open>
+    <High>5.68436</High>
+    <Low>5.46704</Low>
+    <Close>5.50622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-07</Date>
+    <Open>5.50722</Open>
+    <High>5.88524</High>
+    <Low>5.38243</Low>
+    <Close>5.87241</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-08</Date>
+    <Open>5.86735</Open>
+    <High>5.97994</High>
+    <Low>5.61822</Low>
+    <Close>5.6864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-09</Date>
+    <Open>5.65634</Open>
+    <High>5.75177</High>
+    <Low>4.97034</Low>
+    <Close>5.0055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-10</Date>
+    <Open>5.0105</Open>
+    <High>5.19252</High>
+    <Low>4.99025</Low>
+    <Close>5.06376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-11</Date>
+    <Open>5.05581</Open>
+    <High>5.28053</High>
+    <Low>5.03576</Low>
+    <Close>5.26147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-12</Date>
+    <Open>5.26805</Open>
+    <High>5.70906</High>
+    <Low>5.19468</Low>
+    <Close>5.54155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-13</Date>
+    <Open>5.54355</Open>
+    <High>5.65213</High>
+    <Low>5.20126</Low>
+    <Close>5.27885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-14</Date>
+    <Open>5.2759</Open>
+    <High>5.56122</High>
+    <Low>5.27385</Low>
+    <Close>5.5311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-15</Date>
+    <Open>5.53021</Open>
+    <High>6.0309</High>
+    <Low>5.49692</Low>
+    <Close>5.98114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-16</Date>
+    <Open>5.98508</Open>
+    <High>6.25769</High>
+    <Low>5.82011</Low>
+    <Close>5.97003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-17</Date>
+    <Open>5.96703</Open>
+    <High>7.80831</High>
+    <Low>5.91365</Low>
+    <Close>7.37374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-18</Date>
+    <Open>7.37274</Open>
+    <High>7.671</High>
+    <Low>7.0317</Low>
+    <Close>7.0412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-19</Date>
+    <Open>7.04513</Open>
+    <High>8.23456</High>
+    <Low>7.03112</Low>
+    <Close>7.3807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-20</Date>
+    <Open>7.38062</Open>
+    <High>7.51973</High>
+    <Low>7.12907</Low>
+    <Close>7.29529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-21</Date>
+    <Open>7.30229</Open>
+    <High>7.36381</High>
+    <Low>6.76035</Low>
+    <Close>6.85323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-22</Date>
+    <Open>6.85517</Open>
+    <High>7.30902</High>
+    <Low>6.46684</Low>
+    <Close>6.712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-23</Date>
+    <Open>6.71193</Open>
+    <High>6.96463</High>
+    <Low>6.56125</Low>
+    <Close>6.69387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-24</Date>
+    <Open>6.68494</Open>
+    <High>6.85975</High>
+    <Low>6.10049</Low>
+    <Close>6.19194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-25</Date>
+    <Open>6.18988</Open>
+    <High>6.36651</High>
+    <Low>5.89012</Low>
+    <Close>6.09943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-26</Date>
+    <Open>6.09261</Open>
+    <High>6.32225</High>
+    <Low>6.0266</Low>
+    <Close>6.20937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-27</Date>
+    <Open>6.20631</Open>
+    <High>6.49819</High>
+    <Low>5.99818</Low>
+    <Close>6.14037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-02-28</Date>
+    <Open>6.14331</Open>
+    <High>6.15137</High>
+    <Low>5.76246</Low>
+    <Close>5.83999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-01</Date>
+    <Open>5.83711</Open>
+    <High>6.22356</High>
+    <Low>5.74575</Low>
+    <Close>6.1278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-02</Date>
+    <Open>6.1278</Open>
+    <High>6.19674</High>
+    <Low>5.7654</Low>
+    <Close>5.93453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-03</Date>
+    <Open>5.93848</Open>
+    <High>5.94512</High>
+    <Low>5.25874</Low>
+    <Close>5.55539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-04</Date>
+    <Open>5.5555</Open>
+    <High>5.63534</High>
+    <Low>5.20526</Low>
+    <Close>5.33537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-05</Date>
+    <Open>5.33943</Open>
+    <High>5.54822</High>
+    <Low>5.33553</Low>
+    <Close>5.38059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-06</Date>
+    <Open>5.37359</Open>
+    <High>5.53117</High>
+    <Low>5.2441</Low>
+    <Close>5.34568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-07</Date>
+    <Open>5.34368</Open>
+    <High>5.42595</High>
+    <Low>5.15028</Low>
+    <Close>5.27174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-08</Date>
+    <Open>5.27574</Open>
+    <High>5.36352</High>
+    <Low>4.98375</Low>
+    <Close>5.0308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-09</Date>
+    <Open>5.0305</Open>
+    <High>5.254</High>
+    <Low>4.65907</Low>
+    <Close>4.68047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-10</Date>
+    <Open>4.67747</Open>
+    <High>4.98269</High>
+    <Low>4.57763</Low>
+    <Close>4.9465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-11</Date>
+    <Open>4.94645</Open>
+    <High>5.09208</High>
+    <Low>4.55321</Low>
+    <Close>4.70144</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-12</Date>
+    <Open>4.70446</Open>
+    <High>5.18135</High>
+    <Low>4.655</Low>
+    <Close>5.13245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-13</Date>
+    <Open>5.13851</Open>
+    <High>5.46826</High>
+    <Low>4.99698</Low>
+    <Close>5.42757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-14</Date>
+    <Open>5.42847</Open>
+    <High>5.79723</High>
+    <Low>5.23951</Low>
+    <Close>5.55072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-15</Date>
+    <Open>5.5549</Open>
+    <High>5.70791</High>
+    <Low>4.97482</Low>
+    <Close>5.17263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-16</Date>
+    <Open>5.17057</Open>
+    <High>5.27641</High>
+    <Low>5.05648</Low>
+    <Close>5.16683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-17</Date>
+    <Open>5.16467</Open>
+    <High>5.68529</High>
+    <Low>5.12671</Low>
+    <Close>5.55255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-18</Date>
+    <Open>5.5506</Open>
+    <High>5.77242</High>
+    <Low>5.29927</Low>
+    <Close>5.39308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-19</Date>
+    <Open>5.39313</Open>
+    <High>5.62978</High>
+    <Low>5.2998</Low>
+    <Close>5.45548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-20</Date>
+    <Open>5.45347</Open>
+    <High>5.54097</High>
+    <Low>5.05674</Low>
+    <Close>5.14571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-21</Date>
+    <Open>5.14476</Open>
+    <High>5.30581</High>
+    <Low>5.0187</Low>
+    <Close>5.28887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-22</Date>
+    <Open>5.29082</Open>
+    <High>5.31047</High>
+    <Low>4.85722</Low>
+    <Close>5.06574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-23</Date>
+    <Open>5.06283</Open>
+    <High>5.26451</High>
+    <Low>5.00357</Low>
+    <Close>5.17975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-24</Date>
+    <Open>5.18286</Open>
+    <High>5.25503</High>
+    <Low>4.86229</Low>
+    <Close>4.92206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-25</Date>
+    <Open>4.92346</Open>
+    <High>4.99759</High>
+    <Low>4.7874</Low>
+    <Close>4.85971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-26</Date>
+    <Open>4.85866</Open>
+    <High>5.02452</High>
+    <Low>4.8578</Low>
+    <Close>4.94959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-27</Date>
+    <Open>4.94243</Open>
+    <High>5.02147</High>
+    <Low>4.63415</Low>
+    <Close>4.73723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-28</Date>
+    <Open>4.73522</Open>
+    <High>4.87036</High>
+    <Low>4.67424</Low>
+    <Close>4.81483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-29</Date>
+    <Open>4.81488</Open>
+    <High>5.1933</High>
+    <Low>4.80287</Low>
+    <Close>5.14398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-30</Date>
+    <Open>5.14098</Open>
+    <High>5.19614</High>
+    <Low>4.91598</Low>
+    <Close>5.0104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-03-31</Date>
+    <Open>5.01235</Open>
+    <High>5.29258</High>
+    <Low>4.96465</Low>
+    <Close>5.20904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-01</Date>
+    <Open>5.21309</Open>
+    <High>5.28495</High>
+    <Low>5.09595</Low>
+    <Close>5.2749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-02</Date>
+    <Open>5.27095</Open>
+    <High>5.30154</High>
+    <Low>4.98539</Low>
+    <Close>5.04713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-03</Date>
+    <Open>5.04713</Open>
+    <High>5.08719</High>
+    <Low>4.8394</Low>
+    <Close>4.89196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-04</Date>
+    <Open>4.88996</Open>
+    <High>5.04302</High>
+    <Low>4.88795</Low>
+    <Close>4.99955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-05</Date>
+    <Open>4.99855</Open>
+    <High>5.14349</High>
+    <Low>4.93983</Low>
+    <Close>4.98679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-06</Date>
+    <Open>4.99185</Open>
+    <High>5.03596</High>
+    <Low>4.84284</Low>
+    <Close>4.87671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-07</Date>
+    <Open>4.87571</Open>
+    <High>5.09046</High>
+    <Low>4.80974</Low>
+    <Close>4.96267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-08</Date>
+    <Open>4.96372</Open>
+    <High>5.03297</High>
+    <Low>4.86648</Low>
+    <Close>4.8799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-09</Date>
+    <Open>4.8819</Open>
+    <High>5.05803</High>
+    <Low>4.84844</Low>
+    <Close>5.05138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-10</Date>
+    <Open>5.05454</Open>
+    <High>5.19431</High>
+    <Low>4.96034</Low>
+    <Close>5.18525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-11</Date>
+    <Open>5.18925</Open>
+    <High>5.28823</High>
+    <Low>5.13967</Low>
+    <Close>5.2602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-12</Date>
+    <Open>5.2602</Open>
+    <High>5.48433</High>
+    <Low>5.13054</Low>
+    <Close>5.40321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-13</Date>
+    <Open>5.41322</Open>
+    <High>5.51288</High>
+    <Low>5.26816</Low>
+    <Close>5.44923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-14</Date>
+    <Open>5.44823</Open>
+    <High>5.65703</High>
+    <Low>5.33959</Low>
+    <Close>5.49456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-15</Date>
+    <Open>5.49456</Open>
+    <High>5.80668</High>
+    <Low>5.38906</Low>
+    <Close>5.76218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-16</Date>
+    <Open>5.76218</Open>
+    <High>6.20008</High>
+    <Low>5.74811</Low>
+    <Close>6.10715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-17</Date>
+    <Open>6.10615</Open>
+    <High>6.26207</High>
+    <Low>5.8415</Low>
+    <Close>6.19171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-18</Date>
+    <Open>6.18565</Open>
+    <High>7.00203</High>
+    <Low>6.1307</Low>
+    <Close>6.84216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-19</Date>
+    <Open>6.84516</Open>
+    <High>7.23739</High>
+    <Low>6.08825</Low>
+    <Close>6.21342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-20</Date>
+    <Open>6.21435</Open>
+    <High>6.39617</High>
+    <Low>5.82496</Low>
+    <Close>5.87247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-21</Date>
+    <Open>5.87641</Open>
+    <High>5.93447</High>
+    <Low>5.39346</Low>
+    <Close>5.4484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-22</Date>
+    <Open>5.4484</Open>
+    <High>5.61217</High>
+    <Low>5.39405</Low>
+    <Close>5.5845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-23</Date>
+    <Open>5.5825</Open>
+    <High>5.62845</High>
+    <Low>5.25316</Low>
+    <Close>5.37927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-24</Date>
+    <Open>5.37827</Open>
+    <High>5.576</High>
+    <Low>5.26132</Low>
+    <Close>5.36811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-25</Date>
+    <Open>5.36816</Open>
+    <High>5.51732</High>
+    <Low>5.17452</Low>
+    <Close>5.51627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-26</Date>
+    <Open>5.51927</Open>
+    <High>5.71451</High>
+    <Low>5.04901</Low>
+    <Close>5.34571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-27</Date>
+    <Open>5.33371</Open>
+    <High>5.78066</High>
+    <Low>5.25773</Low>
+    <Close>5.73889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-28</Date>
+    <Open>5.73589</Open>
+    <High>6.1594</High>
+    <Low>5.67487</Low>
+    <Close>6.01563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-29</Date>
+    <Open>6.02464</Open>
+    <High>6.82464</High>
+    <Low>6.01651</Low>
+    <Close>6.59989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-04-30</Date>
+    <Open>6.6139</Open>
+    <High>6.68607</High>
+    <Low>6.22849</Low>
+    <Close>6.44967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-01</Date>
+    <Open>6.43367</Open>
+    <High>6.5006</High>
+    <Low>5.62839</Low>
+    <Close>5.72755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-02</Date>
+    <Open>5.72749</Open>
+    <High>5.81283</High>
+    <Low>5.6249</Low>
+    <Close>5.71448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-03</Date>
+    <Open>5.71548</Open>
+    <High>5.88394</High>
+    <Low>5.54694</Low>
+    <Close>5.85452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-04</Date>
+    <Open>5.86458</Open>
+    <High>6.19955</High>
+    <Low>5.79762</Low>
+    <Close>5.95814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-05</Date>
+    <Open>5.95714</Open>
+    <High>6.07249</High>
+    <Low>5.80309</Low>
+    <Close>5.99645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-06</Date>
+    <Open>5.99751</Open>
+    <High>6.01028</High>
+    <Low>5.54368</Low>
+    <Close>5.5847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-07</Date>
+    <Open>5.58448</Open>
+    <High>5.71453</High>
+    <Low>5.55164</Low>
+    <Close>5.58152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-08</Date>
+    <Open>5.58192</Open>
+    <High>5.64412</High>
+    <Low>5.16561</Low>
+    <Close>5.29702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-09</Date>
+    <Open>5.29897</Open>
+    <High>5.35755</High>
+    <Low>5.16018</Low>
+    <Close>5.25325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-10</Date>
+    <Open>5.25231</Open>
+    <High>5.48002</High>
+    <Low>5.06456</Low>
+    <Close>5.29429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-11</Date>
+    <Open>5.29529</Open>
+    <High>5.34881</High>
+    <Low>4.91742</Low>
+    <Close>5.02001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-12</Date>
+    <Open>5.02102</Open>
+    <High>5.21613</High>
+    <Low>4.94094</Low>
+    <Close>5.19315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-13</Date>
+    <Open>5.19015</Open>
+    <High>5.24314</High>
+    <Low>5.09455</Low>
+    <Close>5.14157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-14</Date>
+    <Open>5.14057</Open>
+    <High>5.29765</High>
+    <Low>5.07804</Low>
+    <Close>5.18311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-15</Date>
+    <Open>5.18659</Open>
+    <High>5.39077</High>
+    <Low>5.12007</Low>
+    <Close>5.26568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-16</Date>
+    <Open>5.26568</Open>
+    <High>5.29771</High>
+    <Low>5.16607</Low>
+    <Close>5.24562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-17</Date>
+    <Open>5.2461</Open>
+    <High>5.41917</High>
+    <Low>5.12456</Low>
+    <Close>5.36314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-18</Date>
+    <Open>5.36268</Open>
+    <High>5.42917</High>
+    <Low>5.13805</Low>
+    <Close>5.28111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-19</Date>
+    <Open>5.28311</Open>
+    <High>5.36568</High>
+    <Low>5.21452</Low>
+    <Close>5.3276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-20</Date>
+    <Open>5.32966</Open>
+    <High>5.34267</High>
+    <Low>5.18414</Low>
+    <Close>5.19067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-21</Date>
+    <Open>5.18867</Open>
+    <High>5.23671</High>
+    <Low>5.0025</Low>
+    <Close>5.02101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-22</Date>
+    <Open>5.02101</Open>
+    <High>5.14909</High>
+    <Low>4.98199</Low>
+    <Close>5.09955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-23</Date>
+    <Open>5.10271</Open>
+    <High>5.20694</High>
+    <Low>5.0203</Low>
+    <Close>5.02125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-24</Date>
+    <Open>5.0213</Open>
+    <High>5.04355</High>
+    <Low>4.76286</Low>
+    <Close>4.83471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-25</Date>
+    <Open>4.82976</Open>
+    <High>4.87395</High>
+    <Low>4.71881</Low>
+    <Close>4.80614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-26</Date>
+    <Open>4.8031</Open>
+    <High>4.92338</High>
+    <Low>4.74343</Low>
+    <Close>4.85697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-27</Date>
+    <Open>4.85697</Open>
+    <High>4.97059</High>
+    <Low>4.80739</Low>
+    <Close>4.89981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ICP">
+    <Date>2023-05-28</Date>
+    <Open>4.90782</Open>
+    <High>5.0005</High>
+    <Low>4.85926</Low>
+    <Close>4.94414</Close>
+  </Cryptocurrency>
+</Root>

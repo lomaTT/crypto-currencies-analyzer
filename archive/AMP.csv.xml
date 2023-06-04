@@ -1,0 +1,6667 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-20</Date>
+    <Open>0.005516</Open>
+    <High>0.005516</High>
+    <Low>0.005516</Low>
+    <Close>0.005516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-21</Date>
+    <Open>0.005516</Open>
+    <High>0.005922</High>
+    <Low>0.005313</Low>
+    <Close>0.005313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-22</Date>
+    <Open>0.005313</Open>
+    <High>0.005916</High>
+    <Low>0.005277</Low>
+    <Close>0.005277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-23</Date>
+    <Open>0.005277</Open>
+    <High>0.005277</High>
+    <Low>0.005277</Low>
+    <Close>0.005277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-24</Date>
+    <Open>0.005277</Open>
+    <High>0.005629</High>
+    <Low>0.004995</Low>
+    <Close>0.005629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-25</Date>
+    <Open>0.005629</Open>
+    <High>0.005629</High>
+    <Low>0.004995</Low>
+    <Close>0.004995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-26</Date>
+    <Open>0.004995</Open>
+    <High>0.004995</High>
+    <Low>0.004947</Low>
+    <Close>0.004947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-27</Date>
+    <Open>0.004947</Open>
+    <High>0.005092</High>
+    <Low>0.004806</Low>
+    <Close>0.004806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-28</Date>
+    <Open>0.004806</Open>
+    <High>0.004806</High>
+    <Low>0.004514</Low>
+    <Close>0.004514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-29</Date>
+    <Open>0.004514</Open>
+    <High>0.00456</High>
+    <Low>0.004072</Low>
+    <Close>0.00456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-30</Date>
+    <Open>0.00456</Open>
+    <High>0.004638</High>
+    <Low>0.003358</Low>
+    <Close>0.004052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-10-31</Date>
+    <Open>0.004052</Open>
+    <High>0.004777</High>
+    <Low>0.004012</Low>
+    <Close>0.004012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-01</Date>
+    <Open>0.004012</Open>
+    <High>0.004633</High>
+    <Low>0.003818</Low>
+    <Close>0.004072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-02</Date>
+    <Open>0.004072</Open>
+    <High>0.004077</High>
+    <Low>0.003822</Low>
+    <Close>0.004077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-03</Date>
+    <Open>0.004077</Open>
+    <High>0.004077</High>
+    <Low>0.003707</Low>
+    <Close>0.004004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-04</Date>
+    <Open>0.004004</Open>
+    <High>0.004004</High>
+    <Low>0.003765</Low>
+    <Close>0.004004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-05</Date>
+    <Open>0.004004</Open>
+    <High>0.004036</High>
+    <Low>0.0037</Low>
+    <Close>0.0037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-06</Date>
+    <Open>0.0037</Open>
+    <High>0.005272</High>
+    <Low>0.00305</Low>
+    <Close>0.004942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-07</Date>
+    <Open>0.004942</Open>
+    <High>0.004952</High>
+    <Low>0.003657</Low>
+    <Close>0.003657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-08</Date>
+    <Open>0.003657</Open>
+    <High>0.003822</High>
+    <Low>0.003654</Low>
+    <Close>0.003822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-09</Date>
+    <Open>0.003822</Open>
+    <High>0.004168</High>
+    <Low>0.003818</Low>
+    <Close>0.003818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-10</Date>
+    <Open>0.003818</Open>
+    <High>0.003822</High>
+    <Low>0.003358</Low>
+    <Close>0.003506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-11</Date>
+    <Open>0.003506</Open>
+    <High>0.003826</High>
+    <Low>0.003506</Low>
+    <Close>0.003826</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-12</Date>
+    <Open>0.003826</Open>
+    <High>0.004295</High>
+    <Low>0.003818</Low>
+    <Close>0.004295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-13</Date>
+    <Open>0.004295</Open>
+    <High>0.004295</High>
+    <Low>0.00372</Low>
+    <Close>0.003818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-14</Date>
+    <Open>0.003818</Open>
+    <High>0.003818</High>
+    <Low>0.0036</Low>
+    <Close>0.0036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-15</Date>
+    <Open>0.0036</Open>
+    <High>0.004076</High>
+    <Low>0.0036</Low>
+    <Close>0.003605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-16</Date>
+    <Open>0.003605</Open>
+    <High>0.0045</High>
+    <Low>0.0036</Low>
+    <Close>0.004179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-17</Date>
+    <Open>0.004179</Open>
+    <High>0.004638</High>
+    <Low>0.003822</Low>
+    <Close>0.004413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-18</Date>
+    <Open>0.004413</Open>
+    <High>0.00495</High>
+    <Low>0.004409</Low>
+    <Close>0.004409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-19</Date>
+    <Open>0.004409</Open>
+    <High>0.004413</High>
+    <Low>0.004076</Low>
+    <Close>0.004076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-20</Date>
+    <Open>0.004076</Open>
+    <High>0.004633</High>
+    <Low>0.004072</Low>
+    <Close>0.004633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-21</Date>
+    <Open>0.004633</Open>
+    <High>0.004633</High>
+    <Low>0.003994</Low>
+    <Close>0.004603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-22</Date>
+    <Open>0.004603</Open>
+    <High>0.004895</High>
+    <Low>0.00433</Low>
+    <Close>0.004895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-23</Date>
+    <Open>0.004895</Open>
+    <High>0.005729</High>
+    <Low>0.004848</Low>
+    <Close>0.005699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-24</Date>
+    <Open>0.005699</Open>
+    <High>0.005728</High>
+    <Low>0.004631</Low>
+    <Close>0.00527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-25</Date>
+    <Open>0.00527</Open>
+    <High>0.00591</High>
+    <Low>0.00527</Low>
+    <Close>0.005552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-26</Date>
+    <Open>0.005552</Open>
+    <High>0.005563</High>
+    <Low>0.004642</Low>
+    <Close>0.004952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-27</Date>
+    <Open>0.004952</Open>
+    <High>0.005806</High>
+    <Low>0.004638</Low>
+    <Close>0.005806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-28</Date>
+    <Open>0.005806</Open>
+    <High>0.006176</High>
+    <Low>0.005553</Low>
+    <Close>0.005806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-29</Date>
+    <Open>0.005806</Open>
+    <High>0.006229</High>
+    <Low>0.005806</Low>
+    <Close>0.005958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-11-30</Date>
+    <Open>0.005958</Open>
+    <High>0.00651</High>
+    <Low>0.005625</Low>
+    <Close>0.00651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-01</Date>
+    <Open>0.00651</Open>
+    <High>0.006517</High>
+    <Low>0.005756</Low>
+    <Close>0.005756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-02</Date>
+    <Open>0.005756</Open>
+    <High>0.006206</High>
+    <Low>0.005756</Low>
+    <Close>0.005756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-03</Date>
+    <Open>0.005756</Open>
+    <High>0.005756</High>
+    <Low>0.004104</Low>
+    <Close>0.005505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-04</Date>
+    <Open>0.005505</Open>
+    <High>0.005623</High>
+    <Low>0.0052</Low>
+    <Close>0.00543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-05</Date>
+    <Open>0.00543</Open>
+    <High>0.006404</High>
+    <Low>0.005205</Low>
+    <Close>0.006206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-06</Date>
+    <Open>0.006206</Open>
+    <High>0.007085</High>
+    <Low>0.004104</Low>
+    <Close>0.007007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-07</Date>
+    <Open>0.007007</Open>
+    <High>0.007506</High>
+    <Low>0.006404</Low>
+    <Close>0.006404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-08</Date>
+    <Open>0.006404</Open>
+    <High>0.008098</High>
+    <Low>0.006298</Low>
+    <Close>0.007898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-09</Date>
+    <Open>0.007898</Open>
+    <High>0.0079</High>
+    <Low>0.006345</Low>
+    <Close>0.006465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-10</Date>
+    <Open>0.006465</Open>
+    <High>0.006824</High>
+    <Low>0.0063</Low>
+    <Close>0.0063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-11</Date>
+    <Open>0.0063</Open>
+    <High>0.006481</High>
+    <Low>0.005623</Low>
+    <Close>0.005623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-12</Date>
+    <Open>0.005623</Open>
+    <High>0.006156</High>
+    <Low>0.005623</Low>
+    <Close>0.005629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-13</Date>
+    <Open>0.005629</Open>
+    <High>0.00625</High>
+    <Low>0.005623</Low>
+    <Close>0.00625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-14</Date>
+    <Open>0.00625</Open>
+    <High>0.006397</High>
+    <Low>0.005923</Low>
+    <Close>0.006397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-15</Date>
+    <Open>0.005975</Open>
+    <High>0.006221</High>
+    <Low>0.005638</Low>
+    <Close>0.006027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-16</Date>
+    <Open>0.006404</Open>
+    <High>0.006499</High>
+    <Low>0.005299</Low>
+    <Close>0.006499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-17</Date>
+    <Open>0.006499</Open>
+    <High>0.007089</High>
+    <Low>0.006397</Low>
+    <Close>0.006397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-18</Date>
+    <Open>0.006397</Open>
+    <High>0.007297</High>
+    <Low>0.006354</Low>
+    <Close>0.006354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-19</Date>
+    <Open>0.006354</Open>
+    <High>0.00729</High>
+    <Low>0.006348</Low>
+    <Close>0.0072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-20</Date>
+    <Open>0.0072</Open>
+    <High>0.007287</High>
+    <Low>0.006629</Low>
+    <Close>0.006629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-21</Date>
+    <Open>0.006629</Open>
+    <High>0.006865</High>
+    <Low>0.005799</Low>
+    <Close>0.005799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-22</Date>
+    <Open>0.005799</Open>
+    <High>0.006595</High>
+    <Low>0.005621</Low>
+    <Close>0.006595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-23</Date>
+    <Open>0.006595</Open>
+    <High>0.006595</High>
+    <Low>0.005994</Low>
+    <Close>0.006393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-24</Date>
+    <Open>0.006393</Open>
+    <High>0.006397</High>
+    <Low>0.005623</Low>
+    <Close>0.005623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-25</Date>
+    <Open>0.005623</Open>
+    <High>0.005623</High>
+    <Low>0.005623</Low>
+    <Close>0.005623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-26</Date>
+    <Open>0.005623</Open>
+    <High>0.006387</High>
+    <Low>0.005614</Low>
+    <Close>0.005895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-27</Date>
+    <Open>0.005895</Open>
+    <High>0.006842</High>
+    <Low>0.004495</Low>
+    <Close>0.006032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-28</Date>
+    <Open>0.006032</Open>
+    <High>0.007723</High>
+    <Low>0.004854</Low>
+    <Close>0.00599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-29</Date>
+    <Open>0.00599</Open>
+    <High>0.007983</High>
+    <Low>0.005988</Low>
+    <Close>0.00625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-30</Date>
+    <Open>0.00625</Open>
+    <High>0.006824</High>
+    <Low>0.00575</Low>
+    <Close>0.005998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2020-12-31</Date>
+    <Open>0.005998</Open>
+    <High>0.006406</High>
+    <Low>0.005806</Low>
+    <Close>0.006406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-01</Date>
+    <Open>0.006406</Open>
+    <High>0.006838</High>
+    <Low>0.005812</Low>
+    <Close>0.006411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-02</Date>
+    <Open>0.006411</Open>
+    <High>0.0067</High>
+    <Low>0.005998</Low>
+    <Close>0.00635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-03</Date>
+    <Open>0.00635</Open>
+    <High>0.0081</High>
+    <Low>0.0046</Low>
+    <Close>0.0075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-04</Date>
+    <Open>0.0075</Open>
+    <High>0.009277</High>
+    <Low>0.006824</Low>
+    <Close>0.007777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-05</Date>
+    <Open>0.007777</Open>
+    <High>0.009519</High>
+    <Low>0.007777</Low>
+    <Close>0.009117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-06</Date>
+    <Open>0.009117</Open>
+    <High>0.009509</High>
+    <Low>0.009108</Low>
+    <Close>0.009508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-07</Date>
+    <Open>0.009508</Open>
+    <High>0.009508</High>
+    <Low>0.00878</Low>
+    <Close>0.00878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-08</Date>
+    <Open>0.00878</Open>
+    <High>0.009499</High>
+    <Low>0.008218</Low>
+    <Close>0.008218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-09</Date>
+    <Open>0.008218</Open>
+    <High>0.009527</High>
+    <Low>0.008218</Low>
+    <Close>0.009527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-10</Date>
+    <Open>0.009527</Open>
+    <High>0.009527</High>
+    <Low>0.008499</Low>
+    <Close>0.009498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-11</Date>
+    <Open>0.009498</Open>
+    <High>0.009508</High>
+    <Low>0.006839</Low>
+    <Close>0.007286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-12</Date>
+    <Open>0.007286</Open>
+    <High>0.009506</High>
+    <Low>0.007286</Low>
+    <Close>0.007858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-13</Date>
+    <Open>0.007858</Open>
+    <High>0.009497</High>
+    <Low>0.007</Low>
+    <Close>0.009277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-14</Date>
+    <Open>0.009277</Open>
+    <High>0.009277</High>
+    <Low>0.007906</Low>
+    <Close>0.00821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-15</Date>
+    <Open>0.00821</Open>
+    <High>0.008729</High>
+    <Low>0.007732</Low>
+    <Close>0.008729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-16</Date>
+    <Open>0.008729</Open>
+    <High>0.008731</High>
+    <Low>0.007734</Low>
+    <Close>0.0078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-17</Date>
+    <Open>0.0078</Open>
+    <High>0.0078</High>
+    <Low>0.007279</Low>
+    <Close>0.00753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-18</Date>
+    <Open>0.00753</Open>
+    <High>0.008226</High>
+    <Low>0.007507</Low>
+    <Close>0.008178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-19</Date>
+    <Open>0.008178</Open>
+    <High>0.009</High>
+    <Low>0.0071</Low>
+    <Close>0.007501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-20</Date>
+    <Open>0.007501</Open>
+    <High>0.007975</High>
+    <Low>0.006833</Low>
+    <Close>0.006833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-21</Date>
+    <Open>0.006833</Open>
+    <High>0.007498</High>
+    <Low>0.005999</Low>
+    <Close>0.006688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-22</Date>
+    <Open>0.006688</Open>
+    <High>0.007736</High>
+    <Low>0.006506</Low>
+    <Close>0.007679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-23</Date>
+    <Open>0.007679</Open>
+    <High>0.008559</High>
+    <Low>0.006506</Low>
+    <Close>0.006834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-24</Date>
+    <Open>0.006834</Open>
+    <High>0.007362</High>
+    <Low>0.006413</Low>
+    <Close>0.006513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-25</Date>
+    <Open>0.006513</Open>
+    <High>0.006984</High>
+    <Low>0.006007</Low>
+    <Close>0.006799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-26</Date>
+    <Open>0.006799</Open>
+    <High>0.007407</High>
+    <Low>0.006014</Low>
+    <Close>0.007407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-27</Date>
+    <Open>0.007407</Open>
+    <High>0.007415</High>
+    <Low>0.006012</Low>
+    <Close>0.006062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-28</Date>
+    <Open>0.006062</Open>
+    <High>0.006659</High>
+    <Low>0.005775</Low>
+    <Close>0.006659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-29</Date>
+    <Open>0.006659</Open>
+    <High>0.0075</High>
+    <Low>0.006074</Low>
+    <Close>0.007433</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-30</Date>
+    <Open>0.007433</Open>
+    <High>0.00744</High>
+    <Low>0.006136</Low>
+    <Close>0.007387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-01-31</Date>
+    <Open>0.007387</Open>
+    <High>0.009507</High>
+    <Low>0.006506</Low>
+    <Close>0.008311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-01</Date>
+    <Open>0.008311</Open>
+    <High>0.009508</High>
+    <Low>0.008194</Low>
+    <Close>0.009076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-02</Date>
+    <Open>0.009076</Open>
+    <High>0.009709</High>
+    <Low>0.008206</Low>
+    <Close>0.009699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-03</Date>
+    <Open>0.009699</Open>
+    <High>0.0097</High>
+    <Low>0.008509</Low>
+    <Close>0.009456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-04</Date>
+    <Open>0.009456</Open>
+    <High>0.01101</High>
+    <Low>0.008529</Low>
+    <Close>0.009512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-05</Date>
+    <Open>0.009512</Open>
+    <High>0.0145</High>
+    <Low>0.009501</Low>
+    <Close>0.01253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-06</Date>
+    <Open>0.01253</Open>
+    <High>0.01401</High>
+    <Low>0.01101</Low>
+    <Close>0.0116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-07</Date>
+    <Open>0.0116</Open>
+    <High>0.0116</High>
+    <Low>0.01092</Low>
+    <Close>0.01134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-08</Date>
+    <Open>0.01134</Open>
+    <High>0.01166</High>
+    <Low>0.01071</Low>
+    <Close>0.01166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-09</Date>
+    <Open>0.01166</Open>
+    <High>0.01251</High>
+    <Low>0.01076</Low>
+    <Close>0.01251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-10</Date>
+    <Open>0.01251</Open>
+    <High>0.0178</High>
+    <Low>0.01117</Low>
+    <Close>0.01501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-11</Date>
+    <Open>0.01501</Open>
+    <High>0.03</High>
+    <Low>0.015</Low>
+    <Close>0.03</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-12</Date>
+    <Open>0.03</Open>
+    <High>0.03897</High>
+    <Low>0.02664</Low>
+    <Close>0.03555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-13</Date>
+    <Open>0.03555</Open>
+    <High>0.03854</High>
+    <Low>0.03203</Low>
+    <Close>0.03342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-14</Date>
+    <Open>0.03342</Open>
+    <High>0.03804</High>
+    <Low>0.02523</Low>
+    <Close>0.02945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-15</Date>
+    <Open>0.02945</Open>
+    <High>0.0398</High>
+    <Low>0.02942</Low>
+    <Close>0.03646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-16</Date>
+    <Open>0.03646</Open>
+    <High>0.03781</High>
+    <Low>0.03109</Low>
+    <Close>0.03322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-17</Date>
+    <Open>0.03322</Open>
+    <High>0.0338</High>
+    <Low>0.02994</Low>
+    <Close>0.033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-18</Date>
+    <Open>0.033</Open>
+    <High>0.0398</High>
+    <Low>0.03123</Low>
+    <Close>0.0335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-19</Date>
+    <Open>0.0335</Open>
+    <High>0.0398</High>
+    <Low>0.0255</Low>
+    <Close>0.02883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-20</Date>
+    <Open>0.02883</Open>
+    <High>0.03399</High>
+    <Low>0.025</Low>
+    <Close>0.02819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-21</Date>
+    <Open>0.02819</Open>
+    <High>0.0345</High>
+    <Low>0.027</Low>
+    <Close>0.0282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-22</Date>
+    <Open>0.0282</Open>
+    <High>0.0327</High>
+    <Low>0.026</Low>
+    <Close>0.02763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-23</Date>
+    <Open>0.02763</Open>
+    <High>0.02778</High>
+    <Low>0.019</Low>
+    <Close>0.0216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-24</Date>
+    <Open>0.0216</Open>
+    <High>0.03162</High>
+    <Low>0.02152</Low>
+    <Close>0.02603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-25</Date>
+    <Open>0.02603</Open>
+    <High>0.02863</High>
+    <Low>0.02408</Low>
+    <Close>0.02457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-26</Date>
+    <Open>0.02457</Open>
+    <High>0.02599</High>
+    <Low>0.02141</Low>
+    <Close>0.02406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-27</Date>
+    <Open>0.02406</Open>
+    <High>0.02442</High>
+    <Low>0.02273</Low>
+    <Close>0.02273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-02-28</Date>
+    <Open>0.02273</Open>
+    <High>0.02329</High>
+    <Low>0.02154</Low>
+    <Close>0.02329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-01</Date>
+    <Open>0.02329</Open>
+    <High>0.03</High>
+    <Low>0.02324</Low>
+    <Close>0.02431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-02</Date>
+    <Open>0.02431</Open>
+    <High>0.02546</High>
+    <Low>0.02302</Low>
+    <Close>0.02468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-03</Date>
+    <Open>0.02468</Open>
+    <High>0.02543</High>
+    <Low>0.022</Low>
+    <Close>0.02492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-04</Date>
+    <Open>0.02492</Open>
+    <High>0.02543</High>
+    <Low>0.0215</Low>
+    <Close>0.02229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-05</Date>
+    <Open>0.02229</Open>
+    <High>0.02338</High>
+    <Low>0.02002</Low>
+    <Close>0.02196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-06</Date>
+    <Open>0.02196</Open>
+    <High>0.02399</High>
+    <Low>0.02005</Low>
+    <Close>0.02137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-07</Date>
+    <Open>0.02137</Open>
+    <High>0.02422</High>
+    <Low>0.02137</Low>
+    <Close>0.02336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-08</Date>
+    <Open>0.02336</Open>
+    <High>0.02392</High>
+    <Low>0.0205</Low>
+    <Close>0.0225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-09</Date>
+    <Open>0.0225</Open>
+    <High>0.02706</High>
+    <Low>0.02116</Low>
+    <Close>0.02706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-10</Date>
+    <Open>0.02706</Open>
+    <High>0.03003</High>
+    <Low>0.02433</Low>
+    <Close>0.02693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-11</Date>
+    <Open>0.02693</Open>
+    <High>0.02804</High>
+    <Low>0.02489</Low>
+    <Close>0.02542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-12</Date>
+    <Open>0.02542</Open>
+    <High>0.02743</High>
+    <Low>0.02386</Low>
+    <Close>0.02386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-13</Date>
+    <Open>0.02386</Open>
+    <High>0.0265</High>
+    <Low>0.02366</Low>
+    <Close>0.02634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-14</Date>
+    <Open>0.02634</Open>
+    <High>0.02799</High>
+    <Low>0.02388</Low>
+    <Close>0.02619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-15</Date>
+    <Open>0.02619</Open>
+    <High>0.0265</High>
+    <Low>0.0225</Low>
+    <Close>0.02322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-16</Date>
+    <Open>0.02322</Open>
+    <High>0.02525</High>
+    <Low>0.02271</Low>
+    <Close>0.02422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-17</Date>
+    <Open>0.02422</Open>
+    <High>0.02645</High>
+    <Low>0.02339</Low>
+    <Close>0.02429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-18</Date>
+    <Open>0.02429</Open>
+    <High>0.02999</High>
+    <Low>0.02429</Low>
+    <Close>0.02753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-19</Date>
+    <Open>0.02753</Open>
+    <High>0.03</High>
+    <Low>0.02674</Low>
+    <Close>0.02783</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-20</Date>
+    <Open>0.02783</Open>
+    <High>0.03319</High>
+    <Low>0.02782</Low>
+    <Close>0.03009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-21</Date>
+    <Open>0.03009</Open>
+    <High>0.034</High>
+    <Low>0.02916</Low>
+    <Close>0.02916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-22</Date>
+    <Open>0.02916</Open>
+    <High>0.02956</High>
+    <Low>0.02661</Low>
+    <Close>0.02661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-23</Date>
+    <Open>0.02661</Open>
+    <High>0.02821</High>
+    <Low>0.025</Low>
+    <Close>0.02633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-24</Date>
+    <Open>0.02633</Open>
+    <High>0.0286</High>
+    <Low>0.02465</Low>
+    <Close>0.02621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-25</Date>
+    <Open>0.02621</Open>
+    <High>0.02621</High>
+    <Low>0.0231</Low>
+    <Close>0.02388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-26</Date>
+    <Open>0.02388</Open>
+    <High>0.02703</High>
+    <Low>0.02388</Low>
+    <Close>0.02621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-27</Date>
+    <Open>0.02621</Open>
+    <High>0.02962</High>
+    <Low>0.02539</Low>
+    <Close>0.02624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-28</Date>
+    <Open>0.02624</Open>
+    <High>0.02702</High>
+    <Low>0.024</Low>
+    <Close>0.02462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-29</Date>
+    <Open>0.02462</Open>
+    <High>0.027</High>
+    <Low>0.02358</Low>
+    <Close>0.02606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-30</Date>
+    <Open>0.02606</Open>
+    <High>0.02873</High>
+    <Low>0.02402</Low>
+    <Close>0.02763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-03-31</Date>
+    <Open>0.02763</Open>
+    <High>0.029</High>
+    <Low>0.025</Low>
+    <Close>0.02779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-01</Date>
+    <Open>0.02779</Open>
+    <High>0.03199</High>
+    <Low>0.02699</Low>
+    <Close>0.03199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-02</Date>
+    <Open>0.03199</Open>
+    <High>0.033</High>
+    <Low>0.0287</Low>
+    <Close>0.02978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-03</Date>
+    <Open>0.02978</Open>
+    <High>0.03149</High>
+    <Low>0.028</Low>
+    <Close>0.028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-04</Date>
+    <Open>0.028</Open>
+    <High>0.02948</High>
+    <Low>0.02618</Low>
+    <Close>0.02744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-05</Date>
+    <Open>0.02744</Open>
+    <High>0.0299</High>
+    <Low>0.026</Low>
+    <Close>0.02769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-06</Date>
+    <Open>0.02769</Open>
+    <High>0.0299</High>
+    <Low>0.02769</Low>
+    <Close>0.02962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-07</Date>
+    <Open>0.02962</Open>
+    <High>0.03</High>
+    <Low>0.02792</Low>
+    <Close>0.02818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-08</Date>
+    <Open>0.02818</Open>
+    <High>0.03</High>
+    <Low>0.028</Low>
+    <Close>0.0299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-09</Date>
+    <Open>0.0299</Open>
+    <High>0.02999</High>
+    <Low>0.02768</Low>
+    <Close>0.02782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-10</Date>
+    <Open>0.02782</Open>
+    <High>0.0294</High>
+    <Low>0.02769</Low>
+    <Close>0.0294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-11</Date>
+    <Open>0.0294</Open>
+    <High>0.0294</High>
+    <Low>0.02725</Low>
+    <Close>0.02873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-12</Date>
+    <Open>0.02873</Open>
+    <High>0.03033</High>
+    <Low>0.02767</Low>
+    <Close>0.02933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-13</Date>
+    <Open>0.02933</Open>
+    <High>0.02999</High>
+    <Low>0.02698</Low>
+    <Close>0.02905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-14</Date>
+    <Open>0.03745</Open>
+    <High>0.0403</High>
+    <Low>0.03329</Low>
+    <Close>0.03782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-15</Date>
+    <Open>0.03782</Open>
+    <High>0.04321</High>
+    <Low>0.03538</Low>
+    <Close>0.03995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-16</Date>
+    <Open>0.03995</Open>
+    <High>0.0532</High>
+    <Low>0.03947</Low>
+    <Close>0.05307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-17</Date>
+    <Open>0.05307</Open>
+    <High>0.069</High>
+    <Low>0.045</Low>
+    <Close>0.06016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-18</Date>
+    <Open>0.06016</Open>
+    <High>0.06497</High>
+    <Low>0.0475</Low>
+    <Close>0.06299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-19</Date>
+    <Open>0.06299</Open>
+    <High>0.064</High>
+    <Low>0.0505</Low>
+    <Close>0.05375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-20</Date>
+    <Open>0.05375</Open>
+    <High>0.05479</High>
+    <Low>0.045</Low>
+    <Close>0.05099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-21</Date>
+    <Open>0.05099</Open>
+    <High>0.05865</High>
+    <Low>0.0491</Low>
+    <Close>0.05106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-22</Date>
+    <Open>0.05106</Open>
+    <High>0.05567</High>
+    <Low>0.0488</Low>
+    <Close>0.04913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-23</Date>
+    <Open>0.04913</Open>
+    <High>0.05166</High>
+    <Low>0.038</Low>
+    <Close>0.04976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-24</Date>
+    <Open>0.04976</Open>
+    <High>0.04988</High>
+    <Low>0.044</Low>
+    <Close>0.045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-25</Date>
+    <Open>0.045</Open>
+    <High>0.0475</High>
+    <Low>0.042</Low>
+    <Close>0.04569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-26</Date>
+    <Open>0.04569</Open>
+    <High>0.05999</High>
+    <Low>0.04569</Low>
+    <Close>0.0598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-27</Date>
+    <Open>0.0598</Open>
+    <High>0.06242</High>
+    <Low>0.05652</Low>
+    <Close>0.05843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-28</Date>
+    <Open>0.05843</Open>
+    <High>0.06</High>
+    <Low>0.05362</Low>
+    <Close>0.05461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-29</Date>
+    <Open>0.05461</Open>
+    <High>0.05691</High>
+    <Low>0.0445</Low>
+    <Close>0.04841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-04-30</Date>
+    <Open>0.04841</Open>
+    <High>0.0567</High>
+    <Low>0.04733</Low>
+    <Close>0.05669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-01</Date>
+    <Open>0.05669</Open>
+    <High>0.05945</High>
+    <Low>0.05556</Low>
+    <Close>0.05851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-02</Date>
+    <Open>0.05851</Open>
+    <High>0.05922</High>
+    <Low>0.056</Low>
+    <Close>0.05702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-03</Date>
+    <Open>0.05702</Open>
+    <High>0.059</High>
+    <Low>0.05691</Low>
+    <Close>0.05803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-04</Date>
+    <Open>0.05803</Open>
+    <High>0.0589</High>
+    <Low>0.05402</Low>
+    <Close>0.055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-05</Date>
+    <Open>0.055</Open>
+    <High>0.06421</High>
+    <Low>0.05469</Low>
+    <Close>0.06098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-06</Date>
+    <Open>0.06098</Open>
+    <High>0.0785</High>
+    <Low>0.05969</Low>
+    <Close>0.07367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-07</Date>
+    <Open>0.07367</Open>
+    <High>0.0772</High>
+    <Low>0.07</Low>
+    <Close>0.0723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-08</Date>
+    <Open>0.0723</Open>
+    <High>0.07589</High>
+    <Low>0.06915</Low>
+    <Close>0.07431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-09</Date>
+    <Open>0.07431</Open>
+    <High>0.07513</High>
+    <Low>0.06801</Low>
+    <Close>0.07055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-10</Date>
+    <Open>0.07055</Open>
+    <High>0.07349</High>
+    <Low>0.067</Low>
+    <Close>0.06889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-11</Date>
+    <Open>0.06889</Open>
+    <High>0.07233</High>
+    <Low>0.06505</Low>
+    <Close>0.07059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-12</Date>
+    <Open>0.07059</Open>
+    <High>0.074</High>
+    <Low>0.06229</Low>
+    <Close>0.06325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-13</Date>
+    <Open>0.06325</Open>
+    <High>0.06864</High>
+    <Low>0.0575</Low>
+    <Close>0.06302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-14</Date>
+    <Open>0.06302</Open>
+    <High>0.0699</High>
+    <Low>0.06166</Low>
+    <Close>0.06803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-15</Date>
+    <Open>0.06803</Open>
+    <High>0.06944</High>
+    <Low>0.061</Low>
+    <Close>0.06184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-16</Date>
+    <Open>0.06184</Open>
+    <High>0.06398</High>
+    <Low>0.0555</Low>
+    <Close>0.05986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-17</Date>
+    <Open>0.05986</Open>
+    <High>0.061</High>
+    <Low>0.05324</Low>
+    <Close>0.05667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-18</Date>
+    <Open>0.05667</Open>
+    <High>0.0635</High>
+    <Low>0.05575</Low>
+    <Close>0.05999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-19</Date>
+    <Open>0.05999</Open>
+    <High>0.06053</High>
+    <Low>0.03996</Low>
+    <Close>0.04566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-20</Date>
+    <Open>0.04566</Open>
+    <High>0.05604</High>
+    <Low>0.04</Low>
+    <Close>0.04907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-21</Date>
+    <Open>0.04907</Open>
+    <High>0.051</High>
+    <Low>0.03504</Low>
+    <Close>0.04058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-22</Date>
+    <Open>0.04058</Open>
+    <High>0.04305</High>
+    <Low>0.0354</Low>
+    <Close>0.03865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-23</Date>
+    <Open>0.03865</Open>
+    <High>0.03945</High>
+    <Low>0.0255</Low>
+    <Close>0.03186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-24</Date>
+    <Open>0.03186</Open>
+    <High>0.0411</High>
+    <Low>0.03</Low>
+    <Close>0.03972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-25</Date>
+    <Open>0.03972</Open>
+    <High>0.04411</High>
+    <Low>0.036</Low>
+    <Close>0.04325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-26</Date>
+    <Open>0.04325</Open>
+    <High>0.05285</High>
+    <Low>0.0405</Low>
+    <Close>0.04542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-27</Date>
+    <Open>0.04542</Open>
+    <High>0.04544</High>
+    <Low>0.0375</Low>
+    <Close>0.04032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-28</Date>
+    <Open>0.04032</Open>
+    <High>0.0415</High>
+    <Low>0.033</Low>
+    <Close>0.0368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-29</Date>
+    <Open>0.0368</Open>
+    <High>0.03748</High>
+    <Low>0.0316</Low>
+    <Close>0.03371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-30</Date>
+    <Open>0.03371</Open>
+    <High>0.04168</High>
+    <Low>0.032</Low>
+    <Close>0.03797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-05-31</Date>
+    <Open>0.03797</Open>
+    <High>0.03842</High>
+    <Low>0.03523</Low>
+    <Close>0.03777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-01</Date>
+    <Open>0.03777</Open>
+    <High>0.03994</High>
+    <Low>0.03611</Low>
+    <Close>0.03773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-02</Date>
+    <Open>0.03773</Open>
+    <High>0.041</High>
+    <Low>0.03659</Low>
+    <Close>0.0398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-03</Date>
+    <Open>0.0398</Open>
+    <High>0.04065</High>
+    <Low>0.0385</Low>
+    <Close>0.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-04</Date>
+    <Open>0.04</Open>
+    <High>0.04045</High>
+    <Low>0.03564</Low>
+    <Close>0.03952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-05</Date>
+    <Open>0.03952</Open>
+    <High>0.04837</High>
+    <Low>0.03952</Low>
+    <Close>0.04256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-06</Date>
+    <Open>0.04256</Open>
+    <High>0.04749</High>
+    <Low>0.0421</Low>
+    <Close>0.04571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-07</Date>
+    <Open>0.04571</Open>
+    <High>0.04765</High>
+    <Low>0.04086</Low>
+    <Close>0.04229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-08</Date>
+    <Open>0.04229</Open>
+    <High>0.05467</High>
+    <Low>0.038</Low>
+    <Close>0.0505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-09</Date>
+    <Open>0.0505</Open>
+    <High>0.06389</High>
+    <Low>0.0485</Low>
+    <Close>0.05926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-10</Date>
+    <Open>0.05926</Open>
+    <High>0.071</High>
+    <Low>0.051</Low>
+    <Close>0.06819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-11</Date>
+    <Open>0.06819</Open>
+    <High>0.077</High>
+    <Low>0.05891</Low>
+    <Close>0.06145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-12</Date>
+    <Open>0.06145</Open>
+    <High>0.06462</High>
+    <Low>0.05711</Low>
+    <Close>0.05943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-13</Date>
+    <Open>0.05943</Open>
+    <High>0.06299</High>
+    <Low>0.0552</Low>
+    <Close>0.06039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-14</Date>
+    <Open>0.06039</Open>
+    <High>0.0798</High>
+    <Low>0.05902</Low>
+    <Close>0.07666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-15</Date>
+    <Open>0.07666</Open>
+    <High>0.09868</High>
+    <Low>0.07584</Low>
+    <Close>0.09481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-16</Date>
+    <Open>0.09481</Open>
+    <High>0.122</High>
+    <Low>0.08642</Low>
+    <Close>0.1089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-17</Date>
+    <Open>0.1089</Open>
+    <High>0.119</High>
+    <Low>0.0925</Low>
+    <Close>0.09676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-18</Date>
+    <Open>0.09676</Open>
+    <High>0.1022</High>
+    <Low>0.0755</Low>
+    <Close>0.08244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-19</Date>
+    <Open>0.08244</Open>
+    <High>0.09408</High>
+    <Low>0.07511</Low>
+    <Close>0.08702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-20</Date>
+    <Open>0.08702</Open>
+    <High>0.09521</High>
+    <Low>0.0808</Low>
+    <Close>0.09121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-21</Date>
+    <Open>0.09121</Open>
+    <High>0.09204</High>
+    <Low>0.0631</Low>
+    <Close>0.06728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-22</Date>
+    <Open>0.06728</Open>
+    <High>0.07539</High>
+    <Low>0.0505</Low>
+    <Close>0.06056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-23</Date>
+    <Open>0.06056</Open>
+    <High>0.06775</High>
+    <Low>0.05813</Low>
+    <Close>0.06308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-24</Date>
+    <Open>0.06308</Open>
+    <High>0.06857</High>
+    <Low>0.059</Low>
+    <Close>0.06292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-25</Date>
+    <Open>0.06292</Open>
+    <High>0.0645</High>
+    <Low>0.05525</Low>
+    <Close>0.0574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-26</Date>
+    <Open>0.0574</Open>
+    <High>0.05845</High>
+    <Low>0.0538</Low>
+    <Close>0.05588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-27</Date>
+    <Open>0.05588</Open>
+    <High>0.06306</High>
+    <Low>0.05534</Low>
+    <Close>0.06198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-28</Date>
+    <Open>0.06198</Open>
+    <High>0.06216</High>
+    <Low>0.05821</Low>
+    <Close>0.05876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-29</Date>
+    <Open>0.05876</Open>
+    <High>0.063</High>
+    <Low>0.05702</Low>
+    <Close>0.0587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-06-30</Date>
+    <Open>0.0587</Open>
+    <High>0.05938</High>
+    <Low>0.055</Low>
+    <Close>0.0579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-01</Date>
+    <Open>0.0579</Open>
+    <High>0.05875</High>
+    <Low>0.05588</Low>
+    <Close>0.05681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-02</Date>
+    <Open>0.05681</Open>
+    <High>0.062</High>
+    <Low>0.05282</Low>
+    <Close>0.05759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-03</Date>
+    <Open>0.05759</Open>
+    <High>0.05885</High>
+    <Low>0.05634</Low>
+    <Close>0.05773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-04</Date>
+    <Open>0.05773</Open>
+    <High>0.05861</High>
+    <Low>0.05512</Low>
+    <Close>0.05582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-05</Date>
+    <Open>0.05582</Open>
+    <High>0.05674</High>
+    <Low>0.05417</Low>
+    <Close>0.05476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-06</Date>
+    <Open>0.05476</Open>
+    <High>0.0567</High>
+    <Low>0.053</Low>
+    <Close>0.05541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-07</Date>
+    <Open>0.05541</Open>
+    <High>0.06248</High>
+    <Low>0.05516</Low>
+    <Close>0.05715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-08</Date>
+    <Open>0.05715</Open>
+    <High>0.05793</High>
+    <Low>0.05475</Low>
+    <Close>0.05573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-09</Date>
+    <Open>0.05573</Open>
+    <High>0.05668</High>
+    <Low>0.05314</Low>
+    <Close>0.05607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-10</Date>
+    <Open>0.05607</Open>
+    <High>0.05645</High>
+    <Low>0.05394</Low>
+    <Close>0.05421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-11</Date>
+    <Open>0.05421</Open>
+    <High>0.05596</High>
+    <Low>0.05396</Low>
+    <Close>0.05511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-12</Date>
+    <Open>0.05511</Open>
+    <High>0.05517</High>
+    <Low>0.05002</Low>
+    <Close>0.05173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-13</Date>
+    <Open>0.05173</Open>
+    <High>0.05205</High>
+    <Low>0.0482</Low>
+    <Close>0.04901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-14</Date>
+    <Open>0.04901</Open>
+    <High>0.05192</High>
+    <Low>0.0465</Low>
+    <Close>0.05007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-15</Date>
+    <Open>0.05007</Open>
+    <High>0.0511</High>
+    <Low>0.046</Low>
+    <Close>0.04718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-16</Date>
+    <Open>0.04718</Open>
+    <High>0.04762</High>
+    <Low>0.0422</Low>
+    <Close>0.04278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-17</Date>
+    <Open>0.04278</Open>
+    <High>0.0457</High>
+    <Low>0.0401</Low>
+    <Close>0.04296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-18</Date>
+    <Open>0.04296</Open>
+    <High>0.0475</High>
+    <Low>0.04231</Low>
+    <Close>0.04489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-19</Date>
+    <Open>0.04489</Open>
+    <High>0.04555</High>
+    <Low>0.0405</Low>
+    <Close>0.04083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-20</Date>
+    <Open>0.04083</Open>
+    <High>0.04152</High>
+    <Low>0.038</Low>
+    <Close>0.0401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-21</Date>
+    <Open>0.0401</Open>
+    <High>0.04534</High>
+    <Low>0.03941</Low>
+    <Close>0.04348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-22</Date>
+    <Open>0.04348</Open>
+    <High>0.04431</High>
+    <Low>0.04116</Low>
+    <Close>0.04412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-23</Date>
+    <Open>0.04412</Open>
+    <High>0.05512</High>
+    <Low>0.04305</Low>
+    <Close>0.05236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-24</Date>
+    <Open>0.05236</Open>
+    <High>0.05305</High>
+    <Low>0.0493</Low>
+    <Close>0.05044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-25</Date>
+    <Open>0.05044</Open>
+    <High>0.06487</High>
+    <Low>0.04802</Low>
+    <Close>0.06236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-26</Date>
+    <Open>0.06236</Open>
+    <High>0.09156</High>
+    <Low>0.06054</Low>
+    <Close>0.06844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-27</Date>
+    <Open>0.06844</Open>
+    <High>0.0745</High>
+    <Low>0.0615</Low>
+    <Close>0.0697</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-28</Date>
+    <Open>0.0697</Open>
+    <High>0.0786</High>
+    <Low>0.06705</Low>
+    <Close>0.07717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-29</Date>
+    <Open>0.07717</Open>
+    <High>0.08262</High>
+    <Low>0.07</Low>
+    <Close>0.07535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-30</Date>
+    <Open>0.07535</Open>
+    <High>0.07666</High>
+    <Low>0.07</Low>
+    <Close>0.07322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-07-31</Date>
+    <Open>0.07322</Open>
+    <High>0.07473</High>
+    <Low>0.0711</Low>
+    <Close>0.07198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-01</Date>
+    <Open>0.07198</Open>
+    <High>0.07291</High>
+    <Low>0.06672</Low>
+    <Close>0.06704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-02</Date>
+    <Open>0.06704</Open>
+    <High>0.07032</High>
+    <Low>0.0648</Low>
+    <Close>0.06637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-03</Date>
+    <Open>0.06637</Open>
+    <High>0.06683</High>
+    <Low>0.05981</Low>
+    <Close>0.06058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-04</Date>
+    <Open>0.06058</Open>
+    <High>0.067</High>
+    <Low>0.05918</Low>
+    <Close>0.0617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-05</Date>
+    <Open>0.0617</Open>
+    <High>0.06252</High>
+    <Low>0.05891</Low>
+    <Close>0.05946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-06</Date>
+    <Open>0.05946</Open>
+    <High>0.06365</High>
+    <Low>0.0585</Low>
+    <Close>0.06207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-07</Date>
+    <Open>0.06207</Open>
+    <High>0.068</High>
+    <Low>0.06103</Low>
+    <Close>0.06221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-08</Date>
+    <Open>0.06221</Open>
+    <High>0.06382</High>
+    <Low>0.05894</Low>
+    <Close>0.0601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-09</Date>
+    <Open>0.0601</Open>
+    <High>0.06287</High>
+    <Low>0.05812</Low>
+    <Close>0.06101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-10</Date>
+    <Open>0.06101</Open>
+    <High>0.06267</High>
+    <Low>0.06002</Low>
+    <Close>0.06063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-11</Date>
+    <Open>0.06063</Open>
+    <High>0.06814</High>
+    <Low>0.06047</Low>
+    <Close>0.06105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-12</Date>
+    <Open>0.06152</Open>
+    <High>0.06179</High>
+    <Low>0.06</Low>
+    <Close>0.06023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-13</Date>
+    <Open>0.06023</Open>
+    <High>0.0647</High>
+    <Low>0.06</Low>
+    <Close>0.06255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-14</Date>
+    <Open>0.06255</Open>
+    <High>0.06317</High>
+    <Low>0.06035</Low>
+    <Close>0.06077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-15</Date>
+    <Open>0.06077</Open>
+    <High>0.062</High>
+    <Low>0.05941</Low>
+    <Close>0.06026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-16</Date>
+    <Open>0.06026</Open>
+    <High>0.06207</High>
+    <Low>0.05991</Low>
+    <Close>0.06012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-17</Date>
+    <Open>0.06012</Open>
+    <High>0.06095</High>
+    <Low>0.0575</Low>
+    <Close>0.05785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-18</Date>
+    <Open>0.05785</Open>
+    <High>0.062</High>
+    <Low>0.05643</Low>
+    <Close>0.05891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-19</Date>
+    <Open>0.05891</Open>
+    <High>0.06092</High>
+    <Low>0.05757</Low>
+    <Close>0.06033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-20</Date>
+    <Open>0.06033</Open>
+    <High>0.061</High>
+    <Low>0.0597</Low>
+    <Close>0.0603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-21</Date>
+    <Open>0.0603</Open>
+    <High>0.06039</High>
+    <Low>0.0591</Low>
+    <Close>0.05971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-22</Date>
+    <Open>0.05971</Open>
+    <High>0.06559</High>
+    <Low>0.05843</Low>
+    <Close>0.06079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-23</Date>
+    <Open>0.06079</Open>
+    <High>0.0756</High>
+    <Low>0.06056</Low>
+    <Close>0.06761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-24</Date>
+    <Open>0.06761</Open>
+    <High>0.06853</High>
+    <Low>0.06128</Low>
+    <Close>0.06153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-25</Date>
+    <Open>0.06153</Open>
+    <High>0.06345</High>
+    <Low>0.05935</Low>
+    <Close>0.061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-26</Date>
+    <Open>0.061</Open>
+    <High>0.06284</High>
+    <Low>0.05999</Low>
+    <Close>0.06021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-27</Date>
+    <Open>0.06021</Open>
+    <High>0.06126</High>
+    <Low>0.05902</Low>
+    <Close>0.06033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-28</Date>
+    <Open>0.06033</Open>
+    <High>0.06144</High>
+    <Low>0.05961</Low>
+    <Close>0.05991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-29</Date>
+    <Open>0.05991</Open>
+    <High>0.0605</High>
+    <Low>0.0588</Low>
+    <Close>0.0593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-30</Date>
+    <Open>0.0593</Open>
+    <High>0.0598</High>
+    <Low>0.05</Low>
+    <Close>0.0526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-08-31</Date>
+    <Open>0.0526</Open>
+    <High>0.0567</High>
+    <Low>0.0519</Low>
+    <Close>0.0532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-01</Date>
+    <Open>0.0532</Open>
+    <High>0.0554</High>
+    <Low>0.0517</Low>
+    <Close>0.0544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-02</Date>
+    <Open>0.0544</Open>
+    <High>0.0618</High>
+    <Low>0.0538</Low>
+    <Close>0.0583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-03</Date>
+    <Open>0.0583</Open>
+    <High>0.0592</High>
+    <Low>0.055</Low>
+    <Close>0.0566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-04</Date>
+    <Open>0.0566</Open>
+    <High>0.0576</High>
+    <Low>0.055</Low>
+    <Close>0.0553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-05</Date>
+    <Open>0.0553</Open>
+    <High>0.0619</High>
+    <Low>0.055</Low>
+    <Close>0.0617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-06</Date>
+    <Open>0.0617</Open>
+    <High>0.062</High>
+    <Low>0.0584</Low>
+    <Close>0.0591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-07</Date>
+    <Open>0.0591</Open>
+    <High>0.0596</High>
+    <Low>0.05</Low>
+    <Close>0.0525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-08</Date>
+    <Open>0.0525</Open>
+    <High>0.0579</High>
+    <Low>0.0519</Low>
+    <Close>0.056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-09</Date>
+    <Open>0.056</Open>
+    <High>0.056</High>
+    <Low>0.0524</Low>
+    <Close>0.0538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-10</Date>
+    <Open>0.0538</Open>
+    <High>0.0557</High>
+    <Low>0.0501</Low>
+    <Close>0.0509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-11</Date>
+    <Open>0.0509</Open>
+    <High>0.054</High>
+    <Low>0.0505</Low>
+    <Close>0.0513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-12</Date>
+    <Open>0.0513</Open>
+    <High>0.0525</High>
+    <Low>0.0505</Low>
+    <Close>0.0511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-13</Date>
+    <Open>0.0511</Open>
+    <High>0.0515</High>
+    <Low>0.0496</Low>
+    <Close>0.0501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-14</Date>
+    <Open>0.0501</Open>
+    <High>0.0511</High>
+    <Low>0.05002</Low>
+    <Close>0.05015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-15</Date>
+    <Open>0.05015</Open>
+    <High>0.0525</High>
+    <Low>0.05002</Low>
+    <Close>0.05156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-16</Date>
+    <Open>0.05156</Open>
+    <High>0.05176</High>
+    <Low>0.0485</Low>
+    <Close>0.04944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-17</Date>
+    <Open>0.04944</Open>
+    <High>0.04998</High>
+    <Low>0.04679</Low>
+    <Close>0.04787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-18</Date>
+    <Open>0.04787</Open>
+    <High>0.05095</High>
+    <Low>0.0475</Low>
+    <Close>0.04938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-19</Date>
+    <Open>0.04938</Open>
+    <High>0.04953</High>
+    <Low>0.04756</Low>
+    <Close>0.04791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-20</Date>
+    <Open>0.04791</Open>
+    <High>0.0486</High>
+    <Low>0.04025</Low>
+    <Close>0.04211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-21</Date>
+    <Open>0.04211</Open>
+    <High>0.04651</High>
+    <Low>0.04026</Low>
+    <Close>0.04136</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-22</Date>
+    <Open>0.04136</Open>
+    <High>0.04782</High>
+    <Low>0.04084</Low>
+    <Close>0.04725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-23</Date>
+    <Open>0.04725</Open>
+    <High>0.05149</High>
+    <Low>0.04603</Low>
+    <Close>0.04847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-24</Date>
+    <Open>0.04847</Open>
+    <High>0.04892</High>
+    <Low>0.04322</Low>
+    <Close>0.04577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-25</Date>
+    <Open>0.04577</Open>
+    <High>0.04852</High>
+    <Low>0.04451</Low>
+    <Close>0.04631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-26</Date>
+    <Open>0.04631</Open>
+    <High>0.04762</High>
+    <Low>0.04498</Low>
+    <Close>0.04628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-27</Date>
+    <Open>0.04628</Open>
+    <High>0.04676</High>
+    <Low>0.04383</Low>
+    <Close>0.04425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-28</Date>
+    <Open>0.04425</Open>
+    <High>0.04512</High>
+    <Low>0.04217</Low>
+    <Close>0.0429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-29</Date>
+    <Open>0.0429</Open>
+    <High>0.04524</High>
+    <Low>0.04243</Low>
+    <Close>0.04341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-09-30</Date>
+    <Open>0.04341</Open>
+    <High>0.04985</High>
+    <Low>0.04338</Low>
+    <Close>0.04855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-01</Date>
+    <Open>0.04855</Open>
+    <High>0.05277</High>
+    <Low>0.0472</Low>
+    <Close>0.0503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-02</Date>
+    <Open>0.0503</Open>
+    <High>0.05117</High>
+    <Low>0.04902</Low>
+    <Close>0.04972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-03</Date>
+    <Open>0.04972</Open>
+    <High>0.05048</High>
+    <Low>0.0482</Low>
+    <Close>0.04937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-04</Date>
+    <Open>0.04937</Open>
+    <High>0.05351</High>
+    <Low>0.04921</Low>
+    <Close>0.05318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-05</Date>
+    <Open>0.05318</Open>
+    <High>0.05971</High>
+    <Low>0.05107</Low>
+    <Close>0.05278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-06</Date>
+    <Open>0.05278</Open>
+    <High>0.05306</High>
+    <Low>0.04836</Low>
+    <Close>0.04895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-07</Date>
+    <Open>0.04895</Open>
+    <High>0.05188</High>
+    <Low>0.0465</Low>
+    <Close>0.04775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-08</Date>
+    <Open>0.04775</Open>
+    <High>0.04841</High>
+    <Low>0.04529</Low>
+    <Close>0.04733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-09</Date>
+    <Open>0.04733</Open>
+    <High>0.05227</High>
+    <Low>0.04655</Low>
+    <Close>0.04914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-10</Date>
+    <Open>0.04914</Open>
+    <High>0.05042</High>
+    <Low>0.04705</Low>
+    <Close>0.04719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-11</Date>
+    <Open>0.04719</Open>
+    <High>0.04899</High>
+    <Low>0.04571</Low>
+    <Close>0.04818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-12</Date>
+    <Open>0.04818</Open>
+    <High>0.04834</High>
+    <Low>0.04428</Low>
+    <Close>0.04555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-13</Date>
+    <Open>0.04555</Open>
+    <High>0.04713</High>
+    <Low>0.04487</Low>
+    <Close>0.04586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-14</Date>
+    <Open>0.04586</Open>
+    <High>0.04818</High>
+    <Low>0.04523</Low>
+    <Close>0.04586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-15</Date>
+    <Open>0.04586</Open>
+    <High>0.05222</High>
+    <Low>0.04483</Low>
+    <Close>0.05178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-16</Date>
+    <Open>0.05178</Open>
+    <High>0.05388</High>
+    <Low>0.04873</Low>
+    <Close>0.04974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-17</Date>
+    <Open>0.04974</Open>
+    <High>0.04978</High>
+    <Low>0.0474</Low>
+    <Close>0.04848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-18</Date>
+    <Open>0.04848</Open>
+    <High>0.05035</High>
+    <Low>0.0473</Low>
+    <Close>0.0475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-19</Date>
+    <Open>0.0475</Open>
+    <High>0.0489</High>
+    <Low>0.04684</Low>
+    <Close>0.04723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-20</Date>
+    <Open>0.04723</Open>
+    <High>0.0498</High>
+    <Low>0.04677</Low>
+    <Close>0.04911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-21</Date>
+    <Open>0.04911</Open>
+    <High>0.05139</High>
+    <Low>0.04772</Low>
+    <Close>0.04813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-22</Date>
+    <Open>0.04813</Open>
+    <High>0.05023</High>
+    <Low>0.04751</Low>
+    <Close>0.04862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-23</Date>
+    <Open>0.04862</Open>
+    <High>0.05186</High>
+    <Low>0.04704</Low>
+    <Close>0.04863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-24</Date>
+    <Open>0.04863</Open>
+    <High>0.04912</High>
+    <Low>0.04665</Low>
+    <Close>0.0473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-25</Date>
+    <Open>0.0473</Open>
+    <High>0.04809</High>
+    <Low>0.04682</Low>
+    <Close>0.04741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-26</Date>
+    <Open>0.04741</Open>
+    <High>0.04793</High>
+    <Low>0.04602</Low>
+    <Close>0.0463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-27</Date>
+    <Open>0.0463</Open>
+    <High>0.04668</High>
+    <Low>0.04103</Low>
+    <Close>0.0416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-28</Date>
+    <Open>0.0416</Open>
+    <High>0.04698</High>
+    <Low>0.04135</Low>
+    <Close>0.04489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-29</Date>
+    <Open>0.04489</Open>
+    <High>0.0474</High>
+    <Low>0.04457</Low>
+    <Close>0.04605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-30</Date>
+    <Open>0.04605</Open>
+    <High>0.04741</High>
+    <Low>0.04406</Low>
+    <Close>0.0451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-10-31</Date>
+    <Open>0.0451</Open>
+    <High>0.06096</High>
+    <Low>0.0447</Low>
+    <Close>0.04849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-01</Date>
+    <Open>0.04849</Open>
+    <High>0.05168</High>
+    <Low>0.04733</Low>
+    <Close>0.0491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-02</Date>
+    <Open>0.0491</Open>
+    <High>0.05535</High>
+    <Low>0.04852</Low>
+    <Close>0.05398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-03</Date>
+    <Open>0.05398</Open>
+    <High>0.07946</High>
+    <Low>0.05203</Low>
+    <Close>0.07329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-04</Date>
+    <Open>0.07329</Open>
+    <High>0.0796</High>
+    <Low>0.0584</Low>
+    <Close>0.0634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-05</Date>
+    <Open>0.0634</Open>
+    <High>0.0712</High>
+    <Low>0.0575</Low>
+    <Close>0.0593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-06</Date>
+    <Open>0.0593</Open>
+    <High>0.0649</High>
+    <Low>0.0576</Low>
+    <Close>0.0591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-07</Date>
+    <Open>0.0591</Open>
+    <High>0.0688</High>
+    <Low>0.0567</Low>
+    <Close>0.0647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-08</Date>
+    <Open>0.0647</Open>
+    <High>0.0657</High>
+    <Low>0.0593</Low>
+    <Close>0.0618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-09</Date>
+    <Open>0.0618</Open>
+    <High>0.0623</High>
+    <Low>0.0585</Low>
+    <Close>0.0597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-10</Date>
+    <Open>0.0597</Open>
+    <High>0.0631</High>
+    <Low>0.0557</Low>
+    <Close>0.0582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-11</Date>
+    <Open>0.0582</Open>
+    <High>0.0617</High>
+    <Low>0.0564</Low>
+    <Close>0.0601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-12</Date>
+    <Open>0.0601</Open>
+    <High>0.0608</High>
+    <Low>0.0565</Low>
+    <Close>0.0575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-13</Date>
+    <Open>0.0575</Open>
+    <High>0.0601</High>
+    <Low>0.0563</Low>
+    <Close>0.0579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-14</Date>
+    <Open>0.0579</Open>
+    <High>0.0588</High>
+    <Low>0.057</Low>
+    <Close>0.0576</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-15</Date>
+    <Open>0.0576</Open>
+    <High>0.0587</High>
+    <Low>0.0559</Low>
+    <Close>0.0567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-16</Date>
+    <Open>0.0567</Open>
+    <High>0.0569</High>
+    <Low>0.0506</Low>
+    <Close>0.0524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-17</Date>
+    <Open>0.0524</Open>
+    <High>0.055</High>
+    <Low>0.05</Low>
+    <Close>0.0512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-18</Date>
+    <Open>0.0512</Open>
+    <High>0.0533</High>
+    <Low>0.047</Low>
+    <Close>0.0488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-19</Date>
+    <Open>0.0488</Open>
+    <High>0.0523</High>
+    <Low>0.0473</Low>
+    <Close>0.0508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-20</Date>
+    <Open>0.0508</Open>
+    <High>0.0533</High>
+    <Low>0.0508</Low>
+    <Close>0.0522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-21</Date>
+    <Open>0.0522</Open>
+    <High>0.053</High>
+    <Low>0.0502</Low>
+    <Close>0.0502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-22</Date>
+    <Open>0.0502</Open>
+    <High>0.0531</High>
+    <Low>0.0484</Low>
+    <Close>0.0496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-23</Date>
+    <Open>0.0496</Open>
+    <High>0.0771</High>
+    <Low>0.0493</Low>
+    <Close>0.0706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-24</Date>
+    <Open>0.0706</Open>
+    <High>0.0735</High>
+    <Low>0.05727</Low>
+    <Close>0.05994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-25</Date>
+    <Open>0.05992</Open>
+    <High>0.0656</High>
+    <Low>0.05831</Low>
+    <Close>0.06122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-26</Date>
+    <Open>0.06125</Open>
+    <High>0.0632</High>
+    <Low>0.05583</Low>
+    <Close>0.05807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-27</Date>
+    <Open>0.05803</Open>
+    <High>0.06671</High>
+    <Low>0.05688</Low>
+    <Close>0.06287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-28</Date>
+    <Open>0.06278</Open>
+    <High>0.07624</High>
+    <Low>0.05976</Low>
+    <Close>0.06294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-29</Date>
+    <Open>0.06298</Open>
+    <High>0.06715</High>
+    <Low>0.06121</Low>
+    <Close>0.06374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-11-30</Date>
+    <Open>0.06375</Open>
+    <High>0.06413</High>
+    <Low>0.06</Low>
+    <Close>0.06133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-01</Date>
+    <Open>0.06132</Open>
+    <High>0.0619</High>
+    <Low>0.05804</Low>
+    <Close>0.05862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-02</Date>
+    <Open>0.05866</Open>
+    <High>0.06056</High>
+    <Low>0.05727</Low>
+    <Close>0.05793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-03</Date>
+    <Open>0.05787</Open>
+    <High>0.05912</High>
+    <Low>0.05354</Low>
+    <Close>0.05487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-04</Date>
+    <Open>0.0548</Open>
+    <High>0.05491</High>
+    <Low>0.04927</Low>
+    <Close>0.053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-05</Date>
+    <Open>0.05295</Open>
+    <High>0.05583</High>
+    <Low>0.05</Low>
+    <Close>0.05135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-06</Date>
+    <Open>0.05131</Open>
+    <High>0.05479</High>
+    <Low>0.04806</Low>
+    <Close>0.05233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-07</Date>
+    <Open>0.05234</Open>
+    <High>0.05483</High>
+    <Low>0.0513</Low>
+    <Close>0.05137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-08</Date>
+    <Open>0.05133</Open>
+    <High>0.06206</High>
+    <Low>0.05035</Low>
+    <Close>0.05503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-09</Date>
+    <Open>0.05504</Open>
+    <High>0.05903</High>
+    <Low>0.0525</Low>
+    <Close>0.0536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-10</Date>
+    <Open>0.05301</Open>
+    <High>0.05437</High>
+    <Low>0.05078</Low>
+    <Close>0.05146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-11</Date>
+    <Open>0.05143</Open>
+    <High>0.05286</High>
+    <Low>0.05001</Low>
+    <Close>0.05141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-12</Date>
+    <Open>0.05156</Open>
+    <High>0.05281</High>
+    <Low>0.05105</Low>
+    <Close>0.05253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-13</Date>
+    <Open>0.05258</Open>
+    <High>0.05261</High>
+    <Low>0.048</Low>
+    <Close>0.04962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-14</Date>
+    <Open>0.0495</Open>
+    <High>0.05014</High>
+    <Low>0.0476</Low>
+    <Close>0.04977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-15</Date>
+    <Open>0.04979</Open>
+    <High>0.0515958</High>
+    <Low>0.0472636</Low>
+    <Close>0.0492896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-16</Date>
+    <Open>0.0492846</Open>
+    <High>0.05085</High>
+    <Low>0.0478196</Low>
+    <Close>0.0487246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-17</Date>
+    <Open>0.0487246</Open>
+    <High>0.0492846</High>
+    <Low>0.0471441</Low>
+    <Close>0.0483293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-18</Date>
+    <Open>0.0482693</Open>
+    <High>0.04984</High>
+    <Low>0.0476743</Low>
+    <Close>0.04906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-19</Date>
+    <Open>0.0490496</Open>
+    <High>0.04939</High>
+    <Low>0.04764</Low>
+    <Close>0.04814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-20</Date>
+    <Open>0.048104</Open>
+    <High>0.04869</High>
+    <Low>0.04602</Low>
+    <Close>0.04665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-21</Date>
+    <Open>0.046584</Open>
+    <High>0.04908</High>
+    <Low>0.04595</Low>
+    <Close>0.04846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-22</Date>
+    <Open>0.04848</Open>
+    <High>0.0514806</High>
+    <Low>0.0481344</Low>
+    <Close>0.050035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-23</Date>
+    <Open>0.05005</Open>
+    <High>0.0510104</High>
+    <Low>0.0483645</Low>
+    <Close>0.05009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-24</Date>
+    <Open>0.05012</Open>
+    <High>0.0520008</High>
+    <Low>0.05002</Low>
+    <Close>0.0501751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-25</Date>
+    <Open>0.0501801</Open>
+    <High>0.0503702</High>
+    <Low>0.0493196</Low>
+    <Close>0.0497699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-26</Date>
+    <Open>0.04984</Open>
+    <High>0.0514457</High>
+    <Low>0.0489093</Low>
+    <Close>0.0509504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-27</Date>
+    <Open>0.0509555</Open>
+    <High>0.0594438</High>
+    <Low>0.0504252</Low>
+    <Close>0.0537461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-28</Date>
+    <Open>0.0537261</Open>
+    <High>0.0537607</High>
+    <Low>0.049625</Low>
+    <Close>0.0505101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-29</Date>
+    <Open>0.0505101</Open>
+    <High>0.0522705</High>
+    <Low>0.0491298</Low>
+    <Close>0.0493699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-30</Date>
+    <Open>0.0493149</Open>
+    <High>0.050055</High>
+    <Low>0.0485949</Low>
+    <Close>0.0491298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2021-12-31</Date>
+    <Open>0.0491198</Open>
+    <High>0.05004</High>
+    <Low>0.04774</Low>
+    <Close>0.0479148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-01</Date>
+    <Open>0.0478848</Open>
+    <High>0.04988</High>
+    <Low>0.0478848</Low>
+    <Close>0.0493599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-02</Date>
+    <Open>0.04929</Open>
+    <High>0.04978</High>
+    <Low>0.04883</Low>
+    <Close>0.04908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-03</Date>
+    <Open>0.04906</Open>
+    <High>0.052</High>
+    <Low>0.0481</Low>
+    <Close>0.0493249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-04</Date>
+    <Open>0.0493351</Open>
+    <High>0.05613</High>
+    <Low>0.0493</Low>
+    <Close>0.050015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-05</Date>
+    <Open>0.05</Open>
+    <High>0.050255</High>
+    <Low>0.04479</Low>
+    <Close>0.0459954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-06</Date>
+    <Open>0.0460808</Open>
+    <High>0.04736</High>
+    <Low>0.0444956</Low>
+    <Close>0.0466453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-07</Date>
+    <Open>0.04678</Open>
+    <High>0.04727</High>
+    <Low>0.04266</Low>
+    <Close>0.04333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-08</Date>
+    <Open>0.04322</Open>
+    <High>0.044971</High>
+    <Low>0.0412617</Low>
+    <Close>0.04308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-09</Date>
+    <Open>0.04313</Open>
+    <High>0.04457</High>
+    <Low>0.04219</Low>
+    <Close>0.04359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-10</Date>
+    <Open>0.04357</Open>
+    <High>0.04359</High>
+    <Low>0.04058</Low>
+    <Close>0.04141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-11</Date>
+    <Open>0.04138</Open>
+    <High>0.04254</High>
+    <Low>0.0406159</Low>
+    <Close>0.0415442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-12</Date>
+    <Open>0.0415442</Open>
+    <High>0.0435387</High>
+    <Low>0.0412482</Low>
+    <Close>0.042547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-13</Date>
+    <Open>0.042537</Open>
+    <High>0.0430715</High>
+    <Low>0.0409064</Low>
+    <Close>0.0411064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-14</Date>
+    <Open>0.0411264</Open>
+    <High>0.0416408</High>
+    <Low>0.0401801</Low>
+    <Close>0.0413624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-15</Date>
+    <Open>0.0413065</Open>
+    <High>0.04198</High>
+    <Low>0.0410564</Low>
+    <Close>0.04148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-16</Date>
+    <Open>0.04151</Open>
+    <High>0.04164</High>
+    <Low>0.04059</Low>
+    <Close>0.04124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-17</Date>
+    <Open>0.04121</Open>
+    <High>0.04145</High>
+    <Low>0.039972</Low>
+    <Close>0.0403761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-18</Date>
+    <Open>0.0404062</Open>
+    <High>0.0405862</High>
+    <Low>0.0377813</Low>
+    <Close>0.03868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-19</Date>
+    <Open>0.03872</Open>
+    <High>0.03977</High>
+    <Low>0.03732</Low>
+    <Close>0.03761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-20</Date>
+    <Open>0.03765</Open>
+    <High>0.03921</High>
+    <Low>0.0361</Low>
+    <Close>0.0362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-21</Date>
+    <Open>0.03623</Open>
+    <High>0.03627</High>
+    <Low>0.0284057</Low>
+    <Close>0.0291287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-22</Date>
+    <Open>0.0292058</Open>
+    <High>0.0313894</High>
+    <Low>0.025075</Low>
+    <Close>0.030159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-23</Date>
+    <Open>0.030039</Open>
+    <High>0.0303191</High>
+    <Low>0.0282328</Low>
+    <Close>0.0289258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-24</Date>
+    <Open>0.0289287</Open>
+    <High>0.0292829</High>
+    <Low>0.0255051</Low>
+    <Close>0.0271982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-25</Date>
+    <Open>0.02719</Open>
+    <High>0.029965</High>
+    <Low>0.02648</Low>
+    <Close>0.0284642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-26</Date>
+    <Open>0.028377</Open>
+    <High>0.035004</High>
+    <Low>0.028317</Low>
+    <Close>0.029988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-27</Date>
+    <Open>0.0298879</Open>
+    <High>0.0308854</High>
+    <Low>0.0285114</Low>
+    <Close>0.0290245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-28</Date>
+    <Open>0.02894</Open>
+    <High>0.03115</High>
+    <Low>0.02864</Low>
+    <Close>0.02958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-29</Date>
+    <Open>0.0296</Open>
+    <High>0.03105</High>
+    <Low>0.0296</Low>
+    <Close>0.03031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-30</Date>
+    <Open>0.03032</Open>
+    <High>0.031</High>
+    <Low>0.02933</Low>
+    <Close>0.02949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-01-31</Date>
+    <Open>0.02951</Open>
+    <High>0.03005</High>
+    <Low>0.02821</Low>
+    <Close>0.02987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-01</Date>
+    <Open>0.02986</Open>
+    <High>0.0314</High>
+    <Low>0.0297</Low>
+    <Close>0.03005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-02</Date>
+    <Open>0.03012</Open>
+    <High>0.03102</High>
+    <Low>0.029</Low>
+    <Close>0.02918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-03</Date>
+    <Open>0.02917</Open>
+    <High>0.02961</High>
+    <Low>0.02802</Low>
+    <Close>0.02886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-04</Date>
+    <Open>0.02889</Open>
+    <High>0.0318191</High>
+    <Low>0.0286272</Low>
+    <Close>0.0303242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-05</Date>
+    <Open>0.0305314</Open>
+    <High>0.0323326</High>
+    <Low>0.030068</Low>
+    <Close>0.0314789</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-06</Date>
+    <Open>0.031462</Open>
+    <High>0.03335</High>
+    <Low>0.0310186</Low>
+    <Close>0.0312625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-07</Date>
+    <Open>0.0312925</Open>
+    <High>0.0341</High>
+    <Low>0.0312925</Low>
+    <Close>0.03314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-08</Date>
+    <Open>0.0334</Open>
+    <High>0.03386</High>
+    <Low>0.0304443</Low>
+    <Close>0.0309478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-09</Date>
+    <Open>0.0309709</Open>
+    <High>0.0323258</High>
+    <Low>0.0303643</Low>
+    <Close>0.0314245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-10</Date>
+    <Open>0.0314114</Open>
+    <High>0.0318455</High>
+    <Low>0.030037</Low>
+    <Close>0.0306114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-11</Date>
+    <Open>0.0306284</Open>
+    <High>0.0381229</High>
+    <Low>0.029985</Low>
+    <Close>0.0331699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-12</Date>
+    <Open>0.0331199</Open>
+    <High>0.0342174</High>
+    <Low>0.0306853</Low>
+    <Close>0.0313488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-13</Date>
+    <Open>0.0313657</Open>
+    <High>0.0314557</High>
+    <Low>0.029985</Low>
+    <Close>0.0301951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-14</Date>
+    <Open>0.0302251</Open>
+    <High>0.0315858</High>
+    <Low>0.0288544</Low>
+    <Close>0.0296048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-15</Date>
+    <Open>0.0296078</Open>
+    <High>0.0309486</High>
+    <Low>0.0293076</Low>
+    <Close>0.0307684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-16</Date>
+    <Open>0.0307384</Open>
+    <High>0.0339103</High>
+    <Low>0.0302851</Low>
+    <Close>0.0319191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-17</Date>
+    <Open>0.0319191</Open>
+    <High>0.0330365</High>
+    <Low>0.0296478</Low>
+    <Close>0.0302111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-18</Date>
+    <Open>0.0302512</Open>
+    <High>0.0307215</High>
+    <Low>0.0291275</Low>
+    <Close>0.0291775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-19</Date>
+    <Open>0.0291575</Open>
+    <High>0.0301181</High>
+    <Low>0.0284042</Low>
+    <Close>0.0286572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-20</Date>
+    <Open>0.0287644</Open>
+    <High>0.0289874</High>
+    <Low>0.0269535</Low>
+    <Close>0.0274137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-21</Date>
+    <Open>0.0274337</Open>
+    <High>0.0287844</High>
+    <Low>0.0263705</Low>
+    <Close>0.0263705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-22</Date>
+    <Open>0.0264032</Open>
+    <High>0.026756</High>
+    <Low>0.0243373</Low>
+    <Close>0.0263532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-23</Date>
+    <Open>0.0263558</Open>
+    <High>0.027974</High>
+    <Low>0.0261757</Low>
+    <Close>0.0262457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-24</Date>
+    <Open>0.0262457</Open>
+    <High>0.0267407</High>
+    <Low>0.0214507</Low>
+    <Close>0.0259904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-25</Date>
+    <Open>0.0260078</Open>
+    <High>0.0302321</High>
+    <Low>0.0258177</Low>
+    <Close>0.0288444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-26</Date>
+    <Open>0.0289144</Open>
+    <High>0.0296448</High>
+    <Low>0.0284414</Low>
+    <Close>0.0284914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-27</Date>
+    <Open>0.0284442</Open>
+    <High>0.0288544</High>
+    <Low>0.0267407</Low>
+    <Close>0.0270608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-02-28</Date>
+    <Open>0.0270435</Open>
+    <High>0.0294947</High>
+    <Low>0.0265806</Low>
+    <Close>0.0290116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-01</Date>
+    <Open>0.0290116</Open>
+    <High>0.0295118</High>
+    <Low>0.0286086</Low>
+    <Close>0.0287186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-02</Date>
+    <Open>0.0287686</Open>
+    <High>0.0294788</High>
+    <Low>0.0280284</Low>
+    <Close>0.0284885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-03</Date>
+    <Open>0.0285186</Open>
+    <High>0.029919</High>
+    <Low>0.0270481</Low>
+    <Close>0.0275955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-04</Date>
+    <Open>0.0276055</Open>
+    <High>0.0276383</High>
+    <Low>0.0261979</Low>
+    <Close>0.026558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-05</Date>
+    <Open>0.026578</Open>
+    <High>0.0276483</High>
+    <Low>0.0264553</Low>
+    <Close>0.026818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-06</Date>
+    <Open>0.0267854</Open>
+    <High>0.0270181</High>
+    <Low>0.0260178</Low>
+    <Close>0.0263079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-07</Date>
+    <Open>0.0263079</Open>
+    <High>0.0264579</High>
+    <Low>0.0245649</Low>
+    <Close>0.0248374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-08</Date>
+    <Open>0.024865</Open>
+    <High>0.0261352</High>
+    <Low>0.024765</Low>
+    <Close>0.024865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-09</Date>
+    <Open>0.024825</Open>
+    <High>0.0269527</High>
+    <Low>0.024825</Low>
+    <Close>0.0258452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-10</Date>
+    <Open>0.0259052</Open>
+    <High>0.027461</High>
+    <Low>0.0246249</Low>
+    <Close>0.0260204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-11</Date>
+    <Open>0.0259404</Open>
+    <High>0.0259504</High>
+    <Low>0.0245698</Low>
+    <Close>0.024905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-12</Date>
+    <Open>0.024835</Open>
+    <High>0.02589</High>
+    <Low>0.0246125</Low>
+    <Close>0.0248625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-13</Date>
+    <Open>0.0248274</Open>
+    <High>0.0254451</High>
+    <Low>0.0243049</Low>
+    <Close>0.0243573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-14</Date>
+    <Open>0.0243349</Open>
+    <High>0.025195</High>
+    <Low>0.0240848</Low>
+    <Close>0.0244749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-15</Date>
+    <Open>0.0244449</Open>
+    <High>0.025135</High>
+    <Low>0.0241448</Low>
+    <Close>0.0245774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-16</Date>
+    <Open>0.0245849</Open>
+    <High>0.0253576</High>
+    <Low>0.0244149</Low>
+    <Close>0.025185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-17</Date>
+    <Open>0.0251876</Open>
+    <High>0.0255277</High>
+    <Low>0.0249575</Low>
+    <Close>0.02522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-18</Date>
+    <Open>0.0252</Open>
+    <High>0.0254853</High>
+    <Low>0.0244198</Low>
+    <Close>0.0251426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-19</Date>
+    <Open>0.0251426</Open>
+    <High>0.0275765</High>
+    <Low>0.0251326</Low>
+    <Close>0.0264606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-20</Date>
+    <Open>0.0264432</Open>
+    <High>0.0272436</High>
+    <Low>0.0254202</Low>
+    <Close>0.0255902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-21</Date>
+    <Open>0.0255902</Open>
+    <High>0.0282613</High>
+    <Low>0.0252226</Low>
+    <Close>0.026073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-22</Date>
+    <Open>0.0260704</Open>
+    <High>0.0279112</High>
+    <Low>0.0260204</Low>
+    <Close>0.0268334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-23</Date>
+    <Open>0.0268334</Open>
+    <High>0.0272236</High>
+    <Low>0.0261979</Low>
+    <Close>0.0265032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-24</Date>
+    <Open>0.0265406</Open>
+    <High>0.0273437</High>
+    <Low>0.0264106</Low>
+    <Close>0.0270035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-25</Date>
+    <Open>0.0270035</Open>
+    <High>0.0273864</High>
+    <Low>0.0259904</Low>
+    <Close>0.0261331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-26</Date>
+    <Open>0.0261304</Open>
+    <High>0.0266333</High>
+    <Low>0.0257903</Low>
+    <Close>0.0263906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-27</Date>
+    <Open>0.0263732</Open>
+    <High>0.0274555</High>
+    <Low>0.0263105</Low>
+    <Close>0.027391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-28</Date>
+    <Open>0.0273809</Open>
+    <High>0.0283914</High>
+    <Low>0.0272882</Low>
+    <Close>0.0275383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-29</Date>
+    <Open>0.027541</Open>
+    <High>0.0279712</High>
+    <Low>0.0270035</Low>
+    <Close>0.0270035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-30</Date>
+    <Open>0.0270035</Open>
+    <High>0.0280056</High>
+    <Low>0.0266907</Low>
+    <Close>0.0277683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-03-31</Date>
+    <Open>0.0277556</Open>
+    <High>0.0292759</High>
+    <Low>0.0268554</Low>
+    <Close>0.0270254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-01</Date>
+    <Open>0.0270054</Open>
+    <High>0.0278939</High>
+    <Low>0.0264553</Low>
+    <Close>0.0274382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-02</Date>
+    <Open>0.027411</Open>
+    <High>0.0284185</High>
+    <Low>0.0270408</Low>
+    <Close>0.0274782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-03</Date>
+    <Open>0.027451</Open>
+    <High>0.0284114</High>
+    <Low>0.0270808</Low>
+    <Close>0.0279712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-04</Date>
+    <Open>0.0279812</Open>
+    <High>0.030009</High>
+    <Low>0.0271854</Low>
+    <Close>0.0279884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-05</Date>
+    <Open>0.0280284</Open>
+    <High>0.0290087</High>
+    <Low>0.0274455</Low>
+    <Close>0.0275228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-06</Date>
+    <Open>0.0275415</Open>
+    <High>0.0275525</High>
+    <Low>0.0250715</Low>
+    <Close>0.0255106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-07</Date>
+    <Open>0.0255196</Open>
+    <High>0.0257236</High>
+    <Low>0.024934</Low>
+    <Close>0.0253695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-08</Date>
+    <Open>0.0253735</Open>
+    <High>0.0256801</High>
+    <Low>0.0245748</Low>
+    <Close>0.0248709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-09</Date>
+    <Open>0.0248749</Open>
+    <High>0.0252056</High>
+    <Low>0.0240662</Low>
+    <Close>0.0247214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-10</Date>
+    <Open>0.0247214</Open>
+    <High>0.0252236</High>
+    <Low>0.0244553</Low>
+    <Close>0.024848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-11</Date>
+    <Open>0.024841</Open>
+    <High>0.024921</High>
+    <Low>0.0225495</Low>
+    <Close>0.0226078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-12</Date>
+    <Open>0.0225898</Open>
+    <High>0.0239708</High>
+    <Low>0.0224877</Low>
+    <Close>0.023333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-13</Date>
+    <Open>0.023321</Open>
+    <High>0.0238298</High>
+    <Low>0.0228756</Low>
+    <Close>0.023419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-14</Date>
+    <Open>0.0233727</Open>
+    <High>0.0238038</High>
+    <Low>0.0223807</Low>
+    <Close>0.0227743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-15</Date>
+    <Open>0.0227816</Open>
+    <High>0.0228216</High>
+    <Low>0.0223045</Low>
+    <Close>0.0225595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-16</Date>
+    <Open>0.0225535</Open>
+    <High>0.0228716</High>
+    <Low>0.0224265</Low>
+    <Close>0.0227816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-17</Date>
+    <Open>0.0227746</Open>
+    <High>0.0229476</High>
+    <Low>0.0223422</Low>
+    <Close>0.0223545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-18</Date>
+    <Open>0.0223675</Open>
+    <High>0.0223905</High>
+    <Low>0.0207782</Low>
+    <Close>0.0217215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-19</Date>
+    <Open>0.0217175</Open>
+    <High>0.0223425</High>
+    <Low>0.0215953</Low>
+    <Close>0.0221304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-20</Date>
+    <Open>0.0221354</Open>
+    <High>0.0232577</High>
+    <Low>0.0218754</Low>
+    <Close>0.0226705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-21</Date>
+    <Open>0.0226845</Open>
+    <High>0.0232446</High>
+    <Low>0.0218322</Low>
+    <Close>0.0224245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-22</Date>
+    <Open>0.0237347</Open>
+    <High>0.024975</High>
+    <Low>0.0226723</Low>
+    <Close>0.0230323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-23</Date>
+    <Open>0.0230446</Open>
+    <High>0.0231946</High>
+    <Low>0.0219344</Low>
+    <Close>0.0222945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-24</Date>
+    <Open>0.0223045</Open>
+    <High>0.0223945</High>
+    <Low>0.0215402</Low>
+    <Close>0.0217904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-25</Date>
+    <Open>0.0217904</Open>
+    <High>0.0233347</High>
+    <Low>0.0211442</Low>
+    <Close>0.0216022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-26</Date>
+    <Open>0.0216122</Open>
+    <High>0.0222344</High>
+    <Low>0.0205721</Low>
+    <Close>0.0209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-27</Date>
+    <Open>0.0208671</Open>
+    <High>0.022458</High>
+    <Low>0.0205971</Low>
+    <Close>0.0218422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-28</Date>
+    <Open>0.0218722</Open>
+    <High>0.0219702</High>
+    <Low>0.0207671</Low>
+    <Close>0.020823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-29</Date>
+    <Open>0.0208341</Open>
+    <High>0.0210601</High>
+    <Low>0.01999</Low>
+    <Close>0.020132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-04-30</Date>
+    <Open>0.020121</Open>
+    <High>0.0207111</High>
+    <Low>0.019508</Low>
+    <Close>0.019683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-01</Date>
+    <Open>0.019669</Open>
+    <High>0.020341</High>
+    <Low>0.0188459</Low>
+    <Close>0.019026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-02</Date>
+    <Open>0.0190249</Open>
+    <High>0.0194399</High>
+    <Low>0.0183388</Low>
+    <Close>0.0186399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-03</Date>
+    <Open>0.0186409</Open>
+    <High>0.0188099</High>
+    <Low>0.0180042</Low>
+    <Close>0.0180652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-04</Date>
+    <Open>0.0180672</Open>
+    <High>0.019806</High>
+    <Low>0.0180054</Low>
+    <Close>0.019325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-05</Date>
+    <Open>0.019318</Open>
+    <High>0.0195121</High>
+    <Low>0.0177205</Low>
+    <Close>0.0181034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-06</Date>
+    <Open>0.0181152</Open>
+    <High>0.0182872</High>
+    <Low>0.0175765</Low>
+    <Close>0.0179632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-07</Date>
+    <Open>0.0179092</Open>
+    <High>0.0182562</High>
+    <Low>0.0177085</Low>
+    <Close>0.0178044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-08</Date>
+    <Open>0.0177984</Open>
+    <High>0.0180226</High>
+    <Low>0.0177057</Low>
+    <Close>0.0177737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-09</Date>
+    <Open>0.0177737</Open>
+    <High>0.0178584</High>
+    <Low>0.0137443</Low>
+    <Close>0.0139762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-10</Date>
+    <Open>0.0139762</Open>
+    <High>0.0148975</High>
+    <Low>0.0130761</Low>
+    <Close>0.0132737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-11</Date>
+    <Open>0.01325</Open>
+    <High>0.0136196</High>
+    <Low>0.010223</Low>
+    <Close>0.0105966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-12</Date>
+    <Open>0.0105917</Open>
+    <High>0.0122708</High>
+    <Low>0.0094788</Low>
+    <Close>0.0119439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-13</Date>
+    <Open>0.0118467</Open>
+    <High>0.0147593</High>
+    <Low>0.0112285</Low>
+    <Close>0.0135669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-14</Date>
+    <Open>0.0135968</Open>
+    <High>0.014481</High>
+    <Low>0.0127281</Low>
+    <Close>0.0135496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-15</Date>
+    <Open>0.01356</Open>
+    <High>0.0143423</High>
+    <Low>0.0129039</Low>
+    <Close>0.0142385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-16</Date>
+    <Open>0.0142345</Open>
+    <High>0.0143687</High>
+    <Low>0.0129402</Low>
+    <Close>0.013801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-17</Date>
+    <Open>0.013816</Open>
+    <High>0.0144676</High>
+    <Low>0.0135224</Low>
+    <Close>0.0141166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-18</Date>
+    <Open>0.0141376</Open>
+    <High>0.0143753</High>
+    <Low>0.013056</Low>
+    <Close>0.0135733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-19</Date>
+    <Open>0.0135723</Open>
+    <High>0.013976</High>
+    <Low>0.013037</Low>
+    <Close>0.0136204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-20</Date>
+    <Open>0.0136204</Open>
+    <High>0.0139113</High>
+    <Low>0.0129212</Low>
+    <Close>0.0130061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-21</Date>
+    <Open>0.0130263</Open>
+    <High>0.0133846</High>
+    <Low>0.0128543</Low>
+    <Close>0.013063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-22</Date>
+    <Open>0.0130607</Open>
+    <High>0.0134312</High>
+    <Low>0.0129142</Low>
+    <Close>0.0131282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-23</Date>
+    <Open>0.0131272</Open>
+    <High>0.013662</High>
+    <Low>0.013028</Low>
+    <Close>0.0131292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-24</Date>
+    <Open>0.0131132</Open>
+    <High>0.014173</High>
+    <Low>0.0127097</Low>
+    <Close>0.0132278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-25</Date>
+    <Open>0.0132368</Open>
+    <High>0.0137944</High>
+    <Low>0.0128615</Low>
+    <Close>0.0129494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-26</Date>
+    <Open>0.0129657</Open>
+    <High>0.0129737</High>
+    <Low>0.0121928</Low>
+    <Close>0.0122687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-27</Date>
+    <Open>0.0122765</Open>
+    <High>0.0124346</High>
+    <Low>0.0115095</Low>
+    <Close>0.0116122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-28</Date>
+    <Open>0.0116028</Open>
+    <High>0.0118969</High>
+    <Low>0.0113687</Low>
+    <Close>0.0116414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-29</Date>
+    <Open>0.0116414</Open>
+    <High>0.0119272</High>
+    <Low>0.0114616</Low>
+    <Close>0.0117581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-30</Date>
+    <Open>0.0117629</Open>
+    <High>0.0126841</High>
+    <Low>0.0117132</Low>
+    <Close>0.0125629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-05-31</Date>
+    <Open>0.0125612</Open>
+    <High>0.0127348</High>
+    <Low>0.0119976</Low>
+    <Close>0.0123271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-01</Date>
+    <Open>0.0123209</Open>
+    <High>0.0126489</High>
+    <Low>0.011835</Low>
+    <Close>0.0118533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-02</Date>
+    <Open>0.0118482</Open>
+    <High>0.0120601</High>
+    <Low>0.0114006</Low>
+    <Close>0.0120012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-03</Date>
+    <Open>0.0120012</Open>
+    <High>0.0120182</High>
+    <Low>0.0111908</Low>
+    <Close>0.0114091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-04</Date>
+    <Open>0.0114111</Open>
+    <High>0.0119773</High>
+    <Low>0.0112167</Low>
+    <Close>0.0114303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-05</Date>
+    <Open>0.0114323</Open>
+    <High>0.011639</High>
+    <Low>0.0112753</Low>
+    <Close>0.0114913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-06</Date>
+    <Open>0.0114752</Open>
+    <High>0.0118881</High>
+    <Low>0.0114412</Low>
+    <Close>0.0117901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-07</Date>
+    <Open>0.0118103</Open>
+    <High>0.0119001</High>
+    <Low>0.0112594</Low>
+    <Close>0.0117903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-08</Date>
+    <Open>0.0117809</Open>
+    <High>0.0118011</High>
+    <Low>0.0111421</Low>
+    <Close>0.0112027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-09</Date>
+    <Open>0.0112027</Open>
+    <High>0.0113399</High>
+    <Low>0.0109913</Low>
+    <Close>0.0111107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-10</Date>
+    <Open>0.0111305</Open>
+    <High>0.0114709</High>
+    <Low>0.0107985</Low>
+    <Close>0.010916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-11</Date>
+    <Open>0.0109161</Open>
+    <High>0.0112726</High>
+    <Low>0.0104077</Low>
+    <Close>0.0105091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-12</Date>
+    <Open>0.010514</Open>
+    <High>0.0107174</High>
+    <Low>0.0099629</Low>
+    <Close>0.0100806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-13</Date>
+    <Open>0.0100776</Open>
+    <High>0.0102711</High>
+    <Low>0.0091862</Low>
+    <Close>0.0092272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-14</Date>
+    <Open>0.0092272</Open>
+    <High>0.0096694</High>
+    <Low>0.0085973</Low>
+    <Close>0.0095785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-15</Date>
+    <Open>0.0095484</Open>
+    <High>0.0098288</High>
+    <Low>0.0087642</Low>
+    <Close>0.0096755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-16</Date>
+    <Open>0.0097154</Open>
+    <High>0.0097473</High>
+    <Low>0.00900038</Low>
+    <Close>0.00902625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-17</Date>
+    <Open>0.00881781</Open>
+    <High>0.00931999</High>
+    <Low>0.00874483</Low>
+    <Close>0.00896123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-18</Date>
+    <Open>0.00895</Open>
+    <High>0.00909</High>
+    <Low>0.00789616</Low>
+    <Close>0.00829654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-19</Date>
+    <Open>0.00827657</Open>
+    <High>0.0092389</High>
+    <Low>0.00819777</Low>
+    <Close>0.00900827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-20</Date>
+    <Open>0.00900618</Open>
+    <High>0.00928691</High>
+    <Low>0.0085727</Low>
+    <Close>0.00885425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-21</Date>
+    <Open>0.00885336</Open>
+    <High>0.00941846</High>
+    <Low>0.00884737</Low>
+    <Close>0.00905603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-22</Date>
+    <Open>0.00905703</Open>
+    <High>0.00939659</High>
+    <Low>0.00869929</Low>
+    <Close>0.00915683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-23</Date>
+    <Open>0.00916682</Open>
+    <High>0.00966632</High>
+    <Low>0.008992</Low>
+    <Close>0.00916483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-24</Date>
+    <Open>0.00916391</Open>
+    <High>0.00970284</High>
+    <Low>0.00911188</Low>
+    <Close>0.00939966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-25</Date>
+    <Open>0.00939966</Open>
+    <High>0.00959618</High>
+    <Low>0.00927697</Low>
+    <Close>0.00947936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-26</Date>
+    <Open>0.00948635</Open>
+    <High>0.00954636</High>
+    <Low>0.00928533</Low>
+    <Close>0.00933821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-27</Date>
+    <Open>0.0093393</Open>
+    <High>0.00941325</High>
+    <Low>0.00896066</Low>
+    <Close>0.00914685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-28</Date>
+    <Open>0.00911697</Open>
+    <High>0.00915176</High>
+    <Low>0.00875066</Low>
+    <Close>0.00883703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-29</Date>
+    <Open>0.00883603</Open>
+    <High>0.00890441</High>
+    <Low>0.00849968</Low>
+    <Close>0.00864153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-06-30</Date>
+    <Open>0.00863363</Open>
+    <High>0.0153764</High>
+    <Low>0.00830144</Low>
+    <Close>0.0102677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-01</Date>
+    <Open>0.0102377</Open>
+    <High>0.0112276</High>
+    <Low>0.00936687</Low>
+    <Close>0.00956147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-02</Date>
+    <Open>0.00955748</Open>
+    <High>0.00959843</High>
+    <Low>0.0089892</Low>
+    <Close>0.00910506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-03</Date>
+    <Open>0.00910606</Open>
+    <High>0.0101148</High>
+    <Low>0.00898231</Low>
+    <Close>0.00933984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-04</Date>
+    <Open>0.00935782</Open>
+    <High>0.00946763</High>
+    <Low>0.00899729</Low>
+    <Close>0.00937773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-05</Date>
+    <Open>0.00937274</Open>
+    <High>0.00943566</High>
+    <Low>0.00896912</Low>
+    <Close>0.0091709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-06</Date>
+    <Open>0.0091699</Open>
+    <High>0.00922085</High>
+    <Low>0.00896013</Low>
+    <Close>0.00904404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-07</Date>
+    <Open>0.009077</Open>
+    <High>0.00942063</High>
+    <Low>0.00905503</Low>
+    <Close>0.00935538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-08</Date>
+    <Open>0.00935438</Open>
+    <High>0.00949935</High>
+    <Low>0.00906465</Low>
+    <Close>0.00917049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-09</Date>
+    <Open>0.00916949</Open>
+    <High>0.00940341</High>
+    <Low>0.00912952</Low>
+    <Close>0.00924245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-10</Date>
+    <Open>0.00923653</Open>
+    <High>0.00959324</High>
+    <Low>0.00902967</Low>
+    <Close>0.00923046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-11</Date>
+    <Open>0.00922646</Open>
+    <High>0.00926344</High>
+    <Low>0.00878708</Low>
+    <Close>0.00880507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-12</Date>
+    <Open>0.00880906</Open>
+    <High>0.00913685</High>
+    <Low>0.00871415</Low>
+    <Close>0.00885713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-13</Date>
+    <Open>0.00886748</Open>
+    <High>0.00906075</High>
+    <Low>0.00848166</Low>
+    <Close>0.00865021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-14</Date>
+    <Open>0.0086562</Open>
+    <High>0.00900459</High>
+    <Low>0.00857827</Low>
+    <Close>0.00886068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-15</Date>
+    <Open>0.00885768</Open>
+    <High>0.00923638</High>
+    <Low>0.00885269</Low>
+    <Close>0.0090033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-16</Date>
+    <Open>0.0090023</Open>
+    <High>0.00926615</High>
+    <Low>0.00883823</Low>
+    <Close>0.00912326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-17</Date>
+    <Open>0.00912917</Open>
+    <High>0.00927177</High>
+    <Low>0.0089223</Low>
+    <Close>0.00897767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-18</Date>
+    <Open>0.0089832</Open>
+    <High>0.00929244</High>
+    <Low>0.00890633</Low>
+    <Close>0.0091249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-19</Date>
+    <Open>0.0091239</Open>
+    <High>0.00990569</High>
+    <Low>0.00907782</Low>
+    <Close>0.00963454</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-20</Date>
+    <Open>0.009632</Open>
+    <High>0.0108524</High>
+    <Low>0.00915946</Low>
+    <Close>0.00962348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-21</Date>
+    <Open>0.00960458</Open>
+    <High>0.00975295</High>
+    <Low>0.00910582</Low>
+    <Close>0.00931233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-22</Date>
+    <Open>0.00931033</Open>
+    <High>0.00961935</High>
+    <Low>0.00891325</Low>
+    <Close>0.00892196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-23</Date>
+    <Open>0.00892296</Open>
+    <High>0.00917073</High>
+    <Low>0.00881509</Low>
+    <Close>0.00906672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-24</Date>
+    <Open>0.0090409</Open>
+    <High>0.00917501</High>
+    <Low>0.00885335</Low>
+    <Close>0.00904672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-25</Date>
+    <Open>0.00904072</Open>
+    <High>0.00919874</High>
+    <Low>0.00852594</Low>
+    <Close>0.00859869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-26</Date>
+    <Open>0.00859469</Open>
+    <High>0.00860295</High>
+    <Low>0.00814008</Low>
+    <Close>0.00821623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-27</Date>
+    <Open>0.00821615</Open>
+    <High>0.00868339</High>
+    <Low>0.00811749</Low>
+    <Close>0.00855505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-28</Date>
+    <Open>0.00855505</Open>
+    <High>0.00961133</High>
+    <Low>0.00840376</Low>
+    <Close>0.00891878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-29</Date>
+    <Open>0.00892078</Open>
+    <High>0.009115</High>
+    <Low>0.00867286</Low>
+    <Close>0.00888564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-30</Date>
+    <Open>0.00888864</Open>
+    <High>0.00938166</High>
+    <Low>0.00883736</Low>
+    <Close>0.00920913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-07-31</Date>
+    <Open>0.00921013</Open>
+    <High>0.00943251</High>
+    <Low>0.00898051</Low>
+    <Close>0.00903108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-01</Date>
+    <Open>0.00904671</Open>
+    <High>0.00922815</High>
+    <Low>0.00828832</Low>
+    <Close>0.00829649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-02</Date>
+    <Open>0.00829149</Open>
+    <High>0.00856342</High>
+    <Low>0.00807821</Low>
+    <Close>0.00838843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-03</Date>
+    <Open>0.00838943</Open>
+    <High>0.00859798</High>
+    <Low>0.00815371</Low>
+    <Close>0.00819205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-04</Date>
+    <Open>0.0081978</Open>
+    <High>0.00844677</High>
+    <Low>0.00806532</Low>
+    <Close>0.00818333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-05</Date>
+    <Open>0.00816324</Open>
+    <High>0.00845761</High>
+    <Low>0.00803256</Low>
+    <Close>0.0084366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-06</Date>
+    <Open>0.00826465</Open>
+    <High>0.00854411</High>
+    <Low>0.00826457</Low>
+    <Close>0.00837993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-07</Date>
+    <Open>0.00837484</Open>
+    <High>0.00847761</High>
+    <Low>0.0082519</Low>
+    <Close>0.0084106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-08</Date>
+    <Open>0.0084106</Open>
+    <High>0.0084917</High>
+    <Low>0.00830608</Low>
+    <Close>0.00836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-09</Date>
+    <Open>0.008367</Open>
+    <High>0.00839785</High>
+    <Low>0.00804353</Low>
+    <Close>0.00826165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-10</Date>
+    <Open>0.00826165</Open>
+    <High>0.00845947</High>
+    <Low>0.0080641</Low>
+    <Close>0.00832341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-11</Date>
+    <Open>0.00831941</Open>
+    <High>0.00852398</High>
+    <Low>0.00820069</Low>
+    <Close>0.0082999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-12</Date>
+    <Open>0.0083099</Open>
+    <High>0.0088094</High>
+    <Low>0.00821461</Low>
+    <Close>0.00829281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-13</Date>
+    <Open>0.00830282</Open>
+    <High>0.00855853</High>
+    <Low>0.00824689</Low>
+    <Close>0.00833333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-14</Date>
+    <Open>0.00834225</Open>
+    <High>0.00849195</High>
+    <Low>0.00817212</Low>
+    <Close>0.0083806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-15</Date>
+    <Open>0.0082634</Open>
+    <High>0.00831041</High>
+    <Low>0.00810594</Low>
+    <Close>0.00824298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-16</Date>
+    <Open>0.00822306</Open>
+    <High>0.00832066</High>
+    <Low>0.00811695</Low>
+    <Close>0.00820174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-17</Date>
+    <Open>0.00820574</Open>
+    <High>0.00828316</High>
+    <Low>0.00781431</Low>
+    <Close>0.00784555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-18</Date>
+    <Open>0.00784263</Open>
+    <High>0.0080744</High>
+    <Low>0.00735726</Low>
+    <Close>0.00776208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-19</Date>
+    <Open>0.00776378</Open>
+    <High>0.00782778</High>
+    <Low>0.00694469</Low>
+    <Close>0.00708571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-20</Date>
+    <Open>0.00705721</Open>
+    <High>0.00737588</High>
+    <Low>0.00694835</Low>
+    <Close>0.007045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-21</Date>
+    <Open>0.00708386</Open>
+    <High>0.00733817</High>
+    <Low>0.00704279</Low>
+    <Close>0.00723778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-22</Date>
+    <Open>0.00724286</Open>
+    <High>0.00725285</High>
+    <Low>0.00671499</Low>
+    <Close>0.00678278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-23</Date>
+    <Open>0.00682598</Open>
+    <High>0.00744763</High>
+    <Low>0.00678091</Low>
+    <Close>0.00695514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-24</Date>
+    <Open>0.006955</Open>
+    <High>0.00769469</High>
+    <Low>0.00687759</Low>
+    <Close>0.00713457</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-25</Date>
+    <Open>0.00715357</Open>
+    <High>0.00720521</High>
+    <Low>0.00690093</Low>
+    <Close>0.00699421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-26</Date>
+    <Open>0.00698621</Open>
+    <High>0.00735159</High>
+    <Low>0.00655187</Low>
+    <Close>0.00665066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-27</Date>
+    <Open>0.00664766</Open>
+    <High>0.00676168</High>
+    <Low>0.00648458</Low>
+    <Close>0.0065712</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-28</Date>
+    <Open>0.00656913</Open>
+    <High>0.00661754</High>
+    <Low>0.00633332</Low>
+    <Close>0.006557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-29</Date>
+    <Open>0.006571</Open>
+    <High>0.0077883</High>
+    <Low>0.006203</Low>
+    <Close>0.00641545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-30</Date>
+    <Open>0.00641751</Open>
+    <High>0.006521</High>
+    <Low>0.00604436</Low>
+    <Close>0.00619056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-08-31</Date>
+    <Open>0.0061895</Open>
+    <High>0.00646906</High>
+    <Low>0.00614274</Low>
+    <Close>0.00626994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-01</Date>
+    <Open>0.00625194</Open>
+    <High>0.00634537</High>
+    <Low>0.00606376</Low>
+    <Close>0.00618163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-02</Date>
+    <Open>0.00618875</Open>
+    <High>0.00629369</High>
+    <Low>0.00593965</Low>
+    <Close>0.0060139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-03</Date>
+    <Open>0.00601496</Open>
+    <High>0.006282</High>
+    <Low>0.00593753</Low>
+    <Close>0.005976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-04</Date>
+    <Open>0.0060006</Open>
+    <High>0.006127</High>
+    <Low>0.005947</Low>
+    <Close>0.006002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-05</Date>
+    <Open>0.006002</Open>
+    <High>0.00624362</High>
+    <Low>0.005924</Low>
+    <Close>0.0059536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-06</Date>
+    <Open>0.0059536</Open>
+    <High>0.006212</High>
+    <Low>0.005435</Low>
+    <Close>0.005585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-07</Date>
+    <Open>0.00557939</Open>
+    <High>0.00575717</High>
+    <Low>0.00537379</Low>
+    <Close>0.0056504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-08</Date>
+    <Open>0.0056844</Open>
+    <High>0.0057184</High>
+    <Low>0.00543605</Low>
+    <Close>0.0056169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-09</Date>
+    <Open>0.005607</Open>
+    <High>0.00591042</High>
+    <Low>0.00558995</Low>
+    <Close>0.00578597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-10</Date>
+    <Open>0.00578516</Open>
+    <High>0.00591242</High>
+    <Low>0.00569928</Low>
+    <Close>0.00576409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-11</Date>
+    <Open>0.00576415</Open>
+    <High>0.00906899</High>
+    <Low>0.0057589</Low>
+    <Close>0.00675862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-12</Date>
+    <Open>0.00669161</Open>
+    <High>0.00685171</High>
+    <Low>0.00597125</Low>
+    <Close>0.00621112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-13</Date>
+    <Open>0.00618586</Open>
+    <High>0.00626419</High>
+    <Low>0.00551106</Low>
+    <Close>0.00561911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-14</Date>
+    <Open>0.00559056</Open>
+    <High>0.00579429</High>
+    <Low>0.00542254</Low>
+    <Close>0.00555139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-15</Date>
+    <Open>0.00555139</Open>
+    <High>0.00635819</High>
+    <Low>0.00528862</Low>
+    <Close>0.0055275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-16</Date>
+    <Open>0.0055345</Open>
+    <High>0.00578088</High>
+    <Low>0.00504499</Low>
+    <Close>0.00527147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-17</Date>
+    <Open>0.005272</Open>
+    <High>0.00556156</High>
+    <Low>0.005162</Low>
+    <Close>0.005471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-18</Date>
+    <Open>0.005496</Open>
+    <High>0.005608</High>
+    <Low>0.004854</Low>
+    <Close>0.004915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-19</Date>
+    <Open>0.00491251</Open>
+    <High>0.00540654</High>
+    <Low>0.00478152</Low>
+    <Close>0.0049845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-20</Date>
+    <Open>0.0049705</Open>
+    <High>0.00509451</High>
+    <Low>0.00481396</Low>
+    <Close>0.00490849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-21</Date>
+    <Open>0.0049011</Open>
+    <High>0.00548455</High>
+    <Low>0.004773</Low>
+    <Close>0.004792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-22</Date>
+    <Open>0.004793</Open>
+    <High>0.00511951</High>
+    <Low>0.004759</Low>
+    <Close>0.00492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-23</Date>
+    <Open>0.004917</Open>
+    <High>0.005175</High>
+    <Low>0.00489651</Low>
+    <Close>0.0049615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-24</Date>
+    <Open>0.00496265</Open>
+    <High>0.00508444</High>
+    <Low>0.0049308</Low>
+    <Close>0.0049924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-25</Date>
+    <Open>0.004977</Open>
+    <High>0.005008</High>
+    <Low>0.00475257</Low>
+    <Close>0.004786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-26</Date>
+    <Open>0.004834</Open>
+    <High>0.00498505</High>
+    <Low>0.004689</Low>
+    <Close>0.00484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-27</Date>
+    <Open>0.004835</Open>
+    <High>0.00502</High>
+    <Low>0.00468</Low>
+    <Close>0.00491451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-28</Date>
+    <Open>0.004913</Open>
+    <High>0.00494651</High>
+    <Low>0.00470153</Low>
+    <Close>0.004882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-29</Date>
+    <Open>0.004884</Open>
+    <High>0.004926</High>
+    <Low>0.00472553</Low>
+    <Close>0.00476548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-09-30</Date>
+    <Open>0.00476248</Open>
+    <High>0.0055061</High>
+    <Low>0.004729</Low>
+    <Close>0.004869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-01</Date>
+    <Open>0.00486749</Open>
+    <High>0.00586559</High>
+    <Low>0.004814</Low>
+    <Close>0.004963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-02</Date>
+    <Open>0.004963</Open>
+    <High>0.005033</High>
+    <Low>0.004738</Low>
+    <Close>0.004839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-03</Date>
+    <Open>0.00483848</Open>
+    <High>0.0049745</High>
+    <Low>0.004809</Low>
+    <Close>0.0049505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-04</Date>
+    <Open>0.0049505</Open>
+    <High>0.00528559</High>
+    <Low>0.00490998</Low>
+    <Close>0.00510653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-05</Date>
+    <Open>0.00511553</Open>
+    <High>0.00522909</High>
+    <Low>0.005024</Low>
+    <Close>0.00509502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-06</Date>
+    <Open>0.00510402</Open>
+    <High>0.00525684</High>
+    <Low>0.00500435</Low>
+    <Close>0.00502885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-07</Date>
+    <Open>0.00502185</Open>
+    <High>0.00514562</High>
+    <Low>0.0049443</Low>
+    <Close>0.00496775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-08</Date>
+    <Open>0.0049735</Open>
+    <High>0.0050722</High>
+    <Low>0.0049444</Low>
+    <Close>0.00500825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-09</Date>
+    <Open>0.0050073</Open>
+    <High>0.00507751</High>
+    <Low>0.004935</Low>
+    <Close>0.004979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-10</Date>
+    <Open>0.004981</Open>
+    <High>0.0049985</High>
+    <Low>0.004868</Low>
+    <Close>0.00493151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-11</Date>
+    <Open>0.00493</Open>
+    <High>0.00493</High>
+    <Low>0.004655</Low>
+    <Close>0.00472957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-12</Date>
+    <Open>0.00472857</Open>
+    <High>0.00569154</High>
+    <Low>0.00470253</Low>
+    <Close>0.00488515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-13</Date>
+    <Open>0.004884</Open>
+    <High>0.00500295</High>
+    <Low>0.00459572</Low>
+    <Close>0.00476738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-14</Date>
+    <Open>0.00476438</Open>
+    <High>0.00499135</High>
+    <Low>0.00475557</Low>
+    <Close>0.00486019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-15</Date>
+    <Open>0.00485919</Open>
+    <High>0.00515115</High>
+    <Low>0.00480638</Low>
+    <Close>0.00493725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-16</Date>
+    <Open>0.004937</Open>
+    <High>0.00579812</High>
+    <Low>0.00485619</Low>
+    <Close>0.00497825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-17</Date>
+    <Open>0.00497725</Open>
+    <High>0.00511751</High>
+    <Low>0.00488115</Low>
+    <Close>0.0050561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-18</Date>
+    <Open>0.00505615</Open>
+    <High>0.00559639</High>
+    <Low>0.0048541</Low>
+    <Close>0.0049663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-19</Date>
+    <Open>0.00496625</Open>
+    <High>0.00501815</High>
+    <Low>0.00482924</Low>
+    <Close>0.004874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-20</Date>
+    <Open>0.00486895</Open>
+    <High>0.00527105</High>
+    <Low>0.00482061</Low>
+    <Close>0.00488366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-21</Date>
+    <Open>0.00488966</Open>
+    <High>0.0050602</High>
+    <Low>0.0048329</Low>
+    <Close>0.00491139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-22</Date>
+    <Open>0.0049684</Open>
+    <High>0.0049924</High>
+    <Low>0.00479638</Low>
+    <Close>0.00494344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-23</Date>
+    <Open>0.00494545</Open>
+    <High>0.00499435</High>
+    <Low>0.00481143</Low>
+    <Close>0.00493069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-24</Date>
+    <Open>0.00493054</Open>
+    <High>0.0050475</High>
+    <Low>0.00480438</Low>
+    <Close>0.00484119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-25</Date>
+    <Open>0.00484219</Open>
+    <High>0.00500195</High>
+    <Low>0.00473914</Low>
+    <Close>0.00489056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-26</Date>
+    <Open>0.00489066</Open>
+    <High>0.00502451</High>
+    <Low>0.00486431</Low>
+    <Close>0.00490737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-27</Date>
+    <Open>0.00490737</Open>
+    <High>0.005025</High>
+    <Low>0.00479366</Low>
+    <Close>0.00489034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-28</Date>
+    <Open>0.00488729</Open>
+    <High>0.00499245</High>
+    <Low>0.00480029</Low>
+    <Close>0.00492608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-29</Date>
+    <Open>0.00492394</Open>
+    <High>0.00502251</High>
+    <Low>0.00481149</Low>
+    <Close>0.00485312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-30</Date>
+    <Open>0.00485416</Open>
+    <High>0.00549959</High>
+    <Low>0.0048172</Low>
+    <Close>0.00494699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-10-31</Date>
+    <Open>0.00494099</Open>
+    <High>0.00500005</High>
+    <Low>0.004828</Low>
+    <Close>0.00484961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-01</Date>
+    <Open>0.00485571</Open>
+    <High>0.00489841</High>
+    <Low>0.00482723</Low>
+    <Close>0.00487851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-02</Date>
+    <Open>0.00487851</Open>
+    <High>0.00492111</High>
+    <Low>0.00472076</Low>
+    <Close>0.00479971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-03</Date>
+    <Open>0.00480076</Open>
+    <High>0.0050647</High>
+    <Low>0.00475152</Low>
+    <Close>0.004873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-04</Date>
+    <Open>0.004873</Open>
+    <High>0.00533143</High>
+    <Low>0.00481066</Low>
+    <Close>0.00516841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-05</Date>
+    <Open>0.00517536</Open>
+    <High>0.00533337</High>
+    <Low>0.00495235</Low>
+    <Close>0.00503625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-06</Date>
+    <Open>0.0050332</Open>
+    <High>0.00509215</High>
+    <Low>0.0048289</Low>
+    <Close>0.00488839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-07</Date>
+    <Open>0.00488839</Open>
+    <High>0.00498515</High>
+    <Low>0.00472147</Low>
+    <Close>0.00474157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-08</Date>
+    <Open>0.00474895</Open>
+    <High>0.00487798</High>
+    <Low>0.00410633</Low>
+    <Close>0.00423467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-09</Date>
+    <Open>0.00423166</Open>
+    <High>0.00441569</High>
+    <Low>0.00339931</Low>
+    <Close>0.00359585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-10</Date>
+    <Open>0.00371868</Open>
+    <High>0.00447353</High>
+    <Low>0.00349345</Low>
+    <Close>0.00407746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-11</Date>
+    <Open>0.00407746</Open>
+    <High>0.0047148</High>
+    <Low>0.00378676</Low>
+    <Close>0.00387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-12</Date>
+    <Open>0.00387177</Open>
+    <High>0.00397075</High>
+    <Low>0.00372229</Low>
+    <Close>0.00375024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-13</Date>
+    <Open>0.00373626</Open>
+    <High>0.00402739</High>
+    <Low>0.00356671</Low>
+    <Close>0.00361993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-14</Date>
+    <Open>0.00363091</Open>
+    <High>0.00369057</High>
+    <Low>0.00343184</Low>
+    <Close>0.00352371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-15</Date>
+    <Open>0.0035287</Open>
+    <High>0.00376823</High>
+    <Low>0.0035287</Low>
+    <Close>0.00361738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-16</Date>
+    <Open>0.00362038</Open>
+    <High>0.0040364</High>
+    <Low>0.00357128</Low>
+    <Close>0.00364968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-17</Date>
+    <Open>0.00365134</Open>
+    <High>0.00377679</High>
+    <Low>0.00361814</Low>
+    <Close>0.00370104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-18</Date>
+    <Open>0.00369915</Open>
+    <High>0.00375017</High>
+    <Low>0.00362942</Low>
+    <Close>0.00363282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-19</Date>
+    <Open>0.00362982</Open>
+    <High>0.0037448</High>
+    <Low>0.0036285</Low>
+    <Close>0.00367414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-20</Date>
+    <Open>0.00367469</Open>
+    <High>0.00379184</High>
+    <Low>0.00339854</Low>
+    <Close>0.00346073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-21</Date>
+    <Open>0.00348872</Open>
+    <High>0.00357556</High>
+    <Low>0.00329431</Low>
+    <Close>0.00331502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-22</Date>
+    <Open>0.00331502</Open>
+    <High>0.00342151</High>
+    <Low>0.00320615</Low>
+    <Close>0.00336988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-23</Date>
+    <Open>0.0033713</Open>
+    <High>0.0036869</High>
+    <Low>0.00336059</Low>
+    <Close>0.00361406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-24</Date>
+    <Open>0.00360107</Open>
+    <High>0.00368727</High>
+    <Low>0.00349113</Low>
+    <Close>0.00353999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-25</Date>
+    <Open>0.00354099</Open>
+    <High>0.00356047</High>
+    <Low>0.00338553</Low>
+    <Close>0.00340006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-26</Date>
+    <Open>0.00340003</Open>
+    <High>0.00365462</High>
+    <Low>0.00339</Low>
+    <Close>0.00343597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-27</Date>
+    <Open>0.00343497</Open>
+    <High>0.0036457</High>
+    <Low>0.00341292</Low>
+    <Close>0.00355176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-28</Date>
+    <Open>0.00355173</Open>
+    <High>0.00358813</High>
+    <Low>0.00334719</Low>
+    <Close>0.00340371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-29</Date>
+    <Open>0.00340371</Open>
+    <High>0.00346768</High>
+    <Low>0.00336769</Low>
+    <Close>0.00342673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-11-30</Date>
+    <Open>0.00343469</Open>
+    <High>0.00388884</High>
+    <Low>0.00340688</Low>
+    <Close>0.00353218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-01</Date>
+    <Open>0.00353611</Open>
+    <High>0.00377464</High>
+    <Low>0.00346407</Low>
+    <Close>0.00352421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-02</Date>
+    <Open>0.00352421</Open>
+    <High>0.00376015</High>
+    <Low>0.00347576</Low>
+    <Close>0.00353821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-03</Date>
+    <Open>0.00354121</Open>
+    <High>0.00358739</High>
+    <Low>0.00348335</Low>
+    <Close>0.00351135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-04</Date>
+    <Open>0.00350835</Open>
+    <High>0.00356936</High>
+    <Low>0.00344069</Low>
+    <Close>0.00349735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-05</Date>
+    <Open>0.00350135</Open>
+    <High>0.00357004</High>
+    <Low>0.00343803</Low>
+    <Close>0.0034771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-06</Date>
+    <Open>0.00347635</Open>
+    <High>0.003569</High>
+    <Low>0.00347003</Low>
+    <Close>0.00354493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-07</Date>
+    <Open>0.003546</Open>
+    <High>0.00355504</High>
+    <Low>0.00332013</Low>
+    <Close>0.003376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-08</Date>
+    <Open>0.003368</Open>
+    <High>0.0035117</High>
+    <Low>0.00334997</Low>
+    <Close>0.00347124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-09</Date>
+    <Open>0.00347324</Open>
+    <High>0.00360004</High>
+    <Low>0.00342503</Low>
+    <Close>0.0034911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-10</Date>
+    <Open>0.0034911</Open>
+    <High>0.00408004</High>
+    <Low>0.00343897</Low>
+    <Close>0.00348393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-11</Date>
+    <Open>0.00348297</Open>
+    <High>0.00366704</High>
+    <Low>0.00343797</Low>
+    <Close>0.00345969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-12</Date>
+    <Open>0.00346235</Open>
+    <High>0.00347135</High>
+    <Low>0.00334089</Low>
+    <Close>0.00337927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-13</Date>
+    <Open>0.0033753</Open>
+    <High>0.00351658</High>
+    <Low>0.0032583</Low>
+    <Close>0.00340218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-14</Date>
+    <Open>0.00340318</Open>
+    <High>0.00347262</High>
+    <Low>0.00329244</Low>
+    <Close>0.00336524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-15</Date>
+    <Open>0.00336</Open>
+    <High>0.00339368</High>
+    <Low>0.00324932</Low>
+    <Close>0.00332566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-16</Date>
+    <Open>0.00332667</Open>
+    <High>0.00334967</High>
+    <Low>0.003109</Low>
+    <Close>0.00315632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-17</Date>
+    <Open>0.00315832</Open>
+    <High>0.00399516</High>
+    <Low>0.0030323</Low>
+    <Close>0.00354346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-18</Date>
+    <Open>0.00353746</Open>
+    <High>0.00358243</High>
+    <Low>0.00319838</Low>
+    <Close>0.00321142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-19</Date>
+    <Open>0.003215</Open>
+    <High>0.00328152</High>
+    <Low>0.00304312</Low>
+    <Close>0.003047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-20</Date>
+    <Open>0.00304597</Open>
+    <High>0.00333227</High>
+    <Low>0.003043</Low>
+    <Close>0.00319513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-21</Date>
+    <Open>0.00319213</Open>
+    <High>0.0032431</High>
+    <Low>0.00309909</Low>
+    <Close>0.00310916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-22</Date>
+    <Open>0.00311516</Open>
+    <High>0.00318203</High>
+    <Low>0.00305576</Low>
+    <Close>0.00312147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-23</Date>
+    <Open>0.00312147</Open>
+    <High>0.00315062</High>
+    <Low>0.00308151</Low>
+    <Close>0.00310269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-24</Date>
+    <Open>0.00310369</Open>
+    <High>0.00345772</High>
+    <Low>0.00310084</Low>
+    <Close>0.0032828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-25</Date>
+    <Open>0.00327877</Open>
+    <High>0.00338653</High>
+    <Low>0.00312656</Low>
+    <Close>0.00319358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-26</Date>
+    <Open>0.00319162</Open>
+    <High>0.00323068</High>
+    <Low>0.00313972</Low>
+    <Close>0.00319236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-27</Date>
+    <Open>0.00319039</Open>
+    <High>0.00323539</High>
+    <Low>0.00309379</Low>
+    <Close>0.00313078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-28</Date>
+    <Open>0.00313178</Open>
+    <High>0.00329635</High>
+    <Low>0.00306305</Low>
+    <Close>0.00308633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-29</Date>
+    <Open>0.00308736</Open>
+    <High>0.00313359</High>
+    <Low>0.00305378</Low>
+    <Close>0.00305959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-30</Date>
+    <Open>0.00306365</Open>
+    <High>0.00329042</High>
+    <Low>0.00300846</Low>
+    <Close>0.00303048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2022-12-31</Date>
+    <Open>0.00302845</Open>
+    <High>0.00314639</High>
+    <Low>0.00302052</Low>
+    <Close>0.00303448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-01</Date>
+    <Open>0.00303648</Open>
+    <High>0.00309951</High>
+    <Low>0.00300217</Low>
+    <Close>0.00307359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-02</Date>
+    <Open>0.00307515</Open>
+    <High>0.00316695</High>
+    <Low>0.00303472</Low>
+    <Close>0.00312003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-03</Date>
+    <Open>0.00311197</Open>
+    <High>0.00316405</High>
+    <Low>0.00309273</Low>
+    <Close>0.00311781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-04</Date>
+    <Open>0.00311781</Open>
+    <High>0.00316473</High>
+    <Low>0.00311472</Low>
+    <Close>0.00313497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-05</Date>
+    <Open>0.00313097</Open>
+    <High>0.00322371</High>
+    <Low>0.00312097</Low>
+    <Close>0.0031519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-06</Date>
+    <Open>0.00315305</Open>
+    <High>0.0033403</High>
+    <Low>0.00312328</Low>
+    <Close>0.00325999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-07</Date>
+    <Open>0.00325896</Open>
+    <High>0.00328508</High>
+    <Low>0.0031862</Low>
+    <Close>0.00318823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-08</Date>
+    <Open>0.00318923</Open>
+    <High>0.00334033</High>
+    <Low>0.00317659</Low>
+    <Close>0.00326361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-09</Date>
+    <Open>0.00326535</Open>
+    <High>0.00354665</High>
+    <Low>0.00325945</Low>
+    <Close>0.00347497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-10</Date>
+    <Open>0.003474</Open>
+    <High>0.00359968</High>
+    <Low>0.00341662</Low>
+    <Close>0.00344248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-11</Date>
+    <Open>0.00344255</Open>
+    <High>0.00355093</High>
+    <Low>0.0033195</Low>
+    <Close>0.00348293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-12</Date>
+    <Open>0.003482</Open>
+    <High>0.003598</High>
+    <Low>0.00346272</Low>
+    <Close>0.00355632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-13</Date>
+    <Open>0.00354632</Open>
+    <High>0.00368537</High>
+    <Low>0.003491</Low>
+    <Close>0.00366737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-14</Date>
+    <Open>0.00366029</Open>
+    <High>0.00397348</High>
+    <Low>0.00363836</Low>
+    <Close>0.0039632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-15</Date>
+    <Open>0.0039504</Open>
+    <High>0.00396167</High>
+    <Low>0.00376626</Low>
+    <Close>0.00387412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-16</Date>
+    <Open>0.00387416</Open>
+    <High>0.00578006</High>
+    <Low>0.00386916</Low>
+    <Close>0.00530005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-17</Date>
+    <Open>0.00529005</Open>
+    <High>0.00590006</High>
+    <Low>0.0048399</Low>
+    <Close>0.00504055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-18</Date>
+    <Open>0.00504055</Open>
+    <High>0.00532037</High>
+    <Low>0.00449977</Low>
+    <Close>0.00459977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-19</Date>
+    <Open>0.00458572</Open>
+    <High>0.00465453</High>
+    <Low>0.0043996</Low>
+    <Close>0.00463181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-20</Date>
+    <Open>0.00463386</Open>
+    <High>0.0050169</High>
+    <Low>0.00456891</Low>
+    <Close>0.00495384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-21</Date>
+    <Open>0.00495289</Open>
+    <High>0.00505296</High>
+    <Low>0.00487876</Low>
+    <Close>0.00494679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-22</Date>
+    <Open>0.00494374</Open>
+    <High>0.0049739</High>
+    <Low>0.00473709</Low>
+    <Close>0.00477896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-23</Date>
+    <Open>0.00477991</Open>
+    <High>0.00508151</High>
+    <Low>0.004771</Low>
+    <Close>0.00494474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-24</Date>
+    <Open>0.00494379</Open>
+    <High>0.00507356</High>
+    <Low>0.00479177</Low>
+    <Close>0.00480714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-25</Date>
+    <Open>0.00481014</Open>
+    <High>0.00508132</High>
+    <Low>0.00473047</Low>
+    <Close>0.00486683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-26</Date>
+    <Open>0.00486588</Open>
+    <High>0.00495994</High>
+    <Low>0.00477714</Low>
+    <Close>0.00478138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-27</Date>
+    <Open>0.00478243</Open>
+    <High>0.00490469</High>
+    <Low>0.00470738</Low>
+    <Close>0.00479735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-28</Date>
+    <Open>0.00479168</Open>
+    <High>0.00484621</High>
+    <Low>0.00473899</Low>
+    <Close>0.00475295</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-29</Date>
+    <Open>0.00475295</Open>
+    <High>0.00486749</High>
+    <Low>0.00472123</Low>
+    <Close>0.00482829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-30</Date>
+    <Open>0.00480305</Open>
+    <High>0.00480948</High>
+    <Low>0.004436</Low>
+    <Close>0.00449531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-01-31</Date>
+    <Open>0.00449131</Open>
+    <High>0.00480766</High>
+    <Low>0.00449131</Low>
+    <Close>0.00458846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-01</Date>
+    <Open>0.00458732</Open>
+    <High>0.00470328</High>
+    <Low>0.00442409</Low>
+    <Close>0.00469128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-02</Date>
+    <Open>0.00469423</Open>
+    <High>0.00487444</High>
+    <Low>0.00469323</Low>
+    <Close>0.00475086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-03</Date>
+    <Open>0.00475195</Open>
+    <High>0.00485773</High>
+    <Low>0.00469942</Low>
+    <Close>0.00472938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-04</Date>
+    <Open>0.00472938</Open>
+    <High>0.00483634</High>
+    <Low>0.00472338</Low>
+    <Close>0.00481143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-05</Date>
+    <Open>0.00481238</Open>
+    <High>0.0049811</High>
+    <Low>0.00473976</Low>
+    <Close>0.0047962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-06</Date>
+    <Open>0.00479625</Open>
+    <High>0.00486717</High>
+    <Low>0.00471695</Low>
+    <Close>0.00475819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-07</Date>
+    <Open>0.00475819</Open>
+    <High>0.00513226</High>
+    <Low>0.00469923</Low>
+    <Close>0.00511536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-08</Date>
+    <Open>0.00511531</Open>
+    <High>0.005325</High>
+    <Low>0.0049032</Low>
+    <Close>0.00496835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-09</Date>
+    <Open>0.0049493</Open>
+    <High>0.00494975</High>
+    <Low>0.00447116</Low>
+    <Close>0.0044904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-10</Date>
+    <Open>0.00449045</Open>
+    <High>0.0046593</High>
+    <Low>0.00447045</Low>
+    <Close>0.00454873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-11</Date>
+    <Open>0.00454768</Open>
+    <High>0.00468628</High>
+    <Low>0.0045335</Low>
+    <Close>0.00463042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-12</Date>
+    <Open>0.00462946</Open>
+    <High>0.00475852</High>
+    <Low>0.00462742</Low>
+    <Close>0.00466347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-13</Date>
+    <Open>0.00466347</Open>
+    <High>0.00467147</High>
+    <Low>0.0044162</Low>
+    <Close>0.00449538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-14</Date>
+    <Open>0.00449847</Open>
+    <High>0.00464127</High>
+    <Low>0.00447431</Low>
+    <Close>0.00462634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-15</Date>
+    <Open>0.00462527</Open>
+    <High>0.00493059</High>
+    <Low>0.00456764</Low>
+    <Close>0.00487493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-16</Date>
+    <Open>0.00487088</Open>
+    <High>0.0049908</High>
+    <Low>0.00463658</Low>
+    <Close>0.00463658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-17</Date>
+    <Open>0.00464958</Open>
+    <High>0.00484563</High>
+    <Low>0.00460355</Low>
+    <Close>0.00478343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-18</Date>
+    <Open>0.00478872</Open>
+    <High>0.00484368</High>
+    <Low>0.00473904</Low>
+    <Close>0.00479477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-19</Date>
+    <Open>0.00479582</Open>
+    <High>0.00517088</High>
+    <Low>0.00476067</Low>
+    <Close>0.00485912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-20</Date>
+    <Open>0.00485607</Open>
+    <High>0.00546166</High>
+    <Low>0.00473937</Low>
+    <Close>0.00517321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-21</Date>
+    <Open>0.00517421</Open>
+    <High>0.00660066</High>
+    <Low>0.00502975</Low>
+    <Close>0.00548093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-22</Date>
+    <Open>0.00547098</Open>
+    <High>0.00679109</High>
+    <Low>0.00515088</Low>
+    <Close>0.00621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-23</Date>
+    <Open>0.00622</Open>
+    <High>0.00886089</High>
+    <Low>0.00612024</Low>
+    <Close>0.00770108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-24</Date>
+    <Open>0.00770108</Open>
+    <High>0.0079608</High>
+    <Low>0.00654118</Low>
+    <Close>0.00673993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-25</Date>
+    <Open>0.00674986</Open>
+    <High>0.00691014</High>
+    <Low>0.00569046</Low>
+    <Close>0.00597042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-26</Date>
+    <Open>0.00597042</Open>
+    <High>0.00615698</High>
+    <Low>0.00563251</Low>
+    <Close>0.00582841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-27</Date>
+    <Open>0.00583753</Open>
+    <High>0.00647184</High>
+    <Low>0.00561317</Low>
+    <Close>0.00566428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-02-28</Date>
+    <Open>0.00567534</Open>
+    <High>0.005849</High>
+    <Low>0.00523699</Low>
+    <Close>0.00531217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-01</Date>
+    <Open>0.00531306</Open>
+    <High>0.00582441</High>
+    <Low>0.00520573</Low>
+    <Close>0.0053547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-02</Date>
+    <Open>0.0053628</Open>
+    <High>0.00557189</High>
+    <Low>0.00517005</Low>
+    <Close>0.00539027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-03</Date>
+    <Open>0.00538048</Open>
+    <High>0.00547049</High>
+    <Low>0.00489073</Low>
+    <Close>0.00506035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-04</Date>
+    <Open>0.0050604</Open>
+    <High>0.00535005</High>
+    <Low>0.00500045</Low>
+    <Close>0.00518036</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-05</Date>
+    <Open>0.00519036</Open>
+    <High>0.00528026</High>
+    <Low>0.00502025</Low>
+    <Close>0.00508056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-06</Date>
+    <Open>0.00508061</Open>
+    <High>0.00508061</High>
+    <Low>0.00469052</Low>
+    <Close>0.00486971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-07</Date>
+    <Open>0.00486951</Open>
+    <High>0.00493995</High>
+    <Low>0.00458972</Low>
+    <Close>0.00460977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-08</Date>
+    <Open>0.00460077</Open>
+    <High>0.00467</High>
+    <Low>0.00425066</Low>
+    <Close>0.00428083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-09</Date>
+    <Open>0.00428057</Open>
+    <High>0.00512451</High>
+    <Low>0.00421316</Low>
+    <Close>0.00437939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-10</Date>
+    <Open>0.00436044</Open>
+    <High>0.00440035</High>
+    <Low>0.00394768</Low>
+    <Close>0.00414567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-11</Date>
+    <Open>0.00414784</Open>
+    <High>0.00431738</High>
+    <Low>0.00388714</Low>
+    <Close>0.00403303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-12</Date>
+    <Open>0.00401953</Open>
+    <High>0.00423397</High>
+    <Low>0.0039874</Low>
+    <Close>0.00423397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-13</Date>
+    <Open>0.00423397</Open>
+    <High>0.00449404</High>
+    <Low>0.00412029</Low>
+    <Close>0.00436234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-14</Date>
+    <Open>0.00436936</Open>
+    <High>0.00462179</High>
+    <Low>0.00430394</Low>
+    <Close>0.00437089</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-15</Date>
+    <Open>0.00437032</Open>
+    <High>0.00449534</High>
+    <Low>0.00397427</Low>
+    <Close>0.00405416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-16</Date>
+    <Open>0.00405392</Open>
+    <High>0.00421647</High>
+    <Low>0.00398285</Low>
+    <Close>0.00415018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-17</Date>
+    <Open>0.00416618</Open>
+    <High>0.00426965</High>
+    <Low>0.00409213</Low>
+    <Close>0.00423262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-18</Date>
+    <Open>0.00423462</Open>
+    <High>0.00435722</High>
+    <Low>0.00413814</Low>
+    <Close>0.00418949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-19</Date>
+    <Open>0.00418552</Open>
+    <High>0.00424662</High>
+    <Low>0.00402572</Low>
+    <Close>0.00413549</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-20</Date>
+    <Open>0.00414231</Open>
+    <High>0.00416542</High>
+    <Low>0.00395824</Low>
+    <Close>0.00400649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-21</Date>
+    <Open>0.00399947</Open>
+    <High>0.00404986</High>
+    <Low>0.00386038</Low>
+    <Close>0.00402183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-22</Date>
+    <Open>0.00403788</Open>
+    <High>0.00407905</High>
+    <Low>0.00368941</Low>
+    <Close>0.00378635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-23</Date>
+    <Open>0.00379437</Open>
+    <High>0.0042831</High>
+    <Low>0.00378913</Low>
+    <Close>0.00402836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-24</Date>
+    <Open>0.0040264</Open>
+    <High>0.004138</High>
+    <Low>0.00376298</Low>
+    <Close>0.00382116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-25</Date>
+    <Open>0.00382039</Open>
+    <High>0.00396889</High>
+    <Low>0.00364453</Low>
+    <Close>0.00364753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-26</Date>
+    <Open>0.00364753</Open>
+    <High>0.00382837</High>
+    <Low>0.00364349</Low>
+    <Close>0.00374623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-27</Date>
+    <Open>0.00375012</Open>
+    <High>0.00377532</High>
+    <Low>0.00355438</Low>
+    <Close>0.00362971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-28</Date>
+    <Open>0.0036227</Open>
+    <High>0.00366295</High>
+    <Low>0.00351195</Low>
+    <Close>0.0035874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-29</Date>
+    <Open>0.00359136</Open>
+    <High>0.00379646</High>
+    <Low>0.00357693</Low>
+    <Close>0.0036847</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-30</Date>
+    <Open>0.00368274</Open>
+    <High>0.00417346</High>
+    <Low>0.00356868</Low>
+    <Close>0.00382807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-03-31</Date>
+    <Open>0.00384908</Open>
+    <High>0.00391039</High>
+    <Low>0.00364966</Low>
+    <Close>0.00376775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-01</Date>
+    <Open>0.00375679</Open>
+    <High>0.0038071</High>
+    <Low>0.00370074</Low>
+    <Close>0.00375539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-02</Date>
+    <Open>0.00374935</Open>
+    <High>0.00375354</High>
+    <Low>0.00364448</Low>
+    <Close>0.0036543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-03</Date>
+    <Open>0.00365526</Open>
+    <High>0.00391564</High>
+    <Low>0.00360769</Low>
+    <Close>0.00368547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-04</Date>
+    <Open>0.00369448</Open>
+    <High>0.00377725</High>
+    <Low>0.00365124</Low>
+    <Close>0.00375692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-05</Date>
+    <Open>0.00375591</Open>
+    <High>0.00381718</High>
+    <Low>0.00371256</Low>
+    <Close>0.00378436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-06</Date>
+    <Open>0.0037844</Open>
+    <High>0.00385166</High>
+    <Low>0.00369907</Low>
+    <Close>0.0037263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-07</Date>
+    <Open>0.00372534</Open>
+    <High>0.00375191</High>
+    <Low>0.00367046</Low>
+    <Close>0.00368776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-08</Date>
+    <Open>0.00368765</Open>
+    <High>0.0041429</High>
+    <Low>0.00367776</Low>
+    <Close>0.00374146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-09</Date>
+    <Open>0.00375146</Open>
+    <High>0.00379205</High>
+    <Low>0.00364233</Low>
+    <Close>0.0037282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-10</Date>
+    <Open>0.00373743</Open>
+    <High>0.00377338</High>
+    <Low>0.00367687</Low>
+    <Close>0.00374507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-11</Date>
+    <Open>0.00374896</Open>
+    <High>0.00383814</High>
+    <Low>0.00374569</Low>
+    <Close>0.00381577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-12</Date>
+    <Open>0.00381473</Open>
+    <High>0.00393566</High>
+    <Low>0.00371497</Low>
+    <Close>0.00374092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-13</Date>
+    <Open>0.00374192</Open>
+    <High>0.00384022</High>
+    <Low>0.00369699</Low>
+    <Close>0.00377562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-14</Date>
+    <Open>0.00376861</Open>
+    <High>0.00386525</High>
+    <Low>0.00376631</Low>
+    <Close>0.00385323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-15</Date>
+    <Open>0.00386116</Open>
+    <High>0.00423468</High>
+    <Low>0.00383868</Low>
+    <Close>0.00405865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-16</Date>
+    <Open>0.00405865</Open>
+    <High>0.00409339</High>
+    <Low>0.0039207</Low>
+    <Close>0.00399471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-17</Date>
+    <Open>0.00399371</Open>
+    <High>0.00401217</High>
+    <Low>0.00382179</Low>
+    <Close>0.00386624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-18</Date>
+    <Open>0.00387428</Open>
+    <High>0.00400116</High>
+    <Low>0.00380175</Low>
+    <Close>0.00392267</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-19</Date>
+    <Open>0.00392975</Open>
+    <High>0.00408251</High>
+    <Low>0.00372446</Low>
+    <Close>0.0038291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-20</Date>
+    <Open>0.00382776</Open>
+    <High>0.00389325</High>
+    <Low>0.00360435</Low>
+    <Close>0.00366929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-21</Date>
+    <Open>0.00367618</Open>
+    <High>0.00369482</High>
+    <Low>0.00344962</Low>
+    <Close>0.00353468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-22</Date>
+    <Open>0.00351921</Open>
+    <High>0.0035329</High>
+    <Low>0.00340624</Low>
+    <Close>0.00350031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-23</Date>
+    <Open>0.00351335</Open>
+    <High>0.003585</High>
+    <Low>0.00343714</Low>
+    <Close>0.00344517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-24</Date>
+    <Open>0.00344417</Open>
+    <High>0.00384908</High>
+    <Low>0.00340407</Low>
+    <Close>0.00351511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-25</Date>
+    <Open>0.00351511</Open>
+    <High>0.00361633</High>
+    <Low>0.00343234</Low>
+    <Close>0.00352485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-26</Date>
+    <Open>0.00352985</Open>
+    <High>0.00369196</High>
+    <Low>0.00343345</Low>
+    <Close>0.00351412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-27</Date>
+    <Open>0.00350812</Open>
+    <High>0.00362731</High>
+    <Low>0.00349112</Low>
+    <Close>0.00358143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-28</Date>
+    <Open>0.00358111</Open>
+    <High>0.00359419</High>
+    <Low>0.00345952</Low>
+    <Close>0.00349372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-29</Date>
+    <Open>0.00349362</Open>
+    <High>0.00353554</High>
+    <Low>0.00344503</Low>
+    <Close>0.00344903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-04-30</Date>
+    <Open>0.003448</Open>
+    <High>0.00351814</High>
+    <Low>0.00344103</Low>
+    <Close>0.00346698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-01</Date>
+    <Open>0.00346794</Open>
+    <High>0.0035258</High>
+    <Low>0.00327656</Low>
+    <Close>0.00328589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-02</Date>
+    <Open>0.00328589</Open>
+    <High>0.0035162</High>
+    <Low>0.00327282</Low>
+    <Close>0.00337506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-03</Date>
+    <Open>0.00336598</Open>
+    <High>0.00338468</High>
+    <Low>0.00325801</Low>
+    <Close>0.00335991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-04</Date>
+    <Open>0.00336501</Open>
+    <High>0.00342472</High>
+    <Low>0.00328841</Low>
+    <Close>0.00330519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-05</Date>
+    <Open>0.00330422</Open>
+    <High>0.00336138</High>
+    <Low>0.00330019</Low>
+    <Close>0.00333103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-06</Date>
+    <Open>0.00333887</Open>
+    <High>0.00359428</High>
+    <Low>0.00323242</Low>
+    <Close>0.00338792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-07</Date>
+    <Open>0.00338588</Open>
+    <High>0.00345203</High>
+    <Low>0.00327435</Low>
+    <Close>0.00329989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-08</Date>
+    <Open>0.00328584</Open>
+    <High>0.00329989</High>
+    <Low>0.00298897</Low>
+    <Close>0.00305235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-09</Date>
+    <Open>0.00305726</Open>
+    <High>0.00324724</High>
+    <Low>0.00304619</Low>
+    <Close>0.00314214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-10</Date>
+    <Open>0.00314114</Open>
+    <High>0.00322822</High>
+    <Low>0.0031011</Low>
+    <Close>0.00316685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-11</Date>
+    <Open>0.00315515</Open>
+    <High>0.00318318</High>
+    <Low>0.00288159</Low>
+    <Close>0.00295366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-12</Date>
+    <Open>0.00295695</Open>
+    <High>0.0030146</High>
+    <Low>0.00283884</Low>
+    <Close>0.00298639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-13</Date>
+    <Open>0.0029961</Open>
+    <High>0.0030048</High>
+    <Low>0.00287544</Low>
+    <Close>0.00290645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-14</Date>
+    <Open>0.00290674</Open>
+    <High>0.00301751</High>
+    <Low>0.00287944</Low>
+    <Close>0.00293076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-15</Date>
+    <Open>0.00293247</Open>
+    <High>0.00305683</High>
+    <Low>0.00290245</Low>
+    <Close>0.00297808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-16</Date>
+    <Open>0.00297825</Open>
+    <High>0.00311018</High>
+    <Low>0.00291087</Low>
+    <Close>0.00296648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-17</Date>
+    <Open>0.00296719</Open>
+    <High>0.00301751</High>
+    <Low>0.00294018</Low>
+    <Close>0.0029925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-18</Date>
+    <Open>0.0029982</Open>
+    <High>0.0030089</High>
+    <Low>0.00288587</Low>
+    <Close>0.00291417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-19</Date>
+    <Open>0.00291988</Open>
+    <High>0.00294447</High>
+    <Low>0.00288523</Low>
+    <Close>0.00292185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-20</Date>
+    <Open>0.00292346</Open>
+    <High>0.00306175</High>
+    <Low>0.00289302</Low>
+    <Close>0.00293393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-21</Date>
+    <Open>0.00293593</Open>
+    <High>0.00297879</High>
+    <Low>0.00285843</Low>
+    <Close>0.00287172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-22</Date>
+    <Open>0.00287043</Open>
+    <High>0.00288373</High>
+    <Low>0.00282341</Low>
+    <Close>0.00288373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-23</Date>
+    <Open>0.00287932</Open>
+    <High>0.00288749</High>
+    <Low>0.0028224</Low>
+    <Close>0.00284417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-24</Date>
+    <Open>0.00284026</Open>
+    <High>0.00286506</High>
+    <Low>0.00251782</Low>
+    <Close>0.00261884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-25</Date>
+    <Open>0.00262084</Open>
+    <High>0.00269565</High>
+    <Low>0.00255977</Low>
+    <Close>0.00260605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-26</Date>
+    <Open>0.00260805</Open>
+    <High>0.00261908</High>
+    <Low>0.00254323</Low>
+    <Close>0.00258459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-27</Date>
+    <Open>0.00258478</Open>
+    <High>0.00262687</High>
+    <Low>0.00256582</Low>
+    <Close>0.00257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="AMP">
+    <Date>2023-05-28</Date>
+    <Open>0.00257103</Open>
+    <High>0.00264361</High>
+    <Low>0.00256202</Low>
+    <Close>0.00264161</Close>
+  </Cryptocurrency>
+</Root>

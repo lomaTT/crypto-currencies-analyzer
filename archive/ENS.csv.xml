@@ -1,0 +1,2649 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-14</Date>
+    <Open>10.4822</Open>
+    <High>10.8704</High>
+    <Low>8.49298</Low>
+    <Close>9.36687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-15</Date>
+    <Open>9.3469</Open>
+    <High>9.9081</High>
+    <Low>8.89753</Low>
+    <Close>9.87714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-16</Date>
+    <Open>9.87714</Open>
+    <High>10.776</High>
+    <Low>8.81852</Low>
+    <Close>10.756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-17</Date>
+    <Open>10.726</Open>
+    <High>12.5449</High>
+    <Low>10.2966</Low>
+    <Close>12.5337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-18</Date>
+    <Open>12.5137</Open>
+    <High>12.9045</High>
+    <Low>10.7549</Low>
+    <Close>10.8159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-19</Date>
+    <Open>10.8448</Open>
+    <High>12.4688</High>
+    <Low>10.0669</Low>
+    <Close>12.1978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-20</Date>
+    <Open>12.199</Open>
+    <High>13.6749</High>
+    <Low>11.8258</Low>
+    <Close>12.4138</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-21</Date>
+    <Open>12.4351</Open>
+    <High>13.6436</High>
+    <Low>12.3452</Low>
+    <Close>12.5836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-22</Date>
+    <Open>12.5824</Open>
+    <High>13.063</High>
+    <Low>12.0343</Low>
+    <Close>12.3651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-23</Date>
+    <Open>12.3751</Open>
+    <High>14.0559</High>
+    <Low>12.1167</Low>
+    <Close>13.0343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-24</Date>
+    <Open>13.0031</Open>
+    <High>13.1242</High>
+    <Low>11.3963</Low>
+    <Close>12.2041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-25</Date>
+    <Open>12.2241</Open>
+    <High>13.0656</High>
+    <Low>11.9069</Low>
+    <Close>12.5062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-26</Date>
+    <Open>12.515</Open>
+    <High>12.736</High>
+    <Low>10.008</Low>
+    <Close>10.7692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-27</Date>
+    <Open>10.7692</Open>
+    <High>10.8691</High>
+    <Low>9.50953</Low>
+    <Close>9.84015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-28</Date>
+    <Open>9.79882</Open>
+    <High>10.3389</High>
+    <Low>9.51904</Low>
+    <Close>10.1849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-29</Date>
+    <Open>10.1684</Open>
+    <High>10.3735</High>
+    <Low>9.75433</Low>
+    <Close>10.086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-30</Date>
+    <Open>10.1127</Open>
+    <High>12.8448</High>
+    <Low>10.0102</Low>
+    <Close>12.6362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-05-31</Date>
+    <Open>12.6659</Open>
+    <High>13.3643</High>
+    <Low>11.3775</Low>
+    <Close>11.9201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-01</Date>
+    <Open>11.8945</Open>
+    <High>12.2273</High>
+    <Low>10.4121</Low>
+    <Close>10.5904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-02</Date>
+    <Open>10.5915</Open>
+    <High>11.2758</High>
+    <Low>10.3531</Low>
+    <Close>11.1468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-03</Date>
+    <Open>11.1535</Open>
+    <High>11.4458</High>
+    <Low>10.4612</Low>
+    <Close>10.9262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-04</Date>
+    <Open>10.9249</Open>
+    <High>11.1559</High>
+    <Low>10.4485</Low>
+    <Close>10.9153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-05</Date>
+    <Open>10.9103</Open>
+    <High>11.3167</High>
+    <Low>10.6874</Low>
+    <Close>11.153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-06</Date>
+    <Open>11.1525</Open>
+    <High>12.9295</High>
+    <Low>10.9851</Low>
+    <Close>11.9898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-07</Date>
+    <Open>11.9798</Open>
+    <High>12.43</High>
+    <Low>11.0212</Low>
+    <Close>12.3499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-08</Date>
+    <Open>12.3501</Open>
+    <High>12.5326</High>
+    <Low>11.3317</Low>
+    <Close>11.6624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-09</Date>
+    <Open>11.6724</Open>
+    <High>12.0796</High>
+    <Low>11.2811</Low>
+    <Close>11.5803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-10</Date>
+    <Open>11.5602</Open>
+    <High>11.8402</High>
+    <Low>10.3779</Low>
+    <Close>10.6365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-11</Date>
+    <Open>10.6465</Open>
+    <High>10.788</High>
+    <Low>9.08872</Low>
+    <Close>9.52922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-12</Date>
+    <Open>9.53911</Open>
+    <High>9.82662</High>
+    <Low>8.2883</Low>
+    <Close>8.95427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-13</Date>
+    <Open>8.94628</Open>
+    <High>8.94628</High>
+    <Low>7.38949</Low>
+    <Close>7.97897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-14</Date>
+    <Open>7.98896</Open>
+    <High>8.58701</High>
+    <Low>7.36923</Low>
+    <Close>7.78065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-15</Date>
+    <Open>7.78065</Open>
+    <High>9.17805</High>
+    <Low>7.44657</Low>
+    <Close>9.08635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-16</Date>
+    <Open>9.09713</Open>
+    <High>9.24574</High>
+    <Low>7.91419</Low>
+    <Close>8.27849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-17</Date>
+    <Open>8.05978</Open>
+    <High>8.47495</High>
+    <Low>7.88011</Low>
+    <Close>8.2411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-18</Date>
+    <Open>8.24</Open>
+    <High>8.44596</High>
+    <Low>7.46573</Low>
+    <Close>8.39638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-19</Date>
+    <Open>8.37641</Open>
+    <High>9.08908</High>
+    <Low>8.04799</Low>
+    <Close>8.87933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-20</Date>
+    <Open>8.85847</Open>
+    <High>9.30272</High>
+    <Low>8.42903</Low>
+    <Close>8.83049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-21</Date>
+    <Open>8.77326</Open>
+    <High>9.74592</High>
+    <Low>8.72789</Low>
+    <Close>9.22484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-22</Date>
+    <Open>9.20986</Open>
+    <High>9.45753</High>
+    <Low>8.60123</Low>
+    <Close>8.76902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-23</Date>
+    <Open>8.76473</Open>
+    <High>9.1945</High>
+    <Low>8.44615</Low>
+    <Close>9.07322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-24</Date>
+    <Open>9.07262</Open>
+    <High>10.3298</High>
+    <Low>9.07262</Low>
+    <Close>10.1192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-25</Date>
+    <Open>10.1141</Open>
+    <High>10.3321</High>
+    <Low>9.33356</Low>
+    <Close>9.89307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-26</Date>
+    <Open>9.88308</Open>
+    <High>10.263</High>
+    <Low>9.40435</Low>
+    <Close>9.68409</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-27</Date>
+    <Open>9.69399</Open>
+    <High>9.78523</High>
+    <Low>9.1241</Low>
+    <Close>9.31569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-28</Date>
+    <Open>9.3184</Open>
+    <High>9.63692</High>
+    <Low>8.93159</Low>
+    <Close>9.04406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-29</Date>
+    <Open>9.03848</Open>
+    <High>9.03978</High>
+    <Low>8.61671</Low>
+    <Close>8.84447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-06-30</Date>
+    <Open>8.84527</Open>
+    <High>8.89741</High>
+    <Low>8.01115</Low>
+    <Close>8.18407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-01</Date>
+    <Open>8.19316</Open>
+    <High>8.85455</High>
+    <Low>8.1555</Low>
+    <Close>8.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-05</Date>
+    <Open>9.27735</Open>
+    <High>9.72209</High>
+    <Low>9.01877</Low>
+    <Close>9.42328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-06</Date>
+    <Open>9.42722</Open>
+    <High>10.3445</High>
+    <Low>9.06052</Low>
+    <Close>10.189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-07</Date>
+    <Open>10.1894</Open>
+    <High>10.6475</High>
+    <Low>10.0335</Low>
+    <Close>10.3619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-08</Date>
+    <Open>10.368</Open>
+    <High>10.6206</High>
+    <Low>9.85848</Low>
+    <Close>10.1183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-09</Date>
+    <Open>10.1146</Open>
+    <High>10.3285</High>
+    <Low>9.9982</Low>
+    <Close>10.0596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-10</Date>
+    <Open>10.0596</Open>
+    <High>10.1076</High>
+    <Low>9.28939</Low>
+    <Close>9.44053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-11</Date>
+    <Open>9.43643</Open>
+    <High>9.43643</High>
+    <Low>8.61994</Low>
+    <Close>8.71515</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-12</Date>
+    <Open>8.714</Open>
+    <High>8.714</High>
+    <Low>8.30695</Low>
+    <Close>8.45713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-13</Date>
+    <Open>8.4502</Open>
+    <High>8.81847</High>
+    <Low>8.11736</Low>
+    <Close>8.64704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-14</Date>
+    <Open>8.6543</Open>
+    <High>9.328</High>
+    <Low>8.44574</Low>
+    <Close>9.07465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-15</Date>
+    <Open>9.07745</Open>
+    <High>9.43574</High>
+    <Low>9.05266</Low>
+    <Close>9.26189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-16</Date>
+    <Open>9.26382</Open>
+    <High>9.87314</High>
+    <Low>9.02939</Low>
+    <Close>9.6778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-17</Date>
+    <Open>9.68146</Open>
+    <High>9.85415</High>
+    <Low>9.29119</Low>
+    <Close>9.46964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-18</Date>
+    <Open>9.49103</Open>
+    <High>11.7537</High>
+    <Low>9.31604</Low>
+    <Close>10.9748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-19</Date>
+    <Open>10.9767</Open>
+    <High>11.4856</High>
+    <Low>10.5093</Low>
+    <Close>11.2518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-20</Date>
+    <Open>11.22</Open>
+    <High>11.8833</High>
+    <Low>10.569</Low>
+    <Close>11.5506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-21</Date>
+    <Open>11.5232</Open>
+    <High>13.5226</High>
+    <Low>11.0379</Low>
+    <Close>13.2533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-22</Date>
+    <Open>13.2633</Open>
+    <High>13.4511</High>
+    <Low>12.0323</Low>
+    <Close>12.1027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-23</Date>
+    <Open>12.12</Open>
+    <High>12.8799</High>
+    <Low>11.9014</Low>
+    <Close>12.5941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-24</Date>
+    <Open>12.5946</Open>
+    <High>13.5748</High>
+    <Low>12.4719</Low>
+    <Close>12.9897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-25</Date>
+    <Open>12.9964</Open>
+    <High>13.4155</High>
+    <Low>12.2559</Low>
+    <Close>12.8057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-26</Date>
+    <Open>12.8061</Open>
+    <High>12.8801</High>
+    <Low>11.4744</Low>
+    <Close>12.1171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-27</Date>
+    <Open>12.1126</Open>
+    <High>15.6764</High>
+    <Low>12.1069</Low>
+    <Close>15.3625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-28</Date>
+    <Open>15.3574</Open>
+    <High>16.5</High>
+    <Low>14.1533</Low>
+    <Close>15.5435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-29</Date>
+    <Open>15.5463</Open>
+    <High>15.9727</High>
+    <Low>14.3353</Low>
+    <Close>14.9779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-30</Date>
+    <Open>14.9487</Open>
+    <High>15.9798</High>
+    <Low>14.4719</Low>
+    <Close>14.5852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-07-31</Date>
+    <Open>14.5869</Open>
+    <High>15.3279</High>
+    <Low>14.3828</Low>
+    <Close>14.8326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-01</Date>
+    <Open>14.8338</Open>
+    <High>15.2337</High>
+    <Low>13.6836</Low>
+    <Close>13.9861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-02</Date>
+    <Open>13.9889</Open>
+    <High>15.2894</High>
+    <Low>13.2622</Low>
+    <Close>15.0736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-03</Date>
+    <Open>15.0775</Open>
+    <High>16.7617</High>
+    <Low>14.4395</Low>
+    <Close>16.0931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-04</Date>
+    <Open>16.1009</Open>
+    <High>17.3236</High>
+    <Low>15.4222</Low>
+    <Close>15.6658</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-05</Date>
+    <Open>15.6731</Open>
+    <High>17.8353</High>
+    <Low>15.5315</Low>
+    <Close>17.0465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-06</Date>
+    <Open>17.0429</Open>
+    <High>18.1908</High>
+    <Low>16.8423</Low>
+    <Close>17.1014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-07</Date>
+    <Open>17.0901</Open>
+    <High>17.2233</High>
+    <Low>16.4726</Low>
+    <Close>17.1103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-08</Date>
+    <Open>17.107</Open>
+    <High>17.4514</High>
+    <Low>16.4664</Low>
+    <Close>16.6186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-09</Date>
+    <Open>16.5926</Open>
+    <High>16.7808</High>
+    <Low>15.3237</Low>
+    <Close>15.8911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-10</Date>
+    <Open>15.8952</Open>
+    <High>16.8368</High>
+    <Low>14.8539</Low>
+    <Close>15.947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-11</Date>
+    <Open>15.9514</Open>
+    <High>16.8153</High>
+    <Low>15.8065</Low>
+    <Close>15.925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-12</Date>
+    <Open>15.9242</Open>
+    <High>16.0142</High>
+    <Low>15.2724</Low>
+    <Close>15.6421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-13</Date>
+    <Open>15.6432</Open>
+    <High>16.1877</High>
+    <Low>15.3755</Low>
+    <Close>15.4756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-14</Date>
+    <Open>15.4719</Open>
+    <High>15.9626</High>
+    <Low>14.3721</Low>
+    <Close>14.5152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-15</Date>
+    <Open>14.5188</Open>
+    <High>15.1573</High>
+    <Low>14.0712</Low>
+    <Close>14.5318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-16</Date>
+    <Open>14.5378</Open>
+    <High>15.4866</High>
+    <Low>14.2718</Low>
+    <Close>15.1263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-17</Date>
+    <Open>15.1312</Open>
+    <High>16.0289</High>
+    <Low>14.5735</Low>
+    <Close>15.8328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-18</Date>
+    <Open>15.8333</Open>
+    <High>16.2394</High>
+    <Low>14.4507</Low>
+    <Close>14.7536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-19</Date>
+    <Open>14.7503</Open>
+    <High>14.8048</High>
+    <Low>12.223</Low>
+    <Close>12.6062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-20</Date>
+    <Open>12.6206</Open>
+    <High>13.4678</High>
+    <Low>12.1452</Low>
+    <Close>12.5637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-21</Date>
+    <Open>12.5653</Open>
+    <High>13.509</High>
+    <Low>12.5088</Low>
+    <Close>13.3109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-22</Date>
+    <Open>13.292</Open>
+    <High>13.4539</High>
+    <Low>12.4167</Low>
+    <Close>13.2006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-23</Date>
+    <Open>13.2004</Open>
+    <High>13.8819</High>
+    <Low>12.793</Low>
+    <Close>13.4992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-24</Date>
+    <Open>13.5048</Open>
+    <High>14.4808</High>
+    <Low>13.0858</Low>
+    <Close>14.1666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-25</Date>
+    <Open>14.1718</Open>
+    <High>14.1963</High>
+    <Low>13.3403</Low>
+    <Close>13.6535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-26</Date>
+    <Open>13.664</Open>
+    <High>13.6936</High>
+    <Low>12.2582</Low>
+    <Close>12.4499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-27</Date>
+    <Open>12.4517</Open>
+    <High>12.4871</High>
+    <Low>11.7585</Low>
+    <Close>11.761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-28</Date>
+    <Open>11.754</Open>
+    <High>12.1445</High>
+    <Low>11.648</Low>
+    <Close>11.7428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-29</Date>
+    <Open>11.7333</Open>
+    <High>12.5385</High>
+    <Low>11.1901</Low>
+    <Close>12.5024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-30</Date>
+    <Open>12.5037</Open>
+    <High>12.7643</High>
+    <Low>11.7771</Low>
+    <Close>12.1901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-08-31</Date>
+    <Open>12.1928</Open>
+    <High>12.7962</High>
+    <Low>12.1353</Low>
+    <Close>12.6508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-01</Date>
+    <Open>12.6604</Open>
+    <High>13.4159</High>
+    <Low>12.3466</Low>
+    <Close>13.2298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-02</Date>
+    <Open>13.2292</Open>
+    <High>14.0645</High>
+    <Low>13.0497</Low>
+    <Close>13.7701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-03</Date>
+    <Open>13.7706</Open>
+    <High>14.1767</High>
+    <Low>13.5408</Low>
+    <Close>13.9029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-04</Date>
+    <Open>13.9013</Open>
+    <High>14.0488</High>
+    <Low>13.4165</Low>
+    <Close>13.4999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-05</Date>
+    <Open>13.499</Open>
+    <High>14.4578</High>
+    <Low>13.1337</Low>
+    <Close>14.2072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-06</Date>
+    <Open>14.2101</Open>
+    <High>15.3898</High>
+    <Low>13.9476</Low>
+    <Close>14.2484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-07</Date>
+    <Open>14.2509</Open>
+    <High>15.038</High>
+    <Low>13.1647</Low>
+    <Close>15.012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-08</Date>
+    <Open>15.0129</Open>
+    <High>15.8704</High>
+    <Low>14.4503</Low>
+    <Close>15.8607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-09</Date>
+    <Open>15.8534</Open>
+    <High>16.4814</High>
+    <Low>15.2744</Low>
+    <Close>15.4028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-10</Date>
+    <Open>15.4025</Open>
+    <High>16.2329</High>
+    <Low>15.0491</Low>
+    <Close>15.4109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-11</Date>
+    <Open>15.4346</Open>
+    <High>15.973</High>
+    <Low>15.1411</Low>
+    <Close>15.5046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-12</Date>
+    <Open>15.5208</Open>
+    <High>16.2486</High>
+    <Low>14.5608</Low>
+    <Close>15.0807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-13</Date>
+    <Open>15.0721</Open>
+    <High>15.1625</High>
+    <Low>13.9302</Low>
+    <Close>14.6231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-14</Date>
+    <Open>14.617</Open>
+    <High>15.2735</High>
+    <Low>14.0707</Low>
+    <Close>14.7204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-15</Date>
+    <Open>14.713</Open>
+    <High>14.7876</High>
+    <Low>13.7495</Low>
+    <Close>14.3548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-16</Date>
+    <Open>14.3613</Open>
+    <High>15.1924</High>
+    <Low>13.9583</Low>
+    <Close>14.5868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-17</Date>
+    <Open>14.6003</Open>
+    <High>14.7817</High>
+    <Low>13.8427</Low>
+    <Close>14.5178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-18</Date>
+    <Open>14.5177</Open>
+    <High>14.6003</High>
+    <Low>12.0145</Low>
+    <Close>12.8662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-19</Date>
+    <Open>12.8662</Open>
+    <High>14.1299</High>
+    <Low>12.416</Low>
+    <Close>13.7184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-20</Date>
+    <Open>13.7212</Open>
+    <High>13.9018</High>
+    <Low>13.1249</Low>
+    <Close>13.408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-21</Date>
+    <Open>13.3896</Open>
+    <High>14.4133</High>
+    <Low>13.2313</Low>
+    <Close>13.3473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-22</Date>
+    <Open>13.3477</Open>
+    <High>14.2598</High>
+    <Low>13.1742</Low>
+    <Close>13.7556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-23</Date>
+    <Open>13.7612</Open>
+    <High>14.4306</High>
+    <Low>13.3259</Low>
+    <Close>14.1479</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-24</Date>
+    <Open>14.1569</Open>
+    <High>14.249</High>
+    <Low>13.627</Low>
+    <Close>13.6485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-25</Date>
+    <Open>13.6465</Open>
+    <High>14.5493</High>
+    <Low>13.4774</Low>
+    <Close>13.6322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-26</Date>
+    <Open>13.6273</Open>
+    <High>14.9708</High>
+    <Low>13.5129</Low>
+    <Close>14.7474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-27</Date>
+    <Open>14.7476</Open>
+    <High>15.8758</High>
+    <Low>14.6178</Low>
+    <Close>15.0839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-28</Date>
+    <Open>15.0812</Open>
+    <High>16.4399</High>
+    <Low>14.1181</Low>
+    <Close>15.8992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-29</Date>
+    <Open>15.8998</Open>
+    <High>16.2824</High>
+    <Low>15.1527</Low>
+    <Close>15.7483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-09-30</Date>
+    <Open>15.7611</Open>
+    <High>16.583</High>
+    <Low>15.2241</Low>
+    <Close>15.8633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-01</Date>
+    <Open>15.8579</Open>
+    <High>16.0939</High>
+    <Low>14.7171</Low>
+    <Close>14.8681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-02</Date>
+    <Open>14.8662</Open>
+    <High>15.2214</High>
+    <Low>14.4441</Low>
+    <Close>14.6239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-03</Date>
+    <Open>14.6243</Open>
+    <High>15.6387</High>
+    <Low>14.0254</Low>
+    <Close>15.3416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-04</Date>
+    <Open>15.3419</Open>
+    <High>16.463</High>
+    <Low>15.2098</Low>
+    <Close>16.0461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-05</Date>
+    <Open>16.0466</Open>
+    <High>17.3407</High>
+    <Low>15.4782</Low>
+    <Close>17.0612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-06</Date>
+    <Open>17.0605</Open>
+    <High>17.8293</High>
+    <Low>16.9707</Low>
+    <Close>16.9862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-07</Date>
+    <Open>16.9945</Open>
+    <High>17.7407</High>
+    <Low>16.7376</Low>
+    <Close>17.073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-08</Date>
+    <Open>17.0708</Open>
+    <High>17.741</High>
+    <Low>16.8737</Low>
+    <Close>17.3807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-09</Date>
+    <Open>17.3806</Open>
+    <High>17.7744</High>
+    <Low>17.0467</Low>
+    <Close>17.6427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-10</Date>
+    <Open>17.6427</Open>
+    <High>18.2361</High>
+    <Low>16.4201</Low>
+    <Close>16.4674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-11</Date>
+    <Open>16.4653</Open>
+    <High>16.9915</High>
+    <Low>15.932</Low>
+    <Close>16.7968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-12</Date>
+    <Open>16.7924</Open>
+    <High>17.48</High>
+    <Low>16.4073</Low>
+    <Close>17.2364</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-13</Date>
+    <Open>17.2371</Open>
+    <High>20.0373</High>
+    <Low>16.0101</Low>
+    <Close>19.5046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-14</Date>
+    <Open>19.5405</Open>
+    <High>20.3503</High>
+    <Low>19.0593</Low>
+    <Close>19.115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-15</Date>
+    <Open>19.153</Open>
+    <High>19.9144</High>
+    <Low>18.8677</Low>
+    <Close>19.2824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-16</Date>
+    <Open>19.2836</Open>
+    <High>20.2068</High>
+    <Low>19.1283</Low>
+    <Close>19.5714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-17</Date>
+    <Open>19.5704</Open>
+    <High>20.1111</High>
+    <Low>18.8487</Low>
+    <Close>19.2217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-18</Date>
+    <Open>19.2152</Open>
+    <High>19.4437</High>
+    <Low>18.5979</Low>
+    <Close>19.2615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-19</Date>
+    <Open>19.2577</Open>
+    <High>19.2852</High>
+    <Low>18.3447</Low>
+    <Close>18.4786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-20</Date>
+    <Open>18.4659</Open>
+    <High>18.7484</High>
+    <Low>17.1945</Low>
+    <Close>17.447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-21</Date>
+    <Open>17.4459</Open>
+    <High>17.4883</High>
+    <Low>16.3022</Low>
+    <Close>16.9801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-22</Date>
+    <Open>16.9767</Open>
+    <High>17.4081</High>
+    <Low>16.4435</Low>
+    <Close>16.6766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-23</Date>
+    <Open>16.6784</Open>
+    <High>17.1305</High>
+    <Low>16.116</Low>
+    <Close>16.9148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-24</Date>
+    <Open>16.9226</Open>
+    <High>17.5819</High>
+    <Low>16.7272</Low>
+    <Close>17.0548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-25</Date>
+    <Open>17.057</Open>
+    <High>17.997</High>
+    <Low>16.6286</Low>
+    <Close>17.6462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-26</Date>
+    <Open>17.6455</Open>
+    <High>18.7258</High>
+    <Low>17.4152</Low>
+    <Close>18.1562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-27</Date>
+    <Open>18.1503</Open>
+    <High>18.4982</High>
+    <Low>17.1452</Low>
+    <Close>17.3829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-28</Date>
+    <Open>17.3809</Open>
+    <High>17.4615</High>
+    <Low>16.4428</Low>
+    <Close>17.171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-29</Date>
+    <Open>17.1711</Open>
+    <High>19.3144</High>
+    <Low>16.9457</Low>
+    <Close>17.8254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-30</Date>
+    <Open>17.8228</Open>
+    <High>18.3737</High>
+    <Low>16.8971</Low>
+    <Close>17.191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-10-31</Date>
+    <Open>17.1809</Open>
+    <High>17.4483</High>
+    <Low>16.6967</Low>
+    <Close>16.9567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-01</Date>
+    <Open>16.9569</Open>
+    <High>17.1697</High>
+    <Low>16.0392</Low>
+    <Close>16.0573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-02</Date>
+    <Open>16.0628</Open>
+    <High>16.7141</High>
+    <Low>15.4817</Low>
+    <Close>15.9327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-03</Date>
+    <Open>15.9568</Open>
+    <High>17.5929</High>
+    <Low>15.934</Low>
+    <Close>16.4777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-04</Date>
+    <Open>16.4722</Open>
+    <High>17.9139</High>
+    <Low>16.3717</Low>
+    <Close>17.7977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-05</Date>
+    <Open>17.8071</Open>
+    <High>18.4245</High>
+    <Low>17.4707</Low>
+    <Close>18.0332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-06</Date>
+    <Open>18.0333</Open>
+    <High>18.4826</High>
+    <Low>16.9328</Low>
+    <Close>17.0021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-07</Date>
+    <Open>16.9742</Open>
+    <High>17.0329</High>
+    <Low>15.9097</Low>
+    <Close>16.1232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-08</Date>
+    <Open>16.124</Open>
+    <High>16.4795</High>
+    <Low>12.0132</Low>
+    <Close>13.1898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-09</Date>
+    <Open>13.1871</Open>
+    <High>13.7015</High>
+    <Low>10.2107</Low>
+    <Close>10.5722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-10</Date>
+    <Open>10.5094</Open>
+    <High>14.1893</High>
+    <Low>10.3928</Low>
+    <Close>13.2166</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-11</Date>
+    <Open>13.1965</Open>
+    <High>14.9044</High>
+    <Low>11.8374</Low>
+    <Close>12.3816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-12</Date>
+    <Open>12.3727</Open>
+    <High>12.6449</High>
+    <Low>11.5229</Low>
+    <Close>12.2517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-13</Date>
+    <Open>12.2513</Open>
+    <High>12.746</High>
+    <Low>11.948</Low>
+    <Close>12.114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-14</Date>
+    <Open>12.0635</Open>
+    <High>13.4113</High>
+    <Low>11.5158</Low>
+    <Close>12.852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-15</Date>
+    <Open>12.8506</Open>
+    <High>13.6995</High>
+    <Low>12.6831</Low>
+    <Close>13.1806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-16</Date>
+    <Open>13.1315</Open>
+    <High>13.4925</High>
+    <Low>12.5987</Low>
+    <Close>12.7507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-17</Date>
+    <Open>12.739</Open>
+    <High>12.9865</High>
+    <Low>12.3738</Low>
+    <Close>12.8802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-18</Date>
+    <Open>12.8813</Open>
+    <High>13.1586</High>
+    <Low>12.6694</Low>
+    <Close>12.9893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-19</Date>
+    <Open>12.9873</Open>
+    <High>13.5836</High>
+    <Low>12.8858</Low>
+    <Close>13.3848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-20</Date>
+    <Open>13.3848</Open>
+    <High>13.4166</High>
+    <Low>12.0788</Low>
+    <Close>12.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-21</Date>
+    <Open>12.1659</Open>
+    <High>12.3254</High>
+    <Low>11.591</Low>
+    <Close>11.9654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-22</Date>
+    <Open>11.9641</Open>
+    <High>12.4338</High>
+    <Low>11.652</Low>
+    <Close>12.2703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-23</Date>
+    <Open>12.2654</Open>
+    <High>13.3232</High>
+    <Low>12.253</Low>
+    <Close>13.2814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-24</Date>
+    <Open>13.2852</Open>
+    <High>13.5493</High>
+    <Low>12.9926</Low>
+    <Close>13.1724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-25</Date>
+    <Open>13.1822</Open>
+    <High>13.2538</High>
+    <Low>12.8041</Low>
+    <Close>13.0258</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-26</Date>
+    <Open>13.0277</Open>
+    <High>13.3828</High>
+    <Low>12.8671</Low>
+    <Close>12.9391</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-27</Date>
+    <Open>12.9329</Open>
+    <High>13.985</High>
+    <Low>12.9329</Low>
+    <Close>13.8508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-28</Date>
+    <Open>13.8383</Open>
+    <High>13.8383</High>
+    <Low>12.5476</Low>
+    <Close>12.9178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-29</Date>
+    <Open>12.9338</Open>
+    <High>13.6812</High>
+    <Low>12.7637</Low>
+    <Close>13.4666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-11-30</Date>
+    <Open>13.4646</Open>
+    <High>14.3652</High>
+    <Low>13.4384</Low>
+    <Close>14.1974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-01</Date>
+    <Open>14.199</Open>
+    <High>14.2735</High>
+    <Low>13.7652</Low>
+    <Close>14.0976</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-02</Date>
+    <Open>14.1053</Open>
+    <High>14.1646</High>
+    <Low>13.6837</Low>
+    <Close>14.0729</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-03</Date>
+    <Open>14.0788</Open>
+    <High>14.3042</High>
+    <Low>13.8554</Low>
+    <Close>13.9959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-04</Date>
+    <Open>13.9942</Open>
+    <High>14.3123</High>
+    <Low>13.8514</Low>
+    <Close>14.025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-05</Date>
+    <Open>14.0131</Open>
+    <High>14.6372</High>
+    <Low>13.7489</Low>
+    <Close>13.8671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-06</Date>
+    <Open>13.8618</Open>
+    <High>14.1448</High>
+    <Low>13.4507</Low>
+    <Close>13.5655</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-07</Date>
+    <Open>13.5734</Open>
+    <High>13.8628</High>
+    <Low>13.1786</Low>
+    <Close>13.3252</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-08</Date>
+    <Open>13.3188</Open>
+    <High>13.7146</High>
+    <Low>13.2193</Low>
+    <Close>13.6601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-09</Date>
+    <Open>13.6632</Open>
+    <High>13.9849</High>
+    <Low>13.4779</Low>
+    <Close>13.5334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-10</Date>
+    <Open>13.5337</Open>
+    <High>13.8799</High>
+    <Low>13.5087</Low>
+    <Close>13.7192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-11</Date>
+    <Open>13.7208</Open>
+    <High>13.8805</High>
+    <Low>13.3605</Low>
+    <Close>13.428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-12</Date>
+    <Open>13.4178</Open>
+    <High>13.4736</High>
+    <Low>12.8001</Low>
+    <Close>13.3007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-13</Date>
+    <Open>13.3059</Open>
+    <High>13.765</High>
+    <Low>12.9117</Low>
+    <Close>13.3332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-14</Date>
+    <Open>13.3379</Open>
+    <High>13.6428</High>
+    <Low>13.1631</Low>
+    <Close>13.3728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-15</Date>
+    <Open>13.3717</Open>
+    <High>13.3833</High>
+    <Low>12.808</Low>
+    <Close>12.8387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-16</Date>
+    <Open>12.8408</Open>
+    <High>13.1506</High>
+    <Low>11.7195</Low>
+    <Close>11.7284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-17</Date>
+    <Open>11.7278</Open>
+    <High>11.8032</High>
+    <Low>11.0835</Low>
+    <Close>11.5444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-18</Date>
+    <Open>11.5521</Open>
+    <High>11.8105</High>
+    <Low>11.4763</Low>
+    <Close>11.6363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-19</Date>
+    <Open>11.6266</Open>
+    <High>11.777</High>
+    <Low>10.4075</Low>
+    <Close>10.735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-20</Date>
+    <Open>10.7685</Open>
+    <High>11.4498</High>
+    <Low>10.7079</Low>
+    <Close>11.3594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-21</Date>
+    <Open>11.3537</Open>
+    <High>11.4307</High>
+    <Low>11.1172</Low>
+    <Close>11.2086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-22</Date>
+    <Open>11.2015</Open>
+    <High>11.3822</High>
+    <Low>10.7851</Low>
+    <Close>11.1088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-23</Date>
+    <Open>11.1083</Open>
+    <High>11.3108</High>
+    <Low>10.885</Low>
+    <Close>10.9298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-24</Date>
+    <Open>10.9301</Open>
+    <High>11.0077</High>
+    <Low>10.7516</Low>
+    <Close>10.8836</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-25</Date>
+    <Open>10.8869</Open>
+    <High>11.1409</High>
+    <Low>10.7323</Low>
+    <Close>11.0165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-26</Date>
+    <Open>11.0235</Open>
+    <High>11.3509</High>
+    <Low>11.0181</Low>
+    <Close>11.1746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-27</Date>
+    <Open>11.1921</Open>
+    <High>11.4376</High>
+    <Low>11.0576</Low>
+    <Close>11.1505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-28</Date>
+    <Open>11.1641</Open>
+    <High>11.2675</High>
+    <Low>10.6969</Low>
+    <Close>10.9283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-29</Date>
+    <Open>10.954</Open>
+    <High>11.1952</High>
+    <Low>10.5449</Low>
+    <Close>10.6833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-30</Date>
+    <Open>10.6967</Open>
+    <High>10.8615</High>
+    <Low>10.5054</Low>
+    <Close>10.6088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2022-12-31</Date>
+    <Open>10.6365</Open>
+    <High>10.9146</High>
+    <Low>10.4853</Low>
+    <Close>10.7632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-01</Date>
+    <Open>10.7564</Open>
+    <High>10.8518</High>
+    <Low>10.6365</Low>
+    <Close>10.8381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-02</Date>
+    <Open>10.8244</Open>
+    <High>11.3799</High>
+    <Low>10.6817</Low>
+    <Close>11.2379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-03</Date>
+    <Open>11.251</Open>
+    <High>11.3945</High>
+    <Low>11.067</Low>
+    <Close>11.1493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-04</Date>
+    <Open>11.1596</Open>
+    <High>11.9198</High>
+    <Low>11.1596</Low>
+    <Close>11.6451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-05</Date>
+    <Open>11.647</Open>
+    <High>11.876</High>
+    <Low>11.3082</Low>
+    <Close>11.3368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-06</Date>
+    <Open>11.3492</Open>
+    <High>11.5301</High>
+    <Low>10.9945</Low>
+    <Close>11.5091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-07</Date>
+    <Open>11.5161</Open>
+    <High>11.6366</High>
+    <Low>11.3611</Low>
+    <Close>11.5334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-08</Date>
+    <Open>11.5414</Open>
+    <High>11.8899</High>
+    <Low>11.3474</Low>
+    <Close>11.8711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-09</Date>
+    <Open>11.8866</Open>
+    <High>12.8203</High>
+    <Low>11.8866</Low>
+    <Close>12.2098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-10</Date>
+    <Open>12.2139</Open>
+    <High>12.498</High>
+    <Low>11.887</Low>
+    <Close>12.2619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-11</Date>
+    <Open>12.2752</Open>
+    <High>12.4933</High>
+    <Low>11.7415</Low>
+    <Close>12.4746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-12</Date>
+    <Open>12.4722</Open>
+    <High>12.8719</High>
+    <Low>12.0461</Low>
+    <Close>12.6641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-13</Date>
+    <Open>12.6613</Open>
+    <High>13.4409</High>
+    <Low>12.5579</Low>
+    <Close>13.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-14</Date>
+    <Open>13.2412</Open>
+    <High>14.4427</High>
+    <Low>13.2211</Low>
+    <Close>13.9507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-15</Date>
+    <Open>13.9507</Open>
+    <High>14.3146</High>
+    <Low>13.2913</Low>
+    <Close>14.1541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-16</Date>
+    <Open>14.1643</Open>
+    <High>15.3902</High>
+    <Low>13.641</Low>
+    <Close>14.8103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-17</Date>
+    <Open>14.8103</Open>
+    <High>14.9013</High>
+    <Low>14.2418</Low>
+    <Close>14.2716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-18</Date>
+    <Open>14.2916</Open>
+    <High>14.7197</High>
+    <Low>13.2489</Low>
+    <Close>13.6593</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-19</Date>
+    <Open>13.6392</Open>
+    <High>14.0896</High>
+    <Low>13.3588</Low>
+    <Close>13.9894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-20</Date>
+    <Open>13.9994</Open>
+    <High>15.063</High>
+    <Low>13.9401</Low>
+    <Close>14.8925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-21</Date>
+    <Open>14.8927</Open>
+    <High>15.4633</High>
+    <Low>14.7135</Low>
+    <Close>14.803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-22</Date>
+    <Open>14.7922</Open>
+    <High>15.2423</High>
+    <Low>14.0924</Low>
+    <Close>14.3527</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-23</Date>
+    <Open>14.3527</Open>
+    <High>15.3318</High>
+    <Low>14.3327</Low>
+    <Close>14.9022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-24</Date>
+    <Open>14.9122</Open>
+    <High>15.2221</High>
+    <Low>13.6422</Low>
+    <Close>13.8904</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-25</Date>
+    <Open>13.8704</Open>
+    <High>15.0527</High>
+    <Low>13.452</Low>
+    <Close>14.6924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-26</Date>
+    <Open>14.6824</Open>
+    <High>15.532</High>
+    <Low>14.6725</Low>
+    <Close>15.1317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-27</Date>
+    <Open>15.1514</Open>
+    <High>17.0524</High>
+    <Low>14.8034</Low>
+    <Close>16.6271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-28</Date>
+    <Open>16.6663</Open>
+    <High>16.9341</High>
+    <Low>15.8528</Low>
+    <Close>15.9432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-29</Date>
+    <Open>15.9532</Open>
+    <High>16.4626</High>
+    <Low>15.5737</Low>
+    <Close>16.0011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-30</Date>
+    <Open>16.0905</Open>
+    <High>16.2508</High>
+    <Low>14.8912</Low>
+    <Close>15.7111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-01-31</Date>
+    <Open>15.7311</Open>
+    <High>16.5197</High>
+    <Low>15.6514</Low>
+    <Close>15.9314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-01</Date>
+    <Open>15.9314</Open>
+    <High>16.3508</High>
+    <Low>14.96</Low>
+    <Close>16.331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-02</Date>
+    <Open>16.321</Open>
+    <High>17.3016</High>
+    <Low>16.2013</Low>
+    <Close>16.4431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-03</Date>
+    <Open>16.4233</Open>
+    <High>16.5113</High>
+    <Low>15.7</Low>
+    <Close>16.4412</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-04</Date>
+    <Open>16.4113</Open>
+    <High>16.871</High>
+    <Low>15.9718</Low>
+    <Close>16.1215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-05</Date>
+    <Open>16.1113</Open>
+    <High>16.1715</High>
+    <Low>14.9239</Low>
+    <Close>15.2738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-06</Date>
+    <Open>15.2538</Open>
+    <High>15.4138</High>
+    <Low>14.6228</Low>
+    <Close>15.1406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-07</Date>
+    <Open>15.1306</Open>
+    <High>16.1097</High>
+    <Low>14.6312</Low>
+    <Close>16.0111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-08</Date>
+    <Open>16.001</Open>
+    <High>16.2008</High>
+    <Low>15.172</Low>
+    <Close>15.3311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-09</Date>
+    <Open>15.2309</Open>
+    <High>15.5098</High>
+    <Low>13.6734</Low>
+    <Close>13.7914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-10</Date>
+    <Open>13.8212</Open>
+    <High>14.1534</High>
+    <Low>13.6631</Low>
+    <Close>13.8821</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-11</Date>
+    <Open>13.8921</Open>
+    <High>14.5316</High>
+    <Low>13.7916</Low>
+    <Close>14.4113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-12</Date>
+    <Open>14.4229</Open>
+    <High>14.6618</High>
+    <Low>13.8521</Low>
+    <Close>14.1414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-13</Date>
+    <Open>14.1549</Open>
+    <High>14.2504</High>
+    <Low>13.3393</Low>
+    <Close>13.7075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-14</Date>
+    <Open>13.6975</Open>
+    <High>14.6357</High>
+    <Low>13.6107</Low>
+    <Close>14.4556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-15</Date>
+    <Open>14.4661</Open>
+    <High>15.4122</High>
+    <Low>14.2954</Low>
+    <Close>15.2627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-16</Date>
+    <Open>15.2928</Open>
+    <High>16.4031</High>
+    <Low>14.6815</Low>
+    <Close>14.6947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-17</Date>
+    <Open>14.685</Open>
+    <High>15.7014</High>
+    <Low>14.4116</Low>
+    <Close>15.4414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-18</Date>
+    <Open>15.4615</Open>
+    <High>16.4933</High>
+    <Low>15.193</Low>
+    <Close>16.1427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-19</Date>
+    <Open>16.1426</Open>
+    <High>16.9532</High>
+    <Low>15.6322</Low>
+    <Close>16.7038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-20</Date>
+    <Open>16.6838</Open>
+    <High>18.1436</High>
+    <Low>16.3449</Low>
+    <Close>17.6307</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-21</Date>
+    <Open>17.6407</Open>
+    <High>17.7821</High>
+    <Low>16.0732</Low>
+    <Close>16.2929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-22</Date>
+    <Open>16.2729</Open>
+    <High>16.4723</High>
+    <Low>15.612</Low>
+    <Close>16.2205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-23</Date>
+    <Open>16.2298</Open>
+    <High>16.7625</High>
+    <Low>16.013</Low>
+    <Close>16.2519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-24</Date>
+    <Open>16.2624</Open>
+    <High>16.893</High>
+    <Low>15.4405</Low>
+    <Close>15.6297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-25</Date>
+    <Open>15.6398</Open>
+    <High>15.7705</High>
+    <Low>14.4815</Low>
+    <Close>14.921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-26</Date>
+    <Open>14.911</Open>
+    <High>16.3015</High>
+    <Low>14.8809</Low>
+    <Close>16.1413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-27</Date>
+    <Open>16.1508</Open>
+    <High>16.8205</High>
+    <Low>15.9014</Low>
+    <Close>16.291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-02-28</Date>
+    <Open>16.331</Open>
+    <High>16.4397</High>
+    <Low>15.0512</Low>
+    <Close>15.243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-01</Date>
+    <Open>15.2331</Open>
+    <High>16.2415</High>
+    <Low>15.1721</Low>
+    <Close>15.9921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-02</Date>
+    <Open>16.0425</Open>
+    <High>16.2389</High>
+    <Low>15.2131</Low>
+    <Close>15.6365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-03</Date>
+    <Open>15.6329</Open>
+    <High>15.6562</High>
+    <Low>13.9503</Low>
+    <Close>14.191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-04</Date>
+    <Open>14.1813</Open>
+    <High>14.3509</High>
+    <Low>13.6107</Low>
+    <Close>13.841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-05</Date>
+    <Open>13.9211</Open>
+    <High>14.2706</High>
+    <Low>13.7614</Low>
+    <Close>13.8815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-06</Date>
+    <Open>13.8817</Open>
+    <High>14.07</High>
+    <Low>13.5226</Low>
+    <Close>13.8292</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-07</Date>
+    <Open>13.8285</Open>
+    <High>14.21</High>
+    <Low>13.338</Low>
+    <Close>13.6105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-08</Date>
+    <Open>13.6294</Open>
+    <High>13.9101</High>
+    <Low>12.6978</Low>
+    <Close>12.7039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-09</Date>
+    <Open>12.7647</Open>
+    <High>13.3255</High>
+    <Low>11.8826</Low>
+    <Close>12.0324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-10</Date>
+    <Open>12.0397</Open>
+    <High>12.5214</High>
+    <Low>11.525</Low>
+    <Close>12.4382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-11</Date>
+    <Open>12.4382</Open>
+    <High>12.9508</High>
+    <Low>11.5831</Low>
+    <Close>12.0493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-12</Date>
+    <Open>12.0483</Open>
+    <High>12.9857</High>
+    <Low>11.9432</Low>
+    <Close>12.9027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-13</Date>
+    <Open>12.9097</Open>
+    <High>13.6658</High>
+    <Low>12.3834</Low>
+    <Close>13.333</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-14</Date>
+    <Open>13.3329</Open>
+    <High>14.6025</High>
+    <Low>12.8112</Low>
+    <Close>13.9071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-15</Date>
+    <Open>13.9091</Open>
+    <High>14.2821</High>
+    <Low>12.2701</Low>
+    <Close>12.5811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-16</Date>
+    <Open>12.6123</Open>
+    <High>14.1982</High>
+    <Low>12.3229</Low>
+    <Close>13.5936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-17</Date>
+    <Open>13.6034</Open>
+    <High>14.9612</High>
+    <Low>13.3492</Low>
+    <Close>14.6637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-18</Date>
+    <Open>14.7423</Open>
+    <High>15.1285</High>
+    <Low>14.1179</Low>
+    <Close>14.3568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-19</Date>
+    <Open>14.3327</Open>
+    <High>14.8419</High>
+    <Low>14.0787</Low>
+    <Close>14.5929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-20</Date>
+    <Open>14.5939</Open>
+    <High>14.8027</High>
+    <Low>13.5287</Low>
+    <Close>13.6798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-21</Date>
+    <Open>13.6697</Open>
+    <High>14.4503</High>
+    <Low>13.3398</Low>
+    <Close>14.115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-22</Date>
+    <Open>14.155</Open>
+    <High>14.3872</High>
+    <Low>13.2091</Low>
+    <Close>13.5468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-23</Date>
+    <Open>13.537</Open>
+    <High>14.1783</High>
+    <Low>13.5078</Low>
+    <Close>13.889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-24</Date>
+    <Open>13.8963</Open>
+    <High>14.1341</High>
+    <Low>13.1665</Low>
+    <Close>13.3528</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-25</Date>
+    <Open>13.3516</Open>
+    <High>13.5026</High>
+    <Low>12.8983</Low>
+    <Close>13.1302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-26</Date>
+    <Open>13.1139</Open>
+    <High>13.419</High>
+    <Low>13.0609</Low>
+    <Close>13.2181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-27</Date>
+    <Open>13.2219</Open>
+    <High>13.3798</High>
+    <Low>12.3355</Low>
+    <Close>12.6045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-28</Date>
+    <Open>12.6259</Open>
+    <High>13.2936</High>
+    <Low>12.5544</Low>
+    <Close>13.045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-29</Date>
+    <Open>13.0651</Open>
+    <High>13.6035</High>
+    <Low>13.0435</Low>
+    <Close>13.5424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-30</Date>
+    <Open>13.5426</Open>
+    <High>13.8028</High>
+    <Low>13.123</Low>
+    <Close>13.2937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-03-31</Date>
+    <Open>13.3037</Open>
+    <High>13.5826</High>
+    <Low>13.0938</Low>
+    <Close>13.428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-01</Date>
+    <Open>13.4422</Open>
+    <High>13.6007</High>
+    <Low>13.2942</Low>
+    <Close>13.4977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-02</Date>
+    <Open>13.4994</Open>
+    <High>13.6658</High>
+    <Low>13.0521</Low>
+    <Close>13.1628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-03</Date>
+    <Open>13.1682</Open>
+    <High>13.3671</High>
+    <Low>12.713</Low>
+    <Close>12.9646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-04</Date>
+    <Open>12.9751</Open>
+    <High>13.5857</High>
+    <Low>12.9557</Low>
+    <Close>13.4969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-05</Date>
+    <Open>13.4967</Open>
+    <High>13.854</High>
+    <Low>13.1737</Low>
+    <Close>13.3348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-06</Date>
+    <Open>13.3141</Open>
+    <High>13.4227</High>
+    <Low>13.0746</Low>
+    <Close>13.1546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-07</Date>
+    <Open>13.1547</Open>
+    <High>13.223</High>
+    <Low>12.8483</Low>
+    <Close>12.9696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-08</Date>
+    <Open>12.9697</Open>
+    <High>13.1001</High>
+    <Low>12.817</Low>
+    <Close>12.8622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-09</Date>
+    <Open>12.868</Open>
+    <High>12.9867</High>
+    <Low>12.6089</Low>
+    <Close>12.971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-10</Date>
+    <Open>12.9719</Open>
+    <High>13.184</High>
+    <Low>12.8115</Low>
+    <Close>13.1163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-11</Date>
+    <Open>13.1368</Open>
+    <High>13.388</High>
+    <Low>13.1036</Low>
+    <Close>13.2031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-12</Date>
+    <Open>13.2131</Open>
+    <High>13.4516</High>
+    <Low>12.7326</Low>
+    <Close>13.3504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-13</Date>
+    <Open>13.3604</Open>
+    <High>13.7565</High>
+    <Low>13.273</Low>
+    <Close>13.6431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-14</Date>
+    <Open>13.643</Open>
+    <High>14.4144</High>
+    <Low>13.6334</Low>
+    <Close>14.0218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-15</Date>
+    <Open>14.0016</Open>
+    <High>14.143</High>
+    <Low>13.803</Low>
+    <Close>13.8925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-16</Date>
+    <Open>13.8879</Open>
+    <High>15.4129</High>
+    <Low>13.7592</Low>
+    <Close>14.7599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-17</Date>
+    <Open>14.75</Open>
+    <High>14.75</High>
+    <Low>13.9217</Low>
+    <Close>14.1884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-18</Date>
+    <Open>14.1984</Open>
+    <High>14.7563</High>
+    <Low>13.9361</Low>
+    <Close>14.3727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-19</Date>
+    <Open>14.3826</Open>
+    <High>14.4959</High>
+    <Low>12.9361</Low>
+    <Close>13.3373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-20</Date>
+    <Open>13.3472</Open>
+    <High>13.414</High>
+    <Low>12.6615</Low>
+    <Close>12.891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-21</Date>
+    <Open>12.8909</Open>
+    <High>13.0596</High>
+    <Low>12.0077</Low>
+    <Close>12.0989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-22</Date>
+    <Open>12.0987</Open>
+    <High>12.2701</High>
+    <Low>11.6672</Low>
+    <Close>12.2511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-23</Date>
+    <Open>12.268</Open>
+    <High>12.3302</High>
+    <Low>11.7709</Low>
+    <Close>11.9662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-24</Date>
+    <Open>11.9572</Open>
+    <High>12.202</High>
+    <Low>11.8249</Low>
+    <Close>12.092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-25</Date>
+    <Open>12.0863</Open>
+    <High>12.2442</High>
+    <Low>11.6362</Low>
+    <Close>12.2183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-26</Date>
+    <Open>12.2577</Open>
+    <High>12.8227</High>
+    <Low>11.3123</Low>
+    <Close>11.9239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-27</Date>
+    <Open>11.9038</Open>
+    <High>12.3012</High>
+    <Low>11.7939</Low>
+    <Close>12.2043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-28</Date>
+    <Open>12.2144</Open>
+    <High>12.2472</High>
+    <Low>11.9863</Low>
+    <Close>12.2314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-29</Date>
+    <Open>12.2366</Open>
+    <High>12.4999</High>
+    <Low>12.1984</Low>
+    <Close>12.3486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-04-30</Date>
+    <Open>12.3604</Open>
+    <High>12.4</High>
+    <Low>11.9873</Low>
+    <Close>12.0991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-01</Date>
+    <Open>12.091</Open>
+    <High>12.1299</High>
+    <Low>11.4437</Low>
+    <Close>11.6009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-02</Date>
+    <Open>11.603</Open>
+    <High>11.8679</High>
+    <Low>11.5285</Low>
+    <Close>11.8061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-03</Date>
+    <Open>11.8045</Open>
+    <High>11.9294</High>
+    <Low>11.3775</Low>
+    <Close>11.9045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-04</Date>
+    <Open>11.9095</Open>
+    <High>12.0549</High>
+    <Low>11.7912</Low>
+    <Close>11.8946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-05</Date>
+    <Open>11.8993</Open>
+    <High>12.2121</High>
+    <Low>11.7249</Low>
+    <Close>12.0406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-06</Date>
+    <Open>12.0407</Open>
+    <High>12.143</High>
+    <Low>11.0651</Low>
+    <Close>11.2687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-07</Date>
+    <Open>11.2743</Open>
+    <High>11.3041</High>
+    <Low>11.1084</Low>
+    <Close>11.1228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-08</Date>
+    <Open>11.1171</Open>
+    <High>11.1556</High>
+    <Low>9.95637</Low>
+    <Close>10.2094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-09</Date>
+    <Open>10.2197</Open>
+    <High>10.4928</High>
+    <Low>10.2186</Low>
+    <Close>10.2998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-10</Date>
+    <Open>10.3023</Open>
+    <High>10.7051</High>
+    <Low>10.0888</Low>
+    <Close>10.5975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-11</Date>
+    <Open>10.6018</Open>
+    <High>10.6711</High>
+    <Low>9.97347</Low>
+    <Close>10.1851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-12</Date>
+    <Open>10.1985</Open>
+    <High>10.3894</High>
+    <Low>9.84163</Low>
+    <Close>10.3287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-13</Date>
+    <Open>10.3662</Open>
+    <High>10.5267</High>
+    <Low>10.2065</Low>
+    <Close>10.2728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-14</Date>
+    <Open>10.2959</Open>
+    <High>10.4968</High>
+    <Low>10.1212</Low>
+    <Close>10.4076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-15</Date>
+    <Open>10.4026</Open>
+    <High>10.6562</High>
+    <Low>10.3221</Low>
+    <Close>10.5831</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-16</Date>
+    <Open>10.5731</Open>
+    <High>10.6574</High>
+    <Low>10.3814</Low>
+    <Close>10.592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-17</Date>
+    <Open>10.5955</Open>
+    <High>10.8419</High>
+    <Low>10.2333</Low>
+    <Close>10.6675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-18</Date>
+    <Open>10.6935</Open>
+    <High>10.7836</High>
+    <Low>10.1041</Low>
+    <Close>10.3179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-19</Date>
+    <Open>10.3207</Open>
+    <High>10.4887</High>
+    <Low>10.2483</Low>
+    <Close>10.4379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-20</Date>
+    <Open>10.432</Open>
+    <High>10.4818</High>
+    <Low>10.3384</Low>
+    <Close>10.4116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-21</Date>
+    <Open>10.4257</Open>
+    <High>10.496</High>
+    <Low>9.98439</Low>
+    <Close>10.1371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-22</Date>
+    <Open>10.1361</Open>
+    <High>10.1774</High>
+    <Low>9.90495</Low>
+    <Close>10.1646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-23</Date>
+    <Open>10.1605</Open>
+    <High>10.4134</High>
+    <Low>10.0766</Low>
+    <Close>10.3174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-24</Date>
+    <Open>10.3121</Open>
+    <High>10.3853</High>
+    <Low>9.77362</Low>
+    <Close>9.9234</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-25</Date>
+    <Open>9.9205</Open>
+    <High>10.0305</High>
+    <Low>9.60052</Low>
+    <Close>9.9359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-26</Date>
+    <Open>9.932</Open>
+    <High>10.5077</High>
+    <Low>9.82188</Low>
+    <Close>10.3757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-27</Date>
+    <Open>10.3882</Open>
+    <High>10.5861</High>
+    <Low>10.3403</Low>
+    <Close>10.4176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="ENS">
+    <Date>2023-05-28</Date>
+    <Open>10.4176</Open>
+    <High>10.6556</High>
+    <Low>10.414</Low>
+    <Close>10.6556</Close>
+  </Cryptocurrency>
+</Root>

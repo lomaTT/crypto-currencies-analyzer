@@ -1,0 +1,7136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-14</Date>
+    <Open>13.52</Open>
+    <High>17.0</High>
+    <Low>10.38</Low>
+    <Close>12.21</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-15</Date>
+    <Open>12.21</Open>
+    <High>17.02</High>
+    <Low>5.811</Low>
+    <Close>7.177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-16</Date>
+    <Open>7.177</Open>
+    <High>7.618</High>
+    <Low>6.016</Low>
+    <Close>6.406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-17</Date>
+    <Open>6.406</Open>
+    <High>6.413</High>
+    <Low>4.115</Low>
+    <Close>4.389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-18</Date>
+    <Open>4.389</Open>
+    <High>4.441</High>
+    <Low>3.199</Low>
+    <Close>3.604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-19</Date>
+    <Open>3.604</Open>
+    <High>5.034</High>
+    <Low>3.321</Low>
+    <Close>3.938</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-20</Date>
+    <Open>3.938</Open>
+    <High>4.676</High>
+    <Low>3.823</Low>
+    <Close>3.89</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-21</Date>
+    <Open>3.89</Open>
+    <High>4.066</High>
+    <Low>3.207</Low>
+    <Close>3.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-22</Date>
+    <Open>3.23</Open>
+    <High>3.266</High>
+    <Low>2.729</Low>
+    <Close>3.057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-23</Date>
+    <Open>3.057</Open>
+    <High>3.086</High>
+    <Low>2.61</Low>
+    <Close>2.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-24</Date>
+    <Open>2.7</Open>
+    <High>3.075</High>
+    <Low>2.606</Low>
+    <Close>2.901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-25</Date>
+    <Open>2.901</Open>
+    <High>3.337</High>
+    <Low>2.681</Low>
+    <Close>2.867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-26</Date>
+    <Open>2.867</Open>
+    <High>4.148</High>
+    <Low>2.819</Low>
+    <Close>3.562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-27</Date>
+    <Open>3.562</Open>
+    <High>4.344</High>
+    <Low>3.213</Low>
+    <Close>3.346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-28</Date>
+    <Open>3.346</Open>
+    <High>3.987</High>
+    <Low>3.344</Low>
+    <Close>3.536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-29</Date>
+    <Open>3.536</Open>
+    <High>3.549</High>
+    <Low>3.09</Low>
+    <Close>3.108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-30</Date>
+    <Open>3.108</Open>
+    <High>3.75</High>
+    <Low>3.083</Low>
+    <Close>3.561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-08-31</Date>
+    <Open>3.561</Open>
+    <High>4.45</High>
+    <Low>3.431</Low>
+    <Close>4.386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-01</Date>
+    <Open>4.386</Open>
+    <High>5.71</High>
+    <Low>4.154</Low>
+    <Close>5.345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-02</Date>
+    <Open>5.345</Open>
+    <High>5.369</High>
+    <Low>3.89</Low>
+    <Close>4.336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-03</Date>
+    <Open>4.336</Open>
+    <High>4.367</High>
+    <Low>2.799</Low>
+    <Close>2.922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-04</Date>
+    <Open>2.922</Open>
+    <High>3.273</High>
+    <Low>2.767</Low>
+    <Close>2.865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-05</Date>
+    <Open>2.865</Open>
+    <High>3.08</High>
+    <Low>1.582</Low>
+    <Close>1.909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-06</Date>
+    <Open>1.909</Open>
+    <High>2.331</High>
+    <Low>1.522</Low>
+    <Close>2.165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-07</Date>
+    <Open>2.165</Open>
+    <High>2.297</High>
+    <Low>1.717</Low>
+    <Close>2.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-08</Date>
+    <Open>2.1</Open>
+    <High>2.125</High>
+    <Low>1.771</Low>
+    <Close>1.842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-09</Date>
+    <Open>1.842</Open>
+    <High>2.143</High>
+    <Low>1.78</Low>
+    <Close>1.977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-10</Date>
+    <Open>1.977</Open>
+    <High>2.194</High>
+    <Low>1.938</Low>
+    <Close>1.962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-11</Date>
+    <Open>1.962</Open>
+    <High>2.013</High>
+    <Low>1.712</Low>
+    <Close>1.906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-12</Date>
+    <Open>1.906</Open>
+    <High>2.148</High>
+    <Low>1.817</Low>
+    <Close>2.103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-13</Date>
+    <Open>2.103</Open>
+    <High>2.14</High>
+    <Low>1.769</Low>
+    <Close>1.909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-14</Date>
+    <Open>1.909</Open>
+    <High>1.98</High>
+    <Low>1.795</Low>
+    <Close>1.846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-15</Date>
+    <Open>1.846</Open>
+    <High>1.891</High>
+    <Low>1.345</Low>
+    <Close>1.417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-16</Date>
+    <Open>1.417</Open>
+    <High>1.462</High>
+    <Low>1.201</Low>
+    <Close>1.282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-17</Date>
+    <Open>1.282</Open>
+    <High>1.434</High>
+    <Low>1.199</Low>
+    <Close>1.334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-18</Date>
+    <Open>1.334</Open>
+    <High>1.435</High>
+    <Low>1.225</Low>
+    <Close>1.259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-19</Date>
+    <Open>1.259</Open>
+    <High>1.646</High>
+    <Low>1.234</Low>
+    <Close>1.483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-20</Date>
+    <Open>1.483</Open>
+    <High>1.632</High>
+    <Low>1.303</Low>
+    <Close>1.362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-21</Date>
+    <Open>1.362</Open>
+    <High>1.403</High>
+    <Low>1.075</Low>
+    <Close>1.091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-22</Date>
+    <Open>1.091</Open>
+    <High>1.152</High>
+    <Low>1.017</Low>
+    <Close>1.079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-23</Date>
+    <Open>1.079</Open>
+    <High>1.13</High>
+    <Low>0.8702</Low>
+    <Close>0.8898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-24</Date>
+    <Open>0.8898</Open>
+    <High>1.003</High>
+    <Low>0.878</Low>
+    <Close>0.9936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-25</Date>
+    <Open>0.9936</Open>
+    <High>1.045</High>
+    <Low>0.8816</Low>
+    <Close>0.9765</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-26</Date>
+    <Open>0.9765</Open>
+    <High>1.145</High>
+    <Low>0.9735</Low>
+    <Close>1.117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-27</Date>
+    <Open>1.117</Open>
+    <High>1.139</High>
+    <Low>0.9829</Low>
+    <Close>1.04</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-28</Date>
+    <Open>1.04</Open>
+    <High>1.099</High>
+    <Low>0.9879</Low>
+    <Close>1.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-29</Date>
+    <Open>1.003</Open>
+    <High>1.02</High>
+    <Low>0.9103</Low>
+    <Close>0.9524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-09-30</Date>
+    <Open>0.9524</Open>
+    <High>0.9655</High>
+    <Low>0.9117</Low>
+    <Close>0.9496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-01</Date>
+    <Open>0.9496</Open>
+    <High>0.9844</High>
+    <Low>0.8287</Low>
+    <Close>0.8656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-02</Date>
+    <Open>0.8656</Open>
+    <High>0.877</High>
+    <Low>0.7305</Low>
+    <Close>0.7641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-03</Date>
+    <Open>0.7641</Open>
+    <High>0.81</High>
+    <Low>0.7436</Low>
+    <Close>0.7675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-04</Date>
+    <Open>0.7675</Open>
+    <High>0.7694</High>
+    <Low>0.6776</Low>
+    <Close>0.698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-05</Date>
+    <Open>0.698</Open>
+    <High>0.7205</High>
+    <Low>0.616</Low>
+    <Close>0.6318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-06</Date>
+    <Open>0.6318</Open>
+    <High>0.634</High>
+    <Low>0.4965</Low>
+    <Close>0.5079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-07</Date>
+    <Open>0.5079</Open>
+    <High>0.5297</High>
+    <Low>0.4568</Low>
+    <Close>0.5255</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-08</Date>
+    <Open>0.5255</Open>
+    <High>0.5789</High>
+    <Low>0.4659</Low>
+    <Close>0.5595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-09</Date>
+    <Open>0.5595</Open>
+    <High>0.6383</High>
+    <Low>0.5229</Low>
+    <Close>0.6247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-10</Date>
+    <Open>0.6247</Open>
+    <High>0.6448</High>
+    <Low>0.5493</Low>
+    <Close>0.5595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-11</Date>
+    <Open>0.5595</Open>
+    <High>0.5793</High>
+    <Low>0.5267</Low>
+    <Close>0.56</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-12</Date>
+    <Open>0.56</Open>
+    <High>0.5987</High>
+    <Low>0.5398</Low>
+    <Close>0.5713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-13</Date>
+    <Open>0.5713</Open>
+    <High>0.5735</High>
+    <Low>0.5341</Low>
+    <Close>0.547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-14</Date>
+    <Open>0.547</Open>
+    <High>0.5541</High>
+    <Low>0.4788</Low>
+    <Close>0.5043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-15</Date>
+    <Open>0.5043</Open>
+    <High>0.5077</High>
+    <Low>0.4803</Low>
+    <Close>0.4992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-16</Date>
+    <Open>0.4992</Open>
+    <High>0.514</High>
+    <Low>0.4247</Low>
+    <Close>0.4305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-17</Date>
+    <Open>0.4305</Open>
+    <High>0.4516</High>
+    <Low>0.4189</Low>
+    <Close>0.4367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-18</Date>
+    <Open>0.4367</Open>
+    <High>0.4747</High>
+    <Low>0.4349</Low>
+    <Close>0.456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-19</Date>
+    <Open>0.456</Open>
+    <High>0.4578</High>
+    <Low>0.409</Low>
+    <Close>0.4137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-20</Date>
+    <Open>0.4137</Open>
+    <High>0.4172</High>
+    <Low>0.3549</Low>
+    <Close>0.3586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-21</Date>
+    <Open>0.3586</Open>
+    <High>0.4034</High>
+    <Low>0.3572</Low>
+    <Close>0.3842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-22</Date>
+    <Open>0.3842</Open>
+    <High>0.4301</High>
+    <Low>0.3826</Low>
+    <Close>0.4091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-23</Date>
+    <Open>0.4091</Open>
+    <High>0.412</High>
+    <Low>0.3697</Low>
+    <Close>0.379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-24</Date>
+    <Open>0.379</Open>
+    <High>0.3824</High>
+    <Low>0.3577</Low>
+    <Close>0.3736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-25</Date>
+    <Open>0.3736</Open>
+    <High>0.382</High>
+    <Low>0.3291</Low>
+    <Close>0.3384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-26</Date>
+    <Open>0.3384</Open>
+    <High>0.4414</High>
+    <Low>0.3349</Low>
+    <Close>0.4057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-27</Date>
+    <Open>0.4057</Open>
+    <High>0.6512</High>
+    <Low>0.3883</Low>
+    <Close>0.6469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-28</Date>
+    <Open>0.6469</Open>
+    <High>0.6507</High>
+    <Low>0.4593</Low>
+    <Close>0.4949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-29</Date>
+    <Open>0.4949</Open>
+    <High>0.5249</High>
+    <Low>0.4322</Low>
+    <Close>0.4481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-30</Date>
+    <Open>0.4481</Open>
+    <High>0.4633</High>
+    <Low>0.3817</Low>
+    <Close>0.3965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-10-31</Date>
+    <Open>0.3965</Open>
+    <High>0.4498</High>
+    <Low>0.3932</Low>
+    <Close>0.4176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-01</Date>
+    <Open>0.4176</Open>
+    <High>0.4227</High>
+    <Low>0.3897</Low>
+    <Close>0.4016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-02</Date>
+    <Open>0.4016</Open>
+    <High>0.4246</High>
+    <Low>0.357</Low>
+    <Close>0.3614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-03</Date>
+    <Open>0.3614</Open>
+    <High>0.3692</High>
+    <Low>0.3428</Low>
+    <Close>0.3577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-04</Date>
+    <Open>0.3577</Open>
+    <High>0.376</High>
+    <Low>0.3327</Low>
+    <Close>0.3444</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-05</Date>
+    <Open>0.3444</Open>
+    <High>0.387</High>
+    <Low>0.3328</Low>
+    <Close>0.3636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-06</Date>
+    <Open>0.3636</Open>
+    <High>0.4613</High>
+    <Low>0.3594</Low>
+    <Close>0.452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-07</Date>
+    <Open>0.452</Open>
+    <High>0.5565</High>
+    <Low>0.4131</Low>
+    <Close>0.4347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-08</Date>
+    <Open>0.4347</Open>
+    <High>0.5061</High>
+    <Low>0.4246</Low>
+    <Close>0.4823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-09</Date>
+    <Open>0.4823</Open>
+    <High>0.5063</High>
+    <Low>0.4413</Low>
+    <Close>0.4623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-10</Date>
+    <Open>0.4623</Open>
+    <High>0.6051</High>
+    <Low>0.4561</Low>
+    <Close>0.5722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-11</Date>
+    <Open>0.5722</Open>
+    <High>0.651</High>
+    <Low>0.5454</Low>
+    <Close>0.5539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-12</Date>
+    <Open>0.5539</Open>
+    <High>0.5909</High>
+    <Low>0.523</Low>
+    <Close>0.5701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-13</Date>
+    <Open>0.5701</Open>
+    <High>0.6993</High>
+    <Low>0.5619</Low>
+    <Close>0.6898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-14</Date>
+    <Open>0.6898</Open>
+    <High>0.742</High>
+    <Low>0.5982</Low>
+    <Close>0.7062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-15</Date>
+    <Open>0.7062</Open>
+    <High>0.839</High>
+    <Low>0.7037</Low>
+    <Close>0.7769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-16</Date>
+    <Open>0.7769</Open>
+    <High>0.8372</High>
+    <Low>0.6948</Low>
+    <Close>0.8209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-17</Date>
+    <Open>0.8209</Open>
+    <High>0.9061</High>
+    <Low>0.803</Low>
+    <Close>0.8753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-18</Date>
+    <Open>0.8753</Open>
+    <High>0.8857</High>
+    <Low>0.6908</Low>
+    <Close>0.7598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-19</Date>
+    <Open>0.7598</Open>
+    <High>0.8475</High>
+    <Low>0.7159</Low>
+    <Close>0.8079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-20</Date>
+    <Open>0.8079</Open>
+    <High>0.9577</High>
+    <Low>0.7982</Low>
+    <Close>0.8619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-21</Date>
+    <Open>0.8619</Open>
+    <High>0.8987</High>
+    <Low>0.7976</Low>
+    <Close>0.8588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-22</Date>
+    <Open>0.8588</Open>
+    <High>0.8763</High>
+    <Low>0.7028</Low>
+    <Close>0.751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-23</Date>
+    <Open>0.751</Open>
+    <High>0.8059</High>
+    <Low>0.7182</Low>
+    <Close>0.7442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-24</Date>
+    <Open>0.7442</Open>
+    <High>0.7977</High>
+    <Low>0.6628</Low>
+    <Close>0.6882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-25</Date>
+    <Open>0.6882</Open>
+    <High>0.7586</High>
+    <Low>0.6301</Low>
+    <Close>0.6432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-26</Date>
+    <Open>0.6432</Open>
+    <High>0.6641</High>
+    <Low>0.4937</Low>
+    <Close>0.5945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-27</Date>
+    <Open>0.5945</Open>
+    <High>0.6442</High>
+    <Low>0.5448</Low>
+    <Close>0.6404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-28</Date>
+    <Open>0.6404</Open>
+    <High>0.6501</High>
+    <Low>0.5898</Low>
+    <Close>0.6096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-29</Date>
+    <Open>0.6096</Open>
+    <High>0.6875</High>
+    <Low>0.595</Low>
+    <Close>0.6563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-11-30</Date>
+    <Open>0.6563</Open>
+    <High>0.7143</High>
+    <Low>0.6556</Low>
+    <Close>0.6762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-01</Date>
+    <Open>0.6762</Open>
+    <High>0.7601</High>
+    <Low>0.6337</Low>
+    <Close>0.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-02</Date>
+    <Open>0.68</Open>
+    <High>0.8191</High>
+    <Low>0.6616</Low>
+    <Close>0.8018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-03</Date>
+    <Open>0.8018</Open>
+    <High>0.8578</High>
+    <Low>0.7687</Low>
+    <Close>0.8294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-04</Date>
+    <Open>0.8294</Open>
+    <High>0.8346</High>
+    <Low>0.6695</Low>
+    <Close>0.6851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-05</Date>
+    <Open>0.6851</Open>
+    <High>0.7421</High>
+    <Low>0.6695</Low>
+    <Close>0.7415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-06</Date>
+    <Open>0.7415</Open>
+    <High>0.7481</High>
+    <Low>0.6723</Low>
+    <Close>0.7031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-07</Date>
+    <Open>0.7031</Open>
+    <High>0.7444</High>
+    <Low>0.6865</Low>
+    <Close>0.7086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-08</Date>
+    <Open>0.7086</Open>
+    <High>0.7106</High>
+    <Low>0.5902</Low>
+    <Close>0.6087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-09</Date>
+    <Open>0.6087</Open>
+    <High>0.6404</High>
+    <Low>0.5625</Low>
+    <Close>0.6334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-10</Date>
+    <Open>0.6334</Open>
+    <High>0.6418</High>
+    <Low>0.5822</Low>
+    <Close>0.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-11</Date>
+    <Open>0.6</Open>
+    <High>0.6029</High>
+    <Low>0.5369</Low>
+    <Close>0.5564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-12</Date>
+    <Open>0.5564</Open>
+    <High>0.599</High>
+    <Low>0.5564</Low>
+    <Close>0.5921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-13</Date>
+    <Open>0.5921</Open>
+    <High>0.6368</High>
+    <Low>0.5768</Low>
+    <Close>0.616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-14</Date>
+    <Open>0.616</Open>
+    <High>0.6415</High>
+    <Low>0.5934</Low>
+    <Close>0.638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-15</Date>
+    <Open>0.638</Open>
+    <High>0.6708</High>
+    <Low>0.6242</Low>
+    <Close>0.629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-16</Date>
+    <Open>0.629</Open>
+    <High>0.6531</High>
+    <Low>0.5975</Low>
+    <Close>0.6511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-17</Date>
+    <Open>0.6511</Open>
+    <High>0.6858</High>
+    <Low>0.6166</Low>
+    <Close>0.6552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-18</Date>
+    <Open>0.6552</Open>
+    <High>0.6563</High>
+    <Low>0.6225</Low>
+    <Close>0.6456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-19</Date>
+    <Open>0.6456</Open>
+    <High>0.6993</High>
+    <Low>0.639</Low>
+    <Close>0.6645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-20</Date>
+    <Open>0.6645</Open>
+    <High>0.6661</High>
+    <Low>0.6079</Low>
+    <Close>0.6159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-21</Date>
+    <Open>0.6159</Open>
+    <High>0.6283</High>
+    <Low>0.5428</Low>
+    <Close>0.5579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-22</Date>
+    <Open>0.5579</Open>
+    <High>0.5703</High>
+    <Low>0.51</Low>
+    <Close>0.5582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-23</Date>
+    <Open>0.5582</Open>
+    <High>0.5681</High>
+    <Low>0.3865</Low>
+    <Close>0.4202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-24</Date>
+    <Open>0.4202</Open>
+    <High>0.4807</High>
+    <Low>0.4071</Low>
+    <Close>0.4788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-25</Date>
+    <Open>0.4788</Open>
+    <High>0.5324</High>
+    <Low>0.4637</Low>
+    <Close>0.4891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-26</Date>
+    <Open>0.4891</Open>
+    <High>0.4923</High>
+    <Low>0.4501</Low>
+    <Close>0.4691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-27</Date>
+    <Open>0.4691</Open>
+    <High>0.5134</High>
+    <Low>0.4406</Low>
+    <Close>0.4716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-28</Date>
+    <Open>0.4716</Open>
+    <High>0.5229</High>
+    <Low>0.4672</Low>
+    <Close>0.4977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-29</Date>
+    <Open>0.4977</Open>
+    <High>0.5116</High>
+    <Low>0.4437</Low>
+    <Close>0.4738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-30</Date>
+    <Open>0.4738</Open>
+    <High>0.5924</High>
+    <Low>0.467</Low>
+    <Close>0.5824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2020-12-31</Date>
+    <Open>0.5824</Open>
+    <High>0.6391</High>
+    <Low>0.5216</Low>
+    <Close>0.6278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-01</Date>
+    <Open>0.6278</Open>
+    <High>0.6761</High>
+    <Low>0.6073</Low>
+    <Close>0.6225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-02</Date>
+    <Open>0.6225</Open>
+    <High>0.6244</High>
+    <Low>0.5663</Low>
+    <Close>0.6141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-03</Date>
+    <Open>0.6141</Open>
+    <High>0.694</High>
+    <Low>0.5873</Low>
+    <Close>0.6776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-04</Date>
+    <Open>0.6776</Open>
+    <High>0.7311</High>
+    <Low>0.5864</Low>
+    <Close>0.6775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-05</Date>
+    <Open>0.6775</Open>
+    <High>0.7279</High>
+    <Low>0.6266</Low>
+    <Close>0.6887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-06</Date>
+    <Open>0.6887</Open>
+    <High>0.7858</High>
+    <Low>0.6707</Low>
+    <Close>0.7315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-07</Date>
+    <Open>0.7315</Open>
+    <High>0.7885</High>
+    <Low>0.6854</Low>
+    <Close>0.7173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-08</Date>
+    <Open>0.7173</Open>
+    <High>0.733</High>
+    <Low>0.626</Low>
+    <Close>0.6935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-09</Date>
+    <Open>0.6935</Open>
+    <High>0.8027</High>
+    <Low>0.671</Low>
+    <Close>0.7688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-10</Date>
+    <Open>0.7688</Open>
+    <High>0.8425</High>
+    <Low>0.7017</Low>
+    <Close>0.7541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-11</Date>
+    <Open>0.7541</Open>
+    <High>0.7566</High>
+    <Low>0.5349</Low>
+    <Close>0.6225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-12</Date>
+    <Open>0.6225</Open>
+    <High>0.671</High>
+    <Low>0.5927</Low>
+    <Close>0.6244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-13</Date>
+    <Open>0.6244</Open>
+    <High>0.6915</High>
+    <Low>0.6033</Low>
+    <Close>0.687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-14</Date>
+    <Open>0.687</Open>
+    <High>0.7963</High>
+    <Low>0.6615</Low>
+    <Close>0.7956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-15</Date>
+    <Open>0.7956</Open>
+    <High>1.198</High>
+    <Low>0.788</Low>
+    <Close>1.148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-16</Date>
+    <Open>1.148</Open>
+    <High>1.266</High>
+    <Low>1.045</Low>
+    <Close>1.109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-17</Date>
+    <Open>1.109</Open>
+    <High>1.787</High>
+    <Low>1.054</Low>
+    <Close>1.692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-18</Date>
+    <Open>1.692</Open>
+    <High>1.784</High>
+    <Low>1.391</Low>
+    <Close>1.608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-19</Date>
+    <Open>1.608</Open>
+    <High>1.659</High>
+    <Low>1.313</Low>
+    <Close>1.331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-20</Date>
+    <Open>1.331</Open>
+    <High>1.649</High>
+    <Low>1.261</Low>
+    <Close>1.631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-21</Date>
+    <Open>1.631</Open>
+    <High>1.924</High>
+    <Low>1.452</Low>
+    <Close>1.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-22</Date>
+    <Open>1.68</Open>
+    <High>2.114</High>
+    <Low>1.438</Low>
+    <Close>1.966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-23</Date>
+    <Open>1.966</Open>
+    <High>2.301</High>
+    <Low>1.914</Low>
+    <Close>2.143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-24</Date>
+    <Open>2.143</Open>
+    <High>2.353</High>
+    <Low>2.045</Low>
+    <Close>2.264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-25</Date>
+    <Open>2.264</Open>
+    <High>2.31</High>
+    <Low>1.971</Low>
+    <Close>2.005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-26</Date>
+    <Open>2.005</Open>
+    <High>2.239</High>
+    <Low>1.828</Low>
+    <Close>2.147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-27</Date>
+    <Open>2.147</Open>
+    <High>2.149</High>
+    <Low>1.743</Low>
+    <Close>1.817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-28</Date>
+    <Open>1.817</Open>
+    <High>2.204</High>
+    <Low>1.754</Low>
+    <Close>2.082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-29</Date>
+    <Open>2.082</Open>
+    <High>2.13</High>
+    <Low>1.872</Low>
+    <Close>2.045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-30</Date>
+    <Open>2.045</Open>
+    <High>2.62</High>
+    <Low>1.888</Low>
+    <Close>2.551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-01-31</Date>
+    <Open>2.551</Open>
+    <High>2.839</High>
+    <Low>2.29</Low>
+    <Close>2.517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-01</Date>
+    <Open>2.517</Open>
+    <High>2.683</High>
+    <Low>2.305</Low>
+    <Close>2.544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-02</Date>
+    <Open>2.544</Open>
+    <High>2.758</High>
+    <Low>2.432</Low>
+    <Close>2.505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-03</Date>
+    <Open>2.505</Open>
+    <High>2.702</High>
+    <Low>2.41</Low>
+    <Close>2.638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-04</Date>
+    <Open>2.638</Open>
+    <High>3.204</High>
+    <Low>2.592</Low>
+    <Close>3.033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-05</Date>
+    <Open>3.033</Open>
+    <High>3.364</High>
+    <Low>3.022</Low>
+    <Close>3.266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-06</Date>
+    <Open>3.266</Open>
+    <High>3.667</High>
+    <Low>3.043</Low>
+    <Close>3.149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-07</Date>
+    <Open>3.149</Open>
+    <High>3.197</High>
+    <Low>2.679</Low>
+    <Close>2.987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-08</Date>
+    <Open>2.987</Open>
+    <High>3.232</High>
+    <Low>2.854</Low>
+    <Close>3.064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-09</Date>
+    <Open>3.064</Open>
+    <High>3.283</High>
+    <Low>2.942</Low>
+    <Close>3.178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-10</Date>
+    <Open>3.178</Open>
+    <High>3.386</High>
+    <Low>2.889</Low>
+    <Close>3.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-11</Date>
+    <Open>3.09</Open>
+    <High>3.57</High>
+    <Low>3.003</Low>
+    <Close>3.559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-12</Date>
+    <Open>3.559</Open>
+    <High>3.622</High>
+    <Low>3.275</Low>
+    <Close>3.397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-13</Date>
+    <Open>3.397</Open>
+    <High>3.524</High>
+    <Low>3.178</Low>
+    <Close>3.293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-14</Date>
+    <Open>3.293</Open>
+    <High>3.408</High>
+    <Low>2.956</Low>
+    <Close>2.961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-15</Date>
+    <Open>2.961</Open>
+    <High>3.015</High>
+    <Low>2.335</Low>
+    <Close>2.718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-16</Date>
+    <Open>2.718</Open>
+    <High>2.862</High>
+    <Low>2.542</Low>
+    <Close>2.674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-17</Date>
+    <Open>2.674</Open>
+    <High>2.875</High>
+    <Low>2.495</Low>
+    <Close>2.786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-18</Date>
+    <Open>2.786</Open>
+    <High>3.023</High>
+    <Low>2.723</Low>
+    <Close>2.809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-19</Date>
+    <Open>2.809</Open>
+    <High>2.873</High>
+    <Low>2.564</Low>
+    <Close>2.628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-20</Date>
+    <Open>2.628</Open>
+    <High>3.255</High>
+    <Low>2.566</Low>
+    <Close>2.888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-21</Date>
+    <Open>2.888</Open>
+    <High>3.078</High>
+    <Low>2.819</Low>
+    <Close>2.908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-22</Date>
+    <Open>2.908</Open>
+    <High>2.91</High>
+    <Low>2.092</Low>
+    <Close>2.577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-23</Date>
+    <Open>2.577</Open>
+    <High>2.602</High>
+    <Low>1.782</Low>
+    <Close>2.137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-24</Date>
+    <Open>2.137</Open>
+    <High>2.393</High>
+    <Low>2.008</Low>
+    <Close>2.155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-25</Date>
+    <Open>2.155</Open>
+    <High>2.336</High>
+    <Low>1.995</Low>
+    <Close>2.01</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-26</Date>
+    <Open>2.01</Open>
+    <High>2.094</High>
+    <Low>1.796</Low>
+    <Close>1.925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-27</Date>
+    <Open>1.925</Open>
+    <High>2.102</High>
+    <Low>1.921</Low>
+    <Close>1.964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-02-28</Date>
+    <Open>1.964</Open>
+    <High>1.987</High>
+    <Low>1.627</Low>
+    <Close>1.772</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-01</Date>
+    <Open>1.772</Open>
+    <High>2.005</High>
+    <Low>1.752</Low>
+    <Close>2.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-02</Date>
+    <Open>2.0</Open>
+    <High>2.58</High>
+    <Low>1.986</Low>
+    <Close>2.512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-03</Date>
+    <Open>2.512</Open>
+    <High>2.633</High>
+    <Low>2.261</Low>
+    <Close>2.279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-04</Date>
+    <Open>2.279</Open>
+    <High>2.385</High>
+    <Low>2.013</Low>
+    <Close>2.086</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-05</Date>
+    <Open>2.086</Open>
+    <High>2.115</High>
+    <Low>1.914</Low>
+    <Close>2.054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-06</Date>
+    <Open>2.054</Open>
+    <High>2.169</High>
+    <Low>1.916</Low>
+    <Close>2.047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-07</Date>
+    <Open>2.047</Open>
+    <High>2.26</High>
+    <Low>2.044</Low>
+    <Close>2.244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-08</Date>
+    <Open>2.244</Open>
+    <High>2.406</High>
+    <Low>2.033</Low>
+    <Close>2.393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-09</Date>
+    <Open>2.393</Open>
+    <High>2.485</High>
+    <Low>2.283</Low>
+    <Close>2.406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-10</Date>
+    <Open>2.406</Open>
+    <High>2.48</High>
+    <Low>2.178</Low>
+    <Close>2.214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-11</Date>
+    <Open>2.214</Open>
+    <High>2.223</High>
+    <Low>2.068</Low>
+    <Close>2.174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-12</Date>
+    <Open>2.174</Open>
+    <High>2.228</High>
+    <Low>1.981</Low>
+    <Close>2.059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-13</Date>
+    <Open>2.059</Open>
+    <High>2.382</High>
+    <Low>1.984</Low>
+    <Close>2.377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-14</Date>
+    <Open>2.377</Open>
+    <High>2.4</High>
+    <Low>2.11</Low>
+    <Close>2.11</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-15</Date>
+    <Open>2.11</Open>
+    <High>2.352</High>
+    <Low>2.051</Low>
+    <Close>2.226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-16</Date>
+    <Open>2.226</Open>
+    <High>2.614</High>
+    <Low>2.103</Low>
+    <Close>2.597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-17</Date>
+    <Open>2.597</Open>
+    <High>2.597</High>
+    <Low>2.281</Low>
+    <Close>2.422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-18</Date>
+    <Open>2.422</Open>
+    <High>2.781</High>
+    <Low>2.407</Low>
+    <Close>2.604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-19</Date>
+    <Open>2.604</Open>
+    <High>2.794</High>
+    <Low>2.487</Low>
+    <Close>2.746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-20</Date>
+    <Open>2.746</Open>
+    <High>2.971</High>
+    <Low>2.684</Low>
+    <Close>2.701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-21</Date>
+    <Open>2.701</Open>
+    <High>2.757</High>
+    <Low>2.518</Low>
+    <Close>2.595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-22</Date>
+    <Open>2.595</Open>
+    <High>2.7</High>
+    <Low>2.34</Low>
+    <Close>2.356</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-23</Date>
+    <Open>2.356</Open>
+    <High>3.204</High>
+    <Low>2.228</Low>
+    <Close>2.883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-24</Date>
+    <Open>2.883</Open>
+    <High>2.98</High>
+    <Low>2.436</Low>
+    <Close>2.525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-25</Date>
+    <Open>2.525</Open>
+    <High>2.719</High>
+    <Low>2.328</Low>
+    <Close>2.386</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-26</Date>
+    <Open>2.386</Open>
+    <High>2.638</High>
+    <Low>2.383</Low>
+    <Close>2.622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-27</Date>
+    <Open>2.622</Open>
+    <High>3.194</High>
+    <Low>2.558</Low>
+    <Close>3.122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-28</Date>
+    <Open>3.122</Open>
+    <High>3.358</High>
+    <Low>2.921</Low>
+    <Close>3.022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-29</Date>
+    <Open>3.022</Open>
+    <High>3.573</High>
+    <Low>2.995</Low>
+    <Close>3.524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-30</Date>
+    <Open>3.524</Open>
+    <High>3.531</High>
+    <Low>3.15</Low>
+    <Close>3.288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-03-31</Date>
+    <Open>3.288</Open>
+    <High>3.295</High>
+    <Low>3.022</Low>
+    <Close>3.134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-01</Date>
+    <Open>3.134</Open>
+    <High>3.471</High>
+    <Low>3.045</Low>
+    <Close>3.316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-02</Date>
+    <Open>3.316</Open>
+    <High>3.516</High>
+    <Low>3.222</Low>
+    <Close>3.35</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-03</Date>
+    <Open>3.35</Open>
+    <High>3.406</High>
+    <Low>2.913</Low>
+    <Close>2.921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-04</Date>
+    <Open>2.921</Open>
+    <High>3.118</High>
+    <Low>2.864</Low>
+    <Close>3.103</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-05</Date>
+    <Open>3.103</Open>
+    <High>3.488</High>
+    <Low>2.913</Low>
+    <Close>3.316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-06</Date>
+    <Open>3.316</Open>
+    <High>3.394</High>
+    <Low>3.031</Low>
+    <Close>3.176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-07</Date>
+    <Open>3.176</Open>
+    <High>3.379</High>
+    <Low>2.787</Low>
+    <Close>2.896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-08</Date>
+    <Open>2.896</Open>
+    <High>3.095</High>
+    <Low>2.852</Low>
+    <Close>3.074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-09</Date>
+    <Open>3.074</Open>
+    <High>3.137</High>
+    <Low>2.929</Low>
+    <Close>2.979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-10</Date>
+    <Open>2.979</Open>
+    <High>3.052</High>
+    <Low>2.866</Low>
+    <Close>2.96</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-11</Date>
+    <Open>2.96</Open>
+    <High>3.205</High>
+    <Low>2.891</Low>
+    <Close>3.112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-12</Date>
+    <Open>3.112</Open>
+    <High>3.123</High>
+    <Low>2.941</Low>
+    <Close>3.031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-13</Date>
+    <Open>3.031</Open>
+    <High>3.188</High>
+    <Low>2.984</Low>
+    <Close>3.118</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-14</Date>
+    <Open>3.118</Open>
+    <High>3.295</High>
+    <Low>2.984</Low>
+    <Close>3.157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-15</Date>
+    <Open>3.157</Open>
+    <High>4.145</High>
+    <Low>3.145</Low>
+    <Close>4.026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-16</Date>
+    <Open>4.026</Open>
+    <High>4.646</High>
+    <Low>3.703</Low>
+    <Close>3.915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-17</Date>
+    <Open>3.915</Open>
+    <High>4.33</High>
+    <Low>3.754</Low>
+    <Close>3.787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-18</Date>
+    <Open>3.787</Open>
+    <High>3.87</High>
+    <Low>2.67</Low>
+    <Close>3.224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-19</Date>
+    <Open>3.224</Open>
+    <High>3.463</High>
+    <Low>2.815</Low>
+    <Close>2.823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-20</Date>
+    <Open>2.823</Open>
+    <High>3.097</High>
+    <Low>2.589</Low>
+    <Close>3.028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-21</Date>
+    <Open>3.028</Open>
+    <High>3.153</High>
+    <Low>2.827</Low>
+    <Close>2.889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-22</Date>
+    <Open>2.889</Open>
+    <High>3.301</High>
+    <Low>2.724</Low>
+    <Close>2.762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-23</Date>
+    <Open>2.762</Open>
+    <High>2.857</High>
+    <Low>2.259</Low>
+    <Close>2.644</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-24</Date>
+    <Open>2.644</Open>
+    <High>2.646</High>
+    <Low>2.349</Low>
+    <Close>2.377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-25</Date>
+    <Open>2.377</Open>
+    <High>2.553</High>
+    <Low>2.216</Low>
+    <Close>2.384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-26</Date>
+    <Open>2.384</Open>
+    <High>2.837</High>
+    <Low>2.354</Low>
+    <Close>2.781</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-27</Date>
+    <Open>2.781</Open>
+    <High>3.2</High>
+    <Low>2.716</Low>
+    <Close>3.131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-28</Date>
+    <Open>3.131</Open>
+    <High>3.214</High>
+    <Low>2.827</Low>
+    <Close>3.038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-29</Date>
+    <Open>3.038</Open>
+    <High>3.242</High>
+    <Low>2.898</Low>
+    <Close>3.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-04-30</Date>
+    <Open>3.02</Open>
+    <High>3.388</High>
+    <Low>2.962</Low>
+    <Close>3.335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-01</Date>
+    <Open>3.335</Open>
+    <High>3.485</High>
+    <Low>3.174</Low>
+    <Close>3.404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-02</Date>
+    <Open>3.404</Open>
+    <High>3.412</High>
+    <Low>3.135</Low>
+    <Close>3.276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-03</Date>
+    <Open>3.276</Open>
+    <High>3.375</High>
+    <Low>3.187</Low>
+    <Close>3.244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-04</Date>
+    <Open>3.244</Open>
+    <High>3.253</High>
+    <Low>2.818</Low>
+    <Close>2.828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-05</Date>
+    <Open>2.828</Open>
+    <High>3.141</High>
+    <Low>2.772</Low>
+    <Close>3.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-06</Date>
+    <Open>3.1</Open>
+    <High>3.42</High>
+    <Low>3.031</Low>
+    <Close>3.246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-07</Date>
+    <Open>3.246</Open>
+    <High>3.886</High>
+    <Low>3.117</Low>
+    <Close>3.657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-08</Date>
+    <Open>3.657</Open>
+    <High>3.965</High>
+    <Low>3.471</Low>
+    <Close>3.574</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-09</Date>
+    <Open>3.574</Open>
+    <High>3.603</High>
+    <Low>3.257</Low>
+    <Close>3.448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-10</Date>
+    <Open>3.448</Open>
+    <High>3.686</High>
+    <Low>2.873</Low>
+    <Close>3.09</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-11</Date>
+    <Open>3.09</Open>
+    <High>3.346</High>
+    <Low>2.965</Low>
+    <Close>3.315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-12</Date>
+    <Open>3.315</Open>
+    <High>3.878</High>
+    <Low>3.251</Low>
+    <Close>3.389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-13</Date>
+    <Open>3.389</Open>
+    <High>4.237</High>
+    <Low>3.102</Low>
+    <Close>3.363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-14</Date>
+    <Open>3.363</Open>
+    <High>3.825</High>
+    <Low>3.317</Low>
+    <Close>3.683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-15</Date>
+    <Open>3.683</Open>
+    <High>3.899</High>
+    <Low>3.177</Low>
+    <Close>3.227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-16</Date>
+    <Open>3.227</Open>
+    <High>3.501</High>
+    <Low>3.01</Low>
+    <Close>3.27</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-17</Date>
+    <Open>3.27</Open>
+    <High>3.27</High>
+    <Low>2.867</Low>
+    <Close>3.083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-18</Date>
+    <Open>3.083</Open>
+    <High>3.606</High>
+    <Low>3.048</Low>
+    <Close>3.494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-19</Date>
+    <Open>3.494</Open>
+    <High>3.569</High>
+    <Low>1.552</Low>
+    <Close>1.954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-20</Date>
+    <Open>1.954</Open>
+    <High>2.432</High>
+    <Low>1.652</Low>
+    <Close>2.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-21</Date>
+    <Open>2.2</Open>
+    <High>2.349</High>
+    <Low>1.533</Low>
+    <Close>1.848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-22</Date>
+    <Open>1.848</Open>
+    <High>1.987</High>
+    <Low>1.55</Low>
+    <Close>1.631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-23</Date>
+    <Open>1.631</Open>
+    <High>1.711</High>
+    <Low>1.065</Low>
+    <Close>1.323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-24</Date>
+    <Open>1.323</Open>
+    <High>1.645</High>
+    <Low>1.279</Low>
+    <Close>1.625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-25</Date>
+    <Open>1.625</Open>
+    <High>1.705</High>
+    <Low>1.393</Low>
+    <Close>1.613</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-26</Date>
+    <Open>1.613</Open>
+    <High>1.93</High>
+    <Low>1.578</Low>
+    <Close>1.896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-27</Date>
+    <Open>1.896</Open>
+    <High>1.914</High>
+    <Low>1.653</Low>
+    <Close>1.756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-28</Date>
+    <Open>1.756</Open>
+    <High>1.791</High>
+    <Low>1.504</Low>
+    <Close>1.59</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-29</Date>
+    <Open>1.59</Open>
+    <High>1.75</High>
+    <Low>1.485</Low>
+    <Close>1.741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-30</Date>
+    <Open>1.741</Open>
+    <High>1.798</High>
+    <Low>1.617</Low>
+    <Close>1.679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-05-31</Date>
+    <Open>1.679</Open>
+    <High>1.967</High>
+    <Low>1.602</Low>
+    <Close>1.958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-01</Date>
+    <Open>1.958</Open>
+    <High>2.076</High>
+    <Low>1.787</Low>
+    <Close>2.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-02</Date>
+    <Open>2.05</Open>
+    <High>2.511</High>
+    <Low>1.987</Low>
+    <Close>2.332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-03</Date>
+    <Open>2.332</Open>
+    <High>2.744</High>
+    <Low>2.299</Low>
+    <Close>2.502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-04</Date>
+    <Open>2.502</Open>
+    <High>2.788</High>
+    <Low>2.155</Low>
+    <Close>2.685</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-05</Date>
+    <Open>2.685</Open>
+    <High>2.899</High>
+    <Low>2.405</Low>
+    <Close>2.53</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-06</Date>
+    <Open>2.53</Open>
+    <High>2.62</High>
+    <Low>2.404</Low>
+    <Close>2.456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-07</Date>
+    <Open>2.456</Open>
+    <High>2.571</High>
+    <Low>2.122</Low>
+    <Close>2.151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-08</Date>
+    <Open>2.151</Open>
+    <High>2.378</High>
+    <Low>1.989</Low>
+    <Close>2.318</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-09</Date>
+    <Open>2.318</Open>
+    <High>2.579</High>
+    <Low>2.164</Low>
+    <Close>2.524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-10</Date>
+    <Open>2.524</Open>
+    <High>2.537</High>
+    <Low>2.212</Low>
+    <Close>2.265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-11</Date>
+    <Open>2.265</Open>
+    <High>2.308</High>
+    <Low>2.063</Low>
+    <Close>2.162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-12</Date>
+    <Open>2.162</Open>
+    <High>2.288</High>
+    <Low>2.006</Low>
+    <Close>2.085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-13</Date>
+    <Open>2.085</Open>
+    <High>2.269</High>
+    <Low>2.055</Low>
+    <Close>2.205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-14</Date>
+    <Open>2.205</Open>
+    <High>2.319</High>
+    <Low>2.151</Low>
+    <Close>2.274</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-15</Date>
+    <Open>2.274</Open>
+    <High>2.356</High>
+    <Low>2.193</Low>
+    <Close>2.238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-16</Date>
+    <Open>2.238</Open>
+    <High>2.253</High>
+    <Low>2.047</Low>
+    <Close>2.077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-17</Date>
+    <Open>2.077</Open>
+    <High>2.173</High>
+    <Low>2.01</Low>
+    <Close>2.095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-18</Date>
+    <Open>2.095</Open>
+    <High>2.138</High>
+    <Low>1.848</Low>
+    <Close>1.927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-19</Date>
+    <Open>1.927</Open>
+    <High>1.972</High>
+    <Low>1.856</Low>
+    <Close>1.856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-20</Date>
+    <Open>1.856</Open>
+    <High>1.96</High>
+    <Low>1.75</Low>
+    <Close>1.923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-21</Date>
+    <Open>1.923</Open>
+    <High>1.95</High>
+    <Low>1.421</Low>
+    <Close>1.448</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-22</Date>
+    <Open>1.448</Open>
+    <High>1.592</High>
+    <Low>1.219</Low>
+    <Close>1.401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-23</Date>
+    <Open>1.401</Open>
+    <High>1.578</High>
+    <Low>1.339</Low>
+    <Close>1.505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-24</Date>
+    <Open>1.505</Open>
+    <High>1.724</High>
+    <Low>1.441</Low>
+    <Close>1.68</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-25</Date>
+    <Open>1.68</Open>
+    <High>1.738</High>
+    <Low>1.431</Low>
+    <Close>1.441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-26</Date>
+    <Open>1.441</Open>
+    <High>1.515</High>
+    <Low>1.367</Low>
+    <Close>1.49</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-27</Date>
+    <Open>1.49</Open>
+    <High>1.6</High>
+    <Low>1.439</Low>
+    <Close>1.589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-28</Date>
+    <Open>1.589</Open>
+    <High>1.665</High>
+    <Low>1.553</Low>
+    <Close>1.617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-29</Date>
+    <Open>1.617</Open>
+    <High>1.861</High>
+    <Low>1.604</Low>
+    <Close>1.795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-06-30</Date>
+    <Open>1.795</Open>
+    <High>1.846</High>
+    <Low>1.676</Low>
+    <Close>1.815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-01</Date>
+    <Open>1.815</Open>
+    <High>1.853</High>
+    <Low>1.65</Low>
+    <Close>1.694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-02</Date>
+    <Open>1.694</Open>
+    <High>1.725</High>
+    <Low>1.569</Low>
+    <Close>1.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-03</Date>
+    <Open>1.66</Open>
+    <High>1.786</High>
+    <Low>1.632</Low>
+    <Close>1.757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-04</Date>
+    <Open>1.757</Open>
+    <High>1.903</High>
+    <Low>1.702</Low>
+    <Close>1.839</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-05</Date>
+    <Open>1.839</Open>
+    <High>1.847</High>
+    <Low>1.696</Low>
+    <Close>1.797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-06</Date>
+    <Open>1.797</Open>
+    <High>2.06</High>
+    <Low>1.794</Low>
+    <Close>1.966</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-07</Date>
+    <Open>1.966</Open>
+    <High>2.098</High>
+    <Low>1.931</Low>
+    <Close>1.939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-08</Date>
+    <Open>1.939</Open>
+    <High>1.948</High>
+    <Low>1.711</Low>
+    <Close>1.754</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-09</Date>
+    <Open>1.754</Open>
+    <High>1.793</High>
+    <Low>1.677</Low>
+    <Close>1.767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-10</Date>
+    <Open>1.767</Open>
+    <High>1.808</High>
+    <Low>1.66</Low>
+    <Close>1.749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-11</Date>
+    <Open>1.749</Open>
+    <High>1.779</High>
+    <Low>1.717</Low>
+    <Close>1.761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-12</Date>
+    <Open>1.761</Open>
+    <High>1.79</High>
+    <Low>1.641</Low>
+    <Close>1.679</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-13</Date>
+    <Open>1.679</Open>
+    <High>1.69</High>
+    <Low>1.567</Low>
+    <Close>1.605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-14</Date>
+    <Open>1.605</Open>
+    <High>1.631</High>
+    <Low>1.506</Low>
+    <Close>1.598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-15</Date>
+    <Open>1.598</Open>
+    <High>1.646</High>
+    <Low>1.487</Low>
+    <Close>1.505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-16</Date>
+    <Open>1.505</Open>
+    <High>1.544</High>
+    <Low>1.413</Low>
+    <Close>1.418</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-17</Date>
+    <Open>1.418</Open>
+    <High>1.464</High>
+    <Low>1.397</Low>
+    <Close>1.427</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-18</Date>
+    <Open>1.427</Open>
+    <High>1.51</High>
+    <Low>1.395</Low>
+    <Close>1.413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-19</Date>
+    <Open>1.413</Open>
+    <High>1.42</High>
+    <Low>1.324</Low>
+    <Close>1.342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-20</Date>
+    <Open>1.342</Open>
+    <High>1.37</High>
+    <Low>1.225</Low>
+    <Close>1.281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-21</Date>
+    <Open>1.281</Open>
+    <High>1.471</High>
+    <Low>1.245</Low>
+    <Close>1.446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-22</Date>
+    <Open>1.446</Open>
+    <High>1.548</High>
+    <Low>1.415</Low>
+    <Close>1.543</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-23</Date>
+    <Open>1.543</Open>
+    <High>1.616</High>
+    <Low>1.479</Low>
+    <Close>1.603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-24</Date>
+    <Open>1.603</Open>
+    <High>1.618</High>
+    <Low>1.516</Low>
+    <Close>1.548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-25</Date>
+    <Open>1.548</Open>
+    <High>1.559</High>
+    <Low>1.461</Low>
+    <Close>1.525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-26</Date>
+    <Open>1.525</Open>
+    <High>1.707</High>
+    <Low>1.517</Low>
+    <Close>1.531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-27</Date>
+    <Open>1.531</Open>
+    <High>1.585</High>
+    <Low>1.473</Low>
+    <Close>1.571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-28</Date>
+    <Open>1.571</Open>
+    <High>1.583</High>
+    <Low>1.496</Low>
+    <Close>1.542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-29</Date>
+    <Open>1.542</Open>
+    <High>1.632</High>
+    <Low>1.509</Low>
+    <Close>1.623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-30</Date>
+    <Open>1.623</Open>
+    <High>1.706</High>
+    <Low>1.527</Low>
+    <Close>1.698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-07-31</Date>
+    <Open>1.698</Open>
+    <High>1.759</High>
+    <Low>1.647</Low>
+    <Close>1.706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-01</Date>
+    <Open>1.706</Open>
+    <High>1.781</High>
+    <Low>1.649</Low>
+    <Close>1.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-02</Date>
+    <Open>1.66</Open>
+    <High>1.692</High>
+    <Low>1.607</Low>
+    <Close>1.626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-03</Date>
+    <Open>1.626</Open>
+    <High>1.638</High>
+    <Low>1.536</Low>
+    <Close>1.568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-04</Date>
+    <Open>1.568</Open>
+    <High>1.647</High>
+    <Low>1.532</Low>
+    <Close>1.624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-05</Date>
+    <Open>1.624</Open>
+    <High>1.824</High>
+    <Low>1.587</Low>
+    <Close>1.771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-06</Date>
+    <Open>1.771</Open>
+    <High>1.973</High>
+    <Low>1.696</Low>
+    <Close>1.922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-07</Date>
+    <Open>1.922</Open>
+    <High>1.979</High>
+    <Low>1.823</Low>
+    <Close>1.913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-08</Date>
+    <Open>1.913</Open>
+    <High>1.937</High>
+    <Low>1.722</Low>
+    <Close>1.757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-09</Date>
+    <Open>1.757</Open>
+    <High>1.907</High>
+    <Low>1.709</Low>
+    <Close>1.876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-10</Date>
+    <Open>1.876</Open>
+    <High>2.073</High>
+    <Low>1.832</Low>
+    <Close>2.066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-11</Date>
+    <Open>2.066</Open>
+    <High>2.192</High>
+    <Low>2.03</Low>
+    <Close>2.038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-12</Date>
+    <Open>2.056</Open>
+    <High>2.057</High>
+    <Low>1.927</Low>
+    <Close>2.031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-13</Date>
+    <Open>2.031</Open>
+    <High>2.376</High>
+    <Low>2.025</Low>
+    <Close>2.361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-14</Date>
+    <Open>2.361</Open>
+    <High>2.364</High>
+    <Low>2.161</Low>
+    <Close>2.263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-15</Date>
+    <Open>2.263</Open>
+    <High>2.292</High>
+    <Low>2.082</Low>
+    <Close>2.222</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-16</Date>
+    <Open>2.222</Open>
+    <High>2.287</High>
+    <Low>2.099</Low>
+    <Close>2.123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-17</Date>
+    <Open>2.123</Open>
+    <High>2.235</High>
+    <Low>1.908</Low>
+    <Close>1.922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-18</Date>
+    <Open>1.922</Open>
+    <High>2.015</High>
+    <Low>1.854</Low>
+    <Close>1.912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-19</Date>
+    <Open>1.912</Open>
+    <High>2.151</High>
+    <Low>1.871</Low>
+    <Close>2.151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-20</Date>
+    <Open>2.151</Open>
+    <High>2.342</High>
+    <Low>2.127</Low>
+    <Close>2.269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-21</Date>
+    <Open>2.269</Open>
+    <High>2.325</High>
+    <Low>2.154</Low>
+    <Close>2.223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-22</Date>
+    <Open>2.223</Open>
+    <High>2.468</High>
+    <Low>2.183</Low>
+    <Close>2.443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-23</Date>
+    <Open>2.443</Open>
+    <High>2.513</High>
+    <Low>2.28</Low>
+    <Close>2.366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-24</Date>
+    <Open>2.366</Open>
+    <High>2.387</High>
+    <Low>2.09</Low>
+    <Close>2.097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-25</Date>
+    <Open>2.097</Open>
+    <High>2.249</High>
+    <Low>2.093</Low>
+    <Close>2.198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-26</Date>
+    <Open>2.198</Open>
+    <High>2.239</High>
+    <Low>2.017</Low>
+    <Close>2.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-27</Date>
+    <Open>2.05</Open>
+    <High>2.195</High>
+    <Low>1.988</Low>
+    <Close>2.184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-28</Date>
+    <Open>2.184</Open>
+    <High>2.217</High>
+    <Low>2.081</Low>
+    <Close>2.096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-29</Date>
+    <Open>2.096</Open>
+    <High>2.168</High>
+    <Low>2.039</Low>
+    <Close>2.105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-30</Date>
+    <Open>2.105</Open>
+    <High>2.267</High>
+    <Low>2.024</Low>
+    <Close>2.097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-08-31</Date>
+    <Open>2.097</Open>
+    <High>2.384</High>
+    <Low>2.044</Low>
+    <Close>2.236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-01</Date>
+    <Open>2.236</Open>
+    <High>2.314</High>
+    <Low>2.161</Low>
+    <Close>2.308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-02</Date>
+    <Open>2.308</Open>
+    <High>2.308</High>
+    <Low>2.203</Low>
+    <Close>2.205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-03</Date>
+    <Open>2.205</Open>
+    <High>2.273</High>
+    <Low>2.167</Low>
+    <Close>2.206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-04</Date>
+    <Open>2.206</Open>
+    <High>2.336</High>
+    <Low>2.189</Low>
+    <Close>2.271</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-05</Date>
+    <Open>2.271</Open>
+    <High>2.544</High>
+    <Low>2.248</Low>
+    <Close>2.481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-06</Date>
+    <Open>2.481</Open>
+    <High>2.656</High>
+    <Low>2.41</Low>
+    <Close>2.487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-07</Date>
+    <Open>2.487</Open>
+    <High>2.5</High>
+    <Low>1.655</Low>
+    <Close>1.989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-08</Date>
+    <Open>1.989</Open>
+    <High>2.056</High>
+    <Low>1.823</Low>
+    <Close>1.981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-09</Date>
+    <Open>1.981</Open>
+    <High>2.429</High>
+    <Low>1.913</Low>
+    <Close>2.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-10</Date>
+    <Open>2.38</Open>
+    <High>2.474</High>
+    <Low>2.058</Low>
+    <Close>2.143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-11</Date>
+    <Open>2.143</Open>
+    <High>2.328</High>
+    <Low>2.123</Low>
+    <Close>2.269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-12</Date>
+    <Open>2.269</Open>
+    <High>2.432</High>
+    <Low>2.204</Low>
+    <Close>2.425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-13</Date>
+    <Open>2.425</Open>
+    <High>2.479</High>
+    <Low>2.049</Low>
+    <Close>2.36</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-14</Date>
+    <Open>2.36</Open>
+    <High>2.851</High>
+    <Low>2.358</Low>
+    <Close>2.795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-15</Date>
+    <Open>2.795</Open>
+    <High>3.207</High>
+    <Low>2.717</Low>
+    <Close>3.013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-16</Date>
+    <Open>3.013</Open>
+    <High>3.441</High>
+    <Low>2.924</Low>
+    <Close>3.108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-17</Date>
+    <Open>3.108</Open>
+    <High>3.232</High>
+    <Low>2.774</Low>
+    <Close>2.806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-18</Date>
+    <Open>2.806</Open>
+    <High>2.971</High>
+    <Low>2.699</Low>
+    <Close>2.885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-19</Date>
+    <Open>2.885</Open>
+    <High>3.093</High>
+    <Low>2.68</Low>
+    <Close>3.043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-20</Date>
+    <Open>3.043</Open>
+    <High>3.14</High>
+    <Low>2.353</Low>
+    <Close>2.408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-21</Date>
+    <Open>2.408</Open>
+    <High>2.663</High>
+    <Low>2.149</Low>
+    <Close>2.195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-22</Date>
+    <Open>2.195</Open>
+    <High>2.52</High>
+    <Low>2.15</Low>
+    <Close>2.45</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-23</Date>
+    <Open>2.45</Open>
+    <High>2.838</High>
+    <Low>2.359</Low>
+    <Close>2.79</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-24</Date>
+    <Open>2.79</Open>
+    <High>2.795</High>
+    <Low>2.254</Low>
+    <Close>2.428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-25</Date>
+    <Open>2.428</Open>
+    <High>2.481</High>
+    <Low>2.274</Low>
+    <Close>2.312</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-26</Date>
+    <Open>2.312</Open>
+    <High>2.618</High>
+    <Low>2.07</Low>
+    <Close>2.548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-27</Date>
+    <Open>2.548</Open>
+    <High>2.748</High>
+    <Low>2.359</Low>
+    <Close>2.369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-28</Date>
+    <Open>2.369</Open>
+    <High>2.415</High>
+    <Low>2.221</Low>
+    <Close>2.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-29</Date>
+    <Open>2.23</Open>
+    <High>2.4</High>
+    <Low>2.213</Low>
+    <Close>2.289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-09-30</Date>
+    <Open>2.289</Open>
+    <High>2.399</High>
+    <Low>2.255</Low>
+    <Close>2.335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-01</Date>
+    <Open>2.335</Open>
+    <High>2.557</High>
+    <Low>2.288</Low>
+    <Close>2.535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-02</Date>
+    <Open>2.535</Open>
+    <High>2.651</High>
+    <Low>2.457</Low>
+    <Close>2.535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-03</Date>
+    <Open>2.535</Open>
+    <High>2.963</High>
+    <Low>2.488</Low>
+    <Close>2.818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-04</Date>
+    <Open>2.818</Open>
+    <High>2.902</High>
+    <Low>2.644</Low>
+    <Close>2.881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-05</Date>
+    <Open>2.881</Open>
+    <High>3.035</High>
+    <Low>2.766</Low>
+    <Close>2.939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-06</Date>
+    <Open>2.939</Open>
+    <High>2.942</High>
+    <Low>2.631</Low>
+    <Close>2.738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-07</Date>
+    <Open>2.738</Open>
+    <High>2.9</High>
+    <Low>2.658</Low>
+    <Close>2.811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-08</Date>
+    <Open>2.811</Open>
+    <High>2.96</High>
+    <Low>2.75</Low>
+    <Close>2.954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-09</Date>
+    <Open>2.954</Open>
+    <High>3.093</High>
+    <Low>2.869</Low>
+    <Close>2.907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-10</Date>
+    <Open>2.907</Open>
+    <High>2.91</High>
+    <Low>2.682</Low>
+    <Close>2.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-11</Date>
+    <Open>2.7</Open>
+    <High>2.811</High>
+    <Low>2.643</Low>
+    <Close>2.696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-12</Date>
+    <Open>2.696</Open>
+    <High>2.704</High>
+    <Low>2.521</Low>
+    <Close>2.688</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-13</Date>
+    <Open>2.688</Open>
+    <High>2.999</High>
+    <Low>2.648</Low>
+    <Close>2.961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-14</Date>
+    <Open>2.961</Open>
+    <High>3.149</High>
+    <Low>2.859</Low>
+    <Close>2.889</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-15</Date>
+    <Open>2.889</Open>
+    <High>3.015</High>
+    <Low>2.814</Low>
+    <Close>2.899</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-16</Date>
+    <Open>2.899</Open>
+    <High>3.079</High>
+    <Low>2.885</Low>
+    <Close>2.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-17</Date>
+    <Open>2.91</Open>
+    <High>2.918</High>
+    <Low>2.739</Low>
+    <Close>2.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-18</Date>
+    <Open>2.87</Open>
+    <High>2.874</High>
+    <Low>2.727</Low>
+    <Close>2.795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-19</Date>
+    <Open>2.795</Open>
+    <High>2.847</High>
+    <Low>2.683</Low>
+    <Close>2.792</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-20</Date>
+    <Open>2.792</Open>
+    <High>2.968</High>
+    <Low>2.79</Low>
+    <Close>2.937</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-21</Date>
+    <Open>2.937</Open>
+    <High>3.055</High>
+    <Low>2.843</Low>
+    <Close>2.858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-22</Date>
+    <Open>2.858</Open>
+    <High>3.371</High>
+    <Low>2.857</Low>
+    <Close>3.331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-23</Date>
+    <Open>3.331</Open>
+    <High>3.788</High>
+    <Low>3.185</Low>
+    <Close>3.694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-24</Date>
+    <Open>3.694</Open>
+    <High>3.946</High>
+    <Low>3.457</Low>
+    <Close>3.503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-25</Date>
+    <Open>3.503</Open>
+    <High>4.828</High>
+    <Low>3.486</Low>
+    <Close>4.795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-26</Date>
+    <Open>4.795</Open>
+    <High>5.199</High>
+    <Low>4.522</Low>
+    <Close>4.632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-27</Date>
+    <Open>4.632</Open>
+    <High>4.716</High>
+    <Low>4.076</Low>
+    <Close>4.442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-28</Date>
+    <Open>4.442</Open>
+    <High>5.497</High>
+    <Low>4.438</Low>
+    <Close>4.776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-29</Date>
+    <Open>4.776</Open>
+    <High>5.006</High>
+    <Low>4.56</Low>
+    <Close>4.665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-30</Date>
+    <Open>4.665</Open>
+    <High>5.287</High>
+    <Low>4.562</Low>
+    <Close>4.734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-10-31</Date>
+    <Open>4.734</Open>
+    <High>4.745</High>
+    <Low>4.306</Low>
+    <Close>4.424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-01</Date>
+    <Open>4.424</Open>
+    <High>4.533</High>
+    <Low>4.192</Low>
+    <Close>4.506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-02</Date>
+    <Open>4.506</Open>
+    <High>4.634</High>
+    <Low>4.226</Low>
+    <Close>4.287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-03</Date>
+    <Open>4.287</Open>
+    <High>4.603</High>
+    <Low>4.085</Low>
+    <Close>4.375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-04</Date>
+    <Open>4.375</Open>
+    <High>4.537</High>
+    <Low>4.062</Low>
+    <Close>4.163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-05</Date>
+    <Open>4.163</Open>
+    <High>4.222</High>
+    <Low>4.029</Low>
+    <Close>4.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-06</Date>
+    <Open>4.08</Open>
+    <High>4.295</High>
+    <Low>3.889</Low>
+    <Close>4.111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-07</Date>
+    <Open>4.111</Open>
+    <High>4.743</High>
+    <Low>4.086</Low>
+    <Close>4.498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-08</Date>
+    <Open>4.498</Open>
+    <High>4.674</High>
+    <Low>4.301</Low>
+    <Close>4.635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-09</Date>
+    <Open>4.635</Open>
+    <High>4.995</High>
+    <Low>4.434</Low>
+    <Close>4.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-10</Date>
+    <Open>4.52</Open>
+    <High>4.596</High>
+    <Low>3.724</Low>
+    <Close>4.08</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-11</Date>
+    <Open>4.08</Open>
+    <High>4.423</High>
+    <Low>4.045</Low>
+    <Close>4.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-12</Date>
+    <Open>4.17</Open>
+    <High>4.29</High>
+    <Low>3.885</Low>
+    <Close>4.029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-13</Date>
+    <Open>4.029</Open>
+    <High>4.38</High>
+    <Low>4.029</Low>
+    <Close>4.224</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-14</Date>
+    <Open>4.224</Open>
+    <High>4.371</High>
+    <Low>4.035</Low>
+    <Close>4.129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-15</Date>
+    <Open>4.129</Open>
+    <High>4.159</High>
+    <Low>3.902</Low>
+    <Close>3.936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-16</Date>
+    <Open>3.936</Open>
+    <High>3.938</High>
+    <Low>3.343</Low>
+    <Close>3.709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-17</Date>
+    <Open>3.709</Open>
+    <High>4.06</High>
+    <Low>3.689</Low>
+    <Close>4.037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-18</Date>
+    <Open>4.037</Open>
+    <High>4.245</High>
+    <Low>3.585</Low>
+    <Close>4.139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-19</Date>
+    <Open>4.139</Open>
+    <High>4.295</High>
+    <Low>3.883</Low>
+    <Close>3.974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-20</Date>
+    <Open>3.974</Open>
+    <High>4.182</High>
+    <Low>3.85</Low>
+    <Close>3.945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-21</Date>
+    <Open>3.945</Open>
+    <High>3.947</High>
+    <Low>3.747</Low>
+    <Close>3.802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-22</Date>
+    <Open>3.802</Open>
+    <High>4.536</High>
+    <Low>3.717</Low>
+    <Close>4.261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-23</Date>
+    <Open>4.261</Open>
+    <High>5.09</High>
+    <Low>4.112</Low>
+    <Close>5.056</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-24</Date>
+    <Open>5.056</Open>
+    <High>6.1729</High>
+    <Low>4.533</Low>
+    <Close>6.0511</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-25</Date>
+    <Open>6.0409</Open>
+    <High>6.4008</High>
+    <Low>5.5134</Low>
+    <Close>5.7923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-26</Date>
+    <Open>5.7999</Open>
+    <High>6.1097</High>
+    <Low>4.7377</Low>
+    <Close>5.1275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-27</Date>
+    <Open>5.133</Open>
+    <High>5.367</High>
+    <Low>4.6751</Low>
+    <Close>4.8519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-28</Date>
+    <Open>4.8544</Open>
+    <High>4.8935</High>
+    <Low>4.2203</Low>
+    <Close>4.7535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-29</Date>
+    <Open>4.7464</Open>
+    <High>5.0434</High>
+    <Low>4.6063</Low>
+    <Close>4.8167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-11-30</Date>
+    <Open>4.8056</Open>
+    <High>5.0099</High>
+    <Low>4.5214</Low>
+    <Close>4.883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-01</Date>
+    <Open>4.8773</Open>
+    <High>5.4792</High>
+    <Low>4.8079</Low>
+    <Close>4.9351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-02</Date>
+    <Open>4.9311</Open>
+    <High>4.9985</High>
+    <Low>4.6474</Low>
+    <Close>4.7848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-03</Date>
+    <Open>4.7817</Open>
+    <High>4.8213</High>
+    <Low>4.014</Low>
+    <Close>4.3361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-04</Date>
+    <Open>4.3342</Open>
+    <High>4.4287</High>
+    <Low>3.0932</Low>
+    <Close>3.7981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-05</Date>
+    <Open>3.8038</Open>
+    <High>3.967</High>
+    <Low>3.341</Low>
+    <Close>3.5205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-06</Date>
+    <Open>3.5243</Open>
+    <High>3.8515</High>
+    <Low>3.2113</Low>
+    <Close>3.7708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-07</Date>
+    <Open>3.7679</Open>
+    <High>4.1472</High>
+    <Low>3.6731</Low>
+    <Close>3.9921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-08</Date>
+    <Open>4.0</Open>
+    <High>4.22</High>
+    <Low>3.7905</Low>
+    <Close>4.0716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-09</Date>
+    <Open>4.088</Open>
+    <High>4.2714</High>
+    <Low>3.607</Low>
+    <Close>3.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-10</Date>
+    <Open>3.7</Open>
+    <High>3.79</High>
+    <Low>3.38</Low>
+    <Close>3.43</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-11</Date>
+    <Open>3.42</Open>
+    <High>3.72</High>
+    <Low>3.29</Low>
+    <Close>3.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-12</Date>
+    <Open>3.67</Open>
+    <High>3.89</High>
+    <Low>3.58</Low>
+    <Close>3.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-13</Date>
+    <Open>3.86</Open>
+    <High>3.91</High>
+    <Low>3.26</Low>
+    <Close>3.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-14</Date>
+    <Open>3.38</Open>
+    <High>3.47</High>
+    <Low>3.23</Low>
+    <Close>3.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-15</Date>
+    <Open>3.4</Open>
+    <High>3.8079</High>
+    <Low>3.23194</Low>
+    <Close>3.68521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-16</Date>
+    <Open>3.68821</Open>
+    <High>4.08923</High>
+    <Low>3.67484</Low>
+    <Close>3.96919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-17</Date>
+    <Open>3.96819</Open>
+    <High>4.46334</High>
+    <Low>3.70811</Low>
+    <Close>4.30672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-18</Date>
+    <Open>4.30472</Open>
+    <High>4.61284</High>
+    <Low>4.10564</Low>
+    <Close>4.48879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-19</Date>
+    <Open>4.4908</Open>
+    <High>4.6023</High>
+    <Low>4.11506</Low>
+    <Close>4.2437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-20</Date>
+    <Open>4.24012</Open>
+    <High>4.30172</High>
+    <Low>3.78776</Low>
+    <Close>4.09823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-21</Date>
+    <Open>4.09564</Open>
+    <High>4.63385</High>
+    <Low>4.03661</Low>
+    <Close>4.61384</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-22</Date>
+    <Open>4.61284</Open>
+    <High>5.28559</High>
+    <Low>4.59484</Low>
+    <Close>5.1936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-23</Date>
+    <Open>5.19308</Open>
+    <High>5.43363</High>
+    <Low>4.90898</Low>
+    <Close>5.13205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-24</Date>
+    <Open>5.13505</Open>
+    <High>5.61681</High>
+    <Low>5.03452</Low>
+    <Close>5.15009</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-25</Date>
+    <Open>5.15309</Open>
+    <High>5.87294</High>
+    <Low>5.07053</Low>
+    <Close>5.82933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-26</Date>
+    <Open>5.82933</Open>
+    <High>6.07504</High>
+    <Low>5.63582</Low>
+    <Close>5.77088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-27</Date>
+    <Open>5.77088</Open>
+    <High>5.8029</High>
+    <Low>5.28659</Low>
+    <Close>5.36561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-28</Date>
+    <Open>5.36561</Open>
+    <High>5.37161</High>
+    <Low>4.65047</Low>
+    <Close>4.79748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-29</Date>
+    <Open>4.79696</Open>
+    <High>5.20052</High>
+    <Low>4.70894</Low>
+    <Close>4.87297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-30</Date>
+    <Open>4.87197</Open>
+    <High>5.28006</High>
+    <Low>4.65893</Low>
+    <Close>5.08602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2021-12-31</Date>
+    <Open>5.09102</Open>
+    <High>5.71857</High>
+    <Low>5.0065</Low>
+    <Close>5.44154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-01</Date>
+    <Open>5.43954</Open>
+    <High>6.297</High>
+    <Low>5.31506</Low>
+    <Close>6.18324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-02</Date>
+    <Open>6.18424</Open>
+    <High>6.45029</High>
+    <Low>5.91218</Low>
+    <Close>6.02721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-03</Date>
+    <Open>6.02721</Open>
+    <High>6.72567</High>
+    <Low>5.734</Low>
+    <Close>6.31763</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-04</Date>
+    <Open>6.31963</Open>
+    <High>6.80068</High>
+    <Low>6.06479</Low>
+    <Close>6.20538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-05</Date>
+    <Open>6.20538</Open>
+    <High>6.429</High>
+    <Low>4.9995</Low>
+    <Close>5.34447</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-06</Date>
+    <Open>5.34247</Open>
+    <High>5.52745</High>
+    <Low>5.07249</Low>
+    <Close>5.41646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-07</Date>
+    <Open>5.41846</Open>
+    <High>5.44491</High>
+    <Low>4.73405</Low>
+    <Close>4.988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-08</Date>
+    <Open>4.9795</Open>
+    <High>5.26547</High>
+    <Low>4.37356</Low>
+    <Close>4.687</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-09</Date>
+    <Open>4.687</Open>
+    <High>4.871</High>
+    <Low>4.516</Low>
+    <Close>4.656</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-10</Date>
+    <Open>4.659</Open>
+    <High>4.678</High>
+    <Low>4.017</Low>
+    <Close>4.311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-11</Date>
+    <Open>4.307</Open>
+    <High>4.67547</High>
+    <Low>4.256</Low>
+    <Close>4.57846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-12</Date>
+    <Open>4.57846</Open>
+    <High>5.01801</High>
+    <Low>4.57146</Low>
+    <Close>4.87395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-13</Date>
+    <Open>4.87395</Open>
+    <High>5.19008</High>
+    <Low>4.75938</Low>
+    <Close>4.997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-14</Date>
+    <Open>4.993</Open>
+    <High>5.37615</High>
+    <Low>4.65533</Low>
+    <Close>5.3506</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-15</Date>
+    <Open>5.35261</Open>
+    <High>5.47974</High>
+    <Low>5.2511</Low>
+    <Close>5.32266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-16</Date>
+    <Open>5.32166</Open>
+    <High>5.37168</High>
+    <Low>5.06553</Low>
+    <Close>5.17007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-17</Date>
+    <Open>5.17307</Open>
+    <High>5.17907</High>
+    <Low>4.60838</Low>
+    <Close>4.7399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-18</Date>
+    <Open>4.7399</Open>
+    <High>4.85094</High>
+    <Low>4.40176</Low>
+    <Close>4.61238</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-19</Date>
+    <Open>4.60938</Open>
+    <High>4.63585</High>
+    <Low>4.20384</Low>
+    <Close>4.26028</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-20</Date>
+    <Open>4.26128</Open>
+    <High>4.55791</High>
+    <Low>4.07481</Low>
+    <Close>4.10282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-21</Date>
+    <Open>4.10182</Open>
+    <High>4.10441</High>
+    <Low>3.21596</Low>
+    <Close>3.29299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-22</Date>
+    <Open>3.30066</Open>
+    <High>3.45404</High>
+    <Low>2.56951</Low>
+    <Close>2.83785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-23</Date>
+    <Open>2.83585</Open>
+    <High>3.14894</High>
+    <Low>2.82285</Low>
+    <Close>2.88458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-24</Date>
+    <Open>2.89058</Open>
+    <High>3.05561</High>
+    <Low>2.36447</Low>
+    <Close>2.80884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-25</Date>
+    <Open>2.80884</Open>
+    <High>3.12056</High>
+    <Low>2.70481</Low>
+    <Close>3.02451</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-26</Date>
+    <Open>3.02551</Open>
+    <High>3.29197</High>
+    <Low>2.8114</Low>
+    <Close>2.85943</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-27</Date>
+    <Open>2.85771</Open>
+    <High>2.93817</High>
+    <Low>2.65433</Low>
+    <Close>2.72336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-28</Date>
+    <Open>2.72736</Open>
+    <High>2.95189</High>
+    <Low>2.69581</Low>
+    <Close>2.89387</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-29</Date>
+    <Open>2.89358</Open>
+    <High>3.08392</High>
+    <Low>2.88487</Low>
+    <Close>3.0139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-30</Date>
+    <Open>3.0149</Open>
+    <High>3.22397</High>
+    <Low>2.92759</Low>
+    <Close>3.09093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-01-31</Date>
+    <Open>3.09024</Open>
+    <High>3.30998</High>
+    <Low>2.94818</Low>
+    <Close>3.30665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-01</Date>
+    <Open>3.30465</Open>
+    <High>3.50275</High>
+    <Low>3.24995</Low>
+    <Close>3.45607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-02</Date>
+    <Open>3.45507</Open>
+    <High>3.5071</High>
+    <Low>3.07153</Low>
+    <Close>3.11849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-03</Date>
+    <Open>3.12181</Open>
+    <High>3.14157</High>
+    <Low>2.98619</Low>
+    <Close>3.07254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-04</Date>
+    <Open>3.07254</Open>
+    <High>3.40138</High>
+    <Low>3.05722</Low>
+    <Close>3.39471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-05</Date>
+    <Open>3.39371</Open>
+    <High>3.5725</High>
+    <Low>3.38137</Low>
+    <Close>3.46808</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-06</Date>
+    <Open>3.46908</Open>
+    <High>3.53677</High>
+    <Low>3.27196</Low>
+    <Close>3.29532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-07</Date>
+    <Open>3.29532</Open>
+    <High>3.64091</High>
+    <Low>3.29064</Low>
+    <Close>3.60952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-08</Date>
+    <Open>3.61253</Open>
+    <High>3.72561</High>
+    <Low>3.29931</Low>
+    <Close>3.42208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-09</Date>
+    <Open>3.42508</Open>
+    <High>3.55019</High>
+    <Low>3.34367</Low>
+    <Close>3.52187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-10</Date>
+    <Open>3.52152</Open>
+    <High>3.52287</High>
+    <Low>3.19687</Low>
+    <Close>3.26428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-11</Date>
+    <Open>3.26228</Open>
+    <High>3.26829</High>
+    <Low>2.82613</Low>
+    <Close>2.83785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-12</Date>
+    <Open>2.83685</Open>
+    <High>3.01781</High>
+    <Low>2.7934</Low>
+    <Close>2.88344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-13</Date>
+    <Open>2.88244</Open>
+    <High>2.92646</High>
+    <Low>2.72363</Low>
+    <Close>2.78567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-14</Date>
+    <Open>2.77967</Open>
+    <High>2.90574</High>
+    <Low>2.65359</Low>
+    <Close>2.87244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-15</Date>
+    <Open>2.87272</Open>
+    <High>3.14789</High>
+    <Low>2.86272</Low>
+    <Close>3.11987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-16</Date>
+    <Open>3.11818</Open>
+    <High>3.27329</High>
+    <Low>3.05583</Low>
+    <Close>3.19692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-17</Date>
+    <Open>3.1956</Open>
+    <High>3.30098</High>
+    <Low>2.89173</Low>
+    <Close>2.94606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-18</Date>
+    <Open>2.94606</Open>
+    <High>2.9991</High>
+    <Low>2.79596</Low>
+    <Close>2.80868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-19</Date>
+    <Open>2.80868</Open>
+    <High>2.87172</High>
+    <Low>2.71236</Low>
+    <Close>2.78139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-20</Date>
+    <Open>2.78139</Open>
+    <High>2.80968</High>
+    <Low>2.51401</Low>
+    <Close>2.5953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-21</Date>
+    <Open>2.5953</Open>
+    <High>2.69235</High>
+    <Low>2.40096</Low>
+    <Close>2.41797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-22</Date>
+    <Open>2.41321</Open>
+    <High>2.42973</High>
+    <Low>2.22489</Low>
+    <Close>2.34817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-23</Date>
+    <Open>2.35017</Open>
+    <High>2.51751</High>
+    <Low>2.29915</Low>
+    <Close>2.3394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-24</Date>
+    <Open>2.3404</Open>
+    <High>2.3414</High>
+    <Low>1.89195</Low>
+    <Close>2.16787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-25</Date>
+    <Open>2.16387</Open>
+    <High>2.4032</High>
+    <Low>2.15886</Low>
+    <Close>2.4022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-26</Date>
+    <Open>2.4002</Open>
+    <High>2.45122</High>
+    <Low>2.31593</Low>
+    <Close>2.41221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-27</Date>
+    <Open>2.41196</Open>
+    <High>2.41221</High>
+    <Low>2.15708</Low>
+    <Close>2.2071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-02-28</Date>
+    <Open>2.20788</Open>
+    <High>2.43622</High>
+    <Low>2.12985</Low>
+    <Close>2.39796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-01</Date>
+    <Open>2.40096</Open>
+    <High>2.60104</High>
+    <Low>2.40096</Low>
+    <Close>2.52276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-02</Date>
+    <Open>2.5215</Open>
+    <High>2.75383</High>
+    <Low>2.46349</Low>
+    <Close>2.65753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-03</Date>
+    <Open>2.6578</Open>
+    <High>2.67153</High>
+    <Low>2.44449</Low>
+    <Close>2.5035</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-04</Date>
+    <Open>2.50575</Open>
+    <High>2.52076</High>
+    <Low>2.22144</Low>
+    <Close>2.25568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-05</Date>
+    <Open>2.25368</Open>
+    <High>2.28246</High>
+    <Low>2.18644</Low>
+    <Close>2.25345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-06</Date>
+    <Open>2.25368</Open>
+    <High>2.26768</High>
+    <Low>2.08062</Low>
+    <Close>2.11363</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-07</Date>
+    <Open>2.11263</Open>
+    <High>2.13543</High>
+    <Low>1.92639</Low>
+    <Close>1.9986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-08</Date>
+    <Open>1.9996</Open>
+    <High>2.12242</High>
+    <Low>1.96959</Low>
+    <Close>2.0104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-09</Date>
+    <Open>2.0094</Open>
+    <High>2.21344</High>
+    <Low>1.9994</Low>
+    <Close>2.14043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-10</Date>
+    <Open>2.14243</Open>
+    <High>2.16443</High>
+    <Low>1.95659</Low>
+    <Close>2.02581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-11</Date>
+    <Open>2.03061</Open>
+    <High>2.10584</High>
+    <Low>1.94378</Low>
+    <Close>1.9864</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-12</Date>
+    <Open>1.9864</Open>
+    <High>2.06041</High>
+    <Low>1.9662</Low>
+    <Close>1.9992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-13</Date>
+    <Open>1.9996</Open>
+    <High>2.03341</High>
+    <Low>1.89538</Low>
+    <Close>1.90857</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-14</Date>
+    <Open>1.90738</Open>
+    <High>2.0004</High>
+    <Low>1.89438</Low>
+    <Close>1.93539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-15</Date>
+    <Open>1.93619</Open>
+    <High>2.0026</High>
+    <Low>1.87037</Low>
+    <Close>1.96259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-16</Date>
+    <Open>1.96359</Open>
+    <High>2.06741</High>
+    <Low>1.91338</Low>
+    <Close>2.05762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-17</Date>
+    <Open>2.05662</Open>
+    <High>2.18265</High>
+    <Low>2.03641</Low>
+    <Close>2.13407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-18</Date>
+    <Open>2.13485</Open>
+    <High>2.25435</High>
+    <Low>2.07904</Low>
+    <Close>2.22011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-19</Date>
+    <Open>2.22011</Open>
+    <High>2.3274</High>
+    <Low>2.22011</Low>
+    <Close>2.26313</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-20</Date>
+    <Open>2.26413</Open>
+    <High>2.30292</High>
+    <Low>2.11985</Low>
+    <Close>2.16587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-21</Date>
+    <Open>2.16487</Open>
+    <High>2.24012</High>
+    <Low>2.10484</Low>
+    <Close>2.2091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-22</Date>
+    <Open>2.20788</Open>
+    <High>2.32693</High>
+    <Low>2.17809</Low>
+    <Close>2.27214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-23</Date>
+    <Open>2.27314</Open>
+    <High>2.3952</High>
+    <Low>2.23612</Low>
+    <Close>2.36795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-24</Date>
+    <Open>2.36818</Open>
+    <High>2.43797</High>
+    <Low>2.33193</Low>
+    <Close>2.37895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-25</Date>
+    <Open>2.37819</Open>
+    <High>2.43546</High>
+    <Low>2.26113</Low>
+    <Close>2.28291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-26</Date>
+    <Open>2.28214</Open>
+    <High>2.4102</High>
+    <Low>2.26891</Low>
+    <Close>2.38595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-27</Date>
+    <Open>2.38595</Open>
+    <High>2.65706</High>
+    <Low>2.38595</Low>
+    <Close>2.62505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-28</Date>
+    <Open>2.62579</Open>
+    <High>2.73009</High>
+    <Low>2.58377</Low>
+    <Close>2.67507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-29</Date>
+    <Open>2.67234</Open>
+    <High>2.89245</High>
+    <Low>2.54476</Low>
+    <Close>2.78339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-30</Date>
+    <Open>2.78139</Open>
+    <High>2.90987</High>
+    <Low>2.68634</Low>
+    <Close>2.84885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-03-31</Date>
+    <Open>2.84885</Open>
+    <High>2.94259</High>
+    <Low>2.62152</Low>
+    <Close>2.66453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-01</Date>
+    <Open>2.6648</Open>
+    <High>2.83914</High>
+    <Low>2.55677</Low>
+    <Close>2.79112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-02</Date>
+    <Open>2.79056</Open>
+    <High>2.95989</High>
+    <Low>2.78011</Low>
+    <Close>2.89316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-03</Date>
+    <Open>2.89616</Open>
+    <High>3.05422</High>
+    <Low>2.82685</Low>
+    <Close>2.95718</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-04</Date>
+    <Open>2.95789</Open>
+    <High>3.01921</High>
+    <Low>2.74382</Low>
+    <Close>2.89958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-05</Date>
+    <Open>2.90387</Open>
+    <High>2.96589</High>
+    <Low>2.80028</Low>
+    <Close>2.86057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-06</Date>
+    <Open>2.86157</Open>
+    <High>2.86257</High>
+    <Low>2.522</Low>
+    <Close>2.566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-07</Date>
+    <Open>2.567</Open>
+    <High>2.57626</High>
+    <Low>2.43524</Low>
+    <Close>2.51825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-08</Date>
+    <Open>2.51725</Open>
+    <High>2.58352</High>
+    <Low>2.36871</Low>
+    <Close>2.38195</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-09</Date>
+    <Open>2.37995</Open>
+    <High>2.4895</High>
+    <Low>2.30969</Low>
+    <Close>2.45474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-10</Date>
+    <Open>2.45474</Open>
+    <High>2.52376</High>
+    <Low>2.42073</Low>
+    <Close>2.46749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-11</Date>
+    <Open>2.46849</Open>
+    <High>2.4815</High>
+    <Low>2.14443</Low>
+    <Close>2.15265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-12</Date>
+    <Open>2.15064</Open>
+    <High>2.28346</High>
+    <Low>2.13864</Low>
+    <Close>2.20066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-13</Date>
+    <Open>2.20066</Open>
+    <High>2.29492</High>
+    <Low>2.17765</Low>
+    <Close>2.26668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-14</Date>
+    <Open>2.26668</Open>
+    <High>2.3277</High>
+    <Low>2.20144</Low>
+    <Close>2.23322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-15</Date>
+    <Open>2.23222</Open>
+    <High>2.27123</High>
+    <Low>2.18622</Low>
+    <Close>2.22244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-16</Date>
+    <Open>2.22244</Open>
+    <High>2.24745</High>
+    <Low>2.19022</Low>
+    <Close>2.23345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-17</Date>
+    <Open>2.23522</Open>
+    <High>2.34823</High>
+    <Low>2.21822</Low>
+    <Close>2.28946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-18</Date>
+    <Open>2.28846</Open>
+    <High>2.30246</High>
+    <Low>2.05221</Low>
+    <Close>2.18265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-19</Date>
+    <Open>2.18165</Open>
+    <High>2.34547</High>
+    <Low>2.15743</Low>
+    <Close>2.29446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-20</Date>
+    <Open>2.29546</Open>
+    <High>2.41648</High>
+    <Low>2.26645</Low>
+    <Close>2.31846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-21</Date>
+    <Open>2.31846</Open>
+    <High>2.40848</High>
+    <Low>2.22545</Low>
+    <Close>2.22645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-22</Date>
+    <Open>2.22522</Open>
+    <High>2.59252</High>
+    <Low>2.18422</Low>
+    <Close>2.53225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-23</Date>
+    <Open>2.53151</Open>
+    <High>2.72955</High>
+    <Low>2.46349</Low>
+    <Close>2.68727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-24</Date>
+    <Open>2.68754</Open>
+    <High>2.77956</High>
+    <Low>2.59552</Low>
+    <Close>2.70954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-25</Date>
+    <Open>2.70754</Open>
+    <High>2.77355</High>
+    <Low>2.4875</Low>
+    <Close>2.73755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-26</Date>
+    <Open>2.73455</Open>
+    <High>2.77728</High>
+    <Low>2.425</Low>
+    <Close>2.42624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-27</Date>
+    <Open>2.42524</Open>
+    <High>2.545</High>
+    <Low>2.355</Low>
+    <Close>2.484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-28</Date>
+    <Open>2.48525</Open>
+    <High>2.55526</High>
+    <Low>2.38724</Low>
+    <Close>2.407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-29</Date>
+    <Open>2.40724</Open>
+    <High>2.42824</High>
+    <Low>2.201</Low>
+    <Close>2.22922</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-04-30</Date>
+    <Open>2.22922</Open>
+    <High>2.25022</High>
+    <Low>2.15021</Low>
+    <Close>2.17122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-01</Date>
+    <Open>2.16922</Open>
+    <High>2.16922</High>
+    <Low>1.949</Low>
+    <Close>2.023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-02</Date>
+    <Open>2.0212</Open>
+    <High>2.12421</High>
+    <Low>1.99</Low>
+    <Close>2.108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-03</Date>
+    <Open>2.10921</Open>
+    <High>2.21678</High>
+    <Low>2.0372</Low>
+    <Close>2.16278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-04</Date>
+    <Open>2.16278</Open>
+    <High>2.64474</High>
+    <Low>2.13979</Low>
+    <Close>2.631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-05</Date>
+    <Open>2.635</Open>
+    <High>2.66447</High>
+    <Low>2.27055</Low>
+    <Close>2.40552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-06</Date>
+    <Open>2.40652</Open>
+    <High>2.5165</High>
+    <Low>2.18878</Low>
+    <Close>2.29777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-07</Date>
+    <Open>2.30077</Open>
+    <High>2.36976</High>
+    <Low>2.22655</Low>
+    <Close>2.22855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-08</Date>
+    <Open>2.22678</Open>
+    <High>2.45726</High>
+    <Low>2.17391</Low>
+    <Close>2.42727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-09</Date>
+    <Open>2.42627</Open>
+    <High>2.43127</High>
+    <Low>1.97241</Low>
+    <Close>1.9896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-10</Date>
+    <Open>1.9936</Open>
+    <High>2.15135</High>
+    <Low>1.86044</Low>
+    <Close>1.90424</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-11</Date>
+    <Open>1.90324</Open>
+    <High>2.02719</High>
+    <Low>1.37661</Low>
+    <Close>1.47253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-12</Date>
+    <Open>1.47652</Open>
+    <High>1.58432</High>
+    <Low>1.04313</Low>
+    <Close>1.25348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-13</Date>
+    <Open>1.2546</Open>
+    <High>1.59544</High>
+    <Low>1.23578</Low>
+    <Close>1.37865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-14</Date>
+    <Open>1.37965</Open>
+    <High>1.39349</High>
+    <Low>1.2475</Low>
+    <Close>1.35111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-15</Date>
+    <Open>1.35111</Open>
+    <High>1.47922</High>
+    <Low>1.34012</Low>
+    <Close>1.47723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-16</Date>
+    <Open>1.47523</Open>
+    <High>1.51533</High>
+    <Low>1.31429</Low>
+    <Close>1.39219</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-17</Date>
+    <Open>1.39518</Open>
+    <High>1.46224</High>
+    <Low>1.29332</Low>
+    <Close>1.38919</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-18</Date>
+    <Open>1.38919</Open>
+    <High>1.41929</High>
+    <Low>1.20343</Low>
+    <Close>1.25137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-19</Date>
+    <Open>1.25237</Open>
+    <High>1.27086</High>
+    <Low>0.99391</Low>
+    <Close>1.12088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-20</Date>
+    <Open>1.12288</Open>
+    <High>1.18205</High>
+    <Low>1.04795</Low>
+    <Close>1.12665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-21</Date>
+    <Open>1.12765</Open>
+    <High>1.23939</High>
+    <Low>1.09868</Low>
+    <Close>1.18745</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-22</Date>
+    <Open>1.18745</Open>
+    <High>1.26336</High>
+    <Low>1.18745</Low>
+    <Close>1.23651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-23</Date>
+    <Open>1.23452</Open>
+    <High>1.41758</High>
+    <Low>1.23452</Low>
+    <Close>1.31941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-24</Date>
+    <Open>1.31842</Open>
+    <High>1.31842</High>
+    <Low>1.1847</Low>
+    <Close>1.24838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-25</Date>
+    <Open>1.24925</Open>
+    <High>1.28259</High>
+    <Low>1.20268</Low>
+    <Close>1.24863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-26</Date>
+    <Open>1.24863</Open>
+    <High>1.25961</High>
+    <Low>1.0898</Low>
+    <Close>1.21478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-27</Date>
+    <Open>1.21578</Open>
+    <High>1.23676</High>
+    <Low>1.11089</Low>
+    <Close>1.17882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-28</Date>
+    <Open>1.17764</Open>
+    <High>1.29369</High>
+    <Low>1.15842</Low>
+    <Close>1.23455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-29</Date>
+    <Open>1.23353</Open>
+    <High>1.23356</High>
+    <Low>1.17681</Low>
+    <Close>1.23164</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-30</Date>
+    <Open>1.23263</Open>
+    <High>1.39602</High>
+    <Low>1.22172</Low>
+    <Close>1.38689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-05-31</Date>
+    <Open>1.38989</Open>
+    <High>1.46497</High>
+    <Low>1.31994</Low>
+    <Close>1.37276</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-01</Date>
+    <Open>1.3739</Open>
+    <High>1.432</High>
+    <Low>1.22835</Low>
+    <Close>1.25347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-02</Date>
+    <Open>1.24962</Open>
+    <High>1.28874</High>
+    <Low>1.20072</Low>
+    <Close>1.23719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-03</Date>
+    <Open>1.23769</Open>
+    <High>1.26636</High>
+    <Low>1.16247</Low>
+    <Close>1.19256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-04</Date>
+    <Open>1.19346</Open>
+    <High>1.19806</High>
+    <Low>1.14571</Low>
+    <Close>1.17692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-05</Date>
+    <Open>1.17812</Open>
+    <High>1.24389</High>
+    <Low>1.14907</Low>
+    <Close>1.22586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-06</Date>
+    <Open>1.22585</Open>
+    <High>1.33291</High>
+    <Low>1.20685</Low>
+    <Close>1.28491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-07</Date>
+    <Open>1.28492</Open>
+    <High>1.29492</High>
+    <Low>1.15707</Low>
+    <Close>1.22701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-08</Date>
+    <Open>1.22602</Open>
+    <High>1.22903</High>
+    <Low>1.13817</Low>
+    <Close>1.16124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-09</Date>
+    <Open>1.16224</Open>
+    <High>1.17899</High>
+    <Low>1.13103</Low>
+    <Close>1.14903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-10</Date>
+    <Open>1.14802</Open>
+    <High>1.16604</High>
+    <Low>1.01891</Low>
+    <Close>1.04067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-11</Date>
+    <Open>1.04067</Open>
+    <High>1.06186</High>
+    <Low>0.8849</Low>
+    <Close>0.91097</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-12</Date>
+    <Open>0.91096</Open>
+    <High>0.95467</High>
+    <Low>0.84181</Low>
+    <Close>0.90988</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-13</Date>
+    <Open>0.90788</Open>
+    <High>0.90788</High>
+    <Low>0.62526</Low>
+    <Close>0.72</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-14</Date>
+    <Open>0.71901</Open>
+    <High>0.74582</High>
+    <Low>0.63505</Low>
+    <Close>0.69417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-15</Date>
+    <Open>0.69417</Open>
+    <High>0.76915</High>
+    <Low>0.60691</Low>
+    <Close>0.76385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-16</Date>
+    <Open>0.76505</Open>
+    <High>0.76972</High>
+    <Low>0.65721</Low>
+    <Close>0.685139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-17</Date>
+    <Open>0.659582</Open>
+    <High>0.695</High>
+    <Low>0.650295</Low>
+    <Close>0.662604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-18</Date>
+    <Open>0.662</Open>
+    <High>0.675795</High>
+    <Low>0.534208</Low>
+    <Close>0.576065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-19</Date>
+    <Open>0.575067</Open>
+    <High>0.661206</High>
+    <Low>0.553175</Low>
+    <Close>0.648156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-20</Date>
+    <Open>0.649919</Open>
+    <High>0.737688</High>
+    <Low>0.606511</Low>
+    <Close>0.685945</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-21</Date>
+    <Open>0.683248</Open>
+    <High>0.794364</High>
+    <Low>0.674357</Low>
+    <Close>0.725501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-22</Date>
+    <Open>0.728198</Open>
+    <High>0.784236</High>
+    <Low>0.681849</Low>
+    <Close>0.706093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-23</Date>
+    <Open>0.706992</Open>
+    <High>0.829869</High>
+    <Low>0.692707</Low>
+    <Close>0.798101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-24</Date>
+    <Open>0.798121</Open>
+    <High>0.85634</High>
+    <Low>0.795204</Low>
+    <Close>0.84534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-25</Date>
+    <Open>0.846153</Open>
+    <High>0.871128</High>
+    <Low>0.78246</Low>
+    <Close>0.835415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-26</Date>
+    <Open>0.838105</Open>
+    <High>0.848914</High>
+    <Low>0.771537</Low>
+    <Close>0.786912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-27</Date>
+    <Open>0.78712</Open>
+    <High>0.790362</High>
+    <Low>0.721528</Low>
+    <Close>0.740141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-28</Date>
+    <Open>0.740248</Open>
+    <High>0.774295</High>
+    <Low>0.705978</Low>
+    <Close>0.723309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-29</Date>
+    <Open>0.723102</Open>
+    <High>0.723102</High>
+    <Low>0.680637</Low>
+    <Close>0.716232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-06-30</Date>
+    <Open>0.716539</Open>
+    <High>0.725129</High>
+    <Low>0.632277</Low>
+    <Close>0.656311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-01</Date>
+    <Open>0.65731</Open>
+    <High>0.833032</High>
+    <Low>0.649554</Low>
+    <Close>0.764758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-02</Date>
+    <Open>0.765257</Open>
+    <High>0.792648</High>
+    <Low>0.726627</Low>
+    <Close>0.789352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-03</Date>
+    <Open>0.791849</Open>
+    <High>0.812043</High>
+    <Low>0.75729</Low>
+    <Close>0.801956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-04</Date>
+    <Open>0.796064</Open>
+    <High>0.88244</High>
+    <Low>0.796064</Low>
+    <Close>0.855872</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-05</Date>
+    <Open>0.855272</Open>
+    <High>1.01139</High>
+    <Low>0.827606</Low>
+    <Close>0.988012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-06</Date>
+    <Open>0.988412</Open>
+    <High>1.0027</High>
+    <Low>0.916491</Low>
+    <Close>0.960742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-07</Date>
+    <Open>0.960742</Open>
+    <High>1.05783</High>
+    <Low>0.937368</Low>
+    <Close>1.02838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-08</Date>
+    <Open>1.02778</Open>
+    <High>1.07165</High>
+    <Low>0.986208</Low>
+    <Close>1.01489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-09</Date>
+    <Open>1.01439</Open>
+    <High>1.05787</High>
+    <Low>1.0035</Low>
+    <Close>1.02888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-10</Date>
+    <Open>1.02898</Open>
+    <High>1.03288</High>
+    <Low>0.953128</Low>
+    <Close>0.968119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-11</Date>
+    <Open>0.967419</Open>
+    <High>0.967419</High>
+    <Low>0.89888</Low>
+    <Close>0.907782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-12</Date>
+    <Open>0.906665</Open>
+    <High>0.921278</High>
+    <Low>0.871228</Low>
+    <Close>0.883516</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-13</Date>
+    <Open>0.883028</Open>
+    <High>1.02787</High>
+    <Low>0.863466</Low>
+    <Close>1.01578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-14</Date>
+    <Open>1.01758</Open>
+    <High>1.17669</High>
+    <Low>1.00779</Low>
+    <Close>1.1672</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-15</Date>
+    <Open>1.1599</Open>
+    <High>1.18529</High>
+    <Low>1.11193</Low>
+    <Close>1.11876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-16</Date>
+    <Open>1.11876</Open>
+    <High>1.19494</High>
+    <Low>1.08557</Low>
+    <Close>1.17505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-17</Date>
+    <Open>1.17516</Open>
+    <High>1.1832</High>
+    <Low>1.09786</Low>
+    <Close>1.11031</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-18</Date>
+    <Open>1.11041</Open>
+    <High>1.27104</High>
+    <Low>1.07525</Low>
+    <Close>1.22942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-19</Date>
+    <Open>1.22942</Open>
+    <High>1.38225</High>
+    <Low>1.22461</Low>
+    <Close>1.254</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-20</Date>
+    <Open>1.2564</Open>
+    <High>1.27833</High>
+    <Low>1.13649</Low>
+    <Close>1.16186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-21</Date>
+    <Open>1.16936</Open>
+    <High>1.40547</High>
+    <Low>1.10436</Low>
+    <Close>1.39435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-22</Date>
+    <Open>1.39113</Open>
+    <High>1.54481</High>
+    <Low>1.37258</Low>
+    <Close>1.41361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-23</Date>
+    <Open>1.41361</Open>
+    <High>1.50288</High>
+    <Low>1.34416</Low>
+    <Close>1.37376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-24</Date>
+    <Open>1.37464</Open>
+    <High>1.44253</High>
+    <Low>1.35988</Low>
+    <Close>1.38496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-25</Date>
+    <Open>1.38498</Open>
+    <High>1.41645</High>
+    <Low>1.21131</Low>
+    <Close>1.243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-26</Date>
+    <Open>1.243</Open>
+    <High>1.24854</High>
+    <Low>1.0942</Low>
+    <Close>1.13716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-27</Date>
+    <Open>1.13716</Open>
+    <High>1.31269</High>
+    <Low>1.11866</Low>
+    <Close>1.29061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-28</Date>
+    <Open>1.29061</Open>
+    <High>1.58059</High>
+    <Low>1.24881</Low>
+    <Close>1.5151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-29</Date>
+    <Open>1.5151</Open>
+    <High>1.57852</High>
+    <Low>1.40316</Low>
+    <Close>1.44489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-30</Date>
+    <Open>1.45049</Open>
+    <High>1.47672</High>
+    <Low>1.37015</Low>
+    <Close>1.37617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-07-31</Date>
+    <Open>1.38712</Open>
+    <High>1.43154</High>
+    <Low>1.34108</Low>
+    <Close>1.37302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-01</Date>
+    <Open>1.37811</Open>
+    <High>1.38267</High>
+    <Low>1.27704</Low>
+    <Close>1.28969</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-02</Date>
+    <Open>1.30579</Open>
+    <High>1.38567</High>
+    <Low>1.218</Low>
+    <Close>1.33503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-03</Date>
+    <Open>1.33503</Open>
+    <High>1.43086</High>
+    <Low>1.28352</Low>
+    <Close>1.38785</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-04</Date>
+    <Open>1.37311</Open>
+    <High>1.39751</High>
+    <Low>1.29479</Low>
+    <Close>1.32104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-05</Date>
+    <Open>1.32104</Open>
+    <High>1.44724</High>
+    <Low>1.30675</Low>
+    <Close>1.39398</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-06</Date>
+    <Open>1.40957</Open>
+    <High>1.45013</High>
+    <Low>1.37792</Low>
+    <Close>1.40261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-07</Date>
+    <Open>1.39961</Open>
+    <High>1.42147</High>
+    <Low>1.35999</Low>
+    <Close>1.41707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-08</Date>
+    <Open>1.41707</Open>
+    <High>1.49257</High>
+    <Low>1.39404</Low>
+    <Close>1.44637</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-09</Date>
+    <Open>1.44637</Open>
+    <High>1.44637</High>
+    <Low>1.24</Low>
+    <Close>1.29556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-10</Date>
+    <Open>1.29756</Open>
+    <High>1.39395</High>
+    <Low>1.24792</Low>
+    <Close>1.35869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-11</Date>
+    <Open>1.3731</Open>
+    <High>1.44276</High>
+    <Low>1.37099</Low>
+    <Close>1.37895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-12</Date>
+    <Open>1.38635</Open>
+    <High>1.39694</High>
+    <Low>1.33723</Low>
+    <Close>1.39334</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-13</Date>
+    <Open>1.39334</Open>
+    <High>1.46905</High>
+    <Low>1.3873</Low>
+    <Close>1.41875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-14</Date>
+    <Open>1.41725</Open>
+    <High>1.48975</High>
+    <Low>1.3671</Low>
+    <Close>1.37813</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-15</Date>
+    <Open>1.37825</Open>
+    <High>1.45551</High>
+    <Low>1.32708</Low>
+    <Close>1.33702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-16</Date>
+    <Open>1.33403</Open>
+    <High>1.34665</High>
+    <Low>1.28285</Low>
+    <Close>1.29782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-17</Date>
+    <Open>1.29782</Open>
+    <High>1.33405</High>
+    <Low>1.17446</Low>
+    <Close>1.20868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-18</Date>
+    <Open>1.17278</Open>
+    <High>1.22046</High>
+    <Low>1.16269</Low>
+    <Close>1.17361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-19</Date>
+    <Open>1.17542</Open>
+    <High>1.17892</High>
+    <Low>1.0114</Low>
+    <Close>1.05761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-20</Date>
+    <Open>1.05761</Open>
+    <High>1.0915</High>
+    <Low>0.98539</Low>
+    <Close>0.99109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-21</Date>
+    <Open>0.97248</Open>
+    <High>1.05061</High>
+    <Low>0.97247</Low>
+    <Close>1.04338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-22</Date>
+    <Open>1.04338</Open>
+    <High>1.07534</High>
+    <Low>0.97692</Low>
+    <Close>1.07041</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-23</Date>
+    <Open>1.07041</Open>
+    <High>1.1903</High>
+    <Low>1.05229</Low>
+    <Close>1.17352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-24</Date>
+    <Open>1.17338</Open>
+    <High>1.22346</High>
+    <Low>1.13761</Low>
+    <Close>1.20381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-25</Date>
+    <Open>1.20381</Open>
+    <High>1.22535</High>
+    <Low>1.17366</Low>
+    <Close>1.18764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-26</Date>
+    <Open>1.18964</Open>
+    <High>1.2115</High>
+    <Low>1.0775</Low>
+    <Close>1.08551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-27</Date>
+    <Open>1.08551</Open>
+    <High>1.08551</High>
+    <Low>1.02056</Low>
+    <Close>1.03853</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-28</Date>
+    <Open>1.03852</Open>
+    <High>1.06453</High>
+    <Low>1.01739</Low>
+    <Close>1.0445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-29</Date>
+    <Open>1.0445</Open>
+    <High>1.06757</High>
+    <Low>0.97645</Low>
+    <Close>1.06757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-30</Date>
+    <Open>1.07059</Open>
+    <High>1.11739</High>
+    <Low>1.02355</Low>
+    <Close>1.074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-08-31</Date>
+    <Open>1.07399</Open>
+    <High>1.18601</High>
+    <Low>1.05758</Low>
+    <Close>1.16439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-01</Date>
+    <Open>1.16539</Open>
+    <High>1.18044</High>
+    <Low>1.06546</Low>
+    <Close>1.13033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-02</Date>
+    <Open>1.13033</Open>
+    <High>1.18048</High>
+    <Low>1.08149</Low>
+    <Close>1.09956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-03</Date>
+    <Open>1.09956</Open>
+    <High>1.10862</High>
+    <Low>1.0605</Low>
+    <Close>1.06561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-04</Date>
+    <Open>1.0655</Open>
+    <High>1.0964</High>
+    <Low>1.0486</Low>
+    <Close>1.0886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-05</Date>
+    <Open>1.0915</Open>
+    <High>1.10751</High>
+    <Low>1.0615</Low>
+    <Close>1.10371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-06</Date>
+    <Open>1.10371</Open>
+    <High>1.19752</High>
+    <Low>1.0215</Low>
+    <Close>1.0374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-07</Date>
+    <Open>1.0374</Open>
+    <High>1.17455</High>
+    <Low>1.02149</Low>
+    <Close>1.16568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-08</Date>
+    <Open>1.1656</Open>
+    <High>1.18057</High>
+    <Low>1.10561</Low>
+    <Close>1.13827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-09</Date>
+    <Open>1.13826</Open>
+    <High>1.24741</High>
+    <Low>1.1221</Low>
+    <Close>1.2026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-10</Date>
+    <Open>1.20244</Open>
+    <High>1.26956</High>
+    <Low>1.16624</Low>
+    <Close>1.24714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-11</Date>
+    <Open>1.26345</Open>
+    <High>1.26364</High>
+    <Low>1.15818</Low>
+    <Close>1.17428</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-12</Date>
+    <Open>1.17319</Open>
+    <High>1.20434</High>
+    <Low>1.12714</Low>
+    <Close>1.15711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-13</Date>
+    <Open>1.15725</Open>
+    <High>1.15735</High>
+    <Low>1.05075</Low>
+    <Close>1.06702</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-14</Date>
+    <Open>1.06711</Open>
+    <High>1.10511</High>
+    <Low>1.03094</Low>
+    <Close>1.05316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-15</Date>
+    <Open>1.05236</Open>
+    <High>1.09129</High>
+    <Low>1.01875</Low>
+    <Close>1.0708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-16</Date>
+    <Open>1.0708</Open>
+    <High>1.07526</High>
+    <Low>1.0227</Low>
+    <Close>1.045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-17</Date>
+    <Open>1.0451</Open>
+    <High>1.08721</High>
+    <Low>1.0438</Low>
+    <Close>1.0739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-18</Date>
+    <Open>1.0739</Open>
+    <High>1.08711</High>
+    <Low>0.90201</Low>
+    <Close>0.9449</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-19</Date>
+    <Open>0.9449</Open>
+    <High>0.983097</High>
+    <Low>0.901892</Low>
+    <Close>0.979698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-20</Date>
+    <Open>0.979698</Open>
+    <High>0.989498</High>
+    <Low>0.94909</Low>
+    <Close>0.965997</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-21</Date>
+    <Open>0.96631</Open>
+    <High>0.96631</High>
+    <Low>0.8529</Low>
+    <Close>0.8581</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-22</Date>
+    <Open>0.8581</Open>
+    <High>0.9279</High>
+    <Low>0.8367</Low>
+    <Close>0.9239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-23</Date>
+    <Open>0.923192</Open>
+    <High>0.941994</High>
+    <Low>0.869</Low>
+    <Close>0.893811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-24</Date>
+    <Open>0.915036</Open>
+    <High>0.975983</High>
+    <Low>0.913027</Low>
+    <Close>0.938975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-25</Date>
+    <Open>0.9369</Open>
+    <High>0.9391</High>
+    <Low>0.891891</Low>
+    <Close>0.9029</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-26</Date>
+    <Open>0.9029</Open>
+    <High>0.934193</High>
+    <Low>0.872</Low>
+    <Close>0.9309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-27</Date>
+    <Open>0.9309</Open>
+    <High>0.9805</High>
+    <Low>0.90491</Low>
+    <Close>0.907809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-28</Date>
+    <Open>0.907809</Open>
+    <High>0.9369</High>
+    <Low>0.865913</Low>
+    <Close>0.9301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-29</Date>
+    <Open>0.9301</Open>
+    <High>0.9451</High>
+    <Low>0.89881</Low>
+    <Close>0.920992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-09-30</Date>
+    <Open>0.9168</Open>
+    <High>0.945289</High>
+    <Low>0.913</Low>
+    <Close>0.9259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-01</Date>
+    <Open>0.9259</Open>
+    <High>0.929993</High>
+    <Low>0.8871</Low>
+    <Close>0.8911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-02</Date>
+    <Open>0.8911</Open>
+    <High>0.9071</High>
+    <Low>0.8699</Low>
+    <Close>0.8809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-03</Date>
+    <Open>0.8811</Open>
+    <High>0.90339</High>
+    <Low>0.8496</Low>
+    <Close>0.894189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-04</Date>
+    <Open>0.894989</Open>
+    <High>0.919176</High>
+    <Low>0.882988</Low>
+    <Close>0.905171</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-05</Date>
+    <Open>0.905171</Open>
+    <High>0.919176</High>
+    <Low>0.8769</Low>
+    <Close>0.90299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-06</Date>
+    <Open>0.903081</Open>
+    <High>0.937141</High>
+    <Low>0.894043</Low>
+    <Close>0.912055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-07</Date>
+    <Open>0.912255</Open>
+    <High>0.913064</High>
+    <Low>0.86997</Low>
+    <Close>0.881223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-08</Date>
+    <Open>0.881188</Open>
+    <High>0.911246</High>
+    <Low>0.876101</Low>
+    <Close>0.877328</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-09</Date>
+    <Open>0.877328</Open>
+    <High>0.890378</High>
+    <Low>0.874887</Low>
+    <Close>0.887077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-10</Date>
+    <Open>0.887077</Open>
+    <High>0.891578</High>
+    <Low>0.8579</Low>
+    <Close>0.867913</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-11</Date>
+    <Open>0.8681</Open>
+    <High>0.8681</High>
+    <Low>0.809962</Low>
+    <Close>0.828825</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-12</Date>
+    <Open>0.828825</Open>
+    <High>0.840041</High>
+    <Low>0.81381</Low>
+    <Close>0.821125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-13</Date>
+    <Open>0.821133</Open>
+    <High>0.839092</High>
+    <Low>0.724857</Low>
+    <Close>0.798964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-14</Date>
+    <Open>0.798164</Open>
+    <High>0.847193</High>
+    <Low>0.796916</Low>
+    <Close>0.804624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-15</Date>
+    <Open>0.804632</Open>
+    <High>0.826183</High>
+    <Low>0.796948</Low>
+    <Close>0.823841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-16</Date>
+    <Open>0.8238</Open>
+    <High>0.825141</High>
+    <Low>0.797916</Low>
+    <Close>0.821133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-17</Date>
+    <Open>0.821141</Open>
+    <High>0.902954</High>
+    <Low>0.804932</Low>
+    <Close>0.894918</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-18</Date>
+    <Open>0.8949</Open>
+    <High>0.920274</High>
+    <Low>0.867083</Low>
+    <Close>0.915155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-19</Date>
+    <Open>0.916092</Open>
+    <High>0.921555</High>
+    <Low>0.866031</Low>
+    <Close>0.8741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-20</Date>
+    <Open>0.8741</Open>
+    <High>0.885118</High>
+    <Low>0.837833</Low>
+    <Close>0.846841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-21</Date>
+    <Open>0.846841</Open>
+    <High>0.906127</High>
+    <Low>0.836041</Low>
+    <Close>0.895172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-22</Date>
+    <Open>0.895163</Open>
+    <High>0.901981</High>
+    <Low>0.869926</Low>
+    <Close>0.872178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-23</Date>
+    <Open>0.87217</Open>
+    <High>0.887242</High>
+    <Low>0.85096</Low>
+    <Close>0.874214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-24</Date>
+    <Open>0.873914</Open>
+    <High>0.925665</High>
+    <Low>0.873187</Low>
+    <Close>0.886835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-25</Date>
+    <Open>0.886835</Open>
+    <High>0.945165</High>
+    <Low>0.862891</Low>
+    <Close>0.919394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-26</Date>
+    <Open>0.919403</Open>
+    <High>0.959388</High>
+    <Low>0.907036</Low>
+    <Close>0.945365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-27</Date>
+    <Open>0.944164</Open>
+    <High>0.958282</High>
+    <Low>0.898963</Low>
+    <Close>0.910955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-28</Date>
+    <Open>0.910955</Open>
+    <High>0.962273</High>
+    <Low>0.899972</Low>
+    <Close>0.941298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-29</Date>
+    <Open>0.941279</Open>
+    <High>0.978242</High>
+    <Low>0.932208</Low>
+    <Close>0.943317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-30</Date>
+    <Open>0.943326</Open>
+    <High>0.946218</High>
+    <Low>0.889178</Low>
+    <Close>0.90108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-10-31</Date>
+    <Open>0.901089</Open>
+    <High>0.9191</High>
+    <Low>0.87593</Low>
+    <Close>0.879838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-01</Date>
+    <Open>0.879847</Open>
+    <High>0.897858</High>
+    <Low>0.87483</Low>
+    <Close>0.889802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-02</Date>
+    <Open>0.889811</Open>
+    <High>0.917128</High>
+    <Low>0.850591</Low>
+    <Close>0.855257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-03</Date>
+    <Open>0.855257</Open>
+    <High>0.926181</High>
+    <Low>0.853849</Low>
+    <Close>0.910891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-04</Date>
+    <Open>0.907891</Open>
+    <High>1.06914</High>
+    <Low>0.895837</Low>
+    <Close>1.02698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-05</Date>
+    <Open>1.02718</Open>
+    <High>1.03916</High>
+    <Low>0.99655</Low>
+    <Close>0.99795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-06</Date>
+    <Open>0.99815</Open>
+    <High>1.02803</High>
+    <Low>0.973929</Low>
+    <Close>0.983979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-07</Date>
+    <Open>0.983969</Open>
+    <High>1.03019</High>
+    <Low>0.930965</Low>
+    <Close>0.994229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-08</Date>
+    <Open>0.994398</Open>
+    <High>1.01831</High>
+    <Low>0.699161</Low>
+    <Close>0.75235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-09</Date>
+    <Open>0.753153</Open>
+    <High>0.78941</High>
+    <Low>0.536687</Low>
+    <Close>0.560954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-10</Date>
+    <Open>0.566505</Open>
+    <High>0.77154</High>
+    <Low>0.549859</Low>
+    <Close>0.697332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-11</Date>
+    <Open>0.697888</Open>
+    <High>0.782692</High>
+    <Low>0.625288</Low>
+    <Close>0.637601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-12</Date>
+    <Open>0.637346</Open>
+    <High>0.675126</High>
+    <Low>0.6098</Low>
+    <Close>0.621978</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-13</Date>
+    <Open>0.6098</Open>
+    <High>0.640395</High>
+    <Low>0.59319</Low>
+    <Close>0.627021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-14</Date>
+    <Open>0.626022</Open>
+    <High>0.638333</High>
+    <Low>0.584563</Low>
+    <Close>0.599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-15</Date>
+    <Open>0.59897</Open>
+    <High>0.63253</High>
+    <Low>0.596005</Low>
+    <Close>0.598501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-16</Date>
+    <Open>0.598169</Open>
+    <High>0.615719</High>
+    <Low>0.573389</Low>
+    <Close>0.586354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-17</Date>
+    <Open>0.586513</Open>
+    <High>0.591614</High>
+    <Low>0.535477</Low>
+    <Close>0.563649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-18</Date>
+    <Open>0.550654</Open>
+    <High>0.565741</High>
+    <Low>0.542194</Low>
+    <Close>0.551665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-19</Date>
+    <Open>0.551665</Open>
+    <High>0.554495</High>
+    <Low>0.539247</Low>
+    <Close>0.549522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-20</Date>
+    <Open>0.549528</Open>
+    <High>0.553463</High>
+    <Low>0.502542</Low>
+    <Close>0.514117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-21</Date>
+    <Open>0.514112</Open>
+    <High>0.51738</High>
+    <Low>0.470497</Low>
+    <Close>0.480518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-22</Date>
+    <Open>0.480523</Open>
+    <High>0.735283</High>
+    <Low>0.401613</Low>
+    <Close>0.628133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-23</Date>
+    <Open>0.628332</Open>
+    <High>0.709354</High>
+    <Low>0.608169</Low>
+    <Close>0.689148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-24</Date>
+    <Open>0.688149</Open>
+    <High>0.723421</High>
+    <Low>0.662297</Low>
+    <Close>0.677331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-25</Date>
+    <Open>0.677331</Open>
+    <High>0.70063</High>
+    <Low>0.657633</Low>
+    <Close>0.68371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-26</Date>
+    <Open>0.68462</Open>
+    <High>0.756661</High>
+    <Low>0.671377</Low>
+    <Close>0.705484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-27</Date>
+    <Open>0.705491</Open>
+    <High>0.71784</High>
+    <Low>0.694434</Low>
+    <Close>0.701551</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-28</Date>
+    <Open>0.701719</Open>
+    <High>0.702349</High>
+    <Low>0.627555</Low>
+    <Close>0.646854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-29</Date>
+    <Open>0.646848</Open>
+    <High>0.681539</High>
+    <Low>0.636658</Low>
+    <Close>0.672851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-11-30</Date>
+    <Open>0.672851</Open>
+    <High>0.691568</High>
+    <Low>0.646955</Low>
+    <Close>0.663327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-01</Date>
+    <Open>0.663127</Open>
+    <High>0.676168</High>
+    <Low>0.639894</Low>
+    <Close>0.643139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-02</Date>
+    <Open>0.643932</Open>
+    <High>0.655303</High>
+    <Low>0.623962</Low>
+    <Close>0.645139</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-03</Date>
+    <Open>0.645139</Open>
+    <High>0.66328</High>
+    <Low>0.640932</Low>
+    <Close>0.645165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-04</Date>
+    <Open>0.645165</Open>
+    <High>0.675035</High>
+    <Low>0.632963</Low>
+    <Close>0.669967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-05</Date>
+    <Open>0.670034</Open>
+    <High>0.691197</High>
+    <Low>0.665099</Low>
+    <Close>0.68022</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-06</Date>
+    <Open>0.680268</Open>
+    <High>0.693093</High>
+    <Low>0.6652</Low>
+    <Close>0.672087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-07</Date>
+    <Open>0.6721</Open>
+    <High>0.689086</High>
+    <Low>0.646913</Low>
+    <Close>0.6571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-08</Date>
+    <Open>0.6571</Open>
+    <High>0.670187</High>
+    <Low>0.644881</Low>
+    <Close>0.666147</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-09</Date>
+    <Open>0.666147</Open>
+    <High>0.671127</High>
+    <Low>0.636938</Low>
+    <Close>0.646119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-10</Date>
+    <Open>0.646119</Open>
+    <High>0.650193</High>
+    <Low>0.636887</Low>
+    <Close>0.649887</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-11</Date>
+    <Open>0.6431</Open>
+    <High>0.647229</High>
+    <Low>0.634863</Low>
+    <Close>0.636964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-12</Date>
+    <Open>0.637027</Open>
+    <High>0.638164</High>
+    <Low>0.593118</Low>
+    <Close>0.610155</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-13</Date>
+    <Open>0.610155</Open>
+    <High>0.661038</High>
+    <Low>0.597067</Low>
+    <Close>0.652743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-14</Date>
+    <Open>0.652743</Open>
+    <High>0.665893</High>
+    <Low>0.640151</Low>
+    <Close>0.647145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-15</Date>
+    <Open>0.647145</Open>
+    <High>0.649165</High>
+    <Low>0.616962</Low>
+    <Close>0.619024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-16</Date>
+    <Open>0.619224</Open>
+    <High>0.627225</High>
+    <Low>0.539954</Low>
+    <Close>0.542954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-17</Date>
+    <Open>0.541954</Open>
+    <High>0.557223</High>
+    <Low>0.532959</Low>
+    <Close>0.555172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-18</Date>
+    <Open>0.555172</Open>
+    <High>0.561128</High>
+    <Low>0.548922</Low>
+    <Close>0.557973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-19</Date>
+    <Open>0.552988</Open>
+    <High>0.571129</High>
+    <Low>0.51589</Low>
+    <Close>0.51589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-20</Date>
+    <Open>0.5159</Open>
+    <High>0.538143</High>
+    <Low>0.51489</Low>
+    <Close>0.521121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-21</Date>
+    <Open>0.521121</Open>
+    <High>0.535116</High>
+    <Low>0.51192</Low>
+    <Close>0.526921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-22</Date>
+    <Open>0.526926</Open>
+    <High>0.530127</High>
+    <Low>0.50285</Low>
+    <Close>0.520611</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-23</Date>
+    <Open>0.520027</Open>
+    <High>0.530068</High>
+    <Low>0.517812</Low>
+    <Close>0.521848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-24</Date>
+    <Open>0.521848</Open>
+    <High>0.528152</High>
+    <Low>0.517048</Low>
+    <Close>0.521863</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-25</Date>
+    <Open>0.521863</Open>
+    <High>0.530084</High>
+    <Low>0.515707</Low>
+    <Close>0.523122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-26</Date>
+    <Open>0.524037</Open>
+    <High>0.536598</High>
+    <Low>0.518448</Low>
+    <Close>0.531194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-27</Date>
+    <Open>0.531194</Open>
+    <High>0.540697</High>
+    <Low>0.516209</Low>
+    <Close>0.524795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-28</Date>
+    <Open>0.524795</Open>
+    <High>0.530541</High>
+    <Low>0.508425</Low>
+    <Close>0.508525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-29</Date>
+    <Open>0.50883</Open>
+    <High>0.523685</High>
+    <Low>0.505642</Low>
+    <Close>0.510875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-30</Date>
+    <Open>0.511375</Open>
+    <High>0.531029</High>
+    <Low>0.492893</Low>
+    <Close>0.52903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2022-12-31</Date>
+    <Open>0.52903</Open>
+    <High>0.533628</High>
+    <Low>0.521734</Low>
+    <Close>0.525037</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-01</Date>
+    <Open>0.525037</Open>
+    <High>0.529035</High>
+    <Low>0.51923</Low>
+    <Close>0.526852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-02</Date>
+    <Open>0.526852</Open>
+    <High>0.548891</High>
+    <Low>0.519082</Low>
+    <Close>0.535123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-03</Date>
+    <Open>0.535223</Open>
+    <High>0.537323</High>
+    <Low>0.522186</Low>
+    <Close>0.526595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-04</Date>
+    <Open>0.526495</Open>
+    <High>0.565774</High>
+    <Low>0.52589</Low>
+    <Close>0.549719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-05</Date>
+    <Open>0.549419</Open>
+    <High>0.559227</High>
+    <Low>0.540473</Low>
+    <Close>0.54201</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-06</Date>
+    <Open>0.542137</Open>
+    <High>0.547686</High>
+    <Low>0.523286</Low>
+    <Close>0.542132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-07</Date>
+    <Open>0.542326</Open>
+    <High>0.553545</High>
+    <Low>0.541921</Low>
+    <Close>0.548668</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-08</Date>
+    <Open>0.548768</Open>
+    <High>0.564504</High>
+    <Low>0.542808</Low>
+    <Close>0.564215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-09</Date>
+    <Open>0.564232</Open>
+    <High>0.693231</High>
+    <Low>0.564187</Low>
+    <Close>0.652793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-10</Date>
+    <Open>0.6531</Open>
+    <High>0.660087</High>
+    <Low>0.634868</Low>
+    <Close>0.64559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-11</Date>
+    <Open>0.646197</Open>
+    <High>0.677239</High>
+    <Low>0.645903</Low>
+    <Close>0.659034</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-12</Date>
+    <Open>0.659041</Open>
+    <High>0.697763</High>
+    <Low>0.63883</Low>
+    <Close>0.691262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-13</Date>
+    <Open>0.691369</Open>
+    <High>0.833592</High>
+    <Low>0.6797</Low>
+    <Close>0.809273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-14</Date>
+    <Open>0.809173</Open>
+    <High>0.852228</High>
+    <Low>0.76146</Low>
+    <Close>0.814741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-15</Date>
+    <Open>0.814741</Open>
+    <High>0.874397</High>
+    <Low>0.784778</Low>
+    <Close>0.834842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-16</Date>
+    <Open>0.83495</Open>
+    <High>0.933455</High>
+    <Low>0.823047</Low>
+    <Close>0.871909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-17</Date>
+    <Open>0.871917</Open>
+    <High>0.949433</High>
+    <Low>0.856634</Low>
+    <Close>0.909991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-18</Date>
+    <Open>0.908</Open>
+    <High>0.955176</High>
+    <Low>0.857968</Low>
+    <Close>0.909055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-19</Date>
+    <Open>0.909145</Open>
+    <High>0.932216</High>
+    <Low>0.874448</Low>
+    <Close>0.890264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-20</Date>
+    <Open>0.889864</Open>
+    <High>1.03156</High>
+    <Low>0.888627</Low>
+    <Close>1.01607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-21</Date>
+    <Open>1.01598</Open>
+    <High>1.04258</High>
+    <Low>0.979619</Low>
+    <Close>1.015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-22</Date>
+    <Open>1.01629</Open>
+    <High>1.16862</High>
+    <Low>0.989078</Low>
+    <Close>1.07011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-23</Date>
+    <Open>1.07011</Open>
+    <High>1.11993</High>
+    <Low>1.06502</Low>
+    <Close>1.07026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-24</Date>
+    <Open>1.07346</Open>
+    <High>1.1085</High>
+    <Low>1.03961</Low>
+    <Close>1.04893</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-25</Date>
+    <Open>0.994229</Open>
+    <High>1.06129</High>
+    <Low>0.973004</Low>
+    <Close>1.01526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-26</Date>
+    <Open>1.01547</Open>
+    <High>1.09425</High>
+    <Low>1.01208</Low>
+    <Close>1.05078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-27</Date>
+    <Open>1.0506</Open>
+    <High>1.13653</High>
+    <Low>1.00499</Low>
+    <Close>1.12873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-28</Date>
+    <Open>1.13017</Open>
+    <High>1.13727</High>
+    <Low>1.04533</Low>
+    <Close>1.06491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-29</Date>
+    <Open>1.06491</Open>
+    <High>1.10662</High>
+    <Low>1.05574</Low>
+    <Close>1.08645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-30</Date>
+    <Open>1.08644</Open>
+    <High>1.0972</High>
+    <Low>0.96599</Low>
+    <Close>0.98957</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-01-31</Date>
+    <Open>0.98957</Open>
+    <High>1.04452</High>
+    <Low>0.98589</Low>
+    <Close>1.02599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-01</Date>
+    <Open>1.02598</Open>
+    <High>1.12526</High>
+    <Low>0.97399</Low>
+    <Close>1.10897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-02</Date>
+    <Open>1.10896</Open>
+    <High>1.17029</High>
+    <Low>1.05417</Low>
+    <Close>1.07381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-03</Date>
+    <Open>1.07342</Open>
+    <High>1.13629</High>
+    <Low>1.05806</Low>
+    <Close>1.11329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-04</Date>
+    <Open>1.11329</Open>
+    <High>1.13017</High>
+    <Low>1.08829</Low>
+    <Close>1.1264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-05</Date>
+    <Open>1.12639</Open>
+    <High>1.1292</High>
+    <Low>1.01497</Low>
+    <Close>1.03446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-06</Date>
+    <Open>1.03536</Open>
+    <High>1.08809</High>
+    <Low>1.02678</Low>
+    <Close>1.05854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-07</Date>
+    <Open>1.05854</Open>
+    <High>1.09433</High>
+    <Low>1.0362</Low>
+    <Close>1.08818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-08</Date>
+    <Open>1.08907</Open>
+    <High>1.2365</High>
+    <Low>1.07905</Low>
+    <Close>1.13599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-09</Date>
+    <Open>1.13599</Open>
+    <High>1.15789</High>
+    <Low>0.94424</Low>
+    <Close>0.95819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-10</Date>
+    <Open>0.9578</Open>
+    <High>0.99718</High>
+    <Low>0.935487</Low>
+    <Close>0.958244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-11</Date>
+    <Open>0.9587</Open>
+    <High>0.970626</High>
+    <Low>0.928993</Low>
+    <Close>0.956586</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-12</Date>
+    <Open>0.955991</Open>
+    <High>0.987009</High>
+    <Low>0.916028</Low>
+    <Close>0.931193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-13</Date>
+    <Open>0.930593</Open>
+    <High>1.08779</High>
+    <Low>0.897416</Low>
+    <Close>1.03706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-14</Date>
+    <Open>1.03937</Open>
+    <High>1.11586</High>
+    <Low>1.02051</Low>
+    <Close>1.0653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-15</Date>
+    <Open>1.06553</Open>
+    <High>1.1622</High>
+    <Low>1.05951</Low>
+    <Close>1.15651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-16</Date>
+    <Open>1.15421</Open>
+    <High>1.21722</High>
+    <Low>1.09525</Low>
+    <Close>1.09647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-17</Date>
+    <Open>1.09217</Open>
+    <High>1.2423</High>
+    <Low>1.08321</Low>
+    <Close>1.22122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-18</Date>
+    <Open>1.22282</Open>
+    <High>1.27012</High>
+    <Low>1.16672</Low>
+    <Close>1.26612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-19</Date>
+    <Open>1.2634</Open>
+    <High>1.27408</High>
+    <Low>1.19215</Low>
+    <Close>1.20977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-20</Date>
+    <Open>1.21218</Open>
+    <High>1.28883</High>
+    <Low>1.15734</Low>
+    <Close>1.27115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-21</Date>
+    <Open>1.27115</Open>
+    <High>1.2979</High>
+    <Low>1.15134</Low>
+    <Close>1.1591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-22</Date>
+    <Open>1.1581</Open>
+    <High>1.1631</High>
+    <Low>1.0679</Low>
+    <Close>1.0989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-23</Date>
+    <Open>1.09851</Open>
+    <High>1.1367</High>
+    <Low>1.07549</Low>
+    <Close>1.08594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-24</Date>
+    <Open>1.08585</Open>
+    <High>1.08885</High>
+    <Low>0.97995</Low>
+    <Close>0.99188</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-25</Date>
+    <Open>0.99129</Open>
+    <High>1.00735</High>
+    <Low>0.95024</Low>
+    <Close>0.96237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-26</Date>
+    <Open>0.9838</Open>
+    <High>1.02484</High>
+    <Low>0.977339</Low>
+    <Close>1.0142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-27</Date>
+    <Open>1.01495</Open>
+    <High>1.04993</High>
+    <Low>0.98391</Low>
+    <Close>1.00636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-02-28</Date>
+    <Open>1.00695</Open>
+    <High>1.04193</High>
+    <Low>0.985717</Low>
+    <Close>0.995269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-01</Date>
+    <Open>0.996299</Open>
+    <High>1.05809</High>
+    <Low>0.986358</Low>
+    <Close>1.02263</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-02</Date>
+    <Open>1.02622</Open>
+    <High>1.04025</High>
+    <Low>0.9723</Low>
+    <Close>0.993189</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-03</Date>
+    <Open>0.993189</Open>
+    <High>0.99516</High>
+    <Low>0.896116</Low>
+    <Close>0.928965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-04</Date>
+    <Open>0.929765</Open>
+    <High>0.944004</High>
+    <Low>0.884344</Low>
+    <Close>0.908973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-05</Date>
+    <Open>0.907764</Open>
+    <High>0.941056</High>
+    <Low>0.904172</Low>
+    <Close>0.932603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-06</Date>
+    <Open>0.931602</Open>
+    <High>0.97099</High>
+    <Low>0.915019</Low>
+    <Close>0.949343</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-07</Date>
+    <Open>0.949605</Open>
+    <High>1.00078</High>
+    <Low>0.943</Low>
+    <Close>0.968052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-08</Date>
+    <Open>0.969052</Open>
+    <High>0.984021</High>
+    <Low>0.881047</Low>
+    <Close>0.887464</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-09</Date>
+    <Open>0.887811</Open>
+    <High>0.920867</High>
+    <Low>0.819036</Low>
+    <Close>0.827074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-10</Date>
+    <Open>0.826983</Open>
+    <High>0.892763</High>
+    <Low>0.811614</Low>
+    <Close>0.88127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-11</Date>
+    <Open>0.88326</Open>
+    <High>0.941077</High>
+    <Low>0.798267</Low>
+    <Close>0.85456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-12</Date>
+    <Open>0.85456</Open>
+    <High>0.940203</High>
+    <Low>0.848029</Low>
+    <Close>0.928667</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-13</Date>
+    <Open>0.927253</Open>
+    <High>1.0168</High>
+    <Low>0.911465</Low>
+    <Close>0.990135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-14</Date>
+    <Open>0.990336</Open>
+    <High>1.05092</High>
+    <Low>0.958789</Low>
+    <Close>0.989962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-15</Date>
+    <Open>0.988603</Open>
+    <High>1.01736</High>
+    <Low>0.871678</Low>
+    <Close>0.885604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-16</Date>
+    <Open>0.885495</Open>
+    <High>0.923965</High>
+    <Low>0.877879</Low>
+    <Close>0.90986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-17</Date>
+    <Open>0.908648</Open>
+    <High>1.01453</High>
+    <Low>0.900501</Low>
+    <Close>1.00991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-18</Date>
+    <Open>1.00891</Open>
+    <High>1.04812</High>
+    <Low>0.984952</Low>
+    <Close>1.00439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-19</Date>
+    <Open>1.003</Open>
+    <High>1.06929</High>
+    <Low>0.984708</Low>
+    <Close>1.03924</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-20</Date>
+    <Open>1.03984</Open>
+    <High>1.04244</High>
+    <Low>0.96154</Low>
+    <Close>0.978659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-21</Date>
+    <Open>0.97896</Open>
+    <High>1.01283</High>
+    <Low>0.939902</Low>
+    <Close>0.989055</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-22</Date>
+    <Open>0.987641</Open>
+    <High>1.00949</High>
+    <Low>0.924562</Low>
+    <Close>0.936359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-23</Date>
+    <Open>0.936459</Open>
+    <High>0.99157</High>
+    <Low>0.933815</Low>
+    <Close>0.966406</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-24</Date>
+    <Open>0.966406</Open>
+    <High>0.972803</High>
+    <Low>0.89423</Low>
+    <Close>0.909618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-25</Date>
+    <Open>0.909709</Open>
+    <High>0.936426</High>
+    <Low>0.899359</Low>
+    <Close>0.912584</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-26</Date>
+    <Open>0.912785</Open>
+    <High>0.946751</High>
+    <Low>0.908407</Low>
+    <Close>0.926346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-27</Date>
+    <Open>0.925917</Open>
+    <High>0.938362</High>
+    <Low>0.875824</Low>
+    <Close>0.883215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-28</Date>
+    <Open>0.883515</Open>
+    <High>0.930781</High>
+    <Low>0.877816</Low>
+    <Close>0.913856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-29</Date>
+    <Open>0.918758</Open>
+    <High>0.964325</High>
+    <Low>0.913847</Low>
+    <Close>0.949871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-30</Date>
+    <Open>0.955186</Open>
+    <High>0.962921</High>
+    <Low>0.91</Low>
+    <Close>0.921149</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-03-31</Date>
+    <Open>0.921149</Open>
+    <High>0.952195</High>
+    <Low>0.905972</Low>
+    <Close>0.940088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-01</Date>
+    <Open>0.940088</Open>
+    <High>0.950947</High>
+    <Low>0.915521</Low>
+    <Close>0.923432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-02</Date>
+    <Open>0.923432</Open>
+    <High>0.926489</High>
+    <Low>0.890305</Low>
+    <Close>0.904661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-03</Date>
+    <Open>0.904661</Open>
+    <High>0.935231</High>
+    <Low>0.882297</Low>
+    <Close>0.910455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-04</Date>
+    <Open>0.911255</Open>
+    <High>1.01014</High>
+    <Low>0.910055</Low>
+    <Close>1.0016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-05</Date>
+    <Open>1.00061</Open>
+    <High>1.03521</High>
+    <Low>0.985565</Low>
+    <Close>1.00126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-06</Date>
+    <Open>1.00127</Open>
+    <High>1.01574</High>
+    <Low>0.985496</Low>
+    <Close>1.01235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-07</Date>
+    <Open>1.00216</Open>
+    <High>1.02745</High>
+    <Low>0.994776</Low>
+    <Close>1.01245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-08</Date>
+    <Open>1.01295</Open>
+    <High>1.04643</High>
+    <Low>1.00386</Low>
+    <Close>1.0265</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-09</Date>
+    <Open>1.0265</Open>
+    <High>1.03854</High>
+    <Low>0.98697</Low>
+    <Close>1.02379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-10</Date>
+    <Open>1.01701</Open>
+    <High>1.02573</High>
+    <Low>0.9908</Low>
+    <Close>1.01373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-11</Date>
+    <Open>1.01293</Open>
+    <High>1.04574</High>
+    <Low>1.01117</Low>
+    <Close>1.01991</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-12</Date>
+    <Open>1.01991</Open>
+    <High>1.04678</High>
+    <Low>0.97899</Low>
+    <Close>1.0247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-13</Date>
+    <Open>1.0244</Open>
+    <High>1.07098</High>
+    <Low>1.01528</Low>
+    <Close>1.06642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-14</Date>
+    <Open>1.06652</Open>
+    <High>1.11286</High>
+    <Low>1.06435</Low>
+    <Close>1.09541</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-15</Date>
+    <Open>1.09501</Open>
+    <High>1.10583</High>
+    <Low>1.07591</Low>
+    <Close>1.08588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-16</Date>
+    <Open>1.08708</Open>
+    <High>1.10525</High>
+    <Low>1.06563</Low>
+    <Close>1.10524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-17</Date>
+    <Open>1.10525</Open>
+    <High>1.11156</High>
+    <Low>1.04755</Low>
+    <Close>1.05173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-18</Date>
+    <Open>1.05172</Open>
+    <High>1.1119</High>
+    <Low>1.03771</Low>
+    <Close>1.06848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-19</Date>
+    <Open>1.06897</Open>
+    <High>1.07632</High>
+    <Low>0.94945</Low>
+    <Close>0.96513</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-20</Date>
+    <Open>0.96463</Open>
+    <High>0.97928</High>
+    <Low>0.93575</Low>
+    <Close>0.94618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-21</Date>
+    <Open>0.94617</Open>
+    <High>0.95816</High>
+    <Low>0.90622</Low>
+    <Close>0.9158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-22</Date>
+    <Open>0.9158</Open>
+    <High>0.93651</High>
+    <Low>0.91055</Low>
+    <Close>0.92818</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-23</Date>
+    <Open>0.92848</Open>
+    <High>0.98071</High>
+    <Low>0.92018</Low>
+    <Close>0.93185</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-24</Date>
+    <Open>0.93095</Open>
+    <High>0.96452</High>
+    <Low>0.91397</Low>
+    <Close>0.93272</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-25</Date>
+    <Open>0.93273</Open>
+    <High>0.94813</High>
+    <Low>0.89541</Low>
+    <Close>0.94232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-26</Date>
+    <Open>0.94292</Open>
+    <High>0.97706</High>
+    <Low>0.88207</Low>
+    <Close>0.90639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-27</Date>
+    <Open>0.91319</Open>
+    <High>0.95756</High>
+    <Low>0.91224</Low>
+    <Close>0.95123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-28</Date>
+    <Open>0.9502</Open>
+    <High>0.9518</High>
+    <Low>0.91578</Low>
+    <Close>0.92411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-29</Date>
+    <Open>0.92421</Open>
+    <High>0.94431</High>
+    <Low>0.92216</Low>
+    <Close>0.93505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-04-30</Date>
+    <Open>0.93444</Open>
+    <High>0.94831</High>
+    <Low>0.90164</Low>
+    <Close>0.91062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-01</Date>
+    <Open>0.91071</Open>
+    <High>0.91537</High>
+    <Low>0.87497</Low>
+    <Close>0.87933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-02</Date>
+    <Open>0.87933</Open>
+    <High>0.909318</High>
+    <Low>0.877458</Low>
+    <Close>0.903651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-03</Date>
+    <Open>0.903651</Open>
+    <High>0.978982</High>
+    <Low>0.879837</Low>
+    <Close>0.971453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-04</Date>
+    <Open>0.971462</Open>
+    <High>0.984077</High>
+    <Low>0.916539</Low>
+    <Close>0.920531</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-05</Date>
+    <Open>0.920531</Open>
+    <High>0.977393</High>
+    <Low>0.918431</Low>
+    <Close>0.96838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-06</Date>
+    <Open>0.96829</Open>
+    <High>0.96879</High>
+    <Low>0.893774</Low>
+    <Close>0.907476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-07</Date>
+    <Open>0.906739</Open>
+    <High>0.91568</High>
+    <Low>0.889448</Low>
+    <Close>0.898951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-08</Date>
+    <Open>0.893828</Open>
+    <High>0.900461</High>
+    <Low>0.801745</Low>
+    <Close>0.836735</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-09</Date>
+    <Open>0.836727</Open>
+    <High>0.84603</High>
+    <Low>0.829394</Low>
+    <Close>0.837737</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-10</Date>
+    <Open>0.837737</Open>
+    <High>0.856927</High>
+    <Low>0.804584</Low>
+    <Close>0.839355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-11</Date>
+    <Open>0.837637</Open>
+    <High>0.842858</High>
+    <Low>0.785506</Low>
+    <Close>0.795895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-12</Date>
+    <Open>0.795895</Open>
+    <High>0.812306</High>
+    <Low>0.776388</Low>
+    <Close>0.810748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-13</Date>
+    <Open>0.811549</Open>
+    <High>0.822993</High>
+    <Low>0.799299</Low>
+    <Close>0.805803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-14</Date>
+    <Open>0.805903</Open>
+    <High>0.818791</High>
+    <Low>0.794497</Low>
+    <Close>0.801881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-15</Date>
+    <Open>0.801801</Open>
+    <High>0.8344</High>
+    <Low>0.796578</Low>
+    <Close>0.830481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-16</Date>
+    <Open>0.830481</Open>
+    <High>0.836485</High>
+    <Low>0.816971</Low>
+    <Close>0.825713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-17</Date>
+    <Open>0.82563</Open>
+    <High>0.838935</High>
+    <Low>0.804302</Low>
+    <Close>0.835317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-18</Date>
+    <Open>0.835017</Open>
+    <High>0.836318</High>
+    <Low>0.79942</Low>
+    <Close>0.829732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-19</Date>
+    <Open>0.829232</Open>
+    <High>0.833708</High>
+    <Low>0.81639</Low>
+    <Close>0.827948</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-20</Date>
+    <Open>0.827213</Open>
+    <High>0.834651</High>
+    <Low>0.821729</Low>
+    <Close>0.829446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-21</Date>
+    <Open>0.829045</Open>
+    <High>0.843906</High>
+    <Low>0.819391</Low>
+    <Close>0.830898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-22</Date>
+    <Open>0.830515</Open>
+    <High>0.857014</High>
+    <Low>0.823794</Low>
+    <Close>0.85111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-23</Date>
+    <Open>0.850825</Open>
+    <High>0.881688</High>
+    <Low>0.846312</Low>
+    <Close>0.869243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-24</Date>
+    <Open>0.869252</Open>
+    <High>0.882935</High>
+    <Low>0.810027</Low>
+    <Close>0.82955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-25</Date>
+    <Open>0.829259</Open>
+    <High>0.834691</High>
+    <Low>0.814265</Low>
+    <Close>0.822525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-26</Date>
+    <Open>0.822516</Open>
+    <High>0.871013</High>
+    <Low>0.819525</Low>
+    <Close>0.861798</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-27</Date>
+    <Open>0.861658</Open>
+    <High>0.862572</High>
+    <Low>0.84357</Low>
+    <Close>0.849214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="CRV">
+    <Date>2023-05-28</Date>
+    <Open>0.84944</Open>
+    <High>0.86133</High>
+    <Low>0.844636</Low>
+    <Close>0.850296</Close>
+  </Cryptocurrency>
+</Root>

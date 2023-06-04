@@ -1,0 +1,2670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-14</Date>
+    <Open>2.08944</Open>
+    <High>2.24505</High>
+    <Low>1.90798</Low>
+    <Close>2.02096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-15</Date>
+    <Open>2.01717</Open>
+    <High>2.20069</High>
+    <Low>1.9942</Low>
+    <Close>2.18038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-16</Date>
+    <Open>2.18837</Open>
+    <High>2.22932</High>
+    <Low>1.95465</Low>
+    <Close>2.04833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-17</Date>
+    <Open>2.05133</Open>
+    <High>2.48127</High>
+    <Low>1.99221</Low>
+    <Close>2.28902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-18</Date>
+    <Open>2.28802</Open>
+    <High>2.7102</High>
+    <Low>2.20213</Low>
+    <Close>2.50174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-19</Date>
+    <Open>2.4995</Open>
+    <High>2.70548</High>
+    <Low>2.21456</Low>
+    <Close>2.30692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-20</Date>
+    <Open>2.31092</Open>
+    <High>2.45354</High>
+    <Low>2.18038</Low>
+    <Close>2.22133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-21</Date>
+    <Open>2.21234</Open>
+    <High>2.34794</High>
+    <Low>2.12345</Low>
+    <Close>2.23309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-22</Date>
+    <Open>2.23209</Open>
+    <High>2.32897</High>
+    <Low>2.21012</Low>
+    <Close>2.23232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-23</Date>
+    <Open>2.23332</Open>
+    <High>2.33866</High>
+    <Low>2.20557</Low>
+    <Close>2.28026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-24</Date>
+    <Open>2.27327</Open>
+    <High>2.50224</High>
+    <Low>2.14442</Low>
+    <Close>2.24208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-25</Date>
+    <Open>2.24208</Open>
+    <High>2.31945</High>
+    <Low>2.20857</Low>
+    <Close>2.2493</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-26</Date>
+    <Open>2.24752</Open>
+    <High>2.25951</High>
+    <Low>1.92688</Low>
+    <Close>2.04895</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-27</Date>
+    <Open>2.04495</Open>
+    <High>2.06194</High>
+    <Low>1.85895</Low>
+    <Close>1.93606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-28</Date>
+    <Open>1.9288</Open>
+    <High>2.01982</High>
+    <Low>1.89565</Low>
+    <Close>1.99067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-29</Date>
+    <Open>1.99163</Open>
+    <High>2.31343</High>
+    <Low>1.94104</Low>
+    <Close>2.07769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-30</Date>
+    <Open>2.07665</Open>
+    <High>2.22844</High>
+    <Low>2.07272</Low>
+    <Close>2.21845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-05-31</Date>
+    <Open>2.22144</Open>
+    <High>2.33936</High>
+    <Low>2.1253</Low>
+    <Close>2.25397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-01</Date>
+    <Open>2.26024</Open>
+    <High>2.27618</High>
+    <Low>2.03896</Low>
+    <Close>2.05415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-02</Date>
+    <Open>2.05315</Open>
+    <High>2.12209</High>
+    <Low>2.04016</Low>
+    <Close>2.1121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-03</Date>
+    <Open>2.1121</Open>
+    <High>2.14307</High>
+    <Low>1.99702</Low>
+    <Close>2.04522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-04</Date>
+    <Open>2.04722</Open>
+    <High>2.05244</High>
+    <Low>1.98995</Low>
+    <Close>2.04045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-05</Date>
+    <Open>2.04049</Open>
+    <High>2.07411</High>
+    <Low>1.98533</Low>
+    <Close>2.04607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-06</Date>
+    <Open>2.04807</Open>
+    <High>2.11724</High>
+    <Low>1.99954</Low>
+    <Close>2.04226</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-07</Date>
+    <Open>2.04328</Open>
+    <High>2.06052</High>
+    <Low>1.88853</Low>
+    <Close>2.01635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-08</Date>
+    <Open>2.02338</Open>
+    <High>2.03578</High>
+    <Low>1.93165</Low>
+    <Close>1.95273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-09</Date>
+    <Open>1.95373</Open>
+    <High>2.32319</High>
+    <Low>1.91358</Low>
+    <Close>2.01331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-10</Date>
+    <Open>2.01329</Open>
+    <High>2.35597</High>
+    <Low>1.95961</Low>
+    <Close>1.97247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-11</Date>
+    <Open>1.97549</Open>
+    <High>2.17363</High>
+    <Low>1.74483</Low>
+    <Close>1.79197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-12</Date>
+    <Open>1.79495</Open>
+    <High>1.92582</High>
+    <Low>1.5548</Low>
+    <Close>1.61801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-13</Date>
+    <Open>1.61002</Open>
+    <High>1.61002</High>
+    <Low>1.25821</Low>
+    <Close>1.34414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-14</Date>
+    <Open>1.34215</Open>
+    <High>1.77895</High>
+    <Low>1.2212</Low>
+    <Close>1.46524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-15</Date>
+    <Open>1.46522</Open>
+    <High>1.5486</High>
+    <Low>1.28446</Low>
+    <Close>1.51373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-16</Date>
+    <Open>1.50973</Open>
+    <High>1.52786</High>
+    <Low>1.37435</Low>
+    <Close>1.40503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-17</Date>
+    <Open>1.33514</Open>
+    <High>1.4055</High>
+    <Low>1.32256</Low>
+    <Close>1.35257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-18</Date>
+    <Open>1.35437</Open>
+    <High>1.424</High>
+    <Low>1.12841</Low>
+    <Close>1.20005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-19</Date>
+    <Open>1.20205</Open>
+    <High>1.30743</High>
+    <Low>1.16526</Low>
+    <Close>1.29631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-20</Date>
+    <Open>1.29631</Open>
+    <High>1.4173</High>
+    <Low>1.24238</Low>
+    <Close>1.32354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-21</Date>
+    <Open>1.32454</Open>
+    <High>1.43671</High>
+    <Low>1.30257</Low>
+    <Close>1.36963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-22</Date>
+    <Open>1.36264</Open>
+    <High>1.42843</High>
+    <Low>1.2947</Low>
+    <Close>1.30469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-23</Date>
+    <Open>1.30469</Open>
+    <High>1.38661</High>
+    <Low>1.2947</Low>
+    <Close>1.34865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-24</Date>
+    <Open>1.34865</Open>
+    <High>1.47876</High>
+    <Low>1.34852</Low>
+    <Close>1.46284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-25</Date>
+    <Open>1.45954</Open>
+    <High>1.47977</High>
+    <Low>1.38506</Low>
+    <Close>1.44898</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-26</Date>
+    <Open>1.44599</Open>
+    <High>1.55808</High>
+    <Low>1.42119</Low>
+    <Close>1.43111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-27</Date>
+    <Open>1.43514</Open>
+    <High>1.43515</High>
+    <Low>1.33677</Low>
+    <Close>1.35278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-28</Date>
+    <Open>1.35281</Open>
+    <High>1.4246</High>
+    <Low>1.2864</Low>
+    <Close>1.30339</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-29</Date>
+    <Open>1.2984</Open>
+    <High>1.33434</High>
+    <Low>1.25233</Low>
+    <Close>1.28146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-06-30</Date>
+    <Open>1.28245</Open>
+    <High>1.28346</High>
+    <Low>1.1635</Low>
+    <Close>1.18058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-01</Date>
+    <Open>1.18458</Open>
+    <High>1.28159</High>
+    <Low>1.18058</Low>
+    <Close>1.18569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-02</Date>
+    <Open>1.18769</Open>
+    <High>1.34252</High>
+    <Low>1.16971</Low>
+    <Close>1.20455</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-03</Date>
+    <Open>1.20455</Open>
+    <High>1.25936</High>
+    <Low>1.16349</Low>
+    <Close>1.21442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-04</Date>
+    <Open>1.21742</Open>
+    <High>1.23552</High>
+    <Low>1.17835</Low>
+    <Close>1.22753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-05</Date>
+    <Open>1.22753</Open>
+    <High>1.39133</High>
+    <Low>1.20855</Low>
+    <Close>1.2676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-06</Date>
+    <Open>1.26561</Open>
+    <High>1.37735</High>
+    <Low>1.24363</Low>
+    <Close>1.26061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-07</Date>
+    <Open>1.26461</Open>
+    <High>1.32907</High>
+    <Low>1.25362</Low>
+    <Close>1.30522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-08</Date>
+    <Open>1.31021</Open>
+    <High>1.34392</High>
+    <Low>1.25712</Low>
+    <Close>1.27623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-09</Date>
+    <Open>1.27623</Open>
+    <High>1.52309</High>
+    <Low>1.26511</Low>
+    <Close>1.5061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-10</Date>
+    <Open>1.50794</Open>
+    <High>1.54107</High>
+    <Low>1.3292</Low>
+    <Close>1.39416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-11</Date>
+    <Open>1.39017</Open>
+    <High>1.40216</High>
+    <Low>1.25687</Low>
+    <Close>1.26186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-12</Date>
+    <Open>1.25987</Open>
+    <High>1.25987</High>
+    <Low>1.16483</Low>
+    <Close>1.17283</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-13</Date>
+    <Open>1.16988</Open>
+    <High>1.23177</High>
+    <Low>1.12288</Low>
+    <Close>1.20491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-14</Date>
+    <Open>1.20192</Open>
+    <High>1.27224</High>
+    <Low>1.19293</Low>
+    <Close>1.24725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-15</Date>
+    <Open>1.24725</Open>
+    <High>1.30935</High>
+    <Low>1.23913</Low>
+    <Close>1.28561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-16</Date>
+    <Open>1.28861</Open>
+    <High>1.3456</High>
+    <Low>1.23651</Low>
+    <Close>1.29461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-17</Date>
+    <Open>1.29766</Open>
+    <High>1.35769</High>
+    <Low>1.27463</Low>
+    <Close>1.29366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-18</Date>
+    <Open>1.29565</Open>
+    <High>1.41659</High>
+    <Low>1.26458</Low>
+    <Close>1.3227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-19</Date>
+    <Open>1.3237</Open>
+    <High>1.44923</High>
+    <Low>1.31863</Low>
+    <Close>1.42123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-20</Date>
+    <Open>1.422</Open>
+    <High>1.44116</High>
+    <Low>1.29697</Low>
+    <Close>1.32907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-21</Date>
+    <Open>1.32816</Open>
+    <High>1.34524</High>
+    <Low>1.23712</Low>
+    <Close>1.33432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-22</Date>
+    <Open>1.33432</Open>
+    <High>1.37725</High>
+    <Low>1.30012</Low>
+    <Close>1.31229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-23</Date>
+    <Open>1.3123</Open>
+    <High>1.44199</High>
+    <Low>1.30813</Low>
+    <Close>1.35526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-24</Date>
+    <Open>1.35514</Open>
+    <High>1.38986</High>
+    <Low>1.33713</Low>
+    <Close>1.36027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-25</Date>
+    <Open>1.36027</Open>
+    <High>1.37928</High>
+    <Low>1.25516</Low>
+    <Close>1.2851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-26</Date>
+    <Open>1.28512</Open>
+    <High>1.28519</High>
+    <Low>1.20704</Low>
+    <Close>1.22218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-27</Date>
+    <Open>1.22817</Open>
+    <High>1.31829</High>
+    <Low>1.22291</Low>
+    <Close>1.30229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-28</Date>
+    <Open>1.30031</Open>
+    <High>1.52132</High>
+    <Low>1.29632</Low>
+    <Close>1.43329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-29</Date>
+    <Open>1.43129</Open>
+    <High>1.4841</High>
+    <Low>1.38241</Low>
+    <Close>1.41558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-30</Date>
+    <Open>1.41657</Open>
+    <High>1.53554</High>
+    <Low>1.39454</Low>
+    <Close>1.44749</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-07-31</Date>
+    <Open>1.44153</Open>
+    <High>1.53037</High>
+    <Low>1.40653</Low>
+    <Close>1.47934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-01</Date>
+    <Open>1.47959</Open>
+    <High>1.47959</High>
+    <Low>1.36403</Low>
+    <Close>1.41442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-02</Date>
+    <Open>1.41142</Open>
+    <High>1.45757</High>
+    <Low>1.36241</Low>
+    <Close>1.42126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-03</Date>
+    <Open>1.42328</Open>
+    <High>1.49343</High>
+    <Low>1.38635</Low>
+    <Close>1.46835</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-04</Date>
+    <Open>1.46635</Open>
+    <High>1.71112</High>
+    <Low>1.42218</Low>
+    <Close>1.53405</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-05</Date>
+    <Open>1.53106</Open>
+    <High>1.70022</High>
+    <Low>1.51715</Low>
+    <Close>1.5923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-06</Date>
+    <Open>1.59232</Open>
+    <High>1.60429</High>
+    <Low>1.55031</Low>
+    <Close>1.56734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-07</Date>
+    <Open>1.56736</Open>
+    <High>1.61831</High>
+    <Low>1.52915</Low>
+    <Close>1.5883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-08</Date>
+    <Open>1.58729</Open>
+    <High>1.65131</High>
+    <Low>1.56127</Low>
+    <Close>1.60819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-09</Date>
+    <Open>1.60824</Open>
+    <High>1.62234</High>
+    <Low>1.47632</Low>
+    <Close>1.5073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-10</Date>
+    <Open>1.5073</Open>
+    <High>2.02217</High>
+    <Low>1.46335</Low>
+    <Close>1.80952</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-11</Date>
+    <Open>1.80972</Open>
+    <High>2.51105</High>
+    <Low>1.78852</Low>
+    <Close>2.121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-12</Date>
+    <Open>2.11906</Open>
+    <High>2.17609</High>
+    <Low>1.83292</Low>
+    <Close>1.97791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-13</Date>
+    <Open>1.97691</Open>
+    <High>2.0851</High>
+    <Low>1.89566</Low>
+    <Close>1.91775</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-14</Date>
+    <Open>1.91675</Open>
+    <High>1.95278</High>
+    <Low>1.8034</Low>
+    <Close>1.85758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-15</Date>
+    <Open>1.85856</Open>
+    <High>1.91352</High>
+    <Low>1.73245</Low>
+    <Close>1.78243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-16</Date>
+    <Open>1.78245</Open>
+    <High>2.14841</High>
+    <Low>1.75028</Low>
+    <Close>1.90117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-17</Date>
+    <Open>1.90117</Open>
+    <High>2.1892</High>
+    <Low>1.86698</Low>
+    <Close>1.92615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-18</Date>
+    <Open>1.92713</Open>
+    <High>1.97522</High>
+    <Low>1.83907</Low>
+    <Close>1.87402</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-19</Date>
+    <Open>1.87419</Open>
+    <High>1.87719</High>
+    <Low>1.56016</Low>
+    <Close>1.639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-20</Date>
+    <Open>1.64108</Open>
+    <High>1.74824</High>
+    <Low>1.54688</Low>
+    <Close>1.603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-21</Date>
+    <Open>1.60295</Open>
+    <High>1.92119</High>
+    <Low>1.59492</Low>
+    <Close>1.80496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-22</Date>
+    <Open>1.80496</Open>
+    <High>1.855</High>
+    <Low>1.66088</Low>
+    <Close>1.73471</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-23</Date>
+    <Open>1.73874</Open>
+    <High>1.88891</High>
+    <Low>1.7387</Low>
+    <Close>1.80004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-24</Date>
+    <Open>1.796</Open>
+    <High>1.87991</High>
+    <Low>1.75607</Low>
+    <Close>1.80614</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-25</Date>
+    <Open>1.80416</Open>
+    <High>1.84889</High>
+    <Low>1.76298</Low>
+    <Close>1.78605</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-26</Date>
+    <Open>1.78405</Open>
+    <High>1.82416</High>
+    <Low>1.60698</Low>
+    <Close>1.64216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-27</Date>
+    <Open>1.64716</Open>
+    <High>1.65117</High>
+    <Low>1.54803</Low>
+    <Close>1.54905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-28</Date>
+    <Open>1.54805</Open>
+    <High>1.61605</High>
+    <Low>1.54603</Low>
+    <Close>1.561</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-29</Date>
+    <Open>1.561</Open>
+    <High>1.61018</High>
+    <Low>1.475</Low>
+    <Close>1.59411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-30</Date>
+    <Open>1.59316</Open>
+    <High>1.63798</High>
+    <Low>1.49203</Low>
+    <Close>1.53512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-08-31</Date>
+    <Open>1.53512</Open>
+    <High>1.59802</High>
+    <Low>1.51918</Low>
+    <Close>1.57598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-01</Date>
+    <Open>1.579</Open>
+    <High>1.57902</High>
+    <Low>1.47091</Low>
+    <Close>1.51591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-02</Date>
+    <Open>1.51691</Open>
+    <High>1.57828</High>
+    <Low>1.50802</Low>
+    <Close>1.5332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-03</Date>
+    <Open>1.53023</Open>
+    <High>1.56</High>
+    <Low>1.512</Low>
+    <Close>1.518</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-04</Date>
+    <Open>1.51915</Open>
+    <High>1.628</High>
+    <Low>1.514</Low>
+    <Close>1.587</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-05</Date>
+    <Open>1.586</Open>
+    <High>1.63016</High>
+    <Low>1.532</Low>
+    <Close>1.59816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-06</Date>
+    <Open>1.59616</Open>
+    <High>1.655</High>
+    <Low>1.45585</Low>
+    <Close>1.481</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-07</Date>
+    <Open>1.478</Open>
+    <High>1.57824</High>
+    <Low>1.43403</Low>
+    <Close>1.56811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-08</Date>
+    <Open>1.56811</Open>
+    <High>1.60208</High>
+    <Low>1.48704</Low>
+    <Close>1.52524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-09</Date>
+    <Open>1.52324</Open>
+    <High>1.73359</High>
+    <Low>1.51721</Low>
+    <Close>1.72557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-10</Date>
+    <Open>1.7216</Open>
+    <High>1.74066</High>
+    <Low>1.60574</Low>
+    <Close>1.62332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-11</Date>
+    <Open>1.62731</Open>
+    <High>2.06366</High>
+    <Low>1.61461</Low>
+    <Close>1.88645</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-12</Date>
+    <Open>1.88745</Open>
+    <High>1.93729</High>
+    <Low>1.75832</Low>
+    <Close>1.83537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-13</Date>
+    <Open>1.83655</Open>
+    <High>2.05127</High>
+    <Low>1.657</Low>
+    <Close>1.69003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-14</Date>
+    <Open>1.68803</Open>
+    <High>1.74916</High>
+    <Low>1.61206</Low>
+    <Close>1.66742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-15</Date>
+    <Open>1.66442</Open>
+    <High>1.67138</High>
+    <Low>1.54672</Low>
+    <Close>1.62485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-16</Date>
+    <Open>1.62389</Open>
+    <High>1.68487</High>
+    <Low>1.58668</Low>
+    <Close>1.65483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-17</Date>
+    <Open>1.655</Open>
+    <High>1.716</High>
+    <Low>1.642</Low>
+    <Close>1.68617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-18</Date>
+    <Open>1.68617</Open>
+    <High>1.697</High>
+    <Low>1.43286</Low>
+    <Close>1.474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-19</Date>
+    <Open>1.469</Open>
+    <High>1.64016</High>
+    <Low>1.42486</Low>
+    <Close>1.57416</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-20</Date>
+    <Open>1.57616</Open>
+    <High>1.64633</High>
+    <Low>1.507</Low>
+    <Close>1.51315</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-21</Date>
+    <Open>1.50902</Open>
+    <High>1.58416</High>
+    <Low>1.461</Low>
+    <Close>1.465</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-22</Date>
+    <Open>1.464</Open>
+    <High>1.548</High>
+    <Low>1.441</Low>
+    <Close>1.52485</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-23</Date>
+    <Open>1.524</Open>
+    <High>1.565</High>
+    <Low>1.46785</Low>
+    <Close>1.53085</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-24</Date>
+    <Open>1.53594</Open>
+    <High>1.69108</High>
+    <Low>1.53185</Low>
+    <Close>1.61915</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-25</Date>
+    <Open>1.615</Open>
+    <High>1.99802</High>
+    <Low>1.60816</Low>
+    <Close>1.795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-26</Date>
+    <Open>1.794</Open>
+    <High>1.95</High>
+    <Low>1.68317</Low>
+    <Close>1.758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-27</Date>
+    <Open>1.758</Open>
+    <High>1.848</High>
+    <Low>1.708</Low>
+    <Close>1.75982</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-28</Date>
+    <Open>1.75582</Open>
+    <High>1.761</High>
+    <Low>1.62368</Low>
+    <Close>1.709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-29</Date>
+    <Open>1.711</Open>
+    <High>1.724</High>
+    <Low>1.63516</Low>
+    <Close>1.677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-09-30</Date>
+    <Open>1.67717</Open>
+    <High>1.753</High>
+    <Low>1.63316</Low>
+    <Close>1.693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-01</Date>
+    <Open>1.692</Open>
+    <High>1.71917</High>
+    <Low>1.64</Low>
+    <Close>1.654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-02</Date>
+    <Open>1.655</Open>
+    <High>1.68</High>
+    <Low>1.61</Low>
+    <Close>1.621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-03</Date>
+    <Open>1.61916</Open>
+    <High>1.74817</High>
+    <Low>1.551</Low>
+    <Close>1.71717</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-04</Date>
+    <Open>1.71817</Open>
+    <High>1.88738</High>
+    <Low>1.69151</Low>
+    <Close>1.79954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-05</Date>
+    <Open>1.79854</Open>
+    <High>1.9922</High>
+    <Low>1.75535</Low>
+    <Close>1.92038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-06</Date>
+    <Open>1.92138</Open>
+    <High>1.93325</High>
+    <Low>1.83324</Low>
+    <Close>1.83931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-07</Date>
+    <Open>1.83931</Open>
+    <High>2.02312</High>
+    <Low>1.82422</Low>
+    <Close>1.96628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-08</Date>
+    <Open>1.96526</Open>
+    <High>2.05527</High>
+    <Low>1.95416</Low>
+    <Close>1.96653</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-09</Date>
+    <Open>1.96651</Open>
+    <High>2.0102</High>
+    <Low>1.88638</Low>
+    <Close>1.93039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-10</Date>
+    <Open>1.92338</Open>
+    <High>1.9542</High>
+    <Low>1.79864</Low>
+    <Close>1.815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-11</Date>
+    <Open>1.816</Open>
+    <High>1.90887</High>
+    <Low>1.702</Low>
+    <Close>1.82184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-12</Date>
+    <Open>1.82184</Open>
+    <High>1.85674</High>
+    <Low>1.75991</Low>
+    <Close>1.77005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-13</Date>
+    <Open>1.77802</Open>
+    <High>1.79098</High>
+    <Low>1.56491</Low>
+    <Close>1.75914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-14</Date>
+    <Open>1.76016</Open>
+    <High>1.89504</High>
+    <Low>1.7231</Low>
+    <Close>1.75305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-15</Date>
+    <Open>1.75207</Open>
+    <High>1.78707</High>
+    <Low>1.7161</Low>
+    <Close>1.76309</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-16</Date>
+    <Open>1.76111</Open>
+    <High>1.9541</High>
+    <Low>1.74007</Low>
+    <Close>1.90208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-17</Date>
+    <Open>1.89909</Open>
+    <High>2.258</High>
+    <Low>1.88509</Low>
+    <Close>2.10704</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-18</Date>
+    <Open>2.11304</Open>
+    <High>2.17815</High>
+    <Low>2.03614</Low>
+    <Close>2.05912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-19</Date>
+    <Open>2.05821</Open>
+    <High>2.08817</High>
+    <Low>1.98502</Low>
+    <Close>2.006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-20</Date>
+    <Open>2.00098</Open>
+    <High>2.03792</High>
+    <Low>1.81785</Low>
+    <Close>1.83782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-21</Date>
+    <Open>1.83587</Open>
+    <High>1.893</High>
+    <Low>1.76096</Low>
+    <Close>1.84013</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-22</Date>
+    <Open>1.84115</Open>
+    <High>1.96714</High>
+    <Low>1.82315</Low>
+    <Close>1.93517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-23</Date>
+    <Open>1.92915</Open>
+    <High>1.981</High>
+    <Low>1.89721</Low>
+    <Close>1.91923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-24</Date>
+    <Open>1.92325</Open>
+    <High>1.94814</High>
+    <Low>1.85206</Low>
+    <Close>1.89108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-25</Date>
+    <Open>1.89306</Open>
+    <High>2.03212</High>
+    <Low>1.88413</Low>
+    <Close>1.95663</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-26</Date>
+    <Open>1.95565</Open>
+    <High>2.16669</High>
+    <Low>1.92346</Low>
+    <Close>2.0596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-27</Date>
+    <Open>2.0576</Open>
+    <High>2.1984</High>
+    <Low>1.99146</Low>
+    <Close>2.05814</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-28</Date>
+    <Open>2.06012</Open>
+    <High>2.07842</High>
+    <Low>1.90215</Low>
+    <Close>2.03341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-29</Date>
+    <Open>2.03341</Open>
+    <High>2.38755</High>
+    <Low>2.03337</Low>
+    <Close>2.30955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-30</Date>
+    <Open>2.30555</Open>
+    <High>2.43549</High>
+    <Low>2.13647</Low>
+    <Close>2.17546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-10-31</Date>
+    <Open>2.17744</Open>
+    <High>2.70092</High>
+    <Low>2.14549</Low>
+    <Close>2.41981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-01</Date>
+    <Open>2.42285</Open>
+    <High>2.56956</High>
+    <Low>2.27552</Low>
+    <Close>2.48273</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-02</Date>
+    <Open>2.50172</Open>
+    <High>2.68454</High>
+    <Low>2.30977</Low>
+    <Close>2.50787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-03</Date>
+    <Open>2.50187</Open>
+    <High>3.03364</High>
+    <Low>2.47475</Low>
+    <Close>2.59597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-04</Date>
+    <Open>2.59697</Open>
+    <High>2.92482</High>
+    <Low>2.587</Low>
+    <Close>2.78319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-05</Date>
+    <Open>2.77819</Open>
+    <High>2.99512</High>
+    <Low>2.68413</Low>
+    <Close>2.72114</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-06</Date>
+    <Open>2.72111</Open>
+    <High>2.87991</High>
+    <Low>2.56797</Low>
+    <Close>2.74822</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-07</Date>
+    <Open>2.74619</Open>
+    <High>2.80594</High>
+    <Low>2.41719</Low>
+    <Close>2.65532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-08</Date>
+    <Open>2.6578</Open>
+    <High>2.76138</High>
+    <Low>1.61209</Low>
+    <Close>1.91573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-09</Date>
+    <Open>1.91071</Open>
+    <High>2.04576</High>
+    <Low>1.40358</Low>
+    <Close>1.44422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-10</Date>
+    <Open>1.44778</Open>
+    <High>1.95336</High>
+    <Low>1.42242</Low>
+    <Close>1.80354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-11</Date>
+    <Open>1.802</Open>
+    <High>2.0357</High>
+    <Low>1.6182</Low>
+    <Close>1.75</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-12</Date>
+    <Open>1.75118</Open>
+    <High>1.87664</High>
+    <Low>1.64603</Low>
+    <Close>1.72489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-13</Date>
+    <Open>1.72389</Open>
+    <High>1.94948</High>
+    <Low>1.69095</Low>
+    <Close>1.81146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-14</Date>
+    <Open>1.80946</Open>
+    <High>1.8288</High>
+    <Low>1.61873</Low>
+    <Close>1.72741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-15</Date>
+    <Open>1.72632</Open>
+    <High>1.90809</High>
+    <Low>1.7116</Low>
+    <Close>1.78721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-16</Date>
+    <Open>1.78782</Open>
+    <High>1.8807</High>
+    <Low>1.70526</Low>
+    <Close>1.73042</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-17</Date>
+    <Open>1.73426</Open>
+    <High>1.75349</High>
+    <Low>1.6815</Low>
+    <Close>1.72965</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-18</Date>
+    <Open>1.72963</Open>
+    <High>1.75561</High>
+    <Low>1.69117</Low>
+    <Close>1.73101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-19</Date>
+    <Open>1.734</Open>
+    <High>1.74185</High>
+    <Low>1.66703</Low>
+    <Close>1.70123</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-20</Date>
+    <Open>1.70247</Open>
+    <High>1.74278</High>
+    <Low>1.58023</Low>
+    <Close>1.58758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-21</Date>
+    <Open>1.59059</Open>
+    <High>1.61569</High>
+    <Low>1.49744</Low>
+    <Close>1.56612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-22</Date>
+    <Open>1.56812</Open>
+    <High>1.59206</High>
+    <Low>1.46011</Low>
+    <Close>1.58407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-23</Date>
+    <Open>1.58407</Open>
+    <High>1.83881</High>
+    <Low>1.58402</Low>
+    <Close>1.69615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-24</Date>
+    <Open>1.69615</Open>
+    <High>1.73323</High>
+    <Low>1.62452</Low>
+    <Close>1.66162</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-25</Date>
+    <Open>1.66358</Open>
+    <High>1.6697</High>
+    <Low>1.54592</Low>
+    <Close>1.59609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-26</Date>
+    <Open>1.59709</Open>
+    <High>1.65402</High>
+    <Low>1.58798</Low>
+    <Close>1.59606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-27</Date>
+    <Open>1.59308</Open>
+    <High>1.63595</High>
+    <Low>1.55999</Low>
+    <Close>1.61598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-28</Date>
+    <Open>1.61698</Open>
+    <High>1.61698</High>
+    <Low>1.48417</Low>
+    <Close>1.52242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-29</Date>
+    <Open>1.52342</Open>
+    <High>1.70235</High>
+    <Low>1.50837</Low>
+    <Close>1.60341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-11-30</Date>
+    <Open>1.6094</Open>
+    <High>1.8184</High>
+    <Low>1.59746</Low>
+    <Close>1.75407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-01</Date>
+    <Open>1.75307</Open>
+    <High>1.78405</High>
+    <Low>1.65798</Low>
+    <Close>1.6841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-02</Date>
+    <Open>1.68808</Open>
+    <High>1.70317</High>
+    <Low>1.61619</Low>
+    <Close>1.6711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-03</Date>
+    <Open>1.6711</Open>
+    <High>1.68822</High>
+    <Low>1.58316</Low>
+    <Close>1.60016</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-04</Date>
+    <Open>1.60016</Open>
+    <High>1.67433</High>
+    <Low>1.59116</Low>
+    <Close>1.62616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-05</Date>
+    <Open>1.62633</Open>
+    <High>1.68617</High>
+    <Low>1.604</Low>
+    <Close>1.64505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-06</Date>
+    <Open>1.64616</Open>
+    <High>1.67598</High>
+    <Low>1.61505</Low>
+    <Close>1.63497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-07</Date>
+    <Open>1.637</Open>
+    <High>1.661</High>
+    <Low>1.56609</Low>
+    <Close>1.58602</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-08</Date>
+    <Open>1.587</Open>
+    <High>1.64326</High>
+    <Low>1.558</Low>
+    <Close>1.62911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-09</Date>
+    <Open>1.62913</Open>
+    <High>1.66108</High>
+    <Low>1.62108</Low>
+    <Close>1.63305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-10</Date>
+    <Open>1.63507</Open>
+    <High>1.67902</High>
+    <Low>1.63405</Low>
+    <Close>1.66797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-11</Date>
+    <Open>1.66697</Open>
+    <High>1.69005</High>
+    <Low>1.62516</Low>
+    <Close>1.63133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-12</Date>
+    <Open>1.63033</Open>
+    <High>1.68919</High>
+    <Low>1.56916</Low>
+    <Close>1.66115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-13</Date>
+    <Open>1.66113</Open>
+    <High>1.70277</High>
+    <Low>1.58616</Low>
+    <Close>1.64559</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-14</Date>
+    <Open>1.64262</Open>
+    <High>1.66962</High>
+    <Low>1.59902</Low>
+    <Close>1.61711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-15</Date>
+    <Open>1.62016</Open>
+    <High>1.63633</High>
+    <Low>1.57916</Low>
+    <Close>1.58132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-16</Date>
+    <Open>1.58432</Open>
+    <High>1.60516</High>
+    <Low>1.42214</Low>
+    <Close>1.44214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-17</Date>
+    <Open>1.43914</Open>
+    <High>1.45315</High>
+    <Low>1.38007</Low>
+    <Close>1.43619</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-18</Date>
+    <Open>1.44019</Open>
+    <High>1.44606</High>
+    <Low>1.39213</Low>
+    <Close>1.41017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-19</Date>
+    <Open>1.408</Open>
+    <High>1.43323</High>
+    <Low>1.28901</Low>
+    <Close>1.29999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-20</Date>
+    <Open>1.30399</Open>
+    <High>1.39899</High>
+    <Low>1.301</Low>
+    <Close>1.37205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-21</Date>
+    <Open>1.37506</Open>
+    <High>1.37706</High>
+    <Low>1.311</Low>
+    <Close>1.31707</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-22</Date>
+    <Open>1.31605</Open>
+    <High>1.34601</High>
+    <Low>1.2889</Low>
+    <Close>1.32379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-23</Date>
+    <Open>1.3228</Open>
+    <High>1.34781</High>
+    <Low>1.31093</Low>
+    <Close>1.31686</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-24</Date>
+    <Open>1.31687</Open>
+    <High>1.33687</High>
+    <Low>1.31489</Low>
+    <Close>1.31691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-25</Date>
+    <Open>1.31691</Open>
+    <High>1.32193</High>
+    <Low>1.29183</Low>
+    <Close>1.30483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-26</Date>
+    <Open>1.30584</Open>
+    <High>1.32787</High>
+    <Low>1.29374</Low>
+    <Close>1.29774</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-27</Date>
+    <Open>1.30174</Open>
+    <High>1.32275</High>
+    <Low>1.25671</Low>
+    <Close>1.26649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-28</Date>
+    <Open>1.26749</Open>
+    <High>1.27746</High>
+    <Low>1.22363</Low>
+    <Close>1.24633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-29</Date>
+    <Open>1.24934</Open>
+    <High>1.29744</High>
+    <Low>1.23937</Low>
+    <Close>1.28341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-30</Date>
+    <Open>1.28443</Open>
+    <High>1.2954</High>
+    <Low>1.25287</Low>
+    <Close>1.26905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2022-12-31</Date>
+    <Open>1.27005</Open>
+    <High>1.28804</High>
+    <Low>1.26814</Low>
+    <Close>1.27646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-01</Date>
+    <Open>1.27646</Open>
+    <High>1.27646</High>
+    <Low>1.2532</Low>
+    <Close>1.26512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-02</Date>
+    <Open>1.26501</Open>
+    <High>1.30944</High>
+    <Low>1.25129</Low>
+    <Close>1.29369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-03</Date>
+    <Open>1.29636</Open>
+    <High>1.31896</High>
+    <Low>1.28227</Low>
+    <Close>1.3024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-04</Date>
+    <Open>1.30051</Open>
+    <High>1.37412</High>
+    <Low>1.30051</Low>
+    <Close>1.35225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-05</Date>
+    <Open>1.35255</Open>
+    <High>1.39064</High>
+    <Low>1.34417</Low>
+    <Close>1.36552</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-06</Date>
+    <Open>1.36569</Open>
+    <High>1.36921</High>
+    <Low>1.3152</Low>
+    <Close>1.36618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-07</Date>
+    <Open>1.36815</Open>
+    <High>1.395</High>
+    <Low>1.36316</Low>
+    <Close>1.36486</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-08</Date>
+    <Open>1.36489</Open>
+    <High>1.41446</High>
+    <Low>1.36216</Low>
+    <Close>1.40719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-09</Date>
+    <Open>1.40733</Open>
+    <High>1.47984</High>
+    <Low>1.40733</Low>
+    <Close>1.43169</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-10</Date>
+    <Open>1.431</Open>
+    <High>1.4568</High>
+    <Low>1.40405</Low>
+    <Close>1.4401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-11</Date>
+    <Open>1.44113</Open>
+    <High>1.44869</High>
+    <Low>1.38009</Low>
+    <Close>1.42397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-12</Date>
+    <Open>1.424</Open>
+    <High>1.5654</High>
+    <Low>1.40825</Low>
+    <Close>1.52575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-13</Date>
+    <Open>1.52565</Open>
+    <High>1.56926</High>
+    <Low>1.50081</Low>
+    <Close>1.56664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-14</Date>
+    <Open>1.56654</Open>
+    <High>1.74226</High>
+    <Low>1.55416</Low>
+    <Close>1.61708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-15</Date>
+    <Open>1.61716</Open>
+    <High>1.6806</High>
+    <Low>1.56416</Low>
+    <Close>1.6585</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-16</Date>
+    <Open>1.6557</Open>
+    <High>1.72686</High>
+    <Low>1.58156</Low>
+    <Close>1.64523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-17</Date>
+    <Open>1.64433</Open>
+    <High>1.67462</High>
+    <Low>1.6156</Low>
+    <Close>1.61636</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-18</Date>
+    <Open>1.61608</Open>
+    <High>1.68197</High>
+    <Low>1.46987</Low>
+    <Close>1.49992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-19</Date>
+    <Open>1.49793</Open>
+    <High>1.57197</High>
+    <Low>1.45987</Low>
+    <Close>1.53694</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-20</Date>
+    <Open>1.54221</Open>
+    <High>1.64225</High>
+    <Low>1.51727</Low>
+    <Close>1.62648</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-21</Date>
+    <Open>1.62789</Open>
+    <High>1.8583</High>
+    <Low>1.62649</Low>
+    <Close>1.76535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-22</Date>
+    <Open>1.75728</Open>
+    <High>2.1034</High>
+    <Low>1.72914</Low>
+    <Close>1.92538</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-23</Date>
+    <Open>1.92338</Open>
+    <High>2.06525</High>
+    <Low>1.90731</Low>
+    <Close>1.99632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-24</Date>
+    <Open>1.9973</Open>
+    <High>2.01826</High>
+    <Low>1.79227</Low>
+    <Close>1.84906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-25</Date>
+    <Open>1.84704</Open>
+    <High>2.46522</High>
+    <Low>1.78932</Low>
+    <Close>2.21235</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-26</Date>
+    <Open>2.22038</Open>
+    <High>2.75011</High>
+    <Low>2.20035</Low>
+    <Close>2.60521</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-27</Date>
+    <Open>2.60321</Open>
+    <High>2.79259</High>
+    <Low>2.51358</Low>
+    <Close>2.54597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-28</Date>
+    <Open>2.55087</Open>
+    <High>2.73974</High>
+    <Low>2.45876</Low>
+    <Close>2.48647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-29</Date>
+    <Open>2.4885</Open>
+    <High>2.5831</High>
+    <Low>2.47054</Low>
+    <Close>2.5411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-30</Date>
+    <Open>2.54513</Open>
+    <High>2.98297</High>
+    <Low>2.4782</Low>
+    <Close>2.8452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-01-31</Date>
+    <Open>2.8412</Open>
+    <High>3.19813</High>
+    <Low>2.69184</Low>
+    <Close>3.14228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-01</Date>
+    <Open>3.14325</Open>
+    <High>4.04632</High>
+    <Low>3.04209</Low>
+    <Close>3.87823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-02</Date>
+    <Open>3.89019</Open>
+    <High>3.96952</High>
+    <Low>3.54046</Low>
+    <Close>3.65673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-03</Date>
+    <Open>3.65973</Open>
+    <High>3.98464</High>
+    <Low>3.58014</Low>
+    <Close>3.7303</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-04</Date>
+    <Open>3.7283</Open>
+    <High>4.23434</High>
+    <Low>3.60729</Low>
+    <Close>3.93535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-05</Date>
+    <Open>3.93431</Open>
+    <High>4.03569</High>
+    <Low>3.51791</Low>
+    <Close>3.63294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-06</Date>
+    <Open>3.61394</Open>
+    <High>3.72793</High>
+    <Low>3.47407</Low>
+    <Close>3.48014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-07</Date>
+    <Open>3.48014</Open>
+    <High>4.37687</High>
+    <Low>3.42</Low>
+    <Close>4.14829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-08</Date>
+    <Open>4.14925</Open>
+    <High>4.27009</High>
+    <Low>3.65415</Low>
+    <Close>3.71426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-09</Date>
+    <Open>3.70222</Open>
+    <High>3.798</High>
+    <Low>3.18548</Low>
+    <Close>3.20529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-10</Date>
+    <Open>3.20332</Open>
+    <High>3.39275</High>
+    <Low>3.00454</Low>
+    <Close>3.11547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-11</Date>
+    <Open>3.12347</Open>
+    <High>3.34133</High>
+    <Low>3.0764</Low>
+    <Close>3.3323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-12</Date>
+    <Open>3.3273</Open>
+    <High>3.59943</High>
+    <Low>3.22952</Low>
+    <Close>3.40834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-13</Date>
+    <Open>3.41234</Open>
+    <High>3.47301</High>
+    <Low>3.04286</Low>
+    <Close>3.21974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-14</Date>
+    <Open>3.22074</Open>
+    <High>3.58751</High>
+    <Low>3.19159</Low>
+    <Close>3.47442</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-15</Date>
+    <Open>3.47846</Open>
+    <High>4.12945</High>
+    <Low>3.41095</Low>
+    <Close>3.90474</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-16</Date>
+    <Open>3.90574</Open>
+    <High>4.04681</High>
+    <Low>3.66425</Low>
+    <Close>3.66425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-17</Date>
+    <Open>3.66124</Open>
+    <High>4.20725</High>
+    <Low>3.6004</Low>
+    <Close>3.96236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-18</Date>
+    <Open>3.95867</Open>
+    <High>4.57896</High>
+    <Low>3.93555</Low>
+    <Close>4.47172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-19</Date>
+    <Open>4.46771</Open>
+    <High>4.53491</High>
+    <Low>4.06414</Low>
+    <Close>4.16396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-20</Date>
+    <Open>4.16092</Open>
+    <High>4.30052</High>
+    <Low>3.97215</Low>
+    <Close>4.18817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-21</Date>
+    <Open>4.18817</Open>
+    <High>4.41562</High>
+    <Low>3.85677</Low>
+    <Close>3.90866</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-22</Date>
+    <Open>3.90766</Open>
+    <High>3.94383</High>
+    <Low>3.66004</Low>
+    <Close>3.81054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-23</Date>
+    <Open>3.80938</Open>
+    <High>4.09104</High>
+    <Low>3.77035</Low>
+    <Close>3.90167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-24</Date>
+    <Open>3.90059</Open>
+    <High>3.96037</High>
+    <Low>3.54698</Low>
+    <Close>3.59606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-25</Date>
+    <Open>3.60056</Open>
+    <High>3.67145</High>
+    <Low>3.29936</Low>
+    <Close>3.40884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-26</Date>
+    <Open>3.4072</Open>
+    <High>3.89001</High>
+    <Low>3.40164</Low>
+    <Close>3.75128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-27</Date>
+    <Open>3.75989</Open>
+    <High>3.89971</High>
+    <Low>3.55544</Low>
+    <Close>3.65748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-02-28</Date>
+    <Open>3.65388</Open>
+    <High>3.7022</High>
+    <Low>3.45179</Low>
+    <Close>3.5305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-01</Date>
+    <Open>3.53174</Open>
+    <High>3.77049</High>
+    <Low>3.50729</Low>
+    <Close>3.76349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-02</Date>
+    <Open>3.77053</Open>
+    <High>3.82546</High>
+    <Low>3.53886</Low>
+    <Close>3.72434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-03</Date>
+    <Open>3.72834</Open>
+    <High>3.8053</High>
+    <Low>3.33643</Low>
+    <Close>3.58425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-04</Date>
+    <Open>3.58321</Open>
+    <High>3.68807</High>
+    <Low>3.10716</Low>
+    <Close>3.22223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-05</Date>
+    <Open>3.22726</Open>
+    <High>3.50235</High>
+    <Low>3.22026</Low>
+    <Close>3.38237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-06</Date>
+    <Open>3.37137</Open>
+    <High>3.44234</High>
+    <Low>3.26161</Low>
+    <Close>3.3248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-07</Date>
+    <Open>3.32163</Open>
+    <High>3.38997</High>
+    <Low>3.09166</Low>
+    <Close>3.14006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-08</Date>
+    <Open>3.13884</Open>
+    <High>3.21771</High>
+    <Low>2.86666</Low>
+    <Close>2.89788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-09</Date>
+    <Open>2.89671</Open>
+    <High>3.02206</High>
+    <Low>2.60348</Low>
+    <Close>2.60526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-10</Date>
+    <Open>2.60326</Open>
+    <High>3.08995</High>
+    <Low>2.4588</Low>
+    <Close>3.02269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-11</Date>
+    <Open>3.02467</Open>
+    <High>3.30402</High>
+    <Low>2.82427</Low>
+    <Close>3.07855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-12</Date>
+    <Open>3.08258</Open>
+    <High>3.57459</High>
+    <Low>2.99983</Low>
+    <Close>3.50206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-13</Date>
+    <Open>3.51014</Open>
+    <High>4.39705</High>
+    <Low>3.49185</Low>
+    <Close>4.23483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-14</Date>
+    <Open>4.22973</Open>
+    <High>4.53371</High>
+    <Low>4.06514</Low>
+    <Close>4.26651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-15</Date>
+    <Open>4.26588</Open>
+    <High>4.31429</High>
+    <Low>3.84837</Low>
+    <Close>4.06701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-16</Date>
+    <Open>4.064</Open>
+    <High>4.3228</High>
+    <Low>3.9849</Low>
+    <Close>4.05094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-17</Date>
+    <Open>4.05603</Open>
+    <High>4.75193</High>
+    <Low>4.00315</Low>
+    <Close>4.72408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-18</Date>
+    <Open>4.72107</Open>
+    <High>5.00975</High>
+    <Low>4.41689</Low>
+    <Close>4.58572</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-19</Date>
+    <Open>4.58567</Open>
+    <High>4.63937</High>
+    <Low>4.27415</Low>
+    <Close>4.35716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-20</Date>
+    <Open>4.35516</Open>
+    <High>4.39602</High>
+    <Low>3.95885</Low>
+    <Close>4.0146</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-21</Date>
+    <Open>4.01263</Open>
+    <High>4.47316</High>
+    <Low>3.87845</Low>
+    <Close>4.20642</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-22</Date>
+    <Open>4.21039</Open>
+    <High>4.38411</High>
+    <Low>3.94055</Low>
+    <Close>4.09411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-23</Date>
+    <Open>4.09619</Open>
+    <High>4.32956</High>
+    <Low>4.09457</Low>
+    <Close>4.20682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-24</Date>
+    <Open>4.20272</Open>
+    <High>4.5038</High>
+    <Low>4.0444</Low>
+    <Close>4.13417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-25</Date>
+    <Open>4.13058</Open>
+    <High>4.25229</High>
+    <Low>3.79528</Low>
+    <Close>3.8177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-26</Date>
+    <Open>3.8187</Open>
+    <High>4.09268</High>
+    <Low>3.79064</Low>
+    <Close>4.01153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-27</Date>
+    <Open>4.01553</Open>
+    <High>4.08343</High>
+    <Low>3.70626</Low>
+    <Close>3.78178</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-28</Date>
+    <Open>3.77978</Open>
+    <High>4.36714</High>
+    <Low>3.63927</Low>
+    <Close>4.13161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-29</Date>
+    <Open>4.14362</Open>
+    <High>4.47791</High>
+    <Low>4.13561</Low>
+    <Close>4.30177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-30</Date>
+    <Open>4.29982</Open>
+    <High>4.96355</High>
+    <Low>4.19221</Low>
+    <Close>4.68331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-03-31</Date>
+    <Open>4.68331</Open>
+    <High>4.83792</High>
+    <Low>4.56632</Low>
+    <Close>4.69098</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-01</Date>
+    <Open>4.68598</Open>
+    <High>5.39964</High>
+    <Low>4.67398</Low>
+    <Close>5.24989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-02</Date>
+    <Open>5.24494</Open>
+    <High>5.30249</High>
+    <Low>4.8603</Low>
+    <Close>5.1612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-03</Date>
+    <Open>5.15519</Open>
+    <High>5.78516</High>
+    <Low>4.87024</Low>
+    <Close>5.69122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-04</Date>
+    <Open>5.68822</Open>
+    <High>5.99416</High>
+    <Low>5.38385</Low>
+    <Close>5.57184</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-05</Date>
+    <Open>5.57779</Open>
+    <High>5.84782</High>
+    <Low>5.26295</Low>
+    <Close>5.48998</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-06</Date>
+    <Open>5.47803</Open>
+    <High>5.8464</High>
+    <Low>5.17017</Low>
+    <Close>5.69199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-07</Date>
+    <Open>5.68599</Open>
+    <High>5.994</High>
+    <Low>5.56678</Low>
+    <Close>5.60214</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-08</Date>
+    <Open>5.6072</Open>
+    <High>5.63066</High>
+    <Low>5.37669</Low>
+    <Close>5.41517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-09</Date>
+    <Open>5.40811</Open>
+    <High>5.74745</High>
+    <Low>5.36827</Low>
+    <Close>5.70582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-10</Date>
+    <Open>5.70782</Open>
+    <High>6.39524</High>
+    <Low>5.5898</Low>
+    <Close>6.25706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-11</Date>
+    <Open>6.26313</Open>
+    <High>6.96254</High>
+    <Low>6.18808</Low>
+    <Close>6.79072</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-12</Date>
+    <Open>6.78871</Open>
+    <High>7.00179</High>
+    <Low>6.36108</Low>
+    <Close>6.68321</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-13</Date>
+    <Open>6.68021</Open>
+    <High>6.92243</High>
+    <Low>6.54371</Low>
+    <Close>6.71944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-14</Date>
+    <Open>6.71944</Open>
+    <High>8.96361</High>
+    <Low>6.67994</Low>
+    <Close>8.74525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-15</Date>
+    <Open>8.75726</Open>
+    <High>8.76327</High>
+    <Low>7.65789</Low>
+    <Close>8.26243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-16</Date>
+    <Open>8.23941</Open>
+    <High>9.0232</High>
+    <Low>8.13791</Low>
+    <Close>8.93298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-17</Date>
+    <Open>8.94299</Open>
+    <High>9.96438</High>
+    <Low>8.83109</Low>
+    <Close>9.06935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-18</Date>
+    <Open>9.07435</Open>
+    <High>9.4098</High>
+    <Low>8.56154</Low>
+    <Close>8.73548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-19</Date>
+    <Open>8.73348</Open>
+    <High>9.24149</High>
+    <Low>8.23296</Low>
+    <Close>8.28856</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-20</Date>
+    <Open>8.29756</Open>
+    <High>8.49127</High>
+    <Low>7.664</Low>
+    <Close>7.89379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-21</Date>
+    <Open>7.89255</Open>
+    <High>8.05219</High>
+    <Low>7.2572</Low>
+    <Close>7.33519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-22</Date>
+    <Open>7.33619</Open>
+    <High>7.5346</High>
+    <Low>7.09564</Low>
+    <Close>7.51468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-23</Date>
+    <Open>7.50968</Open>
+    <High>7.63761</High>
+    <Low>6.82627</Low>
+    <Close>6.84834</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-24</Date>
+    <Open>6.84834</Open>
+    <High>7.03951</High>
+    <Low>6.43551</Low>
+    <Close>6.92714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-25</Date>
+    <Open>6.92214</Open>
+    <High>8.22873</High>
+    <Low>6.897</Low>
+    <Close>8.13187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-26</Date>
+    <Open>8.13687</Open>
+    <High>9.02428</High>
+    <Low>7.92243</Low>
+    <Close>8.64777</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-27</Date>
+    <Open>8.67778</Open>
+    <High>9.28286</High>
+    <Low>8.28823</Low>
+    <Close>9.105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-28</Date>
+    <Open>9.104</Open>
+    <High>9.11792</High>
+    <Low>8.28789</Low>
+    <Close>8.47152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-29</Date>
+    <Open>8.48044</Open>
+    <High>8.64413</High>
+    <Low>8.07649</Low>
+    <Close>8.10578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-04-30</Date>
+    <Open>8.10778</Open>
+    <High>8.40244</High>
+    <Low>7.73849</Low>
+    <Close>7.74741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-01</Date>
+    <Open>7.76642</Open>
+    <High>8.14661</High>
+    <Low>7.54655</Low>
+    <Close>7.73709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-02</Date>
+    <Open>7.73601</Open>
+    <High>8.09285</High>
+    <Low>7.46822</Low>
+    <Close>7.89281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-03</Date>
+    <Open>7.89481</Open>
+    <High>7.96085</High>
+    <Low>7.31605</Low>
+    <Close>7.76302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-04</Date>
+    <Open>7.82111</Open>
+    <High>8.00144</High>
+    <Low>7.34638</Low>
+    <Close>7.37873</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-05</Date>
+    <Open>7.38266</Open>
+    <High>7.97734</High>
+    <Low>7.32107</Low>
+    <Close>7.89017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-06</Date>
+    <Open>7.89017</Open>
+    <High>7.95083</High>
+    <Low>7.11086</Low>
+    <Close>7.32673</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-07</Date>
+    <Open>7.31942</Open>
+    <High>7.61165</High>
+    <Low>7.18261</Low>
+    <Close>7.36361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-08</Date>
+    <Open>7.36176</Open>
+    <High>7.42683</High>
+    <Low>6.48399</Low>
+    <Close>6.62203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-09</Date>
+    <Open>6.63494</Open>
+    <High>6.72584</High>
+    <Low>6.15838</Low>
+    <Close>6.31231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-10</Date>
+    <Open>6.31531</Open>
+    <High>6.87756</High>
+    <Low>6.16462</Low>
+    <Close>6.671</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-11</Date>
+    <Open>6.67467</Open>
+    <High>6.70903</High>
+    <Low>5.63363</Low>
+    <Close>5.77177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-12</Date>
+    <Open>5.77177</Open>
+    <High>6.1931</High>
+    <Low>5.59058</Low>
+    <Close>6.10588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-13</Date>
+    <Open>6.10088</Open>
+    <High>6.28814</High>
+    <Low>5.91955</Low>
+    <Close>6.04062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-14</Date>
+    <Open>6.05102</Open>
+    <High>6.37182</High>
+    <Low>5.88853</Low>
+    <Close>6.08865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-15</Date>
+    <Open>6.08465</Open>
+    <High>6.50155</High>
+    <Low>5.96458</Low>
+    <Close>6.4305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-16</Date>
+    <Open>6.41849</Open>
+    <High>6.48589</High>
+    <Low>6.0134</Low>
+    <Close>6.14646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-17</Date>
+    <Open>6.15946</Open>
+    <High>6.77439</High>
+    <Low>5.96798</Low>
+    <Close>6.63665</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-18</Date>
+    <Open>6.63165</Open>
+    <High>6.65966</High>
+    <Low>6.2615</Low>
+    <Close>6.54862</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-19</Date>
+    <Open>6.54662</Open>
+    <High>7.20588</High>
+    <Low>6.46452</Low>
+    <Close>7.05505</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-20</Date>
+    <Open>7.05004</Open>
+    <High>7.54303</High>
+    <Low>6.92677</Low>
+    <Close>7.26053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-21</Date>
+    <Open>7.26153</Open>
+    <High>7.29883</High>
+    <Low>6.69101</Low>
+    <Close>6.69401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-22</Date>
+    <Open>6.69602</Open>
+    <High>6.95948</High>
+    <Low>6.56228</Low>
+    <Close>6.75838</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-23</Date>
+    <Open>6.74937</Open>
+    <High>7.05542</High>
+    <Low>6.59371</Low>
+    <Close>6.79441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-24</Date>
+    <Open>6.78041</Open>
+    <High>6.82875</High>
+    <Low>6.31467</Low>
+    <Close>6.41062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-25</Date>
+    <Open>6.41168</Open>
+    <High>6.46922</High>
+    <Low>6.11824</Low>
+    <Close>6.32413</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-26</Date>
+    <Open>6.32313</Open>
+    <High>6.59285</High>
+    <Low>6.15855</Low>
+    <Close>6.40728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-27</Date>
+    <Open>6.40892</Open>
+    <High>6.51289</High>
+    <Low>6.32402</Low>
+    <Close>6.36942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="INJ">
+    <Date>2023-05-28</Date>
+    <Open>6.36154</Open>
+    <High>6.97095</High>
+    <Low>6.34417</Low>
+    <Close>6.9506</Close>
+  </Cryptocurrency>
+</Root>

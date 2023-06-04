@@ -1,0 +1,4252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-09-30</Date>
+    <Open>0.08599</Open>
+    <High>0.1017</High>
+    <Low>0.08599</Low>
+    <Close>0.1008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-01</Date>
+    <Open>0.1008</Open>
+    <High>0.118</High>
+    <Low>0.09585</Low>
+    <Close>0.1007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-02</Date>
+    <Open>0.1007</Open>
+    <High>0.1101</High>
+    <Low>0.09963</Low>
+    <Close>0.1015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-03</Date>
+    <Open>0.1015</Open>
+    <High>0.1244</High>
+    <Low>0.0984</Low>
+    <Close>0.1143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-04</Date>
+    <Open>0.1143</Open>
+    <High>0.1232</High>
+    <Low>0.1074</Low>
+    <Close>0.1124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-05</Date>
+    <Open>0.1124</Open>
+    <High>0.1185</High>
+    <Low>0.104</Low>
+    <Close>0.1046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-06</Date>
+    <Open>0.1046</Open>
+    <High>0.1151</High>
+    <Low>0.09796</Low>
+    <Close>0.09907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-07</Date>
+    <Open>0.09906</Open>
+    <High>0.1011</High>
+    <Low>0.09307</Low>
+    <Close>0.0963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-08</Date>
+    <Open>0.0963</Open>
+    <High>0.1052</High>
+    <Low>0.09549</Low>
+    <Close>0.09981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-09</Date>
+    <Open>0.09981</Open>
+    <High>0.1094</High>
+    <Low>0.09784</Low>
+    <Close>0.09894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-10</Date>
+    <Open>0.09894</Open>
+    <High>0.09955</High>
+    <Low>0.09026</Low>
+    <Close>0.09026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-11</Date>
+    <Open>0.09026</Open>
+    <High>0.09602</High>
+    <Low>0.08625</Low>
+    <Close>0.08855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-12</Date>
+    <Open>0.08855</Open>
+    <High>0.08855</High>
+    <Low>0.07898</Low>
+    <Close>0.08626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-13</Date>
+    <Open>0.08626</Open>
+    <High>0.09294</High>
+    <Low>0.08376</Low>
+    <Close>0.08491</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-14</Date>
+    <Open>0.08491</Open>
+    <High>0.09866</High>
+    <Low>0.08374</Low>
+    <Close>0.0912</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-15</Date>
+    <Open>0.0912</Open>
+    <High>0.0987</High>
+    <Low>0.08574</Low>
+    <Close>0.08944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-16</Date>
+    <Open>0.08944</Open>
+    <High>0.09071</High>
+    <Low>0.08523</Low>
+    <Close>0.08706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-17</Date>
+    <Open>0.08706</Open>
+    <High>0.09105</High>
+    <Low>0.08305</Low>
+    <Close>0.08367</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-18</Date>
+    <Open>0.08367</Open>
+    <High>0.08499</High>
+    <Low>0.08127</Low>
+    <Close>0.08375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-19</Date>
+    <Open>0.08375</Open>
+    <High>0.08807</High>
+    <Low>0.08228</Low>
+    <Close>0.08293</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-20</Date>
+    <Open>0.08293</Open>
+    <High>0.09177</High>
+    <Low>0.08293</Low>
+    <Close>0.08715</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-21</Date>
+    <Open>0.08715</Open>
+    <High>0.08715</High>
+    <Low>0.08097</Low>
+    <Close>0.08346</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-22</Date>
+    <Open>0.08346</Open>
+    <High>0.08436</High>
+    <Low>0.07951</Low>
+    <Close>0.08436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-23</Date>
+    <Open>0.08436</Open>
+    <High>0.08645</High>
+    <Low>0.08339</Low>
+    <Close>0.084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-24</Date>
+    <Open>0.084</Open>
+    <High>0.08582</High>
+    <Low>0.08095</Low>
+    <Close>0.08156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-25</Date>
+    <Open>0.08156</Open>
+    <High>0.08517</High>
+    <Low>0.08156</Low>
+    <Close>0.08517</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-26</Date>
+    <Open>0.08517</Open>
+    <High>0.09108</High>
+    <Low>0.08082</Low>
+    <Close>0.09047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-27</Date>
+    <Open>0.09047</Open>
+    <High>0.09413</High>
+    <Low>0.07016</Low>
+    <Close>0.07542</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-28</Date>
+    <Open>0.07542</Open>
+    <High>0.08364</High>
+    <Low>0.07542</Low>
+    <Close>0.08122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-29</Date>
+    <Open>0.08122</Open>
+    <High>0.09903</High>
+    <Low>0.08122</Low>
+    <Close>0.0928</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-30</Date>
+    <Open>0.0928</Open>
+    <High>0.1157</High>
+    <Low>0.09098</Low>
+    <Close>0.1046</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-10-31</Date>
+    <Open>0.1046</Open>
+    <High>0.1166</High>
+    <Low>0.09202</Low>
+    <Close>0.09571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-01</Date>
+    <Open>0.09571</Open>
+    <High>0.09632</High>
+    <Low>0.08961</Low>
+    <Close>0.09083</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-02</Date>
+    <Open>0.09083</Open>
+    <High>0.1018</High>
+    <Low>0.09083</Low>
+    <Close>0.09805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-03</Date>
+    <Open>0.09805</Open>
+    <High>0.1038</High>
+    <Low>0.09125</Low>
+    <Close>0.09502</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-04</Date>
+    <Open>0.09502</Open>
+    <High>0.09709</High>
+    <Low>0.09033</Low>
+    <Close>0.09217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-05</Date>
+    <Open>0.09217</Open>
+    <High>0.09397</High>
+    <Low>0.09031</Low>
+    <Close>0.09153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-06</Date>
+    <Open>0.09153</Open>
+    <High>0.09414</High>
+    <Low>0.08676</Low>
+    <Close>0.09045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-07</Date>
+    <Open>0.09045</Open>
+    <High>0.09495</High>
+    <Low>0.09045</Low>
+    <Close>0.09116</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-08</Date>
+    <Open>0.09116</Open>
+    <High>0.09727</High>
+    <Low>0.09052</Low>
+    <Close>0.09322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-09</Date>
+    <Open>0.09322</Open>
+    <High>0.09322</High>
+    <Low>0.08769</Low>
+    <Close>0.08903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-10</Date>
+    <Open>0.08903</Open>
+    <High>0.0896</High>
+    <Low>0.07531</Low>
+    <Close>0.08246</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-11</Date>
+    <Open>0.08246</Open>
+    <High>0.08816</High>
+    <Low>0.08103</Low>
+    <Close>0.08621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-12</Date>
+    <Open>0.08621</Open>
+    <High>0.08982</High>
+    <Low>0.08276</Low>
+    <Close>0.08469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-13</Date>
+    <Open>0.08469</Open>
+    <High>0.1037</High>
+    <Low>0.08373</Low>
+    <Close>0.09468</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-14</Date>
+    <Open>0.09468</Open>
+    <High>0.09892</High>
+    <Low>0.09171</Low>
+    <Close>0.09368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-15</Date>
+    <Open>0.09368</Open>
+    <High>0.1279</High>
+    <Low>0.0897</Low>
+    <Close>0.1247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-16</Date>
+    <Open>0.1247</Open>
+    <High>0.1395</High>
+    <Low>0.11</Low>
+    <Close>0.1148</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-17</Date>
+    <Open>0.1148</Open>
+    <High>0.2837</High>
+    <Low>0.1135</Low>
+    <Close>0.23</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-18</Date>
+    <Open>0.2731</Open>
+    <High>0.2731</High>
+    <Low>0.2731</Low>
+    <Close>0.2731</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-19</Date>
+    <Open>0.23</Open>
+    <High>0.2674</High>
+    <Low>0.2198</Low>
+    <Close>0.2349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-20</Date>
+    <Open>0.2349</Open>
+    <High>0.4052</High>
+    <Low>0.2349</Low>
+    <Close>0.3544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-21</Date>
+    <Open>0.3544</Open>
+    <High>0.4884</High>
+    <Low>0.3399</Low>
+    <Close>0.371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-22</Date>
+    <Open>0.371</Open>
+    <High>0.4273</High>
+    <Low>0.3525</Low>
+    <Close>0.393</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-23</Date>
+    <Open>0.393</Open>
+    <High>0.4139</High>
+    <Low>0.3609</Low>
+    <Close>0.3771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-24</Date>
+    <Open>0.3771</Open>
+    <High>0.58204</High>
+    <Low>0.3617</Low>
+    <Close>0.5743</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-25</Date>
+    <Open>0.57825</Open>
+    <High>0.79337</High>
+    <Low>0.52431</Low>
+    <Close>0.70142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-26</Date>
+    <Open>0.7</Open>
+    <High>0.84196</High>
+    <Low>0.62</Low>
+    <Close>0.72325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-27</Date>
+    <Open>0.72395</Open>
+    <High>0.73479</High>
+    <Low>0.63101</Low>
+    <Close>0.66568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-28</Date>
+    <Open>0.66594</Open>
+    <High>0.70775</High>
+    <Low>0.57172</Low>
+    <Close>0.67761</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-29</Date>
+    <Open>0.67714</Open>
+    <High>0.75099</High>
+    <Low>0.65427</Low>
+    <Close>0.66216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-11-30</Date>
+    <Open>0.66229</Open>
+    <High>0.66912</High>
+    <Low>0.61396</Low>
+    <Close>0.62156</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-01</Date>
+    <Open>0.62276</Open>
+    <High>0.66384</High>
+    <Low>0.6145</Low>
+    <Close>0.63926</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-02</Date>
+    <Open>0.63913</Open>
+    <High>0.67884</High>
+    <Low>0.57494</Low>
+    <Close>0.59141</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-03</Date>
+    <Open>0.5908</Open>
+    <High>0.59833</High>
+    <Low>0.48001</Low>
+    <Close>0.49985</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-04</Date>
+    <Open>0.4998</Open>
+    <High>0.558</High>
+    <Low>0.37482</Low>
+    <Close>0.55233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-05</Date>
+    <Open>0.55145</Open>
+    <High>0.58498</High>
+    <Low>0.4567</Low>
+    <Close>0.47828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-06</Date>
+    <Open>0.47833</Open>
+    <High>0.5338</High>
+    <Low>0.42559</Low>
+    <Close>0.51325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-07</Date>
+    <Open>0.5136</Open>
+    <High>0.51779</High>
+    <Low>0.46483</Low>
+    <Close>0.47064</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-08</Date>
+    <Open>0.47083</Open>
+    <High>0.49685</High>
+    <Low>0.44476</Low>
+    <Close>0.4829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-09</Date>
+    <Open>0.48403</Open>
+    <High>0.55758</High>
+    <Low>0.4812</Low>
+    <Close>0.51074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-10</Date>
+    <Open>0.51153</Open>
+    <High>0.52017</High>
+    <Low>0.47</Low>
+    <Close>0.48758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-11</Date>
+    <Open>0.48699</Open>
+    <High>0.57137</High>
+    <Low>0.46</Low>
+    <Close>0.55699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-12</Date>
+    <Open>0.55687</Open>
+    <High>0.62794</High>
+    <Low>0.54639</Low>
+    <Close>0.58208</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-13</Date>
+    <Open>0.58268</Open>
+    <High>0.60055</High>
+    <Low>0.49387</Low>
+    <Close>0.51942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-14</Date>
+    <Open>0.51861</Open>
+    <High>0.51936</High>
+    <Low>0.46924</Low>
+    <Close>0.50257</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-15</Date>
+    <Open>0.50229</Open>
+    <High>0.511665</High>
+    <Low>0.459099</Low>
+    <Close>0.489934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-16</Date>
+    <Open>0.490564</Open>
+    <High>0.518011</High>
+    <Low>0.471814</Low>
+    <Close>0.476823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-17</Date>
+    <Open>0.476973</Open>
+    <High>0.481504</High>
+    <Low>0.435434</Low>
+    <Close>0.455192</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-18</Date>
+    <Open>0.455102</Open>
+    <High>0.47445</High>
+    <Low>0.437385</Low>
+    <Close>0.463095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-19</Date>
+    <Open>0.462865</Open>
+    <High>0.479044</High>
+    <Low>0.446128</Low>
+    <Close>0.45131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-20</Date>
+    <Open>0.451215</Open>
+    <High>0.451861</High>
+    <Low>0.409513</Low>
+    <Close>0.424507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-21</Date>
+    <Open>0.42455</Open>
+    <High>0.44919</High>
+    <Low>0.424357</Low>
+    <Close>0.446599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-22</Date>
+    <Open>0.446569</Open>
+    <High>0.454382</High>
+    <Low>0.431282</Low>
+    <Close>0.443121</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-23</Date>
+    <Open>0.443227</Open>
+    <High>0.528418</High>
+    <Low>0.428326</Low>
+    <Close>0.510245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-24</Date>
+    <Open>0.510294</Open>
+    <High>0.521711</High>
+    <Low>0.465669</Low>
+    <Close>0.472736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-25</Date>
+    <Open>0.473144</Open>
+    <High>0.511626</High>
+    <Low>0.466813</Low>
+    <Close>0.498699</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-26</Date>
+    <Open>0.498709</Open>
+    <High>0.528264</High>
+    <Low>0.48048</Low>
+    <Close>0.511696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-27</Date>
+    <Open>0.511486</Open>
+    <High>0.553751</High>
+    <Low>0.508254</Low>
+    <Close>0.539762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-28</Date>
+    <Open>0.539712</Open>
+    <High>0.54833</High>
+    <Low>0.459386</Low>
+    <Close>0.470044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-29</Date>
+    <Open>0.470404</Open>
+    <High>0.487107</High>
+    <Low>0.44153</Low>
+    <Close>0.456411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-30</Date>
+    <Open>0.456266</Open>
+    <High>0.479858</High>
+    <Low>0.440934</Low>
+    <Close>0.461342</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2021-12-31</Date>
+    <Open>0.461762</Open>
+    <High>0.475858</High>
+    <Low>0.444324</Low>
+    <Close>0.453865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-01</Date>
+    <Open>0.453855</Open>
+    <High>0.464826</High>
+    <Low>0.45044</Low>
+    <Close>0.458786</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-02</Date>
+    <Open>0.458852</Open>
+    <High>0.464083</High>
+    <Low>0.45101</Low>
+    <Close>0.455711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-03</Date>
+    <Open>0.455811</Open>
+    <High>0.458126</High>
+    <Low>0.43129</Low>
+    <Close>0.440084</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-04</Date>
+    <Open>0.440194</Open>
+    <High>0.443856</High>
+    <Low>0.42081</Low>
+    <Close>0.428767</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-05</Date>
+    <Open>0.428737</Open>
+    <High>0.44089</High>
+    <Low>0.341396</Low>
+    <Close>0.373553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-06</Date>
+    <Open>0.37336</Open>
+    <High>0.40122</High>
+    <Low>0.355839</Low>
+    <Close>0.386641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-07</Date>
+    <Open>0.386471</Open>
+    <High>0.387053</High>
+    <Low>0.338378</Low>
+    <Close>0.341816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-08</Date>
+    <Open>0.341756</Open>
+    <High>0.354605</High>
+    <Low>0.305799</Low>
+    <Close>0.31848</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-09</Date>
+    <Open>0.31871</Open>
+    <High>0.34583</High>
+    <Low>0.311</Low>
+    <Close>0.33058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-10</Date>
+    <Open>0.33085</Open>
+    <High>0.33286</High>
+    <Low>0.292951</Low>
+    <Close>0.30314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-11</Date>
+    <Open>0.30316</Open>
+    <High>0.325505</High>
+    <Low>0.30163</Low>
+    <Close>0.31956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-12</Date>
+    <Open>0.319572</Open>
+    <High>0.366116</High>
+    <Low>0.319402</Low>
+    <Close>0.353421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-13</Date>
+    <Open>0.353531</Open>
+    <High>0.364432</High>
+    <Low>0.32435</Low>
+    <Close>0.327701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-14</Date>
+    <Open>0.327651</Open>
+    <High>0.335484</High>
+    <Low>0.317939</Low>
+    <Close>0.322977</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-15</Date>
+    <Open>0.322997</Open>
+    <High>0.350035</High>
+    <Low>0.321827</Low>
+    <Close>0.338369</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-16</Date>
+    <Open>0.338359</Open>
+    <High>0.341276</High>
+    <Low>0.323202</Low>
+    <Close>0.328902</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-17</Date>
+    <Open>0.329182</Open>
+    <High>0.329982</High>
+    <Low>0.29909</Low>
+    <Close>0.303861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-18</Date>
+    <Open>0.304042</Open>
+    <High>0.314326</High>
+    <Low>0.290427</Low>
+    <Close>0.302311</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-19</Date>
+    <Open>0.302301</Open>
+    <High>0.302911</High>
+    <Low>0.273382</Low>
+    <Close>0.283905</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-20</Date>
+    <Open>0.283885</Open>
+    <High>0.294318</High>
+    <Low>0.261256</Low>
+    <Close>0.265803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-21</Date>
+    <Open>0.265793</Open>
+    <High>0.265983</High>
+    <Low>0.202641</Low>
+    <Close>0.217875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-22</Date>
+    <Open>0.217694</Open>
+    <High>0.222577</High>
+    <Low>0.153931</Low>
+    <Close>0.177583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-23</Date>
+    <Open>0.177653</Open>
+    <High>0.20141</High>
+    <Low>0.176075</Low>
+    <Close>0.186877</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-24</Date>
+    <Open>0.187217</Open>
+    <High>0.19941</High>
+    <Low>0.160798</Low>
+    <Close>0.183565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-25</Date>
+    <Open>0.183565</Open>
+    <High>0.197879</High>
+    <Low>0.174872</Low>
+    <Close>0.184842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-26</Date>
+    <Open>0.184842</Open>
+    <High>0.232109</High>
+    <Low>0.184229</Low>
+    <Close>0.207725</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-27</Date>
+    <Open>0.207665</Open>
+    <High>0.214128</High>
+    <Low>0.178731</Low>
+    <Close>0.186443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-28</Date>
+    <Open>0.185804</Open>
+    <High>0.193599</High>
+    <Low>0.180452</Low>
+    <Close>0.188987</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-29</Date>
+    <Open>0.189038</Open>
+    <High>0.19998</High>
+    <Low>0.187416</Low>
+    <Close>0.191788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-30</Date>
+    <Open>0.191798</Open>
+    <High>0.210543</High>
+    <Low>0.186446</Low>
+    <Close>0.188815</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-01-31</Date>
+    <Open>0.188645</Open>
+    <High>0.20077</High>
+    <Low>0.179842</Low>
+    <Close>0.195578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-01</Date>
+    <Open>0.195498</Open>
+    <High>0.209976</High>
+    <Low>0.195298</Low>
+    <Close>0.203122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-02</Date>
+    <Open>0.203112</Open>
+    <High>0.207844</High>
+    <Low>0.182291</Low>
+    <Close>0.187529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-03</Date>
+    <Open>0.187589</Open>
+    <High>0.18814</High>
+    <Low>0.179282</Low>
+    <Close>0.185453</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-04</Date>
+    <Open>0.185443</Open>
+    <High>0.202081</High>
+    <Low>0.184472</Low>
+    <Close>0.19961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-05</Date>
+    <Open>0.19958</Open>
+    <High>0.294847</High>
+    <Low>0.198829</Low>
+    <Close>0.289884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-06</Date>
+    <Open>0.289634</Open>
+    <High>0.357504</High>
+    <Low>0.287341</Low>
+    <Close>0.302751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-07</Date>
+    <Open>0.302241</Open>
+    <High>0.38418</High>
+    <Low>0.3007</Low>
+    <Close>0.358811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-08</Date>
+    <Open>0.358641</Open>
+    <High>0.37208</High>
+    <Low>0.320256</Low>
+    <Close>0.345961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-09</Date>
+    <Open>0.345941</Open>
+    <High>0.395716</High>
+    <Low>0.343333</Low>
+    <Close>0.369766</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-10</Date>
+    <Open>0.370117</Open>
+    <High>0.371101</High>
+    <Low>0.331965</Low>
+    <Close>0.337186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-11</Date>
+    <Open>0.337186</Open>
+    <High>0.349029</High>
+    <Low>0.30118</Low>
+    <Close>0.303231</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-12</Date>
+    <Open>0.303301</Open>
+    <High>0.321763</High>
+    <Low>0.292696</Low>
+    <Close>0.314867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-13</Date>
+    <Open>0.314637</Open>
+    <High>0.315569</High>
+    <Low>0.276458</Low>
+    <Close>0.284701</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-14</Date>
+    <Open>0.284581</Open>
+    <High>0.306174</High>
+    <Low>0.275025</Low>
+    <Close>0.290925</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-15</Date>
+    <Open>0.291175</Open>
+    <High>0.35054</High>
+    <Low>0.289874</Low>
+    <Close>0.341795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-16</Date>
+    <Open>0.341665</Open>
+    <High>0.36018</High>
+    <Low>0.323006</Low>
+    <Close>0.336598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-17</Date>
+    <Open>0.336418</Open>
+    <High>0.340804</High>
+    <Low>0.295847</Low>
+    <Close>0.306544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-18</Date>
+    <Open>0.306294</Open>
+    <High>0.312328</High>
+    <Low>0.286891</Low>
+    <Close>0.291275</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-19</Date>
+    <Open>0.291115</Open>
+    <High>0.301861</High>
+    <Low>0.276626</Low>
+    <Close>0.2807</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-20</Date>
+    <Open>0.28073</Open>
+    <High>0.282379</High>
+    <Low>0.245808</Low>
+    <Close>0.2594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-21</Date>
+    <Open>0.25915</Open>
+    <High>0.275017</High>
+    <Low>0.229955</Low>
+    <Close>0.232216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-22</Date>
+    <Open>0.232196</Open>
+    <High>0.242635</High>
+    <Low>0.215004</Low>
+    <Close>0.238199</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-23</Date>
+    <Open>0.238329</Open>
+    <High>0.252106</High>
+    <Low>0.21697</Low>
+    <Close>0.223284</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-24</Date>
+    <Open>0.223254</Open>
+    <High>0.243992</High>
+    <Low>0.192436</Low>
+    <Close>0.223329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-25</Date>
+    <Open>0.223179</Open>
+    <High>0.265046</High>
+    <Low>0.223117</Low>
+    <Close>0.263612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-26</Date>
+    <Open>0.263192</Open>
+    <High>0.268594</High>
+    <Low>0.243347</Low>
+    <Close>0.24975</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-27</Date>
+    <Open>0.24958</Open>
+    <High>0.254127</High>
+    <Low>0.229044</Low>
+    <Close>0.235748</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-02-28</Date>
+    <Open>0.235834</Open>
+    <High>0.262935</High>
+    <Low>0.223679</Low>
+    <Close>0.255182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-01</Date>
+    <Open>0.255802</Open>
+    <High>0.276918</High>
+    <Low>0.248249</Low>
+    <Close>0.259298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-02</Date>
+    <Open>0.259438</Open>
+    <High>0.267894</High>
+    <Low>0.24952</Low>
+    <Close>0.255151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-03</Date>
+    <Open>0.255227</Open>
+    <High>0.259978</High>
+    <Low>0.241408</Low>
+    <Close>0.243979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-04</Date>
+    <Open>0.244203</Open>
+    <High>0.245819</High>
+    <Low>0.218544</Low>
+    <Close>0.224007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-05</Date>
+    <Open>0.223927</Open>
+    <High>0.231846</High>
+    <Low>0.213473</Low>
+    <Close>0.231256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-06</Date>
+    <Open>0.231289</Open>
+    <High>0.237357</High>
+    <Low>0.217915</Low>
+    <Close>0.221286</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-07</Date>
+    <Open>0.221116</Open>
+    <High>0.229779</High>
+    <Low>0.209412</Low>
+    <Close>0.215565</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-08</Date>
+    <Open>0.215675</Open>
+    <High>0.230586</High>
+    <Low>0.212964</Low>
+    <Close>0.219044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-09</Date>
+    <Open>0.218624</Open>
+    <High>0.240218</High>
+    <Low>0.217554</Low>
+    <Close>0.229996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-10</Date>
+    <Open>0.229926</Open>
+    <High>0.234127</High>
+    <Low>0.211755</Low>
+    <Close>0.218347</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-11</Date>
+    <Open>0.218387</Open>
+    <High>0.222789</High>
+    <Low>0.210254</Low>
+    <Close>0.214253</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-12</Date>
+    <Open>0.214243</Open>
+    <High>0.21886</High>
+    <Low>0.211042</Low>
+    <Close>0.213951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-13</Date>
+    <Open>0.214001</Open>
+    <High>0.242308</High>
+    <Low>0.211142</Low>
+    <Close>0.213784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-14</Date>
+    <Open>0.213503</Open>
+    <High>0.224585</High>
+    <Low>0.212362</Low>
+    <Close>0.217604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-15</Date>
+    <Open>0.217704</Open>
+    <High>0.223615</High>
+    <Low>0.212703</Low>
+    <Close>0.217325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-16</Date>
+    <Open>0.217335</Open>
+    <High>0.237001</High>
+    <Low>0.213874</Low>
+    <Close>0.235751</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-17</Date>
+    <Open>0.235621</Open>
+    <High>0.241783</High>
+    <Low>0.224727</Low>
+    <Close>0.229125</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-18</Date>
+    <Open>0.229292</Open>
+    <High>0.230128</High>
+    <Low>0.217861</Low>
+    <Close>0.226981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-19</Date>
+    <Open>0.227003</Open>
+    <High>0.257793</High>
+    <Low>0.226933</Low>
+    <Close>0.24992</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-20</Date>
+    <Open>0.249925</Open>
+    <High>0.257144</High>
+    <Low>0.229532</Low>
+    <Close>0.235434</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-21</Date>
+    <Open>0.235574</Open>
+    <High>0.239146</High>
+    <Low>0.22461</Low>
+    <Close>0.235764</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-22</Date>
+    <Open>0.235794</Open>
+    <High>0.255012</High>
+    <Low>0.233597</Low>
+    <Close>0.241641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-23</Date>
+    <Open>0.241651</Open>
+    <High>0.251981</High>
+    <Low>0.236468</Low>
+    <Close>0.246929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-24</Date>
+    <Open>0.247043</Open>
+    <High>0.262575</High>
+    <Low>0.245328</Low>
+    <Close>0.251421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-25</Date>
+    <Open>0.25135</Open>
+    <High>0.26656</High>
+    <Low>0.243132</Low>
+    <Close>0.245032</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-26</Date>
+    <Open>0.244748</Open>
+    <High>0.253952</High>
+    <Low>0.242351</Low>
+    <Close>0.25039</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-27</Date>
+    <Open>0.25043</Open>
+    <High>0.263295</High>
+    <Low>0.245703</Low>
+    <Close>0.261935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-28</Date>
+    <Open>0.262239</Open>
+    <High>0.291216</High>
+    <Low>0.259438</Low>
+    <Close>0.270128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-29</Date>
+    <Open>0.270075</Open>
+    <High>0.282243</High>
+    <Low>0.260078</Low>
+    <Close>0.265823</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-30</Date>
+    <Open>0.265813</Open>
+    <High>0.284047</High>
+    <Low>0.257613</Low>
+    <Close>0.273012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-03-31</Date>
+    <Open>0.273092</Open>
+    <High>0.288088</High>
+    <Low>0.2508</Low>
+    <Close>0.254681</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-01</Date>
+    <Open>0.254716</Open>
+    <High>0.267787</High>
+    <Low>0.241158</Low>
+    <Close>0.261638</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-02</Date>
+    <Open>0.261712</Open>
+    <High>0.277691</High>
+    <Low>0.255232</Low>
+    <Close>0.260264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-03</Date>
+    <Open>0.260184</Open>
+    <High>0.267617</High>
+    <Low>0.250125</Low>
+    <Close>0.265996</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-04</Date>
+    <Open>0.26615</Open>
+    <High>0.269258</High>
+    <Low>0.244593</Low>
+    <Close>0.255001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-05</Date>
+    <Open>0.255056</Open>
+    <High>0.263159</High>
+    <Low>0.250105</Low>
+    <Close>0.253721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-06</Date>
+    <Open>0.253725</Open>
+    <High>0.254661</High>
+    <Low>0.22081</Low>
+    <Close>0.227933</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-07</Date>
+    <Open>0.22782</Open>
+    <High>0.231393</High>
+    <Low>0.21612</Low>
+    <Close>0.226463</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-08</Date>
+    <Open>0.226443</Open>
+    <High>0.231256</High>
+    <Low>0.217133</Low>
+    <Close>0.218317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-09</Date>
+    <Open>0.218317</Open>
+    <High>0.219796</High>
+    <Low>0.210853</Low>
+    <Close>0.218756</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-10</Date>
+    <Open>0.218976</Open>
+    <High>0.227008</High>
+    <Low>0.217455</Low>
+    <Close>0.220514</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-11</Date>
+    <Open>0.220524</Open>
+    <High>0.220794</High>
+    <Low>0.190348</Low>
+    <Close>0.191417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-12</Date>
+    <Open>0.191477</Open>
+    <High>0.207091</High>
+    <Low>0.189367</Low>
+    <Close>0.20006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-13</Date>
+    <Open>0.20009</Open>
+    <High>0.206952</High>
+    <Low>0.196559</Low>
+    <Close>0.204881</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-14</Date>
+    <Open>0.205001</Open>
+    <High>0.210493</High>
+    <Low>0.195449</Low>
+    <Close>0.19962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-15</Date>
+    <Open>0.19952</Open>
+    <High>0.2024</High>
+    <Low>0.197419</Low>
+    <Close>0.20073</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-16</Date>
+    <Open>0.20074</Open>
+    <High>0.205351</High>
+    <Low>0.1996</Low>
+    <Close>0.20243</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-17</Date>
+    <Open>0.202581</Open>
+    <High>0.204021</High>
+    <Low>0.19744</Low>
+    <Close>0.20026</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-18</Date>
+    <Open>0.20024</Open>
+    <High>0.20051</High>
+    <Low>0.182246</Low>
+    <Close>0.193548</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-19</Date>
+    <Open>0.193708</Open>
+    <High>0.202751</High>
+    <Low>0.191858</Low>
+    <Close>0.19773</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-20</Date>
+    <Open>0.19767</Open>
+    <High>0.209882</High>
+    <Low>0.191699</Low>
+    <Close>0.196179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-21</Date>
+    <Open>0.196239</Open>
+    <High>0.20203</High>
+    <Low>0.188248</Low>
+    <Close>0.190269</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-22</Date>
+    <Open>0.190209</Open>
+    <High>0.193809</High>
+    <Low>0.186079</Low>
+    <Close>0.189959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-23</Date>
+    <Open>0.189978</Open>
+    <High>0.194479</High>
+    <Low>0.185367</Low>
+    <Close>0.189719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-24</Date>
+    <Open>0.189788</Open>
+    <High>0.190698</High>
+    <Low>0.184847</Low>
+    <Close>0.187417</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-25</Date>
+    <Open>0.187367</Open>
+    <High>0.188928</High>
+    <Low>0.17036</Low>
+    <Close>0.183117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-26</Date>
+    <Open>0.183217</Open>
+    <High>0.185008</High>
+    <Low>0.165763</Low>
+    <Close>0.169677</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-27</Date>
+    <Open>0.169697</Open>
+    <High>0.17269</High>
+    <Low>0.162396</Low>
+    <Close>0.170077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-28</Date>
+    <Open>0.170127</Open>
+    <High>0.174847</High>
+    <Low>0.165017</Low>
+    <Close>0.16959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-29</Date>
+    <Open>0.16967</Open>
+    <High>0.171487</High>
+    <Low>0.15169</Low>
+    <Close>0.154575</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-04-30</Date>
+    <Open>0.154575</Open>
+    <High>0.157726</High>
+    <Low>0.14489</Low>
+    <Close>0.14519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-01</Date>
+    <Open>0.14519</Open>
+    <High>0.14519</High>
+    <Low>0.12089</Low>
+    <Close>0.13883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-02</Date>
+    <Open>0.138784</Open>
+    <High>0.144304</High>
+    <Low>0.132423</Low>
+    <Close>0.136724</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-03</Date>
+    <Open>0.1367</Open>
+    <High>0.14442</High>
+    <Low>0.132487</Low>
+    <Close>0.136396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-04</Date>
+    <Open>0.136226</Open>
+    <High>0.16559</High>
+    <Low>0.134437</Low>
+    <Close>0.16206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-05</Date>
+    <Open>0.162</Open>
+    <High>0.163941</High>
+    <Low>0.132284</Low>
+    <Close>0.137972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-06</Date>
+    <Open>0.137962</Open>
+    <High>0.14774</High>
+    <Low>0.132683</Low>
+    <Close>0.143176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-07</Date>
+    <Open>0.143176</Open>
+    <High>0.14825</High>
+    <Low>0.133993</Low>
+    <Close>0.133993</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-08</Date>
+    <Open>0.134507</Open>
+    <High>0.137173</High>
+    <Low>0.128589</Low>
+    <Close>0.13338</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-09</Date>
+    <Open>0.13339</Open>
+    <High>0.13352</High>
+    <Low>0.107968</Low>
+    <Close>0.111108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-10</Date>
+    <Open>0.111208</Open>
+    <High>0.12478</High>
+    <Low>0.1011</Low>
+    <Close>0.103429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-11</Date>
+    <Open>0.103269</Open>
+    <High>0.112784</High>
+    <Low>0.057971</Low>
+    <Close>0.06461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-12</Date>
+    <Open>0.0647</Open>
+    <High>0.0731216</High>
+    <Low>0.0470902</Low>
+    <Close>0.0643358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-13</Date>
+    <Open>0.0643159</Open>
+    <High>0.119033</High>
+    <Low>0.0639034</Low>
+    <Close>0.099211</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-14</Date>
+    <Open>0.099091</Open>
+    <High>0.10556</High>
+    <Low>0.081269</Low>
+    <Close>0.0913628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-15</Date>
+    <Open>0.091272</Open>
+    <High>0.103225</High>
+    <Low>0.0900537</Low>
+    <Close>0.0977927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-16</Date>
+    <Open>0.0978726</Open>
+    <High>0.101967</High>
+    <Low>0.0844631</Low>
+    <Close>0.0889143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-17</Date>
+    <Open>0.0890741</Open>
+    <High>0.092628</High>
+    <Low>0.0836511</Low>
+    <Close>0.0893936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-18</Date>
+    <Open>0.0892139</Open>
+    <High>0.0907619</High>
+    <Low>0.0766203</Low>
+    <Close>0.079137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-19</Date>
+    <Open>0.0792768</Open>
+    <High>0.0872826</High>
+    <Low>0.074503</Low>
+    <Close>0.0836063</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-20</Date>
+    <Open>0.0835248</Open>
+    <High>0.0873138</High>
+    <Low>0.0773493</Low>
+    <Close>0.0805332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-21</Date>
+    <Open>0.0805632</Open>
+    <High>0.0847996</High>
+    <Low>0.0788852</Low>
+    <Close>0.0820232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-22</Date>
+    <Open>0.0819633</Open>
+    <High>0.0863077</High>
+    <Low>0.081464</Low>
+    <Close>0.0837394</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-23</Date>
+    <Open>0.0836795</Open>
+    <High>0.0913086</High>
+    <Low>0.0816919</Low>
+    <Close>0.0825708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-24</Date>
+    <Open>0.0825525</Open>
+    <High>0.0831518</High>
+    <Low>0.076266</Low>
+    <Close>0.0828522</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-25</Date>
+    <Open>0.0828821</Open>
+    <High>0.0844985</High>
+    <Low>0.0790151</Low>
+    <Close>0.0809827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-26</Date>
+    <Open>0.0809727</Open>
+    <High>0.0831085</High>
+    <Low>0.070715</Low>
+    <Close>0.0750649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-27</Date>
+    <Open>0.0750673</Open>
+    <High>0.0758241</High>
+    <Low>0.0677054</Low>
+    <Close>0.0702896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-28</Date>
+    <Open>0.0701692</Open>
+    <High>0.0731938</High>
+    <Low>0.0693439</Low>
+    <Close>0.0722354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-29</Date>
+    <Open>0.072214</Open>
+    <High>0.0770705</High>
+    <Low>0.0699607</Low>
+    <Close>0.0769553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-30</Date>
+    <Open>0.0769652</Open>
+    <High>0.0839612</High>
+    <Low>0.0761208</Low>
+    <Close>0.0827537</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-05-31</Date>
+    <Open>0.082792</Open>
+    <High>0.0878097</High>
+    <Low>0.0791366</Low>
+    <Close>0.0818545</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-01</Date>
+    <Open>0.0819044</Open>
+    <High>0.0838329</High>
+    <Low>0.0715212</Low>
+    <Close>0.0726446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-02</Date>
+    <Open>0.0726046</Open>
+    <High>0.0769407</High>
+    <Low>0.0721178</Low>
+    <Close>0.0763512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-03</Date>
+    <Open>0.0763912</Open>
+    <High>0.0774902</High>
+    <Low>0.0704036</Low>
+    <Close>0.074625</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-04</Date>
+    <Open>0.074685</Open>
+    <High>0.0759263</High>
+    <Low>0.0707364</Low>
+    <Close>0.0746133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-05</Date>
+    <Open>0.0746033</Open>
+    <High>0.0764312</High>
+    <Low>0.0723613</Low>
+    <Close>0.0755389</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-06</Date>
+    <Open>0.0756089</Open>
+    <High>0.0827513</High>
+    <Low>0.0742102</Low>
+    <Close>0.0818204</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-07</Date>
+    <Open>0.0818204</Open>
+    <High>0.090424</High>
+    <Low>0.0765964</Low>
+    <Close>0.0836722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-08</Date>
+    <Open>0.083653</Open>
+    <High>0.0839636</High>
+    <Low>0.0742073</Low>
+    <Close>0.0762804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-09</Date>
+    <Open>0.0763004</Open>
+    <High>0.0780013</High>
+    <Low>0.0738845</Low>
+    <Close>0.0756564</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-10</Date>
+    <Open>0.0756664</Open>
+    <High>0.076415</High>
+    <Low>0.0679581</Low>
+    <Close>0.0704797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-11</Date>
+    <Open>0.0705496</Open>
+    <High>0.0711331</High>
+    <Low>0.061254</Low>
+    <Close>0.0638078</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-12</Date>
+    <Open>0.0637579</Open>
+    <High>0.0642773</High>
+    <Low>0.0560608</Low>
+    <Close>0.0600361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-13</Date>
+    <Open>0.0600461</Open>
+    <High>0.0638569</High>
+    <Low>0.0504718</Low>
+    <Close>0.0581191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-14</Date>
+    <Open>0.058179</Open>
+    <High>0.0656001</High>
+    <Low>0.0547283</Low>
+    <Close>0.0581501</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-15</Date>
+    <Open>0.0580802</Open>
+    <High>0.0638169</High>
+    <Low>0.0533254</Low>
+    <Close>0.0628855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-16</Date>
+    <Open>0.0628656</Open>
+    <High>0.063797</High>
+    <Low>0.0555133</Low>
+    <Close>0.0570058</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-17</Date>
+    <Open>0.055323</Open>
+    <High>0.0579488</High>
+    <Low>0.0543349</Low>
+    <Close>0.0567618</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-18</Date>
+    <Open>0.0568916</Open>
+    <High>0.0578117</High>
+    <Low>0.0496274</Low>
+    <Close>0.0529341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-19</Date>
+    <Open>0.0529336</Open>
+    <High>0.0567818</High>
+    <Low>0.0504772</Low>
+    <Close>0.0557075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-20</Date>
+    <Open>0.0557374</Open>
+    <High>0.0578663</High>
+    <Low>0.0527114</Low>
+    <Close>0.0552891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-21</Date>
+    <Open>0.055379</Open>
+    <High>0.0613409</High>
+    <Low>0.0545599</Low>
+    <Close>0.0566177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-22</Date>
+    <Open>0.0566077</Open>
+    <High>0.0575624</High>
+    <Low>0.0535364</Low>
+    <Close>0.0546753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-23</Date>
+    <Open>0.0546853</Open>
+    <High>0.0582417</High>
+    <Low>0.053946</Low>
+    <Close>0.0566633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-24</Date>
+    <Open>0.0566433</Open>
+    <High>0.0632968</High>
+    <Low>0.0566233</Low>
+    <Close>0.0616519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-25</Date>
+    <Open>0.0616519</Open>
+    <High>0.0682722</High>
+    <Low>0.0584408</Low>
+    <Close>0.0674627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-26</Date>
+    <Open>0.0675227</Open>
+    <High>0.070335</High>
+    <Low>0.0617129</Low>
+    <Close>0.0633607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-27</Date>
+    <Open>0.0632914</Open>
+    <High>0.0639191</High>
+    <Low>0.0587959</Low>
+    <Close>0.060137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-28</Date>
+    <Open>0.0601764</Open>
+    <High>0.0623089</High>
+    <Low>0.0570691</Low>
+    <Close>0.0582577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-29</Date>
+    <Open>0.0580979</Open>
+    <High>0.0583294</High>
+    <Low>0.0549829</Low>
+    <Close>0.0571608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-06-30</Date>
+    <Open>0.0571913</Open>
+    <High>0.0576308</High>
+    <Low>0.0506646</Low>
+    <Close>0.0519875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-01</Date>
+    <Open>0.0519875</Open>
+    <High>0.0558085</High>
+    <Low>0.0510784</Low>
+    <Close>0.0522425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-02</Date>
+    <Open>0.0522325</Open>
+    <High>0.0542548</High>
+    <Low>0.0508489</Low>
+    <Close>0.0539652</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-03</Date>
+    <Open>0.0539752</Open>
+    <High>0.0541649</High>
+    <Low>0.0515677</Low>
+    <Close>0.0529011</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-04</Date>
+    <Open>0.0529</Open>
+    <High>0.0551537</High>
+    <Low>0.0513831</Low>
+    <Close>0.0548841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-05</Date>
+    <Open>0.054934</Open>
+    <High>0.0561425</High>
+    <Low>0.0514833</Low>
+    <Close>0.0542203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-06</Date>
+    <Open>0.0542103</Open>
+    <High>0.0546199</High>
+    <Low>0.0521226</Low>
+    <Close>0.0543901</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-07</Date>
+    <Open>0.0543701</Open>
+    <High>0.0580661</High>
+    <Low>0.0540605</Low>
+    <Close>0.0571057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-08</Date>
+    <Open>0.0571057</Open>
+    <High>0.0587089</High>
+    <Low>0.0535525</Low>
+    <Close>0.0548071</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-09</Date>
+    <Open>0.0547771</Open>
+    <High>0.0558934</High>
+    <Low>0.0537477</Low>
+    <Close>0.0555676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-10</Date>
+    <Open>0.0555251</Open>
+    <High>0.0558715</High>
+    <Low>0.0523084</Low>
+    <Close>0.0531661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-11</Date>
+    <Open>0.0531501</Open>
+    <High>0.0532061</High>
+    <Low>0.0501099</Low>
+    <Close>0.0505954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-12</Date>
+    <Open>0.0505514</Open>
+    <High>0.0505866</High>
+    <Low>0.0469577</Low>
+    <Close>0.0476723</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-13</Date>
+    <Open>0.0477037</Open>
+    <High>0.049974</High>
+    <Low>0.0443911</Low>
+    <Close>0.0472175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-14</Date>
+    <Open>0.0472275</Open>
+    <High>0.0503698</High>
+    <Low>0.0465427</Low>
+    <Close>0.0488607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-15</Date>
+    <Open>0.0488657</Open>
+    <High>0.0509094</High>
+    <Low>0.048348</Low>
+    <Close>0.0497181</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-16</Date>
+    <Open>0.0497351</Open>
+    <High>0.0516497</High>
+    <Low>0.0480828</Low>
+    <Close>0.0504239</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-17</Date>
+    <Open>0.0504319</Open>
+    <High>0.0536168</High>
+    <Low>0.0500425</Low>
+    <Close>0.0515646</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-18</Date>
+    <Open>0.0515966</Open>
+    <High>0.0582371</High>
+    <Low>0.0505848</Low>
+    <Close>0.0536577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-19</Date>
+    <Open>0.0536876</Open>
+    <High>0.0616545</High>
+    <Low>0.0536477</Low>
+    <Close>0.0591695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-20</Date>
+    <Open>0.0592395</Open>
+    <High>0.0616749</High>
+    <Low>0.0528911</Low>
+    <Close>0.0550828</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-21</Date>
+    <Open>0.0550828</Open>
+    <High>0.0550828</High>
+    <Low>0.0513757</Low>
+    <Close>0.0543536</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-22</Date>
+    <Open>0.0543336</Open>
+    <High>0.0562813</High>
+    <Low>0.0516772</Low>
+    <Close>0.0524215</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-23</Date>
+    <Open>0.05242</Open>
+    <High>0.055315</High>
+    <Low>0.0514546</Low>
+    <Close>0.05278</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-24</Date>
+    <Open>0.05277</Open>
+    <High>0.0549516</High>
+    <Low>0.0525726</Low>
+    <Close>0.0538908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-25</Date>
+    <Open>0.0538908</Open>
+    <High>0.0544609</High>
+    <Low>0.0482158</Low>
+    <Close>0.0493439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-26</Date>
+    <Open>0.0493439</Open>
+    <High>0.0493644</High>
+    <Low>0.0456323</Low>
+    <Close>0.046577</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-27</Date>
+    <Open>0.0465665</Open>
+    <High>0.0509098</High>
+    <Low>0.04653</Low>
+    <Close>0.050002</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-28</Date>
+    <Open>0.050012</Open>
+    <High>0.0539019</High>
+    <Low>0.0493979</Low>
+    <Close>0.0530706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-29</Date>
+    <Open>0.0530511</Open>
+    <High>0.0575071</High>
+    <Low>0.0526437</Low>
+    <Close>0.0550526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-30</Date>
+    <Open>0.0550426</Open>
+    <High>0.0607913</High>
+    <Low>0.0547224</Low>
+    <Close>0.0560691</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-07-31</Date>
+    <Open>0.055969</Open>
+    <High>0.0633127</High>
+    <Low>0.0547359</Low>
+    <Close>0.0577733</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-01</Date>
+    <Open>0.0578633</Open>
+    <High>0.0637615</High>
+    <Low>0.055455</Low>
+    <Close>0.0627288</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-02</Date>
+    <Open>0.0627088</Open>
+    <High>0.0662445</High>
+    <Low>0.058018</Low>
+    <Close>0.0608003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-03</Date>
+    <Open>0.0607903</Open>
+    <High>0.0616705</High>
+    <Low>0.0571531</Low>
+    <Close>0.0589747</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-04</Date>
+    <Open>0.0589947</Open>
+    <High>0.061578</High>
+    <Low>0.0575729</Low>
+    <Close>0.0579817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-05</Date>
+    <Open>0.0580217</Open>
+    <High>0.0615117</High>
+    <Low>0.0579223</Low>
+    <Close>0.0601914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-06</Date>
+    <Open>0.0601814</Open>
+    <High>0.0622624</High>
+    <Low>0.059809</Low>
+    <Close>0.0606233</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-07</Date>
+    <Open>0.0606393</Open>
+    <High>0.0617707</High>
+    <Low>0.0586051</Low>
+    <Close>0.0611446</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-08</Date>
+    <Open>0.0611706</Open>
+    <High>0.0642186</High>
+    <Low>0.0601942</Low>
+    <Close>0.0620104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-09</Date>
+    <Open>0.0620074</Open>
+    <High>0.0646876</High>
+    <Low>0.0579327</Low>
+    <Close>0.059812</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-10</Date>
+    <Open>0.059822</Open>
+    <High>0.0639239</High>
+    <Low>0.0583834</Low>
+    <Close>0.0634984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-11</Date>
+    <Open>0.063495</Open>
+    <High>0.0656767</High>
+    <Low>0.0620689</Low>
+    <Close>0.0627005</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-12</Date>
+    <Open>0.0626594</Open>
+    <High>0.0641351</High>
+    <Low>0.0609124</Low>
+    <Close>0.0638053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-13</Date>
+    <Open>0.0638093</Open>
+    <High>0.069982</High>
+    <Low>0.0638093</Low>
+    <Close>0.0668461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-14</Date>
+    <Open>0.066796</Open>
+    <High>0.0717144</High>
+    <Low>0.0661845</Low>
+    <Close>0.0700117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-15</Date>
+    <Open>0.070021</Open>
+    <High>0.0727518</High>
+    <Low>0.0663859</Low>
+    <Close>0.0669961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-16</Date>
+    <Open>0.0670361</Open>
+    <High>0.071975</High>
+    <Low>0.0653344</Low>
+    <Close>0.0693362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-17</Date>
+    <Open>0.0693762</Open>
+    <High>0.0713343</High>
+    <Low>0.0627431</Low>
+    <Close>0.0632744</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-18</Date>
+    <Open>0.0632551</Open>
+    <High>0.0640426</High>
+    <Low>0.0612555</Low>
+    <Close>0.0621806</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-19</Date>
+    <Open>0.0621562</Open>
+    <High>0.0621962</High>
+    <Low>0.0517952</Low>
+    <Close>0.0520452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-20</Date>
+    <Open>0.0520721</Open>
+    <High>0.0543365</High>
+    <Low>0.0499985</Low>
+    <Close>0.0517095</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-21</Date>
+    <Open>0.051649</Open>
+    <High>0.0546784</High>
+    <Low>0.0514974</Low>
+    <Close>0.0541589</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-22</Date>
+    <Open>0.0541689</Open>
+    <High>0.0544311</High>
+    <Low>0.050582</Low>
+    <Close>0.0521021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-23</Date>
+    <Open>0.0521772</Open>
+    <High>0.0552437</High>
+    <Low>0.0512245</Low>
+    <Close>0.0541411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-24</Date>
+    <Open>0.0541806</Open>
+    <High>0.0564919</High>
+    <Low>0.0527465</Low>
+    <Close>0.055617</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-25</Date>
+    <Open>0.055671</Open>
+    <High>0.0569688</High>
+    <Low>0.0538998</Low>
+    <Close>0.0549946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-26</Date>
+    <Open>0.0549886</Open>
+    <High>0.0551278</High>
+    <Low>0.0503365</Low>
+    <Close>0.0510191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-27</Date>
+    <Open>0.0510221</Open>
+    <High>0.0511876</High>
+    <Low>0.0487224</Low>
+    <Close>0.0502425</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-28</Date>
+    <Open>0.05019</Open>
+    <High>0.0518866</High>
+    <Low>0.050132</Low>
+    <Close>0.051014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-29</Date>
+    <Open>0.050944</Open>
+    <High>0.0520436</High>
+    <Low>0.0488331</Low>
+    <Close>0.0519436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-30</Date>
+    <Open>0.0519282</Open>
+    <High>0.0530189</High>
+    <Low>0.0493319</Low>
+    <Close>0.0506596</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-08-31</Date>
+    <Open>0.0507081</Open>
+    <High>0.0522745</High>
+    <Low>0.050019</Low>
+    <Close>0.0510345</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-01</Date>
+    <Open>0.0510265</Open>
+    <High>0.0511355</High>
+    <Low>0.0487515</Low>
+    <Close>0.050467</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-02</Date>
+    <Open>0.050495</Open>
+    <High>0.0514102</High>
+    <Low>0.0491319</Low>
+    <Close>0.049875</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-03</Date>
+    <Open>0.04988</Open>
+    <High>0.050505</High>
+    <Low>0.049382</Low>
+    <Close>0.049914</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-04</Date>
+    <Open>0.049915</Open>
+    <High>0.0518972</High>
+    <Low>0.049914</Low>
+    <Close>0.05143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-05</Date>
+    <Open>0.051428</Open>
+    <High>0.052137</High>
+    <Low>0.049681</Low>
+    <Close>0.0505841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-06</Date>
+    <Open>0.0505761</Open>
+    <High>0.0520102</High>
+    <Low>0.046718</Low>
+    <Close>0.047419</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-07</Date>
+    <Open>0.047436</Open>
+    <High>0.0494725</High>
+    <Low>0.0463586</Low>
+    <Close>0.0490894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-08</Date>
+    <Open>0.0491089</Open>
+    <High>0.0493304</High>
+    <Low>0.0475913</Low>
+    <Close>0.0488728</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-09</Date>
+    <Open>0.048867</Open>
+    <High>0.0530341</High>
+    <Low>0.0486228</Low>
+    <Close>0.051567</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-10</Date>
+    <Open>0.0515621</Open>
+    <High>0.0532268</High>
+    <Low>0.051125</Low>
+    <Close>0.0518779</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-11</Date>
+    <Open>0.0519514</Open>
+    <High>0.053763</High>
+    <Low>0.0505007</Low>
+    <Close>0.0512358</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-12</Date>
+    <Open>0.0512378</Open>
+    <High>0.0531346</High>
+    <Low>0.0501155</Low>
+    <Close>0.0512082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-13</Date>
+    <Open>0.0511793</Open>
+    <High>0.0516458</High>
+    <Low>0.0474674</Low>
+    <Close>0.048122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-14</Date>
+    <Open>0.0480935</Open>
+    <High>0.0489974</High>
+    <Low>0.0472019</Low>
+    <Close>0.0487332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-15</Date>
+    <Open>0.0487372</Open>
+    <High>0.0490248</High>
+    <Low>0.0465652</Low>
+    <Close>0.0474407</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-16</Date>
+    <Open>0.0474277</Open>
+    <High>0.047979</High>
+    <Low>0.0466023</Low>
+    <Close>0.0477382</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-17</Date>
+    <Open>0.0477692</Open>
+    <High>0.048827</High>
+    <Low>0.047461</Low>
+    <Close>0.0486129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-18</Date>
+    <Open>0.048614</Open>
+    <High>0.049233</High>
+    <Low>0.0392231</Low>
+    <Close>0.042897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-19</Date>
+    <Open>0.042801</Open>
+    <High>0.0436187</High>
+    <Low>0.0409641</Low>
+    <Close>0.0433227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-20</Date>
+    <Open>0.0433243</Open>
+    <High>0.0435714</High>
+    <Low>0.0414831</Low>
+    <Close>0.0416332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-21</Date>
+    <Open>0.0415614</Open>
+    <High>0.04325</High>
+    <Low>0.039558</Low>
+    <Close>0.040007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-22</Date>
+    <Open>0.04001</Open>
+    <High>0.042398</High>
+    <Low>0.039285</Low>
+    <Close>0.041797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-23</Date>
+    <Open>0.04183</Open>
+    <High>0.042817</High>
+    <Low>0.040348</Low>
+    <Close>0.042344</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-24</Date>
+    <Open>0.0423398</Open>
+    <High>0.0427347</High>
+    <Low>0.0414595</Low>
+    <Close>0.0416473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-25</Date>
+    <Open>0.04162</Open>
+    <High>0.0418731</High>
+    <Low>0.0402818</Low>
+    <Close>0.040331</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-26</Date>
+    <Open>0.040332</Open>
+    <High>0.0411001</High>
+    <Low>0.039605</Low>
+    <Close>0.040437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-27</Date>
+    <Open>0.040426</Open>
+    <High>0.0423642</High>
+    <Low>0.039648</Low>
+    <Close>0.040182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-28</Date>
+    <Open>0.04018</Open>
+    <High>0.040636</High>
+    <Low>0.0384722</Low>
+    <Close>0.040299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-29</Date>
+    <Open>0.040306</Open>
+    <High>0.04081</High>
+    <Low>0.0393679</Low>
+    <Close>0.040478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-09-30</Date>
+    <Open>0.040484</Open>
+    <High>0.0411991</High>
+    <Low>0.039928</Low>
+    <Close>0.040232</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-01</Date>
+    <Open>0.0402</Open>
+    <High>0.040859</High>
+    <Low>0.039966</Low>
+    <Close>0.040316</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-02</Date>
+    <Open>0.040311</Open>
+    <High>0.040574</High>
+    <Low>0.0391849</Low>
+    <Close>0.039953</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-03</Date>
+    <Open>0.039955</Open>
+    <High>0.0405901</High>
+    <Low>0.0388909</Low>
+    <Close>0.040365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-04</Date>
+    <Open>0.040362</Open>
+    <High>0.0416665</High>
+    <Low>0.0403311</Low>
+    <Close>0.0413594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-05</Date>
+    <Open>0.0413594</Open>
+    <High>0.0416963</High>
+    <Low>0.04009</Low>
+    <Close>0.0410931</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-06</Date>
+    <Open>0.0410942</Open>
+    <High>0.0416684</High>
+    <Low>0.0408445</Low>
+    <Close>0.0408809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-07</Date>
+    <Open>0.0408779</Open>
+    <High>0.0411909</High>
+    <Low>0.0401728</Low>
+    <Close>0.0405277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-08</Date>
+    <Open>0.0405261</Open>
+    <High>0.0409649</High>
+    <Low>0.0403053</Low>
+    <Close>0.0404151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-09</Date>
+    <Open>0.0404135</Open>
+    <High>0.042607</High>
+    <Low>0.0403755</Low>
+    <Close>0.0421734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-10</Date>
+    <Open>0.0421132</Open>
+    <High>0.0428473</High>
+    <Low>0.0409021</Low>
+    <Close>0.0416228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-11</Date>
+    <Open>0.041619</Open>
+    <High>0.04162</High>
+    <Low>0.0385881</Low>
+    <Close>0.0394794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-12</Date>
+    <Open>0.0394684</Open>
+    <High>0.0399664</High>
+    <Low>0.0390476</Low>
+    <Close>0.0393462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-13</Date>
+    <Open>0.0393612</Open>
+    <High>0.0394976</High>
+    <Low>0.0347032</Low>
+    <Close>0.0384711</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-14</Date>
+    <Open>0.0384811</Open>
+    <High>0.0392657</High>
+    <Low>0.0361174</Low>
+    <Close>0.0361714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-15</Date>
+    <Open>0.0361711</Open>
+    <High>0.0373895</High>
+    <Low>0.0358736</Low>
+    <Close>0.0368568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-16</Date>
+    <Open>0.0368532</Open>
+    <High>0.0379324</High>
+    <Low>0.0363615</Low>
+    <Close>0.0370159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-17</Date>
+    <Open>0.0370279</Open>
+    <High>0.0374845</High>
+    <Low>0.0363479</Low>
+    <Close>0.0368377</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-18</Date>
+    <Open>0.0368511</Open>
+    <High>0.0372107</High>
+    <Low>0.0349687</Low>
+    <Close>0.0355408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-19</Date>
+    <Open>0.0355396</Open>
+    <High>0.0357794</High>
+    <Low>0.0342197</Low>
+    <Close>0.034916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-20</Date>
+    <Open>0.034868</Open>
+    <High>0.034868</High>
+    <Low>0.0316206</Low>
+    <Close>0.0328917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-21</Date>
+    <Open>0.0328917</Open>
+    <High>0.0334033</High>
+    <Low>0.0313551</Low>
+    <Close>0.0332227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-22</Date>
+    <Open>0.0332273</Open>
+    <High>0.0336013</High>
+    <Low>0.0327023</Low>
+    <Close>0.033359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-23</Date>
+    <Open>0.0333567</Open>
+    <High>0.0338347</High>
+    <Low>0.0324786</Low>
+    <Close>0.0336247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-24</Date>
+    <Open>0.0336524</Open>
+    <High>0.0342337</High>
+    <Low>0.0326606</Low>
+    <Close>0.0330973</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-25</Date>
+    <Open>0.0331363</Open>
+    <High>0.0349485</High>
+    <Low>0.0329476</Low>
+    <Close>0.0340819</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-26</Date>
+    <Open>0.0340766</Open>
+    <High>0.0353927</High>
+    <Low>0.0337925</Low>
+    <Close>0.0348778</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-27</Date>
+    <Open>0.0347857</Open>
+    <High>0.036896</High>
+    <Low>0.0342157</Low>
+    <Close>0.0346634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-28</Date>
+    <Open>0.0346661</Open>
+    <High>0.0357481</High>
+    <Low>0.0337614</Low>
+    <Close>0.0353371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-29</Date>
+    <Open>0.0353327</Open>
+    <High>0.0378364</High>
+    <Low>0.0351834</Low>
+    <Close>0.0366664</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-30</Date>
+    <Open>0.0366508</Open>
+    <High>0.0490518</High>
+    <Low>0.0358824</Low>
+    <Close>0.0436287</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-10-31</Date>
+    <Open>0.0436187</Open>
+    <High>0.0444293</High>
+    <Low>0.040532</Low>
+    <Close>0.0421066</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-01</Date>
+    <Open>0.0421275</Open>
+    <High>0.0439965</High>
+    <Low>0.0397032</Low>
+    <Close>0.0400956</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-02</Date>
+    <Open>0.040006</Open>
+    <High>0.0410018</High>
+    <Low>0.0374181</Low>
+    <Close>0.0380177</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-03</Date>
+    <Open>0.0380177</Open>
+    <High>0.0407259</High>
+    <Low>0.0269887</Low>
+    <Close>0.0304</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-04</Date>
+    <Open>0.03041</Open>
+    <High>0.0347772</High>
+    <Low>0.0012679</Low>
+    <Close>0.00338027</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-05</Date>
+    <Open>0.0388054</Open>
+    <High>0.044001</High>
+    <Low>0.0374726</Low>
+    <Close>0.0390319</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-06</Date>
+    <Open>0.0389716</Open>
+    <High>0.0399516</High>
+    <Low>0.036624</Low>
+    <Close>0.0367929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-07</Date>
+    <Open>0.0367129</Open>
+    <High>0.0371922</High>
+    <Low>0.0352032</Low>
+    <Close>0.0358143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-08</Date>
+    <Open>0.0358507</Open>
+    <High>0.0366773</High>
+    <Low>0.030039</Low>
+    <Close>0.0319355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-09</Date>
+    <Open>0.0319355</Open>
+    <High>0.0332524</High>
+    <Low>0.0251484</Low>
+    <Close>0.0257911</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-10</Date>
+    <Open>0.0257835</Open>
+    <High>0.0359122</High>
+    <Low>0.0252868</Low>
+    <Close>0.0317734</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-11</Date>
+    <Open>0.0317961</Open>
+    <High>0.0373385</High>
+    <Low>0.0299575</Low>
+    <Close>0.0320909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-12</Date>
+    <Open>0.0320917</Open>
+    <High>0.0324173</High>
+    <Low>0.0291774</Low>
+    <Close>0.0298961</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-13</Date>
+    <Open>0.0298861</Open>
+    <High>0.0324116</High>
+    <Low>0.0291275</Low>
+    <Close>0.0297443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-14</Date>
+    <Open>0.0297742</Open>
+    <High>0.0306401</High>
+    <Low>0.0277511</Low>
+    <Close>0.0294458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-15</Date>
+    <Open>0.0294443</Open>
+    <High>0.0302997</High>
+    <Low>0.028991</Low>
+    <Close>0.0291908</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-16</Date>
+    <Open>0.0293142</Open>
+    <High>0.0296318</High>
+    <Low>0.0278316</Low>
+    <Close>0.0283242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-17</Date>
+    <Open>0.0283339</Open>
+    <High>0.0283764</High>
+    <Low>0.0268761</Low>
+    <Close>0.0276179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-18</Date>
+    <Open>0.0276184</Open>
+    <High>0.0278977</High>
+    <Low>0.0270402</Low>
+    <Close>0.0273682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-19</Date>
+    <Open>0.0273385</Open>
+    <High>0.0280497</High>
+    <Low>0.0265615</Low>
+    <Close>0.0276709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-20</Date>
+    <Open>0.0276851</Open>
+    <High>0.0278865</High>
+    <Low>0.0254215</Low>
+    <Close>0.0257708</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-21</Date>
+    <Open>0.025771</Open>
+    <High>0.0259008</High>
+    <Low>0.0239251</Low>
+    <Close>0.0246104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-22</Date>
+    <Open>0.0246104</Open>
+    <High>0.0254625</High>
+    <Low>0.0238311</Low>
+    <Close>0.0253291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-23</Date>
+    <Open>0.0253197</Open>
+    <High>0.0262282</High>
+    <Low>0.0249498</Low>
+    <Close>0.0257217</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-24</Date>
+    <Open>0.0257119</Open>
+    <High>0.0261917</High>
+    <Low>0.0250607</Low>
+    <Close>0.025329</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-25</Date>
+    <Open>0.0253584</Open>
+    <High>0.0253584</High>
+    <Low>0.0245445</Low>
+    <Close>0.025006</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-26</Date>
+    <Open>0.0250255</Open>
+    <High>0.0259242</High>
+    <Low>0.0248643</Low>
+    <Close>0.0249753</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-27</Date>
+    <Open>0.0249653</Open>
+    <High>0.0260528</High>
+    <Low>0.0249553</Low>
+    <Close>0.0259534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-28</Date>
+    <Open>0.0259334</Open>
+    <High>0.0259334</High>
+    <Low>0.0238871</Low>
+    <Close>0.0247503</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-29</Date>
+    <Open>0.0247408</Open>
+    <High>0.0254752</High>
+    <Low>0.0244597</Low>
+    <Close>0.0252107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-11-30</Date>
+    <Open>0.0252207</Open>
+    <High>0.0277672</High>
+    <Low>0.0251704</Low>
+    <Close>0.026101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-01</Date>
+    <Open>0.0261208</Open>
+    <High>0.0263326</High>
+    <Low>0.025143</Low>
+    <Close>0.0253415</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-02</Date>
+    <Open>0.0253513</Open>
+    <High>0.0254715</High>
+    <Low>0.0245627</Low>
+    <Close>0.0254615</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-03</Date>
+    <Open>0.0254515</Open>
+    <High>0.0257526</High>
+    <Low>0.0247249</Low>
+    <Close>0.0248525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-04</Date>
+    <Open>0.0248325</Open>
+    <High>0.025225</High>
+    <Low>0.0246625</Low>
+    <Close>0.0251025</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-05</Date>
+    <Open>0.0251025</Open>
+    <High>0.0270297</High>
+    <Low>0.0250475</Low>
+    <Close>0.0257305</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-06</Date>
+    <Open>0.0257626</Open>
+    <High>0.0281006</High>
+    <Low>0.0255503</Low>
+    <Close>0.0267995</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-07</Date>
+    <Open>0.02681</Open>
+    <High>0.02718</High>
+    <Low>0.0251013</Low>
+    <Close>0.02569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-08</Date>
+    <Open>0.02568</Open>
+    <High>0.0264129</High>
+    <Low>0.02492</Low>
+    <Close>0.0263018</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-09</Date>
+    <Open>0.0263026</Open>
+    <High>0.0265724</High>
+    <Low>0.02561</Low>
+    <Close>0.0257008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-10</Date>
+    <Open>0.0257108</Open>
+    <High>0.0258505</High>
+    <Low>0.0254297</Low>
+    <Close>0.0255395</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-11</Date>
+    <Open>0.0255397</Open>
+    <High>0.0258597</High>
+    <Low>0.0250325</Low>
+    <Close>0.025225</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-12</Date>
+    <Open>0.025225</Open>
+    <High>0.0254705</High>
+    <Low>0.0238824</Low>
+    <Close>0.0252323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-13</Date>
+    <Open>0.0252523</Open>
+    <High>0.0255267</High>
+    <Low>0.0240463</Low>
+    <Close>0.025074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-14</Date>
+    <Open>0.025094</Open>
+    <High>0.0255154</High>
+    <Low>0.02409</Low>
+    <Close>0.0245017</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-15</Date>
+    <Open>0.0245017</Open>
+    <High>0.0245017</High>
+    <Low>0.0235924</Low>
+    <Close>0.0240048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-16</Date>
+    <Open>0.0240024</Open>
+    <High>0.02434</High>
+    <Low>0.020002</Low>
+    <Close>0.020492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-17</Date>
+    <Open>0.0205221</Open>
+    <High>0.0209825</High>
+    <Low>0.0198924</Low>
+    <Close>0.0207327</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-18</Date>
+    <Open>0.0207721</Open>
+    <High>0.0208625</High>
+    <Low>0.0201522</Low>
+    <Close>0.0203326</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-19</Date>
+    <Open>0.02032</Open>
+    <High>0.0207531</High>
+    <Low>0.0179604</Low>
+    <Close>0.0185198</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-20</Date>
+    <Open>0.0185098</Open>
+    <High>0.0198318</High>
+    <Low>0.0183804</Low>
+    <Close>0.0193608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-21</Date>
+    <Open>0.0193608</Open>
+    <High>0.0195008</High>
+    <Low>0.0184498</Low>
+    <Close>0.0187209</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-22</Date>
+    <Open>0.0187409</Open>
+    <High>0.0192598</High>
+    <Low>0.018168</Low>
+    <Close>0.0189268</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-23</Date>
+    <Open>0.0189068</Open>
+    <High>0.0193775</High>
+    <Low>0.0186379</Low>
+    <Close>0.0188081</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-24</Date>
+    <Open>0.0188079</Open>
+    <High>0.019069</High>
+    <Low>0.0185581</Low>
+    <Close>0.0186487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-25</Date>
+    <Open>0.0186519</Open>
+    <High>0.0187992</High>
+    <Low>0.0179475</Low>
+    <Close>0.0183676</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-26</Date>
+    <Open>0.0183676</Open>
+    <High>0.0186781</High>
+    <Low>0.0179966</Low>
+    <Close>0.0180964</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-27</Date>
+    <Open>0.0181064</Open>
+    <High>0.0184265</High>
+    <Low>0.0175819</Low>
+    <Close>0.0177631</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-28</Date>
+    <Open>0.0177531</Open>
+    <High>0.0178425</High>
+    <Low>0.016553</Low>
+    <Close>0.0168609</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-29</Date>
+    <Open>0.0168611</Open>
+    <High>0.0170115</High>
+    <Low>0.0156736</Low>
+    <Close>0.0160526</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-30</Date>
+    <Open>0.0160729</Open>
+    <High>0.0168016</High>
+    <Low>0.0154223</Low>
+    <Close>0.0163746</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2022-12-31</Date>
+    <Open>0.0163986</Open>
+    <High>0.0169185</High>
+    <Low>0.0161648</Low>
+    <Close>0.0164788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-01</Date>
+    <Open>0.0164826</Open>
+    <High>0.0168492</High>
+    <Low>0.0163537</Low>
+    <Close>0.0167811</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-02</Date>
+    <Open>0.0167811</Open>
+    <High>0.0179388</High>
+    <Low>0.0165012</Low>
+    <Close>0.0176563</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-03</Date>
+    <Open>0.0176552</Open>
+    <High>0.0178693</High>
+    <Low>0.0171901</Low>
+    <Close>0.0174472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-04</Date>
+    <Open>0.0174474</Open>
+    <High>0.0185506</High>
+    <Low>0.0174474</Low>
+    <Close>0.0177341</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-05</Date>
+    <Open>0.0177311</Open>
+    <High>0.0185254</High>
+    <Low>0.01772</Low>
+    <Close>0.0182846</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-06</Date>
+    <Open>0.0182495</Open>
+    <High>0.0250122</High>
+    <Low>0.0177066</Low>
+    <Close>0.0248923</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-07</Date>
+    <Open>0.024992</Open>
+    <High>0.0253324</High>
+    <Low>0.0229431</Low>
+    <Close>0.0232544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-08</Date>
+    <Open>0.0233244</Open>
+    <High>0.0400212</High>
+    <Low>0.0231065</Low>
+    <Close>0.0343759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-09</Date>
+    <Open>0.0341859</Open>
+    <High>0.0507949</High>
+    <Low>0.0324142</Low>
+    <Close>0.0420196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-10</Date>
+    <Open>0.04145</Open>
+    <High>0.0467186</High>
+    <Low>0.03998</Low>
+    <Close>0.042626</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-11</Date>
+    <Open>0.0427864</Open>
+    <High>0.043176</High>
+    <Low>0.03612</Low>
+    <Close>0.0375266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-12</Date>
+    <Open>0.0375766</Open>
+    <High>0.0450468</High>
+    <Low>0.0374778</Low>
+    <Close>0.0410337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-13</Date>
+    <Open>0.0410341</Open>
+    <High>0.0530053</High>
+    <Low>0.0384327</Low>
+    <Close>0.0500245</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-14</Date>
+    <Open>0.0501245</Open>
+    <High>0.0554772</High>
+    <Low>0.0470185</Low>
+    <Close>0.0500325</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-15</Date>
+    <Open>0.0500025</Open>
+    <High>0.0509019</High>
+    <Low>0.0452868</Low>
+    <Close>0.0493043</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-16</Date>
+    <Open>0.0493497</Open>
+    <High>0.0502551</High>
+    <Low>0.0448331</Low>
+    <Close>0.0467705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-17</Date>
+    <Open>0.0467709</Open>
+    <High>0.05551</High>
+    <Low>0.0452923</Low>
+    <Close>0.0506151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-18</Date>
+    <Open>0.0506956</Open>
+    <High>0.0517357</High>
+    <Low>0.0427066</Low>
+    <Close>0.0455477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-19</Date>
+    <Open>0.0455377</Open>
+    <High>0.0466795</High>
+    <Low>0.0433061</Low>
+    <Close>0.0457886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-20</Date>
+    <Open>0.0457482</Open>
+    <High>0.05001</High>
+    <Low>0.0440296</Low>
+    <Close>0.0487488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-21</Date>
+    <Open>0.0487788</Open>
+    <High>0.0530106</High>
+    <Low>0.047308</Low>
+    <Close>0.0483197</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-22</Date>
+    <Open>0.0480077</Open>
+    <High>0.0509512</High>
+    <Low>0.0462083</Low>
+    <Close>0.0482496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-23</Date>
+    <Open>0.0481796</Open>
+    <High>0.0567751</High>
+    <Low>0.048002</Low>
+    <Close>0.053478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-24</Date>
+    <Open>0.053558</Open>
+    <High>0.054157</High>
+    <Low>0.046977</Low>
+    <Close>0.047971</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-25</Date>
+    <Open>0.047941</Open>
+    <High>0.0509397</High>
+    <Low>0.0459369</Low>
+    <Close>0.0490483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-26</Date>
+    <Open>0.0490383</Open>
+    <High>0.0517167</High>
+    <Low>0.0480129</Low>
+    <Close>0.0487639</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-27</Date>
+    <Open>0.0487539</Open>
+    <High>0.0543841</High>
+    <Low>0.0470908</Low>
+    <Close>0.0525858</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-28</Date>
+    <Open>0.0526284</Open>
+    <High>0.0628957</High>
+    <Low>0.0525884</Low>
+    <Close>0.057651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-29</Date>
+    <Open>0.0577115</Open>
+    <High>0.0605303</High>
+    <Low>0.0546431</Low>
+    <Close>0.059153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-30</Date>
+    <Open>0.0590424</Open>
+    <High>0.0602912</High>
+    <Low>0.0518295</Low>
+    <Close>0.0534437</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-01-31</Date>
+    <Open>0.0534437</Open>
+    <High>0.0556294</High>
+    <Low>0.0525668</Low>
+    <Close>0.0540949</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-01</Date>
+    <Open>0.0541049</Open>
+    <High>0.0586329</High>
+    <Low>0.05036</Low>
+    <Close>0.0574634</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-02</Date>
+    <Open>0.0574929</Open>
+    <High>0.0580945</High>
+    <Low>0.0538838</Low>
+    <Close>0.0546509</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-03</Date>
+    <Open>0.0546109</Open>
+    <High>0.0577298</High>
+    <Low>0.05321</Low>
+    <Close>0.0564045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-04</Date>
+    <Open>0.0563745</Open>
+    <High>0.057394</High>
+    <Low>0.0545544</Low>
+    <Close>0.0564045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-05</Date>
+    <Open>0.0564445</Open>
+    <High>0.0582834</High>
+    <Low>0.0523536</Low>
+    <Close>0.0540635</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-06</Date>
+    <Open>0.054014</Open>
+    <High>0.0547037</High>
+    <Low>0.0516793</Low>
+    <Close>0.0525421</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-07</Date>
+    <Open>0.0525121</Open>
+    <High>0.0559717</High>
+    <Low>0.0511041</Low>
+    <Close>0.0550939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-08</Date>
+    <Open>0.0550639</Open>
+    <High>0.0572329</High>
+    <Low>0.050762</Low>
+    <Close>0.0519742</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-09</Date>
+    <Open>0.0520936</Open>
+    <High>0.0525774</High>
+    <Low>0.0423397</Low>
+    <Close>0.0429539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-10</Date>
+    <Open>0.0429243</Open>
+    <High>0.044984</High>
+    <Low>0.0428943</Low>
+    <Close>0.0437466</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-11</Date>
+    <Open>0.0438</Open>
+    <High>0.0458341</High>
+    <Low>0.0431052</Low>
+    <Close>0.0455946</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-12</Date>
+    <Open>0.0456291</Open>
+    <High>0.0459828</High>
+    <Low>0.043026</Low>
+    <Close>0.0437535</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-13</Date>
+    <Open>0.0438144</Open>
+    <High>0.0441224</High>
+    <Low>0.0404991</Low>
+    <Close>0.0414324</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-14</Date>
+    <Open>0.0414324</Open>
+    <High>0.0443204</High>
+    <Low>0.0412793</Low>
+    <Close>0.0438871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-15</Date>
+    <Open>0.0439384</Open>
+    <High>0.049789</High>
+    <Low>0.0429829</Low>
+    <Close>0.0488793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-16</Date>
+    <Open>0.0488193</Open>
+    <High>0.0530085</High>
+    <Low>0.0460356</Low>
+    <Close>0.0460557</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-17</Date>
+    <Open>0.0460457</Open>
+    <High>0.0493739</High>
+    <Low>0.0455155</Low>
+    <Close>0.0483348</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-18</Date>
+    <Open>0.0483348</Open>
+    <High>0.0486268</High>
+    <Low>0.0470413</Low>
+    <Close>0.0477776</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-19</Date>
+    <Open>0.0478377</Open>
+    <High>0.0493794</High>
+    <Low>0.0461688</Low>
+    <Close>0.0475809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-20</Date>
+    <Open>0.0475905</Open>
+    <High>0.0492894</High>
+    <Low>0.0462234</Low>
+    <Close>0.0478519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-21</Date>
+    <Open>0.0478319</Open>
+    <High>0.0488127</High>
+    <Low>0.0454786</Low>
+    <Close>0.0459578</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-22</Date>
+    <Open>0.0459478</Open>
+    <High>0.0464079</High>
+    <Low>0.0432148</Low>
+    <Close>0.0449504</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-23</Date>
+    <Open>0.0449718</Open>
+    <High>0.0462242</High>
+    <Low>0.0436679</Low>
+    <Close>0.0440657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-24</Date>
+    <Open>0.044047</Open>
+    <High>0.0443749</High>
+    <Low>0.0401432</Low>
+    <Close>0.0409296</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-25</Date>
+    <Open>0.0409296</Open>
+    <High>0.0415237</High>
+    <Low>0.0382838</Low>
+    <Close>0.0397228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-26</Date>
+    <Open>0.039684</Open>
+    <High>0.0417221</High>
+    <Low>0.0396424</Low>
+    <Close>0.0409741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-27</Date>
+    <Open>0.040982</Open>
+    <High>0.0427613</High>
+    <Low>0.0395412</Low>
+    <Close>0.0405524</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-02-28</Date>
+    <Open>0.040572</Open>
+    <High>0.0411508</High>
+    <Low>0.0388135</Low>
+    <Close>0.0397876</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-01</Date>
+    <Open>0.0397279</Open>
+    <High>0.0421555</High>
+    <Low>0.0392551</Low>
+    <Close>0.0412654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-02</Date>
+    <Open>0.0412554</Open>
+    <High>0.0418763</High>
+    <Low>0.0390488</Low>
+    <Close>0.0400736</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-03</Date>
+    <Open>0.0400332</Open>
+    <High>0.0401636</High>
+    <Low>0.0351325</Low>
+    <Close>0.0373126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-04</Date>
+    <Open>0.0373026</Open>
+    <High>0.0378623</High>
+    <Low>0.0340017</Low>
+    <Close>0.0349824</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-05</Date>
+    <Open>0.0349818</Open>
+    <High>0.0376248</High>
+    <Low>0.0348931</Low>
+    <Close>0.036354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-06</Date>
+    <Open>0.0363544</Open>
+    <High>0.0399896</High>
+    <Low>0.0358064</Low>
+    <Close>0.0392376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-07</Date>
+    <Open>0.0392576</Open>
+    <High>0.0399696</High>
+    <Low>0.0362189</Low>
+    <Close>0.0366682</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-08</Date>
+    <Open>0.0366682</Open>
+    <High>0.0372996</High>
+    <Low>0.0330187</Low>
+    <Close>0.0334187</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-09</Date>
+    <Open>0.0334167</Open>
+    <High>0.035459</High>
+    <Low>0.0311928</Low>
+    <Close>0.0319229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-10</Date>
+    <Open>0.0318832</Open>
+    <High>0.0335503</High>
+    <Low>0.0301476</Low>
+    <Close>0.0331492</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-11</Date>
+    <Open>0.0331165</Open>
+    <High>0.0344557</High>
+    <Low>0.0301968</Low>
+    <Close>0.0311482</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-12</Date>
+    <Open>0.0312291</Open>
+    <High>0.0345134</High>
+    <Low>0.0306125</Low>
+    <Close>0.034001</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-13</Date>
+    <Open>0.0339707</Open>
+    <High>0.0386895</High>
+    <Low>0.0339707</Low>
+    <Close>0.0380713</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-14</Date>
+    <Open>0.0380914</Open>
+    <High>0.0442787</High>
+    <Low>0.0367506</Low>
+    <Close>0.0434684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-15</Date>
+    <Open>0.0434583</Open>
+    <High>0.0453335</High>
+    <Low>0.0360588</Low>
+    <Close>0.0377077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-16</Date>
+    <Open>0.0376672</Open>
+    <High>0.0407008</High>
+    <Low>0.0372009</Low>
+    <Close>0.0398738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-17</Date>
+    <Open>0.0398542</Open>
+    <High>0.0438863</High>
+    <Low>0.0390917</Low>
+    <Close>0.0435649</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-18</Date>
+    <Open>0.0436064</Open>
+    <High>0.0510775</High>
+    <Low>0.0431748</Low>
+    <Close>0.0466591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-19</Date>
+    <Open>0.0466691</Open>
+    <High>0.0495133</High>
+    <Low>0.0455303</Low>
+    <Close>0.0471023</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-20</Date>
+    <Open>0.0471354</Open>
+    <High>0.0480819</High>
+    <Low>0.0427608</Low>
+    <Close>0.0435986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-21</Date>
+    <Open>0.0435885</Open>
+    <High>0.0448118</High>
+    <Low>0.0404909</Low>
+    <Close>0.0432279</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-22</Date>
+    <Open>0.0432776</Open>
+    <High>0.0445193</High>
+    <Low>0.0393261</Low>
+    <Close>0.0404906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-23</Date>
+    <Open>0.0404606</Open>
+    <High>0.043607</High>
+    <Low>0.0398424</Low>
+    <Close>0.0421475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-24</Date>
+    <Open>0.0421485</Open>
+    <High>0.0426283</High>
+    <Low>0.0389981</Low>
+    <Close>0.0395827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-25</Date>
+    <Open>0.0395869</Open>
+    <High>0.0401405</High>
+    <Low>0.0379058</Low>
+    <Close>0.038163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-26</Date>
+    <Open>0.0380959</Open>
+    <High>0.0407602</High>
+    <Low>0.0379398</Low>
+    <Close>0.0396397</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-27</Date>
+    <Open>0.0396436</Open>
+    <High>0.040326</High>
+    <Low>0.0361856</Low>
+    <Close>0.0374696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-28</Date>
+    <Open>0.0374656</Open>
+    <High>0.0394823</High>
+    <Low>0.0371426</Low>
+    <Close>0.0387851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-29</Date>
+    <Open>0.0387931</Open>
+    <High>0.042132</High>
+    <Low>0.038644</Low>
+    <Close>0.0416859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-30</Date>
+    <Open>0.0416755</Open>
+    <High>0.0428048</High>
+    <Low>0.039791</Low>
+    <Close>0.0405874</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-03-31</Date>
+    <Open>0.0405814</Open>
+    <High>0.0418552</High>
+    <Low>0.0394254</Low>
+    <Close>0.0414133</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-01</Date>
+    <Open>0.0414123</Open>
+    <High>0.0419191</High>
+    <Low>0.0403501</Low>
+    <Close>0.0413439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-02</Date>
+    <Open>0.0413373</Open>
+    <High>0.0419986</High>
+    <Low>0.039703</Low>
+    <Close>0.0401809</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-03</Date>
+    <Open>0.0401769</Open>
+    <High>0.0410792</High>
+    <Low>0.0387069</Low>
+    <Close>0.0398119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-04</Date>
+    <Open>0.0398299</Open>
+    <High>0.0408441</High>
+    <Low>0.0395972</Low>
+    <Close>0.0404692</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-05</Date>
+    <Open>0.0404972</Open>
+    <High>0.041936</High>
+    <Low>0.0400742</Low>
+    <Close>0.0409297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-06</Date>
+    <Open>0.0409091</Open>
+    <High>0.0415753</High>
+    <Low>0.0398691</Low>
+    <Close>0.0402021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-07</Date>
+    <Open>0.0401961</Open>
+    <High>0.0409602</High>
+    <Low>0.0393325</Low>
+    <Close>0.0399335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-08</Date>
+    <Open>0.0399219</Open>
+    <High>0.0403648</High>
+    <Low>0.0393212</Low>
+    <Close>0.0396104</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-09</Date>
+    <Open>0.0396004</Open>
+    <High>0.0402776</High>
+    <Low>0.039046</Low>
+    <Close>0.0402049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-10</Date>
+    <Open>0.0402319</Open>
+    <High>0.0410512</High>
+    <Low>0.0395427</Low>
+    <Close>0.0409606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-11</Date>
+    <Open>0.0409616</Open>
+    <High>0.0424485</High>
+    <Low>0.0409616</Low>
+    <Close>0.0417569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-12</Date>
+    <Open>0.0417533</Open>
+    <High>0.0445948</High>
+    <Low>0.0397661</Low>
+    <Close>0.0431947</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-13</Date>
+    <Open>0.0431837</Open>
+    <High>0.0439292</High>
+    <Low>0.0424235</Low>
+    <Close>0.0429732</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-14</Date>
+    <Open>0.0430283</Open>
+    <High>0.0447238</High>
+    <Low>0.0416536</Low>
+    <Close>0.043439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-15</Date>
+    <Open>0.0434396</Open>
+    <High>0.0435936</High>
+    <Low>0.0423641</Low>
+    <Close>0.0427264</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-16</Date>
+    <Open>0.0427264</Open>
+    <High>0.0444112</High>
+    <Low>0.041839</Low>
+    <Close>0.044135</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-17</Date>
+    <Open>0.044154</Open>
+    <High>0.0449119</High>
+    <Low>0.0421811</Low>
+    <Close>0.0432145</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-18</Date>
+    <Open>0.0432255</Open>
+    <High>0.0498794</High>
+    <Low>0.04319</Low>
+    <Close>0.0475281</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-19</Date>
+    <Open>0.0475376</Open>
+    <High>0.048811</High>
+    <Low>0.0425755</Low>
+    <Close>0.0438641</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-20</Date>
+    <Open>0.0438841</Open>
+    <High>0.0459869</High>
+    <Low>0.0416604</Low>
+    <Close>0.0420142</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-21</Date>
+    <Open>0.0419929</Open>
+    <High>0.0427761</High>
+    <Low>0.0389827</Low>
+    <Close>0.0392207</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-22</Date>
+    <Open>0.0391927</Open>
+    <High>0.0411792</High>
+    <Low>0.0388647</Low>
+    <Close>0.0411047</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-23</Date>
+    <Open>0.0410887</Open>
+    <High>0.0418049</High>
+    <Low>0.0391106</Low>
+    <Close>0.040059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-24</Date>
+    <Open>0.040036</Open>
+    <High>0.040837</High>
+    <Low>0.0385663</Low>
+    <Close>0.0391608</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-25</Date>
+    <Open>0.0391512</Open>
+    <High>0.0398422</High>
+    <Low>0.0374744</Low>
+    <Close>0.0397161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-26</Date>
+    <Open>0.0397871</Open>
+    <High>0.0415406</High>
+    <Low>0.0365189</Low>
+    <Close>0.0384633</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-27</Date>
+    <Open>0.0384313</Open>
+    <High>0.039982</High>
+    <Low>0.0379715</Low>
+    <Close>0.039495</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-28</Date>
+    <Open>0.0394906</Open>
+    <High>0.0395827</High>
+    <Low>0.0382922</Low>
+    <Close>0.0389484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-29</Date>
+    <Open>0.038991</Open>
+    <High>0.0398149</High>
+    <Low>0.0387385</Low>
+    <Close>0.0395383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-04-30</Date>
+    <Open>0.0395509</Open>
+    <High>0.0395753</High>
+    <Low>0.0380138</Low>
+    <Close>0.0383959</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-01</Date>
+    <Open>0.0383965</Open>
+    <High>0.038554</High>
+    <Low>0.0365011</Low>
+    <Close>0.036879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-02</Date>
+    <Open>0.0368766</Open>
+    <High>0.037729</High>
+    <Low>0.0367704</Low>
+    <Close>0.0374909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-03</Date>
+    <Open>0.0374929</Open>
+    <High>0.0377873</High>
+    <Low>0.0354636</Low>
+    <Close>0.0374797</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-04</Date>
+    <Open>0.0375041</Open>
+    <High>0.0380857</High>
+    <Low>0.0349164</Low>
+    <Close>0.0351366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-05</Date>
+    <Open>0.035135</Open>
+    <High>0.0353241</High>
+    <Low>0.0336725</Low>
+    <Close>0.0344974</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-06</Date>
+    <Open>0.0344944</Open>
+    <High>0.0348054</High>
+    <Low>0.0311429</Low>
+    <Close>0.0322721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-07</Date>
+    <Open>0.0322597</Open>
+    <High>0.0327682</High>
+    <Low>0.0315937</Low>
+    <Close>0.0319553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-08</Date>
+    <Open>0.0319701</Open>
+    <High>0.0323566</High>
+    <Low>0.0275187</Low>
+    <Close>0.0279082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-09</Date>
+    <Open>0.0279199</Open>
+    <High>0.0289139</High>
+    <Low>0.0277555</Low>
+    <Close>0.0281101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-10</Date>
+    <Open>0.0281862</Open>
+    <High>0.032727</High>
+    <Low>0.0279813</Low>
+    <Close>0.0313372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-11</Date>
+    <Open>0.0313423</Open>
+    <High>0.0318058</High>
+    <Low>0.0277269</Low>
+    <Close>0.0285595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-12</Date>
+    <Open>0.0285705</Open>
+    <High>0.030098</High>
+    <Low>0.0275896</Low>
+    <Close>0.0299179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-13</Date>
+    <Open>0.0299129</Open>
+    <High>0.0301321</High>
+    <Low>0.0290724</Low>
+    <Close>0.0295077</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-14</Date>
+    <Open>0.0295248</Open>
+    <High>0.0312736</High>
+    <Low>0.0288823</Low>
+    <Close>0.0303452</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-15</Date>
+    <Open>0.0303352</Open>
+    <High>0.0312799</High>
+    <Low>0.0297288</Low>
+    <Close>0.0303472</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-16</Date>
+    <Open>0.0303502</Open>
+    <High>0.032589</High>
+    <Low>0.0294526</Low>
+    <Close>0.0325183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-17</Date>
+    <Open>0.032521</Open>
+    <High>0.0352211</High>
+    <Low>0.0313585</Low>
+    <Close>0.0326473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-18</Date>
+    <Open>0.0327031</Open>
+    <High>0.0331599</High>
+    <Low>0.0307383</Low>
+    <Close>0.0320388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-19</Date>
+    <Open>0.0320458</Open>
+    <High>0.0322669</High>
+    <Low>0.0308024</Low>
+    <Close>0.0312934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-20</Date>
+    <Open>0.0312986</Open>
+    <High>0.0313292</High>
+    <Low>0.0305933</Low>
+    <Close>0.0310069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-21</Date>
+    <Open>0.0310049</Open>
+    <High>0.031015</High>
+    <Low>0.0289293</Low>
+    <Close>0.0293936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-22</Date>
+    <Open>0.0294187</Open>
+    <High>0.0302611</High>
+    <Low>0.0287904</Low>
+    <Close>0.0298579</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-23</Date>
+    <Open>0.0299009</Open>
+    <High>0.030989</High>
+    <Low>0.0296597</Low>
+    <Close>0.0305698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-24</Date>
+    <Open>0.0305473</Open>
+    <High>0.0306771</High>
+    <Low>0.0284764</Low>
+    <Close>0.0295832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-25</Date>
+    <Open>0.0295795</Open>
+    <High>0.0304901</High>
+    <Low>0.0287814</Low>
+    <Close>0.0300489</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-26</Date>
+    <Open>0.030009</Open>
+    <High>0.0304015</High>
+    <Low>0.0293423</Low>
+    <Close>0.0301566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-27</Date>
+    <Open>0.03017</Open>
+    <High>0.0307773</High>
+    <Low>0.029843</Low>
+    <Close>0.0300884</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GALA">
+    <Date>2023-05-28</Date>
+    <Open>0.030132</Open>
+    <High>0.0313466</High>
+    <Low>0.029955</Low>
+    <Close>0.0311372</Close>
+  </Cryptocurrency>
+</Root>

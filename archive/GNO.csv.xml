@@ -1,0 +1,3615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Cryptocurrency CurrencyName="ticker">
+    <Date>date</Date>
+    <Open>open</Open>
+    <High>high</High>
+    <Low>low</Low>
+    <Close>close</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2021-12-30</Date>
+    <Open>536.007</Open>
+    <High>572.615</High>
+    <Low>521.104</Low>
+    <Close>548.91</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2021-12-31</Date>
+    <Open>550.21</Open>
+    <High>596.919</High>
+    <Low>526.653</Low>
+    <Close>531.353</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-01</Date>
+    <Open>531.253</Open>
+    <High>543.467</High>
+    <Low>522.9</Low>
+    <Close>527.706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-02</Date>
+    <Open>527.653</Open>
+    <High>529.306</High>
+    <Low>512.751</Low>
+    <Close>515.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-03</Date>
+    <Open>516.703</Open>
+    <High>521.904</High>
+    <Low>498.0</Low>
+    <Close>501.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-04</Date>
+    <Open>501.0</Open>
+    <High>536.146</High>
+    <Low>499.85</Low>
+    <Close>531.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-05</Date>
+    <Open>530.894</Open>
+    <High>531.647</High>
+    <Low>484.3</Low>
+    <Close>485.851</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-06</Date>
+    <Open>486.1</Open>
+    <High>487.595</High>
+    <Low>466.92</Low>
+    <Close>479.152</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-07</Date>
+    <Open>479.692</Open>
+    <High>481.5</High>
+    <Low>445.311</Low>
+    <Close>445.755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-08</Date>
+    <Open>447.555</Open>
+    <High>513.349</High>
+    <Low>444.911</Low>
+    <Close>470.4</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-09</Date>
+    <Open>470.0</Open>
+    <High>486.0</High>
+    <Low>454.2</Low>
+    <Close>478.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-10</Date>
+    <Open>480.252</Open>
+    <High>480.8</High>
+    <Low>387.5</Low>
+    <Close>403.6</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-11</Date>
+    <Open>404.4</Open>
+    <High>406.3</High>
+    <Low>390.739</Low>
+    <Close>400.7</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-12</Date>
+    <Open>401.84</Open>
+    <High>409.664</High>
+    <Low>392.178</Low>
+    <Close>405.603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-13</Date>
+    <Open>405.862</Open>
+    <High>412.606</High>
+    <Low>389.795</Low>
+    <Close>402.401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-14</Date>
+    <Open>402.761</Open>
+    <High>404.002</High>
+    <Low>394.958</Low>
+    <Close>399.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-15</Date>
+    <Open>399.12</Open>
+    <High>404.802</High>
+    <Low>396.419</Low>
+    <Close>403.202</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-16</Date>
+    <Open>402.801</Open>
+    <High>404.702</High>
+    <Low>384.854</Low>
+    <Close>389.256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-17</Date>
+    <Open>389.656</Open>
+    <High>390.717</High>
+    <Low>359.408</Low>
+    <Close>363.045</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-18</Date>
+    <Open>363.545</Open>
+    <High>364.946</High>
+    <Low>332.4</Low>
+    <Close>339.436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-19</Date>
+    <Open>338.635</Open>
+    <High>339.136</High>
+    <Low>320.128</Low>
+    <Close>330.499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-20</Date>
+    <Open>329.099</Open>
+    <High>351.57</High>
+    <Low>327.065</Low>
+    <Close>339.068</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-21</Date>
+    <Open>340.268</Open>
+    <High>342.168</High>
+    <Low>275.155</Low>
+    <Close>280.256</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-22</Date>
+    <Open>279.956</Open>
+    <High>288.586</High>
+    <Low>236.647</Low>
+    <Close>240.048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-23</Date>
+    <Open>239.572</Open>
+    <High>266.38</High>
+    <Low>238.348</Low>
+    <Close>260.052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-24</Date>
+    <Open>259.778</Open>
+    <High>274.955</High>
+    <Low>222.645</Low>
+    <Close>263.079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-25</Date>
+    <Open>261.952</Open>
+    <High>275.138</High>
+    <Low>254.276</Low>
+    <Close>263.932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-26</Date>
+    <Open>262.658</Open>
+    <High>293.076</High>
+    <Low>260.33</Low>
+    <Close>268.661</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-27</Date>
+    <Open>269.462</Open>
+    <High>291.917</High>
+    <Low>250.925</Low>
+    <Close>257.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-28</Date>
+    <Open>256.903</Open>
+    <High>272.982</High>
+    <Low>251.976</Low>
+    <Close>267.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-29</Date>
+    <Open>268.154</Open>
+    <High>285.686</High>
+    <Low>267.453</Low>
+    <Close>276.555</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-30</Date>
+    <Open>275.783</Open>
+    <High>284.185</High>
+    <Low>271.481</Low>
+    <Close>273.109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-01-31</Date>
+    <Open>275.683</Open>
+    <High>287.444</High>
+    <Low>267.88</Low>
+    <Close>283.942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-01</Date>
+    <Open>283.985</Open>
+    <High>303.482</High>
+    <Low>283.77</Low>
+    <Close>296.048</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-02</Date>
+    <Open>296.748</Open>
+    <High>301.881</High>
+    <Low>281.933</Low>
+    <Close>288.186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-03</Date>
+    <Open>288.459</Open>
+    <High>291.722</High>
+    <Low>276.775</Low>
+    <Close>283.015</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-04</Date>
+    <Open>283.015</Open>
+    <High>325.195</High>
+    <Low>283.015</Low>
+    <Close>320.556</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-05</Date>
+    <Open>320.356</Open>
+    <High>327.797</High>
+    <Low>315.421</Low>
+    <Close>326.629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-06</Date>
+    <Open>327.096</Open>
+    <High>328.197</High>
+    <Low>322.461</Low>
+    <Close>323.061</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-07</Date>
+    <Open>322.929</Open>
+    <High>345.776</High>
+    <Low>322.929</Low>
+    <Close>341.939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-08</Date>
+    <Open>341.939</Open>
+    <High>352.947</High>
+    <Low>332.866</Low>
+    <Close>336.903</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-09</Date>
+    <Open>336.236</Open>
+    <High>360.496</High>
+    <Low>333.266</Low>
+    <Close>360.496</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-10</Date>
+    <Open>360.224</Open>
+    <High>360.26</High>
+    <Low>348.479</Low>
+    <Close>353.512</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-11</Date>
+    <Open>352.511</Open>
+    <High>355.249</High>
+    <Low>335.601</Low>
+    <Close>336.601</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-12</Date>
+    <Open>335.401</Open>
+    <High>339.738</High>
+    <Low>328.797</Low>
+    <Close>331.499</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-13</Date>
+    <Open>330.965</Open>
+    <High>344.306</High>
+    <Low>330.565</Low>
+    <Close>339.404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-14</Date>
+    <Open>340.27</Open>
+    <High>351.711</High>
+    <Low>333.2</Low>
+    <Close>350.81</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-15</Date>
+    <Open>350.81</Open>
+    <High>389.333</High>
+    <Low>350.575</Low>
+    <Close>380.228</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-16</Date>
+    <Open>379.565</Open>
+    <High>393.236</High>
+    <Low>374.587</Low>
+    <Close>378.627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-17</Date>
+    <Open>378.989</Open>
+    <High>380.628</High>
+    <Low>363.118</Low>
+    <Close>364.755</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-18</Date>
+    <Open>364.855</Open>
+    <High>365.619</High>
+    <Low>342.906</Low>
+    <Close>342.906</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-19</Date>
+    <Open>343.406</Open>
+    <High>347.108</High>
+    <Low>338.403</Low>
+    <Close>339.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-20</Date>
+    <Open>339.203</Open>
+    <High>340.604</High>
+    <Low>319.96</Low>
+    <Close>324.262</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-21</Date>
+    <Open>324.362</Open>
+    <High>335.067</High>
+    <Low>318.259</Low>
+    <Close>323.161</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-22</Date>
+    <Open>321.661</Open>
+    <High>322.529</High>
+    <Low>308.123</Low>
+    <Close>320.592</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-23</Date>
+    <Open>321.593</Open>
+    <High>332.8</High>
+    <Low>320.36</Low>
+    <Close>326.896</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-24</Date>
+    <Open>325.595</Open>
+    <High>326.496</High>
+    <Low>280.04</Low>
+    <Close>316.727</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-25</Date>
+    <Open>317.995</Open>
+    <High>338.135</High>
+    <Low>317.195</Low>
+    <Close>336.968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-26</Date>
+    <Open>339.57</Open>
+    <High>346.138</High>
+    <Low>337.168</Low>
+    <Close>341.771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-27</Date>
+    <Open>341.171</Open>
+    <High>343.071</High>
+    <Low>316.558</Low>
+    <Close>320.628</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-02-28</Date>
+    <Open>319.728</Open>
+    <High>352.576</High>
+    <Low>311.224</Low>
+    <Close>349.675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-01</Date>
+    <Open>349.14</Open>
+    <High>361.845</High>
+    <Low>346.673</Low>
+    <Close>354.206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-02</Date>
+    <Open>354.606</Open>
+    <High>362.109</High>
+    <Low>351.17</Low>
+    <Close>356.571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-03</Date>
+    <Open>356.007</Open>
+    <High>356.807</High>
+    <Low>330.599</Low>
+    <Close>336.967</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-04</Date>
+    <Open>337.001</Open>
+    <High>342.803</High>
+    <Low>310.062</Low>
+    <Close>310.193</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-05</Date>
+    <Open>310.562</Open>
+    <High>314.995</High>
+    <Low>306.261</Low>
+    <Close>313.594</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-06</Date>
+    <Open>314.867</Open>
+    <High>316.476</High>
+    <Low>307.892</Low>
+    <Close>310.769</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-07</Date>
+    <Open>308.793</Open>
+    <High>308.893</High>
+    <Low>290.458</Low>
+    <Close>292.588</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-08</Date>
+    <Open>292.358</Open>
+    <High>302.26</High>
+    <Low>289.558</Low>
+    <Close>297.059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-09</Date>
+    <Open>297.159</Open>
+    <High>319.464</High>
+    <Low>296.73</Low>
+    <Close>312.362</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-10</Date>
+    <Open>311.962</Open>
+    <High>314.063</High>
+    <Low>292.088</Low>
+    <Close>299.02</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-11</Date>
+    <Open>300.42</Open>
+    <High>304.522</High>
+    <Low>288.715</Low>
+    <Close>296.259</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-12</Date>
+    <Open>297.561</Open>
+    <High>298.939</High>
+    <Low>293.638</Low>
+    <Close>295.519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-13</Date>
+    <Open>297.425</Open>
+    <High>302.232</High>
+    <Low>290.888</Low>
+    <Close>291.087</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-14</Date>
+    <Open>281.956</Open>
+    <High>302.413</High>
+    <Low>281.928</Low>
+    <Close>296.57</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-15</Date>
+    <Open>295.533</Open>
+    <High>298.585</High>
+    <Low>280.328</Low>
+    <Close>286.186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-16</Date>
+    <Open>286.786</Open>
+    <High>315.695</High>
+    <Low>283.385</Low>
+    <Close>301.19</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-17</Date>
+    <Open>299.39</Open>
+    <High>307.592</High>
+    <Low>299.06</Low>
+    <Close>305.553</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-18</Date>
+    <Open>307.31</Open>
+    <High>323.597</High>
+    <Low>303.922</Low>
+    <Close>320.66</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-19</Date>
+    <Open>321.225</Open>
+    <High>325.763</High>
+    <Low>320.024</Low>
+    <Close>321.361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-20</Date>
+    <Open>322.229</Open>
+    <High>323.061</High>
+    <Low>311.024</Low>
+    <Close>311.525</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-21</Date>
+    <Open>312.425</Open>
+    <High>325.13</High>
+    <Low>308.923</Low>
+    <Close>317.927</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-22</Date>
+    <Open>319.059</Open>
+    <High>331.165</High>
+    <Low>316.458</Low>
+    <Close>329.832</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-23</Date>
+    <Open>329.432</Open>
+    <High>329.432</High>
+    <Low>322.329</Low>
+    <Close>326.431</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-24</Date>
+    <Open>326.463</Open>
+    <High>339.069</High>
+    <Low>326.331</Low>
+    <Close>338.869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-25</Date>
+    <Open>338.069</Open>
+    <High>346.973</High>
+    <Low>336.568</Low>
+    <Close>337.335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-26</Date>
+    <Open>337.469</Open>
+    <High>347.039</High>
+    <Low>333.934</Low>
+    <Close>338.869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-27</Date>
+    <Open>338.869</Open>
+    <High>386.755</High>
+    <Low>338.135</Low>
+    <Close>382.053</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-28</Date>
+    <Open>395.458</Open>
+    <High>570.428</High>
+    <Low>383.615</Low>
+    <Close>468.787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-29</Date>
+    <Open>468.934</Open>
+    <High>557.923</High>
+    <Low>455.837</Low>
+    <Close>477.439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-30</Date>
+    <Open>477.439</Open>
+    <High>482.041</High>
+    <Low>460.184</Low>
+    <Close>470.841</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-03-31</Date>
+    <Open>470.841</Open>
+    <High>472.042</High>
+    <Low>423.385</Low>
+    <Close>423.385</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-01</Date>
+    <Open>424.127</Open>
+    <High>436.174</High>
+    <Low>412.965</Low>
+    <Close>433.83</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-02</Date>
+    <Open>434.887</Open>
+    <High>442.577</High>
+    <Low>424.57</Low>
+    <Close>425.17</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-03</Date>
+    <Open>425.27</Open>
+    <High>432.173</High>
+    <Low>421.927</Low>
+    <Close>430.172</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-04</Date>
+    <Open>431.573</Open>
+    <High>439.476</High>
+    <Low>417.625</Low>
+    <Close>422.827</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-05</Date>
+    <Open>423.585</Open>
+    <High>430.829</High>
+    <Low>420.742</Low>
+    <Close>423.885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-06</Date>
+    <Open>423.285</Open>
+    <High>423.985</High>
+    <Low>392.9</Low>
+    <Close>395.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-07</Date>
+    <Open>394.4</Open>
+    <High>395.54</High>
+    <Low>390.339</Low>
+    <Close>391.539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-08</Date>
+    <Open>391.139</Open>
+    <High>409.323</High>
+    <Low>391.039</Low>
+    <Close>396.759</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-09</Date>
+    <Open>396.258</Open>
+    <High>396.759</High>
+    <Low>389.056</Low>
+    <Close>393.379</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-10</Date>
+    <Open>395.219</Open>
+    <High>400.72</High>
+    <Low>390.478</Low>
+    <Close>398.82</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-11</Date>
+    <Open>399.28</Open>
+    <High>400.48</High>
+    <Low>330.399</Low>
+    <Close>330.599</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-12</Date>
+    <Open>330.366</Open>
+    <High>353.871</High>
+    <Low>329.699</Low>
+    <Close>343.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-13</Date>
+    <Open>342.103</Open>
+    <High>355.342</High>
+    <Low>342.068</Low>
+    <Close>353.706</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-14</Date>
+    <Open>353.671</Open>
+    <High>358.608</High>
+    <Low>339.168</Low>
+    <Close>341.368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-15</Date>
+    <Open>340.668</Open>
+    <High>354.871</High>
+    <Low>340.634</Low>
+    <Close>349.07</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-16</Date>
+    <Open>349.27</Open>
+    <High>355.536</High>
+    <Low>344.634</Low>
+    <Close>346.469</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-17</Date>
+    <Open>346.769</Open>
+    <High>354.271</High>
+    <Low>344.634</Low>
+    <Close>351.435</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-18</Date>
+    <Open>351.87</Open>
+    <High>353.171</High>
+    <Low>329.866</Low>
+    <Close>347.804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-19</Date>
+    <Open>347.804</Open>
+    <High>359.372</High>
+    <Low>347.269</Low>
+    <Close>353.771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-20</Date>
+    <Open>353.171</Open>
+    <High>356.071</High>
+    <Low>340.568</Low>
+    <Close>345.069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-21</Date>
+    <Open>345.069</Open>
+    <High>358.372</High>
+    <Low>343.834</Low>
+    <Close>343.869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-22</Date>
+    <Open>343.734</Open>
+    <High>344.269</High>
+    <Low>330.133</Low>
+    <Close>334.534</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-23</Date>
+    <Open>333.433</Open>
+    <High>334.067</High>
+    <Low>330.166</Low>
+    <Close>331.033</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-24</Date>
+    <Open>331.066</Open>
+    <High>331.77</High>
+    <Low>324.565</Low>
+    <Close>327.065</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-25</Date>
+    <Open>327.065</Open>
+    <High>333.367</High>
+    <Low>315.363</Low>
+    <Close>332.266</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-26</Date>
+    <Open>329.766</Open>
+    <High>335.567</High>
+    <Low>316.5</Low>
+    <Close>317.132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-27</Date>
+    <Open>317.232</Open>
+    <High>322.1</High>
+    <Low>315.9</Low>
+    <Close>319.632</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-28</Date>
+    <Open>319.932</Open>
+    <High>335.8</High>
+    <Low>318.932</Low>
+    <Close>328.833</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-29</Date>
+    <Open>328.533</Open>
+    <High>334.833</High>
+    <Low>316.132</Low>
+    <Close>316.932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-04-30</Date>
+    <Open>316.232</Open>
+    <High>316.732</High>
+    <Low>309.431</Low>
+    <Close>313.131</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-01</Date>
+    <Open>313.1</Open>
+    <High>313.531</High>
+    <Low>306.631</Low>
+    <Close>310.8</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-02</Date>
+    <Open>309.631</Open>
+    <High>321.032</High>
+    <Low>309.631</Low>
+    <Close>316.0</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-03</Date>
+    <Open>316.0</Open>
+    <High>318.632</High>
+    <Low>309.069</Low>
+    <Close>309.669</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-04</Date>
+    <Open>309.669</Open>
+    <High>320.668</High>
+    <Low>305.239</Low>
+    <Close>318.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-05</Date>
+    <Open>318.404</Open>
+    <High>320.604</High>
+    <Low>298.94</Low>
+    <Close>301.74</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-06</Date>
+    <Open>301.37</Open>
+    <High>301.57</High>
+    <Low>289.571</Low>
+    <Close>293.571</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-07</Date>
+    <Open>293.471</Open>
+    <High>297.57</High>
+    <Low>286.143</Low>
+    <Close>286.143</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-08</Date>
+    <Open>286.543</Open>
+    <High>291.371</High>
+    <Low>271.791</Low>
+    <Close>278.916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-09</Date>
+    <Open>278.916</Open>
+    <High>283.843</High>
+    <Low>242.251</Low>
+    <Close>245.251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-10</Date>
+    <Open>244.751</Open>
+    <High>266.647</High>
+    <Low>238.605</Low>
+    <Close>247.801</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-11</Date>
+    <Open>250.025</Open>
+    <High>266.813</High>
+    <Low>228.605</Low>
+    <Close>235.25</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-12</Date>
+    <Open>235.701</Open>
+    <High>242.128</High>
+    <Low>200.239</Low>
+    <Close>213.223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-13</Date>
+    <Open>212.582</Open>
+    <High>243.49</High>
+    <Low>211.029</Low>
+    <Close>230.508</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-14</Date>
+    <Open>230.085</Open>
+    <High>230.208</High>
+    <Low>215.59</Low>
+    <Close>224.962</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-15</Date>
+    <Open>224.485</Open>
+    <High>238.314</High>
+    <Low>219.77</Low>
+    <Close>236.716</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-16</Date>
+    <Open>237.714</Open>
+    <High>239.812</High>
+    <Low>219.37</Low>
+    <Close>224.308</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-17</Date>
+    <Open>224.108</Open>
+    <High>235.217</High>
+    <Low>221.312</Low>
+    <Close>229.301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-18</Date>
+    <Open>229.901</Open>
+    <High>233.22</High>
+    <Low>211.204</Low>
+    <Close>211.624</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-19</Date>
+    <Open>211.603</Open>
+    <High>218.603</High>
+    <Low>203.017</Low>
+    <Close>215.484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-20</Date>
+    <Open>215.984</Open>
+    <High>219.159</High>
+    <Low>202.797</Low>
+    <Close>208.849</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-21</Date>
+    <Open>208.05</Open>
+    <High>214.021</High>
+    <Low>206.61</Low>
+    <Close>209.128</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-22</Date>
+    <Open>209.107</Open>
+    <High>217.217</High>
+    <Low>207.809</Low>
+    <Close>213.244</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-23</Date>
+    <Open>214.221</Open>
+    <High>228.072</High>
+    <Low>211.046</Low>
+    <Close>212.844</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-24</Date>
+    <Open>212.844</Open>
+    <High>212.844</High>
+    <Low>203.676</Low>
+    <Close>210.105</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-25</Date>
+    <Open>211.513</Open>
+    <High>216.017</High>
+    <Low>205.274</Low>
+    <Close>206.052</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-26</Date>
+    <Open>206.452</Open>
+    <High>207.272</High>
+    <Low>187.993</Low>
+    <Close>194.885</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-27</Date>
+    <Open>196.803</Open>
+    <High>196.803</High>
+    <Low>182.218</Low>
+    <Close>186.314</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-28</Date>
+    <Open>186.747</Open>
+    <High>191.772</High>
+    <Low>182.311</Low>
+    <Close>190.021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-29</Date>
+    <Open>189.061</Open>
+    <High>193.487</High>
+    <Low>186.854</Low>
+    <Close>192.979</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-30</Date>
+    <Open>192.989</Open>
+    <High>209.709</High>
+    <Low>191.482</Low>
+    <Close>209.107</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-05-31</Date>
+    <Open>208.224</Open>
+    <High>212.701</High>
+    <Low>203.884</Low>
+    <Close>206.475</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-01</Date>
+    <Open>206.094</Open>
+    <High>207.91</High>
+    <Low>188.762</Low>
+    <Close>190.787</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-02</Date>
+    <Open>191.693</Open>
+    <High>195.93</High>
+    <Low>189.302</Low>
+    <Close>193.721</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-03</Date>
+    <Open>193.721</Open>
+    <High>196.332</High>
+    <Low>185.266</Low>
+    <Close>189.41</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-04</Date>
+    <Open>189.408</Open>
+    <High>190.615</High>
+    <Low>185.705</Low>
+    <Close>188.057</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-05</Date>
+    <Open>188.061</Open>
+    <High>194.932</High>
+    <Low>186.34</Low>
+    <Close>192.719</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-06</Date>
+    <Open>193.116</Open>
+    <High>201.832</High>
+    <Low>190.824</Low>
+    <Close>197.134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-07</Date>
+    <Open>197.032</Open>
+    <High>197.436</High>
+    <Low>182.852</Low>
+    <Close>193.739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-08</Date>
+    <Open>193.952</Open>
+    <High>194.454</High>
+    <Low>186.181</Low>
+    <Close>189.477</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-09</Date>
+    <Open>188.935</Open>
+    <High>190.354</High>
+    <Low>187.165</Low>
+    <Close>188.805</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-10</Date>
+    <Open>188.958</Open>
+    <High>189.087</High>
+    <Low>177.487</Low>
+    <Close>177.855</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-11</Date>
+    <Open>178.042</Open>
+    <High>178.255</High>
+    <Low>160.724</Low>
+    <Close>162.175</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-12</Date>
+    <Open>162.192</Open>
+    <High>163.849</High>
+    <Low>149.935</Low>
+    <Close>155.074</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-13</Date>
+    <Open>155.062</Open>
+    <High>155.087</High>
+    <Low>125.993</Low>
+    <Close>129.277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-14</Date>
+    <Open>127.922</Open>
+    <High>131.93</High>
+    <Low>118.124</Low>
+    <Close>123.352</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-15</Date>
+    <Open>124.651</Open>
+    <High>128.651</High>
+    <Low>109.304</Low>
+    <Close>127.771</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-16</Date>
+    <Open>127.869</Open>
+    <High>128.064</High>
+    <Low>113.66</Low>
+    <Close>116.082</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-17</Date>
+    <Open>112.413</Open>
+    <High>119.36</High>
+    <Low>109.561</Low>
+    <Close>113.604</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-18</Date>
+    <Open>113.601</Open>
+    <High>114.938</High>
+    <Low>95.4259</Low>
+    <Close>100.249</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-19</Date>
+    <Open>100.225</Open>
+    <High>139.309</High>
+    <Low>98.472</Low>
+    <Close>119.817</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-20</Date>
+    <Open>119.817</Open>
+    <High>136.204</High>
+    <Low>112.493</Low>
+    <Close>114.944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-21</Date>
+    <Open>114.89</Open>
+    <High>122.871</High>
+    <Low>113.73</Low>
+    <Close>117.076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-22</Date>
+    <Open>117.072</Open>
+    <High>118.584</High>
+    <Low>108.672</Low>
+    <Close>110.247</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-23</Date>
+    <Open>110.228</Open>
+    <High>142.387</High>
+    <Low>108.302</Low>
+    <Close>115.317</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-24</Date>
+    <Open>115.341</Open>
+    <High>135.976</High>
+    <Low>114.252</Low>
+    <Close>127.299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-25</Date>
+    <Open>127.257</Open>
+    <High>128.127</High>
+    <Low>121.324</Low>
+    <Close>127.696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-26</Date>
+    <Open>127.52</Open>
+    <High>129.756</High>
+    <Low>124.142</Low>
+    <Close>126.179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-27</Date>
+    <Open>126.258</Open>
+    <High>136.615</High>
+    <Low>119.638</Low>
+    <Close>122.291</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-28</Date>
+    <Open>122.33</Open>
+    <High>127.86</High>
+    <Low>118.543</Low>
+    <Close>119.591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-29</Date>
+    <Open>119.591</Open>
+    <High>123.648</High>
+    <Low>113.981</Low>
+    <Close>115.388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-06-30</Date>
+    <Open>115.385</Open>
+    <High>116.025</High>
+    <Low>104.718</Low>
+    <Close>105.865</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-01</Date>
+    <Open>105.828</Open>
+    <High>115.821</High>
+    <Low>105.379</Low>
+    <Close>109.54</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-02</Date>
+    <Open>109.561</Open>
+    <High>110.32</High>
+    <Low>106.115</Low>
+    <Close>110.12</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-03</Date>
+    <Open>110.12</Open>
+    <High>111.811</High>
+    <Low>106.92</Low>
+    <Close>110.709</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-04</Date>
+    <Open>110.866</Open>
+    <High>115.761</High>
+    <Low>106.843</Low>
+    <Close>115.441</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-05</Date>
+    <Open>115.463</Open>
+    <High>119.061</High>
+    <Low>111.387</Low>
+    <Close>117.547</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-06</Date>
+    <Open>117.791</Open>
+    <High>118.486</High>
+    <Low>113.886</Low>
+    <Close>117.569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-07</Date>
+    <Open>117.548</Open>
+    <High>124.563</High>
+    <Low>117.407</Low>
+    <Close>124.365</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-08</Date>
+    <Open>124.391</Open>
+    <High>127.394</High>
+    <Low>120.323</Low>
+    <Close>123.622</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-09</Date>
+    <Open>123.685</Open>
+    <High>139.323</High>
+    <Low>121.327</Low>
+    <Close>122.429</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-10</Date>
+    <Open>122.365</Open>
+    <High>124.398</High>
+    <Low>116.157</Low>
+    <Close>117.917</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-11</Date>
+    <Open>117.592</Open>
+    <High>133.893</High>
+    <Low>112.12</Low>
+    <Close>112.248</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-12</Date>
+    <Open>112.801</Open>
+    <High>117.22</High>
+    <Low>104.751</Low>
+    <Close>107.186</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-13</Date>
+    <Open>107.144</Open>
+    <High>109.43</High>
+    <Low>101.92</Low>
+    <Close>108.883</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-14</Date>
+    <Open>108.883</Open>
+    <High>120.331</High>
+    <Low>107.976</Low>
+    <Close>118.183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-15</Date>
+    <Open>118.17</Open>
+    <High>133.931</High>
+    <Low>117.879</Low>
+    <Close>124.871</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-16</Date>
+    <Open>124.778</Open>
+    <High>138.722</High>
+    <Low>118.841</Low>
+    <Close>133.183</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-17</Date>
+    <Open>133.195</Open>
+    <High>138.661</High>
+    <Low>128.402</Low>
+    <Close>133.752</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-18</Date>
+    <Open>133.753</Open>
+    <High>151.322</High>
+    <Low>132.56</Low>
+    <Close>146.487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-19</Date>
+    <Open>146.474</Open>
+    <High>160.555</High>
+    <Low>146.129</Low>
+    <Close>157.845</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-20</Date>
+    <Open>156.944</Open>
+    <High>163.449</High>
+    <Low>147.819</Low>
+    <Close>153.176</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-21</Date>
+    <Open>153.211</Open>
+    <High>165.485</High>
+    <Low>144.032</Low>
+    <Close>153.986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-22</Date>
+    <Open>153.974</Open>
+    <High>157.509</High>
+    <Low>147.044</Low>
+    <Close>148.432</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-23</Date>
+    <Open>148.432</Open>
+    <High>153.399</High>
+    <Low>146.292</Low>
+    <Close>146.921</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-24</Date>
+    <Open>146.938</Open>
+    <High>156.021</High>
+    <Low>146.898</Low>
+    <Close>156.021</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-25</Date>
+    <Open>156.1</Open>
+    <High>157.842</High>
+    <Low>143.273</Low>
+    <Close>146.519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-26</Date>
+    <Open>146.386</Open>
+    <High>147.501</High>
+    <Low>133.225</Low>
+    <Close>134.829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-27</Date>
+    <Open>134.792</Open>
+    <High>154.316</High>
+    <Low>133.52</Low>
+    <Close>153.426</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-28</Date>
+    <Open>153.427</Open>
+    <High>168.484</High>
+    <Low>152.779</Low>
+    <Close>165.852</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-29</Date>
+    <Open>166.107</Open>
+    <High>166.15</High>
+    <Low>158.542</Low>
+    <Close>163.968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-30</Date>
+    <Open>163.968</Open>
+    <High>167.556</High>
+    <Low>161.399</Low>
+    <Close>162.616</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-07-31</Date>
+    <Open>162.616</Open>
+    <High>165.899</High>
+    <Low>161.588</Low>
+    <Close>163.861</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-01</Date>
+    <Open>163.861</Open>
+    <High>165.62</High>
+    <Low>155.395</Low>
+    <Close>156.566</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-02</Date>
+    <Open>156.568</Open>
+    <High>160.755</High>
+    <Low>150.838</Low>
+    <Close>158.497</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-03</Date>
+    <Open>158.48</Open>
+    <High>161.791</High>
+    <Low>154.944</Low>
+    <Close>158.722</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-04</Date>
+    <Open>158.702</Open>
+    <High>160.811</High>
+    <Low>152.094</Low>
+    <Close>154.984</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-05</Date>
+    <Open>154.962</Open>
+    <High>163.698</High>
+    <Low>154.183</Low>
+    <Close>162.802</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-06</Date>
+    <Open>162.785</Open>
+    <High>165.924</High>
+    <Low>162.559</Low>
+    <Close>164.888</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-07</Date>
+    <Open>164.888</Open>
+    <High>165.372</High>
+    <Low>160.831</Low>
+    <Close>164.459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-08</Date>
+    <Open>164.459</Open>
+    <High>171.668</High>
+    <Low>163.16</Low>
+    <Close>169.127</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-09</Date>
+    <Open>169.126</Open>
+    <High>170.261</High>
+    <Low>160.511</Low>
+    <Close>163.179</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-10</Date>
+    <Open>163.18</Open>
+    <High>183.306</High>
+    <Low>160.168</Low>
+    <Close>178.714</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-11</Date>
+    <Open>178.714</Open>
+    <High>187.415</High>
+    <Low>178.603</Low>
+    <Close>182.153</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-12</Date>
+    <Open>182.153</Open>
+    <High>185.969</High>
+    <Low>179.565</Low>
+    <Close>184.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-13</Date>
+    <Open>184.302</Open>
+    <High>193.421</High>
+    <Low>183.936</Low>
+    <Close>191.2</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-14</Date>
+    <Open>191.178</Open>
+    <High>192.821</High>
+    <Low>183.367</Low>
+    <Close>185.894</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-15</Date>
+    <Open>185.897</Open>
+    <High>190.18</High>
+    <Low>180.458</Low>
+    <Close>180.891</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-16</Date>
+    <Open>180.892</Open>
+    <High>182.051</High>
+    <Low>177.185</Low>
+    <Close>178.067</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-17</Date>
+    <Open>178.067</Open>
+    <High>185.124</High>
+    <Low>173.405</Low>
+    <Close>175.277</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-18</Date>
+    <Open>175.277</Open>
+    <High>196.166</High>
+    <Low>173.646</Low>
+    <Close>195.285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-19</Date>
+    <Open>195.796</Open>
+    <High>204.793</High>
+    <Low>178.799</Low>
+    <Close>178.799</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-20</Date>
+    <Open>178.673</Open>
+    <High>181.622</High>
+    <Low>160.526</Low>
+    <Close>161.999</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-21</Date>
+    <Open>162.128</Open>
+    <High>169.339</High>
+    <Low>162.007</Low>
+    <Close>168.791</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-22</Date>
+    <Open>168.762</Open>
+    <High>168.762</High>
+    <Low>159.767</Low>
+    <Close>160.867</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-23</Date>
+    <Open>160.867</Open>
+    <High>166.013</High>
+    <Low>160.866</Low>
+    <Close>164.703</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-24</Date>
+    <Open>164.702</Open>
+    <High>169.114</High>
+    <Low>161.235</Low>
+    <Close>167.236</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-25</Date>
+    <Open>167.235</Open>
+    <High>170.076</High>
+    <Low>165.63</Low>
+    <Close>168.963</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-26</Date>
+    <Open>168.962</Open>
+    <High>169.122</High>
+    <Low>155.942</Low>
+    <Close>157.111</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-27</Date>
+    <Open>157.048</Open>
+    <High>157.186</High>
+    <Low>149.087</Low>
+    <Close>150.094</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-28</Date>
+    <Open>150.13</Open>
+    <High>152.773</High>
+    <Low>149.744</Low>
+    <Close>152.024</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-29</Date>
+    <Open>151.925</Open>
+    <High>157.859</High>
+    <Low>146.478</Low>
+    <Close>157.165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-30</Date>
+    <Open>157.384</Open>
+    <High>161.813</High>
+    <Low>148.231</Low>
+    <Close>153.842</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-08-31</Date>
+    <Open>153.809</Open>
+    <High>160.295</High>
+    <Low>152.601</Low>
+    <Close>155.954</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-01</Date>
+    <Open>156.025</Open>
+    <High>158.162</High>
+    <Low>152.406</Low>
+    <Close>156.134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-02</Date>
+    <Open>156.162</Open>
+    <High>161.752</High>
+    <Low>154.831</Low>
+    <Close>156.093</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-03</Date>
+    <Open>156.155</Open>
+    <High>156.481</High>
+    <Low>152.46</Low>
+    <Close>153.323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-04</Date>
+    <Open>153.322</Open>
+    <High>158.163</High>
+    <Low>152.532</Low>
+    <Close>156.069</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-05</Date>
+    <Open>156.069</Open>
+    <High>158.164</High>
+    <Low>154.4</Low>
+    <Close>157.376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-06</Date>
+    <Open>157.39</Open>
+    <High>164.648</High>
+    <Low>154.201</Low>
+    <Close>154.458</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-07</Date>
+    <Open>154.648</Open>
+    <High>158.816</High>
+    <Low>145.526</Low>
+    <Close>158.32</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-08</Date>
+    <Open>158.266</Open>
+    <High>160.844</High>
+    <Low>155.462</Low>
+    <Close>160.487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-09</Date>
+    <Open>160.49</Open>
+    <High>169.637</High>
+    <Low>160.301</Low>
+    <Close>167.351</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-10</Date>
+    <Open>167.358</Open>
+    <High>171.2</High>
+    <Low>167.275</Low>
+    <Close>170.62</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-11</Date>
+    <Open>170.623</Open>
+    <High>176.234</High>
+    <Low>170.348</Low>
+    <Close>170.533</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-12</Date>
+    <Open>170.535</Open>
+    <High>173.182</High>
+    <Low>167.153</Low>
+    <Close>168.355</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-13</Date>
+    <Open>168.373</Open>
+    <High>169.928</High>
+    <Low>152.333</Low>
+    <Close>152.52</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-14</Date>
+    <Open>152.635</Open>
+    <High>155.1</High>
+    <Low>149.268</Low>
+    <Close>153.115</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-15</Date>
+    <Open>153.025</Open>
+    <High>156.627</High>
+    <Low>140.786</Low>
+    <Close>141.582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-16</Date>
+    <Open>141.428</Open>
+    <High>141.428</High>
+    <Low>134.789</Low>
+    <Close>136.091</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-17</Date>
+    <Open>136.086</Open>
+    <High>138.868</High>
+    <Low>134.735</Low>
+    <Close>137.462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-18</Date>
+    <Open>137.505</Open>
+    <High>139.635</High>
+    <Low>126.284</Low>
+    <Close>126.868</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-19</Date>
+    <Open>126.999</Open>
+    <High>132.68</High>
+    <Low>122.823</Low>
+    <Close>130.375</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-20</Date>
+    <Open>130.449</Open>
+    <High>132.804</High>
+    <Low>125.503</Low>
+    <Close>125.803</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-21</Date>
+    <Open>125.674</Open>
+    <High>131.1</High>
+    <Low>120.7</Low>
+    <Close>121.113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-22</Date>
+    <Open>121.113</Open>
+    <High>125.707</High>
+    <Low>118.129</Low>
+    <Close>124.936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-23</Date>
+    <Open>124.424</Open>
+    <High>127.901</High>
+    <Low>120.403</Low>
+    <Close>123.519</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-24</Date>
+    <Open>123.54</Open>
+    <High>125.759</High>
+    <Low>122.896</Low>
+    <Close>124.218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-25</Date>
+    <Open>124.164</Open>
+    <High>124.326</High>
+    <Low>119.404</Low>
+    <Close>119.684</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-26</Date>
+    <Open>119.736</Open>
+    <High>123.545</High>
+    <Low>118.809</Low>
+    <Close>122.456</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-27</Date>
+    <Open>122.439</Open>
+    <High>135.84</High>
+    <Low>121.835</Low>
+    <Close>122.461</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-28</Date>
+    <Open>122.533</Open>
+    <High>124.444</High>
+    <Low>118.728</Low>
+    <Close>120.383</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-29</Date>
+    <Open>120.363</Open>
+    <High>121.013</High>
+    <Low>116.326</Low>
+    <Close>119.294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-09-30</Date>
+    <Open>119.359</Open>
+    <High>122.691</High>
+    <Low>118.666</Low>
+    <Close>120.46</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-01</Date>
+    <Open>120.411</Open>
+    <High>120.802</High>
+    <Low>118.454</Low>
+    <Close>118.546</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-02</Date>
+    <Open>118.546</Open>
+    <High>118.625</High>
+    <Low>115.212</Low>
+    <Close>116.829</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-03</Date>
+    <Open>116.81</Open>
+    <High>119.47</High>
+    <Low>114.798</Low>
+    <Close>118.76</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-04</Date>
+    <Open>118.782</Open>
+    <High>122.167</High>
+    <Low>118.686</Low>
+    <Close>121.487</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-05</Date>
+    <Open>121.477</Open>
+    <High>121.572</High>
+    <Low>113.881</Low>
+    <Close>115.795</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-06</Date>
+    <Open>115.739</Open>
+    <High>117.96</High>
+    <Low>114.737</Low>
+    <Close>115.106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-07</Date>
+    <Open>114.962</Open>
+    <High>115.719</High>
+    <Low>112.726</Low>
+    <Close>113.332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-08</Date>
+    <Open>113.339</Open>
+    <High>114.06</High>
+    <Low>112.507</Low>
+    <Close>112.675</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-09</Date>
+    <Open>112.227</Open>
+    <High>113.948</High>
+    <Low>111.568</Low>
+    <Close>113.24</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-10</Date>
+    <Open>113.214</Open>
+    <High>113.675</High>
+    <Low>110.277</Low>
+    <Close>112.16</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-11</Date>
+    <Open>112.196</Open>
+    <High>112.667</High>
+    <Low>108.05</Low>
+    <Close>108.647</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-12</Date>
+    <Open>108.66</Open>
+    <High>110.749</High>
+    <Low>108.215</Low>
+    <Close>110.445</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-13</Date>
+    <Open>110.489</Open>
+    <High>110.798</High>
+    <Low>102.629</Low>
+    <Close>109.532</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-14</Date>
+    <Open>109.513</Open>
+    <High>113.354</High>
+    <Low>108.254</Low>
+    <Close>109.99</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-15</Date>
+    <Open>109.996</Open>
+    <High>110.909</High>
+    <Low>108.143</Low>
+    <Close>108.88</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-16</Date>
+    <Open>108.847</Open>
+    <High>110.755</High>
+    <Low>107.939</Low>
+    <Close>109.361</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-17</Date>
+    <Open>109.361</Open>
+    <High>112.986</High>
+    <Low>109.359</Low>
+    <Close>112.22</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-18</Date>
+    <Open>112.22</Open>
+    <High>113.137</High>
+    <Low>109.342</Low>
+    <Close>110.29</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-19</Date>
+    <Open>110.298</Open>
+    <High>110.436</High>
+    <Low>108.713</Low>
+    <Close>109.062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-20</Date>
+    <Open>109.053</Open>
+    <High>110.018</High>
+    <Low>107.29</Low>
+    <Close>108.229</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-21</Date>
+    <Open>108.199</Open>
+    <High>109.775</High>
+    <Low>105.552</Low>
+    <Close>109.299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-22</Date>
+    <Open>109.315</Open>
+    <High>112.521</High>
+    <Low>109.021</Low>
+    <Close>110.205</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-23</Date>
+    <Open>110.22</Open>
+    <High>111.476</High>
+    <Low>109.112</Low>
+    <Close>111.438</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-24</Date>
+    <Open>111.447</Open>
+    <High>115.022</High>
+    <Low>111.447</Low>
+    <Close>113.079</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-25</Date>
+    <Open>113.063</Open>
+    <High>125.888</High>
+    <Low>112.618</Low>
+    <Close>122.297</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-26</Date>
+    <Open>122.31</Open>
+    <High>130.893</High>
+    <Low>121.074</Low>
+    <Close>127.122</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-27</Date>
+    <Open>126.938</Open>
+    <High>129.491</High>
+    <Low>124.372</Low>
+    <Close>125.174</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-28</Date>
+    <Open>125.17</Open>
+    <High>127.961</High>
+    <Low>123.077</Low>
+    <Close>127.349</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-29</Date>
+    <Open>127.572</Open>
+    <High>133.333</High>
+    <Low>127.37</Low>
+    <Close>131.159</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-30</Date>
+    <Open>131.162</Open>
+    <High>132.467</High>
+    <Low>127.902</Low>
+    <Close>128.374</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-10-31</Date>
+    <Open>128.453</Open>
+    <High>130.703</High>
+    <Low>126.17</Low>
+    <Close>126.87</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-01</Date>
+    <Open>126.873</Open>
+    <High>128.755</High>
+    <Low>118.126</Low>
+    <Close>119.059</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-02</Date>
+    <Open>119.065</Open>
+    <High>120.344</High>
+    <Low>112.77</Low>
+    <Close>113.05</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-03</Date>
+    <Open>113.114</Open>
+    <High>117.728</High>
+    <Low>113.077</Low>
+    <Close>115.003</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-04</Date>
+    <Open>115.026</Open>
+    <High>124.001</High>
+    <Low>114.672</Low>
+    <Close>123.741</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-05</Date>
+    <Open>123.747</Open>
+    <High>124.841</High>
+    <Low>120.498</Low>
+    <Close>121.674</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-06</Date>
+    <Open>121.636</Open>
+    <High>122.701</High>
+    <Low>119.409</Low>
+    <Close>119.698</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-07</Date>
+    <Open>119.606</Open>
+    <High>120.414</High>
+    <Low>115.816</Low>
+    <Close>116.627</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-08</Date>
+    <Open>116.368</Open>
+    <High>117.807</High>
+    <Low>95.2638</Low>
+    <Close>99.5012</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-09</Date>
+    <Open>99.5769</Open>
+    <High>101.806</High>
+    <Low>82.659</Low>
+    <Close>85.4206</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-10</Date>
+    <Open>85.4136</Open>
+    <High>105.203</High>
+    <Low>83.3028</Low>
+    <Close>98.414</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-11</Date>
+    <Open>98.4181</Open>
+    <High>110.327</High>
+    <Low>89.6123</Low>
+    <Close>94.4591</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-12</Date>
+    <Open>94.3549</Open>
+    <High>96.2789</High>
+    <Low>90.9191</Low>
+    <Close>91.9595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-13</Date>
+    <Open>91.8199</Open>
+    <High>93.068</High>
+    <Low>87.8979</Low>
+    <Close>88.9568</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-14</Date>
+    <Open>88.9526</Open>
+    <High>99.0199</High>
+    <Low>85.6373</Low>
+    <Close>89.3054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-15</Date>
+    <Open>89.2943</Open>
+    <High>94.7033</High>
+    <Low>89.2943</Low>
+    <Close>91.1788</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-16</Date>
+    <Open>91.1999</Open>
+    <High>92.683</High>
+    <Low>86.3389</Low>
+    <Close>88.237</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-17</Date>
+    <Open>88.2508</Open>
+    <High>96.4455</High>
+    <Low>87.797</Low>
+    <Close>89.0606</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-18</Date>
+    <Open>89.0322</Open>
+    <High>92.8118</High>
+    <Low>87.9988</Low>
+    <Close>88.2422</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-19</Date>
+    <Open>88.2437</Open>
+    <High>90.7172</High>
+    <Low>87.7946</Low>
+    <Close>89.8859</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-20</Date>
+    <Open>89.9439</Open>
+    <High>90.8034</High>
+    <Low>82.4377</Low>
+    <Close>83.0076</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-21</Date>
+    <Open>83.0086</Open>
+    <High>84.2369</High>
+    <Low>79.4972</Low>
+    <Close>81.2044</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-22</Date>
+    <Open>81.1776</Open>
+    <High>81.7469</High>
+    <Low>76.8595</Low>
+    <Close>79.6909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-23</Date>
+    <Open>79.6663</Open>
+    <High>82.8585</High>
+    <Low>79.4132</Low>
+    <Close>82.2869</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-24</Date>
+    <Open>82.2857</Open>
+    <High>85.47</High>
+    <Low>82.2807</Low>
+    <Close>84.8203</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-25</Date>
+    <Open>84.7821</Open>
+    <High>84.8177</High>
+    <Low>81.917</Low>
+    <Close>84.3014</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-26</Date>
+    <Open>84.2024</Open>
+    <High>86.4239</High>
+    <Low>83.8575</Low>
+    <Close>84.5804</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-27</Date>
+    <Open>84.5531</Open>
+    <High>86.4827</High>
+    <Low>84.3653</Low>
+    <Close>85.1</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-28</Date>
+    <Open>85.1102</Open>
+    <High>85.2447</High>
+    <Low>80.8857</Low>
+    <Close>81.8972</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-29</Date>
+    <Open>81.8718</Open>
+    <High>85.4119</High>
+    <Low>81.2056</Low>
+    <Close>85.4119</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-11-30</Date>
+    <Open>85.3624</Open>
+    <High>92.0413</High>
+    <Low>84.7273</Low>
+    <Close>91.8739</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-01</Date>
+    <Open>91.8487</Open>
+    <High>98.2196</High>
+    <Low>89.061</Low>
+    <Close>91.607</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-02</Date>
+    <Open>91.3829</Open>
+    <High>96.1229</High>
+    <Low>90.1138</Low>
+    <Close>93.6879</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-03</Date>
+    <Open>93.7058</Open>
+    <High>95.0595</High>
+    <Low>89.8796</Low>
+    <Close>89.8816</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-04</Date>
+    <Open>89.875</Open>
+    <High>96.2655</High>
+    <Low>89.6234</Low>
+    <Close>91.6955</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-05</Date>
+    <Open>91.6671</Open>
+    <High>96.7086</High>
+    <Low>89.867</Low>
+    <Close>90.5337</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-06</Date>
+    <Open>90.5387</Open>
+    <High>92.6627</High>
+    <Low>89.9828</Low>
+    <Close>90.3373</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-07</Date>
+    <Open>90.3065</Open>
+    <High>94.1311</High>
+    <Low>88.0991</Low>
+    <Close>88.5221</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-08</Date>
+    <Open>88.5183</Open>
+    <High>109.858</High>
+    <Low>88.2184</Low>
+    <Close>91.8051</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-09</Date>
+    <Open>91.8051</Open>
+    <High>92.2826</High>
+    <Low>89.5594</Low>
+    <Close>89.6004</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-10</Date>
+    <Open>89.6153</Open>
+    <High>91.6074</High>
+    <Low>88.6974</Low>
+    <Close>89.6854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-11</Date>
+    <Open>89.6947</Open>
+    <High>90.8972</High>
+    <Low>88.7723</Low>
+    <Close>89.0227</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-12</Date>
+    <Open>89.0181</Open>
+    <High>89.9176</High>
+    <Low>87.2267</Low>
+    <Close>89.6191</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-13</Date>
+    <Open>89.6461</Open>
+    <High>94.6072</High>
+    <Low>88.0156</Low>
+    <Close>92.9301</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-14</Date>
+    <Open>92.9279</Open>
+    <High>96.2838</High>
+    <Low>92.2847</Low>
+    <Close>92.7986</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-15</Date>
+    <Open>92.7869</Open>
+    <High>92.8652</High>
+    <Low>89.6344</Low>
+    <Close>89.9968</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-16</Date>
+    <Open>89.9663</Open>
+    <High>90.2798</High>
+    <Low>83.3092</Low>
+    <Close>83.5007</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-17</Date>
+    <Open>83.0092</Open>
+    <High>85.7084</High>
+    <Low>81.6931</Low>
+    <Close>85.2411</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-18</Date>
+    <Open>85.2421</Open>
+    <High>85.9755</High>
+    <Low>84.4423</Low>
+    <Close>85.623</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-19</Date>
+    <Open>85.6901</Open>
+    <High>92.2974</High>
+    <Low>84.2776</Low>
+    <Close>84.5488</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-20</Date>
+    <Open>84.5947</Open>
+    <High>88.4213</High>
+    <Low>84.267</Low>
+    <Close>87.0689</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-21</Date>
+    <Open>87.1089</Open>
+    <High>88.1055</High>
+    <Low>85.829</Low>
+    <Close>86.6597</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-22</Date>
+    <Open>86.58</Open>
+    <High>87.685</High>
+    <Low>84.7377</Low>
+    <Close>87.473</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-23</Date>
+    <Open>87.4854</Open>
+    <High>88.7354</High>
+    <Low>86.4655</Low>
+    <Close>86.6882</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-24</Date>
+    <Open>86.6752</Open>
+    <High>89.5162</High>
+    <Low>86.2779</Low>
+    <Close>86.6573</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-25</Date>
+    <Open>86.6999</Open>
+    <High>87.56</High>
+    <Low>85.5689</Low>
+    <Close>86.5529</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-26</Date>
+    <Open>86.5525</Open>
+    <High>87.0804</High>
+    <Low>85.4915</Low>
+    <Close>86.0357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-27</Date>
+    <Open>86.0671</Open>
+    <High>88.1919</High>
+    <Low>84.5643</Low>
+    <Close>85.1478</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-28</Date>
+    <Open>85.1207</Open>
+    <High>86.5836</High>
+    <Low>83.0673</Low>
+    <Close>83.2476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-29</Date>
+    <Open>83.2945</Open>
+    <High>85.14</High>
+    <Low>82.9425</Low>
+    <Close>84.0223</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-30</Date>
+    <Open>84.0269</Open>
+    <High>84.621</High>
+    <Low>82.9233</Low>
+    <Close>84.096</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2022-12-31</Date>
+    <Open>84.1477</Open>
+    <High>86.8886</High>
+    <Low>81.8128</Low>
+    <Close>86.1583</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-01</Date>
+    <Open>84.924</Open>
+    <High>86.048</High>
+    <Low>82.3036</Low>
+    <Close>83.5897</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-02</Date>
+    <Open>83.614</Open>
+    <High>87.4165</High>
+    <Low>82.7849</Low>
+    <Close>83.5909</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-03</Date>
+    <Open>83.6202</Open>
+    <High>86.1512</High>
+    <Low>82.5011</Low>
+    <Close>83.3108</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-04</Date>
+    <Open>83.2448</Open>
+    <High>91.9233</High>
+    <Low>83.0791</Low>
+    <Close>86.1539</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-05</Date>
+    <Open>86.1789</Open>
+    <High>86.9464</High>
+    <Low>85.4774</Low>
+    <Close>85.916</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-06</Date>
+    <Open>85.9352</Open>
+    <High>88.1818</High>
+    <Low>85.1855</Low>
+    <Close>87.3958</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-07</Date>
+    <Open>87.3933</Open>
+    <High>88.0526</High>
+    <Low>86.4872</Low>
+    <Close>87.4299</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-08</Date>
+    <Open>87.3397</Open>
+    <High>88.1553</High>
+    <Low>86.7244</Low>
+    <Close>87.8784</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-09</Date>
+    <Open>87.8865</Open>
+    <High>98.0859</High>
+    <Low>87.8837</Low>
+    <Close>97.0261</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-10</Date>
+    <Open>97.127</Open>
+    <High>97.8294</High>
+    <Low>87.505</Low>
+    <Close>92.5173</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-11</Date>
+    <Open>92.3748</Open>
+    <High>93.632</High>
+    <Low>89.7129</Low>
+    <Close>93.0651</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-12</Date>
+    <Open>93.0089</Open>
+    <High>100.403</High>
+    <Low>92.1615</Low>
+    <Close>99.4989</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-13</Date>
+    <Open>99.7717</Open>
+    <High>102.993</High>
+    <Low>95.453</Low>
+    <Close>100.285</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-14</Date>
+    <Open>100.972</Open>
+    <High>110.815</High>
+    <Low>99.5855</Low>
+    <Close>106.062</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-15</Date>
+    <Open>106.031</Open>
+    <High>109.574</High>
+    <Low>102.256</Low>
+    <Close>106.569</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-16</Date>
+    <Open>106.606</Open>
+    <High>109.788</High>
+    <Low>102.578</Low>
+    <Close>108.696</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-17</Date>
+    <Open>108.211</Open>
+    <High>108.892</High>
+    <Low>104.691</Low>
+    <Close>106.436</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-18</Date>
+    <Open>106.346</Open>
+    <High>112.255</High>
+    <Low>101.117</Low>
+    <Close>102.14</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-19</Date>
+    <Open>102.3</Open>
+    <High>106.913</High>
+    <Low>100.399</Low>
+    <Close>102.368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-20</Date>
+    <Open>102.446</Open>
+    <High>109.58</High>
+    <Low>100.639</Low>
+    <Close>108.163</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-21</Date>
+    <Open>108.224</Open>
+    <High>111.431</High>
+    <Low>105.207</Low>
+    <Close>108.941</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-22</Date>
+    <Open>108.739</Open>
+    <High>109.306</High>
+    <Low>104.89</Low>
+    <Close>107.951</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-23</Date>
+    <Open>107.835</Open>
+    <High>109.439</High>
+    <Low>106.72</Low>
+    <Close>108.294</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-24</Date>
+    <Open>108.336</Open>
+    <High>108.557</High>
+    <Low>101.072</Low>
+    <Close>102.404</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-25</Date>
+    <Open>102.404</Open>
+    <High>106.242</High>
+    <Low>100.52</Low>
+    <Close>105.994</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-26</Date>
+    <Open>106.014</Open>
+    <High>106.696</High>
+    <Low>103.065</Low>
+    <Close>105.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-27</Date>
+    <Open>105.847</Open>
+    <High>106.433</High>
+    <Low>102.21</Low>
+    <Close>104.932</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-28</Date>
+    <Open>104.771</Open>
+    <High>107.319</High>
+    <Low>102.036</Low>
+    <Close>104.282</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-29</Date>
+    <Open>104.019</Open>
+    <High>115.515</High>
+    <Low>103.744</Low>
+    <Close>113.388</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-30</Date>
+    <Open>113.622</Open>
+    <High>120.416</High>
+    <Low>107.587</Low>
+    <Close>108.5</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-01-31</Date>
+    <Open>108.314</Open>
+    <High>117.409</High>
+    <Low>108.314</Low>
+    <Close>114.106</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-01</Date>
+    <Open>113.95</Open>
+    <High>125.574</High>
+    <Low>112.327</Low>
+    <Close>120.794</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-02</Date>
+    <Open>120.83</Open>
+    <High>127.162</High>
+    <Low>119.145</Low>
+    <Close>119.657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-03</Date>
+    <Open>118.073</Open>
+    <High>121.16</High>
+    <Low>116.928</Low>
+    <Close>119.981</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-04</Date>
+    <Open>120.075</Open>
+    <High>120.267</High>
+    <Low>118.245</Low>
+    <Close>119.738</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-05</Date>
+    <Open>119.77</Open>
+    <High>120.341</High>
+    <Low>114.959</Low>
+    <Close>117.558</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-06</Date>
+    <Open>117.594</Open>
+    <High>119.456</High>
+    <Low>115.904</Low>
+    <Close>118.196</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-07</Date>
+    <Open>118.229</Open>
+    <High>120.372</High>
+    <Low>115.783</Low>
+    <Close>120.372</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-08</Date>
+    <Open>120.289</Open>
+    <High>122.991</High>
+    <Low>120.215</Low>
+    <Close>120.251</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-09</Date>
+    <Open>120.788</Open>
+    <High>120.946</High>
+    <Low>108.896</Low>
+    <Close>109.983</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-10</Date>
+    <Open>110.007</Open>
+    <High>113.351</High>
+    <Low>108.588</Low>
+    <Close>109.376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-11</Date>
+    <Open>109.53</Open>
+    <High>112.165</High>
+    <Low>108.196</Low>
+    <Close>110.666</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-12</Date>
+    <Open>110.679</Open>
+    <High>112.16</High>
+    <Low>106.242</Low>
+    <Close>107.886</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-13</Date>
+    <Open>107.878</Open>
+    <High>116.966</High>
+    <Low>104.14</Low>
+    <Close>105.757</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-14</Date>
+    <Open>105.789</Open>
+    <High>110.618</High>
+    <Low>105.757</Low>
+    <Close>109.854</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-15</Date>
+    <Open>109.952</Open>
+    <High>115.029</High>
+    <Low>108.781</Low>
+    <Close>114.158</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-16</Date>
+    <Open>114.118</Open>
+    <High>118.664</High>
+    <Low>108.618</Low>
+    <Close>108.77</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-17</Date>
+    <Open>108.754</Open>
+    <High>112.116</High>
+    <Low>107.747</Low>
+    <Close>110.476</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-18</Date>
+    <Open>110.432</Open>
+    <High>116.092</High>
+    <Low>109.202</Low>
+    <Close>110.154</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-19</Date>
+    <Open>110.258</Open>
+    <High>118.43</High>
+    <Low>109.352</Low>
+    <Close>110.126</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-20</Date>
+    <Open>109.897</Open>
+    <High>112.735</High>
+    <Low>108.786</Low>
+    <Close>111.939</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-21</Date>
+    <Open>111.969</Open>
+    <High>115.148</High>
+    <Low>108.031</Low>
+    <Close>108.366</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-22</Date>
+    <Open>108.308</Open>
+    <High>110.186</High>
+    <Low>105.988</Low>
+    <Close>107.85</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-23</Date>
+    <Open>107.934</Open>
+    <High>110.057</High>
+    <Low>106.026</Low>
+    <Close>108.399</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-24</Date>
+    <Open>108.283</Open>
+    <High>110.123</High>
+    <Low>103.989</Low>
+    <Close>106.332</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-25</Date>
+    <Open>106.294</Open>
+    <High>108.113</High>
+    <Low>103.787</Low>
+    <Close>104.595</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-26</Date>
+    <Open>105.406</Open>
+    <High>109.38</High>
+    <Low>105.405</Low>
+    <Close>109.376</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-27</Date>
+    <Open>108.302</Open>
+    <High>112.263</High>
+    <Low>107.197</Low>
+    <Close>107.907</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-02-28</Date>
+    <Open>107.901</Open>
+    <High>108.616</High>
+    <Low>106.227</Low>
+    <Close>107.117</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-01</Date>
+    <Open>107.305</Open>
+    <High>111.094</High>
+    <Low>106.743</Low>
+    <Close>108.67</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-02</Date>
+    <Open>108.643</Open>
+    <High>109.87</High>
+    <Low>106.476</Low>
+    <Close>108.659</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-03</Date>
+    <Open>108.819</Open>
+    <High>108.908</High>
+    <Low>100.777</Low>
+    <Close>103.218</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-04</Date>
+    <Open>103.294</Open>
+    <High>104.342</High>
+    <Low>101.641</Low>
+    <Close>103.165</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-05</Date>
+    <Open>103.106</Open>
+    <High>105.588</High>
+    <Low>101.943</Low>
+    <Close>102.38</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-06</Date>
+    <Open>103.188</Open>
+    <High>105.301</High>
+    <Low>102.665</Low>
+    <Close>105.182</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-07</Date>
+    <Open>105.253</Open>
+    <High>106.377</High>
+    <Low>102.876</Low>
+    <Close>103.462</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-08</Date>
+    <Open>103.39</Open>
+    <High>104.783</High>
+    <Low>101.875</Low>
+    <Close>104.396</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-09</Date>
+    <Open>103.7</Open>
+    <High>105.186</High>
+    <Low>95.1652</Low>
+    <Close>95.2054</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-10</Date>
+    <Open>95.2698</Open>
+    <High>95.9641</High>
+    <Low>91.6319</Low>
+    <Close>95.5008</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-11</Date>
+    <Open>95.5153</Open>
+    <High>100.137</High>
+    <Low>94.3175</Low>
+    <Close>97.6109</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-12</Date>
+    <Open>97.7242</Open>
+    <High>103.653</High>
+    <Low>97.0043</Low>
+    <Close>103.134</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-13</Date>
+    <Open>103.336</Open>
+    <High>109.097</High>
+    <Low>101.07</Low>
+    <Close>108.459</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-14</Date>
+    <Open>108.46</Open>
+    <High>114.126</High>
+    <Low>106.351</Low>
+    <Close>110.101</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-15</Date>
+    <Open>110.128</Open>
+    <High>111.474</High>
+    <Low>103.003</Low>
+    <Close>105.582</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-16</Date>
+    <Open>105.584</Open>
+    <High>108.652</High>
+    <Low>104.615</Low>
+    <Close>106.935</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-17</Date>
+    <Open>106.957</Open>
+    <High>116.276</High>
+    <Low>106.157</Low>
+    <Close>115.137</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-18</Date>
+    <Open>114.689</Open>
+    <High>117.388</High>
+    <Low>112.108</Low>
+    <Close>112.878</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-19</Date>
+    <Open>112.655</Open>
+    <High>115.541</High>
+    <Low>110.435</Low>
+    <Close>113.936</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-20</Date>
+    <Open>113.95</Open>
+    <High>114.372</High>
+    <Low>109.141</Low>
+    <Close>109.843</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-21</Date>
+    <Open>109.86</Open>
+    <High>114.141</High>
+    <Low>108.23</Low>
+    <Close>112.683</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-22</Date>
+    <Open>112.655</Open>
+    <High>113.647</High>
+    <Low>105.654</Low>
+    <Close>108.942</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-23</Date>
+    <Open>108.698</Open>
+    <High>113.781</High>
+    <Low>107.968</Low>
+    <Close>112.403</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-24</Date>
+    <Open>112.35</Open>
+    <High>116.277</High>
+    <Low>99.3306</Low>
+    <Close>107.216</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-25</Date>
+    <Open>107.132</Open>
+    <High>108.608</High>
+    <Low>105.999</Low>
+    <Close>106.443</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-26</Date>
+    <Open>106.467</Open>
+    <High>109.94</High>
+    <Low>106.091</Low>
+    <Close>107.782</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-27</Date>
+    <Open>107.795</Open>
+    <High>110.505</High>
+    <Low>103.899</Low>
+    <Close>105.298</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-28</Date>
+    <Open>105.124</Open>
+    <High>119.871</High>
+    <Low>104.257</Low>
+    <Close>110.598</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-29</Date>
+    <Open>111.004</Open>
+    <High>114.665</High>
+    <Low>110.055</Low>
+    <Close>112.484</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-30</Date>
+    <Open>112.443</Open>
+    <High>113.805</High>
+    <Low>110.344</Low>
+    <Close>111.562</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-03-31</Date>
+    <Open>111.614</Open>
+    <High>114.486</High>
+    <Low>110.797</Low>
+    <Close>113.758</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-01</Date>
+    <Open>113.746</Open>
+    <High>116.791</High>
+    <Low>112.02</Low>
+    <Close>112.381</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-02</Date>
+    <Open>112.34</Open>
+    <High>115.6</High>
+    <Low>110.055</Low>
+    <Close>110.693</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-03</Date>
+    <Open>110.703</Open>
+    <High>112.788</High>
+    <Low>108.956</Low>
+    <Close>110.934</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-04</Date>
+    <Open>110.998</Open>
+    <High>115.036</High>
+    <Low>110.278</Low>
+    <Close>114.695</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-05</Date>
+    <Open>114.636</Open>
+    <High>117.91</High>
+    <Low>114.086</Low>
+    <Close>115.705</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-06</Date>
+    <Open>115.652</Open>
+    <High>116.67</High>
+    <Low>112.358</Low>
+    <Close>112.662</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-07</Date>
+    <Open>112.649</Open>
+    <High>113.106</High>
+    <Low>110.471</Low>
+    <Close>111.336</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-08</Date>
+    <Open>111.409</Open>
+    <High>113.443</High>
+    <Low>111.221</Low>
+    <Close>111.657</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-09</Date>
+    <Open>111.663</Open>
+    <High>112.241</High>
+    <Low>109.352</Low>
+    <Close>112.099</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-10</Date>
+    <Open>112.015</Open>
+    <High>113.447</High>
+    <Low>111.025</Low>
+    <Close>113.151</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-11</Date>
+    <Open>113.224</Open>
+    <High>114.421</High>
+    <Low>111.655</Low>
+    <Close>112.088</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-12</Date>
+    <Open>112.082</Open>
+    <High>112.534</High>
+    <Low>108.624</Low>
+    <Close>111.124</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-13</Date>
+    <Open>111.146</Open>
+    <High>117.297</High>
+    <Low>110.879</Low>
+    <Close>116.401</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-14</Date>
+    <Open>116.389</Open>
+    <High>132.14</High>
+    <Low>116.389</Low>
+    <Close>123.049</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-15</Date>
+    <Open>123.083</Open>
+    <High>124.463</High>
+    <Low>119.71</Low>
+    <Close>120.629</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-16</Date>
+    <Open>120.657</Open>
+    <High>123.399</High>
+    <Low>119.248</Low>
+    <Close>123.322</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-17</Date>
+    <Open>123.351</Open>
+    <High>123.558</High>
+    <Low>120.293</Low>
+    <Close>121.157</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-18</Date>
+    <Open>120.994</Open>
+    <High>121.973</High>
+    <Low>118.815</Low>
+    <Close>119.354</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-19</Date>
+    <Open>119.351</Open>
+    <High>119.576</High>
+    <Low>111.834</Low>
+    <Close>112.507</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-20</Date>
+    <Open>112.324</Open>
+    <High>112.781</High>
+    <Low>109.819</Low>
+    <Close>110.368</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-21</Date>
+    <Open>110.397</Open>
+    <High>111.0</High>
+    <Low>104.857</Low>
+    <Close>105.092</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-22</Date>
+    <Open>105.133</Open>
+    <High>108.885</High>
+    <Low>105.093</Low>
+    <Close>107.929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-23</Date>
+    <Open>109.03</Open>
+    <High>109.03</High>
+    <Low>105.587</Low>
+    <Close>106.113</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-24</Date>
+    <Open>106.081</Open>
+    <High>107.995</High>
+    <Low>104.859</Low>
+    <Close>105.132</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-25</Date>
+    <Open>105.174</Open>
+    <High>106.598</High>
+    <Low>101.515</Low>
+    <Close>106.408</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-26</Date>
+    <Open>106.389</Open>
+    <High>111.271</High>
+    <Low>103.292</Low>
+    <Close>106.439</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-27</Date>
+    <Open>106.781</Open>
+    <High>110.948</High>
+    <Low>106.55</Low>
+    <Close>109.603</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-28</Date>
+    <Open>109.558</Open>
+    <High>110.419</High>
+    <Low>106.964</Low>
+    <Close>108.621</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-29</Date>
+    <Open>108.651</Open>
+    <High>110.306</High>
+    <Low>107.327</Low>
+    <Close>108.612</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-04-30</Date>
+    <Open>108.621</Open>
+    <High>110.011</High>
+    <Low>107.671</Low>
+    <Close>108.498</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-01</Date>
+    <Open>108.465</Open>
+    <High>110.705</High>
+    <Low>103.376</Low>
+    <Close>104.371</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-02</Date>
+    <Open>104.363</Open>
+    <High>107.789</High>
+    <Low>103.423</Low>
+    <Close>107.242</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-03</Date>
+    <Open>107.291</Open>
+    <High>112.159</High>
+    <Low>105.745</Low>
+    <Close>111.929</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-04</Date>
+    <Open>112.155</Open>
+    <High>114.554</High>
+    <Low>109.865</Low>
+    <Close>112.359</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-05</Date>
+    <Open>112.601</Open>
+    <High>120.423</High>
+    <Low>109.921</Low>
+    <Close>118.323</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-06</Date>
+    <Open>118.321</Open>
+    <High>120.913</High>
+    <Low>112.63</Low>
+    <Close>115.112</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-07</Date>
+    <Open>115.256</Open>
+    <High>122.183</High>
+    <Low>114.858</Low>
+    <Close>118.483</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-08</Date>
+    <Open>118.364</Open>
+    <High>119.56</High>
+    <Low>111.898</Low>
+    <Close>112.97</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-09</Date>
+    <Open>113.044</Open>
+    <High>114.766</High>
+    <Low>112.89</Low>
+    <Close>113.654</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-10</Date>
+    <Open>114.033</Open>
+    <High>116.87</High>
+    <Low>110.297</Low>
+    <Close>113.762</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-11</Date>
+    <Open>113.794</Open>
+    <High>114.493</High>
+    <Low>108.818</Low>
+    <Close>110.019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-12</Date>
+    <Open>110.01</Open>
+    <High>111.779</High>
+    <Low>107.156</Low>
+    <Close>111.289</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-13</Date>
+    <Open>111.669</Open>
+    <High>113.018</High>
+    <Low>110.845</Low>
+    <Close>112.357</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-14</Date>
+    <Open>112.518</Open>
+    <High>114.008</High>
+    <Low>111.216</Low>
+    <Close>112.167</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-15</Date>
+    <Open>112.187</Open>
+    <High>115.291</High>
+    <Low>110.945</Low>
+    <Close>115.019</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-16</Date>
+    <Open>115.018</Open>
+    <High>116.688</High>
+    <Low>113.169</Low>
+    <Close>116.038</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-17</Date>
+    <Open>116.507</Open>
+    <High>116.637</High>
+    <Low>113.515</Low>
+    <Close>115.796</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-18</Date>
+    <Open>115.808</Open>
+    <High>115.808</High>
+    <Low>112.794</Low>
+    <Close>114.494</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-19</Date>
+    <Open>114.852</Open>
+    <High>115.833</High>
+    <Low>113.384</Low>
+    <Close>114.793</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-20</Date>
+    <Open>115.038</Open>
+    <High>116.443</High>
+    <Low>114.689</Low>
+    <Close>115.075</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-21</Date>
+    <Open>116.181</Open>
+    <High>116.359</High>
+    <Low>113.684</Low>
+    <Close>115.335</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-22</Date>
+    <Open>114.949</Open>
+    <High>115.795</High>
+    <Low>113.678</Low>
+    <Close>115.129</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-23</Date>
+    <Open>114.929</Open>
+    <High>121.111</High>
+    <Low>114.243</Low>
+    <Close>117.544</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-24</Date>
+    <Open>117.119</Open>
+    <High>118.547</High>
+    <Low>111.191</Low>
+    <Close>112.194</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-25</Date>
+    <Open>112.394</Open>
+    <High>113.892</High>
+    <Low>110.398</Low>
+    <Close>112.302</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-26</Date>
+    <Open>112.002</Open>
+    <High>113.744</High>
+    <Low>111.609</Low>
+    <Close>113.523</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-27</Date>
+    <Open>113.433</Open>
+    <High>114.231</High>
+    <Low>112.938</Low>
+    <Close>113.944</Close>
+  </Cryptocurrency>
+  <Cryptocurrency CurrencyName="GNO">
+    <Date>2023-05-28</Date>
+    <Open>113.946</Open>
+    <High>116.231</High>
+    <Low>113.934</Low>
+    <Close>116.027</Close>
+  </Cryptocurrency>
+</Root>
