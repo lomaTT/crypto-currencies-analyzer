@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using CryptoAnalyzerCore.Model;
+using Microsoft.Extensions.Configuration;
+using System.IO;
 
 namespace CryptoAnalyzerCore.DataBase;
 
@@ -7,6 +9,7 @@ namespace CryptoAnalyzerCore.DataBase;
 // It is used to configure connection to database and configure tables
 public class CurrencyDbContext : DbContext
 {
+
     // Table of currencies
     public DbSet<CurrencyEntity> Currencies { get; set; }
 
