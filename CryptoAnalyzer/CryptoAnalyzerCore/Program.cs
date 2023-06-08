@@ -10,24 +10,27 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        var configuration = new ConfigurationBuilder()
-            .SetBasePath(Directory.GetCurrentDirectory())
-            .AddYamlFile("config.yaml")
-            .Build();
+        // var configuration = new ConfigurationBuilder()
+        //     .SetBasePath(Directory.GetCurrentDirectory())
+        //     .AddYamlFile("config.yaml")
+        //     .Build();
         
         // Test XMLimport
         // XMLimport str = new XMLimport();
         // str.exportFromCSV("D:/C#-projs/crypto-currencies-analyzer/archive");
         // Console.WriteLine("Test");
         
-        var databaseService = new DatabaseService();
+        
+        var manager = new DatabaseManager();
+
+        //manager.CurrencyTypeService.AddCurrencyType(new CurrencyType(0,"Crypto"));
 
         // Test database
         // Get a currency
-        Currency currency = databaseService.GetCurrency("Ethereum");
-        Console.WriteLine($"Currency: {currency.Name}, Date: {currency.Date}, Close: {currency.Close}");
+        Currency currency = manager.CurrencyService.GetCurrency("Ethereum");
+        Console.WriteLine($"Currency: {currency.Name}, Date: {currency.Date}, Close: {currency.Close}, Type: {manager.CurrencyTypeService.GetCurrencyType(currency.TypeId).TypeName}");
         
-        databaseService.RemoveCurrency("Ethereum");
+        manager.CurrencyService.RemoveCurrency("Ethereum");
         
         // Add a new currency
         var newCurrency = new Currency
@@ -38,9 +41,9 @@ public class Program
             2600,
             2400,
             2550,
-            true
+            0
         );
 
-        databaseService.AddCurrency(newCurrency);
+        manager.CurrencyService.AddCurrency(newCurrency);
     }
 }

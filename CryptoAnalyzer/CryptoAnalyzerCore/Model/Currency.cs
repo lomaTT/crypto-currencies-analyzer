@@ -1,27 +1,36 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-namespace CryptoAnalyzerCore.Model;
-
-// This class is used to store data from XML file
-// Fields are readonly because they are not changed after initialization by the safety reasons
-public struct Currency
+namespace CryptoAnalyzerCore.Model
 {
-    public readonly string Name;
-    public readonly DateTime Date;
-    public readonly double Open;
-    public readonly double High;
-    public readonly double Low;
-    public readonly double Close;
-    public readonly bool IsCrypto;
-    
-    public Currency(string name, DateTime date, double open, double high, double low, double close, bool isCrypto)
+    public class Currency
     {
-        Name = name;
-        Date = date;
-        Open = open;
-        High = high;
-        Low = low;
-        Close = close;
-        IsCrypto = isCrypto;
+        [Key]
+        public string Name { get; set; }
+        public DateTime Date { get; set; }
+        public double Open { get; set; }
+        public double High { get; set; }
+        public double Low { get; set; }
+        public double Close { get; set; }
+        public int TypeId { get; set; }
+
+        [ForeignKey("TypeId")]
+        public CurrencyType Type { get; set; } // Navigation property for CurrencyType
+
+        public Currency()
+        {
+        }
+
+        public Currency(string name, DateTime date, double open, double high, double low, double close, int typeId)
+        {
+            Name = name;
+            Date = date;
+            Open = open;
+            High = high;
+            Low = low;
+            Close = close;
+            TypeId = typeId;
+        }
     }
 }
