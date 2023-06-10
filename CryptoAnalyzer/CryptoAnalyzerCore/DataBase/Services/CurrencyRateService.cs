@@ -16,6 +16,18 @@ public class CurrencyRateService
             }
         }
     }
+    
+    public CurrencyRate GetCurrencyRatesByCurrencyId(int id)
+    {
+        using (var dbContext = new CurrencyDbContext())
+        {
+            using (var scope = new TransactionScope(TransactionScopeOption.Required,
+                       new TransactionOptions {IsolationLevel = IsolationLevel.ReadUncommitted}))
+            {
+                return dbContext.CurrenciesRate.FirstOrDefault(e => e.BaseCurrencyId == id);
+            }
+        }
+    }
 
     public IEnumerable<CurrencyRate> GetAllCurrencyRates()
     {

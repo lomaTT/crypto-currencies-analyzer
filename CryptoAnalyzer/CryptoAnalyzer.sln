@@ -3,6 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoAnalyzerCore", "CryptoAnalyzerCore\CryptoAnalyzerCore.csproj", "{9C7DB3F3-BDEB-48D3-982D-D83CC31EF942}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoAnalyzerWebUI", "CryptoAnalyzerWebUI\CryptoAnalyzerWebUI.csproj", "{F9719D19-B372-43A7-A266-408A58420559}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9C7DB3F3-BDEB-48D3-982D-D83CC31EF942} = {9C7DB3F3-BDEB-48D3-982D-D83CC31EF942}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

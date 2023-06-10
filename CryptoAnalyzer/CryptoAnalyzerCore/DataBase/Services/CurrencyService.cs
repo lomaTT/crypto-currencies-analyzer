@@ -67,14 +67,14 @@ public class CurrencyService
         }
     }
 
-    public void RemoveCurrency(string name)
+    public void RemoveCurrency(int id)
     {
         using (var dbContext = new CurrencyDbContext())
         {
             using (var scope = new TransactionScope(TransactionScopeOption.Required,
                        new TransactionOptions {IsolationLevel = IsolationLevel.Serializable}))
             {
-                var currency = dbContext.Currencies.FirstOrDefault(c => c.Name == name);
+                var currency = dbContext.Currencies.FirstOrDefault(c => c.Id == id);
 
                 if (currency != null)
                 {
@@ -84,7 +84,7 @@ public class CurrencyService
                 }
                 else
                 {
-                    throw new Exception($"Currency with name '{name}' not found.");
+                    throw new Exception($"Currency with id '{id}' not found.");
                 }
             }
         }
