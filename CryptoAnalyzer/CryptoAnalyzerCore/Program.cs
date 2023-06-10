@@ -19,31 +19,10 @@ public class Program
         // XMLimport str = new XMLimport();
         // str.exportFromCSV("D:/C#-projs/crypto-currencies-analyzer/archive");
         // Console.WriteLine("Test");
-        
-        
+
         var manager = new DatabaseManager();
 
-        //manager.CurrencyTypeService.AddCurrencyType(new CurrencyType(0,"Crypto"));
-
-        // Test database
-        // Get a currency
-        Currency currency = manager.CurrencyService.GetCurrency("Ethereum");
-        Console.WriteLine($"Currency: {currency.Name}, Date: {currency.Date}, Close: {currency.Close}, Type: {manager.CurrencyTypeService.GetCurrencyType(currency.TypeId).TypeName}");
-        
-        manager.CurrencyService.RemoveCurrency("Ethereum");
-        
-        // Add a new currency
-        var newCurrency = new Currency
-        (
-            "Ethereum",
-            DateTime.Now,
-           2500,
-            2600,
-            2400,
-            2550,
-            0
-        );
-
-        manager.CurrencyService.AddCurrency(newCurrency);
+        manager.ClearAllData();
+        manager.FillDatabase();
     }
 }

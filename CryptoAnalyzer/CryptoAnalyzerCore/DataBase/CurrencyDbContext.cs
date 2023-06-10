@@ -12,7 +12,9 @@ public class CurrencyDbContext : DbContext
     public DbSet<Currency> Currencies { get; set; }
     public DbSet<CurrencyType> CurrencyTypes { get; set; }
     public DbSet<User> Users { get; set; }
+    public DbSet<CurrencyRate> CurrenciesRate { get; set; }
     public DbSet<Exchange> Exchanges { get; set; }
+    public DbSet<ExchangeCurrencyRate> ExchangesCurrenciesRate { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -24,6 +26,8 @@ public class CurrencyDbContext : DbContext
         modelBuilder.Entity<Currency>().ToTable("currency");
         modelBuilder.Entity<CurrencyType>().ToTable("currency_type");
         modelBuilder.Entity<User>().ToTable("user");
+        modelBuilder.Entity<CurrencyRate>().ToTable("currency_rate");
         modelBuilder.Entity<Exchange>().ToTable("exchange");
+        modelBuilder.Entity<ExchangeCurrencyRate>().ToTable("exchange_currency_rate");
     }
 }
