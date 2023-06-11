@@ -30,8 +30,13 @@ namespace CryptoAnalyzerWebUI.Controllers;
         // User CRUD Endpoints
 
         [HttpGet("users/{id}")]
+        [Authorize]
         public IActionResult GetUser(int id)
         {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            if(id != int.Parse(userId))
+                return BadRequest("You can only get your own account info");
+            
             var user = _manager.UserService.GetUser(id);
             if (user == null)
                 return NotFound();
@@ -39,23 +44,14 @@ namespace CryptoAnalyzerWebUI.Controllers;
             return Ok(user);
         }
 
-        [HttpPost("users")]
-        public IActionResult AddUser(User user)
-        {
-            try
-            {
-                _manager.UserService.AddUser(user);
-                return Ok();
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
-        }
-
         [HttpDelete("users/{id}")]
+        [Authorize]
         public IActionResult RemoveUser(int id)
         {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            if(id != int.Parse(userId))
+                return BadRequest("You can only delete your own account");
+            
             try
             {
                 _manager.UserService.RemoveUser(id);
@@ -71,12 +67,6 @@ namespace CryptoAnalyzerWebUI.Controllers;
         [Authorize]
         public IActionResult GetAllUsers()
         {
-            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-            var userName = User.FindFirst(ClaimTypes.Name)?.Value;
-            var userEmail = User.FindFirst(ClaimTypes.Email)?.Value;
-            
-            Console.WriteLine($"User id: {userId}, name: {userName}, email: {userEmail}");
-            
             var users = _manager.UserService.GetAllUsers();
             return Ok(users);
         }
@@ -94,11 +84,15 @@ namespace CryptoAnalyzerWebUI.Controllers;
         }
 
         [HttpPost("exchange-currency-rates")]
-        public IActionResult AddExchangeCurrencyRate(ExchangeCurrencyRate exchangeCurrencyRate)
+        [Authorize]
+        public IActionResult AddExchangeCurrencyRate([FromBody] ExchangeCurrencyRate model)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             try
             {
-                _manager.ExchangeCurrencyRateService.AddExchangeCurrencyRate(exchangeCurrencyRate);
+                _manager.ExchangeCurrencyRateService.AddExchangeCurrencyRate(model);
                 return Ok();
             }
             catch (Exception ex)
@@ -108,11 +102,15 @@ namespace CryptoAnalyzerWebUI.Controllers;
         }
 
         [HttpDelete("exchange-currency-rates")]
-        public IActionResult RemoveExchangeCurrencyRate(ExchangeCurrencyRate exchangeCurrencyRate)
+        [Authorize]
+        public IActionResult RemoveExchangeCurrencyRate([FromBody] ExchangeCurrencyRate model)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             try
             {
-                _manager.ExchangeCurrencyRateService.RemoveExchangeCurrencyRate(exchangeCurrencyRate);
+                _manager.ExchangeCurrencyRateService.RemoveExchangeCurrencyRate(model);
                 return Ok();
             }
             catch (Exception ex)
@@ -141,11 +139,15 @@ namespace CryptoAnalyzerWebUI.Controllers;
         }
 
         [HttpPost("currency-rates")]
-        public IActionResult AddCurrencyRate(CurrencyRate currencyRate)
+        [Authorize]
+        public IActionResult AddCurrencyRate([FromBody] CurrencyRate model)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             try
             {
-                _manager.CurrencyRateService.AddCurrencyRate(currencyRate);
+                _manager.CurrencyRateService.AddCurrencyRate(model);
                 return Ok();
             }
             catch (Exception ex)
@@ -174,11 +176,15 @@ namespace CryptoAnalyzerWebUI.Controllers;
         }
 
         [HttpPost("currencies")]
-        public IActionResult AddCurrency(Currency currency)
+        [Authorize]
+        public IActionResult AddCurrency([FromBody] Currency model)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             try
             {
-                _manager.CurrencyService.AddCurrency(currency);
+                _manager.CurrencyService.AddCurrency(model);
                 return Ok();
             }
             catch (Exception ex)
@@ -188,6 +194,7 @@ namespace CryptoAnalyzerWebUI.Controllers;
         }
 
         [HttpDelete("currencies/{id}")]
+        [Authorize]
         public IActionResult RemoveCurrency(int id)
         {
             try
@@ -221,11 +228,15 @@ namespace CryptoAnalyzerWebUI.Controllers;
         }
 
         [HttpPost("currency-types")]
-        public IActionResult AddCurrencyType(CurrencyType currencyType)
+        [Authorize]
+        public IActionResult AddCurrencyType([FromBody] CurrencyType model)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             try
             {
-                _manager.CurrencyTypeService.AddCurrencyType(currencyType);
+                _manager.CurrencyTypeService.AddCurrencyType(model);
                 return Ok();
             }
             catch (Exception ex)
@@ -261,11 +272,15 @@ namespace CryptoAnalyzerWebUI.Controllers;
         }
 
         [HttpPost("exchanges")]
-        public IActionResult AddExchange(Exchange exchange)
+        [Authorize]
+        public IActionResult AddExchange([FromBody] Exchange model)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             try
             {
-                _manager.ExchangeService.AddExchange(exchange);
+                _manager.ExchangeService.AddExchange(model);
                 return Ok();
             }
             catch (Exception ex)
@@ -275,6 +290,7 @@ namespace CryptoAnalyzerWebUI.Controllers;
         }
 
         [HttpDelete("exchanges/{id}")]
+        [Authorize]
         public IActionResult RemoveExchange(int id)
         {
             try

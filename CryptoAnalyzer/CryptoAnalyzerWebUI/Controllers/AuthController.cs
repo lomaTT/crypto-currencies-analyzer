@@ -2,6 +2,7 @@
 using CryptoAnalyzerCore.Model;
 using Microsoft.AspNetCore.Mvc;
 using CryptoAnalyzerWebUI.Authentication;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CryptoAnalyzerWebUI.Controllers;
 
@@ -21,12 +22,9 @@ public class AuthController : ControllerBase
     [HttpPost("login")]
     public IActionResult Login([FromBody] LoginRequest model)
     {
-        Console.WriteLine("Login");
-        
         if (!ModelState.IsValid)
-        {
             return BadRequest(ModelState);
-        }
+        
         // Authenticate the user and get the User object
         User user = _userService.AuthenticateUser(model.Login, model.Password);
 
@@ -44,49 +42,40 @@ public class AuthController : ControllerBase
         public string Login { get; set; }
         public string Password { get; set; }
     }
-    
-    [HttpPost("logintest")]
-    public IActionResult Login()
-    {
-        // Authenticate the user and get the User object
-        User user = _userService.AuthenticateUser("user1", "password1");
 
-        if (user != null)
-        {
-            string token = _authenticationService.GenerateJwtToken(user);
-            return Ok(new { Token = token });
-        }
-
-        return Unauthorized();
-    }
-    
     [HttpPost("logout")]
+    [Authorize]
     public IActionResult Logout()
     {
-        // Perform logout logic here, such as invalidating the token or clearing session data
-        // For example, if you're using JWT tokens, you could add the token to a blacklist or revoke it in some way
+        // Clear session data
+        HttpContext.Session.Clear();
 
         // Return a success response
         return Ok();
     }
     
+    public class RegisterRequest
+    {
+        public string Login { get; set; }
+        public string Password { get; set; }
+        public string Email { get; set; }
+    }
+    
     [HttpPost("register")]
-    public IActionResult Register(User registrationModel)
+    public IActionResult Register([FromBody] RegisterRequest model)
     {
         // Validate the registration model
         if (!ModelState.IsValid)
-        {
             return BadRequest(ModelState);
-        }
 
         // Check if the username or email already exists
-        if (_userService.IsUsernameTaken(registrationModel.Login))
+        if (_userService.IsUsernameTaken(model.Login))
         {
             ModelState.AddModelError("Login", "Username is already taken");
             return BadRequest(ModelState);
         }
 
-        if (_userService.IsEmailTaken(registrationModel.Email))
+        if (_userService.IsEmailTaken(model.Email))
         {
             ModelState.AddModelError("Email", "Email is already registered");
             return BadRequest(ModelState);
@@ -95,9 +84,9 @@ public class AuthController : ControllerBase
         // Create a new user object
         var user = new User
         {
-            Login = registrationModel.Login,
-            Email = registrationModel.Email,
-            Password = registrationModel.Password,
+            Login = model.Login,
+            Email = model.Email,
+            Password = model.Password,
             RegistrationDate = DateTime.UtcNow
         };
 
