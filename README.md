@@ -10,5 +10,5 @@ This application offers a wide range of functionality to import and export diffe
 - [ ] Implement SOAP services
 - [ ] Implement REST services
 - [ ] Add the ability to run through docker
-- [ ] Implement authentication and authorization mechanisms using JWT tokens
+- [X] Implement authentication and authorization mechanisms using JWT tokens
 - [ ] Client side as WebUI
