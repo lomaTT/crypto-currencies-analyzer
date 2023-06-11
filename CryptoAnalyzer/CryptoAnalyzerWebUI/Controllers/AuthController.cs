@@ -19,10 +19,16 @@ public class AuthController : ControllerBase
     }
     
     [HttpPost("login")]
-    public IActionResult Login(string login, string password)
+    public IActionResult Login([FromBody] LoginRequest model)
     {
+        Console.WriteLine("Login");
+        
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
         // Authenticate the user and get the User object
-        User user = _userService.AuthenticateUser(login, password);
+        User user = _userService.AuthenticateUser(model.Login, model.Password);
 
         if (user != null)
         {
@@ -31,6 +37,12 @@ public class AuthController : ControllerBase
         }
 
         return Unauthorized();
+    }
+    
+    public class LoginRequest
+    {
+        public string Login { get; set; }
+        public string Password { get; set; }
     }
     
     [HttpPost("logintest")]

@@ -1,4 +1,5 @@
 using System.Text;
+using CryptoAnalyzerWebUI.Authentication.Middleware;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 
@@ -18,9 +19,10 @@ builder.Services.AddAuthentication(options =>
         ValidateAudience = true,
         ValidateLifetime = true,
         ValidateIssuerSigningKey = true,
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("SuperSecretKey"))
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("SuperSecretKey123456789123456789"))
     };
 });
+
 
 builder.Services.AddControllersWithViews();
 
@@ -37,6 +39,17 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
 
+app.UseMiddleware<JwtTokenValidationMiddleware>();
+
+app.UseAuthentication(); // Add this line if authentication middleware is used
+
+app.UseAuthorization(); // Add this line for authorization middleware
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+    // Other endpoint mappings...
+});
 
 app.MapControllerRoute(
     name: "default",

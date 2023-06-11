@@ -1,6 +1,8 @@
-﻿using CryptoAnalyzerCore.DataBase;
+﻿using System.Security.Claims;
+using CryptoAnalyzerCore.DataBase;
 using CryptoAnalyzerCore.DataBase.Services;
 using CryptoAnalyzerCore.Model;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CryptoAnalyzerWebUI.Controllers;
@@ -66,8 +68,15 @@ namespace CryptoAnalyzerWebUI.Controllers;
         }
 
         [HttpGet("users")]
+        [Authorize]
         public IActionResult GetAllUsers()
         {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            var userName = User.FindFirst(ClaimTypes.Name)?.Value;
+            var userEmail = User.FindFirst(ClaimTypes.Email)?.Value;
+            
+            Console.WriteLine($"User id: {userId}, name: {userName}, email: {userEmail}");
+            
             var users = _manager.UserService.GetAllUsers();
             return Ok(users);
         }

@@ -24,7 +24,7 @@ public class UserService
         {
             using (var scope = new TransactionScope(TransactionScopeOption.Required, new TransactionOptions { IsolationLevel = IsolationLevel.Serializable }))
             {
-                dbContext.Users.Add(user);
+                dbContext.Users.Add(HashPassword(user));
                 dbContext.SaveChanges();
                 scope.Complete();
             }
@@ -41,7 +41,7 @@ public class UserService
 
                 if (user != null)
                 {
-                    dbContext.Users.Remove(HashPassword(user));
+                    dbContext.Users.Remove(user);
                     dbContext.SaveChanges();
                     scope.Complete();
                 }

@@ -16,7 +16,7 @@ public class AuthenticationService
     public string GenerateJwtToken(User user)
     {
         var tokenHandler = new JwtSecurityTokenHandler();
-        var key = Encoding.UTF8.GetBytes("SuperSecretKey");
+        var key = Encoding.UTF8.GetBytes("SuperSecretKey123456789123456789");
         var tokenDescriptor = new SecurityTokenDescriptor
         {
             Subject = new ClaimsIdentity(new[]
