@@ -8,7 +8,7 @@ This application offers a wide range of functionality to import and export diffe
 - [X] Implement ORM for database access
 - [X] Implement database isolation levels
 - [ ] Implement SOAP services
-- [ ] Implement REST services
+- [X] Implement REST services
 - [ ] Add the ability to run through docker
 - [X] Implement authentication and authorization mechanisms using JWT tokens
 - [ ] Client side as WebUI
